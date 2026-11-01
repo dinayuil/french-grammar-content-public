@@ -1,6 +1,8 @@
 # 公开原创题库
 
-这是应用使用的公开题库仓库。当前为合法的空题库，原创内容正在准备中；应用会显示「原创题库正在准备中」，不会把空题库当成已完成的可练习内容。
+这是应用使用的公开原创题库仓库。当前为首批内容：3 章、144 题，涵盖基础动词与存在表达、冠词、名词和形容词配合，配有讲解卡、练习与综合挑战。完整语法覆盖仍在建设中。
+
+内容已经过 AI 编写及独立 AI 复核，尚待人工法语审校；技术检查和 AI 复核不构成原创性、版权或教学质量认证。
 
 ## 清单
 
@@ -10,16 +12,20 @@
 {
   "schemaVersion": 1,
   "edition": "public",
-  "chapters": [],
-  "expectedChapterCount": 0,
-  "expectedQuestionCount": 0
+  "chapters": [
+    "chapters/pub-predication.json",
+    "chapters/pub-articles.json",
+    "chapters/pub-agreement.json"
+  ],
+  "expectedChapterCount": 3,
+  "expectedQuestionCount": 144
 }
 ```
 
 - `edition` 必须为 `public`。
 - `chapters` 是按显示顺序排列的章节 JSON 相对路径，必须位于本仓库内。
 - `expectedChapterCount` 与 `expectedQuestionCount` 必须与实际内容一致。
-- 当前合法空库为 `[]`、`0`、`0`；增加内容后同步更新两个计数。
+- 增删内容后同步更新清单和两个计数。加载器仍支持合法空库（`[]`、`0`、`0`），但本仓库的真实公开内容测试现在要求非空。
 
 ## 内容约定
 

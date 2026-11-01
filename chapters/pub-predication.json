@@ -1,0 +1,681 @@
+{
+  "id": "pub-predication",
+  "title": "基础动词与存在表达",
+  "titleFr": "Être, avoir et l'existence",
+  "cards": [
+    {
+      "id": "pub-predication-c1",
+      "title": "Être：六个形式，一条主线",
+      "body": "être 的现在时要与主语的人称和数一致：je suis, tu es, il/elle/on est, nous sommes, vous êtes, ils/elles sont。遇到名词主语，先把它换算成相应的人称，再选形式。形容词作表语时也要和主语的性、数配合。"
+    },
+    {
+      "id": "pub-predication-c2",
+      "title": "Avoir：拥有、年龄与固定搭配",
+      "body": "avoir 的现在时是 j'ai, tu as, il/elle/on a, nous avons, vous avez, ils/elles ont。法语用 avoir 说年龄：J'ai vingt ans。它还出现在 avoir besoin de、avoir le droit de 等固定搭配中。"
+    },
+    {
+      "id": "pub-predication-c3",
+      "title": "否定：ne 和 pas 夹住动词",
+      "body": "基础否定是 ne + 动词 + pas。元音或哑音 h 前，ne 省音为 n'：Je n'ai pas d'argent. Il n'est pas là. Il n'y a pas de problème. 否定中作直接宾语的不定冠词或部分冠词通常改为 de/d'；但 être 的表语保留不定冠词：Ce n'est pas un problème. 口语中常省略 ne，书面标准仍保留。"
+    },
+    {
+      "id": "pub-predication-c4",
+      "title": "C'est, ce sont, il est, il y a",
+      "body": "c'est 后接单数名词、名字或评价；ce sont 后接复数名词；il est 后接形容词或职业，职业前通常不加冠词；il y a 表示“有、存在”，后面可接单数或复数名词。"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pub-predication-l1",
+      "title": "Être 现在时：先认主语",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-predication-l1-q1",
+          "prompt": "Je ___ étudiant en histoire.",
+          "translation": "我是历史系学生。",
+          "explain": "主语 je 对应 suis；es 用于 tu，est 用于 il/elle/on，sommes 用于 nous。",
+          "type": "choice",
+          "options": [
+            "suis",
+            "est",
+            "es",
+            "sommes"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "pub-predication-l1-q2",
+          "prompt": "Tu ___ prêt à commencer.（用 être 的适当形式填空）",
+          "translation": "你准备好开始了。",
+          "explain": "tu 的 être 形式是 es；不要与 est 或 suis 混淆。",
+          "type": "letters",
+          "answer": "es"
+        },
+        {
+          "id": "pub-predication-l1-q3",
+          "prompt": "Elle ___ très patiente avec ses élèves.",
+          "translation": "她对学生们很有耐心。",
+          "explain": "elle 是第三人称单数，用 est；patiente 也与阴性单数主语配合。",
+          "type": "choice",
+          "options": [
+            "es",
+            "est",
+            "sont",
+            "sommes"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "pub-predication-l1-q4",
+          "prompt": "Nous ___ dans la même classe.（用 être 的适当形式填空）",
+          "translation": "我们在同一个班。",
+          "explain": "nous 对应 sommes；这是第一人称复数形式。",
+          "type": "letters",
+          "answer": "sommes"
+        },
+        {
+          "id": "pub-predication-l1-q5",
+          "prompt": "Vous ___ déjà prêts.（用 être 的适当形式填空）",
+          "translation": "你们已经准备好了。",
+          "explain": "vous 对应 êtes，注意长音符号 ê；prêts 用阳性复数配合。",
+          "type": "letters",
+          "answer": "êtes",
+          "accentKeys": [
+            "ê"
+          ]
+        },
+        {
+          "id": "pub-predication-l1-q6",
+          "prompt": "Les clés ___ sur la table.",
+          "translation": "钥匙在桌子上。",
+          "explain": "主语 les clés 是复数第三人称，用 sont；est 只用于单数。",
+          "type": "choice",
+          "options": [
+            "sommes",
+            "est",
+            "sont",
+            "avez"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "pub-predication-l1-q7",
+          "prompt": "On ___ prêts à partir.",
+          "translation": "我们准备出发了。",
+          "explain": "on 作主语时动词用第三人称单数 est；这里 on 实际指“我们”，表语形容词按实际复数用 prêts。",
+          "type": "choice",
+          "options": [
+            "sommes",
+            "es",
+            "est",
+            "sont"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "pub-predication-l2",
+      "title": "Avoir 现在时：拥有与年龄",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-predication-l2-q1",
+          "prompt": "J'___ un frère et une sœur.",
+          "translation": "我有一个哥哥（弟弟）和一个姐姐（妹妹）。",
+          "explain": "主语 je 用 ai；J' 与 ai 省音成 J'ai，选项本身只填 ai。",
+          "type": "choice",
+          "options": [
+            "a",
+            "as",
+            "ai",
+            "avons"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "pub-predication-l2-q2",
+          "prompt": "Tu ___ une belle voix.（用 avoir 的适当形式填空）",
+          "translation": "你有一副好嗓子。",
+          "explain": "tu 对应 as；不要与 a（第三人称单数）混淆。",
+          "type": "letters",
+          "answer": "as"
+        },
+        {
+          "id": "pub-predication-l2-q3",
+          "prompt": "Il ___ trois ans de plus que moi.",
+          "translation": "他比我大三岁。",
+          "explain": "il 对应 a；这里 a 是动词，不是介词 à。",
+          "type": "choice",
+          "options": [
+            "a",
+            "ai",
+            "ont",
+            "as"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "pub-predication-l2-q4",
+          "prompt": "Nous ___ besoin d'aide.（用 avoir 的适当形式填空）",
+          "translation": "我们需要帮助。",
+          "explain": "nous 对应 avons；avoir besoin de 是固定表达。",
+          "type": "letters",
+          "answer": "avons"
+        },
+        {
+          "id": "pub-predication-l2-q5",
+          "prompt": "Vous ___ le droit de poser une question.",
+          "translation": "你们有权提问。",
+          "explain": "vous 对应 avez；être 的形式 êtes 不能表示“有”。",
+          "type": "choice",
+          "options": [
+            "avons",
+            "ont",
+            "avez",
+            "êtes"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "pub-predication-l2-q6",
+          "prompt": "Elles ___ une maison à la campagne.（用 avoir 的适当形式填空）",
+          "translation": "她们在乡下有一栋房子。",
+          "explain": "elles 是第三人称复数，用 ont；不要与 sont 混淆。",
+          "type": "letters",
+          "answer": "ont"
+        },
+        {
+          "id": "pub-predication-l2-q7",
+          "prompt": "Quel âge ___ ton frère ?",
+          "translation": "你哥哥多大年纪？",
+          "explain": "法语问年龄用 avoir：Quel âge a ton frère ? 不用 être。",
+          "type": "choice",
+          "options": [
+            "est",
+            "as",
+            "ont",
+            "a"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "pub-predication-l3",
+      "title": "主语配合：形容词也要跟上",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-predication-l3-q1",
+          "prompt": "La porte est ___.",
+          "translation": "门是开着的。",
+          "explain": "porte 是阴性单数，形容词用 ouverte；ouvert、ouverts、ouvertes 分别是阳性单数、阳性复数和阴性复数。",
+          "type": "choice",
+          "options": [
+            "ouverte",
+            "ouvertes",
+            "ouverts",
+            "ouvert"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "pub-predication-l3-q2",
+          "prompt": "Ma sœur est ___ de son résultat.（用 content 的适当形式填空）",
+          "translation": "我姐姐对她的成绩很满意。",
+          "explain": "sœur 是阴性单数，content 加 e 变成 contente。",
+          "type": "letters",
+          "answer": "contente"
+        },
+        {
+          "id": "pub-predication-l3-q3",
+          "prompt": "Paul et Marie sont ___ de leurs notes.",
+          "translation": "保罗和玛丽对他们的成绩很满意。",
+          "explain": "Paul 和 Marie 是男女混合复数，形容词用阳性复数 contents。",
+          "type": "choice",
+          "options": [
+            "contents",
+            "contentes",
+            "contente",
+            "content"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "pub-predication-l3-q4",
+          "prompt": "Les fenêtres sont ___.（用 ouvert 的适当形式填空）",
+          "translation": "窗户是开着的。",
+          "explain": "fenêtres 是阴性复数，ouverte 加 s 变成 ouvertes。",
+          "type": "letters",
+          "answer": "ouvertes"
+        },
+        {
+          "id": "pub-predication-l3-q5",
+          "prompt": "Léa et Chloé ___ prêtes à partir.",
+          "translation": "莱娅和克洛埃准备好出发了。",
+          "explain": "两个女性名字构成阴性复数主语，用 sont；prêtes 也是阴性复数。",
+          "type": "choice",
+          "options": [
+            "êtes",
+            "sont",
+            "sommes",
+            "est"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "pub-predication-l3-q6",
+          "prompt": "Elles sont ___ depuis une heure.（用 fatigué 的适当形式填空）",
+          "translation": "她们累了一个小时了。",
+          "explain": "fatigué 加 e 再加 s，得到阴性复数 fatiguées；être 后用形容词表示状态。",
+          "type": "letters",
+          "answer": "fatiguées",
+          "accentKeys": [
+            "é"
+          ]
+        },
+        {
+          "id": "pub-predication-l3-q7",
+          "prompt": "用词块组成句子：她们准备好出发了。要求以 Elles 开头（句首大写），句末加句号。",
+          "translation": "她们准备好出发了。",
+          "explain": "Elles 是阴性复数，用 sont；prêtes 也要阴性复数配合，字母 ê 不能丢。",
+          "type": "tiles",
+          "answer": [
+            "Elles",
+            "sont",
+            "prêtes",
+            "à",
+            "partir."
+          ],
+          "bank": [
+            "Elles",
+            "sont",
+            "prêtes",
+            "à",
+            "partir.",
+            "est",
+            "prêt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pub-predication-l4",
+      "title": "否定：把动词夹在 ne 和 pas 之间",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-predication-l4-q1",
+          "prompt": "Je ___ pas fatigué.（标准书面否定）",
+          "translation": "我不累。",
+          "explain": "标准书面否定是 ne + 动词 + pas；主语 je 的 être 形式是 suis。",
+          "type": "choice",
+          "options": [
+            "suis",
+            "ne suis",
+            "ne pas suis",
+            "n'est"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "pub-predication-l4-q2",
+          "prompt": "把肯定句改成否定句：Je suis professeur. 请用标准书面否定并保留 ne，要求以 Je 开头（句首大写），句末加句号。",
+          "translation": "我不是老师。",
+          "explain": "ne 放在动词前，pas 放在动词后；本题用标准书面否定，不能省略 ne。professeur 表示职业，前不加冠词。",
+          "type": "tiles",
+          "answer": [
+            "Je",
+            "ne",
+            "suis",
+            "pas",
+            "professeur."
+          ],
+          "bank": [
+            "Je",
+            "ne",
+            "suis",
+            "pas",
+            "professeur.",
+            "n'",
+            "est"
+          ]
+        },
+        {
+          "id": "pub-predication-l4-q3",
+          "prompt": "Il n'___ pas de frère.（用 avoir 的适当形式填空）",
+          "translation": "他没有兄弟。",
+          "explain": "n' 是 ne 在元音前的省音；avoir 的第三人称单数是 a。否定后 un frère 的不定冠词变成 de。",
+          "type": "letters",
+          "answer": "a"
+        },
+        {
+          "id": "pub-predication-l4-q4",
+          "prompt": "用词块组成句子：她不在家。请用标准书面否定并保留 ne，要求以 Elle 开头（句首大写），句末加句号。",
+          "translation": "她不在家。",
+          "explain": "n'est 是 ne + est 的省音；pas 紧跟在动词后；à la maison 是地点短语。本题用标准书面否定，保留 ne，不按口语省略。",
+          "type": "tiles",
+          "answer": [
+            "Elle",
+            "n'est",
+            "pas",
+            "à",
+            "la",
+            "maison."
+          ],
+          "bank": [
+            "Elle",
+            "n'est",
+            "pas",
+            "à",
+            "la",
+            "maison.",
+            "ne",
+            "est"
+          ]
+        },
+        {
+          "id": "pub-predication-l4-q5",
+          "prompt": "Nous ___ pas d'argent.",
+          "translation": "我们没有钱。",
+          "explain": "ne 在元音前省音为 n'；nous 用 avons，所以是 n'avons。否定中部分冠词也改为 de/d'。",
+          "type": "choice",
+          "options": [
+            "n'avez",
+            "n'avons",
+            "ne avons",
+            "avons n'"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "pub-predication-l4-q6",
+          "prompt": "Il n'y ___ pas de problème.",
+          "translation": "没有问题。",
+          "explain": "il y a 的否定是 il n'y a pas；a 是 avoir 的第三人称单数。",
+          "type": "choice",
+          "options": [
+            "ont",
+            "a pas",
+            "est",
+            "a"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "pub-predication-l4-q7",
+          "prompt": "Vous n'___ pas en retard.（用 être 的适当形式填空）",
+          "translation": "你们没有迟到。",
+          "explain": "vous 的 être 形式是 êtes；n' 与 êtes 分开写，否定仍是 ne ... pas。",
+          "type": "letters",
+          "answer": "êtes",
+          "accentKeys": [
+            "ê"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pub-predication-l5",
+      "title": "指认与存在：c'est, ce sont, il est, il y a",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-predication-l5-q1",
+          "prompt": "Regarde, ___ mon ami Luc.（指认）",
+          "translation": "看，这是我的朋友吕克。",
+          "explain": "c'est 用来指认单数的人；ce sont 用于复数。il est 后通常不直接接带冠词的名词（如习惯说 c'est un médecin），但这不是绝对禁令；本题是指认，所以用 c'est。il y a 表示存在。",
+          "type": "choice",
+          "options": [
+            "c'est",
+            "il est",
+            "il y a",
+            "ce sont"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "pub-predication-l5-q2",
+          "prompt": "Ces deux garçons ? ___ des étudiants de Lyon.（标准书面）",
+          "translation": "他们是里昂来的学生。",
+          "explain": "des étudiants 是复数名词，标准书面指认用 ce sont；口语中可能听到 C'est des étudiants，但本题要求标准书面。",
+          "type": "choice",
+          "options": [
+            "C'est",
+            "Il y a",
+            "Il est",
+            "Ce sont"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "pub-predication-l5-q3",
+          "prompt": "Mon père travaille à l'hôpital. ___ médecin.",
+          "translation": "我父亲在医院工作。他是医生。",
+          "explain": "职业前用 il est，且职业名词前不加冠词；c'est 后通常要接限定名词，如 c'est un médecin。",
+          "type": "choice",
+          "options": [
+            "Ce sont",
+            "Il y a",
+            "Il est",
+            "C'est"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "pub-predication-l5-q4",
+          "prompt": "___ un livre sur la table.（表示存在）",
+          "translation": "桌子上有一本书。",
+          "explain": "表示“某处存在某物”用 il y a；c'est 用于指认，不表示存在。",
+          "type": "choice",
+          "options": [
+            "Il y a",
+            "Il est",
+            "Ce sont",
+            "C'est"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "pub-predication-l5-q5",
+          "prompt": "Dans la salle, ___ trois chaises.（表示存在）",
+          "translation": "房间里有三把椅子。",
+          "explain": "表达存在数量用 il y a；后面的名词是复数也不改变 il y a 的形式。",
+          "type": "choice",
+          "options": [
+            "il est",
+            "il y a",
+            "ce sont",
+            "c'est"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "pub-predication-l5-q6",
+          "prompt": "用词块组成句子：这是一个好主意。要求以 C'est 开头（句首大写），句末加句号。",
+          "translation": "这是一个好主意。",
+          "explain": "c'est + 单数名词；idée 是阴性单数，用 une 和 bonne。",
+          "type": "tiles",
+          "answer": [
+            "C'est",
+            "une",
+            "bonne",
+            "idée."
+          ],
+          "bank": [
+            "C'est",
+            "une",
+            "bonne",
+            "idée.",
+            "Ce sont",
+            "un",
+            "il y a"
+          ]
+        },
+        {
+          "id": "pub-predication-l5-q7",
+          "prompt": "Ton frère ? ___ très gentil.（形容你哥哥的性格）",
+          "translation": "你哥哥呢？他人很好。",
+          "explain": "形容词 gentil 前用 il est；c'est 后一般接名词或评价结构，如 c'est gentil de ta part。",
+          "type": "choice",
+          "options": [
+            "Ce sont",
+            "Il est",
+            "Il y a",
+            "C'est"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "pub-predication-x1",
+      "title": "综合挑战：在语境中选择",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-predication-x1-q1",
+          "prompt": "Dans le jardin, ___ des fleurs et un vieux pommier.（表示存在）",
+          "translation": "花园里有花和一棵老苹果树。",
+          "explain": "表示存在用 il y a；后面的名词即使有复数，也不改用 ce sont。",
+          "type": "choice",
+          "options": [
+            "ce sont",
+            "il est",
+            "c'est",
+            "il y a"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "pub-predication-x1-q2",
+          "prompt": "用词块组成句子：我今天没空。请用标准书面否定并保留 ne，要求以 Je 开头（句首大写），把 aujourd'hui 放在句末，句末加句号。",
+          "translation": "我今天没空。",
+          "explain": "ne ... pas 夹住 suis；aujourd'hui 放在句末，句末加句号。标准书面否定保留 ne，不按口语省略。",
+          "type": "tiles",
+          "answer": [
+            "Je",
+            "ne",
+            "suis",
+            "pas",
+            "disponible",
+            "aujourd'hui."
+          ],
+          "bank": [
+            "Je",
+            "ne",
+            "suis",
+            "pas",
+            "disponible",
+            "aujourd'hui.",
+            "est",
+            "n'"
+          ]
+        },
+        {
+          "id": "pub-predication-x1-q3",
+          "prompt": "Mes parents ___ en vacances.（用 être 的适当形式填空）",
+          "translation": "我父母在度假。",
+          "explain": "主语 mes parents 是第三人称复数，用 sont；ont 是 avoir，意思不同。",
+          "type": "letters",
+          "answer": "sont"
+        },
+        {
+          "id": "pub-predication-x1-q4",
+          "prompt": "___ une question difficile, mais je vais essayer.（评价）",
+          "translation": "这是个难题，但我会试试。",
+          "explain": "c'est 后接单数名词 une question，用来评价或指认；il est 后通常接形容词或职业，通常不直接接带冠词的名词，但并非绝对禁令。本题是评价，用 c'est。",
+          "type": "choice",
+          "options": [
+            "Il est",
+            "Ce sont",
+            "Il y a",
+            "C'est"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "pub-predication-x1-q5",
+          "prompt": "用词块组成句子：我们有两个孩子和一只狗。要求以 Nous 开头（句首大写），按“两个孩子→一只狗”的顺序，句末加句号。",
+          "translation": "我们有两个孩子和一只狗。",
+          "explain": "nous 用 avons；deux 后直接接复数名词 enfants，不再加冠词；et 连接并列宾语。",
+          "type": "tiles",
+          "answer": [
+            "Nous",
+            "avons",
+            "deux",
+            "enfants",
+            "et",
+            "un",
+            "chien."
+          ],
+          "bank": [
+            "Nous",
+            "avons",
+            "deux",
+            "enfants",
+            "et",
+            "un",
+            "chien.",
+            "ont",
+            "des"
+          ]
+        },
+        {
+          "id": "pub-predication-x1-q6",
+          "prompt": "___ des livres intéressants à la bibliothèque.（表示存在）",
+          "translation": "图书馆里有一些有趣的书。",
+          "explain": "表示存在用 il y a；des livres 是复数名词，但 il y a 的形式不变。",
+          "type": "choice",
+          "options": [
+            "C'est",
+            "Il est",
+            "Il y a",
+            "Ce sont"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "pub-predication-x1-q7",
+          "prompt": "Vous n'___ pas de voiture.（用 avoir 的适当形式填空）",
+          "translation": "你们没有车。",
+          "explain": "vous 对应 avez；否定中 une voiture 的不定冠词变成 de。",
+          "type": "letters",
+          "answer": "avez"
+        },
+        {
+          "id": "pub-predication-x1-q8",
+          "prompt": "用词块组成句子：他们是我的父母。要求以 Ce sont 开头（标准书面，句首大写），句末加句号。",
+          "translation": "他们是我的父母。",
+          "explain": "复数名词 parents 前标准书面用 ce sont；口语中可能听到 C'est mes parents，但本题按标准书面。",
+          "type": "tiles",
+          "answer": [
+            "Ce",
+            "sont",
+            "mes",
+            "parents."
+          ],
+          "bank": [
+            "Ce",
+            "sont",
+            "mes",
+            "parents.",
+            "C'est",
+            "est",
+            "des"
+          ]
+        }
+      ]
+    }
+  ]
+}

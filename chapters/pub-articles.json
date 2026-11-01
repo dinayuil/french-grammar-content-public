@@ -1,0 +1,675 @@
+{
+  "id": "pub-articles",
+  "title": "冠词的选择与缩合",
+  "titleFr": "Articles : choisir et contracter",
+  "cards": [
+    {
+      "id": "pub-articles-c1",
+      "title": "定冠词与不定冠词：特指还是新信息",
+      "body": "定冠词 le/la/l'/les 指已知、唯一或整体概念；不定冠词 un/une/des 引入一个或多个不特定的人或物。单数不定冠词变复数用 des，单数定冠词变复数用 les。"
+    },
+    {
+      "id": "pub-articles-c2",
+      "title": "部分冠词：不可数名词的“一些”",
+      "body": "阳性不可数名词前用 du，阴性用 de la，元音或哑音 h 开头用 de l'。部分冠词表示不确定的数量；作直接宾语时，否定通常改为 de/d'：Je n'ai pas de pain. 作表语时可保留：Ce n'est pas du pain. 数量短语后通常用 de/d'：beaucoup de fruits, un kilo de tomates."
+    },
+    {
+      "id": "pub-articles-c3",
+      "title": "缩合：à/de 遇上定冠词",
+      "body": "à + le = au，à + les = aux；de + le = du，de + les = des。à la、à l'、de la、de l' 不缩合。注意 des 既可能是不定冠词复数，也可能是 de + les 的缩合，要看上下文。"
+    },
+    {
+      "id": "pub-articles-c4",
+      "title": "零冠词：这些位置不要加冠词",
+      "body": "职业、身份或国籍形容词作表语时常用零冠词：Il est médecin. Elle est française. 说年龄用 avoir + 数词 + ans；城市前用 à，阴性国家前用 en。语言名称作主语或学习对象时通常保留定冠词：Le français est utile. J'apprends le français."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pub-articles-l1",
+      "title": "定冠词与不定冠词：从单数到复数",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-articles-l1-q1",
+          "prompt": "J'ai ___ chat et deux poissons.（第一次提到，不特指）",
+          "translation": "我有一只猫和两条鱼。",
+          "explain": "chat 是阳性单数，首次提到用 un；une 用于阴性，des 是复数，le 表示特指。",
+          "type": "choice",
+          "options": [
+            "le",
+            "un",
+            "des",
+            "une"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "pub-articles-l1-q2",
+          "prompt": "Elle cherche ___ robe bleue dans le magasin.（不特指）",
+          "translation": "她在商店里找一条蓝裙子。",
+          "explain": "robe 是阴性单数，非特指用 une；un 用于阳性，des/les 用于复数。",
+          "type": "choice",
+          "options": [
+            "une",
+            "des",
+            "un",
+            "les"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "pub-articles-l1-q3",
+          "prompt": "Je range ___ livres que tu m'as prêtés.（填定冠词）",
+          "translation": "我把你借给我的书收起来。",
+          "explain": "题干要求填定冠词；livres 是复数，所以用 les。关系从句本身不强制特指：des livres que tu m'as prêtés 也可以成立，表示“你借给我的那些书中的一些”，但不是本题要求的定冠词。",
+          "type": "letters",
+          "answer": "les"
+        },
+        {
+          "id": "pub-articles-l1-q4",
+          "prompt": "Il y a ___ enfants dans la cour.（第一次提到，不特指）",
+          "translation": "院子里有一些孩子。",
+          "explain": "首次提到的不确定复数用 des；les 指已知的一群，un 只接单数。",
+          "type": "choice",
+          "options": [
+            "des",
+            "de",
+            "un",
+            "les"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "pub-articles-l1-q5",
+          "prompt": "Elle achète ___ pomme au marché.（填不定冠词）",
+          "translation": "她在市场买一个苹果。",
+          "explain": "pomme 是阴性单数，用 une；un 是阳性，des 是复数。",
+          "type": "letters",
+          "answer": "une"
+        },
+        {
+          "id": "pub-articles-l1-q6",
+          "prompt": "___ soleil se lève à l'est.",
+          "translation": "太阳从东方升起。",
+          "explain": "独一无二的事物用定冠词 le；soleil 是阳性单数。",
+          "type": "choice",
+          "options": [
+            "Des",
+            "Le",
+            "Les",
+            "Un"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "pub-articles-l1-q7",
+          "prompt": "用词块组成句子：这些学生有一个问题。要求以 Les 开头（句首大写），句末加句号。",
+          "translation": "这些学生有一个问题。",
+          "explain": "les étudiants 指已知的一群学生；un problème 是阳性单数宾语。",
+          "type": "tiles",
+          "answer": [
+            "Les",
+            "étudiants",
+            "ont",
+            "un",
+            "problème."
+          ],
+          "bank": [
+            "Les",
+            "étudiants",
+            "ont",
+            "un",
+            "problème.",
+            "des",
+            "une",
+            "a"
+          ]
+        },
+        {
+          "id": "pub-articles-l1-q8",
+          "prompt": "Choisis la forme plurielle : le livre → ___ livres.",
+          "translation": "这本书 → 这些书。",
+          "explain": "定冠词单数 le 变复数 les；des 是不定冠词复数，指不特定的一些书。",
+          "type": "choice",
+          "options": [
+            "des",
+            "un",
+            "de",
+            "les"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "pub-articles-l2",
+      "title": "部分冠词与数量：不可数名词怎么说",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-articles-l2-q1",
+          "prompt": "Je mange ___ pain avec du beurre.（表示“一些”，不特指）",
+          "translation": "我吃面包配黄油。",
+          "explain": "pain 是阳性不可数名词，部分冠词用 du；de la 用于阴性，des 用于可数复数。",
+          "type": "choice",
+          "options": [
+            "du",
+            "le",
+            "de la",
+            "des"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "pub-articles-l2-q2",
+          "prompt": "Il ajoute ___ eau dans la soupe.（表示“一些”，不特指）",
+          "translation": "他在汤里加了一些水。",
+          "explain": "eau 是阴性且以元音开头，de la 省音为 de l'；du 只能接阳性名词。",
+          "type": "choice",
+          "options": [
+            "une",
+            "de l'",
+            "de la",
+            "du"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "pub-articles-l2-q3",
+          "prompt": "Il y a beaucoup ___ monde ici.",
+          "translation": "这里人很多。",
+          "explain": "beaucoup de + 名词，不用 des；monde 在这里是不可数名词。",
+          "type": "letters",
+          "answer": "de"
+        },
+        {
+          "id": "pub-articles-l2-q4",
+          "prompt": "J'ai ___ amis à Paris.",
+          "translation": "我在巴黎有很多朋友。",
+          "explain": "beaucoup de 遇元音开头的 amis 省音为 beaucoup d'；不能保留完整的 de。",
+          "type": "choice",
+          "options": [
+            "beaucoup des",
+            "beaucoup",
+            "beaucoup de",
+            "beaucoup d'"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "pub-articles-l2-q5",
+          "prompt": "Elle met ___ crème dans la soupe.（表示“一些”，不特指）",
+          "translation": "她在汤里加奶油。",
+          "explain": "crème 是阴性不可数名词，部分冠词用 de la；du 用于阳性。",
+          "type": "choice",
+          "options": [
+            "des",
+            "du",
+            "une",
+            "de la"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "pub-articles-l2-q6",
+          "prompt": "用词块组成句子：我喝一杯茶。要求以 Je 开头（句首大写），句末加句号。",
+          "translation": "我喝一杯茶。",
+          "explain": "une tasse de thé 是数量/容器短语，de 后直接接名词，不用 du；thé 是阳性不可数名词。",
+          "type": "tiles",
+          "answer": [
+            "Je",
+            "bois",
+            "une",
+            "tasse",
+            "de",
+            "thé."
+          ],
+          "bank": [
+            "Je",
+            "bois",
+            "une",
+            "tasse",
+            "de",
+            "thé.",
+            "du",
+            "théière"
+          ]
+        },
+        {
+          "id": "pub-articles-l2-q7",
+          "prompt": "Je n'ai pas ___ pain.（不特指）",
+          "translation": "我没有面包。",
+          "explain": "否定中部分冠词 du 变为 de：pas de pain。",
+          "type": "choice",
+          "options": [
+            "de",
+            "le",
+            "des",
+            "du"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "pub-articles-l2-q8",
+          "prompt": "J'aime ___ chocolat.（泛指这一类食物）",
+          "translation": "我喜欢巧克力。",
+          "explain": "表达整体喜好用定冠词 le；du 表示“一些”，un 表示“一块/一颗”，语境不同。",
+          "type": "choice",
+          "options": [
+            "un",
+            "des",
+            "du",
+            "le"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "pub-articles-l3",
+      "title": "缩合冠词：au, aux, du, des",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-articles-l3-q1",
+          "prompt": "Je vais ___ cinéma ce soir.",
+          "translation": "我今晚去电影院。",
+          "explain": "à + le = au；à le 不能并存，aux 是 à + les。",
+          "type": "choice",
+          "options": [
+            "du",
+            "au",
+            "aux",
+            "à le"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "pub-articles-l3-q2",
+          "prompt": "Elle donne des livres ___ enfants de sa classe.",
+          "translation": "她把书送给班上的孩子们。",
+          "explain": "donner quelque chose à quelqu'un：à + les = aux；à les 不能并存；des 是不定冠词复数，不能表示“给”。",
+          "type": "choice",
+          "options": [
+            "à les",
+            "au",
+            "aux",
+            "des"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "pub-articles-l3-q3",
+          "prompt": "Nous revenons ___ marché avec nos courses.（用 de 与定冠词缩合填空）",
+          "translation": "我们带着买的东西从市场回来。",
+          "explain": "de + le = du；不要写成 de le；avec nos courses 表明是从市场回来。",
+          "type": "letters",
+          "answer": "du"
+        },
+        {
+          "id": "pub-articles-l3-q4",
+          "prompt": "Il revient ___ États-Unis.（表示“从美国回来”）",
+          "translation": "他从美国回来。",
+          "explain": "de + les = des；de les 不能并存。这里 des 是缩合冠词，不是不定冠词复数。",
+          "type": "choice",
+          "options": [
+            "aux",
+            "du",
+            "de les",
+            "des"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "pub-articles-l3-q5",
+          "prompt": "Je vais ___ plage avec mes amis.",
+          "translation": "我和朋友们去海滩。",
+          "explain": "plage 是阴性单数，à + la 不缩合，仍是 à la；au 只用于阳性单数。",
+          "type": "choice",
+          "options": [
+            "au",
+            "à l'",
+            "aux",
+            "à la"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "pub-articles-l3-q6",
+          "prompt": "Elle est ___ école.",
+          "translation": "她在学校。",
+          "explain": "école 以元音开头，用 à l'；不缩合成 au。",
+          "type": "choice",
+          "options": [
+            "à la",
+            "aux",
+            "à l'",
+            "au"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "pub-articles-l3-q7",
+          "prompt": "用词块组成句子：我们和邻居们说话。要求以 Nous 开头（句首大写），句末加句号。",
+          "translation": "我们和邻居们说话。",
+          "explain": "parler à + les voisins = parler aux voisins；不能写 à les。",
+          "type": "tiles",
+          "answer": [
+            "Nous",
+            "parlons",
+            "aux",
+            "voisins."
+          ],
+          "bank": [
+            "Nous",
+            "parlons",
+            "aux",
+            "voisins.",
+            "au",
+            "à les",
+            "des"
+          ]
+        },
+        {
+          "id": "pub-articles-l3-q8",
+          "prompt": "Je vois ___ enfants dans le parc.",
+          "translation": "我在公园里看到一些孩子。",
+          "explain": "这里 des 是不定冠词复数；aux 是 à + les，du 是 de + le，都不符合“看到一些”。",
+          "type": "choice",
+          "options": [
+            "de les",
+            "des",
+            "aux",
+            "du"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "pub-articles-l4",
+      "title": "零冠词与语境：什么时候不用冠词",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-articles-l4-q1",
+          "prompt": "Mon voisin est ___ depuis vingt ans.（只说明职业身份，不特指‘那位医生’）",
+          "translation": "我邻居当医生二十年了。",
+          "explain": "表示职业身份时，être 后通常用零冠词：Il est médecin。这里只是说明职业，不特指某一位医生，所以不用 le médecin；要强调“一名医生”常用 c'est un médecin。",
+          "type": "choice",
+          "options": [
+            "un médecin",
+            "médecin",
+            "le médecin",
+            "des médecins"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "pub-articles-l4-q2",
+          "prompt": "Elle est de nationalité ___.（用 français 的适当形式填空）",
+          "translation": "她是法国国籍。",
+          "explain": "国籍形容词作表语用零冠词；française 是阴性单数，注意 cedilla ç。",
+          "type": "letters",
+          "answer": "française",
+          "accentKeys": [
+            "ç"
+          ]
+        },
+        {
+          "id": "pub-articles-l4-q3",
+          "prompt": "Elle apprend ___ français à l'école.（指这门语言）",
+          "translation": "她在学校学法语。",
+          "explain": "语言名称作学习对象时通常用定冠词：apprendre le français；du 是部分冠词，不能用来指整门语言。",
+          "type": "choice",
+          "options": [
+            "un",
+            "des",
+            "le",
+            "du"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "pub-articles-l4-q4",
+          "prompt": "Nous allons ___ Lyon en train.",
+          "translation": "我们坐火车去里昂。",
+          "explain": "城市名前用 à，不加冠词；au/aux 是缩合冠词，à la 用于阴性普通名词。",
+          "type": "choice",
+          "options": [
+            "au",
+            "à la",
+            "à",
+            "aux"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "pub-articles-l4-q5",
+          "prompt": "Elle habite ___ France.",
+          "translation": "她住在法国。",
+          "explain": "阴性国家名前用 en，且不加冠词；阳性国家如 le Portugal 用 au。",
+          "type": "choice",
+          "options": [
+            "à la",
+            "en",
+            "au",
+            "aux"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "pub-articles-l4-q6",
+          "prompt": "J'aime ___ musique classique.（泛指这一类音乐）",
+          "translation": "我喜欢古典音乐。",
+          "explain": "表达整体喜好用定冠词 la；une 指一部作品，de la 表示“一些”，语境不同。",
+          "type": "choice",
+          "options": [
+            "de la",
+            "une",
+            "la",
+            "des"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "pub-articles-l4-q7",
+          "prompt": "用词块组成句子：她每天早上喝咖啡。要求以 Elle 开头（句首大写），把 chaque matin 放在句末，句末加句号。",
+          "translation": "她每天早上喝咖啡。",
+          "explain": "boire 后不可数名词用部分冠词 du；chaque matin 是时间状语，不加冠词。",
+          "type": "tiles",
+          "answer": [
+            "Elle",
+            "boit",
+            "du",
+            "café",
+            "chaque",
+            "matin."
+          ],
+          "bank": [
+            "Elle",
+            "boit",
+            "du",
+            "café",
+            "chaque",
+            "matin.",
+            "la",
+            "des"
+          ]
+        },
+        {
+          "id": "pub-articles-l4-q8",
+          "prompt": "___ français est une langue utile.",
+          "translation": "法语是一门有用的语言。",
+          "explain": "语言名称作主语用定冠词 le；du 是部分冠词，不能用来指整门语言。",
+          "type": "choice",
+          "options": [
+            "Des",
+            "Un",
+            "Le",
+            "Du"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "pub-articles-x1",
+      "title": "综合挑战：冠词在语境中",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-articles-x1-q1",
+          "prompt": "___ enfants de ma classe jouent dans la cour.（指全班所有孩子）",
+          "translation": "我们班的孩子们在院子里玩。",
+          "explain": "de ma classe 限定范围，用定冠词复数 les；des 表示不特定的一些。",
+          "type": "choice",
+          "options": [
+            "Les",
+            "De",
+            "Des",
+            "Un"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "pub-articles-x1-q2",
+          "prompt": "Je voudrais ___ eau, s'il vous plaît.（表示“一些”）",
+          "translation": "请给我一些水。",
+          "explain": "eau 是阴性且以元音开头，部分冠词用 de l'；du 用于阳性，la 是定冠词，une 把水个体化。",
+          "type": "choice",
+          "options": [
+            "de l'",
+            "la",
+            "du",
+            "une"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "pub-articles-x1-q3",
+          "prompt": "用词块组成句子：我们和老师们说话。要求以 Nous 开头（句首大写），句末加句号。",
+          "translation": "我们和老师们说话。",
+          "explain": "parler à + les professeurs = parler aux professeurs；à les 不合法，des 不表示“向”。",
+          "type": "tiles",
+          "answer": [
+            "Nous",
+            "parlons",
+            "aux",
+            "professeurs."
+          ],
+          "bank": [
+            "Nous",
+            "parlons",
+            "aux",
+            "professeurs.",
+            "au",
+            "des",
+            "à les"
+          ]
+        },
+        {
+          "id": "pub-articles-x1-q4",
+          "prompt": "Ma sœur a ___.（用 avoir 说年龄）",
+          "translation": "我妹妹十八岁。",
+          "explain": "年龄用 avoir + 数词 + ans，ans 前不加冠词；不要受中文“十八岁”影响添加冠词。",
+          "type": "choice",
+          "options": [
+            "dix-huit ans",
+            "les dix-huit ans",
+            "un dix-huit ans",
+            "des dix-huit ans"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "pub-articles-x1-q5",
+          "prompt": "Je cherche ___ livre de grammaire que tu m'as conseillé.（双方都知道是哪一本）",
+          "translation": "我在找你推荐的那本语法书。",
+          "explain": "题干说明双方都知道是哪一本，所以用定冠词 le；un livre que tu m'as conseillé 也可以成立，表示“你推荐的一本”，但不是本题所指的已知那一本。",
+          "type": "choice",
+          "options": [
+            "du",
+            "des",
+            "un",
+            "le"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "pub-articles-x1-q6",
+          "prompt": "用词块组成句子：她买了很多苹果。要求以 Elle 开头（句首大写），句末加句号。",
+          "translation": "她买了很多苹果。",
+          "explain": "beaucoup de + 名词复数，不用 des；pommes 以辅音开头，de 不省音。",
+          "type": "tiles",
+          "answer": [
+            "Elle",
+            "achète",
+            "beaucoup",
+            "de",
+            "pommes."
+          ],
+          "bank": [
+            "Elle",
+            "achète",
+            "beaucoup",
+            "de",
+            "pommes.",
+            "des",
+            "du",
+            "d'"
+          ]
+        },
+        {
+          "id": "pub-articles-x1-q7",
+          "prompt": "Nous allons ___ piscine municipale.",
+          "translation": "我们去市立游泳池。",
+          "explain": "piscine 是阴性单数，à + la 不缩合；au 是 à + le，aux 是 à + les。",
+          "type": "choice",
+          "options": [
+            "aux",
+            "au",
+            "à la",
+            "à l'"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "pub-articles-x1-q8",
+          "prompt": "用词块组成句子：这些是给孩子们的书。要求以 Ce sont 开头（标准书面，句首大写），句末加句号。",
+          "translation": "这些是给孩子们的书。",
+          "explain": "标准书面用 ce sont + 复数名词 des livres（口语中 C'est des livres 也可能听到）。pour les enfants 中 les 指特定的一群孩子，aux 不能替代 pour les。",
+          "type": "tiles",
+          "answer": [
+            "Ce",
+            "sont",
+            "des",
+            "livres",
+            "pour",
+            "les",
+            "enfants."
+          ],
+          "bank": [
+            "Ce",
+            "sont",
+            "des",
+            "livres",
+            "pour",
+            "les",
+            "enfants.",
+            "C'est",
+            "aux"
+          ]
+        }
+      ]
+    }
+  ]
+}

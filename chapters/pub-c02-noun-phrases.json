@@ -116,7 +116,7 @@
     {
       "id": "pub-c02-noun-phrases-card-u8-3",
       "title": "名词 + en + 名词：材质与形式（识别）",
-      "body": "en + 名词（通常不带冠词）可说明材质、形式或语言：une bague en or（金戒指）、un pull en laine（羊毛衫）、un texte en français（法语文本）。\n\n与 à 表用途、de 表材料/类别/所属区分：un verre à vin 是用途，un verre de vin 是内容；une bague en or 强调材质。有些材料表达中 de 和 en 都可能出现，不能机械替换，要看固定搭配和语义。\n\n本节点只要求识别 en 材质/形式补语的功能，不要求本章产出 en 补语。"
+      "body": "en + 名词（通常不带冠词）可说明材质、形式或语言：une bague en or（金戒指）、un pull en laine（羊毛衫）、un texte en français（法语文本）。\n\n与 à 表用途、de 表材料/类别/所属区分：un verre à vin 是用途，un verre de vin 是内容；une bague en or 强调材质。有些材料表达中 de 和 en 都可能出现，不能机械替换，要看固定搭配和语义。\n\n本卡只要求识别 en 材质/形式补语的功能，不要求本章产出 en 补语。"
     },
     {
       "id": "pub-c02-noun-phrases-card-u8-4",
@@ -1605,7 +1605,7 @@
           ],
           "answer": 0,
           "translation": "一只水晶杯；邻居的杯子。",
-          "explain": "第1槽首次提到用不定冠词 un（verre 阳性）；第2槽 de 引出材料，材料补语不带冠词；第3槽 de+le→du，voisin 已确指。不定/定冠词与 de 材料/所属的对照都实际影响选择。"
+          "explain": "第1空首次提到用不定冠词 un（verre 阳性）；第2空 de 引出材料，材料补语不带冠词；第3空 de+le→du，voisin 已确指。不定/定冠词与 de 材料/所属的对照都实际影响选择。"
         },
         {
           "id": "pub-c02-noun-phrases-l8-q6",
@@ -1742,7 +1742,7 @@
           ],
           "answer": 0,
           "translation": "识别代词式动词后身体部位前的冠词选择。",
-          "explain": "代词式动词 se laver 后，身体部位通常用定冠词 les：Il se lave les mains。ses 强调所属，不是本课模式；des 本身可作复数不定冠词，也能与复数 mains 搭配，但不符合本题指定的定冠词模式；la 与复数 mains 不配合。本节点只要求识别，不要求产出代词式句子。"
+          "explain": "代词式动词 se laver 后，身体部位通常用定冠词 les：Il se lave les mains。ses 强调所属，不是本课模式；des 本身可作复数不定冠词，也能与复数 mains 搭配，但不符合本题指定的定冠词模式；la 与复数 mains 不配合。本题只要求识别，不要求产出代词式句子。"
         },
         {
           "id": "pub-c02-noun-phrases-l8-q13",
@@ -1756,7 +1756,7 @@
           ],
           "answer": 1,
           "translation": "识别 en 补语在“羊毛衫”中的功能。",
-          "explain": "en + 名词（通常不带冠词）说明材质/形式：un pull en laine 表示羊毛材质。à 常表用途，de 可表所属/类别/材料；有些材料表达 de 和 en 都可能，需按固定搭配判断。本节点只要求识别 en 材质功能。"
+          "explain": "en + 名词（通常不带冠词）说明材质/形式：un pull en laine 表示羊毛材质。à 常表用途，de 可表所属/类别/材料；有些材料表达 de 和 en 都可能，需按固定搭配判断。本题只要求识别 en 材质功能。"
         },
         {
           "id": "pub-c02-noun-phrases-l8-q14",
@@ -1770,7 +1770,7 @@
           ],
           "answer": 2,
           "translation": "一杯水；学生们的物品；教室的门；学校的名字。",
-          "explain": "①首次提到一杯水用不定冠词 un（verre 阳性）；②de+les→des；③de+la 保持分写；④de+l'école 保持分写，l' 是省音冠词，不能写成 d'。四槽同时判断不定冠词、缩合、保持分写与省音。"
+          "explain": "①首次提到一杯水用不定冠词 un（verre 阳性）；②de+les→des；③de+la 保持分写；④de+l'école 保持分写，l' 是省音冠词，不能写成 d'。四个空同时判断不定冠词、缩合、保持分写与省音。"
         }
       ]
     },

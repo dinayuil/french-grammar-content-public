@@ -1,0 +1,2352 @@
+{
+  "id": "pub-c02-noun-phrases",
+  "title": "名词短语的性数与数量",
+  "titleFr": "Genre, nombre et quantité",
+  "cards": [
+    {
+      "id": "pub-c02-noun-phrases-card-u1-1",
+      "title": "名词的性与冠词配合",
+      "body": "名词的语法性是词条的一部分，不随说话人的性别改变。冠词要与名词的性和数配合：阳性单数用 un/le，阴性单数用 une/la，复数用 des/les。\n\n例：un livre → le livre；une table → la table；des livres → les livres。\n\n以元音或哑音 h 开头的名词前，le/la 省音为 l'：un ami → l'ami；une école → l'école。嘘音 h 前不省音。\n\n词尾可以提示性别，但只是倾向，遇到例外要按词记；本章后面会分别处理常见词尾和例外。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u1-2",
+      "title": "形容词配合先找控制对象",
+      "body": "形容词配合前先找控制语：它修饰哪个名词，或作表语时说明哪个主语。控制语决定形容词的性与数；地点、时间、介词补语等不参与配合。\n\n例：Les élèves de la classe sont attentifs.（控制语是 les élèves，不是 la classe。）Les filles sont prêtes.（控制语是 les filles。）\n\n代词主语看代词所指。本章只判断“跟谁配合”，不系统讲形容词词尾变化，具体词形在后续课程学习。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u1-3",
+      "title": "性别改变词义的名词对",
+      "body": "有些名词阴阳性同形而意义不同，必须连冠词一起记，不能当作普通阴阳对应词。\n\n例：un livre（书）/ une livre（磅）；un poste（职位）/ la poste（邮政、邮局）；un tour（一圈、轮次）/ une tour（塔）；un mode（方式）/ une mode（时尚）；un manche（柄）/ la manche（袖子）。\n\n这类词对只要求识别词义和冠词，不要求把某个阳性词改造成阴性词。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u2-1",
+      "title": "最常用规则：阳性加 -e",
+      "body": "最常用的阴性构成方式是在阳性词后加 -e：un marchand → une marchande；un client → une cliente；un employé → une employée。冠词同时从 un 变为 une。\n\n例外与边界：以 -e 结尾的阳性词可能阴阳同形，如 un secrétaire → une secrétaire；-er、-ien、-eur 等词尾另有专门规则；père → mère 等不规则词不能按加 -e 推导。名词和形容词都可能加 -e，但各自的例外集合不合并。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u2-2",
+      "title": "-er/-ier → -ère/-ière",
+      "body": "以 -er 结尾的阳性名词，阴性通常改为 -ère；以 -ier 结尾的改为 -ière。\n\n例：un étranger → une étrangère；un ouvrier → une ouvrière；un banquier → une banquière。\n\n注意 -er 与 -ier 的词形差别，并保留应有的重音。père → mère 是不同词干的不规则词，不属于 -er 组；-eur 等其他词尾也另有规则，不拿来当作 -er 的例外。本规则只处理名词，不并入形容词的 -er 变化。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u2-3",
+      "title": "鼻音双写 n 与部分 -t 双写",
+      "body": "鼻音词尾：部分 -ien、-éen、-ion、-on 结尾的阳性词，阴性双写 n 再加 -e，形成 -ienne、-éenne、-ionne、-onne。\n\n例：un chien → une chienne；un lion → une lionne。形容词识别例：bon → bonne（只识别词形，不要求产出）。\n\n-t 双写：部分 -t 结尾名词双写 t 再加 -e，如 un sot → une sotte；但许多 -t 名词只加 -e，如 un idiot → une idiote，不能一概双写。\n\n-ain 通常变 -aine（nain → naine），但 copain → copine 等要按词记；-et → -ette 是另一条有限规则，不能和普通 -t 双写混同。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u3-1",
+      "title": "-e → -esse 只适用于部分词",
+      "body": "部分以 -e 结尾的阳性名词变阴性时改为 -esse，但这是一份有限的词表，不是所有 -e 结尾名词的通则。\n\n例：un tigre → une tigresse；un âne → une ânesse；un poète → une poétesse。\n\n反例：un secrétaire → une secrétaire；un collègue → une collègue。这些词阴阳同形，不能强行加 -esse。以 -esse 结尾的名词也多为阴性，如 une jeunesse、une tristesse，但词尾仍只是倾向。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u3-2",
+      "title": "-eur 的两条阴性路径：-euse 与 -rice",
+      "body": "以 -eur 结尾的阳性名词，阴性可能走 -euse，也可能走 -rice，必须按词记。\n\n-euse：un vendeur → une vendeuse；un coiffeur → une coiffeuse；un serveur → une serveuse。\n\n-rice：un créateur → une créatrice；un traducteur → une traductrice；un imitateur → une imitatrice。\n\n不要仅凭 -eur 判断：两组没有可靠的统一词尾规则。部分职业名词的阴性用法仍在变化，如 professeur → professeure、auteur → autrice，写作时按语境和规范确认。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u3-3",
+      "title": "词尾判性：常见倾向与例外",
+      "body": "词尾只是倾向，不是绝对规则；遇到例外要按词记。\n\n常见阴性词尾：-ée（une année、une idée）、-ie（une vie、une philosophie）、-ure（une nature、une peinture）、-ière（une matière、une carrière）、-esse（une jeunesse、une tristesse）、-tion（une nation、une action）、-té（une beauté、une société）。\n\n常见阳性词尾：-age（un village）、-ment（un mouvement）、-isme（un tourisme）、-eau（un bureau）、-oir（un miroir）、-ier（un escalier）。\n\n重要例外：-ée 有 un lycée、un trophée、un musée；-té 有 un été、un pâté、un comité；-age 有 une page、une plage、une image 等（本章后面会讲）。不能把词尾倾向当成判性公式。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u4-1",
+      "title": "-age 阴性例外与四个“部分变化”词尾",
+      "body": "-age 通常提示阳性，但有阴性例外：une page、une plage、une cage、une rage、une image。不能由 -age 直接判定阳性，也不能声称这些例外已穷尽。\n\n-c → -que 只适用于部分词：un Turc → une Turque；public → publique。另有 blanc → blanche、sec → sèche 等 -che 变化。\n\n-et → -ette 也只适用于部分词：un muet → une muette；un coquet → une coquette。complet → complète 不双写 t，但词尾 -et 变 -ète，重音要写。\n\n-f → -ve：un veuf → une veuve；un sportif → une sportive；un natif → une native。但 un chef → une cheffe 双写 f 再加 -e，属于另一条按词记忆的变化，不能类推。\n\n-x → -se：heureux → heureuse；joyeux → joyeuse（形容词，仅识别示例）。但 roux → rousse、doux → douce、vieux → vieille 结果不同，需按词确认。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u4-2",
+      "title": "不规则阴性、阴阳同形与复合名词",
+      "body": "不规则阴性要通过整词记忆：un roi → une reine；un héros → une héroïne。它们不能由阳性词尾直接推导。\n\n阴阳同形名词只靠冠词或上下文区分性别：un enfant / une enfant；un élève / une élève；un journaliste / une journaliste；un collègue / une collègue。\n\n复合名词按构成成分分别处理，没有统一公式：un grand-oncle → une grand-tante（只有 oncle 变 tante，grand 保持不变）；un beau-frère → une belle-sœur（两个成分都变）。并非所有复合词都两个成分同时变化，必须按词核查，不能把某一复合词的变化推广到全部复合词。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u4-3",
+      "title": "阳性 -eur 与 -ion 的小词表",
+      "body": "一些职业或身份名词的阳性以 -eur 收尾：un chanteur、un danseur、un vendeur 的阴性走 -euse（chanteuse、danseuse、vendeuse）；un acteur、un directeur 等走 -rice（actrice、directrice）。单看阳性 -eur 不能决定整个词族，必须按词记。这里只讨论名词词尾，不涉及形容词。\n\n-ion 阳性是一个小词表，不是性别规则：un avion、un camion、un lion、un million、un espion、un bastion。它们要与阴性 -tion/-sion 名词区分，如 une nation、une décision；不要把“以 -ion 结尾”直接当成阳性规则。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u5-1",
+      "title": "复数基础：加 -s 与 -s/-x/-z 不变",
+      "body": "多数名词在单数形式后加 -s 构成复数：un livre → des livres；une fleur → des fleurs。以 -s、-x、-z 结尾的名词单复数同形，数量靠冠词或数词区分：un nez → des nez；une voix → des voix；un gaz → des gaz。注意：-al/-ail/-eau/-eu/-ou 等词尾另有规则，不能把所有名词都套上加 -s；遇到生词仍要按词条确认。本单元部分短语中 de 连接所属者或其他补语（l'ami du garçon 表示“男孩的朋友”）；仅按题面指定的名词数量转换，题目要求所有名词都变复数时才全部改。本组的 du 是 de + le 的缩合，不是部分冠词；这里不展开 de 补语分类，后续单元再讲。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u5-2",
+      "title": "特殊复数词尾：-al/-ail、-eau/-eu/-ou 及 -eu 的 -s 例外",
+      "body": "-al 结尾的名词多数变 -aux：un journal → des journaux；但 bal、festival、carnaval、récital 等加 -s：un festival → des festivals。-ail 结尾多数加 -s：un détail → des détails；少数变 -aux：un travail → des travaux，bail → baux，vitrail → vitraux。-eau、-eu 通常加 -x：un bureau → des bureaux；un jeu → des jeux。-ou 通常加 -s：un clou → des clous；只有 bijou、chou、caillou、genou、hibou、joujou、pou 这七个词加 -x：un bijou → des bijoux。-eu 还有少数加 -s 的词条，如 pneu → pneus、bleu → bleus；这些只需识别，不能据此把 -eu 都改成加 -s。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u5-3",
+      "title": "不规则复数：按词条整体记忆",
+      "body": "有些名词的复数不是机械加 -s 或 -x，需要整体记忆：un œil → des yeux（指人的眼睛，不是复合词中的 œil）；monsieur → messieurs；madame → mesdames；mademoiselle → mesdemoiselles。un jeune homme 的常用复数对应 des jeunes gens，这是词汇性替换，不是把 homme 直接加 -s 的结果。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u6-1",
+      "title": "不定冠词 un/une/des",
+      "body": "不定冠词按名词的性与数选择：阳性单数 un livre，阴性单数 une fleur，复数 des livres / des fleurs。它用于首次提及或泛指“一个/一些”对象，不指特定的那个或那些。否定句中用 de 替代冠词的现象不在本单元；数量词后的 de 见后面的数量表达单元。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u6-2",
+      "title": "定冠词：统指与独一无二",
+      "body": "定冠词 le/la/les 可以指整类事物，也可以指独一无二的对象，不要求上文已经提及：J'aime la musique classique.（统指音乐这一类）La lune est pleine ce soir.（独一无二）Les livres sont utiles. 首次提及通常用不定冠词 un livre，再次回指才用 le livre；不要把“首次出现”误当成定冠词的唯一条件。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u6-3",
+      "title": "部分冠词 du/de la/de l' 与定冠词对比",
+      "body": "不可数名词或不确定数量用部分冠词：Je bois de l'eau；Il reste de la soupe；Je mange du pain。de la 遇元音或哑音 h 开头写成 de l'。复数 des 一般看作不定复数冠词，不应一律称为部分冠词；只有与定冠词 les 形成“整体对部分”的对立时才按部分性理解。泛指喜好某类事物用定冠词：J'aime le café；表示取用一部分用部分冠词：Je bois du café。否定句 de 替代冠词不在本单元。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u7-1",
+      "title": "数量副词与数量名词后的 de",
+      "body": "数量副词 beaucoup、peu、trop、assez、un peu 等后面用 de 引出名词：beaucoup de livres；un peu d'eau（de 在元音前省音为 d'）。数量名词或容器也用 de 引出内容：un kilo de pommes；deux bouteilles d'eau。普通基数词直接修饰名词，不加 de：trois pommes；deux livres。容器表达属于数量名词结构，不是部分冠词。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u7-2",
+      "title": "数词直接修饰与数量名词 + de 的对比",
+      "body": "对比两组结构：deux pommes（两个苹果，数词直接修饰名词）与 deux kilos de pommes（两公斤苹果，数量名词后用 de 引出内容）；trois livres（三本书）与 trois bouteilles d'eau（三瓶水）。判断关键是前面是不是容器或计量名词；普通数词后不插入 de，避免 *trois de pommes、*deux kilos pommes 这类错误。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u8-1",
+      "title": "名词 + à + 名词：用途与特征",
+      "body": "à + 名词常用来说明用途、功能或典型特征，多见于工具、容器、交通等固定搭配：une machine à café（咖啡机）、une brosse à dents（牙刷）、un verre à vin（葡萄酒杯）。\n\n对比语义：un verre de vin 是“一杯葡萄酒”，de 引出内容/数量；un verre à vin 是“葡萄酒杯”，à 引出用途。不能只看名词，要看想表达什么。\n\n与 de、en 的分工：de 可表材料、类别或所属，en 常表材料或形式（un pull en laine）。这些是语义和固定搭配问题，不是把所有名词组合都套 à。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u8-2",
+      "title": "名词 + de + 名词：材料、类别与所属",
+      "body": "de + 名词可表材料、类别、内容或所属。表分类/材料的补语常不带冠词：une table de bois（木桌）、un professeur de musique（音乐老师）。表内容/数量的 de 也可不带冠词：une tasse de thé（一杯茶）。\n\n补语确指时保留定冠词，并按 C01 规则缩合或省音：la porte du garage（de + le → du）、les toits des maisons（de + les → des）、la couleur de la mer（de + la 不变）、le nom de l'école（de + l' 不变；l' 是省音冠词）。\n\n注意：只有 de + le/les 才缩合，de + la/de + l' 保持分写。不要因为形式相同就把所有 des 都叫部分冠词：这里 des 通常是 de + les 的缩合，或复数不定冠词；du/de la/de l' 才与部分冠词同形。部分冠词的语义对照见 U6，本卡只处理名词补语中的限定、分类与所属。\n\n与 en 对照：une bague en or 用 en 讲材质；de 也能出现在材料/类别组合中，需按固定搭配和语义逐词判断。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u8-3",
+      "title": "名词 + en + 名词：材质与形式（识别）",
+      "body": "en + 名词（通常不带冠词）可说明材质、形式或语言：une bague en or（金戒指）、un pull en laine（羊毛衫）、un texte en français（法语文本）。\n\n与 à 表用途、de 表材料/类别/所属区分：un verre à vin 是用途，un verre de vin 是内容；une bague en or 强调材质。有些材料表达中 de 和 en 都可能出现，不能机械替换，要看固定搭配和语义。\n\n本节点只要求识别 en 材质/形式补语的功能，不要求本章产出 en 补语。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u8-4",
+      "title": "身体部位与外观：定冠词与识别边界",
+      "body": "描述五官、头发、身体部位的外观时，常用定冠词而不是主有形容词：Elle a les yeux bleus.（她有一双蓝眼睛。）Il a les cheveux courts.（他留着短发。）\n\n成对或多个部位用复数 les，单个部位用 le/la：Elle se lave les mains.（她洗手。）J'ai mal à la tête.（我头疼。）\n\n代词式动词、avoir mal à、间接宾语人称代词等结构中，身体部位前通常用定冠词：Il se lave les mains. / J'ai mal à la tête.\n\n识别边界：身体部位并非一概排斥不定冠词或主有形容词。强调所属、对比，或名词带形容词修饰时，主有形容词可以出现；真实法语中 des yeux bleus 在有些语境也成立。本章只要求识别“定冠词替代主有形容词”的典型环境，不要求产出代词式或 COI 句子。题目会明确所采用的教学模式，避免把一种模式说成唯一可能。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u9-1",
+      "title": "单复数转换：整组名词短语一起变",
+      "body": "做单复数转换，先确定改数范围，再动形式。只要求中心名词及其冠词变复数时，de 补语通常保持原所指和原形式：le cahier de l'élève → les cahiers de l'élève（只有笔记本变多，仍属于同一个学生）。\n\n只有题目明确要求所属者/补语所指也变多个时，才联动补语：le cahier de l'élève → les cahiers des élèves（学生也变多）；une visite au musée → des visites au musée（只有参观变多，仍指同一个博物馆），而 des visites aux musées 表示参观多个博物馆。\n\n中心名词的冠词随中心名词变。本次转换只决定补语是否也改数：补语不改数时，不要自动把它变复数；补语确需变复数时，才由 de+les/à+les 形成 des/aux。de/à 与定冠词的缩合仍按 C01：de+le→du、de+les→des，à+le→au、à+les→aux；de+la/de+l'、à+la/à+l' 保持分写。本章只做名词短语级转换：不要求 c'est/ce sont 转换，也不要求自主动词变位。如果源句保留主语和动词形式，题目会说明。\n\n名词单复数同形时要逐词判断：nez、voix、cours 不变；œil→yeux、monsieur→messieurs 等要整体记。"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u9-2",
+      "title": "复数词尾与例外：逐词核对",
+      "body": "一般加 -s：étudiant→étudiants、fleur→fleurs、livre→livres。\n\n-al 多数变 -aux：animal→animaux、hôpital→hôpitaux；但 bal、festival、carnaval、récital 只加 -s。\n-ail 多数加 -s：détail→détails；travail、bail、vitrail 等改 -aux，按词记。\n-eau/-eu 通常加 -x：bateau→bateaux、jeu→jeux；pneu、bleu 等少数加 -s，只识别，不要求本章产出。\n-ou 通常加 -s；只有 bijou、chou、caillou、genou、hibou、joujou、pou 加 -x。\n-s/-x/-z 结尾通常不变：nez→nez、voix→voix、cours→cours。\n\n不规则：œil→yeux、monsieur→messieurs、madame→mesdames、mademoiselle→mesdemoiselles；un jeune homme 的常用复数对应是 des jeunes gens，属词汇性替换，不是 homme 的机械复数。"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pub-c02-noun-phrases-l1",
+      "title": "名词的性与冠词配合",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c02-noun-phrases-l1-q1",
+          "type": "choice",
+          "prompt": "Choisissez le groupe correct : ___ est à vendre.",
+          "options": [
+            "La maison",
+            "Le maison",
+            "Les maison",
+            "L'maison"
+          ],
+          "answer": 0,
+          "translation": "这座房子出售。",
+          "explain": "maison 是阴性单数名词，定冠词用 la；le 用于阳性，les 用于复数，l' 只用于元音或哑音 h 开头的名词前。",
+          "example": "un livre → le livre ; une table → la table"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l1-q2",
+          "type": "choice",
+          "prompt": "Choisissez le groupe correct : ___ est dans la salle.",
+          "options": [
+            "Une étudiant",
+            "Un étudiant",
+            "Des étudiant",
+            "Un étudiants"
+          ],
+          "answer": 1,
+          "translation": "一名男大学生在教室里。",
+          "explain": "étudiant 是阳性单数名词，不定冠词用 un；une 用于阴性，des 用于复数，名词 étudiants 才带 s。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l1-q3",
+          "type": "choice",
+          "prompt": "Choisissez le groupe correct : Nous parlons ___ .",
+          "options": [
+            "à le directeur",
+            "à la directeur",
+            "au directeur",
+            "aux directeur"
+          ],
+          "answer": 2,
+          "translation": "我们和经理说话。",
+          "explain": "à + le 缩合为 au；directeur 是阳性单数，所以用 au directeur。à + la 不缩合，但 directeur 不是阴性；aux 用于复数。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l1-q4",
+          "type": "choice",
+          "prompt": "Dans « Marie et sa sœur sont prêtes », l'adjectif « prêtes » s'accorde avec quel sujet ?",
+          "options": [
+            "Marie seulement",
+            "sa sœur seulement",
+            "aucun des deux",
+            "Marie et sa sœur"
+          ],
+          "answer": 3,
+          "translation": "在「Marie 和她的姐妹准备好了」中，形容词 prêtes 与哪个主语配合？",
+          "explain": "形容词作表语时与主语配合；这里主语是并列的 Marie et sa sœur，两个都是阴性，所以用阴性复数 prêtes，而不是只跟最近的名词。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l1-q5",
+          "type": "choice",
+          "prompt": "Dans « Les fenêtres de la cuisine sont ouvertes », l'adjectif « ouvertes » s'accorde avec quel nom ?",
+          "options": [
+            "les fenêtres",
+            "la cuisine",
+            "les fenêtres et la cuisine",
+            "aucun"
+          ],
+          "answer": 0,
+          "translation": "在「厨房的窗户开着」中，形容词 ouvertes 与哪个名词配合？",
+          "explain": "主语是 les fenêtres；de la cuisine 只是限定主语的补语，不控制形容词配合。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l1-q6",
+          "type": "choice",
+          "prompt": "Dans « Paul et Marie sont contents », l'adjectif « contents » s'accorde avec quel ensemble ?",
+          "options": [
+            "Paul seulement",
+            "Paul et Marie",
+            "Marie seulement",
+            "le verbe"
+          ],
+          "answer": 1,
+          "translation": "在「Paul 和 Marie 很满意」中，形容词 contents 与哪个成分配合？",
+          "explain": "主语是 Paul et Marie；形容词作表语时与整个并列主语配合。本题只判断控制语，不展开混合性别的形容词词尾规则。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l1-q7",
+          "type": "choice",
+          "prompt": "Quel groupe signifie « 塔 » ?",
+          "options": [
+            "un tour",
+            "une livre",
+            "une tour",
+            "un livre"
+          ],
+          "answer": 2,
+          "translation": "哪一个词组表示「塔」？",
+          "explain": "une tour 是阴性，意为塔；un tour 是阳性，意为一圈或轮次。un livre 是书，une livre 是磅。性别改变词义，要连冠词一起记。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l1-q8",
+          "type": "choice",
+          "prompt": "Dans « Elles sont prêtes », l'adjectif « prêtes » s'accorde avec quel pronom ?",
+          "options": [
+            "prêtes",
+            "sont",
+            "aucun",
+            "Elles"
+          ],
+          "answer": 3,
+          "translation": "在「她们准备好了」中，形容词 prêtes 与哪个代词配合？",
+          "explain": "主语代词 Elles 是阴性复数，形容词 prêtes 与它配合；sont 是动词，不控制配合。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l2",
+      "title": "阴性词形：加 -e、-er/-ier、鼻音双 n、-t 双写",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c02-noun-phrases-l2-q1",
+          "type": "letters",
+          "prompt": "Écrivez le nom féminin (forme complète) : un voisin → une ___",
+          "answer": "voisine",
+          "translation": "邻居（阳性→阴性）",
+          "explain": "voisin 的阴性一般在词尾加 -e，写成 voisine；-in 在这里不加双 n。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l2-q2",
+          "type": "letters",
+          "prompt": "Écrivez le nom féminin (forme complète) : un boulanger → une ___",
+          "answer": "boulangère",
+          "translation": "面包师（阳性→阴性）",
+          "explain": "-er 结尾的阳性名词变阴性时改为 -ère，并加必要重音：boulanger → boulangère。",
+          "accentKeys": [
+            "è"
+          ]
+        },
+        {
+          "id": "pub-c02-noun-phrases-l2-q3",
+          "type": "letters",
+          "prompt": "Écrivez le nom féminin (forme complète) : un musicien → une ___",
+          "answer": "musicienne",
+          "translation": "音乐家（阳性→阴性）",
+          "explain": "-ien 结尾变阴性时双写 n 再加 -e：musicien → musicienne。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l2-q4",
+          "type": "letters",
+          "prompt": "Écrivez le nom féminin (forme complète) : un chat → une ___（指母猫）",
+          "answer": "chatte",
+          "translation": "猫（阳性→阴性，指母猫）",
+          "explain": "部分 -t 结尾名词变阴性时双写 t 再加 -e：chat → chatte；不要推广到所有 -t 名词，如 avocat → avocate。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l2-q5",
+          "type": "choice",
+          "prompt": "Choisissez la forme féminine correcte de « un étudiant ».",
+          "options": [
+            "une étudiant",
+            "une étudiantes",
+            "une étudiante",
+            "une étudiantte"
+          ],
+          "answer": 2,
+          "translation": "男大学生→女大学生。",
+          "explain": "一般规则是在阳性名词后加 -e：étudiant → étudiante；-ant 不双写 n，也不加 -te。冠词同时变为 une。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l2-q6",
+          "type": "letters",
+          "prompt": "un infirmier → une ___",
+          "answer": "infirmière",
+          "translation": "护士（阳性→阴性）",
+          "explain": "-ier 结尾变阴性时改为 -ière：infirmier → infirmière；注意重音 è 和 -ier → -ière 的词尾变化。",
+          "accentKeys": [
+            "è"
+          ]
+        },
+        {
+          "id": "pub-c02-noun-phrases-l2-q7",
+          "type": "letters",
+          "prompt": "Écrivez le nom féminin (forme complète) : un gardien → une ___",
+          "answer": "gardienne",
+          "translation": "守卫、看守（阳性→阴性）",
+          "explain": "-ien 结尾双写 n 再加 -e：gardien → gardienne。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l2-q8",
+          "type": "tiles",
+          "prompt": "Transformez au féminin : un cuisinier → ___",
+          "answer": [
+            "une",
+            "cuisinière"
+          ],
+          "bank": [
+            "une",
+            "cuisinière",
+            "un",
+            "cuisinier",
+            "cuisinières"
+          ],
+          "translation": "男厨师→女厨师。",
+          "explain": "-ier 变 -ière，冠词用 une；注意不要把阳性 cuisinier 直接放在 une 后。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l2-q9",
+          "type": "choice",
+          "prompt": "Quelle forme féminine est correcte pour « un copain » ?",
+          "options": [
+            "une copine",
+            "une copaine",
+            "une copinne",
+            "une copainne"
+          ],
+          "answer": 0,
+          "translation": "「un copain」（朋友、伙伴）的正确阴性形式是？",
+          "explain": "-ain 通常变 -aine，但 copain 是常用例外，阴性为 copine，不按 -aine 或 -ienne 类推。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l2-q10",
+          "type": "choice",
+          "prompt": "Quelle forme féminine est correcte pour « un avocat » ?",
+          "options": [
+            "une avocatte",
+            "une avocat",
+            "une avocates",
+            "une avocate"
+          ],
+          "answer": 3,
+          "translation": "「un avocat」（律师）的正确阴性形式是？",
+          "explain": "avocat 只加 -e：avocate；不要把所有 -t 结尾都双写。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l2-q11",
+          "type": "letters",
+          "prompt": "un ami → une ___",
+          "answer": "amie",
+          "translation": "朋友（阳性→阴性）",
+          "explain": "以 -i 结尾的阳性名词一般加 -e：ami → amie。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l2-q12",
+          "type": "choice",
+          "prompt": "Quelle est la forme féminine correcte de « un Européen » ?",
+          "options": [
+            "une Européene",
+            "une Européenne",
+            "une Europeenne",
+            "une Européennes"
+          ],
+          "answer": 1,
+          "translation": "欧洲人（阳性→阴性）。",
+          "explain": "-éen 结尾变阴性时双写 n 再加 -e：Européen → Européenne。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l3",
+      "title": "阴性词尾 -esse、-eur 的两条路径与词尾判性",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c02-noun-phrases-l3-q1",
+          "type": "letters",
+          "prompt": "un prince → une ___",
+          "answer": "princesse",
+          "translation": "王子→公主。",
+          "explain": "部分以 -e 结尾的阳性名词变阴性时改为 -esse：prince → princesse；这不是所有 -e 结尾名词的规则。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q2",
+          "type": "tiles",
+          "prompt": "Transformez au féminin : un maître → ___",
+          "answer": [
+            "une",
+            "maîtresse"
+          ],
+          "bank": [
+            "une",
+            "maîtresse",
+            "un",
+            "maître",
+            "maîtresses"
+          ],
+          "translation": "男教师→女教师。",
+          "explain": "-e → -esse 并保留词干：maître → maîtresse；冠词改为 une。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q3",
+          "type": "letters",
+          "prompt": "un chanteur → une ___",
+          "answer": "chanteuse",
+          "translation": "歌手（阳性→阴性）。",
+          "explain": "部分 -eur 名词变阴性为 -euse：chanteur → chanteuse；与 -rice 路径按词区分。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q4",
+          "type": "tiles",
+          "prompt": "Transformez au féminin : un danseur → ___",
+          "answer": [
+            "une",
+            "danseuse"
+          ],
+          "bank": [
+            "une",
+            "danseuse",
+            "un",
+            "danseur",
+            "danseuses"
+          ],
+          "translation": "舞者（阳性→阴性）。",
+          "explain": "-eur → -euse：danseur → danseuse；冠词用 une。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q5",
+          "type": "letters",
+          "prompt": "un acteur → une ___",
+          "answer": "actrice",
+          "translation": "演员（阳性→阴性）。",
+          "explain": "部分 -eur 名词走 -rice 路径：acteur → actrice；不能按 -euse 类推。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q6",
+          "type": "tiles",
+          "prompt": "Transformez au féminin : un directeur → ___",
+          "answer": [
+            "une",
+            "directrice"
+          ],
+          "bank": [
+            "une",
+            "directrice",
+            "un",
+            "directeur",
+            "directrices"
+          ],
+          "translation": "经理、导演（阳性→阴性）。",
+          "explain": "-eur → -rice：directeur → directrice；与 chanteur → chanteuse 对比记忆。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q7",
+          "type": "choice",
+          "prompt": "Choisissez le groupe correct au singulier (noms en -ie et -ure).",
+          "options": [
+            "L'épicerie et la culture",
+            "La épicerie et la culture",
+            "L'épicerie et le culture",
+            "Les épiceries et les cultures"
+          ],
+          "answer": 0,
+          "translation": "「食品店和文化」：选择正确的单数名词短语组合。",
+          "explain": "épicerie 是以 -ie 结尾的阴性名词，因以元音开头，定冠词省音为 l'épicerie；culture 是以 -ure 结尾的阴性名词，用 la culture。La épicerie 未省音，le culture 误作阳性，复数选项不符合单数要求。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q8",
+          "type": "choice",
+          "prompt": "Choisissez le groupe correct (nom en -ure) : ___ me plaît.",
+          "options": [
+            "Le culture",
+            "La culture",
+            "Les culture",
+            "L'culture"
+          ],
+          "answer": 1,
+          "translation": "选择正确的名词短语：这种文化让我喜欢。（名词以 -ure 结尾）",
+          "explain": "culture 是以 -ure 结尾的阴性名词，用 la；le 用于阳性，les 用于复数，l' 只用于元音或哑音 h 前。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q9",
+          "type": "choice",
+          "prompt": "Choisissez le groupe correct au singulier (noms en -esse).",
+          "options": [
+            "La adresse et la richesse",
+            "L'adresse et le richesse",
+            "L'adresse et la richesse",
+            "Les adresses et les richesses"
+          ],
+          "answer": 2,
+          "translation": "「地址和财富」：选择正确的单数名词短语组合。",
+          "explain": "adresse 和 richesse 都是以 -esse 结尾的阴性名词；adresse 以元音开头，用 l'adresse，richesse 以辅音 r 开头，用 la richesse。La adresse 未省音，le richesse 误作阳性，复数选项不符合单数要求。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q10",
+          "type": "choice",
+          "prompt": "Choisissez le groupe correct (nom en -esse) : ___ de ce texte est visible.",
+          "options": [
+            "Le richesse",
+            "Les richesse",
+            "L'richesse",
+            "La richesse"
+          ],
+          "answer": 3,
+          "translation": "选择正确的名词短语：这篇文章的丰富性清晰可见。（名词以 -esse 结尾）",
+          "explain": "richesse 是以 -esse 结尾的阴性名词，用 la；它以辅音 r 开头，不需要省音。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q11",
+          "type": "choice",
+          "prompt": "Choisissez le groupe correct au singulier (noms en -tion et -té).",
+          "options": [
+            "L'attention et la liberté",
+            "La attention et la liberté",
+            "L'attention et le liberté",
+            "Les attentions et les libertés"
+          ],
+          "answer": 0,
+          "translation": "「注意力和自由」：选择正确的单数名词短语组合。",
+          "explain": "attention 是以 -tion 结尾的阴性名词，以元音开头，用 l'attention；liberté 是以 -té 结尾的阴性名词，以辅音 l 开头，用 la liberté。La attention 未省音，le liberté 误作阳性，复数选项不符合单数要求。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q12",
+          "type": "choice",
+          "prompt": "Choisissez le groupe correct (nom en -té) : ___ est une valeur.",
+          "options": [
+            "Le liberté",
+            "La liberté",
+            "Les liberté",
+            "L'liberté"
+          ],
+          "answer": 1,
+          "translation": "自由是一种价值：选择正确的名词短语。",
+          "explain": "liberté 是以 -té 结尾的阴性名词，用 la；以辅音 l 开头，不需要省音。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q13",
+          "type": "choice",
+          "prompt": "Choisissez le groupe correct au singulier (noms en -age et -ment).",
+          "options": [
+            "Le usage et le monument",
+            "L'usage et la monument",
+            "L'usage et le monument",
+            "Les usages et les monuments"
+          ],
+          "answer": 2,
+          "translation": "「用法和纪念碑」：选择正确的单数名词短语组合。",
+          "explain": "usage 是以 -age 结尾的阳性名词，以元音开头，用 l'usage；monument 是以 -ment 结尾的阳性名词，以辅音 m 开头，用 le monument。Le usage 未省音，la monument 误作阴性，复数选项不符合单数要求。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q14",
+          "type": "choice",
+          "prompt": "Choisissez le groupe correct (nom en -ment) : ___ me plaît.",
+          "options": [
+            "La monument",
+            "Les monument",
+            "L'monument",
+            "Le monument"
+          ],
+          "answer": 3,
+          "translation": "选择正确的名词短语：这座纪念碑让我喜欢。（名词以 -ment 结尾）",
+          "explain": "monument 是以 -ment 结尾的阳性名词，用 le；以辅音 m 开头，不需要省音。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q15",
+          "type": "choice",
+          "prompt": "Parmi ces noms, lequel a un féminin en -rice ?",
+          "options": [
+            "un chanteur",
+            "un vendeur",
+            "un danseur",
+            "un acteur"
+          ],
+          "answer": 3,
+          "translation": "下列名词中，哪一个的阴性形式以 -rice 结尾？",
+          "explain": "acteur → actrice 走 -rice；chanteur → chanteuse、vendeur → vendeuse、danseur → danseuse 走 -euse。两组要按词记。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q16",
+          "type": "choice",
+          "prompt": "Lequel de ces noms en -ée est masculin ?",
+          "options": [
+            "idée",
+            "année",
+            "musée",
+            "journée"
+          ],
+          "answer": 2,
+          "translation": "下列以 -ée 结尾的名词中，哪一个是阳性？",
+          "explain": "-ée 多为阴性，但 musée 是阳性例外；idée、année、journée 都是阴性。词尾只是倾向，不是绝对规则。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q17",
+          "type": "choice",
+          "prompt": "Lequel de ces noms en -té est masculin ?",
+          "options": [
+            "liberté",
+            "comité",
+            "qualité",
+            "société"
+          ],
+          "answer": 1,
+          "translation": "下列以 -té 结尾的名词中，哪一个是阳性？",
+          "explain": "-té 多为阴性，但 comité 是阳性例外；liberté、qualité、société 都是阴性。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l3-q18",
+          "type": "tiles",
+          "prompt": "Transformez au féminin : un inspecteur → ___",
+          "answer": [
+            "une",
+            "inspectrice"
+          ],
+          "bank": [
+            "une",
+            "inspectrice",
+            "un",
+            "inspecteur",
+            "inspectrices"
+          ],
+          "translation": "检查员（阳性→阴性）。",
+          "explain": "-eur → -rice：inspecteur → inspectrice；冠词用 une。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l4",
+      "title": "同形、不规则、复合名词与词条性例外",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c02-noun-phrases-l4-q1",
+          "type": "tiles",
+          "prompt": "Transformez au féminin : un beau-père → ___",
+          "answer": [
+            "une",
+            "belle-mère"
+          ],
+          "bank": [
+            "une",
+            "belle-mère",
+            "un",
+            "beau-père",
+            "belle",
+            "mère"
+          ],
+          "translation": "继父、岳父→继母、岳母。",
+          "explain": "beau-père 是复合名词，变阴性时两个成分都变：beau → belle，père → mère，写成 belle-mère；冠词用 une。复合名词不能一概类推，要按词确认。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l4-q2",
+          "type": "tiles",
+          "prompt": "Transformez au féminin : un arrière-grand-père → ___",
+          "answer": [
+            "une",
+            "arrière-grand-mère"
+          ],
+          "bank": [
+            "une",
+            "arrière-grand-mère",
+            "un",
+            "arrière-grand-père",
+            "arrière",
+            "grand-mère"
+          ],
+          "translation": "曾祖父→曾祖母。",
+          "explain": "arrière 和 grand 都不变，只有 père 变成 mère：grand-père → grand-mère，整体为 arrière-grand-mère；冠词用 une。不同复合名词的变化方式不同，需按词记。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l4-q3",
+          "type": "letters",
+          "prompt": "Écrivez le nom féminin, identique au masculin : une ___ (女学生)",
+          "answer": "élève",
+          "translation": "女学生（与阳性同形）。",
+          "explain": "élève 是阴阳同形名词：un élève / une élève，名词本身不变，只靠冠词或上下文区分性别。",
+          "accentKeys": [
+            "é",
+            "è"
+          ]
+        },
+        {
+          "id": "pub-c02-noun-phrases-l4-q4",
+          "type": "letters",
+          "prompt": "un homme → une ___",
+          "answer": "femme",
+          "translation": "男人→女人。",
+          "explain": "homme 的阴性是 femme，属于不同词根的不规则形式，不能按词尾规则推导。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l4-q5",
+          "type": "tiles",
+          "prompt": "Transformez au féminin : un empereur → ___",
+          "answer": [
+            "une",
+            "impératrice"
+          ],
+          "bank": [
+            "une",
+            "impératrice",
+            "un",
+            "empereur",
+            "impératrices"
+          ],
+          "translation": "皇帝→女皇、皇后。",
+          "explain": "empereur 的阴性是 impératrice，词根和词尾都发生变化，属于不规则阴性；冠词用 une。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l4-q6",
+          "type": "letters",
+          "prompt": "Écrivez le nom masculin en -eur (forme complète) : un ___ (男演员)",
+          "answer": "acteur",
+          "translation": "男演员。",
+          "explain": "acteur 是阳性 -eur 名词；它的阴性是 actrice，说明 -eur 的阴性可能走 -euse 或 -rice，不能只凭阳性词尾判断。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l4-q7",
+          "type": "letters",
+          "prompt": "Écrivez le nom masculin en -ion (forme complète) : un ___ (飞机)",
+          "answer": "avion",
+          "translation": "飞机。",
+          "explain": "avion 是阳性 -ion 名词，属于需要单独记的小词表，如 avion、camion、lion、million；不要把它和阴性 -tion/-sion 名词混为一谈。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l4-q8",
+          "type": "choice",
+          "prompt": "Lequel de ces noms en -age est féminin ?",
+          "options": [
+            "village",
+            "voyage",
+            "image",
+            "paysage"
+          ],
+          "answer": 2,
+          "translation": "下列以 -age 结尾的名词中，哪一个是阴性？",
+          "explain": "-age 通常提示阳性，但 image 是阴性例外；page、plage、cage 等也常为阴性，需按词记。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l4-q9",
+          "type": "choice",
+          "prompt": "Quel est le féminin correct de « un Turc » ?",
+          "options": [
+            "une Turche",
+            "une Turcque",
+            "une Turc",
+            "une Turque"
+          ],
+          "answer": 3,
+          "translation": "「un Turc」（土耳其人）的正确阴性形式是？",
+          "explain": "部分 -c 结尾词变 -que：Turc → Turque；但 blanc → blanche、sec → sèche 等走 -che，不能一概而论。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l4-q10",
+          "type": "choice",
+          "prompt": "Lequel de ces couples suit la règle -et → -ette ?",
+          "options": [
+            "cadet → cadette",
+            "complet → complète",
+            "secret → secrète",
+            "inquiet → inquiète"
+          ],
+          "answer": 0,
+          "translation": "下列哪一组遵循 -et → -ette 的变化？",
+          "explain": "cadet → cadette 双写 t 再加 -e；complet → complète、secret → secrète、inquiet → inquiète 不双写 t，但词尾 -et 变 -ète，重音要写。这里只识别词形变化，不把 cadet 当成名词性别产出任务。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l4-q11",
+          "type": "choice",
+          "prompt": "Quel est le féminin correct de « un veuf » ?",
+          "options": [
+            "une veuf",
+            "une veuve",
+            "une veufve",
+            "une veuveuse"
+          ],
+          "answer": 1,
+          "translation": "「un veuf」（鳏夫）的正确阴性形式是？",
+          "explain": "部分 -f 结尾形容词或名词变 -ve：veuf → veuve；但 chef → cheffe 双写 f 再加 -e，属于另一条按词记忆的变化，不能类推。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l4-q12",
+          "type": "choice",
+          "prompt": "Quel est le féminin correct de l'adjectif « heureux » ?",
+          "options": [
+            "heureuxe",
+            "heureusse",
+            "heureuse",
+            "heureux"
+          ],
+          "answer": 2,
+          "translation": "形容词「heureux」的正确阴性形式是？",
+          "explain": "heureux 是形容词，部分 -x 结尾形容词变 -se：heureux → heureuse；但 roux → rousse、doux → douce、vieux → vieille 等结果不同，不能把 -x → -se 当成通则。本题只识别形容词，不涉及名词。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l5",
+      "title": "复数规则与例外",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c02-noun-phrases-l5-q1",
+          "type": "letters",
+          "prompt": "把单数名词变为复数：travail → ___（只填名词，复数）",
+          "answer": "travaux",
+          "translation": "工作（复数名词，只填一个词）",
+          "explain": "travail 是以 -ail 结尾的少数例外，复数变 travaux，不是 travails。多数 -ail 名词加 -s，但这个词要单独记住。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l5-q2",
+          "type": "letters",
+          "prompt": "把单数名词变为复数：détail → ___（只填名词，复数）",
+          "answer": "détails",
+          "translation": "细节（复数名词，只填一个词）",
+          "explain": "détail 以 -ail 结尾，属于多数情况，直接加 -s 变 détails；不要因为 travail 变 travaux 就把所有 -ail 都改成 -aux。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l5-q3",
+          "type": "letters",
+          "prompt": "把单数名词变为复数：festival → ___（只填名词，复数）",
+          "answer": "festivals",
+          "translation": "节日、联欢节（复数名词，只填一个词）",
+          "explain": "festival 以 -al 结尾，但属于加 -s 的例外，复数是 festivals，不是 festivaux。-al 多数变 -aux，bal、festival、carnaval、récital 等则加 -s。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l5-q4",
+          "type": "letters",
+          "prompt": "与常规复数 livre → livres 对照，把 nez 变为复数：___（只填名词）",
+          "example": "多数名词加 -s：livre → livres。",
+          "answer": "nez",
+          "translation": "鼻子（与常规加 -s 对照，只填一个词）",
+          "explain": "livre → livres 是多数名词加 -s 的常规复数；nez 以 -z 结尾，单复数同形，复数仍是 nez，数量靠冠词或数词体现，如 des nez。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l5-q5",
+          "type": "letters",
+          "prompt": "把单数名词变为复数：œil → ___（只填名词，复数；指人的眼睛）",
+          "answer": "yeux",
+          "translation": "眼睛（人的眼睛，复数名词，只填一个词）",
+          "explain": "œil 的复数是不规则形式 yeux，需要整体记忆；这里指人的眼睛，不是复合词中保留 œil 的用法。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l5-q6",
+          "type": "letters",
+          "prompt": "把单数名词变为复数：bureau → ___（只填名词，复数）",
+          "answer": "bureaux",
+          "translation": "办公室、书桌（复数名词，只填一个词）",
+          "explain": "bureau 以 -eau 结尾，复数通常加 -x，变 bureaux；不要写成 bureaus。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l5-q7",
+          "type": "choice",
+          "prompt": "识别 -eu 的少数 -s 复数例外：下列哪一组是 pneu 和 bleu 的正确复数？",
+          "options": [
+            "pneux ; bleux",
+            "pneus ; bleus",
+            "pneus ; bleux",
+            "pneux ; bleus"
+          ],
+          "answer": 1,
+          "translation": "识别 pneu 和 bleu 的复数例外（只识别，不要求推广到其他 -eu 词）。",
+          "explain": "pneu 和 bleu 是 -eu 加 -s 的少数例外：pneus、bleus；多数 -eu 名词加 -x，如 jeu → jeux。这里只要求识别这组例外，不能据此把其他 -eu 名词都改成加 -s。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l5-q8",
+          "type": "tiles",
+          "prompt": "把单数名词短语改为复数：l'ami du garçon → ___（本题要求所有名词都变复数，包括 de 后的所属者；所指数量均变多个；冠词同步变复数，所属对应保持不变）",
+          "answer": [
+            "les",
+            "amis",
+            "des",
+            "garçons"
+          ],
+          "bank": [
+            "les",
+            "amis",
+            "des",
+            "garçons",
+            "l'ami",
+            "ami",
+            "du",
+            "garçon",
+            "de",
+            "fleurs"
+          ],
+          "translation": "那个男孩的朋友（单数短语改为复数短语）",
+          "explain": "l'ami 变为 les amis，冠词随复数变 les；du garçon 中的 du 是 de + le，改为复数后 de + les 缩合成 des，得到 les amis des garçons。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l5-q9",
+          "type": "tiles",
+          "prompt": "把单数名词短语改为复数：l'enfant du voisin → ___（本题要求所有名词都变复数，包括 de 后的所属者；所指数量均变多个；冠词同步变复数，所属对应保持不变）",
+          "answer": [
+            "les",
+            "enfants",
+            "des",
+            "voisins"
+          ],
+          "bank": [
+            "les",
+            "enfants",
+            "des",
+            "voisins",
+            "l'enfant",
+            "enfant",
+            "du",
+            "voisin",
+            "de",
+            "voisines"
+          ],
+          "translation": "那个邻居的孩子（单数短语改为复数短语）",
+          "explain": "l'enfant 变 les enfants，名词加 -s；du voisin 中 du 是 de + le，复数时 de + les 变为 des，所以是 les enfants des voisins。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l5-q10",
+          "type": "tiles",
+          "prompt": "把下面两个单数短语都改为复数，并按原列表顺序用 et 连接：le bateau de l'enfant；le nez du garçon → ___（所有名词包括 de 后的所属者都变复数，所指数量均变多个；冠词同步，所属对应不变；不要调换短语或所属者）",
+          "answer": [
+            "les",
+            "bateaux",
+            "des",
+            "enfants",
+            "et",
+            "les",
+            "nez",
+            "des",
+            "garçons"
+          ],
+          "bank": [
+            "les",
+            "les",
+            "bateaux",
+            "des",
+            "des",
+            "enfants",
+            "et",
+            "nez",
+            "garçons",
+            "le",
+            "bateau",
+            "de",
+            "l'enfant",
+            "enfant",
+            "du",
+            "garçon"
+          ],
+          "translation": "孩子的船；男孩的鼻子（两个单数短语都改为复数）",
+          "explain": "bateau 以 -eau 结尾，复数加 -x 变 bateaux；nez 以 -z 结尾，复数不变。两个短语中的 de l' 和 du 都要按复数改成 des，冠词 le 变 les，最后用 et 连接：les bateaux des enfants et les nez des garçons。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l5-q11",
+          "type": "tiles",
+          "prompt": "把下面两个单数短语都改为复数，并按原列表顺序用 et 连接：le jeu de l'étudiant；le prix du livre → ___（所有名词包括 de 后的所属者或补语都变复数，所指数量均变多个；冠词同步，所属对应不变；不要调换短语或所属者）",
+          "answer": [
+            "les",
+            "jeux",
+            "des",
+            "étudiants",
+            "et",
+            "les",
+            "prix",
+            "des",
+            "livres"
+          ],
+          "bank": [
+            "les",
+            "les",
+            "jeux",
+            "des",
+            "des",
+            "étudiants",
+            "et",
+            "prix",
+            "livres",
+            "le",
+            "jeu",
+            "de",
+            "l'étudiant",
+            "étudiant",
+            "du",
+            "livre"
+          ],
+          "translation": "学生的游戏；书的价格（两个单数短语都改为复数）",
+          "explain": "jeu 以 -eu 结尾，复数加 -x 变 jeux；prix 以 -x 结尾，复数不变。de l' 和 du 在复数中都要变为 des，冠词 le 变 les，得到 les jeux des étudiants et les prix des livres。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l5-q12",
+          "type": "tiles",
+          "prompt": "把下面三个单数短语都改为复数，并按原列表顺序用 et 连接：le travail du père；le bureau du directeur；le nez du garçon → ___（所有名词包括 de 后的所属者都变复数，所指数量均变多个；冠词同步，所属对应不变；不要调换短语或所属者）",
+          "answer": [
+            "les",
+            "travaux",
+            "des",
+            "pères",
+            "et",
+            "les",
+            "bureaux",
+            "des",
+            "directeurs",
+            "et",
+            "les",
+            "nez",
+            "des",
+            "garçons"
+          ],
+          "bank": [
+            "les",
+            "les",
+            "les",
+            "travaux",
+            "des",
+            "des",
+            "des",
+            "pères",
+            "et",
+            "et",
+            "bureaux",
+            "directeurs",
+            "nez",
+            "garçons",
+            "le",
+            "travail",
+            "de",
+            "du",
+            "père",
+            "bureau",
+            "directeur",
+            "garçon"
+          ],
+          "translation": "父亲的工作；主任的办公室；男孩的鼻子（三个单数短语都改为复数）",
+          "explain": "travail 是 -ail 的例外，变 travaux；bureau 是 -eau 词，加 -x 变 bureaux；nez 以 -z 结尾，复数不变。三处 du 都是 de + le，复数时与 les 缩合成 des，冠词 le 变 les：les travaux des pères et les bureaux des directeurs et les nez des garçons。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l5-q13",
+          "type": "tiles",
+          "prompt": "把下面三个单数短语都改为复数，并按原列表顺序用 et 连接：le festival du village；le bijou de la fille；le prix du livre → ___（所有名词包括 de 后的所属者或补语都变复数，所指数量均变多个；冠词同步，所属对应不变；不要调换短语或所属者）",
+          "answer": [
+            "les",
+            "festivals",
+            "des",
+            "villages",
+            "et",
+            "les",
+            "bijoux",
+            "des",
+            "filles",
+            "et",
+            "les",
+            "prix",
+            "des",
+            "livres"
+          ],
+          "bank": [
+            "les",
+            "les",
+            "les",
+            "festivals",
+            "des",
+            "des",
+            "des",
+            "villages",
+            "et",
+            "et",
+            "bijoux",
+            "filles",
+            "prix",
+            "livres",
+            "le",
+            "festival",
+            "de",
+            "du",
+            "village",
+            "bijou",
+            "fille",
+            "livre"
+          ],
+          "translation": "村庄的节日；女孩的一件首饰；书的价格（三个单数短语都改为复数）",
+          "explain": "festival 是 -al 中加 -s 的例外，变 festivals；bijou 是 -ou 中加 -x 的七个词之一，变 bijoux；prix 以 -x 结尾，复数不变。du 和 de la 在复数中都要变为 des，冠词 le 变 les：les festivals des villages et les bijoux des filles et les prix des livres。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l5-q14",
+          "type": "tiles",
+          "prompt": "把下面两个单数短语都改为复数，并按原列表顺序用 et 连接：le jeu du garçon；le bijou de la mère → ___（所有名词包括 de 后的所属者都变复数，所指数量均变多个；冠词同步，所属对应不变；不要调换短语或所属者）",
+          "answer": [
+            "les",
+            "jeux",
+            "des",
+            "garçons",
+            "et",
+            "les",
+            "bijoux",
+            "des",
+            "mères"
+          ],
+          "bank": [
+            "les",
+            "les",
+            "jeux",
+            "des",
+            "des",
+            "garçons",
+            "et",
+            "bijoux",
+            "mères",
+            "le",
+            "jeu",
+            "de",
+            "du",
+            "garçon",
+            "bijou",
+            "mère"
+          ],
+          "translation": "男孩的游戏；母亲的首饰（两个单数短语都改为复数）",
+          "explain": "jeu 以 -eu 结尾，复数加 -x 变 jeux；bijou 是 -ou 加 -x 的七个词之一，变 bijoux。du 与 de la 在复数中都变为 des，冠词 le 变 les，得到 les jeux des garçons et les bijoux des mères。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l5-q15",
+          "type": "tiles",
+          "prompt": "把下面两个单数短语都改为复数，并按原列表顺序用 et 连接：le cheveu de l'enfant；le clou du mur → ___（所有名词包括 de 后的所属者或补语都变复数，所指数量均变多个；冠词同步，所属对应不变；不要调换短语或所属者）",
+          "answer": [
+            "les",
+            "cheveux",
+            "des",
+            "enfants",
+            "et",
+            "les",
+            "clous",
+            "des",
+            "murs"
+          ],
+          "bank": [
+            "les",
+            "les",
+            "cheveux",
+            "des",
+            "des",
+            "enfants",
+            "et",
+            "clous",
+            "murs",
+            "le",
+            "cheveu",
+            "de",
+            "l'enfant",
+            "enfant",
+            "du",
+            "clou",
+            "mur"
+          ],
+          "translation": "孩子的一根头发；墙上的钉子（两个单数短语都改为复数）",
+          "explain": "cheveu 以 -eu 结尾，通常加 -x 变 cheveux；clou 以 -ou 结尾，但不在 bijou、chou、caillou、genou、hibou、joujou、pou 这七个加 -x 的词里，所以按常规加 -s 变 clous。de l' 和 du 在复数中变为 des，冠词 le 变 les：les cheveux des enfants et les clous des murs。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l5-q16",
+          "type": "tiles",
+          "prompt": "把下面两个单数短语都改为复数，并按原列表顺序用 et 连接：le nez du garçon；le prix de la voiture → ___（所有名词包括 de 后的所属者或补语都变复数，所指数量均变多个；冠词同步，所属对应不变；不要调换短语或所属者）",
+          "answer": [
+            "les",
+            "nez",
+            "des",
+            "garçons",
+            "et",
+            "les",
+            "prix",
+            "des",
+            "voitures"
+          ],
+          "bank": [
+            "les",
+            "les",
+            "nez",
+            "des",
+            "des",
+            "garçons",
+            "et",
+            "prix",
+            "voitures",
+            "le",
+            "de",
+            "du",
+            "garçon",
+            "voiture",
+            "voix"
+          ],
+          "translation": "男孩的鼻子；汽车的价格（两个单数短语都改为复数）",
+          "explain": "nez 以 -z 结尾、prix 以 -x 结尾，复数都不变；冠词 le 变 les，du 和 de la 在复数中都变为 des，名词 voiture 加 -s：les nez des garçons et les prix des voitures。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l6",
+      "title": "冠词：不定、定指与部分",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c02-noun-phrases-l6-q1",
+          "type": "choice",
+          "prompt": "选择正确的不定冠词组合：『她买一条连衣裙和一些书。』",
+          "options": [
+            "un robe ; des livres",
+            "une robe ; les livres",
+            "une robe ; des livres",
+            "des robe ; des livres"
+          ],
+          "answer": 2,
+          "translation": "她买一条连衣裙和一些书。",
+          "explain": "robe 是阴性单数，用 une；livres 是复数，首次提及“一些书”用 des。因此是 une robe ; des livres。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q2",
+          "type": "choice",
+          "prompt": "选择正确形式：『今晚是满月。』___ lune est pleine ce soir.",
+          "options": [
+            "la",
+            "le",
+            "une",
+            "des"
+          ],
+          "answer": 0,
+          "translation": "今晚是满月。",
+          "explain": "La lune est pleine ce soir. 表示“今晚是满月”；月亮是独一无二的对象，用定冠词 la；lune 是阴性单数。不能用 le（阳性）或 une（一个）。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q3",
+          "type": "choice",
+          "prompt": "选择正确形式：『书（这一类）是有用的；她买了一本书。』（第一处统指书籍类别，第二处首次提及一本）",
+          "options": [
+            "Des livres ; un livre",
+            "Les livres ; le livre",
+            "Des livres ; le livre",
+            "Les livres ; un livre"
+          ],
+          "answer": 3,
+          "translation": "书（这一类）是有用的；她买了一本书。",
+          "explain": "第一处统指“书”这一类，用复数定冠词 Les livres；第二处首次提及一本具体的书，用不定冠词 un livre。因此是 Les livres ; un livre。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q4",
+          "type": "choice",
+          "prompt": "选择正确形式：『我看见一只狗。那只狗很大。』（第一次提到，随后回指）",
+          "options": [
+            "le chien ; Un chien",
+            "un chien ; Le chien",
+            "un chien ; Un chien",
+            "le chien ; Le chien"
+          ],
+          "answer": 1,
+          "translation": "我看见一只狗。那只狗很大。",
+          "explain": "第一次提到用不定冠词 un chien；后句回指同一只狗，用定冠词 Le chien。因此是 un chien ; Le chien。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q5",
+          "type": "choice",
+          "prompt": "选择正确形式：『我喜欢咖啡（泛指这一类）；早上我会喝一点咖啡。』",
+          "options": [
+            "du café ; le café",
+            "un café ; le café",
+            "le café ; du café",
+            "le café ; un café"
+          ],
+          "answer": 2,
+          "translation": "我喜欢咖啡；早上我会喝一点咖啡。",
+          "explain": "表示喜好、泛指咖啡这一类用定冠词 le café；表示喝一部分、不确定数量用部分冠词 du café。因此是 le café ; du café。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q6",
+          "type": "choice",
+          "prompt": "选择正确形式：『盘子里还剩一些汤。』Il reste ___ soupe dans l'assiette.",
+          "options": [
+            "du",
+            "de la",
+            "des",
+            "la"
+          ],
+          "answer": 1,
+          "translation": "盘子里还剩一些汤。",
+          "explain": "soupe 是阴性不可数名词，表示“一些汤”用部分冠词 de la；du 用于阳性，des 用于复数，la 是定冠词，都不符合这里的“一些”。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q7",
+          "type": "choice",
+          "prompt": "选择正确形式：『运动后我喝一些水。』Je bois ___ eau après le sport.",
+          "options": [
+            "du",
+            "de la",
+            "la",
+            "de l'"
+          ],
+          "answer": 3,
+          "translation": "运动后我喝一些水。",
+          "explain": "eau 以元音开头，阴性部分冠词 de la 要省音为 de l'，所以是 de l'eau；du 用于阳性名词，de la 不能直接接元音开头的 eau。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q8",
+          "type": "choice",
+          "prompt": "选择唯一正确的句子：『我喝一些水，然后去市场。』",
+          "options": [
+            "Je bois du eau et je vais au marché.",
+            "Je bois de l'eau et je vais à le marché.",
+            "Je bois de l'eau et je vais au marché.",
+            "Je bois de la eau et je vais du marché."
+          ],
+          "answer": 2,
+          "translation": "我喝一些水，然后去市场。",
+          "explain": "eau 以元音开头，部分冠词用 de l'；aller 的目的地“市场”要用 à + le 缩合成 au marché。因此只有 Je bois de l'eau et je vais au marché. 同时满足省音和缩合。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q9",
+          "type": "choice",
+          "prompt": "选择正确形式：『我去市场买一些面包。』",
+          "options": [
+            "au marché ; du pain",
+            "du marché ; au pain",
+            "à le marché ; du pain",
+            "au marché ; de le pain"
+          ],
+          "answer": 0,
+          "translation": "我去市场买一些面包。",
+          "explain": "去市场是 aller au marché，à + le 缩合为 au；买一些面包用部分冠词 du pain。因此是 au marché ; du pain。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q10",
+          "type": "choice",
+          "prompt": "选择正确形式：『院子里有一些孩子和一位女老师。』",
+          "options": [
+            "les enfants ; une maîtresse",
+            "des enfants ; une maîtresse",
+            "des enfants ; un maîtresse",
+            "un enfants ; des maîtresse"
+          ],
+          "answer": 1,
+          "translation": "院子里有一些孩子和一位女老师。",
+          "explain": "enfants 是复数，泛指“一些孩子”用 des；maîtresse 是阴性单数，用 une。因此是 des enfants ; une maîtresse。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q11",
+          "type": "choice",
+          "prompt": "选择正确形式：『她找一套公寓。这套公寓靠近车站。』（首次提及，随后回指）",
+          "options": [
+            "un appartement ; L'appartement",
+            "le appartement ; Un appartement",
+            "un appartement ; Un appartement",
+            "l'appartement ; Le appartement"
+          ],
+          "answer": 0,
+          "translation": "她找一套公寓。这套公寓靠近车站。",
+          "explain": "首次提及一套公寓用 un appartement；后句回指同一套公寓用定冠词，appartement 以元音开头，le 省音为 L'appartement。因此是 un appartement ; L'appartement。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q12",
+          "type": "choice",
+          "prompt": "选择正确形式：『孩子们喜欢蛋糕（泛指）；晚饭后他们只吃一点蛋糕。』",
+          "options": [
+            "du gâteau ; le gâteau",
+            "un gâteau ; le gâteau",
+            "le gâteau ; des gâteaux",
+            "le gâteau ; du gâteau"
+          ],
+          "answer": 3,
+          "translation": "孩子们喜欢蛋糕；晚饭后他们只吃一点蛋糕。",
+          "explain": "表示喜欢蛋糕这一类用定冠词 le gâteau；表示吃一部分、不确定数量用部分冠词 du gâteau。因此是 le gâteau ; du gâteau。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l7",
+      "title": "数量表达与 de",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c02-noun-phrases-l7-q1",
+          "type": "choice",
+          "prompt": "选择正确说法：『三个苹果』",
+          "options": [
+            "trois de pommes",
+            "un kilo de pommes",
+            "trois pommes",
+            "beaucoup de pommes"
+          ],
+          "answer": 2,
+          "translation": "三个苹果。",
+          "explain": "普通基数词 trois 直接修饰名词 pommes，说 trois pommes，中间不加 de。un kilo de pommes 是“一公斤苹果”，beaucoup de pommes 是“很多苹果”。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l7-q2",
+          "type": "choice",
+          "prompt": "选择正确说法：『很多书（泛指，不特指某些书）』",
+          "options": [
+            "beaucoup de livres",
+            "beaucoup des livres",
+            "beaucoup livres",
+            "beaucoup de le livres"
+          ],
+          "answer": 0,
+          "translation": "很多书。",
+          "explain": "数量副词 beaucoup 后用 de 引出名词，名词前不再保留冠词：beaucoup de livres。beaucoup des livres 需要特指“这些书中的很多”，不符合这里的泛指。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l7-q3",
+          "type": "tiles",
+          "prompt": "用「beaucoup」和「un livre」组成表示‘很多书（泛指）’的数量表达：___",
+          "answer": [
+            "beaucoup",
+            "de",
+            "livres"
+          ],
+          "bank": [
+            "beaucoup",
+            "de",
+            "livres",
+            "des",
+            "livre",
+            "les"
+          ],
+          "translation": "很多书（泛指）。",
+          "explain": "beaucoup 后接 de + 复数名词，名词不再带冠词：beaucoup de livres。livre 要随数量变为复数 livres。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l7-q4",
+          "type": "letters",
+          "prompt": "补出正确的数量结构：un peu + eau → un peu ___（只填一个词，注意省音）",
+          "answer": "d'eau",
+          "translation": "一点水（只填一个词）",
+          "explain": "un peu 后接 de + 名词；eau 以元音开头，de 省音为 d'，并与 eau 连写成 d'eau，所以是 un peu d'eau。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l7-q5",
+          "type": "choice",
+          "prompt": "选择正确形式：『我去市场买一公斤苹果。』",
+          "options": [
+            "du marché ; un kilo de pommes",
+            "au marché ; un kilo de pommes",
+            "au marché ; de kilo de pommes",
+            "à le marché ; un kilo de pommes"
+          ],
+          "answer": 1,
+          "translation": "我去市场买一公斤苹果。",
+          "explain": "去市场用 aller au marché，à + le 缩合为 au；一公斤苹果是 un kilo de pommes，un kilo 前用不定冠词 un，kilo 后用 de 引出内容。因此是 au marché ; un kilo de pommes。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l7-q6",
+          "type": "tiles",
+          "prompt": "用「un kilo」和「une pomme」组成表示‘一公斤苹果’的正确短语：___",
+          "answer": [
+            "un",
+            "kilo",
+            "de",
+            "pommes"
+          ],
+          "bank": [
+            "un",
+            "kilo",
+            "de",
+            "pommes",
+            "des",
+            "pomme",
+            "kilos"
+          ],
+          "translation": "一公斤苹果。",
+          "explain": "数量名词 un kilo 后用 de 引出内容，pomme 要变为复数 pommes：un kilo de pommes。不能说 un kilo des pommes 或 un kilo pommes。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l7-q7",
+          "type": "tiles",
+          "prompt": "用「beaucoup」和「un ami」组成表示‘很多朋友’的正确短语：___",
+          "answer": [
+            "beaucoup",
+            "d'amis"
+          ],
+          "bank": [
+            "beaucoup",
+            "d'amis",
+            "de",
+            "amis",
+            "des"
+          ],
+          "translation": "很多朋友。",
+          "explain": "beaucoup 后接 de + 名词；amis 以元音开头，de 省音为 d'，并与 amis 连写成 d'amis，所以是 beaucoup d'amis。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l7-q8",
+          "type": "choice",
+          "prompt": "选择正确说法：『两个苹果；两公斤苹果（泛指）』",
+          "options": [
+            "deux de pommes ; deux kilos pommes",
+            "deux pommes ; deux kilos des pommes",
+            "deux pommes de ; deux kilos de pommes",
+            "deux pommes ; deux kilos de pommes"
+          ],
+          "answer": 3,
+          "translation": "两个苹果；两公斤苹果。",
+          "explain": "普通数词 deux 直接修饰 pommes，说 deux pommes；数量名词 deux kilos 后要用 de 引出内容，说 deux kilos de pommes。两组结构不要混用。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l8",
+      "title": "名词补语与身体部位",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c02-noun-phrases-l8-q1",
+          "type": "choice",
+          "prompt": "选择固定搭配中正确的介词：une brosse ___ dents（牙刷）。",
+          "options": [
+            "à",
+            "a",
+            "de",
+            "en"
+          ],
+          "answer": 0,
+          "translation": "一把牙刷。",
+          "explain": "brosse à dents 是固定搭配，à 引出用途/功能，不是材料或所属；a 缺少重音符号，de/en 不符合该搭配。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l8-q2",
+          "type": "choice",
+          "prompt": "按本课“描述五官外观用定冠词”的模式选择：Elle a ___ yeux bleus.",
+          "options": [
+            "des",
+            "les",
+            "ses",
+            "le"
+          ],
+          "answer": 1,
+          "translation": "她有一双蓝眼睛。",
+          "explain": "描述眼睛外观时本课用定冠词 les（复数）；des yeux bleus 在有些语境也可成立，但不符合本题指定的外观描述模式；ses 强调所属，le 与复数 yeux 不配合。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l8-q3",
+          "type": "choice",
+          "prompt": "选择正确的一组形式（● 依次代表四个空）：① ● sac de sport（第一次提到）② la porte ● garage（车库已确指）③ les pages ● atlas（地图册已确指）④ les toits ● maisons（房子已确指）",
+          "options": [
+            "le / du / de l' / des",
+            "un / de le / de l' / de les",
+            "un / du / de l' / des",
+            "une / du / d' / des"
+          ],
+          "answer": 2,
+          "translation": "一个运动包；车库的门；地图册的书页；那些房子的屋顶。",
+          "explain": "①首次提到用不定冠词 un（sac 阳性）；②de + le → du；③de + l'atlas，de 与省音冠词 l' 分写；④de + les → des。注意 de + la/de + l' 不缩合。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l8-q4",
+          "type": "choice",
+          "prompt": "选择正确的一组形式（● 依次代表四个空）：① les élèves ● collège ② la porte ● salle ③ le nom ● homme ④ les fruits ● arbres",
+          "options": [
+            "du / de la / de l' / de les",
+            "de le / de la / de l' / des",
+            "du / la / d' / des",
+            "du / de la / de l' / des"
+          ],
+          "answer": 3,
+          "translation": "中学的学生们；教室的门；这个男人的名字；树上的果实。",
+          "explain": "①de+le→du；②de+la 保持分写；③de+l'homme，de 与省音冠词 l' 分写；④de+les→des。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l8-q5",
+          "type": "choice",
+          "prompt": "选择正确的一组形式（● 依次代表三个空）：① ● verre ● cristal（首次提到一只水晶杯，表材料）② le verre ● voisin（邻居的杯子，表所属）",
+          "options": [
+            "un / de / du",
+            "le / de / du",
+            "un / du / de",
+            "une / de / du"
+          ],
+          "answer": 0,
+          "translation": "一只水晶杯；邻居的杯子。",
+          "explain": "第1槽首次提到用不定冠词 un（verre 阳性）；第2槽 de 引出材料，材料补语不带冠词；第3槽 de+le→du，voisin 已确指。不定/定冠词与 de 材料/所属的对照都实际影响选择。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l8-q6",
+          "type": "tiles",
+          "prompt": "用词块组成正确短语：车库的门（这扇门确指）。",
+          "answer": [
+            "la",
+            "porte",
+            "du",
+            "garage"
+          ],
+          "bank": [
+            "la",
+            "porte",
+            "du",
+            "garage",
+            "de",
+            "le",
+            "des",
+            "une"
+          ],
+          "translation": "车库的门。",
+          "explain": "de + le 缩合为 du；la porte 为阴性单数，garage 为阳性单数。de le / des 都不符合这里的单数确指补语。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l8-q7",
+          "type": "choice",
+          "prompt": "选择正确的一组（①首次提到，②再次提到；这里指职业类别（音乐老师），不是某首特定音乐的所属）：",
+          "options": [
+            "le professeur de la musique / un professeur de la musique",
+            "un professeur de musique / le professeur de musique",
+            "un professeur de la musique / le professeur de musique",
+            "un professeur de musique / le professeur de la musique"
+          ],
+          "answer": 1,
+          "translation": "一位音乐老师到了；这位音乐老师来自里昂。",
+          "explain": "首次提到用不定冠词 un，再次提到用定冠词 le（professeur 阳性）。de musique 是职业类别补语，不带冠词；de la musique 会读成特定音乐的所属，不符合这里的职业类别语义。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l8-q8",
+          "type": "tiles",
+          "prompt": "用词块把 un habitant de l'île 改为复数，组成完整名词短语（保持不定指，de 补语保持不变）。",
+          "answer": [
+            "des",
+            "habitants",
+            "de",
+            "l'île"
+          ],
+          "bank": [
+            "des",
+            "habitants",
+            "de",
+            "l'île",
+            "un",
+            "habitant",
+            "les"
+          ],
+          "translation": "岛上的一些居民。",
+          "explain": "un→des，habitant→habitants；补语 de l'île 确指，de 与省音冠词 l' 保持分写，不缩合。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l8-q9",
+          "type": "choice",
+          "prompt": "选择正确的一组形式（● 依次代表两个空）：① ● jus de pomme（第一次提到）② un jus ● orange（元音前）",
+          "options": [
+            "le / de",
+            "un / de",
+            "un / d'",
+            "une / d'"
+          ],
+          "answer": 2,
+          "translation": "第一次提到的一杯苹果汁；元音前省音的一杯橙汁。",
+          "explain": "①首次提到用 un（jus 阳性），de pomme 是内容补语，不省音；②de 在元音 orange 前省音为 d'，写成 d'orange。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l8-q10",
+          "type": "choice",
+          "prompt": "把三个单数名词短语改为复数（保持不定指，只把中心名词改为复数）：un gâteau de riz / un livre de cuisine / un jeu de société",
+          "options": [
+            "des gâteaus de riz / des livres de cuisine / des jeus de société",
+            "des gâteaux de riz / des livre de cuisine / des jeux de société",
+            "des gâteaux du riz / des livres de la cuisine / des jeux de société",
+            "des gâteaux de riz / des livres de cuisine / des jeux de société"
+          ],
+          "answer": 3,
+          "translation": "米糕（复数）；烹饪书（复数）；桌游（复数）。",
+          "explain": "un→des；gâteau 以 -eau 结尾加 -x 成 gâteaux；livre 一般加 -s 成 livres；jeu 以 -eu 结尾加 -x 成 jeux；de riz / de cuisine / de société 是类别或内容补语，不带冠词，不能改成 du riz / de la cuisine。干扰项分别检验 -eau、一般 -s、-eu→-x 与补语不带冠词。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l8-q11",
+          "type": "tiles",
+          "prompt": "把两个短语的中心名词改为复数（保持不定指，de 补语保持不变），并按原列表顺序用 et 连接，不重排：une tasse de thé / un enfant de la ville",
+          "answer": [
+            "des",
+            "tasses",
+            "de",
+            "thé",
+            "et",
+            "des",
+            "enfants",
+            "de",
+            "la",
+            "ville"
+          ],
+          "bank": [
+            "des",
+            "des",
+            "tasses",
+            "de",
+            "de",
+            "thé",
+            "et",
+            "enfants",
+            "la",
+            "ville",
+            "une",
+            "tasse",
+            "un",
+            "enfant",
+            "les"
+          ],
+          "translation": "几杯茶和几个城市里的孩子。",
+          "explain": "une/un→des；tasse→tasses，enfant→enfants；de thé 是内容补语，不带冠词；de la ville 中 de+la 保持分写。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l8-q12",
+          "type": "choice",
+          "prompt": "识别：按代词式动词的身体部位表达，Il se lave ___ mains. 选择最符合本课模式的冠词。",
+          "options": [
+            "les",
+            "ses",
+            "des",
+            "la"
+          ],
+          "answer": 0,
+          "translation": "识别代词式动词后身体部位前的冠词选择。",
+          "explain": "代词式动词 se laver 后，身体部位通常用定冠词 les：Il se lave les mains。ses 强调所属，不是本课模式；des 本身可作复数不定冠词，也能与复数 mains 搭配，但不符合本题指定的定冠词模式；la 与复数 mains 不配合。本节点只要求识别，不要求产出代词式句子。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l8-q13",
+          "type": "choice",
+          "prompt": "识别：un pull en laine 中 en 引出的补语表示什么？",
+          "options": [
+            "用途",
+            "材质",
+            "所属",
+            "数量"
+          ],
+          "answer": 1,
+          "translation": "识别 en 补语在“羊毛衫”中的功能。",
+          "explain": "en + 名词（通常不带冠词）说明材质/形式：un pull en laine 表示羊毛材质。à 常表用途，de 可表所属/类别/材料；有些材料表达 de 和 en 都可能，需按固定搭配判断。本节点只要求识别 en 材质功能。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l8-q14",
+          "type": "choice",
+          "prompt": "选择正确的一组形式（● 依次代表四个空）：① ● verre d'eau（第一次提到一杯水）② les affaires ● élèves（学生们的物品，学生们确指）③ la porte ● salle（教室的门，教室确指）④ le nom ● école（学校的名字，学校确指）",
+          "options": [
+            "le / des / de la / de l'",
+            "un / de les / de la / de l'",
+            "un / des / de la / de l'",
+            "un / des / la / d'"
+          ],
+          "answer": 2,
+          "translation": "一杯水；学生们的物品；教室的门；学校的名字。",
+          "explain": "①首次提到一杯水用不定冠词 un（verre 阳性）；②de+les→des；③de+la 保持分写；④de+l'école 保持分写，l' 是省音冠词，不能写成 d'。四槽同时判断不定冠词、缩合、保持分写与省音。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l9",
+      "title": "名词短语单复数转换",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c02-noun-phrases-l9-q1",
+          "type": "tiles",
+          "prompt": "把两句中所有所指都改为多个（包括介词后的名词），保持原对应关系；主语和动词形式保持不变，按原句顺序连接，不重排：Je parle de l'animal. / Je vais au bal.",
+          "answer": [
+            "Je",
+            "parle",
+            "des",
+            "animaux.",
+            "Je",
+            "vais",
+            "aux",
+            "bals."
+          ],
+          "bank": [
+            "Je",
+            "parle",
+            "des",
+            "animaux.",
+            "Je",
+            "vais",
+            "aux",
+            "bals.",
+            "de",
+            "l'animal.",
+            "au",
+            "bal.",
+            "les",
+            "animal."
+          ],
+          "translation": "我谈论那些动物；我去参加那些舞会。",
+          "explain": "de + l'animal 变复数：de + les → des，animal 以 -al 结尾变 animaux；au bal 变复数：à + les → aux，bal 是 -al 例外，只加 -s 成 bals。主语 Je 和动词 parle/vais 保持不变。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l9-q2",
+          "type": "choice",
+          "prompt": "把两句中所有所指都改为多个（包括介词后的名词），保持原对应关系；保持主语和动词形式：Je vais à l'hôpital. / Je parle du festival.",
+          "options": [
+            "Je vais à les hôpitaux. Je parle des festivals.",
+            "Je vais aux hôpitaux. Je parle de les festivals.",
+            "Je vais à l'hôpitaux. Je parle des festivals.",
+            "Je vais aux hôpitaux. Je parle des festivals."
+          ],
+          "answer": 3,
+          "translation": "我去这些医院；我谈论这些节日。",
+          "explain": "①à + l'hôpital 变复数：à + les → aux，hôpital 变 hôpitaux；②de + le → du 变复数 de + les → des，festival 是 -al 例外，加 -s 成 festivals。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l9-q3",
+          "type": "tiles",
+          "prompt": "把整个名词短语改为复数：所有所指都变为多个（cahier 和 élève 都变复数），并保持所属对应：le cahier de l'élève",
+          "answer": [
+            "les",
+            "cahiers",
+            "des",
+            "élèves"
+          ],
+          "bank": [
+            "les",
+            "cahiers",
+            "des",
+            "élèves",
+            "le",
+            "cahier",
+            "de",
+            "l'élève",
+            "élève"
+          ],
+          "translation": "这个学生的笔记本 → 这些学生的笔记本。",
+          "explain": "le→les，cahier→cahiers；de + l'élève 变复数时 de + les → des élèves，省音冠词 l' 不再出现。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l9-q4",
+          "type": "choice",
+          "prompt": "把两个短语中所有所指都改为多个（包括介词后的名词），并保持所属/对应关系：le prix du livre / la visite au musée",
+          "options": [
+            "les prix des livres / les visites aux musées",
+            "les prix de les livres / les visites aux musées",
+            "les prix des livres / les visites à les musées",
+            "les prix du livres / les visites au musées"
+          ],
+          "answer": 0,
+          "translation": "书的价格（复数）；博物馆参观（复数）。",
+          "explain": "①le→les，prix 单复数同形，du（de+le）变复数 des（de+les），livre→livres；②la→les，visite→visites，au（à+le）变复数 aux（à+les），musée→musées。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l9-q5",
+          "type": "choice",
+          "prompt": "把 une entrée au musée 中所有所指都改为多个（包括 au 后的名词），保持不定指和对应关系。",
+          "options": [
+            "les entrées aux musées",
+            "des entrées aux musées",
+            "des entrées à les musées",
+            "de entrées au musées"
+          ],
+          "answer": 1,
+          "translation": "博物馆的一些入场券。",
+          "explain": "une→des，entrée→entrées；au 是 à+le，变复数时 à+les→aux，musée→musées。保持不定指，所以不能用 les。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l9-q6",
+          "type": "choice",
+          "prompt": "把 la porte du garage 中所有所指都改为多个（包括 du 后的名词），并保持所属对应。",
+          "options": [
+            "les portes de les garages",
+            "les portes du garages",
+            "les portes des garages",
+            "les porte des garage"
+          ],
+          "answer": 2,
+          "translation": "车库的门（复数）。",
+          "explain": "la→les，porte→portes；du 是 de+le，变复数时 de+les→des，garage→garages。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l9-q7",
+          "type": "choice",
+          "prompt": "把两个名词短语分别改为复数，保持不定/确指：un enfant / le voisin",
+          "options": [
+            "les enfants / des voisins",
+            "des enfant / les voisin",
+            "de enfants / le voisins",
+            "des enfants / les voisins"
+          ],
+          "answer": 3,
+          "translation": "一些孩子；这些邻居。",
+          "explain": "un enfant→des enfants（不定复数）；le voisin→les voisins（定冠词复数）。冠词和名词都要变。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l9-q8",
+          "type": "choice",
+          "prompt": "把两个定指名词短语改为复数：le tableau / la fenêtre",
+          "options": [
+            "les tableaux / les fenêtres",
+            "les tableaus / les fenêtres",
+            "les tableaux / les fenêtre",
+            "le tableaux / les fenêtres"
+          ],
+          "answer": 0,
+          "translation": "这些画/黑板；这些窗户。",
+          "explain": "le/la→les；tableau 以 -eau 结尾加 -x 成 tableaux；fenêtre 一般加 -s 成 fenêtres。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l9-q9",
+          "type": "choice",
+          "prompt": "把两个不定指名词短语改为复数：un étudiant / une fleur",
+          "options": [
+            "des étudients / des fleurs",
+            "des étudiants / des fleurs",
+            "des étudiants / des fleur",
+            "de étudiants / des fleurs"
+          ],
+          "answer": 1,
+          "translation": "一些大学生（阳性）；一些花。",
+          "explain": "un/une→des；étudiant 加 -s 成 étudiants（保留 é），fleur 加 -s 成 fleurs。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l9-q10",
+          "type": "tiles",
+          "prompt": "把 un étudiant 改为复数，用词块组成完整名词短语（保持不定指）。",
+          "answer": [
+            "des",
+            "étudiants"
+          ],
+          "bank": [
+            "des",
+            "étudiants",
+            "un",
+            "étudiant",
+            "les",
+            "étudiantes"
+          ],
+          "translation": "一些大学生（阳性）。",
+          "explain": "un→des，étudiant→étudiants；不能选 les（定指）或 étudiantes（阴性）。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l9-q11",
+          "type": "choice",
+          "prompt": "把两个名词短语改为复数：un nez / un cours",
+          "options": [
+            "des nezs / des cours",
+            "des nez / des courses",
+            "des nez / des cours",
+            "des nes / des cours"
+          ],
+          "answer": 2,
+          "translation": "一些鼻子；一些课程。",
+          "explain": "un→des；nez 以 -z 结尾、cours 以 -s 结尾，复数都不加 -s，保持 nez / cours。courses 是另一个名词，不是 cours 的复数。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l9-q12",
+          "type": "tiles",
+          "prompt": "把 un nez 改为复数，用词块组成完整名词短语（保持不定指）。",
+          "answer": [
+            "des",
+            "nez"
+          ],
+          "bank": [
+            "des",
+            "nez",
+            "un",
+            "les",
+            "nes",
+            "nezs"
+          ],
+          "translation": "一些鼻子。",
+          "explain": "nez 以 -z 结尾，复数形式不变；只把冠词 un 改为 des。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l9-q13",
+          "type": "choice",
+          "prompt": "把 un œil 改为复数，保持不定指。",
+          "options": [
+            "des œils",
+            "les yeux",
+            "des oeils",
+            "des yeux"
+          ],
+          "answer": 3,
+          "translation": "一些眼睛。",
+          "explain": "œil 的不规则复数是 yeux；不定冠词 un 变 des。les yeux 是定指，des œils/des oeils 不是这里的标准复数。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l9-q14",
+          "type": "tiles",
+          "prompt": "把 un monsieur 改为复数，用词块组成完整名词短语（保持不定指）。",
+          "answer": [
+            "des",
+            "messieurs"
+          ],
+          "bank": [
+            "des",
+            "messieurs",
+            "un",
+            "monsieur",
+            "les",
+            "mesdames"
+          ],
+          "translation": "几位先生。",
+          "explain": "monsieur 的复数是不规则的 messieurs；冠词 un→des。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l9-q15",
+          "type": "choice",
+          "prompt": "把两个名词短语改为复数：un village / une école",
+          "options": [
+            "des villages / des écoles",
+            "des villagess / des écoles",
+            "des villages / des école",
+            "de villages / des écoles"
+          ],
+          "answer": 0,
+          "translation": "一些村庄；一些学校。",
+          "explain": "un/une→des；village→villages，école→écoles，都是一般加 -s。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l9-q16",
+          "type": "choice",
+          "prompt": "识别本课给出的称呼复数：作为称呼语，Madame 的复数形式是：",
+          "options": [
+            "Madames",
+            "Mesdames",
+            "Dames",
+            "Mesdemoiselles"
+          ],
+          "answer": 1,
+          "translation": "识别称呼 Madame 的复数形式。",
+          "explain": "作为称呼/称谓，Madame 的复数对应是 Mesdames；它是词汇性复数，不靠加 -s。Dames 是另一个名词 dame 的复数，Mesdemoiselles 是 Mademoiselle 的复数。本题只识别称呼形式，不构成 une/des 名词短语。"
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "pub-c02-noun-phrases-x1",
+      "title": "性数、冠词与数量综合",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c02-noun-phrases-x1-q1",
+          "type": "choice",
+          "prompt": "选择正确的一组形式（● 依次代表两个空）：① 泛指喜欢音乐这一类：J'aime ● musique. ② 正在听一些音乐：J'écoute ● musique.",
+          "options": [
+            "de la / la",
+            "la / la",
+            "la / de la",
+            "de la / de la"
+          ],
+          "answer": 2,
+          "translation": "我喜欢音乐；我在听一些音乐。",
+          "explain": "①泛指类别、表达喜好用定冠词 la musique；②表示不确定数量的一部分用部分冠词 de la musique。判断依据是语义，不是名词本身。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x1-q2",
+          "type": "choice",
+          "prompt": "选择正确的一组形式（● 依次代表两个空）：● soleil se lève à l'est. ● lune est pleine.",
+          "options": [
+            "Le / La",
+            "La / Le",
+            "Un / Une",
+            "Le / Une"
+          ],
+          "answer": 0,
+          "translation": "太阳从东方升起；今晚是满月。",
+          "explain": "独一无二的对象用定冠词；soleil 阳性用 le，lune 阴性用 la。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x1-q3",
+          "type": "choice",
+          "prompt": "选择正确的一组形式（● 依次代表两个空；首次引入且不特指，随后回指同一只猫）：J'ai vu ● chat dans le jardin. ● chat était noir.",
+          "options": [
+            "le / Un",
+            "un / Un",
+            "le / Le",
+            "un / Le"
+          ],
+          "answer": 3,
+          "translation": "我在花园里看见一只猫；这只猫是黑色的。",
+          "explain": "首次提到用不定冠词 un；再次提到同一只猫用定冠词 le。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x1-q4",
+          "type": "choice",
+          "prompt": "选择正确形式（一些水，不是特定水）：Je bois ___ eau après le sport.",
+          "options": [
+            "du",
+            "de l'",
+            "la",
+            "de la"
+          ],
+          "answer": 1,
+          "translation": "运动后我喝一些水。",
+          "explain": "eau 是阴性不可数名词，部分冠词 de la 遇元音省音为 de l'；du 用于阳性，la 是定冠词，de la 未省音。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x1-q5",
+          "type": "choice",
+          "prompt": "选择正确的一组形式（● 依次代表两个空；苹果不特指、只是买一些；米取用一部分）：J'achète ● pommes au marché, et je prends aussi ● riz.",
+          "options": [
+            "des / du",
+            "du / des",
+            "des / de",
+            "les / du"
+          ],
+          "answer": 0,
+          "translation": "我在市场买一些苹果，也买一些米。",
+          "explain": "pommes 是可数复数，用不定复数冠词 des；riz 是不可数阳性，用部分冠词 du。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x1-q6",
+          "type": "choice",
+          "prompt": "选择正确的一组形式（● 依次代表三个位置；— 表示不加任何词）：① J'ai beaucoup ● livres. ② J'ai deux ● livres. ③ J'ai un kilo ● tomates.",
+          "options": [
+            "des / — / des",
+            "de / de / de",
+            "de / — / de",
+            "de / — / des"
+          ],
+          "answer": 2,
+          "translation": "我有很多书；我有两本书；我有一公斤西红柿。",
+          "explain": "beaucoup 后接 de + 名词；普通基数词 deux 直接修饰名词，不加 de；数量名词 un kilo 后用 de 引出内容。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x1-q7",
+          "type": "choice",
+          "prompt": "选择正确的一组形式（● 依次代表两个空）：un verre ● eau ; beaucoup ● étudiants",
+          "options": [
+            "de / de",
+            "d' / d'",
+            "du / des",
+            "d' / de"
+          ],
+          "answer": 1,
+          "translation": "一杯水；很多学生。",
+          "explain": "un verre 是数量名词，后接 de + 内容；beaucoup 是数量副词，后接 de + 名词。de 在元音前都省音为 d'：d'eau、d'étudiants。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x1-q8",
+          "type": "choice",
+          "prompt": "选择正确的一组形式（● 依次代表两个空；首次引入一个问题和一个解决办法，均不特指）：Il y a ● problème et ● solution.",
+          "options": [
+            "une / un",
+            "le / la",
+            "un / la",
+            "un / une"
+          ],
+          "answer": 3,
+          "translation": "有一个问题和一个解决办法。",
+          "explain": "problème 是阳性，用 un；solution 是阴性，用 une。冠词要与名词性数配合。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x1-q9",
+          "type": "choice",
+          "prompt": "识别：un livre 与 une livre 的意义差别是：",
+          "options": [
+            "un livre = 一本书；une livre = 一磅（重量单位）",
+            "un livre = 一磅；une livre = 一本书",
+            "两者都只表示书，只是语法性别不同",
+            "un livre = 书；une livre = 书店"
+          ],
+          "answer": 0,
+          "translation": "识别两个短语的意义差别。",
+          "explain": "livre 的性别改变词义：un livre 是“书”，une livre 是“磅”（重量单位，也可指旧货币单位）。这是词汇性别对，不是同一意义的两种冠词。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x1-q10",
+          "type": "choice",
+          "prompt": "选择正确的一组形式（● 依次代表三个空；蔬菜不特指、买一些；面包先买一些，随后表达泛指喜好）：Au marché, j'achète ● légumes et ● pain. J'aime ● pain frais.",
+          "options": [
+            "les / du / le",
+            "des / le / du",
+            "des / du / le",
+            "des / du / du"
+          ],
+          "answer": 2,
+          "translation": "在市场，我买一些蔬菜和一些面包；我喜欢新鲜面包。",
+          "explain": "légumes 可数复数，用 des；pain 不可数，买一些用部分冠词 du；表达喜好、泛指类别用定冠词 le pain。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-x2",
+      "title": "复数、补语与缩合综合",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c02-noun-phrases-x2-q1",
+          "type": "choice",
+          "prompt": "把两句中所有所指都改为多个（包括介词后的名词），保持原对应关系；保持主语和动词形式：Je pense au détail. / Je parle de l'animal.",
+          "options": [
+            "Je pense aux détails. Je parle des animaux.",
+            "Je pense à les détails. Je parle des animaux.",
+            "Je pense aux détails. Je parle de les animaux.",
+            "Je pense au détails. Je parle des animal."
+          ],
+          "answer": 0,
+          "translation": "我想到这些细节；我谈论这些动物。",
+          "explain": "①au（à+le）变复数 aux（à+les），détail 以 -ail 结尾多数加 -s 成 détails；②de+l'animal 变复数 de+les→des，animal 以 -al 结尾变 animaux。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x2-q2",
+          "type": "choice",
+          "prompt": "把三个短语的中心名词改为复数（de 补语保持不变）：un château de sable / un bijou de famille / un livre de cuisine",
+          "options": [
+            "des châteaus de sable / des bijoux de famille / des livres de cuisine",
+            "des châteaux de sable / des bijoux de famille / des livres de cuisine",
+            "des châteaux de sable / des bijous de famille / des livres de cuisine",
+            "des châteaux de sable / des bijoux de famille / des livre de cuisine"
+          ],
+          "answer": 1,
+          "translation": "沙堡（复数）；传家珠宝（复数）；烹饪书（复数）。",
+          "explain": "un→des；château→châteaux（-eau 加 -x）；bijou→bijoux（-ou 七个加 -x 的词之一）；livre→livres（一般加 -s）。de 补语保持不变。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x2-q3",
+          "type": "choice",
+          "prompt": "把两个短语的中心名词改为复数（de 补语保持不变）：le prix du billet / le choix de l'élève",
+          "options": [
+            "les prix du billet / les chois de l'élève",
+            "les prix du billet / les choix de les élèves",
+            "les prix du billet / les choix de l'élève",
+            "les prix du billets / les choix de l'élève"
+          ],
+          "answer": 2,
+          "translation": "这些票价；这个学生的几个选择。",
+          "explain": "le→les；prix 以 -x 结尾、choix 以 -x 结尾，复数不变；du billet 和 de l'élève 是已给补语，本题保持原数和原所属，不把补语改复数。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x2-q4",
+          "type": "choice",
+          "prompt": "只把 œil 改为复数（冠词 l' 相应调整），de 补语保持不变：l'œil de la poupée",
+          "options": [
+            "les œils de la poupée",
+            "les yeux des poupées",
+            "des yeux de la poupée",
+            "les yeux de la poupée"
+          ],
+          "answer": 3,
+          "translation": "娃娃的眼睛（复数）。",
+          "explain": "œil→yeux，冠词 l' 相应改为 les；de la poupée 保持不变。des yeux 会改变定指，les œils 不是标准复数。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x2-q5",
+          "type": "choice",
+          "prompt": "按本课“描述外观用定冠词”的模式，把 Il a un œil bleu 改为复数（形容词形式已给 bleus）：",
+          "options": [
+            "Il a les yeux bleus.",
+            "Il a des yeux bleus.",
+            "Il a ses yeux bleus.",
+            "Il a le yeux bleus."
+          ],
+          "answer": 0,
+          "translation": "他有一双蓝眼睛。",
+          "explain": "œil→yeux，un→les（身体部位外观用定冠词），形容词 bleu 随复数变 bleus（形式已给，本题不考形容词词形）。des yeux bleus/ses yeux bleus 在别的语境可成立，但不符合本题指定的外观描述模式。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x2-q6",
+          "type": "choice",
+          "prompt": "把 une machine à café 改为复数。",
+          "options": [
+            "des machines de café",
+            "des machines à café",
+            "des machine à café",
+            "des machines à cafés"
+          ],
+          "answer": 1,
+          "translation": "几台咖啡机。",
+          "explain": "une→des，machine→machines；à café 是用途补语，保持 à，不加冠词，也不变成 de；café 在这个固定搭配中保持单数。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x2-q7",
+          "type": "choice",
+          "prompt": "把 le nom de l'école 改为复数：所有所指都变为多个（包括 de 后的名词），并保持所属对应。",
+          "options": [
+            "les noms de les écoles",
+            "les nom de l'école",
+            "les noms des écoles",
+            "les noms de l'écoles"
+          ],
+          "answer": 2,
+          "translation": "这些学校的名字。",
+          "explain": "le→les，nom→noms；de+l'école 变复数 de+les→des écoles，省音冠词 l' 不再出现。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x2-q8",
+          "type": "choice",
+          "prompt": "识别：Elle se brosse ___ dents.（她刷牙。）按代词式动词的身体部位表达，选择最符合本课模式的冠词。",
+          "options": [
+            "ses",
+            "des",
+            "la",
+            "les"
+          ],
+          "answer": 3,
+          "translation": "识别“她刷牙”中身体部位前的冠词选择。",
+          "explain": "se brosser 后身体部位通常用定冠词 les：Elle se brosse les dents。ses 强调所属；des 是复数不定冠词，形式本身能与 dents 搭配，但不符合本题指定的定冠词模式；la 与复数 dents 不配合。仅识别，不要求产出代词式句子。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x2-q9",
+          "type": "choice",
+          "prompt": "把两个短语的中心名词改为复数（de 补语保持不变）：une bouteille de vin / un habitant de la ville",
+          "options": [
+            "des bouteilles de vin / des habitants de la ville",
+            "des bouteilles du vin / des habitants de la ville",
+            "des bouteilles de vin / des habitants de les ville",
+            "des bouteille de vin / des habitants de la ville"
+          ],
+          "answer": 0,
+          "translation": "几瓶葡萄酒；几个城市居民。",
+          "explain": "une/un→des；bouteille→bouteilles，habitant→habitants；de vin 是内容补语，不带冠词；de la ville 中 de+la 保持分写。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-x2-q10",
+          "type": "choice",
+          "prompt": "把 le prix du billet 中所有所指都改为多个（包括 du 后的名词），并保持所属对应。",
+          "options": [
+            "les prix de les billets",
+            "les prix des billets",
+            "les prix du billets",
+            "les prix des billet"
+          ],
+          "answer": 1,
+          "translation": "这些票的价格。",
+          "explain": "le→les，prix 单复数同形，billet→billets；du（de+le）变复数 des（de+les）。"
+        }
+      ]
+    }
+  ]
+}

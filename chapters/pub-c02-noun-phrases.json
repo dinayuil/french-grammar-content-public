@@ -111,7 +111,7 @@
     {
       "id": "pub-c02-noun-phrases-card-u8-2",
       "title": "名词 + de + 名词：材料、类别与所属",
-      "body": "de + 名词可表材料、类别、内容或所属。表分类/材料的补语常不带冠词：une table de bois（木桌）、un professeur de musique（音乐老师）。表内容/数量的 de 也可不带冠词：une tasse de thé（一杯茶）。\n\n补语确指时保留定冠词，并按 C01 规则缩合或省音：la porte du garage（de + le → du）、les toits des maisons（de + les → des）、la couleur de la mer（de + la 不变）、le nom de l'école（de + l' 不变；l' 是省音冠词）。\n\n注意：只有 de + le/les 才缩合，de + la/de + l' 保持分写。不要因为形式相同就把所有 des 都叫部分冠词：这里 des 通常是 de + les 的缩合，或复数不定冠词；du/de la/de l' 才与部分冠词同形。部分冠词的语义对照见 U6，本卡只处理名词补语中的限定、分类与所属。\n\n与 en 对照：une bague en or 用 en 讲材质；de 也能出现在材料/类别组合中，需按固定搭配和语义逐词判断。"
+      "body": "de + 名词可表材料、类别、内容或所属。表分类/材料的补语常不带冠词：une table de bois（木桌）、un professeur de musique（音乐老师）。表内容/数量的 de 也可不带冠词：une tasse de thé（一杯茶）。\n\n补语确指时保留定冠词，并按第1章「冠词形式与词间拼写」的规则缩合或省音：la porte du garage（de + le → du）、les toits des maisons（de + les → des）、la couleur de la mer（de + la 不变）、le nom de l'école（de + l' 不变；l' 是省音冠词）。\n\n注意：只有 de + le/les 才缩合，de + la/de + l' 保持分写。不要因为形式相同就把所有 des 都叫部分冠词：这里 des 通常是 de + les 的缩合，或复数不定冠词；du/de la/de l' 才与部分冠词同形。部分冠词的语义对照见本章「冠词：不定、定指与部分」一关，本卡只处理名词补语中的限定、分类与所属。\n\n与 en 对照：une bague en or 用 en 讲材质；de 也能出现在材料/类别组合中，需按固定搭配和语义逐词判断。"
     },
     {
       "id": "pub-c02-noun-phrases-card-u8-3",
@@ -126,7 +126,7 @@
     {
       "id": "pub-c02-noun-phrases-card-u9-1",
       "title": "单复数转换：整组名词短语一起变",
-      "body": "做单复数转换，先确定改数范围，再动形式。只要求中心名词及其冠词变复数时，de 补语通常保持原所指和原形式：le cahier de l'élève → les cahiers de l'élève（只有笔记本变多，仍属于同一个学生）。\n\n只有题目明确要求所属者/补语所指也变多个时，才联动补语：le cahier de l'élève → les cahiers des élèves（学生也变多）；une visite au musée → des visites au musée（只有参观变多，仍指同一个博物馆），而 des visites aux musées 表示参观多个博物馆。\n\n中心名词的冠词随中心名词变。本次转换只决定补语是否也改数：补语不改数时，不要自动把它变复数；补语确需变复数时，才由 de+les/à+les 形成 des/aux。de/à 与定冠词的缩合仍按 C01：de+le→du、de+les→des，à+le→au、à+les→aux；de+la/de+l'、à+la/à+l' 保持分写。本章只做名词短语级转换：不要求 c'est/ce sont 转换，也不要求自主动词变位。如果源句保留主语和动词形式，题目会说明。\n\n名词单复数同形时要逐词判断：nez、voix、cours 不变；œil→yeux、monsieur→messieurs 等要整体记。"
+      "body": "做单复数转换，先确定改数范围，再动形式。只要求中心名词及其冠词变复数时，de 补语通常保持原所指和原形式：le cahier de l'élève → les cahiers de l'élève（只有笔记本变多，仍属于同一个学生）。\n\n只有题目明确要求所属者/补语所指也变多个时，才联动补语：le cahier de l'élève → les cahiers des élèves（学生也变多）；une visite au musée → des visites au musée（只有参观变多，仍指同一个博物馆），而 des visites aux musées 表示参观多个博物馆。\n\n中心名词的冠词随中心名词变。本次转换只决定补语是否也改数：补语不改数时，不要自动把它变复数；补语确需变复数时，才由 de+les/à+les 形成 des/aux。de/à 与定冠词的缩合仍按第1章「冠词形式与词间拼写」的规则：de+le→du、de+les→des，à+le→au、à+les→aux；de+la/de+l'、à+la/à+l' 保持分写。本章只做名词短语级转换：不要求 c'est/ce sont 转换，也不要求自主动词变位。如果源句保留主语和动词形式，题目会说明。\n\n名词单复数同形时要逐词判断：nez、voix、cours 不变；œil→yeux、monsieur→messieurs 等要整体记。"
     },
     {
       "id": "pub-c02-noun-phrases-card-u9-2",
@@ -1568,7 +1568,7 @@
         {
           "id": "pub-c02-noun-phrases-l8-q3",
           "type": "choice",
-          "prompt": "选择正确的一组形式（● 依次代表四个空）：① ● sac de sport（第一次提到）② la porte ● garage（车库已确指）③ les pages ● atlas（地图册已确指）④ les toits ● maisons（房子已确指）",
+          "prompt": "选择正确的一组形式：① ___ sac de sport（第一次提到）② la porte ___ garage（车库已确指）③ les pages ___ atlas（地图册已确指）④ les toits ___ maisons（房子已确指）",
           "options": [
             "le / du / de l' / des",
             "un / de le / de l' / de les",
@@ -1582,7 +1582,7 @@
         {
           "id": "pub-c02-noun-phrases-l8-q4",
           "type": "choice",
-          "prompt": "选择正确的一组形式（● 依次代表四个空）：① les élèves ● collège ② la porte ● salle ③ le nom ● homme ④ les fruits ● arbres",
+          "prompt": "选择正确的一组形式：① les élèves ___ collège ② la porte ___ salle ③ le nom ___ homme ④ les fruits ___ arbres",
           "options": [
             "du / de la / de l' / de les",
             "de le / de la / de l' / des",
@@ -1596,7 +1596,7 @@
         {
           "id": "pub-c02-noun-phrases-l8-q5",
           "type": "choice",
-          "prompt": "选择正确的一组形式（● 依次代表三个空）：① ● verre ● cristal（首次提到一只水晶杯，表材料）② le verre ● voisin（邻居的杯子，表所属）",
+          "prompt": "选择正确的一组形式：① ___ verre ___ cristal（首次提到一只水晶杯，表材料）② le verre ___ voisin（邻居的杯子，表所属）",
           "options": [
             "un / de / du",
             "le / de / du",
@@ -1669,7 +1669,7 @@
         {
           "id": "pub-c02-noun-phrases-l8-q9",
           "type": "choice",
-          "prompt": "选择正确的一组形式（● 依次代表两个空）：① ● jus de pomme（第一次提到）② un jus ● orange（元音前）",
+          "prompt": "选择正确的一组形式：① ___ jus de pomme（第一次提到）② un jus ___ orange（元音前）",
           "options": [
             "le / de",
             "un / de",
@@ -1761,7 +1761,7 @@
         {
           "id": "pub-c02-noun-phrases-l8-q14",
           "type": "choice",
-          "prompt": "选择正确的一组形式（● 依次代表四个空）：① ● verre d'eau（第一次提到一杯水）② les affaires ● élèves（学生们的物品，学生们确指）③ la porte ● salle（教室的门，教室确指）④ le nom ● école（学校的名字，学校确指）",
+          "prompt": "选择正确的一组形式：① ___ verre d'eau（第一次提到一杯水）② les affaires ___ élèves（学生们的物品，学生们确指）③ la porte ___ salle（教室的门，教室确指）④ le nom ___ école（学校的名字，学校确指）",
           "options": [
             "le / des / de la / de l'",
             "un / de les / de la / de l'",
@@ -2061,7 +2061,7 @@
         {
           "id": "pub-c02-noun-phrases-x1-q1",
           "type": "choice",
-          "prompt": "选择正确的一组形式（● 依次代表两个空）：① 泛指喜欢音乐这一类：J'aime ● musique. ② 正在听一些音乐：J'écoute ● musique.",
+          "prompt": "选择正确的一组形式：① 泛指喜欢音乐这一类：J'aime ___ musique. ② 正在听一些音乐：J'écoute ___ musique.",
           "options": [
             "de la / la",
             "la / la",
@@ -2075,7 +2075,7 @@
         {
           "id": "pub-c02-noun-phrases-x1-q2",
           "type": "choice",
-          "prompt": "选择正确的一组形式（● 依次代表两个空）：● soleil se lève à l'est. ● lune est pleine.",
+          "prompt": "选择正确的一组形式：___ soleil se lève à l'est. ___ lune est pleine.",
           "options": [
             "Le / La",
             "La / Le",
@@ -2089,7 +2089,7 @@
         {
           "id": "pub-c02-noun-phrases-x1-q3",
           "type": "choice",
-          "prompt": "选择正确的一组形式（● 依次代表两个空；首次引入且不特指，随后回指同一只猫）：J'ai vu ● chat dans le jardin. ● chat était noir.",
+          "prompt": "选择正确的一组形式（首次引入且不特指，随后回指同一只猫）：J'ai vu ___ chat dans le jardin. ___ chat était noir.",
           "options": [
             "le / Un",
             "un / Un",
@@ -2117,7 +2117,7 @@
         {
           "id": "pub-c02-noun-phrases-x1-q5",
           "type": "choice",
-          "prompt": "选择正确的一组形式（● 依次代表两个空；苹果不特指、只是买一些；米取用一部分）：J'achète ● pommes au marché, et je prends aussi ● riz.",
+          "prompt": "选择正确的一组形式（苹果不特指、只是买一些；米取用一部分）：J'achète ___ pommes au marché, et je prends aussi ___ riz.",
           "options": [
             "des / du",
             "du / des",
@@ -2131,7 +2131,7 @@
         {
           "id": "pub-c02-noun-phrases-x1-q6",
           "type": "choice",
-          "prompt": "选择正确的一组形式（● 依次代表三个位置；— 表示不加任何词）：① J'ai beaucoup ● livres. ② J'ai deux ● livres. ③ J'ai un kilo ● tomates.",
+          "prompt": "选择正确的一组形式（— 表示不加任何词）：① J'ai beaucoup ___ livres. ② J'ai deux ___ livres. ③ J'ai un kilo ___ tomates.",
           "options": [
             "des / — / des",
             "de / de / de",
@@ -2145,7 +2145,7 @@
         {
           "id": "pub-c02-noun-phrases-x1-q7",
           "type": "choice",
-          "prompt": "选择正确的一组形式（● 依次代表两个空）：un verre ● eau ; beaucoup ● étudiants",
+          "prompt": "选择正确的一组形式：un verre ___ eau ; beaucoup ___ étudiants",
           "options": [
             "de / de",
             "d' / d'",
@@ -2159,7 +2159,7 @@
         {
           "id": "pub-c02-noun-phrases-x1-q8",
           "type": "choice",
-          "prompt": "选择正确的一组形式（● 依次代表两个空；首次引入一个问题和一个解决办法，均不特指）：Il y a ● problème et ● solution.",
+          "prompt": "选择正确的一组形式（首次引入一个问题和一个解决办法，均不特指）：Il y a ___ problème et ___ solution.",
           "options": [
             "une / un",
             "le / la",
@@ -2187,7 +2187,7 @@
         {
           "id": "pub-c02-noun-phrases-x1-q10",
           "type": "choice",
-          "prompt": "选择正确的一组形式（● 依次代表三个空；蔬菜不特指、买一些；面包先买一些，随后表达泛指喜好）：Au marché, j'achète ● légumes et ● pain. J'aime ● pain frais.",
+          "prompt": "选择正确的一组形式（蔬菜不特指、买一些；面包先买一些，随后表达泛指喜好）：Au marché, j'achète ___ légumes et ___ pain. J'aime ___ pain frais.",
           "options": [
             "les / du / le",
             "des / le / du",

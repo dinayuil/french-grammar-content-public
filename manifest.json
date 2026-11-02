@@ -2,10 +2,11 @@
   "schemaVersion": 1,
   "edition": "public",
   "chapters": [
+    "chapters/pub-c01-boundaries.json",
     "chapters/pub-predication.json",
     "chapters/pub-articles.json",
     "chapters/pub-agreement.json"
   ],
-  "expectedChapterCount": 3,
-  "expectedQuestionCount": 144
+  "expectedChapterCount": 4,
+  "expectedQuestionCount": 216
 }

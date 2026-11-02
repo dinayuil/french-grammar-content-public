@@ -1,6 +1,6 @@
 # 公开原创题库
 
-这是应用使用的公开原创题库仓库。当前为首批内容：3 章、144 题，涵盖基础动词与存在表达、冠词、名词和形容词配合，配有讲解卡、练习与综合挑战。完整语法覆盖仍在建设中。
+这是应用使用的公开原创题库仓库。当前为 4 章、216 题，涵盖冠词形式与词间拼写、基础动词与存在表达、冠词、名词和形容词配合，配有讲解卡、练习与综合挑战。首位 `pub-c01-boundaries` 是新课程 C01；其余三章为既有公开内容，尚未按新课程重组，不应把这 4 章理解为新课程的前四章。完整语法覆盖仍在建设中，全部内容尚待人工法语审校。
 
 内容已经过 AI 编写及独立 AI 复核，尚待人工法语审校；技术检查和 AI 复核不构成原创性、版权或教学质量认证。
 
@@ -13,12 +13,13 @@
   "schemaVersion": 1,
   "edition": "public",
   "chapters": [
+    "chapters/pub-c01-boundaries.json",
     "chapters/pub-predication.json",
     "chapters/pub-articles.json",
     "chapters/pub-agreement.json"
   ],
-  "expectedChapterCount": 3,
-  "expectedQuestionCount": 144
+  "expectedChapterCount": 4,
+  "expectedQuestionCount": 216
 }
 ```
 

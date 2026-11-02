@@ -1,0 +1,806 @@
+{
+  "id": "pub-c01-boundaries",
+  "title": "冠词形式与词间拼写",
+  "titleFr": "Articles et frontières des mots",
+  "cards": [
+    {
+      "id": "pub-c01-boundaries-card-1",
+      "title": "定冠词 le/la/les：先看性数",
+      "body": "定冠词跟随名词的性与数：阳性单数 le，阴性单数 la，复数 les。确指、上文已提到或双方明确的对象用定冠词。例：le livre（这本书）、la table（这张桌子）、les enfants（孩子们）。本章题干会给最小性数提示；不要靠词尾猜性别，完整规则在后续章节展开。边界：元音或哑音 h 前的 le/la 要省音，见下一张卡。"
+    },
+    {
+      "id": "pub-c01-boundaries-card-2",
+      "title": "省音 l'：元音与哑音 h",
+      "body": "le/la 遇元音或哑音 h 开头的名词，省音为 l'，并与名词连写：l'école（f.）、l'arbre（m.）、l'hôtel（m.，哑音 h）。嘘音 h 前不省音：le héros（m.）。例：l'ami / le héros。边界：不能只看字母 h；h 的词汇性质决定是否省音。les 不省音。省音不改变名词的性数，但会改变拼写和读音。"
+    },
+    {
+      "id": "pub-c01-boundaries-card-3",
+      "title": "à + le/les → au/aux",
+      "body": "介词 à 与定冠词缩合：à + le → au，à + les → aux。例：au marché（去市场）、aux enfants（给孩子们）。à + la 和 à + l' 不缩合，保持分写：à la gare、à l'école。à 本身在元音前也不省音。边界：不要把 à l' 写成 al'；也不要把 à la 写成 au。"
+    },
+    {
+      "id": "pub-c01-boundaries-card-4",
+      "title": "de + le/les → du/des",
+      "body": "介词 de 与定冠词缩合：de + le → du，de + les → des。例：du jardin（花园的）、des voisins（邻居们的）。de + la 和 de + l' 不缩合：de la maison、de l'hôtel。边界：de l' 是“介词 de + 省音冠词”，不是缩合；de + la 不能写成 du。"
+    },
+    {
+      "id": "pub-c01-boundaries-card-5",
+      "title": "省音与缩合：两种机制",
+      "body": "省音是词与词相接时去掉元音字母并写撇号：le/la → l'，de → d'（在元音或哑音 h 前）。缩合是介词与定冠词合并成新词：à + le → au，à + les → aux，de + le → du，de + les → des。对照：à l'école / au marché；de l'hôtel / du jardin。边界：à 不省音；à la、de la 不缩合；de + un/une 写作 d'un/d'une，这是 de 的省音，只作桥接，不是定冠词缩合。"
+    },
+    {
+      "id": "pub-c01-boundaries-card-6",
+      "title": "主语 je 的省音",
+      "body": "je 后面的动词以元音或哑音 h 开头时，je 省音为 j'，与动词连写：j'écoute、j'habite、j'aime。动词以辅音开头则保留 je：je parle、je lis。例：J'écoute la radio. / Je regarde le film. 边界：本章只练省音拼写，动词形式已给出，不要求变位；嘘音 h 前仍保留 je。"
+    },
+    {
+      "id": "pub-c01-boundaries-card-7",
+      "title": "de 在不定式前的省音",
+      "body": "介词 de 后接以元音或哑音 h 开头的不定式时，de 省音为 d'：d'attendre、d'écouter、d'habiter。不定式以辅音开头则保留 de：de parler、de finir。嘘音 h 前也保留 de：de hurler。例：Il est difficile d'attendre. / Il est facile de lire. 边界：本章给出完整结构和引导词，只判断 de/d' 的拼写与词界；不考支配词选择，也不改变句子结构。"
+    },
+    {
+      "id": "pub-c01-boundaries-card-8",
+      "title": "局部综合：看词界，辨机制",
+      "body": "检查顺序：1）定冠词是否按性数选对（le/la/les）；2）元音或哑音 h 前是否省音（l'）；3）à/de 遇 le/les 是否缩合（au/aux、du/des）；4）à/de 遇 la/l' 是否保持分写；5）je、de 在元音前是否写 j'、d'。例：À l'école, je parle au directeur. / Je reviens du marché. 边界：缩合与省音是两种机制；不要用“看到元音就省音”一条规则套所有词。"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pub-c01-boundaries-l1",
+      "title": "le/la/les：性数与确指",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c01-boundaries-l1-q1",
+          "type": "letters",
+          "prompt": "Sur la table, ___ livre est ouvert.",
+          "example": "填定冠词：livre 为阳性单数。",
+          "answer": "le",
+          "explain": "livre 是阳性单数，确指用 le。题干已给性数提示，不靠词尾判断。",
+          "translation": "桌上，这本书打开着。"
+        },
+        {
+          "id": "pub-c01-boundaries-l1-q2",
+          "type": "letters",
+          "prompt": "Dans la chambre, ___ fenêtre est ouverte.",
+          "example": "填定冠词：fenêtre 为阴性单数。",
+          "answer": "la",
+          "explain": "fenêtre 是阴性单数，确指用 la。",
+          "translation": "房间里，窗户开着。"
+        },
+        {
+          "id": "pub-c01-boundaries-l1-q3",
+          "type": "choice",
+          "prompt": "___ enfants jouent dans le jardin. (enfants : m. pl.)",
+          "options": ["Le", "La", "Les", "L'"],
+          "answer": 2,
+          "explain": "enfants 是阳性复数，定冠词用 les。les 在元音前也不省音。",
+          "translation": "孩子们在花园里玩。"
+        },
+        {
+          "id": "pub-c01-boundaries-l1-q4",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre. (professeur : m.)",
+          "answer": ["Le", "professeur", "est", "là."],
+          "bank": ["Le", "La", "Les", "L'", "professeur", "est", "là."],
+          "explain": "professeur 是阳性单数，选 Le；其余词按“主语 + 动词 + 地点”排列。",
+          "translation": "老师在那里。"
+        },
+        {
+          "id": "pub-c01-boundaries-l1-q5",
+          "type": "choice",
+          "prompt": "Choisissez la paire correcte. (fille : f. / femme : f.)",
+          "options": ["la fille / la femme", "le fille / le femme", "les fille / les femme", "l' fille / l' femme"],
+          "answer": 0,
+          "explain": "fille 和 femme 都是阴性单数，分别用 la；不能因为词尾不是典型阴性就换冠词。",
+          "translation": "女孩 / 女人。"
+        },
+        {
+          "id": "pub-c01-boundaries-l1-q6",
+          "type": "letters",
+          "prompt": "Dans cette ville, ___ hôtels de la place sont grands.",
+          "example": "填定冠词：hôtels 为阳性复数、哑音 h。",
+          "answer": "les",
+          "explain": "hôtels 是阳性复数，用 les；这里指广场上的那些旅馆。les 不省音，所以写 les hôtels。",
+          "translation": "这座广场上的旅馆很大。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c01-boundaries-l2",
+      "title": "l'：元音与哑音 h",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c01-boundaries-l2-q1",
+          "type": "letters",
+          "prompt": "C'est ___ hôtel de la gare.",
+          "example": "填定冠词：hôtel 为阳性单数、哑音 h；判断 le/la 是否省音。",
+          "answer": "l'",
+          "explain": "hôtel 以哑音 h 开头，le 省音为 l'，与名词连写为 l'hôtel。",
+          "translation": "这是火车站旁的旅馆。"
+        },
+        {
+          "id": "pub-c01-boundaries-l2-q2",
+          "type": "letters",
+          "prompt": "C'est ___ héros du roman.",
+          "example": "填定冠词：héros 为阳性单数、嘘音 h；判断是否省音。",
+          "answer": "le",
+          "explain": "héros 的 h 是嘘音，不触发省音，所以保留 le héros。",
+          "translation": "这是小说里的主人公。"
+        },
+        {
+          "id": "pub-c01-boundaries-l2-q3",
+          "type": "choice",
+          "prompt": "Choisissez la paire correcte. (école : f. / livres : m. pl.)",
+          "example": "根据性数选择定冠词，并注意元音开头的省音。",
+          "options": ["la école / les livres", "l'école / les livres", "l'école / le livres", "le école / la livres"],
+          "answer": 1,
+          "explain": "école 是阴性单数、元音开头，la 省音为 l'；livres 是阳性复数，用 les。",
+          "translation": "学校 / 书。"
+        },
+        {
+          "id": "pub-c01-boundaries-l2-q4",
+          "type": "choice",
+          "prompt": "Choisissez la paire correcte. (arbre : m. / fenêtres : f. pl.)",
+          "example": "根据性数选择定冠词，并注意元音开头的省音。",
+          "options": ["le arbre / les fenêtres", "la arbre / des fenêtres", "l'arbre / les fenêtres", "l'arbre / le fenêtres"],
+          "answer": 2,
+          "explain": "arbre 是阳性单数、元音开头，le 省音为 l'；fenêtres 是阴性复数，用 les。",
+          "translation": "树 / 窗户。"
+        },
+        {
+          "id": "pub-c01-boundaries-l2-q5",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre.",
+          "example": "填定冠词：amie 为阴性单数、元音开头；把省音形式与名词连写。",
+          "answer": ["L'amie", "arrive."],
+          "bank": ["L'amie", "Le", "La", "Les", "arrive."],
+          "explain": "amie 以元音开头，la 省音后与名词连写为 L'amie；不要把 l' 和 amie 拆开。",
+          "translation": "女性朋友到了。"
+        },
+        {
+          "id": "pub-c01-boundaries-l2-q6",
+          "type": "choice",
+          "prompt": "___ homme est devant la porte.",
+          "example": "填定冠词：homme 为阳性单数、哑音 h；判断是否省音。",
+          "options": ["L'", "Le", "La", "Les"],
+          "answer": 0,
+          "explain": "homme 以哑音 h 开头，le 省音为 l'，写作 L'homme。",
+          "translation": "男人在门前。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c01-boundaries-l3",
+      "title": "à + le/les：au/aux",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c01-boundaries-l3-q1",
+          "type": "letters",
+          "prompt": "Je vais ___ jardin.",
+          "example": "指定介词 à 与定冠词；jardin 为阳性单数。只处理冠词形式与词界。",
+          "answer": "au",
+          "explain": "à + le jardin 缩合为 au jardin；不能写成 à le jardin。",
+          "translation": "我去花园。"
+        },
+        {
+          "id": "pub-c01-boundaries-l3-q2",
+          "type": "letters",
+          "prompt": "Je parle ___ enfants.",
+          "example": "表达“对孩子们说话”，指定介词 à 与定冠词；enfants 为阳性复数。",
+          "answer": "aux",
+          "explain": "à + les enfants 缩合为 aux enfants。",
+          "translation": "我和孩子们说话。"
+        },
+        {
+          "id": "pub-c01-boundaries-l3-q3",
+          "type": "choice",
+          "prompt": "Nous allons ___ piscine. (piscine : f.)",
+          "options": ["à la", "au", "aux", "à l'"],
+          "answer": 0,
+          "explain": "à + la 不缩合，保持分写 à la piscine。",
+          "translation": "我们去游泳池。"
+        },
+        {
+          "id": "pub-c01-boundaries-l3-q4",
+          "type": "choice",
+          "prompt": "Choisissez la paire correcte. (école : f. / directeur : m.)",
+          "options": ["à l'école / au directeur", "à la école / au directeur", "à l'école / à le directeur", "au école / du directeur"],
+          "answer": 0,
+          "explain": "école 是阴性元音开头，la 省音为 l'，且 à 不省音，得 à l'école；directeur 是阳性单数，à + le 缩合为 au directeur。",
+          "translation": "在学校 / 对主任。"
+        },
+        {
+          "id": "pub-c01-boundaries-l3-q5",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre. (marché : m.)",
+          "answer": ["Je", "vais", "au", "marché."],
+          "bank": ["Je", "vais", "au", "à", "le", "aux", "marché."],
+          "explain": "marché 是阳性单数，à + le 缩合为 au；不要保留 à le。",
+          "translation": "我去市场。"
+        },
+        {
+          "id": "pub-c01-boundaries-l3-q6",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre. (professeurs : m. pl.)",
+          "answer": ["Nous", "parlons", "aux", "professeurs."],
+          "bank": ["Nous", "parlons", "aux", "à", "les", "au", "professeurs."],
+          "explain": "professeurs 是复数，à + les 缩合为 aux professeurs。",
+          "translation": "我们和老师们说话。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c01-boundaries-l4",
+      "title": "de + le/les：du/des",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c01-boundaries-l4-q1",
+          "type": "letters",
+          "prompt": "Je parle ___ voisins.",
+          "example": "表达“谈论邻居们”，指定介词 de 与定冠词；voisins 为阳性复数。",
+          "answer": "des",
+          "explain": "de + les voisins 缩合为 des voisins；不能写成 de les voisins。",
+          "translation": "我谈起邻居们。"
+        },
+        {
+          "id": "pub-c01-boundaries-l4-q2",
+          "type": "letters",
+          "prompt": "Je reviens ___ marché.",
+          "example": "表达“从市场回来”，指定介词 de 与定冠词；marché 为阳性单数。",
+          "answer": "du",
+          "explain": "de + le marché 缩合为 du marché。",
+          "translation": "我从市场回来。"
+        },
+        {
+          "id": "pub-c01-boundaries-l4-q3",
+          "type": "choice",
+          "prompt": "C'est la porte ___ garage. (garage : m.)",
+          "options": ["de le", "du", "de la", "des"],
+          "answer": 1,
+          "explain": "garage 是阳性单数，de + le 缩合为 du。",
+          "translation": "这是车库的门。"
+        },
+        {
+          "id": "pub-c01-boundaries-l4-q4",
+          "type": "choice",
+          "prompt": "Voici la maison ___ voisins. (voisins : m. pl.)",
+          "options": ["du", "de les", "des", "de la"],
+          "answer": 2,
+          "explain": "voisins 是复数，de + les 缩合为 des。",
+          "translation": "这是邻居们的房子。"
+        },
+        {
+          "id": "pub-c01-boundaries-l4-q5",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre.",
+          "example": "目标：我们谈起老师。parler 后指定介词 de 与定冠词；professeur 为阳性单数。",
+          "answer": ["Nous", "parlons", "du", "professeur."],
+          "bank": ["Nous", "parlons", "du", "de", "le", "des", "professeur."],
+          "explain": "professeur 是阳性单数，de + le 缩合为 du；不要把 de 和 le 分开保留。",
+          "translation": "我们谈起老师。"
+        },
+        {
+          "id": "pub-c01-boundaries-l4-q6",
+          "type": "choice",
+          "prompt": "Choisissez la paire correcte. (fille : f. / hôpital : m., h 哑音)",
+          "example": "两处均指定介词 de 与定冠词；fille 为阴性单数、辅音开头，hôpital 为阳性单数、哑音 h。",
+          "options": ["de la fille / de l'hôpital", "du fille / de l'hôpital", "de la fille / du hôpital", "des fille / des hôpital"],
+          "answer": 0,
+          "explain": "fille 是阴性辅音开头，de + la 不缩合；hôpital 是哑音 h 开头，le 省音为 l'，de 保持分写，得 de l'hôpital。",
+          "translation": "女孩的 / 医院的。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c01-boundaries-l5",
+      "title": "省音还是缩合",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c01-boundaries-l5-q1",
+          "type": "choice",
+          "prompt": "Je vais ___ école. (école : f.)",
+          "options": ["au", "à l'", "à la", "aux"],
+          "answer": 1,
+          "explain": "école 是阴性元音开头，la 省音为 l'；à 本身不省音，所以写 à l'école，不是 au。",
+          "translation": "我去学校。"
+        },
+        {
+          "id": "pub-c01-boundaries-l5-q2",
+          "type": "choice",
+          "prompt": "Elle vient ___ hôpital. (hôpital : m., h 哑音)",
+          "options": ["du", "de la", "de l'", "des"],
+          "answer": 2,
+          "explain": "hôpital 以哑音 h 开头，le 省音为 l'；de 保持分写，写作 de l'hôpital。",
+          "translation": "她从医院回来。"
+        },
+        {
+          "id": "pub-c01-boundaries-l5-q3",
+          "type": "choice",
+          "prompt": "Nous parlons ___ directrice. (directrice : f.)",
+          "options": ["au", "à la", "à l'", "aux"],
+          "answer": 1,
+          "explain": "directrice 是阴性单数且以辅音开头，à + la 不缩合，保持 à la。",
+          "translation": "我们和女主任说话。"
+        },
+        {
+          "id": "pub-c01-boundaries-l5-q4",
+          "type": "choice",
+          "prompt": "Ils reviennent ___ marché. (marché : m.)",
+          "options": ["du", "de la", "de l'", "des"],
+          "answer": 0,
+          "explain": "marché 是阳性单数，de + le 缩合为 du；这是缩合，不是省音。",
+          "translation": "他们从市场回来。"
+        },
+        {
+          "id": "pub-c01-boundaries-l5-q5",
+          "type": "letters",
+          "prompt": "Corrigez : Je parle de un ami. → Je parle ___ ami.",
+          "example": "已知：de + un；把 de 省音后与 un 连写。",
+          "answer": "d'un",
+          "explain": "de 在元音前省音为 d'，与 un 连写为 d'un。这是 de 的省音，不是与定冠词缩合。",
+          "translation": "改正：我谈起一位朋友。"
+        },
+        {
+          "id": "pub-c01-boundaries-l5-q6",
+          "type": "letters",
+          "prompt": "Corrigez : Elle parle de une ville. → Elle parle ___ ville.",
+          "example": "已知：de + une；把 de 省音后与 une 连写。",
+          "answer": "d'une",
+          "explain": "de 在元音前省音为 d'，与 une 连写为 d'une。这里只作 de + un/une 的桥接。",
+          "translation": "改正：她谈起一座城市。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c01-boundaries-l6",
+      "title": "je 的省音",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c01-boundaries-l6-q1",
+          "type": "letters",
+          "prompt": "Le matin, ___ la radio.",
+          "example": "已知：je + écoute；只处理 je 的省音拼写，动词形式不变。",
+          "answer": "j'écoute",
+          "explain": "écoute 以元音开头，je 省音为 j'，与动词连写为 j'écoute。动词形式已给出，不需变位。",
+          "translation": "早上，我听收音机。"
+        },
+        {
+          "id": "pub-c01-boundaries-l6-q2",
+          "type": "choice",
+          "prompt": "___ à Paris.",
+          "example": "已知动词形式：habite（哑音 h）；只判断 je 的拼写。",
+          "options": ["Je habite", "J'habite", "Je'habite", "J habite"],
+          "answer": 1,
+          "explain": "habite 的 h 是哑音，je 省音为 j'，写作 J'habite。",
+          "translation": "我住在巴黎。"
+        },
+        {
+          "id": "pub-c01-boundaries-l6-q3",
+          "type": "choice",
+          "prompt": "___ le journal.",
+          "example": "已知动词形式：lis（辅音开头）；只判断 je 的拼写。",
+          "options": ["J'lis", "Je lis", "Je'lis", "J lis"],
+          "answer": 1,
+          "explain": "lis 以辅音开头，je 不省音，保留 je lis。",
+          "translation": "我读报纸。"
+        },
+        {
+          "id": "pub-c01-boundaries-l6-q4",
+          "type": "letters",
+          "prompt": "Le matin, ___ lis le journal.",
+          "example": "已知动词形式：lis（辅音开头）；判断主语代词 je 是否需要省音。",
+          "answer": "je",
+          "explain": "lis 以辅音开头，je 不省音；只有元音或哑音 h 前才写 j'。",
+          "translation": "早上，我读这份报纸。"
+        },
+        {
+          "id": "pub-c01-boundaries-l6-q5",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre.",
+          "example": "已知动词形式：habite（哑音 h）；地名：Lyon。",
+          "answer": ["J'habite", "à", "Lyon."],
+          "alternatives": [["J'habite", "Lyon."]],
+          "bank": ["J'habite", "Je", "habite", "à", "Lyon."],
+          "explain": "habite 的 h 是哑音，je 省音为 J'；不要把 Je 和 habite 分开写。",
+          "translation": "我住在里昂。"
+        },
+        {
+          "id": "pub-c01-boundaries-l6-q6",
+          "type": "choice",
+          "prompt": "___ la musique.",
+          "example": "已知动词形式：aime（元音开头）；只判断 je 的拼写。",
+          "options": ["J'aime", "Je aime", "Je'aime", "J aime"],
+          "answer": 0,
+          "explain": "aime 以元音开头，je 省音为 j'，写作 J'aime。",
+          "translation": "我喜欢音乐。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c01-boundaries-l7",
+      "title": "de 在不定式前",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c01-boundaries-l7-q1",
+          "type": "letters",
+          "prompt": "Il est difficile ___.",
+          "example": "已知框架：il est difficile de + attendre；填写 de 与 attendre 合并后的完整词组。",
+          "answer": "d'attendre",
+          "explain": "attendre 以元音开头，de 省音为 d'，与不定式连写为 d'attendre。结构已给出，只判断拼写。",
+          "translation": "等待很难。"
+        },
+        {
+          "id": "pub-c01-boundaries-l7-q2",
+          "type": "letters",
+          "prompt": "Il est utile ___.",
+          "example": "已知框架：il est utile de + écouter；填写 de 与 écouter 合并后的完整词组。",
+          "answer": "d'écouter",
+          "explain": "écouter 以元音开头，de 省音为 d'，写作 d'écouter。",
+          "translation": "倾听很有用。"
+        },
+        {
+          "id": "pub-c01-boundaries-l7-q3",
+          "type": "choice",
+          "prompt": "Elle essaie ___ hurler.",
+          "example": "已知介词为 de，不定式为 hurler；hurler 的 h 是嘘音，判断介词的书写形式。",
+          "options": ["d'", "de", "de l'", "du"],
+          "answer": 1,
+          "explain": "hurler 的 h 是嘘音，de 不省音，写 de hurler。",
+          "translation": "她试着大喊。"
+        },
+        {
+          "id": "pub-c01-boundaries-l7-q4",
+          "type": "choice",
+          "prompt": "Il est facile ___ lire ce livre.",
+          "example": "已知框架：il est facile de + lire；lire 以辅音开头。",
+          "options": ["de", "d'", "du", "des"],
+          "answer": 0,
+          "explain": "lire 以辅音开头，de 不省音，写 de lire。",
+          "translation": "读这本书很容易。"
+        },
+        {
+          "id": "pub-c01-boundaries-l7-q5",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre.",
+          "example": "已知框架：il est important de + apprendre；apprendre 以元音开头。",
+          "answer": ["Il", "est", "important", "d'apprendre", "la", "règle."],
+          "bank": ["Il", "est", "important", "d'apprendre", "de", "apprendre", "la", "règle."],
+          "explain": "apprendre 以元音开头，de 省音为 d'，与不定式连写；不要把 de 和 apprendre 分开。",
+          "translation": "学习规则很重要。"
+        },
+        {
+          "id": "pub-c01-boundaries-l7-q6",
+          "type": "choice",
+          "prompt": "Je rêve ___ habiter ici.",
+          "example": "已知框架：je rêve de + habiter；habiter 的 h 是哑音。",
+          "options": ["de", "du", "d'", "des"],
+          "answer": 2,
+          "explain": "habiter 的 h 是哑音，de 省音为 d'，写作 d'habiter。",
+          "translation": "我梦想住在这里。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c01-boundaries-l8",
+      "title": "局部综合与纠错",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c01-boundaries-l8-q1",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": ["Je vais au marché.", "Je vais à le marché.", "Je vais a marché.", "Je vais aux marché."],
+          "answer": 0,
+          "explain": "marché 是阳性单数，à + le 缩合为 au marché；aux 只用于复数。",
+          "translation": "哪一句正确？我去市场。"
+        },
+        {
+          "id": "pub-c01-boundaries-l8-q2",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": ["C'est la porte de le garage.", "C'est la porte du garage.", "C'est la porte de la garage.", "C'est la porte des garage."],
+          "answer": 1,
+          "explain": "garage 是阳性单数，de + le 缩合为 du garage。",
+          "translation": "哪一句正确？这是车库的门。"
+        },
+        {
+          "id": "pub-c01-boundaries-l8-q3",
+          "type": "letters",
+          "prompt": "Corrigez : Je vais à le cinéma. → Je vais ___ cinéma.",
+          "answer": "au",
+          "explain": "cinéma 是阳性单数，à + le 缩合为 au cinéma。",
+          "translation": "改正：我去电影院。"
+        },
+        {
+          "id": "pub-c01-boundaries-l8-q4",
+          "type": "letters",
+          "prompt": "Corrigez : Elle parle de les enfants. → Elle parle ___ enfants.",
+          "answer": "des",
+          "explain": "enfants 是复数，de + les 缩合为 des enfants。",
+          "translation": "改正：她谈起孩子们。"
+        },
+        {
+          "id": "pub-c01-boundaries-l8-q5",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre. (école : f. / directeur : m.)",
+          "example": "目标：在学校，我和主任说话。开头已给：À l'école, je parle …；parler 后指定介词 à 与定冠词，directeur 为阳性单数。",
+          "answer": ["À", "l'école,", "je", "parle", "au", "directeur."],
+          "bank": ["À", "l'école,", "je", "parle", "au", "à", "le", "directeur."],
+          "explain": "à l'école 中 à 不省音、la 省音；directeur 是阳性单数，à + le 缩合为 au directeur。",
+          "translation": "在学校，我和主任说话。"
+        },
+        {
+          "id": "pub-c01-boundaries-l8-q6",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre en corrigeant « à le » et « de le ». (marché : m. / bureau : m.)",
+          "example": "目标：我去市场，并从办公室回来。分句顺序：Je vais … et je reviens …；第一处指定介词 à，第二处指定 de，两处均用定冠词；marché、bureau 均为阳性单数。",
+          "answer": ["Je", "vais", "au", "marché", "et", "je", "reviens", "du", "bureau."],
+          "bank": ["Je", "vais", "au", "à", "le", "marché", "et", "je", "reviens", "du", "de", "le", "bureau."],
+          "explain": "同一句含两种缩合：à + le marché → au marché；de + le bureau → du bureau。",
+          "translation": "我去市场，并从办公室回来。"
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "pub-c01-boundaries-x1",
+      "title": "挑战一：冠词与 à 缩合",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c01-boundaries-x1-q1",
+          "type": "letters",
+          "prompt": "Dans cette rue, ___ hôtel est ancien.",
+          "example": "填定冠词：hôtel 为阳性单数、哑音 h。",
+          "answer": "l'",
+          "explain": "hôtel 以哑音 h 开头，le 省音为 l'。",
+          "translation": "这条街上，旅馆很旧。"
+        },
+        {
+          "id": "pub-c01-boundaries-x1-q2",
+          "type": "letters",
+          "prompt": "Je vais ___ théâtre. (théâtre : m.)",
+          "answer": "au",
+          "explain": "théâtre 是阳性单数，à + le 缩合为 au théâtre。",
+          "translation": "我去剧院。"
+        },
+        {
+          "id": "pub-c01-boundaries-x1-q3",
+          "type": "choice",
+          "prompt": "Choisissez la paire correcte. (enfants : m. pl. / parc : m.)",
+          "options": ["Les enfants / au parc", "Le enfants / au parc", "Les enfants / à le parc", "La enfants / aux parc"],
+          "answer": 0,
+          "explain": "enfants 是复数，用 Les；parc 是阳性单数，à + le 缩合为 au parc。",
+          "translation": "孩子们 / 在公园。"
+        },
+        {
+          "id": "pub-c01-boundaries-x1-q4",
+          "type": "choice",
+          "prompt": "Choisissez la paire correcte. (université : f. / professeur : m.)",
+          "options": ["à la université / au professeur", "à l'université / au professeur", "à l'université / à le professeur", "au université / du professeur"],
+          "answer": 1,
+          "explain": "université 是阴性元音开头，la 省音为 l'，且 à 保持分写；professeur 是阳性单数，à + le 缩合为 au。",
+          "translation": "在大学 / 对老师。"
+        },
+        {
+          "id": "pub-c01-boundaries-x1-q5",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre. (parc : m.)",
+          "answer": ["Les", "enfants", "vont", "au", "parc."],
+          "bank": ["Les", "enfants", "vont", "au", "à", "le", "aux", "parc."],
+          "explain": "Les 对应复数 enfants；parc 是阳性单数，à + le 缩合为 au parc。",
+          "translation": "孩子们去公园。"
+        },
+        {
+          "id": "pub-c01-boundaries-x1-q6",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre. (directrice : f.)",
+          "answer": ["Elle", "parle", "à", "la", "directrice."],
+          "bank": ["Elle", "parle", "à", "la", "directrice.", "au", "aux"],
+          "explain": "directrice 是阴性单数，à + la 不缩合，保持 à la directrice。",
+          "translation": "她和女主任说话。"
+        },
+        {
+          "id": "pub-c01-boundaries-x1-q7",
+          "type": "letters",
+          "prompt": "Dans le jardin, ___ arbre est grand.",
+          "example": "填定冠词：arbre 为阳性单数、元音开头。",
+          "answer": "l'",
+          "explain": "arbre 是阳性单数且以元音开头，le 省音为 l'。",
+          "translation": "花园里，树很高。"
+        },
+        {
+          "id": "pub-c01-boundaries-x1-q8",
+          "type": "choice",
+          "prompt": "Choisissez la paire correcte. (professeur : m. / étudiants : m. pl.)",
+          "options": ["La professeur / aux étudiants", "Le professeur / au étudiants", "Le professeur / aux étudiants", "Les professeur / aux étudiants"],
+          "answer": 2,
+          "explain": "professeur 是阳性单数，用 Le；étudiants 是复数，à + les 缩合为 aux。",
+          "translation": "老师 / 对学生们。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c01-boundaries-x2",
+      "title": "挑战二：de 缩合与两介词组合",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c01-boundaries-x2-q1",
+          "type": "letters",
+          "prompt": "Je parle ___ directeurs.",
+          "example": "表达“谈论主任们”，指定介词 de 与定冠词；directeurs 为阳性复数。",
+          "answer": "des",
+          "explain": "directeurs 是复数，de + les 缩合为 des directeurs。",
+          "translation": "我谈起主任们。"
+        },
+        {
+          "id": "pub-c01-boundaries-x2-q2",
+          "type": "letters",
+          "prompt": "Elle vient ___ marché.",
+          "example": "表达“从市场回来”，指定介词 de 与定冠词；marché 为阳性单数。",
+          "answer": "du",
+          "explain": "marché 是阳性单数，de + le 缩合为 du marché。",
+          "translation": "她从市场回来。"
+        },
+        {
+          "id": "pub-c01-boundaries-x2-q3",
+          "type": "choice",
+          "prompt": "C'est la porte ___ jardin. (jardin : m.)",
+          "options": ["de le", "du", "de la", "des"],
+          "answer": 1,
+          "explain": "jardin 是阳性单数，de + le 缩合为 du jardin。",
+          "translation": "这是花园的门。"
+        },
+        {
+          "id": "pub-c01-boundaries-x2-q4",
+          "type": "choice",
+          "prompt": "Nous parlons ___ filles. (filles : f. pl.)",
+          "options": ["de les", "des", "du", "de la"],
+          "answer": 1,
+          "explain": "filles 是阴性复数，de + les 缩合为 des filles。",
+          "translation": "我们谈起女孩们。"
+        },
+        {
+          "id": "pub-c01-boundaries-x2-q5",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre en corrigeant « à les » et « de les ». (cours : m. pl. / élèves : pl.)",
+          "example": "目标：她去上课，并谈起学生们。分句顺序：Elle va … et elle parle …；第一处指定介词 à，第二处指定 de，两处均用定冠词；cours、élèves 均为复数。",
+          "answer": ["Elle", "va", "aux", "cours", "et", "elle", "parle", "des", "élèves."],
+          "bank": ["Elle", "va", "aux", "à", "cours", "et", "elle", "parle", "des", "de", "les", "élèves."],
+          "explain": "同句含 à + les → aux 与 de + les → des 两种缩合。",
+          "translation": "她去上课，并谈起学生们。"
+        },
+        {
+          "id": "pub-c01-boundaries-x2-q6",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre en corrigeant « à le » et « de le ». (parc : m. / film : m.)",
+          "example": "目标：我们去公园，并谈起电影。分句顺序：Nous allons … et nous parlons …；第一处指定介词 à，第二处指定 de，两处均用定冠词；parc、film 均为阳性单数。",
+          "answer": ["Nous", "allons", "au", "parc", "et", "nous", "parlons", "du", "film."],
+          "bank": ["Nous", "allons", "au", "à", "parc", "et", "nous", "parlons", "du", "de", "le", "film."],
+          "explain": "au = à + le，du = de + le；同一句检查两种缩合的词界。",
+          "translation": "我们去公园，并谈起电影。"
+        },
+        {
+          "id": "pub-c01-boundaries-x2-q7",
+          "type": "choice",
+          "prompt": "Choisissez la paire correcte. (hôtel : m., h 哑音 / directeur : m.)",
+          "options": ["à l'hôtel / au directeur", "à la hôtel / au directeur", "à l'hôtel / à le directeur", "au hôtel / du directeur"],
+          "answer": 0,
+          "explain": "hôtel 是阳性单数、哑音 h 开头，le 省音为 l'，且 à 保持分写；directeur 是阳性单数，à + le 缩合为 au。",
+          "translation": "在旅馆 / 对主任。"
+        },
+        {
+          "id": "pub-c01-boundaries-x2-q8",
+          "type": "choice",
+          "prompt": "Elle revient ___ hôpital. (hôpital : m., h 哑音)",
+          "example": "指定介词 de 与定冠词；hôpital 为阳性单数、哑音 h。",
+          "options": ["du", "de l'", "de la", "des"],
+          "answer": 1,
+          "explain": "hôpital 以哑音 h 开头，le 省音为 l'；de 保持分写，写作 de l'hôpital，不是 du。",
+          "translation": "她从医院回来。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c01-boundaries-x3",
+      "title": "挑战三：省音、非省音与形式辨别",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c01-boundaries-x3-q1",
+          "type": "letters",
+          "prompt": "Dans ce quartier, ___ école est grande.",
+          "example": "填定冠词：école 为阴性单数、元音开头。",
+          "answer": "l'",
+          "explain": "école 以元音开头，la 省音为 l'。",
+          "translation": "这个街区里，学校很大。"
+        },
+        {
+          "id": "pub-c01-boundaries-x3-q2",
+          "type": "letters",
+          "prompt": "Dans ce roman, ___ héros arrive tard.",
+          "example": "填定冠词：héros 为阳性单数、嘘音 h。",
+          "answer": "le",
+          "explain": "héros 的 h 是嘘音，不省音，保留 le héros。",
+          "translation": "在这部小说里，主人公很晚才到。"
+        },
+        {
+          "id": "pub-c01-boundaries-x3-q3",
+          "type": "letters",
+          "prompt": "Au stade, ___ hurle.",
+          "example": "已知：je + hurle；hurle 为嘘音 h 开头的已给词形，只判断 je 是否省音。",
+          "answer": "je",
+          "explain": "hurle 的 h 是嘘音，je 不省音，保留 je hurle。",
+          "translation": "在体育场，我大喊。"
+        },
+        {
+          "id": "pub-c01-boundaries-x3-q4",
+          "type": "letters",
+          "prompt": "Il est difficile ___.",
+          "example": "已知框架：il est difficile de + attendre；填写 de 与 attendre 合并后的完整词组。",
+          "answer": "d'attendre",
+          "explain": "attendre 以元音开头，de 省音为 d'，写作 d'attendre。",
+          "translation": "等待很难。"
+        },
+        {
+          "id": "pub-c01-boundaries-x3-q5",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": ["J'écoute la radio.", "Je écoute la radio.", "J' écoute la radio.", "Je'écoute la radio."],
+          "answer": 0,
+          "explain": "je 与元音开头的 écoute 省音连写为 j'écoute，不能保留 je 与动词之间的空格。",
+          "translation": "哪一句正确？我听收音机。"
+        },
+        {
+          "id": "pub-c01-boundaries-x3-q6",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": ["Il est facile d'attendre.", "Il est facile de attendre.", "Il est facile d' attendre.", "Il est facile de d'attendre."],
+          "answer": 0,
+          "explain": "de 与元音开头的 attendre 省音连写为 d'attendre，撇号后不留空格。",
+          "translation": "哪一句正确？等待很容易。"
+        },
+        {
+          "id": "pub-c01-boundaries-x3-q7",
+          "type": "choice",
+          "prompt": "Choisissez la forme correcte devant « hôtel ».",
+          "example": "hôtel 为阳性单数、哑音 h；填定冠词。",
+          "options": ["le", "l'", "la", "les"],
+          "answer": 1,
+          "explain": "hôtel 是阳性单数、哑音 h 开头，定冠词 le 省音为 l'。",
+          "translation": "选择旅馆前的正确形式。"
+        },
+        {
+          "id": "pub-c01-boundaries-x3-q8",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre. (enfants : m. pl.)",
+          "example": "已知介词为 de，不定式为 écouter（元音开头）；enfants 为复数，要求定冠词。",
+          "answer": ["Il", "est", "important", "d'écouter", "les", "enfants."],
+          "bank": ["Il", "est", "important", "d'écouter", "de", "écouter", "les", "enfants."],
+          "explain": "de 在元音开头的 écouter 前省音为 d'；les enfants 用复数定冠词。",
+          "translation": "听孩子们说话很重要。"
+        }
+      ]
+    }
+  ]
+}

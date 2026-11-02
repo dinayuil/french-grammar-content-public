@@ -411,17 +411,6 @@
           "answer": 1
         },
         {
-          "id": "pub-articles-l4-q2",
-          "prompt": "Elle est de nationalité ___.（用 français 的适当形式填空）",
-          "translation": "她是法国国籍。",
-          "explain": "国籍形容词作表语用零冠词；française 是阴性单数，注意 cedilla ç。",
-          "type": "letters",
-          "answer": "française",
-          "accentKeys": [
-            "ç"
-          ]
-        },
-        {
           "id": "pub-articles-l4-q3",
           "prompt": "Elle apprend ___ français à l'école.（指这门语言）",
           "translation": "她在学校学法语。",

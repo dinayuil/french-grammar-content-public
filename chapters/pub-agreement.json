@@ -24,11 +24,6 @@
       "body": "冠词要和名词的性、数一致：\n• 不定冠词：un livre / une revue / des livres。\n• 定冠词：le livre / la revue / les livres。\n• 部分冠词：du pain / de la soupe / de l'eau / des légumes。\n\n省音与缩合：\n• 元音或哑音 h 前，le / la → l'：l'ami、l'école、l'hôtel；de + le → du，de + les → des；à + le → au，à + les → aux。\n• 否定句中，部分冠词和不定冠词通常变为 de / d'：Je bois du café. → Je ne bois pas de café.\n\n注意：表示职业时，être 后常不用冠词（Il est professeur），但 c'est 后要用（C'est un professeur）。"
     },
     {
-      "id": "pub-agreement-card-adjective-forms",
-      "title": "形容词的性数配合",
-      "body": "形容词要和所修饰的名词在性、数上一致：\n• 一般：阳性复数加 -s，阴性加 -e：un petit livre / une petite table / des petits livres / des petites tables。\n• 以 -e 结尾的形容词，阴性不变：un livre utile / une idée utile。\n\n常见特殊形式：\n• -eux → -euse：heureux → heureuse。\n• -f → -ve：actif → active。\n• -x → -ce：doux → douce。\n• -er → -ère：fier → fière。\n• -el → -elle：naturel → naturelle。\n• -en → -enne：ancien → ancienne。\n• -on → -onne：bon → bonne。\n• -et → -ette：net → nette。\n• -c → -que / -che：public → publique；blanc → blanche。\n• -g → -gue：long → longue。\n\n不规则：beau → belle、nouveau → nouvelle、vieux → vieille、frais → fraîche、faux → fausse、roux → rousse。\n\n复数：一般加 -s；beau → beaux、nouveau → nouveaux；-al 常变 -aux（général → généraux）；以 -s、-x 结尾的阳性复数不变（heureux → heureux）。男女混合用阳性复数：Paul et Marie sont grands。"
-    },
-    {
       "id": "pub-agreement-card-position",
       "title": "形容词的位置、特殊形式与反义",
       "body": "位置：\n• 常放在名词前的短形容词：grand、petit、jeune、vieux、beau、joli、bon、mauvais、nouveau、gros、haut、long、large、premier、dernier、prochain。\n• 通常后置：颜色、国籍、形状、分词，以及较长的形容词：une voiture rouge、une étudiante française、une table ronde、un livre intéressant。\n\n位置改变意义：\n• un grand homme（伟人）/ un homme grand（高个子男人）\n• un pauvre homme（可怜的人）/ un homme pauvre（穷人）\n• un ancien professeur（前任教师）/ un monument ancien（古老的纪念碑）\n• le même livre（同一本书）/ le livre même（书本身）\n• sa propre chambre（他自己的房间）/ une chambre propre（干净的房间）\n• un cher ami（亲爱的朋友）/ un livre cher（昂贵的书）\n\nbeau / nouveau / vieux 的阳性单数在元音或哑音 h 前变为 bel / nouvel / vieil：un bel homme、un nouvel élève、un vieil ami、un bel hôtel。复数仍为 beaux / nouveaux / vieux。注意哑音 h 与嘘音 h：un bel hôtel，但 un beau héros。\n\n常见反义：grand / petit、beau / laid、jeune / vieux、long / court、chaud / froid、bon / mauvais、riche / pauvre、lourd / léger、propre / sale、ouvert / fermé、heureux / triste、facile / difficile、rapide / lent、fort / faible、doux / dur、plein / vide、vrai / faux、premier / dernier、large / étroit。"
@@ -54,7 +49,9 @@
           "type": "letters",
           "prompt": "Féminin de « boulanger » : une ___ vend du pain.",
           "answer": "boulangère",
-          "accentKeys": ["è"],
+          "accentKeys": [
+            "è"
+          ],
           "translation": "男面包师卖面包；女面包师也卖。",
           "explain": "以 -er 结尾的名词，阴性通常把 -er 变为 -ère：boulanger → boulangère。"
         },
@@ -70,7 +67,12 @@
           "id": "pub-agreement-l1-q4",
           "type": "choice",
           "prompt": "Mon voisin est très gentil. Sa ___ l'est aussi.",
-          "options": ["voisine", "voisin", "voisins", "voisines"],
+          "options": [
+            "voisine",
+            "voisin",
+            "voisins",
+            "voisines"
+          ],
           "answer": 0,
           "translation": "我的男邻居很友善；他的女邻居也很友善。",
           "explain": "voisin 的阴性是 voisine，只加 -e；主语 sa voisine 是单数阴性。"
@@ -80,7 +82,9 @@
           "type": "letters",
           "prompt": "Féminin de « lycéen » : une ___ étudie ici.",
           "answer": "lycéenne",
-          "accentKeys": ["é"],
+          "accentKeys": [
+            "é"
+          ],
           "translation": "这所高中里有一名男高中生和一名女高中生。",
           "explain": "lycéen → lycéenne：-en 变 -enne，并保留原来的 é。"
         },
@@ -88,7 +92,12 @@
           "id": "pub-agreement-l1-q6",
           "type": "choice",
           "prompt": "Quel est le féminin de « un neveu » ?",
-          "options": ["une neveuse", "une nièce", "une neuve", "une neveute"],
+          "options": [
+            "une neveuse",
+            "une nièce",
+            "une neuve",
+            "une neveute"
+          ],
           "answer": 1,
           "translation": "「un neveu」（侄子）的阴性形式是什么？",
           "explain": "neveu 的阴性是 nièce，属于不规则对应；neuve 是 neuf（新的）的阴性，但不是 neveu 的阴性；neveuse、neveute 也不是正确形式。"
@@ -113,7 +122,12 @@
           "id": "pub-agreement-l2-q1",
           "type": "choice",
           "prompt": "___ élève de cette classe est très attentive.",
-          "options": ["L'", "Le", "La", "Les"],
+          "options": [
+            "L'",
+            "Le",
+            "La",
+            "Les"
+          ],
           "answer": 0,
           "translation": "这个班上的那名女学生非常专心。",
           "explain": "élève 阴阳同形，但以元音开头，定冠词只能省音为 L'；句末 attentive 表明是女性。"
@@ -122,7 +136,12 @@
           "id": "pub-agreement-l2-q2",
           "type": "choice",
           "prompt": "Choisissez la phrase correcte pour parler d'une femme photographe.",
-          "options": ["Un photographe est arrivé.", "Une photographeur est arrivée.", "Une photographe est arrivée.", "Un photographe est arrivée."],
+          "options": [
+            "Un photographe est arrivé.",
+            "Une photographeur est arrivée.",
+            "Une photographe est arrivée.",
+            "Un photographe est arrivée."
+          ],
           "answer": 2,
           "translation": "选择正确描述一位女摄影师的句子。",
           "explain": "photographe 阴阳同形；主语是女性时用 une，过去分词配合为 arrivée。"
@@ -131,7 +150,12 @@
           "id": "pub-agreement-l2-q3",
           "type": "choice",
           "prompt": "À la boulangerie, j'ai acheté ___ de beurre.",
-          "options": ["un livre", "une livre", "des livres", "les livres"],
+          "options": [
+            "un livre",
+            "une livre",
+            "des livres",
+            "les livres"
+          ],
           "answer": 1,
           "translation": "我在面包店买了半公斤（500 克）黄油。",
           "explain": "une livre 是法国用法中的重量单位，等于 500 克（半公斤）；un livre 是「书」。形式接近，意义随性别不同。"
@@ -148,7 +172,12 @@
           "id": "pub-agreement-l2-q5",
           "type": "choice",
           "prompt": "Laquelle de ces phrases peut désigner une femme ?",
-          "options": ["Le touriste attend le bus.", "La touriste attend le bus.", "La touriste attendent le bus.", "Les touriste attend le bus."],
+          "options": [
+            "Le touriste attend le bus.",
+            "La touriste attend le bus.",
+            "La touriste attendent le bus.",
+            "Les touriste attend le bus."
+          ],
           "answer": 1,
           "translation": "下面哪一句可以指一位女性？",
           "explain": "touriste 阴阳同形；指女性时用 la touriste，动词 attend 保持单数。"
@@ -181,7 +210,12 @@
           "id": "pub-agreement-l3-q3",
           "type": "choice",
           "prompt": "Un bal, des ___.",
-          "options": ["bals", "baux", "bales", "bal"],
+          "options": [
+            "bals",
+            "baux",
+            "bales",
+            "bal"
+          ],
           "answer": 0,
           "translation": "一场舞会，几场舞会。",
           "explain": "bal 是 -al 的常见例外，复数直接加 -s：des bals。baux 是 bail（租约）的复数。"
@@ -190,7 +224,12 @@
           "id": "pub-agreement-l3-q4",
           "type": "choice",
           "prompt": "Le garagiste a changé les ___ de la voiture.",
-          "options": ["pneus", "pneux", "pneues", "pneu"],
+          "options": [
+            "pneus",
+            "pneux",
+            "pneues",
+            "pneu"
+          ],
           "answer": 0,
           "translation": "修车工换了汽车的轮胎。",
           "explain": "以 -eu 结尾的名词通常加 -x，但 pneu 是例外，复数加 -s：des pneus。"
@@ -215,8 +254,25 @@
           "id": "pub-agreement-l3-q7",
           "type": "tiles",
           "prompt": "Remettez les mots dans l'ordre pour dire : « 孩子们的膝盖疼（用复数）。 »",
-          "answer": ["Les", "enfants", "ont", "mal", "aux", "genoux."],
-          "bank": ["Les", "enfants", "ont", "mal", "aux", "genoux.", "au", "genou", "des"],
+          "answer": [
+            "Les",
+            "enfants",
+            "ont",
+            "mal",
+            "aux",
+            "genoux."
+          ],
+          "bank": [
+            "Les",
+            "enfants",
+            "ont",
+            "mal",
+            "aux",
+            "genoux.",
+            "au",
+            "genou",
+            "des"
+          ],
           "translation": "孩子们的膝盖疼（用复数）。",
           "explain": "genou 是 -ou 的七个例外之一，复数加 -x：genoux；aux = à + les。题目要求用复数，因此不能选 au genou。"
         }
@@ -232,7 +288,12 @@
           "id": "pub-agreement-l4-q1",
           "type": "choice",
           "prompt": "___ idée est excellente.",
-          "options": ["Le", "La", "L'", "Les"],
+          "options": [
+            "Le",
+            "La",
+            "L'",
+            "Les"
+          ],
           "answer": 2,
           "translation": "这个主意很好。",
           "explain": "idée 是阴性单数，以元音开头，定冠词 la 省音为 l'：l'idée。"
@@ -241,7 +302,12 @@
           "id": "pub-agreement-l4-q2",
           "type": "choice",
           "prompt": "Je vais ___ marché tous les samedis.",
-          "options": ["aux", "à le", "à la", "au"],
+          "options": [
+            "aux",
+            "à le",
+            "à la",
+            "au"
+          ],
           "answer": 3,
           "translation": "我每周六去市场。",
           "explain": "à + le 缩合为 au；marché 是阳性单数。"
@@ -250,7 +316,12 @@
           "id": "pub-agreement-l4-q3",
           "type": "choice",
           "prompt": "Elle téléphone ___ étudiants de sa classe.",
-          "options": ["aux", "au", "à les", "des"],
+          "options": [
+            "aux",
+            "au",
+            "à les",
+            "des"
+          ],
           "answer": 0,
           "translation": "她给班上的学生们打电话。",
           "explain": "à + les 缩合为 aux；téléphoner à qn 表示「给某人打电话」，étudiants 是复数。"
@@ -267,7 +338,12 @@
           "id": "pub-agreement-l4-q5",
           "type": "choice",
           "prompt": "___ hôtel de cette ville est très ancien.",
-          "options": ["Le", "La", "L'", "Les"],
+          "options": [
+            "Le",
+            "La",
+            "L'",
+            "Les"
+          ],
           "answer": 2,
           "translation": "这座城市的这家旅馆很古老。",
           "explain": "hôtel 以哑音 h 开头，定冠词 le 省音为 l'：l'hôtel。"
@@ -276,7 +352,12 @@
           "id": "pub-agreement-l4-q6",
           "type": "choice",
           "prompt": "Je voudrais ___ eau, s'il vous plaît.",
-          "options": ["de l'", "du", "de la", "des"],
+          "options": [
+            "de l'",
+            "du",
+            "de la",
+            "des"
+          ],
           "answer": 0,
           "translation": "请给我一些水。",
           "explain": "eau 以元音开头，阴性部分冠词 de la 省音为 de l'：de l'eau。"
@@ -285,129 +366,25 @@
           "id": "pub-agreement-l4-q7",
           "type": "tiles",
           "prompt": "Remettez les mots dans l'ordre pour dire : « 学生们去博物馆。 »",
-          "answer": ["Les", "étudiants", "vont", "au", "musée."],
-          "bank": ["Les", "étudiants", "vont", "au", "musée.", "à", "le", "des"],
+          "answer": [
+            "Les",
+            "étudiants",
+            "vont",
+            "au",
+            "musée."
+          ],
+          "bank": [
+            "Les",
+            "étudiants",
+            "vont",
+            "au",
+            "musée.",
+            "à",
+            "le",
+            "des"
+          ],
           "translation": "学生们去博物馆。",
           "explain": "au = à + le；musée 是阳性单数。不能写成 à le musée。"
-        }
-      ]
-    },
-    {
-      "id": "pub-agreement-l5",
-      "title": "形容词的性数配合",
-      "kind": "lesson",
-      "source": "原创练习，待人工审校",
-      "questions": [
-        {
-          "id": "pub-agreement-l5-q1",
-          "type": "letters",
-          "prompt": "Féminin de « heureux » : cette femme est ___.",
-          "answer": "heureuse",
-          "translation": "这位女士很幸福。",
-          "explain": "heureux 的阴性是 heureuse：-eux 变 -euse。"
-        },
-        {
-          "id": "pub-agreement-l5-q2",
-          "type": "letters",
-          "prompt": "Féminin de « actif » : cette personne est très ___.",
-          "answer": "active",
-          "translation": "这个人非常活跃。",
-          "explain": "actif 的阴性是 active：-f 变 -ve。personne 此处是阴性单数。"
-        },
-        {
-          "id": "pub-agreement-l5-q3",
-          "type": "letters",
-          "prompt": "Féminin de « doux » : cette chanteuse a une voix ___.",
-          "answer": "douce",
-          "translation": "这位女歌手有一副柔和的嗓音。",
-          "explain": "doux 的阴性是 douce：-x 变 -ce。voix 是阴性单数。"
-        },
-        {
-          "id": "pub-agreement-l5-q4",
-          "type": "letters",
-          "prompt": "Féminin de « grec » : la cuisine ___ est délicieuse.",
-          "answer": "grecque",
-          "translation": "希腊菜很美味。",
-          "explain": "grec 的阴性是 grecque：-c 变 -que，并保留 c 的硬音。cuisine 是阴性单数。"
-        },
-        {
-          "id": "pub-agreement-l5-q5",
-          "type": "letters",
-          "prompt": "Féminin de « fier » : cette étudiante est très ___.",
-          "answer": "fière",
-          "accentKeys": ["è"],
-          "translation": "这位女学生非常骄傲。",
-          "explain": "fier 的阴性是 fière：-er 变 -ère。重音在 è。"
-        },
-        {
-          "id": "pub-agreement-l5-q6",
-          "type": "choice",
-          "prompt": "Les fleurs de ce jardin sont ___.",
-          "options": ["blanc", "blanche", "blancs", "blanches"],
-          "answer": 3,
-          "translation": "这个花园里的花是白色的。",
-          "explain": "fleurs 是阴性复数，形容词要用 blanches；blanc 的阴性是 blanche。"
-        },
-        {
-          "id": "pub-agreement-l5-q7",
-          "type": "choice",
-          "prompt": "Paul et Marie sont ___.",
-          "options": ["grand", "grande", "grands", "grandes"],
-          "answer": 2,
-          "translation": "保罗和玛丽个子很高。",
-          "explain": "男女混合的复数主语，形容词用阳性复数：grands。"
-        }
-      ]
-    },
-    {
-      "id": "pub-agreement-l6",
-      "title": "beau、nouveau、vieux 的元音前形式",
-      "kind": "lesson",
-      "source": "原创练习，待人工审校",
-      "questions": [
-        {
-          "id": "pub-agreement-l6-q1",
-          "type": "choice",
-          "prompt": "C'est ___ homme très gentil.",
-          "options": ["un beau", "un belle", "un bel", "un beaux"],
-          "answer": 2,
-          "translation": "他是一位英俊又友善的男人。",
-          "explain": "beau 在元音或哑音 h 开头的阳性单数名词前变为 bel：un bel homme。"
-        },
-        {
-          "id": "pub-agreement-l6-q2",
-          "type": "choice",
-          "prompt": "J'ai ___ ami à Paris.",
-          "options": ["un nouveau", "un nouvel", "un nouvelle", "un nouveaux"],
-          "answer": 1,
-          "translation": "我在巴黎有一位新朋友。",
-          "explain": "nouveau 在元音开头的阳性单数名词前变为 nouvel：un nouvel ami。"
-        },
-        {
-          "id": "pub-agreement-l6-q3",
-          "type": "letters",
-          "prompt": "Devant le mot « ami », « vieux » devient : un ___ ami.",
-          "answer": "vieil",
-          "translation": "他是一位老朋友。",
-          "explain": "vieux 在元音开头的阳性单数名词前变为 vieil：un vieil ami。"
-        },
-        {
-          "id": "pub-agreement-l6-q4",
-          "type": "choice",
-          "prompt": "___ hôtel est fermé aujourd'hui.",
-          "options": ["Le vieux", "Le vieil", "La vieille", "Les vieux"],
-          "answer": 1,
-          "translation": "这家老旅馆今天关门。",
-          "explain": "hôtel 以哑音 h 开头，前面的 vieux 要用 vieil：le vieil hôtel。规范形式不能写成 le vieux hôtel。"
-        },
-        {
-          "id": "pub-agreement-l6-q5",
-          "type": "tiles",
-          "prompt": "Remettez les mots dans l'ordre pour dire : « 花园里有一棵美丽的树。 » (Commencez par « Il y a » et placez le complément de lieu en fin de phrase.)",
-          "answer": ["Il", "y", "a", "un", "bel", "arbre", "dans", "le", "jardin."],
-          "bank": ["Il", "y", "a", "un", "bel", "arbre", "dans", "le", "jardin.", "beau", "belle"],
-          "translation": "花园里有一棵美丽的树。",
-          "explain": "arbre 以元音开头，beau 要变为 bel：un bel arbre。词库中的 beau 是干扰项。"
         }
       ]
     },
@@ -418,58 +395,18 @@
       "source": "原创练习，待人工审校",
       "questions": [
         {
-          "id": "pub-agreement-l7-q1",
-          "type": "choice",
-          "prompt": "Quelle expression signifie « 一个高个子男人 » ?",
-          "options": ["un homme grand", "un grand homme", "une grande homme", "un homme grande"],
-          "answer": 0,
-          "translation": "哪一表达表示「一个高个子男人」？",
-          "explain": "grand 放在名词后表示身高：un homme grand；un grand homme 表示「伟人」。"
-        },
-        {
-          "id": "pub-agreement-l7-q2",
-          "type": "choice",
-          "prompt": "Quelle expression signifie « 一位伟大的作家 » ?",
-          "options": ["un écrivain grand", "un grande écrivain", "un grand écrivain", "une grand écrivain"],
-          "answer": 2,
-          "translation": "哪一表达表示「一位伟大的作家」？",
-          "explain": "grand 放在名词前可表示「伟大」：un grand écrivain；放在后面 un écrivain grand 表示身材高。"
-        },
-        {
-          "id": "pub-agreement-l7-q3",
-          "type": "choice",
-          "prompt": "Quelle expression signifie « 一个缺钱的穷人 » ?",
-          "options": ["un pauvre homme", "un homme pauvre", "une homme pauvre", "un homme pauvres"],
-          "answer": 1,
-          "translation": "哪一表达表示「一个缺钱的穷人」？",
-          "explain": "pauvre 放在名词后表示经济上的贫穷：un homme pauvre；un pauvre homme 多表示「可怜的人」。"
-        },
-        {
-          "id": "pub-agreement-l7-q4",
-          "type": "choice",
-          "prompt": "Quelle expression signifie « 一位前任男教师 » ?",
-          "options": ["un professeur ancien", "un ancien professeur", "une ancienne professeur", "un ancien professeure"],
-          "answer": 1,
-          "translation": "哪一表达表示「一位前任男教师」？",
-          "explain": "ancien 放在名词前表示「前任的」：un ancien professeur（男教师）；monument ancien 才表示「古老的纪念碑」。"
-        },
-        {
           "id": "pub-agreement-l7-q5",
           "type": "choice",
           "prompt": "Quelle expression signifie « 同一本书 » ?",
-          "options": ["le livre même", "le même livre", "la même livre", "les même livre"],
+          "options": [
+            "le livre même",
+            "le même livre",
+            "la même livre",
+            "les même livre"
+          ],
           "answer": 1,
           "translation": "哪一表达表示「同一本书」？",
           "explain": "même 放在名词前表示「同一个」：le même livre；le livre même 表示「书本身」。"
-        },
-        {
-          "id": "pub-agreement-l7-q6",
-          "type": "choice",
-          "prompt": "Quel ordre est le plus naturel pour « 一条漂亮的红色连衣裙 » ?",
-          "options": ["une jolie robe rouge", "une robe jolie rouge", "une rouge jolie robe", "une robe rouge jolie"],
-          "answer": 0,
-          "translation": "「一条漂亮的红色连衣裙」最自然的词序是哪一项？",
-          "explain": "joli 这类短形容词常放在名词前，颜色形容词放在名词后：une jolie robe rouge。"
         }
       ]
     },
@@ -483,7 +420,12 @@
           "id": "pub-agreement-l8-q1",
           "type": "choice",
           "prompt": "Quel est le contraire de « grand » (taille) ?",
-          "options": ["haut", "gros", "long", "petit"],
+          "options": [
+            "haut",
+            "gros",
+            "long",
+            "petit"
+          ],
           "answer": 3,
           "translation": "与表示身高的 « grand » 相反的词是？",
           "explain": "grand（高/大）的反义是 petit（矮/小）；gros 是胖，long 是长，haut 是高。"
@@ -492,7 +434,12 @@
           "id": "pub-agreement-l8-q2",
           "type": "choice",
           "prompt": "Quel est le contraire de « cher » au sens de « prix élevé » ?",
-          "options": ["précieux", "riche", "léger", "bon marché"],
+          "options": [
+            "précieux",
+            "riche",
+            "léger",
+            "bon marché"
+          ],
           "answer": 3,
           "translation": "表示「价格高」的 « cher » 的反义是？",
           "explain": "cher（昂贵的）的反义是 bon marché（便宜的）；riche 是富有，léger 是轻，précieux 是珍贵。"
@@ -502,7 +449,10 @@
           "type": "letters",
           "prompt": "Contraire de « lourd » : cette valise est ___.",
           "answer": "légère",
-          "accentKeys": ["é", "è"],
+          "accentKeys": [
+            "é",
+            "è"
+          ],
           "translation": "这个包很重；这个行李箱很轻。",
           "explain": "lourd（重）的反义是 léger；valise 是阴性单数，所以用 légère。"
         },
@@ -510,8 +460,30 @@
           "id": "pub-agreement-l8-q4",
           "type": "tiles",
           "prompt": "Remettez les mots dans l'ordre pour dire : « 门开着，但窗户关着。 »",
-          "answer": ["La", "porte", "est", "ouverte,", "mais", "la", "fenêtre", "est", "fermée."],
-          "bank": ["La", "porte", "est", "ouverte,", "mais", "la", "fenêtre", "est", "fermée.", "ouvert", "fermer"],
+          "answer": [
+            "La",
+            "porte",
+            "est",
+            "ouverte,",
+            "mais",
+            "la",
+            "fenêtre",
+            "est",
+            "fermée."
+          ],
+          "bank": [
+            "La",
+            "porte",
+            "est",
+            "ouverte,",
+            "mais",
+            "la",
+            "fenêtre",
+            "est",
+            "fermée.",
+            "ouvert",
+            "fermer"
+          ],
           "translation": "门开着，但窗户关着。",
           "explain": "ouverte 是 ouvrir 的过去分词阴性形式，与 porte 配合；fermée 与 fenêtre 配合。词库中的 ouvert 是阳性形式，fermer 是不定式，均不能填入本句。"
         },
@@ -519,7 +491,12 @@
           "id": "pub-agreement-l8-q5",
           "type": "choice",
           "prompt": "Quel adjectif est le contraire de « propre » au sens de « 干净 » ?",
-          "options": ["clair", "net", "sale", "pur"],
+          "options": [
+            "clair",
+            "net",
+            "sale",
+            "pur"
+          ],
           "answer": 2,
           "translation": "与表示「干净」的 « propre » 相反的形容词是？",
           "explain": "propre（干净的）的反义是 sale（脏的）；net 是整洁/净的，clair 是明亮的，pur 是纯净的。"
@@ -538,7 +515,12 @@
           "id": "pub-agreement-c1-q1",
           "type": "choice",
           "prompt": "___ vieille dame est arrivée devant la mairie.",
-          "options": ["Un", "Des", "Le", "Une"],
+          "options": [
+            "Un",
+            "Des",
+            "Le",
+            "Une"
+          ],
           "answer": 3,
           "translation": "一位老妇人来到了市政厅前。",
           "explain": "dame 是阴性单数，用 une；vieille 是 vieux 的阴性形式，也要与 dame 配合。"
@@ -547,51 +529,40 @@
           "id": "pub-agreement-c1-q2",
           "type": "choice",
           "prompt": "La ___ de ce film est aussi une actrice célèbre.",
-          "options": ["réalisateur", "réalisatrice", "réalisateurs", "réalisatrices"],
+          "options": [
+            "réalisateur",
+            "réalisatrice",
+            "réalisateurs",
+            "réalisatrices"
+          ],
           "answer": 1,
           "translation": "这部电影的女导演也是一位著名女演员。",
           "explain": "réalisateur 的阴性是 réalisatrice；actrice 是阴性单数，形容词 célèbre 阴阳同形。"
         },
         {
-          "id": "pub-agreement-c1-q3",
-          "type": "letters",
-          "prompt": "Féminin de « sportif » : une femme ___ entraîne cette équipe.",
-          "answer": "sportive",
-          "translation": "一位热爱运动的女士训练这支队伍。",
-          "explain": "sportif 的阴性是 sportive：-f 变 -ve，与 femme 配合。"
-        },
-        {
-          "id": "pub-agreement-c1-q4",
-          "type": "letters",
-          "prompt": "Devant le mot « homme », « beau » devient : un ___ homme.",
-          "answer": "bel",
-          "translation": "他是一位英俊的男人。",
-          "explain": "beau 在元音或哑音 h 开头的阳性单数名词前变为 bel：un bel homme。"
-        },
-        {
           "id": "pub-agreement-c1-q5",
           "type": "choice",
           "prompt": "Nous avons trouvé ___ hôtel ancien dans le quartier.",
-          "options": ["de", "une", "des", "un"],
+          "options": [
+            "de",
+            "une",
+            "des",
+            "un"
+          ],
           "answer": 3,
           "translation": "我们在街区里找到了一家古老的旅馆。",
           "explain": "hôtel 是阳性单数，用 un；ancien 放在名词后表示「古老的」。"
         },
         {
-          "id": "pub-agreement-c1-q6",
-          "type": "tiles",
-          "prompt": "Remettez les mots dans l'ordre pour dire : « 年轻的女孩们非常幸福。 »",
-          "answer": ["Les", "jeunes", "filles", "sont", "très", "heureuses."],
-          "alternatives": [["Les", "filles", "jeunes", "sont", "très", "heureuses."]],
-          "bank": ["Les", "jeunes", "filles", "sont", "très", "heureuses.", "jeune", "heureux", "heureuse"],
-          "translation": "年轻的女孩们非常幸福。",
-          "explain": "filles 是阴性复数：jeune 的阴性单数与阳性同形，但阴性复数要加 -s，变为 jeunes；heureux 变为 heureuses。词序上「Les jeunes filles」最自然，「Les filles jeunes」也可接受，故列为备选。"
-        },
-        {
           "id": "pub-agreement-c1-q7",
           "type": "choice",
           "prompt": "Choisissez la phrase correcte.",
-          "options": ["Une grand femme attend devant la porte.", "Un grand femme attend devant la porte.", "Une grande femme attend devant la porte.", "Une grande femme attendent devant la porte."],
+          "options": [
+            "Une grand femme attend devant la porte.",
+            "Un grand femme attend devant la porte.",
+            "Une grande femme attend devant la porte.",
+            "Une grande femme attendent devant la porte."
+          ],
           "answer": 2,
           "translation": "选择正确的句子。",
           "explain": "femme 是阴性单数：冠词用 une，形容词 grand 变为 grande，动词 attend 用单数。"
@@ -608,7 +579,12 @@
           "id": "pub-agreement-c2-q1",
           "type": "choice",
           "prompt": "Les ___ de cette ferme sont dans le pré.",
-          "options": ["cheval", "chevals", "cheveaux", "chevaux"],
+          "options": [
+            "cheval",
+            "chevals",
+            "cheveaux",
+            "chevaux"
+          ],
           "answer": 3,
           "translation": "这个农场的马在草地上。",
           "explain": "cheval 以 -al 结尾，复数变为 chevaux；-al 一般变 -aux。"
@@ -617,37 +593,15 @@
           "id": "pub-agreement-c2-q2",
           "type": "choice",
           "prompt": "Quelle phrase est correcte ?",
-          "options": ["Il a acheté deux pneux et trois bijoux.", "Il a acheté deux pneux et trois bijous.", "Il a acheté deux pneus et trois bijous.", "Il a acheté deux pneus et trois bijoux."],
+          "options": [
+            "Il a acheté deux pneux et trois bijoux.",
+            "Il a acheté deux pneux et trois bijous.",
+            "Il a acheté deux pneus et trois bijous.",
+            "Il a acheté deux pneus et trois bijoux."
+          ],
           "answer": 3,
           "translation": "他买了两个轮胎和三件珠宝。",
           "explain": "pneu 是 -eu 的例外，复数加 -s（pneus）；bijou 是 -ou 的七个例外之一，复数加 -x（bijoux）。"
-        },
-        {
-          "id": "pub-agreement-c2-q3",
-          "type": "choice",
-          "prompt": "Quelle phrase est correcte ?",
-          "options": ["Voici un bel arbre et une beau maison.", "Voici un beau arbre et une belle maison.", "Voici un bel arbre et une belle maison.", "Voici un beau arbre et une bel maison."],
-          "answer": 2,
-          "translation": "这是一棵美丽的树和一座漂亮的房子。",
-          "explain": "arbre 是阳性单数、以元音开头，用 bel；maison 是阴性单数，用 belle。"
-        },
-        {
-          "id": "pub-agreement-c2-q4",
-          "type": "tiles",
-          "prompt": "Remettez les mots dans l'ordre pour dire : « 多年的老朋友们彼此很了解。 »",
-          "answer": ["Les", "vieux", "amis", "se", "connaissent", "bien."],
-          "bank": ["Les", "vieux", "amis", "se", "connaissent", "bien.", "vieil", "vieille"],
-          "translation": "多年的老朋友们彼此很了解。",
-          "explain": "vieux 的阳性复数仍是 vieux，不用 vieil；vieil 只用于阳性单数元音或哑音 h 前。这里 vieux amis 指多年的老朋友。"
-        },
-        {
-          "id": "pub-agreement-c2-q5",
-          "type": "choice",
-          "prompt": "Quelle phrase est correcte ?",
-          "options": ["Cette valise est lourde, mais ce sac est léger.", "Cette valise est lourd, mais ce sac est légère.", "Cette valise est lourde, mais ce sac est légère.", "Cette valise est lourd, mais ce sac est léger."],
-          "answer": 0,
-          "translation": "这个行李箱很重，但这个包很轻。",
-          "explain": "valise 是阴性单数，用 lourde；sac 是阳性单数，用 léger。lourd 与 léger 是一对反义形容词。"
         }
       ]
     }

@@ -4,10 +4,11 @@
   "chapters": [
     "chapters/pub-c01-boundaries.json",
     "chapters/pub-c02-noun-phrases.json",
+    "chapters/pub-c03-adjectives.json",
     "chapters/pub-predication.json",
     "chapters/pub-articles.json",
     "chapters/pub-agreement.json"
   ],
-  "expectedChapterCount": 5,
-  "expectedQuestionCount": 352
+  "expectedChapterCount": 6,
+  "expectedQuestionCount": 459
 }

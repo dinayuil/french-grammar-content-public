@@ -225,28 +225,6 @@
           "answer": 0
         },
         {
-          "id": "pub-predication-l3-q2",
-          "prompt": "Ma sœur est ___ de son résultat.（用 content 的适当形式填空）",
-          "translation": "我姐姐对她的成绩很满意。",
-          "explain": "sœur 是阴性单数，content 加 e 变成 contente。",
-          "type": "letters",
-          "answer": "contente"
-        },
-        {
-          "id": "pub-predication-l3-q3",
-          "prompt": "Paul et Marie sont ___ de leurs notes.",
-          "translation": "保罗和玛丽对他们的成绩很满意。",
-          "explain": "Paul 和 Marie 是男女混合复数，形容词用阳性复数 contents。",
-          "type": "choice",
-          "options": [
-            "contents",
-            "contentes",
-            "contente",
-            "content"
-          ],
-          "answer": 0
-        },
-        {
           "id": "pub-predication-l3-q4",
           "prompt": "Les fenêtres sont ___.（用 ouvert 的适当形式填空）",
           "translation": "窗户是开着的。",
@@ -267,17 +245,6 @@
             "est"
           ],
           "answer": 1
-        },
-        {
-          "id": "pub-predication-l3-q6",
-          "prompt": "Elles sont ___ depuis une heure.（用 fatigué 的适当形式填空）",
-          "translation": "她们累了一个小时了。",
-          "explain": "fatigué 加 e 再加 s，得到阴性复数 fatiguées；être 后用形容词表示状态。",
-          "type": "letters",
-          "answer": "fatiguées",
-          "accentKeys": [
-            "é"
-          ]
         },
         {
           "id": "pub-predication-l3-q7",

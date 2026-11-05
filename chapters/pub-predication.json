@@ -14,11 +14,6 @@
       "body": "avoir 的现在时是 j'ai, tu as, il/elle/on a, nous avons, vous avez, ils/elles ont。法语用 avoir 说年龄：J'ai vingt ans。它还出现在 avoir besoin de、avoir le droit de 等固定搭配中。"
     },
     {
-      "id": "pub-predication-c3",
-      "title": "否定：ne 和 pas 夹住动词",
-      "body": "基础否定是 ne + 动词 + pas。元音或哑音 h 前，ne 省音为 n'：Je n'ai pas d'argent. Il n'est pas là. Il n'y a pas de problème. 否定中作直接宾语的不定冠词或部分冠词通常改为 de/d'；但 être 的表语保留不定冠词：Ce n'est pas un problème. 口语中常省略 ne，书面标准仍保留。"
-    },
-    {
       "id": "pub-predication-c4",
       "title": "C'est, ce sont, il est, il y a",
       "body": "c'est 后接单数名词、名字或评价；ce sont 后接复数名词；il est 后接形容词或职业，职业前通常不加冠词；il y a 表示“有、存在”，后面可接单数或复数名词。"
@@ -75,90 +70,6 @@
             "est",
             "prêt"
           ]
-        }
-      ]
-    },
-    {
-      "id": "pub-predication-l4",
-      "title": "否定：把动词夹在 ne 和 pas 之间",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-predication-l4-q1",
-          "prompt": "Je ___ pas fatigué.（标准书面否定）",
-          "translation": "我不累。",
-          "explain": "标准书面否定是 ne + 动词 + pas；主语 je 的 être 形式是 suis。",
-          "type": "choice",
-          "options": [
-            "suis",
-            "ne suis",
-            "ne pas suis",
-            "n'est"
-          ],
-          "answer": 1
-        },
-        {
-          "id": "pub-predication-l4-q2",
-          "prompt": "把肯定句改成否定句：Je suis professeur. 请用标准书面否定并保留 ne，要求以 Je 开头（句首大写），句末加句号。",
-          "translation": "我不是老师。",
-          "explain": "ne 放在动词前，pas 放在动词后；本题用标准书面否定，不能省略 ne。professeur 表示职业，前不加冠词。",
-          "type": "tiles",
-          "answer": [
-            "Je",
-            "ne",
-            "suis",
-            "pas",
-            "professeur."
-          ],
-          "bank": [
-            "Je",
-            "ne",
-            "suis",
-            "pas",
-            "professeur.",
-            "n'",
-            "est"
-          ]
-        },
-        {
-          "id": "pub-predication-l4-q4",
-          "prompt": "用词块组成句子：她不在家。请用标准书面否定并保留 ne，要求以 Elle 开头（句首大写），句末加句号。",
-          "translation": "她不在家。",
-          "explain": "n'est 是 ne + est 的省音；pas 紧跟在动词后；à la maison 是地点短语。本题用标准书面否定，保留 ne，不按口语省略。",
-          "type": "tiles",
-          "answer": [
-            "Elle",
-            "n'est",
-            "pas",
-            "à",
-            "la",
-            "maison."
-          ],
-          "bank": [
-            "Elle",
-            "n'est",
-            "pas",
-            "à",
-            "la",
-            "maison.",
-            "ne",
-            "est"
-          ]
-        },
-        {
-          "id": "pub-predication-l4-q5",
-          "prompt": "Nous ___ pas d'argent.",
-          "translation": "我们没有钱。",
-          "explain": "ne 在元音前省音为 n'；nous 用 avons，所以是 n'avons。否定中部分冠词也改为 de/d'。",
-          "type": "choice",
-          "options": [
-            "n'avez",
-            "n'avons",
-            "ne avons",
-            "avons n'"
-          ],
-          "answer": 1
         }
       ]
     },
@@ -228,31 +139,6 @@
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
-        {
-          "id": "pub-predication-x1-q2",
-          "prompt": "用词块组成句子：我今天没空。请用标准书面否定并保留 ne，要求以 Je 开头（句首大写），把 aujourd'hui 放在句末，句末加句号。",
-          "translation": "我今天没空。",
-          "explain": "ne ... pas 夹住 suis；aujourd'hui 放在句末，句末加句号。标准书面否定保留 ne，不按口语省略。",
-          "type": "tiles",
-          "answer": [
-            "Je",
-            "ne",
-            "suis",
-            "pas",
-            "disponible",
-            "aujourd'hui."
-          ],
-          "bank": [
-            "Je",
-            "ne",
-            "suis",
-            "pas",
-            "disponible",
-            "aujourd'hui.",
-            "est",
-            "n'"
-          ]
-        },
         {
           "id": "pub-predication-x1-q4",
           "prompt": "___ une question difficile, mais je vais essayer.（评价）",

@@ -322,14 +322,6 @@
           "explain": "à + les 缩合为 aux；téléphoner à qn 表示「给某人打电话」，étudiants 是复数。"
         },
         {
-          "id": "pub-agreement-l4-q4",
-          "type": "letters",
-          "prompt": "Je n'ai pas ___ frère.",
-          "answer": "de",
-          "translation": "我没有兄弟。",
-          "explain": "否定句中，不定冠词 un 变为 de：J'ai un frère → Je n'ai pas de frère。"
-        },
-        {
           "id": "pub-agreement-l4-q5",
           "type": "choice",
           "prompt": "___ hôtel de cette ville est très ancien.",

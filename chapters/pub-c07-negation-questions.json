@@ -1,0 +1,3552 @@
+{
+  "id": "pub-c07-negation-questions",
+  "title": "否定与疑问",
+  "titleFr": "La négation et l'interrogation",
+  "cards": [
+    {
+      "id": "pub-c07-negation-questions-card-u1-1",
+      "title": "ne...pas 的基本位置：夹住变位动词",
+      "body": "简单否定由 ne 和 pas 两部分组成，它们把变位动词夹在中间：主语 + ne + 变位动词 + pas + 其余成分。pas 的位置由变位动词决定，不由后面的名词或副词决定。\n\n- Je ne parle pas anglais.（我不说英语。）\n- Nous n'habitons pas ici.（我们不住在这里。）\n- Elle ne travaille pas le dimanche.（她星期天不工作。）\n- Il ne peut pas venir.（他不能来。）\n\nne 在元音或哑音 h 前省音为 n'：Je n'aime pas ce film.（我不喜欢这部电影。）Il n'habite pas à Paris.（他不住在巴黎。）\n\n在 aller + 不定式的最近将来中，否定词夹住变位的 aller，而不是后面的不定式：Je ne vais pas partir.（我不走了。）Nous n'allons pas attendre.（我们不等了。）情态动词 + 不定式也一样：Elle ne veut pas sortir.（她不想出去。）\n\n要点：\n- 先找变位动词，再在它前后放 ne 和 pas；不要按中文语序把 pas 放到句末。\n- 否定词只夹住一个变位动词；后面的不定式保持原形。\n- ne 的省音是拼写问题，不能写成 ne aime / ne habite。\n\n边界：本卡只处理现在时等简单结构中的位置；复合时态、命令式和不定式否定分别在别处处理。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u1-2",
+      "title": "简单否定：找对变位动词，处理省音与常用结构",
+      "body": "写否定句分三步：先找句中的变位动词，再把 ne 放在它前面、pas 放在它后面，最后检查省音和主语人称。\n\n- Je suis étudiant. → Je ne suis pas étudiant.（我不是学生。）\n- Elle a raison. → Elle n'a pas raison.（她不对。）\n- Nous avons le temps. → Nous n'avons pas le temps.（我们没有时间。）\n- C'est facile. → Ce n'est pas facile.（这不容易。）\n- Il y a un problème. → Il n'y a pas de problème.（没有问题。）\n\n常见省音：je / ce / il / elle / on / nous / vous / ils 后的 ne 遇元音开头的动词形式时写 n'：je n'aime、ce n'est、il n'y a、nous n'avons。\n\n要点：\n- c'est 的否定是 ce n'est pas；il y a 的否定是 il n'y a pas。\n- 主语人称决定变位动词形式，否定词不改变主语与动词的配合。\n- 书面标准中 ne 不能省略；口语省略 ne 属另一语域现象。\n\n边界：本卡只讲 ne...pas 的简单否定。否定代词 personne/rien、否定限定词 aucun、ni...ni 以及不定式否定各有专门规则，不能把 pas 套用到所有否定结构上。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u1-3",
+      "title": "否定不定式：ne pas 整体放在不定式前",
+      "body": "否定不定式时，ne 和 pas 不分开，而是作为整体放在不定式前面：ne pas + infinitif。\n\n- Je préfère ne pas sortir.（我宁愿不出去。）\n- Elle décide de ne pas répondre.（她决定不回答。）\n- Il est important de ne pas oublier ce rendez-vous.（重要的是不要忘记这个约会。）\n\n不定式前有介词时，否定词放在介词之后、不定式之前：décider de ne pas partir、pour ne pas déranger。不要写成 de ne partir pas 或 ne partir pas de。\n\n如果还有其他否定成分（plus、jamais），它们和 ne 一起放在不定式前：ne plus jamais + infinitif。例：Elle décide de ne plus jamais sortir le soir.（她决定晚上再也不出去了。）\n\n对比：\n- Je ne veux pas partir.（我不想走。）——否定的是变位动词 vouloir。\n- Je veux ne pas partir.（我想不走。）——否定的是不定式 partir，语义较特殊。\n\n要点：\n- ne pas 是一个整体，不能拆到不定式两边。\n- 介词后的不定式否定仍保持 de / pour + ne pas + infinitif 的顺序。\n- 不要与变位动词的 ne...pas 混淆：两者可同时出现，各自夹住自己的动词。\n\n边界：本卡不涉及 sans + 不定式的替换，也不涉及命令式否定。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u1-4",
+      "title": "否定与程度副词：pas 在前，bien / très / trop 在后",
+      "body": "bien、très、trop、beaucoup 等程度副词出现在否定词之后，通常位于 pas 后面：ne + 变位动词 + pas + 副词。\n\n- Je ne travaille pas beaucoup.（我工作不多。）\n- Elle n'est pas très contente.（她不太高兴。）\n- Il ne conduit pas trop vite.（他开得不太快。）\n- Je ne comprends pas bien.（我不太明白。）\n\n否定可以针对程度本身，也可以针对整个谓语；范围由副词位置和语境决定。对比：\n- Je n'aime pas le café.（我不喜欢咖啡。）——否定整个喜好。\n- Je n'aime pas beaucoup le café.（我不太喜欢咖啡。）——否定程度，语气较弱。\n\n要点：\n- 副词不能跑到 pas 前面：不说 Je ne beaucoup travaille pas。\n- très 不能直接放在 pas 前构成否定；否定程度时用 pas très + 形容词/副词。\n- beaucoup 修饰动词时放在 pas 后；不要与表示数量的 de 结构混为一谈。\n\n边界：本卡不处理频率副词的否定对应，也不处理比较级；部分否定与绝对否定的区别见后面的部分否定识别卡。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u1-5",
+      "title": "ne...plus 与 ne...jamais：不再与从不",
+      "body": "ne...plus 表示「不再」，ne...jamais 表示「从不」；两者的位置与 ne...pas 相同：ne 在变位动词前，plus / jamais 在变位动词后。\n\n- Je ne fume plus.（我不再抽烟了。）\n- Elle ne vient plus le lundi.（她星期一不再来了。）\n- Il ne mange jamais de viande.（他从不吃肉。）\n- Nous n'allons jamais au cinéma.（我们从不看电影。）\n\n位置要点：\n- ne 遇元音或哑音 h 时省音为 n'：Je n'ai plus faim.（我不再饿了。）\n- plus / jamais 占据 pas 的位置，不能再加 pas：不说 Je ne fume pas plus。\n- 否定不定式时，ne plus / ne jamais 作为整体放在不定式前：Elle décide de ne plus jamais sortir.（她决定再也不出去了。）\n\n对比 plus 的两种意义：\n- 否定副词 plus：Je ne travaille plus ici.（我不再在这里工作。）\n- 比较级 plus：Je travaille plus que lui.（我比他工作得多。）\n两者拼写相同，意义由否定结构和比较结构决定；否定结构中的 plus 通常表示「不再」，比较级 plus 常与 que 或更明确的比较成分连用，不能只凭拼写判断。\n\n边界：本卡不处理 pas encore（尚未），也不把 ne...plus / ne...jamais 与 ne...ni...ni 混用。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u2-1",
+      "title": "aucun / aucune：与单数名词配合的否定限定词",
+      "body": "aucun（阳性）和 aucune（阴性）放在单数名词前，与 ne 连用，表示「没有任何」。性数随名词变化，名词保持单数。\n\n- Je n'ai aucun problème.（我没有任何问题。）\n- Elle ne connaît aucune solution.（她不知道任何解决办法。）\n- Aucun élève n'est absent aujourd'hui.（今天没有学生缺席。）\n- Il n'y a aucune erreur dans ton devoir.（你的作业里没有任何错误。）\n\n作主语时，aucun + 名词放在句首，ne 仍放在变位动词前：Aucun enfant ne joue dehors.（没有孩子在户外玩。）\n\n要点：\n- 不要用复数：不说 aucuns problèmes / aucunes erreurs（固定搭配除外，本章不展开）。\n- aucun 已含否定意义，句中不再加 pas：不说 Je n'ai pas aucun problème。\n- 名词的性决定形式：problème（阳性）→ aucun；solution（阴性）→ aucune。\n\n边界：aucun 也可作代词（aucun de mes amis），本卡只处理限定词用法；personne 和 rien 是否定代词，不跟名词。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u2-2",
+      "title": "否定代词与否定副词：personne、rien、aucun、nulle part 都要配 ne",
+      "body": "personne（没有人）、rien（没有东西）、aucun(e) + 名词（没有任何……）、nulle part（哪儿都不）都表示否定，句中必须出现 ne。\n\n- Personne ne vient ce soir.（今晚没有人来。）\n- Je ne vois personne.（我谁也没看见。）\n- Il ne dit rien.（他什么也不说。）\n- Elle n'a aucun doute.（她没有任何疑问。）\n- Nous n'allons nulle part cet été.（今年夏天我们哪儿也不去。）\n\n位置：\n- personne 作主语时放在句首：Personne ne répond.；作宾语时放在变位动词后：Je ne vois personne.\n- rien 作宾语放在变位动词后：Il ne dit rien.；作主语时放在句首：Rien ne marche.\n- nulle part 作地点状语放在变位动词后：Ils ne vont nulle part.\n- aucun + 名词按宾语或主语的位置放置，与 ne 搭配。\n\n要点：\n- 这些词已经是否定词，标准书面语中不再加 pas。\n- ne 在元音前省音：Je n'ai rien、Personne n'est là。\n- 否定回答可以单说 Personne / Rien，但完整句仍要 ne。\n\n边界：本卡只处理现在时等简单结构中的位置；复合时态中 rien、personne 等的不同位置另属后续内容。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u2-3",
+      "title": "否定句中保留的限定词：定冠词、主有形容词、指示形容词",
+      "body": "否定句中，定冠词 le/la/les、主有形容词 mon/ton/son/notre/votre/leur、指示形容词 ce/cet/cette/ces 都保持不变。只有不定冠词 un/une/des 和部分冠词 du/de la/des 在绝对否定直接宾语时改为 de。\n\n- Je n'aime pas le café.（我不喜欢咖啡。）\n- Elle ne prend pas son parapluie.（她不带她的雨伞。）\n- Nous ne lisons pas ce journal.（我们不读这份报纸。）\n- Il ne connaît pas les voisins.（他不认识这些邻居。）\n\n对比：\n- Je ne bois pas de café.（我不喝咖啡。）——部分冠词 du 在绝对否定直接宾语时变 de。\n- Je ne bois pas ce café.（我不喝这杯咖啡。）——指示形容词 ce 保留。\n\n要点：\n- 先判断限定词类别，再判断名词是不是直接宾语；不能一看到否定就把所有冠词都改成 de。\n- 定冠词、主有形容词、指示形容词没有「变 de」这条规则。\n- 表语名词也不适用直接宾语的 de 规则，详见后面的表语卡。\n\n边界：本卡只处理限定词保留与不变；不定冠词/部分冠词变 de 的条件、部分否定和表语例外分别在后面的表语卡与部分否定识别卡中处理。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u2-4",
+      "title": "nul / nulle：书面语域的否定限定词（仅识别）",
+      "body": "nul（阳性）和 nulle（阴性）放在单数名词前，与 ne 连用，表示「没有任何」，属书面、文学或法律语域。\n\n- Nul homme n'est au-dessus de la loi.（没有人凌驾于法律之上。）\n- Nulle femme ne doit subir cela.（任何女性都不应遭受这种事。）\n- Nul bruit ne trouble le silence.（没有任何声音打破寂静。）\n\n要点（仅要求识别）：\n- 性数随名词变化：nul homme / nulle femme。\n- 语域正式，日常口语和中性书面语通常用 aucun(e)：Aucun homme n'est au-dessus de la loi.\n- nul 还可作代词（Nul n'est censé ignorer la loi.）或形容词，本卡只识别限定词用法。\n\n边界：不要把 nul 当作 aucun 的日常同义词；也不要把 nulle part（地点否定副词短语）与 nulle + 名词混淆。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u2-5",
+      "title": "部分否定的范围：否定数量或程度，不等于否定存在（仅识别）",
+      "body": "部分否定只否定数量、程度或句中的某一成分，并不否定事物本身的存在；绝对否定则否认宾语所表示事物的存在。\n\n对比：\n- Je ne bois pas de café.（我不喝咖啡。）——绝对否定，宾语不存在。\n- Je ne bois pas beaucoup de café.（我不太喝咖啡。）——部分否定，否定数量程度，可能仍喝一点。\n- Elle n'est pas très fatiguée.（她不太累。）——否定程度。\n- Je n'aime pas le café.（我不喜欢咖啡。）——否定整个喜好，定冠词保留。\n\n冠词与 de 的选择不能只按「否定」一刀切：\n- 定冠词、主有形容词、指示形容词通常保留。\n- 不定冠词或部分冠词在绝对否定直接宾语时通常变 de。\n- 数量或程度副词本身也可能要求 de：Il n'a pas beaucoup d'amis.（他朋友不多。）这里的 de 并不表示绝对否定。\n\n要点（仅要求识别）：\n- 看到 de 不要立刻判断为「绝对否定」；要同时看否定词类型、否定范围和固定搭配。\n- 部分否定与绝对否定的语义不同，不能互相改写。\n\n边界：本卡不要求产出部分否定句，也不涉及表语例外、personne/rien 的替代；这些分别在表语卡和其他卡中处理。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u3-1",
+      "title": "绝对否定直接宾语：un / une / des、du / de la / des 变 de",
+      "body": "绝对否定直接宾语时，宾语前的不定冠词 un/une/des 或部分冠词 du/de la/des 通常变为 de；de 在元音或哑音 h 前省音为 d'。\n\n- J'ai un frère. → Je n'ai pas de frère.（我没有兄弟。）\n- Elle achète des fleurs. → Elle n'achète pas de fleurs.（她不买花。）\n- Je bois du café. → Je ne bois pas de café.（我不喝咖啡。）\n- Il mange de la soupe. → Il ne mange pas de soupe.（他不喝汤。）\n- Nous avons de l'argent. → Nous n'avons pas d'argent.（我们没有钱。）\n\n要点：\n- 变化只发生在直接宾语前的冠词上，宾语性质不变。\n- 定冠词 le/la/les、主有形容词、指示形容词不变：Je n'aime pas le café. / Elle ne prend pas son parapluie.\n- 表语名词不适用这条规则：Ce n'est pas un problème.（见下一张卡。）\n- de 本身不再带冠词：pas de frère，不写 pas du frère / pas un de frère。\n\n边界：本卡只处理绝对否定直接宾语。部分否定、数量副词后的 de、表语名词和 ni...ni 中的冠词省略各有条件，不能一律套用。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u3-2",
+      "title": "表语名词的否定：冠词保留，不改成 de",
+      "body": "系动词 être（包括 c'est）后的名词是表语，不是直接宾语。否定表语名词时，其前的不定冠词或部分冠词保留，不改为 de。\n\n- C'est un problème. → Ce n'est pas un problème.（这不是问题。）\n- C'est une bonne idée. → Ce n'est pas une bonne idée.（这不是个好主意。）\n- C'est du café. → Ce n'est pas du café, c'est du thé.（这不是咖啡，是茶。）\n- C'est un livre intéressant. → Ce n'est pas un livre intéressant.（这不是一本有趣的书。）\n\n职业、身份名词作表语时通常本来就不用冠词，否定时也不补冠词：Il est médecin. → Il n'est pas médecin.（他不是医生。）\n\n对比：\n- Je n'ai pas de voiture.（我没有车。）——voiture 是 avoir 的直接宾语，不定冠词变 de。\n- Ce n'est pas une voiture.（这不是车。）——voiture 是表语，冠词保留。\n\n要点：\n- 先判断名词是直接宾语还是表语，再决定冠词是否变化。\n- 形容词表语没有冠词问题，否定时只放 ne...pas：Elle n'est pas fatiguée.\n\n边界：本卡不处理直接宾语冠词变化，也不涉及形容词表语的性数配合。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u3-3",
+      "title": "ne...ni...ni 否定两个并列宾语：冠词怎么处理",
+      "body": "ne...ni...ni 用来否定两个并列的直接宾语，相当于「既不……也不……」。ne 放在变位动词前，ni 放在两个宾语之前，句中不用 pas。\n\n不定冠词或部分冠词通常省略：\n- Elle a un frère et une sœur. → Elle n'a ni frère ni sœur.（她既没有兄弟也没有姐妹。）\n- Je bois du café et du thé. → Je ne bois ni café ni thé.（我既不喝咖啡也不喝茶。）\n- Il y a du lait et du beurre. → Il n'y a ni lait ni beurre.（既没有牛奶也没有黄油。）\n\n定冠词、主有形容词、指示形容词保留：\n- Je n'aime ni le café ni le thé.（咖啡和茶我都不喜欢。）\n- Elle ne prend ni son manteau ni ses gants.（她既不带外套也不带手套。）\n- Nous ne lisons ni ce journal ni cette revue.（这份报纸和这本杂志我们都不读。）\n\n表语名词按表语规则保留冠词：Ce n'est ni un problème ni une urgence.（这既不是问题也不是紧急情况。）固定短语 ni l'un ni l'autre：Ni l'un ni l'autre ne vient.（两个都不来。）\n\n要点：\n- 两个成分必须处于同一句法层次：ni 宾语 + ni 宾语，ni 形容词 + ni 形容词。\n- 不定冠词/部分冠词的省略只适用于并列的直接宾语，不要扩大到表语或非直接宾语。\n\n边界：本卡不涉及 personne/rien，也不涉及 sans 短语。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u3-4",
+      "title": "否定并列：ni...ni 替代 et / ou，保持同一层次",
+      "body": "否定句中，ni...ni 连接两个被否定的成分，替代肯定句中的 et 或 ou；两个成分要保持同一句法层次，不能一个用 ni、一个用 et。\n\n- Il parle anglais et allemand. → Il ne parle ni anglais ni allemand.（他既不说英语也不说德语。）\n- Elle est grande et forte. → Elle n'est ni grande ni forte.（她既不高也不壮。）\n- Il fume et il boit. → Il ne fume ni ne boit.（他既不抽烟也不喝酒。）\n- Ni Paul ni Marie ne viennent.（保罗和玛丽都不来。）\n\n要点：\n- ne 通常只出现一次，放在变位动词前；ni...ni 位于被否定的成分前。\n- 两个 ni 后面的成分要平行：名词对名词、形容词对形容词、动词对动词。\n- ni...ni 作主语时，动词仍按主语整体变位；Ni Paul ni Marie ne viennent 用第三人称复数。\n\n边界：ni...ni 不是双重否定，也不表示「既不……也不……」之外的其他否定；不要与 personne/rien 的否定代词结构混用。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u3-5",
+      "title": "seulement 与 ne...que：限制「只」，不是普通否定",
+      "body": "seulement 和 ne...que 都表示限制「只、仅仅」，意义接近，可以互相改写。ne...que 中的 que 要紧挨被限制的成分，遇元音开头的词省音为 qu'。\n\n- Je bois seulement de l'eau. = Je ne bois que de l'eau.（我只喝水。）\n- Elle travaille seulement le matin. = Elle ne travaille que le matin.（她只在上午工作。）\n- Ce n'est qu'un début.（这只是一个开始。）\n\nque 的位置决定限制范围：\n- Je ne bois que du café.（我只喝咖啡。）\n- Je ne bois du café que le matin.（我只在上午喝咖啡。）\n\n要点：\n- ne...que 不是普通否定，不表示「不」；句中不用 pas，也不能用 pas 替换 que。\n- que 紧贴被限制的成分；位置移动会改变句子的限制范围。\n- 被限制成分的冠词通常保留：que de l'eau、qu'un début。\n\n边界：本卡只处理 seulement / ne...que 的限制结构，不涉及否定代词或其他否定词；ne...que 与 pas 的语义差别要分清。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u4-1",
+      "title": "一般疑问句的三种形式：语调、est-ce que 与倒装",
+      "body": "法语的一般疑问句（回答通常是 oui / non）有三种常见结构。三种结构都保持原来的时态、人称和其余成分，只改变问句标记或语序。\n\n1. 语调式：词序与陈述句相同，句末用问号，口语中语调上升。\n- Tu viens ?（你来吗？）\n- Vous avez faim ?（您/你们饿吗？）\n\n2. est-ce que 式：句首加 est-ce que，后面保持陈述句词序。\n- Est-ce que tu viens ?（你来吗？）\n- Est-ce que vous avez faim ?（您/你们饿吗？）\nest-ce que 遇元音或哑音 h 开头的词要省音：Est-ce qu'il vient ?（他来吗？）\n\n3. 倒装式：主语人称代词移到变位动词之后，用连字符连接。\n- Viens-tu ?（你来吗？）\n- Avez-vous faim ?（您/你们饿吗？）\n\n语域：语调式最口语，est-ce que 式中性常用，倒装式较正式。三种形式不能混搭：不能说 Est-ce que tu viens-tu ?，也不能在 est-ce que 后再次倒装。\n\n边界：本卡只处理一般疑问句。特殊疑问词的选择与位置见下一单元；否定疑问句及 oui / si 的回答不在本卡。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u4-2",
+      "title": "主语代词倒装：连字符与人称一致",
+      "body": "倒装式把主语人称代词放到变位动词之后，中间必须加连字符「-」。动词变位和人称要与主语一致。\n\n- Tu parles français. → Parles-tu français ?（你说法语吗？）\n- Vous êtes prêts. → Êtes-vous prêts ?（你们准备好了吗？）\n- Nous allons au cinéma. → Allons-nous au cinéma ?（我们去看电影吗？）\n- Elle aime le thé. → Aime-t-elle le thé ?（她喜欢茶吗？）\n\n要点：\n- 连字符不能省：Parles-tu，不写 Parles tu。\n- 动词以元音结尾并与 il / elle / on 倒装时，插入 -t-，避免两个元音相接：Aime-t-elle, Va-t-il, Parle-t-on。这个 t 没有独立意义。\n- 动词本身以 -t 或 -d 结尾时不再加 t：Part-il ?（part 已以 t 结尾）Répond-elle ?（répond 以 d 结尾，直接接 elle）。\n\n边界：本卡处理主语人称代词的倒装。je 的倒装限制见下一张卡；名词主语的倒装与代词复指见再下一张卡。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u4-3",
+      "title": "je 作主语：通常用 est-ce que je，不直接倒装",
+      "body": "je 作主语时通常不直接与变位动词倒装；一般疑问句改用 est-ce que je + 动词。少数固定形式保留 je 与动词的直接倒装，如 Puis-je... ?（我可以……吗？）、Ai-je... ?（我有……吗？），但不能把这类形式推广到所有动词。\n\n- 一般：Est-ce que je parle bien ?（我说得好吗？）不写 Parles-je bien ?\n- 固定：Puis-je entrer ?（我可以进来吗？）\n- 固定：Ai-je raison ?（我说得对吗？）\n\n要点：\n- est-ce que je 之后动词仍按 je 变位，不因 est-ce que 改变人称。\n- 口语中也可用语调式：Je peux entrer ?（我可以进来吗？）\n- 不要把 Puis-je、Ai-je 等固定形式当成可自由套用的倒装规则。\n\n边界：本卡只处理 je 主语的倒装限制；其他主语代词的倒装见上一张卡，名词主语的倒装见下一张卡。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u4-4",
+      "title": "名词主语倒装：保留名词，用代词复指",
+      "body": "名词主语（Marie、les enfants、le train 等）作主语时，规范书面语常把名词主语留在句中，并在变位动词后用与名词性数一致的人称代词复指；代词与动词之间用连字符。\n\n- Marie vient. → Marie vient-elle ?（玛丽来吗？）\n- Les enfants jouent. → Les enfants jouent-ils ?（孩子们玩吗？）\n- Mes sœurs chantent. → Mes sœurs chantent-elles ?（我的姐妹们唱歌吗？）\n- Le train part. → Le train part-il ?（火车出发吗？）\n\n要点：\n- 复指代词随名词的性和数变化：il / elle / ils / elles。\n- 动词先与名词主语保持第三人称一致，复指代词再与之呼应；不要写成 Marie viens-t-elle。\n- 名词主语也可以直接后置于动词而不复指（Vient Marie ?），但这不是最常规形式。\n- 更中性的日常说法是 est-ce que + 陈述词序：Est-ce que Marie vient ? / Est-ce que les enfants jouent ?\n\n边界：复合时态中倒装成分的位置、关系代词作主语的情况不在本课；本卡只处理简单时态里的名词主语复指。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u5-1",
+      "title": "疑问副词的选择：地点、来源、时间、方式、原因、数量",
+      "body": "疑问副词按所问信息的类型选择，不能只按中文逐字对应。\n\n- où：地点。Où habites-tu ?（你住在哪里？）\n- d'où：起点、出处。D'où viens-tu ?（你从哪里来？）\n- quand：时间。Quand arrives-tu ?（你什么时候到？）\n- comment：方式或状态。Comment fais-tu ?（你怎么做？）Comment vas-tu ?（你好吗？）\n- pourquoi：原因。Pourquoi pleures-tu ?（你为什么哭？）\n- combien：数量。Combien coûte ce livre ?（这本书多少钱？）\n\n选定疑问词后，可按语域采用：疑问词 + est-ce que + 陈述词序；疑问词 + 倒装；口语中疑问词留在原位、句末升调。例如：\n- Où est-ce que tu habites ? / Où habites-tu ? / Tu habites où ?\n- Quand est-ce que le film commence ? / Quand commence le film ?\n\n注意：d'où 问来源，où 问位置；comment 问方式，pourquoi 问原因。combien 后接名词时用 combien de（见下一张卡）。\n\n边界：不涉及 quel / lequel 的性数配合；也不细辨「持续多久」与「何时结束」等时间细分。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u5-2",
+      "title": "combien de + 名词：语序与省音",
+      "body": "combien de + 名词构成数量提问，de 位于 combien 与名词之间，名词前不用定冠词或部分冠词。\n\n- Combien de livres as-tu ?（你有多少本书？）\n- Combien d'étudiants y a-t-il dans la classe ?（班里有多少学生？）\n- Combien de temps reste-t-il ?（还剩多少时间？）\n\n要点：\n- de 遇元音或哑音 h 开头的名词省音为 d'：combien d'étudiants，不写 combien de étudiants。\n- 不说 combien des livres / combien les livres。\n- 规范问句把 combien de 短语置于句首；口语中也可说 Tu as combien de livres ?，属语域变体。\n- combien 单独使用（不带名词）可问价格或重量：Combien coûte ce livre ?（这本书多少钱？）\n\n边界：不涉及数量副词比较级；combien de 与感叹数量结构不同。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u5-3",
+      "title": "疑问形容词 quel：与名词性数配合",
+      "body": "疑问形容词 quel 修饰名词时与名词保持性数一致：阳性单数 quel，阴性单数 quelle，阳性复数 quels，阴性复数 quelles。\n\n- Quel livre veux-tu ?（你想要哪本书？）\n- Quelle robe préfères-tu ?（你更喜欢哪条裙子？）\n- Quels livres veux-tu ?（你想要哪些书？）\n- Quelles chansons aimes-tu ?（你喜欢哪些歌？）\n\n在介词短语或固定问语中，quel 紧贴名词：À quelle heure part le train ?（火车几点出发？）Quel âge as-tu ?（你多大？）配合对象是 quel 所修饰的名词，不是主语：heure 是阴性单数，用 quelle；âge 是阳性单数，用 quel。\n\n边界：不涉及复合疑问代词 lequel；也不涉及感叹句中的 quel（见下一张卡）。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u5-4",
+      "title": "感叹形容词 quel：直接修饰名词",
+      "body": "quel 也可引导感叹句，直接修饰名词，并与名词保持性数一致：quel / quelle / quels / quelles。名词可带其他修饰成分，quel 置于名词前。\n\n- Quel beau jardin !（多美的花园啊！）\n- Quelle belle journée !（多美好的一天啊！）\n- Quels beaux tableaux !（多美的画啊！）\n- Quelles jolies fleurs !（多漂亮的花啊！）\n\n要点：\n- 感叹 quel 后的名词通常不加冠词：Quelle belle journée ! 不说 Quelle une belle journée !\n- 性数看名词：journée 阴性单数 → quelle；tableaux 阳性复数 → quels。\n- 与疑问 quel 的区别在交际功能：疑问句要回答，感叹句表达评价；书写时感叹句用感叹号。\n\n边界：不涉及 que 或 comme 引导的整句感叹；也不处理疑问句中 quel 的用法。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u5-5",
+      "title": "问人还是问物：qui 系列与 que / quoi 系列",
+      "body": "询问身份或人时用问人的结构，询问事物时用问物的结构。选择取决于所问对象是人是物，而不是句法位置。\n\n- — Qui est-ce ?（这是谁？）— C'est Marie.（这是玛丽。）\n- — Qu'est-ce que c'est ?（这是什么？）— C'est un dictionnaire.（这是一本词典。）\n- — C'est qui ?（这是谁？）口语 — C'est ma sœur.（这是我姐姐。）\n- — C'est quoi ?（这是什么？）口语 — C'est une clé.（这是一把钥匙。）\n\n要点：\n- 问人：qui 系列（qui est-ce, qui est-ce qui, qui est-ce que）。\n- 问物：que / quoi 系列（qu'est-ce que c'est, qu'est-ce qui, qu'est-ce que）。\n- 指认已知的人或物用 c'est / ce sont；不用 il y a 回答身份问题。\n- 本卡只处理「是谁 / 是什么」的辨认；主语疑问和宾语疑问的具体形式见下一单元。\n\n边界：不涉及主语或宾语在动词句中的句法角色细分；不涉及复数系动词句的进一步转换。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u5-6",
+      "title": "介词后疑问代词：保留介词，问人 qui，问物 quoi",
+      "body": "对介词补语提问时，介词必须保留；指人用 qui，指物用 quoi。\n\n- À qui parles-tu ?（你在和谁说话？）— À ma sœur.\n- De qui parles-tu ?（你在说谁？）— De mon frère.\n- À quoi penses-tu ?（你在想什么？）— À mon travail.\n- De quoi parlez-vous ?（你们在谈论什么？）— De notre voyage.\n\n要点：\n- 介词由动词或形容词的配价决定，不能只按疑问词替换：parler à、parler de、penser à 等。\n- 指人用 qui，指物用 quoi；que 不能直接放在介词后（不说 à que）。\n- 可按语域选择结构：À qui est-ce que tu parles ? / À qui parles-tu ? / Tu parles à qui ?（口语）\n- 回答时保持原来的介词和句法角色。\n\n边界：不涉及介词本身的语义选择；不涉及关系代词；不把介词后的 qui 与主语疑问 qui est-ce qui 混用。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u5-7",
+      "title": "直接宾语疑问代词：问人 qui，问物 que / quoi",
+      "body": "对直接宾语提问时，问人用 qui，问物用 que（句首倒装）或 quoi（口语、省略句）。答句要用相应的直接宾语结构。\n\n- Qui regardes-tu ?（你在看谁？）— Je regarde Marie.\n- Que regardes-tu ?（你在看什么？）— Je regarde la télévision.\n- Tu regardes quoi ?（你在看什么？）口语\n\n要点：\n- qui 可作主语也可作宾语，要看句法位置：Qui parle ?（谁在说话？主语）对 Qui regardes-tu ?（你在看谁？宾语）。\n- 问物用 que / quoi，不用 qui。\n- 答句的人称可能转换（你 → 我），但宾语角色不变。\n- 更中性的完整问句常用 Qu'est-ce que... ?（下一单元详讲）。\n\n边界：不涉及介词宾语（见上一张卡）；不涉及宾语从句的疑问化。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u5-8",
+      "title": "复合疑问代词 lequel：性数配合与缩合",
+      "body": "复合疑问代词 lequel 用于从多个对象中限定一个或数个，性数随所指名词变化：lequel（阳性单数）、laquelle（阴性单数）、lesquels（阳性复数）、lesquelles（阴性复数）。\n\n- Lequel de ces livres préfères-tu ?（这些书里你更喜欢哪一本？）\n- Laquelle de ces robes veux-tu ?（这些裙子中你想要哪一条？）\n- Lesquels de ces étudiants connais-tu ?（这些学生里你认识哪些？）\n- Lesquelles de ces photos préfères-tu ?（这些照片中你更喜欢哪些？）\n\n与介词 à / de 连用要缩合：à + lequel → auquel；à + lesquels → auxquels；de + lequel → duquel；de + lesquels → desquels。阴性形式不缩合：à laquelle, de laquelle。\n- Auquel de ces films penses-tu ?（这些电影中你在想哪一部？）\n- Duquel de ces projets parles-tu ?（这些计划中你在说哪一个？）\n\n边界：不涉及关系代词 lequel 引导从句；不涉及疑问形容词 quel 的性数配合。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u5-9",
+      "title": "问号与感叹号：按交际功能选择（仅识别）",
+      "body": "同一个词或结构，句末标点不同，句子的交际功能也不同。\n\n- Tu viens ?（你来吗？）→ 提问，期待回答。\n- Tu viens !（你来啦！）→ 感叹，表达惊讶、喜悦等。\n- Quel beau paysage !（多美的风景啊！）→ 感叹形容词 quel 引导的感叹句用感叹号。\n- Est-ce que tu viens ?（你来吗？）→ 疑问结构，用问号。\n\n判断依据：先看句子是否在提问、是否需要对方回答；再选问号。表达强烈情感、评价或惊叹时用感叹号。不能只根据词形判断，也不能把问号和感叹号混用。\n\n边界：不涉及标点与其他标点的组合规则，也不涉及引号、括号的嵌套。本概念只要求识别，不要求主动产出感叹句。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u6-1",
+      "title": "主语疑问：qui est-ce qui / qu'est-ce qui",
+      "body": "对主语提问用 qui est-ce qui（问人）或 qu'est-ce qui（问物）。问句动词保持第三人称单数，其余成分保持陈述句的组织。\n\n- Marie parle. → Qui est-ce qui parle ?（谁在说话？）\n- Les enfants jouent dans la cour. → Qui est-ce qui joue dans la cour ?（谁在院子里玩？）\n- Ce bruit vient de la rue. → Qu'est-ce qui vient de la rue ?（是什么从街上传来？）\n\n要点：\n- qui est-ce qui 整体问人，后面直接跟变位动词；第一个 qui 问人，第二个 qui 是主语标记。\n- qu'est-ce qui 整体问物，qui 不能换成 que。\n- 主语疑问不保留原主语：不能写 Qui est-ce qui Marie parle ?\n- 动词固定第三人称单数：Qui est-ce qui vient ? 即使答案是多个人，也用 vient。\n\n边界：不涉及直接宾语或介词宾语提问；不涉及间接引语中的疑问词转换。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u6-2",
+      "title": "直接宾语疑问：qui est-ce que / qu'est-ce que",
+      "body": "对直接宾语提问用 qui est-ce que（问人）或 qu'est-ce que（问物）。保留陈述句的主语、时态和其他成分。\n\n- Tu regardes Marie. → Qui est-ce que tu regardes ?（你在看谁？）\n- Tu regardes la télévision. → Qu'est-ce que tu regardes ?（你在看什么？）\n- Elle invite ses amies. → Qui est-ce qu'elle invite ?（她邀请谁？）\n- Qu'est-ce que vous voulez ?（您/你们想要什么？）\n\n要点：\n- 直接宾语疑问保留主语和动词：Qui est-ce que tu regardes ? 不能写 Qui est-ce qui tu regardes ?\n- que 在元音前省音：Qu'est-ce qu'il fait ? / Qui est-ce qu'elle invite ?\n- 也可用倒装式：Qui regardes-tu ? / Que regardes-tu ?；口语常用 Qu'est-ce que... ? 或 Tu regardes qui / quoi ?\n- 问人用 qui est-ce que，问物用 qu'est-ce que；不要按答案的人 / 物互换 qui 和 que。\n\n边界：不涉及介词引导的宾语（用 à qui / de quoi 等）；不涉及宾语从句的疑问化；不把直接宾语提问与主语提问混同。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u6-3",
+      "title": "主语疑问与宾语疑问对照：看空格后缺什么",
+      "body": "判断用 qui est-ce qui / qu'est-ce qui 还是 qui est-ce que / qu'est-ce que，关键看原句缺什么成分。\n\n问主语：疑问词直接作动词的主语，后面紧跟变位动词。\n- Qui est-ce qui parle ?（谁在说话？）\n- Qu'est-ce qui fait ce bruit ?（是什么发出这个声音？）\n\n问直接宾语：原句已有主语，疑问词替代动词后的宾语。\n- Qui est-ce que tu regardes ?（你在看谁？）\n- Qu'est-ce que tu regardes ?（你在看什么？）\n\n快速判断：\n- 空格后直接是变位动词 → 主语疑问（qui est-ce qui / qu'est-ce qui）。\n- 空格后先出现主语，再出现动词 → 宾语疑问（qui est-ce que / qu'est-ce que）。\n- 问人用 qui 系列，问物用 que 系列。\n\n边界：本卡是前两张卡的对照总结，不引入新结构；介词宾语和间接引语不在本课范围。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u7-1",
+      "title": "否定疑问句：ne...pas 仍夹住变位动词",
+      "body": "否定疑问句是在一般疑问句的基础上加否定，ne...pas 仍围绕变位动词：ne 在变位动词前，pas 在其后；ne 在元音或哑音 h 前省音为 n'。三种一般疑问句形式都可以加否定。\n\n- 语调式：Tu ne viens pas ?（你不来吗？）\n- est-ce que 式：Est-ce que tu ne viens pas ?（你不来吗？）\n- 倒装式：Ne viens-tu pas ?（你不来吗？较正式）\n\n例：Tu n'as pas faim ?（你不饿吗？）Est-ce que vous ne partez pas ?（您/你们不走吗？）Ne parle-t-il pas français ?（他不讲法语吗？）\n\n要点：\n- ne 始终在变位动词前，pas 在变位动词后；倒装时顺序是 ne + 动词 + 代词主语 + pas：Ne viens-tu pas ?，不能写 Ne viens pas-tu ?。\n- 第三人称单数动词以元音结尾时，动词与 il/elle/on 之间加 -t-：Ne parle-t-il pas ?\n- 特殊疑问词置于句首，否定结构不变：Pourquoi ne viens-tu pas ?（你为什么不来？）\n\n边界：否定疑问句仍是一般疑问句，不是特殊疑问句；回答用 oui/si/non，见下一张卡。更复杂的动词结构不在本章范围。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u7-2",
+      "title": "回答否定疑问句：si、oui、non 的分工",
+      "body": "回答否定疑问句时，先看问句是否含否定，再看回答是肯定还是否定。\n\n- 对否定疑问句作肯定回答用 si：Tu n'es pas fatigué ? — Si, je suis fatigué.（你不累吗？——不，我很累。）\n- 对肯定疑问句作肯定回答用 oui：Tu es fatigué ? — Oui, je suis fatigué.（你累吗？——是的，我很累。）\n- 否定回答无论问句是肯定还是否定，都用 non：Tu n'es pas fatigué ? — Non, je ne suis pas fatigué.（你不累吗？——不，我不累。）\n\n要点：\n- si 的意思是「不，我确实……」，它肯定的是问句所否定的内容，不是「是」的另一种拼写。\n- oui 不能用来回答否定疑问句的肯定回答；non 后面通常接否定句。\n- 回答时按说话人调整人称，时态与问句一致：问 Tu n'as pas faim ? 应回答 Si, j'ai faim，不能答成 Si, tu as faim.\n\n边界：本卡的 si 是应答词，不是连词或其他语法词；间接引语中的回答转换不在本章。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u8-1",
+      "title": "否定代词与限定词的位置：ne 在前，否定词在后",
+      "body": "personne（没有人）、rien（没有什么）、aucun(e) + 单数名词（没有任何）、nulle part（任何地方都不）都要与 ne 连用。作宾语或状语时，ne 放在变位动词前；这些否定词放在变位动词后，占据 pas 通常占据的位置，不能再加 pas。\n\n- Je ne vois personne.（我谁也没看见。）\n- Elle ne dit rien.（她什么也没说。）\n- Nous n'avons aucun problème.（我们没有任何问题。）\n- Ils ne vont nulle part cet été.（他们今年夏天哪儿也不去。）\n\n要点：\n- 位置由否定词的句法功能决定，不能统一套用 pas 的位置。\n- aucun 后接单数名词，性数随名词变化：aucun problème / aucune idée。\n- nulle part 是副词性短语，整体放在动词后，不能拆开。\n- 否定词已经表达否定，句中不再出现 pas。\n\n边界：本章只处理现在时等简单结构；personne、rien 作主语时位于 ne 前（Personne ne vient. / Rien ne change.），与宾语位置不同。在更复杂的动词结构中，否定词的位置会随结构变化，后续单元再学。"
+    },
+    {
+      "id": "pub-c07-negation-questions-card-u8-2",
+      "title": "不定式结构中的位置：否定词跟着不定式",
+      "body": "变位动词后接不定式时，作宾语或状语的 personne、rien、aucun + 名词、nulle part 通常放在不定式之后；ne 仍留在变位动词前。\n\n- Je ne veux voir personne.（我不想见任何人。）\n- Elle ne peut rien faire aujourd'hui.（她今天什么也做不了。）\n- Je ne veux aller nulle part aujourd'hui.（我今天哪儿也不想去。）\n\n对比：\n- Je préfère ne pas sortir.（我宁愿不出去。）→ 否定不定式时，ne pas 整体放在不定式前。\n- Je ne veux voir personne. → 否定词 personne 放在不定式 voir 后，ne 跟着变位动词 vouloir。\n\n要点：\n- 先确定 ne 的位置：永远在变位动词前。\n- 再确定否定词的位置：修饰不定式动作时，放在不定式后，不放在变位动词与不定式之间。\n- 不能写 Je ne veux personne voir，也不能写 Je ne peux faire rien。\n\n边界：ne...pas 否定不定式与否定词 personne/rien 的位置方向相反，不要互相套用。更复杂的动词结构另属后续单元。"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pub-c07-negation-questions-l1",
+      "title": "ne...pas 的基本位置与不定式否定",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c07-negation-questions-l1-q1",
+          "type": "choice",
+          "prompt": "Complétez : Elle ___ la télévision le soir.",
+          "options": [
+            "regarde ne pas",
+            "ne regarde pas",
+            "ne pas regarde",
+            "regarde pas ne"
+          ],
+          "answer": 1,
+          "translation": "她晚上不看电视。",
+          "explain": "否定变位动词时，ne 放在变位动词前，pas 放在其后：ne + regarde + pas。regarde 是 elle 的第三人称单数形式，其余成分位置不变。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q2",
+          "type": "choice",
+          "prompt": "Complétez : Nous ___ partir demain.",
+          "options": [
+            "ne allons pas",
+            "n'allons partir pas",
+            "n'allons pas",
+            "ne pas allons"
+          ],
+          "answer": 2,
+          "translation": "我们明天不走。",
+          "explain": "最近将来 aller + 不定式中，否定词夹住变位助动词 aller：ne + allons + pas + partir。aller 以元音开头，ne 省音为 n'，所以写 n'allons pas。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q3",
+          "type": "choice",
+          "prompt": "Complétez : Il ___ venir ce soir.",
+          "options": [
+            "peut ne pas",
+            "ne pas peut",
+            "peut pas ne",
+            "ne peut pas"
+          ],
+          "answer": 3,
+          "translation": "他今晚不能来。",
+          "explain": "pouvoir 的第三人称单数是 peut；否定词夹住这个变位动词：ne peut pas。后面的 venir 是不定式，保持原形，不能把 pas 放到 venir 后。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q4",
+          "type": "choice",
+          "prompt": "Complétez : Je préfère ___ ce film.",
+          "options": [
+            "ne pas voir",
+            "ne voir pas",
+            "pas ne voir",
+            "voir ne pas"
+          ],
+          "answer": 0,
+          "translation": "我宁愿不看这部电影。",
+          "explain": "否定不定式时，ne pas 作为整体放在不定式前：ne pas voir。不能拆成 ne voir pas，也不能把 ne pas 放到 voir 后。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q5",
+          "type": "choice",
+          "prompt": "Complétez : Elle ___ pas le temps.",
+          "options": [
+            "n'a",
+            "ne a",
+            "na",
+            "n'as"
+          ],
+          "answer": 0,
+          "translation": "她没有时间。",
+          "explain": "avoir 的 elle 形式是 a；ne 在元音前省音为 n'，写成 n'a。n'as 对应 tu，na 缺少省音符号，ne a 没有省音。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q6",
+          "type": "choice",
+          "prompt": "Complétez : Je ___ pas fatigué.",
+          "options": [
+            "ne est",
+            "ne suis",
+            "n'ai",
+            "ne fais"
+          ],
+          "answer": 1,
+          "translation": "我不累。",
+          "explain": "主语 je 与 être 构成 je suis；否定为 je ne suis pas。fatigué 是形容词表语，不能用 avoir 或 faire 代替 être。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q7",
+          "type": "choice",
+          "prompt": "Quel sujet convient ? « ___ ne sommes pas prêts. »",
+          "options": [
+            "Je",
+            "Tu",
+            "Ils",
+            "Nous"
+          ],
+          "answer": 3,
+          "translation": "我们还没准备好。",
+          "explain": "sommes 是 être 的第一人称复数形式，只能与 nous 搭配；je 用 suis，tu 用 es，ils 用 sont。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q8",
+          "type": "choice",
+          "prompt": "Complétez : Elle ___ contente.",
+          "options": [
+            "n'est pas très",
+            "n'est très pas",
+            "ne pas est très",
+            "n'est pas beaucoup"
+          ],
+          "answer": 0,
+          "translation": "她不太高兴。",
+          "explain": "程度副词 très 位于 pas 之后：ne + est + pas + très + contente。pas 不能在 très 前，beaucoup 也不能直接修饰形容词 contente。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q9",
+          "type": "choice",
+          "prompt": "Quelle question correspond à la réponse « Je ne viens pas parce que je suis malade » ?",
+          "options": [
+            "Quand est-ce que tu ne viens pas ?",
+            "Pourquoi est-ce que tu ne viens pas ?",
+            "Où est-ce que tu ne viens pas ?",
+            "Pourquoi est-ce que tu viens ne pas ?"
+          ],
+          "answer": 1,
+          "translation": "「我不来，因为我病了。」对应哪个问题？",
+          "explain": "回答用 parce que 说明原因，所以用 pourquoi 提问；ne...pas 必须夹住变位动词 viens，不能写成 viens ne pas。quand 问时间，où 问地点，都与原因不符。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q10",
+          "type": "choice",
+          "prompt": "Complétez : Elle a dix ans et elle ___ pas très grande.",
+          "options": [
+            "n'a",
+            "ne fait",
+            "ne va",
+            "n'est"
+          ],
+          "answer": 3,
+          "translation": "她十岁，个子不太高。",
+          "explain": "年龄用 avoir（elle a dix ans），描述身高状态用 être（elle n'est pas très grande）。两个动词各按主语 elle 变位，否定词分别夹住各自的变位动词。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q11",
+          "type": "choice",
+          "prompt": "Complétez : ___ pas de lait dans le frigo.",
+          "options": [
+            "Il y n'a",
+            "Il ne y a",
+            "Il n'y a",
+            "Il y a ne"
+          ],
+          "answer": 2,
+          "translation": "冰箱里没有牛奶。",
+          "explain": "il y a 的否定是 il n'y a pas：ne 在 y 前省音为 n'，pas 放在 a 后。不能写成 il ne y a 或 il y n'a。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q12",
+          "type": "letters",
+          "prompt": "Complétez : Nous ne ___ pas la télévision. (regarder)",
+          "answer": "regardons",
+          "decoys": [
+            "s",
+            "e",
+            "z"
+          ],
+          "translation": "我们不看电视。",
+          "explain": "主语 nous，regarder 去掉 -er 加 -ons，写成 regardons；ne 在变位动词前，pas 在其后。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q13",
+          "type": "letters",
+          "prompt": "Complétez : Je n'___ pas ce film. (aimer)",
+          "answer": "aime",
+          "decoys": [
+            "s",
+            "e",
+            "t"
+          ],
+          "translation": "我不喜欢这部电影。",
+          "explain": "aimer 的第一人称单数现在时是 aime，不加 -s；n' 已省音，pas 放在 aime 后。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q14",
+          "type": "letters",
+          "prompt": "Complétez : Nous ne ___ pas prêts. (être)",
+          "answer": "sommes",
+          "decoys": [
+            "s",
+            "e",
+            "t"
+          ],
+          "translation": "我们还没准备好。",
+          "explain": "être 的 nous 形式是 sommes；否定词夹住 sommes，pas 后接表语 prêts，prêts 与 nous 保持阳性复数配合。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q15",
+          "type": "letters",
+          "prompt": "Complétez : Nous n'___ pas le temps. (avoir)",
+          "answer": "avons",
+          "decoys": [
+            "s",
+            "e",
+            "z"
+          ],
+          "translation": "我们没有时间。",
+          "explain": "avoir 的 nous 形式是 avons；ne 在元音前省音为 n'，pas 放在 avons 后。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q16",
+          "type": "letters",
+          "prompt": "Complétez : Elle ne travaille pas ___.",
+          "answer": "beaucoup",
+          "decoys": [
+            "s",
+            "t",
+            "e"
+          ],
+          "translation": "她工作不多。",
+          "explain": "程度副词 beaucoup 位于 pas 之后，说明否定的是数量或程度；不能把它放到 pas 前。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q17",
+          "type": "letters",
+          "prompt": "Complétez : Il n'est pas ___ grand.",
+          "answer": "très",
+          "decoys": [
+            "s",
+            "e",
+            "t"
+          ],
+          "translation": "他不太高。",
+          "explain": "très 修饰形容词 grand，位于 pas 之后，构成 pas très + 形容词；否定的是程度，不是整个人。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q18",
+          "type": "letters",
+          "prompt": "Complétez : Il ne ___ pas venir ce soir. (pouvoir)",
+          "answer": "peut",
+          "decoys": [
+            "s",
+            "e",
+            "t"
+          ],
+          "translation": "他今晚不能来。",
+          "explain": "pouvoir 的第三人称单数是 peut；否定词夹住变位动词 peut，后面的 venir 保持不定式。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q19",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Elle chante bien. » → ___",
+          "answer": [
+            "Elle",
+            "ne",
+            "chante",
+            "pas",
+            "bien."
+          ],
+          "bank": [
+            "Elle",
+            "ne",
+            "chante",
+            "pas",
+            "bien.",
+            "chantes",
+            "n'est",
+            "chantez",
+            "chantent"
+          ],
+          "translation": "她唱得好。→ 她唱得不好。",
+          "explain": "否定变位动词 chante：ne 在前，pas 在后；程度副词 bien 位于 pas 之后。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q20",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Elle aime beaucoup le café. » → ___",
+          "answer": [
+            "Elle",
+            "n'aime",
+            "pas",
+            "beaucoup",
+            "le",
+            "café."
+          ],
+          "bank": [
+            "Elle",
+            "n'aime",
+            "pas",
+            "beaucoup",
+            "le",
+            "café.",
+            "aime",
+            "ne",
+            "du",
+            "cafés.",
+            "aimes"
+          ],
+          "translation": "她很喜欢咖啡。→ 她不太喜欢咖啡。",
+          "explain": "否定词夹住变位动词 aime；程度副词 beaucoup 位于 pas 后；直接宾语前的定冠词 le 在否定中保留，不改为 de。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q21",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Tu es à la maison. » → ___",
+          "answer": [
+            "Tu",
+            "n'es",
+            "pas",
+            "à",
+            "la",
+            "maison."
+          ],
+          "bank": [
+            "Tu",
+            "n'es",
+            "pas",
+            "à",
+            "la",
+            "maison.",
+            "ne",
+            "es",
+            "chez",
+            "maisons."
+          ],
+          "translation": "你在家。→ 你不在家。",
+          "explain": "es 以元音开头，ne 省音为 n'，写成 n'es；pas 放在 es 后，地点短语 à la maison 不变。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q22",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « J'ai vingt ans. » → ___",
+          "answer": [
+            "Je",
+            "n'ai",
+            "pas",
+            "vingt",
+            "ans."
+          ],
+          "bank": [
+            "Je",
+            "n'ai",
+            "pas",
+            "vingt",
+            "ans.",
+            "J'ai",
+            "ne",
+            "ai",
+            "dix",
+            "an."
+          ],
+          "translation": "我二十岁。→ 我不是二十岁。",
+          "explain": "年龄用 avoir：j'ai vingt ans；否定时 ne 省音为 n'，夹住变位动词 ai，写成 Je n'ai pas vingt ans。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q23",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Elle décide de sortir. » → ___",
+          "answer": [
+            "Elle",
+            "décide",
+            "de",
+            "ne",
+            "pas",
+            "sortir."
+          ],
+          "bank": [
+            "Elle",
+            "décide",
+            "de",
+            "ne",
+            "pas",
+            "sortir.",
+            "décides",
+            "sortons",
+            "partir.",
+            "dehors."
+          ],
+          "translation": "她决定出去。→ 她决定不出去。",
+          "explain": "否定不定式 sortir 时，ne pas 整体放在不定式前，并位于介词 de 之后：de ne pas sortir。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q24",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « ne plus jamais » : « Elle décide de sortir le soir. » → ___",
+          "answer": [
+            "Elle",
+            "décide",
+            "de",
+            "ne",
+            "plus",
+            "jamais",
+            "sortir",
+            "le",
+            "soir."
+          ],
+          "bank": [
+            "Elle",
+            "décide",
+            "de",
+            "ne",
+            "plus",
+            "jamais",
+            "sortir",
+            "le",
+            "soir.",
+            "décides",
+            "sors",
+            "toujours",
+            "soirs."
+          ],
+          "translation": "她决定晚上出去。→ 她决定晚上再也不出去了。",
+          "explain": "否定不定式时，ne 与 plus、jamais 一起放在不定式前：ne plus jamais sortir。ne...plus 表示「不再」，jamais 表示「从不」，叠加表示「再也不」。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q25",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Il y a des enfants dans la cour. » → ___",
+          "answer": [
+            "Il",
+            "n'y",
+            "a",
+            "pas",
+            "d'enfants",
+            "dans",
+            "la",
+            "cour."
+          ],
+          "bank": [
+            "Il",
+            "n'y",
+            "a",
+            "pas",
+            "d'enfants",
+            "dans",
+            "la",
+            "cour.",
+            "ne",
+            "y",
+            "des",
+            "enfant",
+            "cours."
+          ],
+          "translation": "院子里有一些孩子。→ 院子里没有孩子。",
+          "explain": "il y a 的否定是 il n'y a pas；直接宾语 des enfants 在绝对否定中变为 de + 名词，元音前省音为 d'enfants。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q26",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « C'est facile. » → ___",
+          "answer": [
+            "Ce",
+            "n'est",
+            "pas",
+            "facile."
+          ],
+          "bank": [
+            "Ce",
+            "n'est",
+            "pas",
+            "facile.",
+            "C'est",
+            "ne",
+            "est",
+            "difficile."
+          ],
+          "translation": "这很容易。→ 这不容易。",
+          "explain": "c'est 的否定是 ce n'est pas：ne 在 est 前省音为 n'，pas 在 est 后；facile 是形容词表语，位置不变。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q27",
+          "type": "choice",
+          "prompt": "Dans « Nous n'allons pas partir », pourquoi « pas » se place-t-il après « allons » ?",
+          "options": [
+            "Parce que la négation encadre le verbe conjugué, ici l'auxiliaire aller, et non l'infinitif.",
+            "Parce que partir est un verbe du premier groupe.",
+            "Parce que pas se place toujours en fin de phrase.",
+            "Parce que nous exige un pas après le verbe."
+          ],
+          "answer": 0,
+          "translation": "在「Nous n'allons pas partir」中，为什么「pas」放在「allons」之后？",
+          "explain": "最近将来由变位助动词 aller + 不定式构成；ne...pas 夹住变位动词 allons，而不是后面的不定式 partir。因此 pas 紧跟在 allons 后。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q28",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « ne plus jamais » : « Il préfère fumer. » → ___",
+          "answer": [
+            "Il",
+            "préfère",
+            "ne",
+            "plus",
+            "jamais",
+            "fumer."
+          ],
+          "bank": [
+            "Il",
+            "préfère",
+            "ne",
+            "plus",
+            "jamais",
+            "fumer.",
+            "fume",
+            "préfères",
+            "pas",
+            "toujours",
+            "fumes."
+          ],
+          "translation": "他宁愿抽烟。→ 他宁愿再也不抽烟。",
+          "explain": "否定不定式 fumer 时，ne plus jamais 作为整体放在不定式前；变位动词 préfère 保持肯定，句中不用 pas。ne...plus 表示「不再」，jamais 表示「从不」，叠加表示「再也不」。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q29",
+          "type": "choice",
+          "prompt": "Dans « Il n'y a pas d'enfants dans la cour », pourquoi emploie-t-on « d' » et non « des » ?",
+          "options": [
+            "Parce que « des » devient toujours « de » après « il y a », même à la forme affirmative.",
+            "Parce que la négation absolue porte sur le complément d'objet direct : l'article « des » devient « de », qui s'élide devant « enfants ».",
+            "Parce que « enfants » est au pluriel et que le pluriel exige « d' ».",
+            "Parce que « pas » se place avant le nom et remplace l'article."
+          ],
+          "answer": 1,
+          "translation": "在「Il n'y a pas d'enfants dans la cour」中，为什么用「d'」而不用「des」？",
+          "explain": "il y a 的直接宾语 des enfants 在绝对否定中把不定冠词 des 变为 de；de 在元音开头的 enfants 前省音为 d'。肯定句仍是 Il y a des enfants，所以这不是 il y a 的固定变化；复数本身也不要求 d'。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l1-q30",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Il lit beaucoup ce journal. » → ___",
+          "answer": [
+            "Il",
+            "ne",
+            "lit",
+            "pas",
+            "beaucoup",
+            "ce",
+            "journal."
+          ],
+          "bank": [
+            "Il",
+            "ne",
+            "lit",
+            "pas",
+            "beaucoup",
+            "ce",
+            "journal.",
+            "lis",
+            "beaucoup de",
+            "le",
+            "journaux.",
+            "lisons"
+          ],
+          "translation": "他经常读这份报纸。→ 他不太读这份报纸。",
+          "explain": "ne...pas 夹住变位动词 lit；程度副词 beaucoup 位于 pas 后；直接宾语前的指示形容词 ce 在否定中保留，不能改成 de。三个规则在同一句中同时落实。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l2",
+      "title": "否定限定词、否定代词与保留限定词",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c07-negation-questions-l2-q1",
+          "type": "choice",
+          "prompt": "Complétez : ___ étudiant n'est absent aujourd'hui.",
+          "options": [
+            "Aucun",
+            "Aucune",
+            "Aucuns",
+            "Aucunes"
+          ],
+          "answer": 0,
+          "translation": "今天没有任何学生缺席。",
+          "explain": "étudiant 是阳性单数，aucun 用阳性单数形式 aucun，并与 ne 连用；aucune 用于阴性名词，aucuns/aucunes 不能限定这里的单数名词。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q2",
+          "type": "choice",
+          "prompt": "Complétez : Je n'ai ___ question.",
+          "options": [
+            "aucun",
+            "aucuns",
+            "aucunes",
+            "aucune"
+          ],
+          "answer": 3,
+          "translation": "我没有问题。",
+          "explain": "question 是阴性单数，否定限定词用 aucune；aucun 用于阳性，aucuns/aucunes 不用于单数名词。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q3",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Personne vient ce soir.",
+            "Ne personne vient ce soir.",
+            "Personne ne vient ce soir.",
+            "Personne ne vient pas ce soir."
+          ],
+          "answer": 2,
+          "translation": "哪一句正确？「今晚没有人来。」",
+          "explain": "personne 作主语时置于句首，ne 放在变位动词 venir 前：Personne ne vient。personne 本身已含否定意义，不能再加 pas。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q4",
+          "type": "choice",
+          "prompt": "Complétez : Elle ne dit ___.",
+          "options": [
+            "personne",
+            "rien",
+            "aucun",
+            "nulle part"
+          ],
+          "answer": 1,
+          "translation": "她什么也不说。",
+          "explain": "dire 的直接宾语是物，用 rien；personne 指人，aucun 后必须接名词，nulle part 表示地点。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q5",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « jamais » et « aucun » : « J'ai toujours un problème. » → ___",
+          "answer": [
+            "Je",
+            "n'ai",
+            "jamais",
+            "aucun",
+            "problème."
+          ],
+          "bank": [
+            "Je",
+            "n'ai",
+            "jamais",
+            "aucun",
+            "problème.",
+            "ai",
+            "ne",
+            "toujours",
+            "des",
+            "problèmes."
+          ],
+          "translation": "我总是有一个问题。→ 我从来没有任何问题。",
+          "explain": "jamais 表示「从不」，aucun + 单数名词表示「没有任何」；两者都与 ne 连用，ne 省音为 n'，放在变位动词 ai 前，jamais 和 aucun problème 位于动词后。jamais 与 aucun 叠加语气较强，强调「从来没有任何」；更中性的日常说法是 Je n'ai jamais de problème，但本题要求同时使用 jamais 和 aucun。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q6",
+          "type": "choice",
+          "prompt": "Complétez : Je n'aime pas ___ café.",
+          "options": [
+            "du",
+            "un",
+            "le",
+            "de"
+          ],
+          "answer": 2,
+          "translation": "我不喜欢咖啡。",
+          "explain": "表达对某类事物的好恶时，名词前用定冠词 le；否定句中定冠词保持不变，不改成 de。du 是部分冠词，un 是不定冠词。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q7",
+          "type": "choice",
+          "prompt": "Complétez : Elle ne prend pas ___ parapluie, elle prend celui de Paul.",
+          "options": [
+            "de",
+            "son",
+            "du",
+            "un"
+          ],
+          "answer": 1,
+          "translation": "她不带她的雨伞，她带保罗的那把。",
+          "explain": "主有形容词 son 在否定句中保持不变；只有不定冠词和部分冠词在绝对否定直接宾语时才改为 de。后半句 celui de Paul 明确了「她的雨伞」这一所属关系，排除了不定冠词 un 的解读。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q8",
+          "type": "choice",
+          "prompt": "Complétez : Nous ne lisons pas ___ journal-ci.",
+          "options": [
+            "ce",
+            "un",
+            "du",
+            "de"
+          ],
+          "answer": 0,
+          "translation": "我们不读这份报纸。",
+          "explain": "指示形容词 ce 与 -ci 呼应，在否定句中保持不变；un 和 du 会被 de 替代，de 也不能保留「这份」的指示意义。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q9",
+          "type": "choice",
+          "prompt": "Pourquoi l'article « le » reste-t-il dans « Je ne regarde pas le film » ?",
+          "options": [
+            "Parce que l'article défini se change en « de » après une négation.",
+            "Parce que la négation est partielle.",
+            "Parce que le verbe regarder est suivi d'un article partitif.",
+            "Parce que le nom est précédé d'un article défini, qui ne change pas à la forme négative."
+          ],
+          "answer": 3,
+          "translation": "为什么「Je ne regarde pas le film」中的冠词「le」保留？",
+          "explain": "否定句中定冠词 le/la/les 保持不变；只有不定冠词和部分冠词在绝对否定直接宾语时改为 de。选项 0 的说法正好相反：定冠词并不会因为否定就变成 de；否定范围也不是这里的原因。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q10",
+          "type": "choice",
+          "prompt": "Quelle phrase exprime une négation partielle (quantité), et non l'absence totale ?",
+          "options": [
+            "Je ne bois pas beaucoup de café.",
+            "Je ne bois pas de café.",
+            "Je ne bois jamais de café.",
+            "Je ne bois aucun café."
+          ],
+          "answer": 0,
+          "translation": "哪一句表达部分否定（数量），而不是完全不存在？",
+          "explain": "pas beaucoup de 否定的是数量程度，暗示可能喝一点；pas de、jamais de、aucun 都表示完全没有。部分否定不等于绝对否定。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q11",
+          "type": "choice",
+          "prompt": "Quel déterminant négatif appartient au registre littéraire ou juridique ?",
+          "options": [
+            "aucun",
+            "nul",
+            "personne",
+            "rien"
+          ],
+          "answer": 1,
+          "translation": "哪个否定限定词属于文学或法律语域？",
+          "explain": "nul/nulle + 单数名词 + ne 表示「没有任何」，属书面、文学或法律语域，如 Nul homme n'est au-dessus de la loi。日常中性表达用 aucun(e)；personne 和 rien 是否定代词，不是限定词。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q12",
+          "type": "letters",
+          "prompt": "Complétez : Il n'y a ___ erreur dans ton devoir. (aucun)",
+          "answer": "aucune",
+          "decoys": [
+            "s",
+            "e",
+            "t"
+          ],
+          "translation": "你的作业里没有任何错误。",
+          "explain": "erreur 是阴性单数，aucun 的阴性形式是 aucune；ne 与 aucun 搭配，不能省略。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q13",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Quelqu'un vient ce soir. » → ___",
+          "answer": [
+            "Personne",
+            "ne",
+            "vient",
+            "ce",
+            "soir."
+          ],
+          "bank": [
+            "Personne",
+            "ne",
+            "vient",
+            "ce",
+            "soir.",
+            "Quelqu'un",
+            "viennent",
+            "pas",
+            "soirs."
+          ],
+          "translation": "今晚有人来。→ 今晚没有人来。",
+          "explain": "quelqu'un 的否定对应 personne；personne 作主语置于句首，ne 放在变位动词 vient 前，不再加 pas。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q14",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Il dit quelque chose. » → ___",
+          "answer": [
+            "Il",
+            "ne",
+            "dit",
+            "rien."
+          ],
+          "bank": [
+            "Il",
+            "ne",
+            "dit",
+            "rien.",
+            "dis",
+            "quelque",
+            "chose",
+            "personne."
+          ],
+          "translation": "他说了些什么。→ 他什么也不说。",
+          "explain": "quelque chose 的否定对应 rien；rien 作直接宾语放在变位动词后，ne 放在动词前。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q15",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Nous allons quelque part. » → ___",
+          "answer": [
+            "Nous",
+            "n'allons",
+            "nulle",
+            "part."
+          ],
+          "bank": [
+            "Nous",
+            "n'allons",
+            "nulle",
+            "part.",
+            "allons",
+            "ne",
+            "quelque",
+            "parties."
+          ],
+          "translation": "我们去某个地方。→ 我们哪儿也不去。",
+          "explain": "quelque part 的否定对应 nulle part；nulle part 作地点状语放在变位动词后，ne 在动词前并省音为 n'。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q16",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Elle aime l'opéra. » → ___",
+          "answer": [
+            "Elle",
+            "n'aime",
+            "pas",
+            "l'opéra."
+          ],
+          "bank": [
+            "Elle",
+            "n'aime",
+            "pas",
+            "l'opéra.",
+            "aime",
+            "ne",
+            "d'opéra.",
+            "l'opéras."
+          ],
+          "translation": "她喜欢歌剧。→ 她不喜欢歌剧。",
+          "explain": "定冠词 l' 在否定句中保留；ne 在元音前省音为 n'，pas 放在 aime 后。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q17",
+          "type": "tiles",
+          "prompt": "Transformez avec « aucun » : « Il y a des erreurs dans le texte. » → ___",
+          "answer": [
+            "Il",
+            "n'y",
+            "a",
+            "aucune",
+            "erreur",
+            "dans",
+            "le",
+            "texte."
+          ],
+          "bank": [
+            "Il",
+            "n'y",
+            "a",
+            "aucune",
+            "erreur",
+            "dans",
+            "le",
+            "texte.",
+            "ne",
+            "y",
+            "des",
+            "erreurs",
+            "aucun"
+          ],
+          "translation": "文章里有一些错误。→ 文章里没有任何错误。",
+          "explain": "des erreurs 变为 aucune erreur：aucun 与单数名词配合，erreur 是阴性，用 aucune；il y a 的否定是 il n'y a，不再另加 pas。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l2-q18",
+          "type": "tiles",
+          "prompt": "Transformez avec « aucun » : « Je connais un étudiant dans cette classe. » → ___",
+          "answer": [
+            "Je",
+            "ne",
+            "connais",
+            "aucun",
+            "étudiant",
+            "dans",
+            "cette",
+            "classe."
+          ],
+          "bank": [
+            "Je",
+            "ne",
+            "connais",
+            "aucun",
+            "étudiant",
+            "dans",
+            "cette",
+            "classe.",
+            "connaît",
+            "un",
+            "étudiants",
+            "ce"
+          ],
+          "translation": "我认识这个班上的一个学生。→ 我在这班上不认识任何学生。",
+          "explain": "un étudiant 在绝对否定中变为 aucun étudiant；aucun 是阳性单数，与 étudiant 配合。否定词仍是 ne，不加 pas。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l3",
+      "title": "绝对否定、表语与 ni...ni / ne...que",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c07-negation-questions-l3-q1",
+          "type": "choice",
+          "prompt": "Complétez : Je n'ai pas ___ frère, je suis fils unique.",
+          "options": [
+            "un",
+            "le",
+            "de",
+            "des"
+          ],
+          "answer": 2,
+          "translation": "我没有兄弟，我是独生子。",
+          "explain": "frère 是直接宾语；在「我是独生子」这一绝对否定语境中，不定冠词 un 变为 de：pas de frère。le 会保留，但原句用 un；des 不能用于单数名词。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q2",
+          "type": "choice",
+          "prompt": "Complétez : Elle ne boit pas ___ café. (en général)",
+          "options": [
+            "du",
+            "le",
+            "un",
+            "de"
+          ],
+          "answer": 3,
+          "translation": "她一般不喝咖啡。",
+          "explain": "café 前原来是部分冠词 du；在「en général」这样的绝对否定中，部分冠词变为 de。若用定冠词 le，则是特指某种咖啡或与语境对比，不符合本句的泛指意义。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q3",
+          "type": "choice",
+          "prompt": "Complétez : Ce n'est pas ___ problème.",
+          "options": [
+            "de",
+            "un",
+            "du",
+            "le"
+          ],
+          "answer": 1,
+          "translation": "这不是问题。",
+          "explain": "problème 在 c'est 后作表语，不是直接宾语；否定时不定冠词 un 保留，不改为 de。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q4",
+          "type": "choice",
+          "prompt": "Complétez : Ce n'est pas ___ café, c'est du thé.",
+          "options": [
+            "du",
+            "de",
+            "le",
+            "un"
+          ],
+          "answer": 0,
+          "translation": "这不是咖啡，这是茶。",
+          "explain": "café 在 c'est 后作表语，原句用部分冠词 du；否定表语名词时部分冠词保留，不改为 de。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q5",
+          "type": "choice",
+          "prompt": "Complétez : Elle n'a ___ frère ___ sœur.",
+          "options": [
+            "et / ni",
+            "ni / et",
+            "ni / ni",
+            "ne / ni"
+          ],
+          "answer": 2,
+          "translation": "她没有兄弟也没有姐妹。",
+          "explain": "ne...ni...ni 否定两个并列的直接宾语；frère 和 sœur 前的不定冠词省略，直接说 ni frère ni sœur，句中不用 pas。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q6",
+          "type": "choice",
+          "prompt": "Complétez : Je ne connais ___ le père ___ la mère.",
+          "options": [
+            "et / et",
+            "ni / et",
+            "ne / ni",
+            "ni / ni"
+          ],
+          "answer": 3,
+          "translation": "父亲和母亲我都不认识。",
+          "explain": "两个并列直接宾语前有定冠词 le/la，定冠词在 ne...ni...ni 中保留：ni le père ni la mère。ne 放在变位动词 connais 前，不用 pas。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q7",
+          "type": "choice",
+          "prompt": "Complétez : Elle ne lit ___ des romans.",
+          "options": [
+            "que",
+            "pas",
+            "qu'",
+            "ni"
+          ],
+          "answer": 0,
+          "translation": "她只读小说。",
+          "explain": "ne...que 表示限制「只」，que 紧挨被限制的成分 des romans；这里不是否定「不读」，所以不用 pas。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q8",
+          "type": "choice",
+          "prompt": "Complétez : Ce n'est ___ un début.",
+          "options": [
+            "que",
+            "pas",
+            "qu'",
+            "ni"
+          ],
+          "answer": 2,
+          "translation": "这只是一个开始。",
+          "explain": "ne...que 中 que 在元音前省音为 qu'：ce n'est qu'un début。这里表示限制「只是」，不是否定。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q9",
+          "type": "choice",
+          "prompt": "Que signifie « Je ne bois que de l'eau » ?",
+          "options": [
+            "Je ne bois pas d'eau.",
+            "Je bois seulement de l'eau.",
+            "Je ne bois jamais d'eau.",
+            "Je bois beaucoup d'eau."
+          ],
+          "answer": 1,
+          "translation": "「Je ne bois que de l'eau」是什么意思？",
+          "explain": "ne...que 是限制结构，等于 seulement，表示「只喝水」，并非否定喝水；de l'eau 是部分冠词，保留不变。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q10",
+          "type": "letters",
+          "prompt": "Complétez : Ce n'est pas ___ bonne idée.",
+          "answer": "une",
+          "decoys": [
+            "s",
+            "e",
+            "t"
+          ],
+          "translation": "这不是个好主意。",
+          "explain": "idée 是阴性单数，表语名词前的不定冠词 une 在否定中保留，不改为 de。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q11",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Elle achète des fleurs. » → ___",
+          "answer": [
+            "Elle",
+            "n'achète",
+            "pas",
+            "de",
+            "fleurs."
+          ],
+          "bank": [
+            "Elle",
+            "n'achète",
+            "pas",
+            "de",
+            "fleurs.",
+            "achète",
+            "ne",
+            "des",
+            "fleur."
+          ],
+          "translation": "她买一些花。→ 她不买花。",
+          "explain": "des fleurs 是直接宾语，绝对否定时不定冠词 des 变为 de；ne 在元音前省音为 n'。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q12",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Je mange du chocolat. » → ___",
+          "answer": [
+            "Je",
+            "ne",
+            "mange",
+            "pas",
+            "de",
+            "chocolat."
+          ],
+          "bank": [
+            "Je",
+            "ne",
+            "mange",
+            "pas",
+            "de",
+            "chocolat.",
+            "manges",
+            "du",
+            "chocolats.",
+            "des"
+          ],
+          "translation": "我吃巧克力。→ 我不吃巧克力。",
+          "explain": "du chocolat 是部分冠词引导的直接宾语，绝对否定时变为 de chocolat。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q13",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « C'est un livre intéressant. » → ___",
+          "answer": [
+            "Ce",
+            "n'est",
+            "pas",
+            "un",
+            "livre",
+            "intéressant."
+          ],
+          "bank": [
+            "Ce",
+            "n'est",
+            "pas",
+            "un",
+            "livre",
+            "intéressant.",
+            "C'est",
+            "ne",
+            "de",
+            "livres"
+          ],
+          "translation": "这是一本有趣的书。→ 这不是一本有趣的书。",
+          "explain": "livre 在 c'est 后作表语，不定冠词 un 保留；否定形式是 ce n'est pas，ne 省音为 n'。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q14",
+          "type": "tiles",
+          "prompt": "Transformez avec « ni...ni » : « Elle a un frère et une sœur. » → ___",
+          "answer": [
+            "Elle",
+            "n'a",
+            "ni",
+            "frère",
+            "ni",
+            "sœur."
+          ],
+          "bank": [
+            "Elle",
+            "n'a",
+            "ni",
+            "frère",
+            "ni",
+            "sœur.",
+            "a",
+            "ne",
+            "un",
+            "une",
+            "et"
+          ],
+          "translation": "她有一个兄弟和一个姐妹。→ 她既没有兄弟也没有姐妹。",
+          "explain": "ne...ni...ni 否定两个并列直接宾语，不定冠词 un/une 省略；ne 在元音前省音为 n'。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q15",
+          "type": "tiles",
+          "prompt": "Transformez avec « ni...ni » : « Je connais le père et la mère. » → ___",
+          "answer": [
+            "Je",
+            "ne",
+            "connais",
+            "ni",
+            "le",
+            "père",
+            "ni",
+            "la",
+            "mère."
+          ],
+          "bank": [
+            "Je",
+            "ne",
+            "connais",
+            "ni",
+            "le",
+            "père",
+            "ni",
+            "la",
+            "mère.",
+            "connaît",
+            "et",
+            "des",
+            "mères."
+          ],
+          "translation": "父亲和母亲我都认识。→ 父亲和母亲我都不认识。",
+          "explain": "两个直接宾语前有定冠词 le/la，定冠词在 ne...ni...ni 中保留；ne 放在变位动词 connais 前。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q16",
+          "type": "tiles",
+          "prompt": "Transformez avec « ni...ni » : « C'est un problème et une urgence. » → ___",
+          "answer": [
+            "Ce",
+            "n'est",
+            "ni",
+            "un",
+            "problème",
+            "ni",
+            "une",
+            "urgence."
+          ],
+          "bank": [
+            "Ce",
+            "n'est",
+            "ni",
+            "un",
+            "problème",
+            "ni",
+            "une",
+            "urgence.",
+            "C'est",
+            "ne",
+            "de",
+            "problèmes",
+            "urgent."
+          ],
+          "translation": "这既是问题又是紧急情况。→ 这既不是问题也不是紧急情况。",
+          "explain": "problème 和 urgence 在 c'est 后作表语，表语名词的冠词保留：ni un problème ni une urgence。ne...ni...ni 取代 pas。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q17",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « ne...que » : « Je bois seulement de l'eau. » → ___",
+          "answer": [
+            "Je",
+            "ne",
+            "bois",
+            "que",
+            "de",
+            "l'eau."
+          ],
+          "bank": [
+            "Je",
+            "ne",
+            "bois",
+            "que",
+            "de",
+            "l'eau.",
+            "boit",
+            "pas",
+            "du",
+            "seulement"
+          ],
+          "translation": "我只喝水。",
+          "explain": "seulement 与 ne...que 意义相同；que 紧挨被限制的成分 de l'eau，部分冠词保留，不用 pas。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q18",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Je préfère acheter un gâteau. » → ___",
+          "answer": [
+            "Je",
+            "préfère",
+            "ne",
+            "pas",
+            "acheter",
+            "de",
+            "gâteau."
+          ],
+          "bank": [
+            "Je",
+            "préfère",
+            "ne",
+            "pas",
+            "acheter",
+            "de",
+            "gâteau.",
+            "achète",
+            "un",
+            "gâteaux.",
+            "préfères"
+          ],
+          "translation": "我宁愿买一个蛋糕。→ 我宁愿不买蛋糕。",
+          "explain": "否定不定式 acheter 用 ne pas + 不定式，放在 préfère 后；acheter 的直接宾语 un gâteau 在绝对否定中变为 de gâteau。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q19",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Elle décide d'acheter des fleurs. » → ___",
+          "answer": [
+            "Elle",
+            "décide",
+            "de",
+            "ne",
+            "pas",
+            "acheter",
+            "de",
+            "fleurs."
+          ],
+          "bank": [
+            "Elle",
+            "décide",
+            "de",
+            "ne",
+            "pas",
+            "acheter",
+            "de",
+            "fleurs.",
+            "décides",
+            "des",
+            "fleur.",
+            "achète"
+          ],
+          "translation": "她决定买花。→ 她决定不买花。",
+          "explain": "否定不定式 acheter 时，ne pas 整体放在不定式前，并位于介词 de 之后：de ne pas acheter。acheter 的直接宾语 des fleurs 在绝对否定中变为 de fleurs。两处 de 各司其职，不能省略。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q20",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Elle parle des prix. » → ___",
+          "answer": [
+            "Elle",
+            "ne",
+            "parle",
+            "pas",
+            "des",
+            "prix."
+          ],
+          "bank": [
+            "Elle",
+            "ne",
+            "parle",
+            "pas",
+            "des",
+            "prix.",
+            "parles",
+            "de",
+            "prix",
+            "parlent",
+            "les"
+          ],
+          "translation": "她谈论价格。→ 她不谈论价格。",
+          "explain": "这里的 des 是介词 de 与定冠词 les 的缩合（parler de + les prix），不是不定冠词，所以否定时保留 des，不能改成 de。prix 是以 -x 结尾的不变复数，复数形式仍写 prix，不加 -s。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q21",
+          "type": "tiles",
+          "prompt": "Transformez avec « ni...ni » : « C'est une erreur et un problème. » → ___",
+          "answer": [
+            "Ce",
+            "n'est",
+            "ni",
+            "une",
+            "erreur",
+            "ni",
+            "un",
+            "problème."
+          ],
+          "bank": [
+            "Ce",
+            "n'est",
+            "ni",
+            "une",
+            "erreur",
+            "ni",
+            "un",
+            "problème.",
+            "C'est",
+            "ne",
+            "de",
+            "erreurs",
+            "problèmes.",
+            "et"
+          ],
+          "translation": "这是一个错误，也是一个问题。→ 这既不是一个错误，也不是一个问题。",
+          "explain": "erreur 和 problème 在 c'est 后作表语，表语名词的不定冠词 une/un 保留，既不省略也不改成 de；ne...ni...ni 取代 pas，两个 ni 后面的成分保持同一层次。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q22",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « ne...que » : « Elle travaille seulement le matin. » → ___",
+          "answer": [
+            "Elle",
+            "ne",
+            "travaille",
+            "que",
+            "le",
+            "matin."
+          ],
+          "bank": [
+            "Elle",
+            "ne",
+            "travaille",
+            "que",
+            "le",
+            "matin.",
+            "travailles",
+            "qu'",
+            "pas",
+            "seulement",
+            "soir."
+          ],
+          "translation": "她只在上午工作。",
+          "explain": "seulement 与 ne...que 意义相同，可以互相改写；que 要紧挨被限制的成分 le matin，不能提前到动词前，也不能后移到句末。ne...que 不是否定，句中不用 pas。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q23",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Il y a des choix difficiles. » → ___",
+          "answer": [
+            "Il",
+            "n'y",
+            "a",
+            "pas",
+            "de",
+            "choix",
+            "difficiles."
+          ],
+          "bank": [
+            "Il",
+            "n'y",
+            "a",
+            "pas",
+            "de",
+            "choix",
+            "difficiles.",
+            "ne",
+            "y",
+            "des",
+            "difficile.",
+            "choix."
+          ],
+          "translation": "有一些艰难的选择。→ 没有艰难的选择。",
+          "explain": "des choix 是直接宾语，绝对否定时不定冠词 des 变为 de；choix 是以 -x 结尾的复数不变名词，复数仍写 choix，不加 -s。difficiles 与阳性复数 choix 保持配合。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l3-q24",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Nous discutons des cours de Marie. » → ___",
+          "answer": [
+            "Nous",
+            "ne",
+            "discutons",
+            "pas",
+            "des",
+            "cours",
+            "de",
+            "Marie."
+          ],
+          "bank": [
+            "Nous",
+            "ne",
+            "discutons",
+            "pas",
+            "des",
+            "cours",
+            "de",
+            "Marie.",
+            "discute",
+            "les",
+            "de",
+            "cours."
+          ],
+          "translation": "我们谈论玛丽的课程。→ 我们不谈论玛丽的课程。",
+          "explain": "这里的 des 是介词 de 与定冠词 les 的缩合（discuter de + les cours de Marie），不是不定冠词或部分冠词，因此绝对否定时仍保留 des，不能改成 de。cours 是以 -s 结尾的复数不变名词，复数形式仍写 cours，不加 -s；de Marie 是名词补语，位置不变。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l4",
+      "title": "一般疑问句的三种构成与倒装",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c07-negation-questions-l4-q1",
+          "type": "choice",
+          "prompt": "Quelle est la forme « est-ce que » de la phrase « Tu aimes le café » ?",
+          "options": [
+            "Est-ce que tu aimes le café ?",
+            "Aimes-tu le café ?",
+            "Est-ce que aimes-tu le café ?",
+            "Tu aimes le café ?"
+          ],
+          "answer": 0,
+          "translation": "你喜欢咖啡吗？",
+          "explain": "est-ce que 式在句首加 est-ce que，后面保持陈述句词序：Est-ce que tu aimes le café ? 选项 1 是倒装式，选项 3 是语调式，都不是 est-ce que 式；选项 2 把 est-ce que 与倒装混用，错误。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q2",
+          "type": "choice",
+          "prompt": "Quelle phrase est la plus familière ?",
+          "options": [
+            "Est-ce que tu viens ?",
+            "Viens-tu ?",
+            "Tu viens ?",
+            "Est-ce que vous venez ?"
+          ],
+          "answer": 2,
+          "translation": "哪一句最口语？",
+          "explain": "语调式保持陈述词序、只靠句末语调和问号，是三种形式中最口语的：Tu viens ? est-ce que 式较中性，倒装式 Viens-tu ? 较正式。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q3",
+          "type": "tiles",
+          "prompt": "Transformez en question avec « est-ce que » : « Il pleut. » → ___",
+          "answer": [
+            "Est-ce",
+            "qu'il",
+            "pleut",
+            "?"
+          ],
+          "bank": [
+            "Est-ce",
+            "qu'il",
+            "pleut",
+            "?",
+            "que",
+            "il",
+            "pleut-il",
+            "pleuvent"
+          ],
+          "translation": "下雨了。→ 下雨了吗？",
+          "explain": "est-ce que 后保持陈述词序，il 与 est-ce que 的 que 省音为 qu'：Est-ce qu'il pleut ? 不能写 Est-ce que il pleut，也不需要倒装成 pleut-il。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q4",
+          "type": "tiles",
+          "prompt": "Transformez en question par inversion : « Tu parles français. » → ___",
+          "answer": [
+            "Parles-tu",
+            "français",
+            "?"
+          ],
+          "bank": [
+            "Parles-tu",
+            "français",
+            "?",
+            "Tu",
+            "parles",
+            "Parles",
+            "tu",
+            "français."
+          ],
+          "translation": "你说法语。→ 你说法语吗？",
+          "explain": "倒装时主语 tu 移到动词后，用连字符连接：Parles-tu français ? 动词保留 -s，不能写成 Parle-tu；问号不能省。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q5",
+          "type": "choice",
+          "prompt": "Complétez : ___-t-il au cinéma ?",
+          "options": [
+            "Vas",
+            "Va",
+            "Aller",
+            "Va-t"
+          ],
+          "answer": 1,
+          "translation": "他去电影院吗？",
+          "explain": "aller 的第三人称单数是 va；va 以元音结尾，与 il 倒装时插入 -t-，写成 Va-t-il ? 不能写 Vas-t-il（多一个 s），也不能重复写 t。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q6",
+          "type": "choice",
+          "prompt": "Quelle forme est correcte ?",
+          "options": [
+            "Parle-t'il français ?",
+            "Parlet-il français ?",
+            "Parle il français ?",
+            "Parle-t-il français ?"
+          ],
+          "answer": 3,
+          "translation": "他/她说法语吗？",
+          "explain": "parler 的第三人称单数是 parle，以元音结尾，与 il 倒装时插入 -t- 并用两个连字符：Parle-t-il français ? -t- 不能写成 -t'，连字符也不能省。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q7",
+          "type": "letters",
+          "prompt": "Complétez : ___-tu le café ? (aimer)",
+          "answer": "Aimes",
+          "decoys": [
+            "t",
+            "é",
+            "n"
+          ],
+          "translation": "你喜欢咖啡吗？",
+          "explain": "倒装式中动词仍按 tu 变位：aimer 的 tu 形式是 aimes，保留 -s，写成 Aimes-tu le café ? 不能因为倒装去掉 -s 写成 Aime-tu。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q8",
+          "type": "choice",
+          "prompt": "Avec le sujet « je », quelle structure est la plus courante pour poser une question ?",
+          "options": [
+            "Verbe + -je (Parles-je ?)",
+            "-je + verbe (Je-parle ?)",
+            "Est-ce que je + verbe (Est-ce que je parle ?)",
+            "Est-ce que + verbe + je (Est-ce que parle je ?)"
+          ],
+          "answer": 2,
+          "translation": "以 je 为主语时，最常用的提问结构是什么？",
+          "explain": "je 通常不与变位动词直接倒装；日常和规范书面语都用 est-ce que je + 动词：Est-ce que je parle ? 只有少数固定形式保留倒装，如 Puis-je... ?、Ai-je... ?，不能类推到一般动词。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q9",
+          "type": "tiles",
+          "prompt": "Transformez en question avec « est-ce que » : « Je peux entrer. » → ___",
+          "answer": [
+            "Est-ce",
+            "que",
+            "je",
+            "peux",
+            "entrer",
+            "?"
+          ],
+          "bank": [
+            "Est-ce",
+            "que",
+            "je",
+            "peux",
+            "entrer",
+            "?",
+            "Puis",
+            "peux-je",
+            "entrer."
+          ],
+          "translation": "我可以进来。→ 我可以进来吗？",
+          "explain": "主语 je 不直接倒装，用 est-ce que je 结构；est-ce que 后保持陈述词序，peux 仍在 je 后。固定形式 Puis-je entrer ? 可以接受，但不能由 pouvoir 随意造出 peux-je。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q10",
+          "type": "choice",
+          "prompt": "Quelle question est correcte avec le sujet « Marie » ?",
+          "options": [
+            "Vient-Marie ce soir ?",
+            "Marie vient-elle ce soir ?",
+            "Marie elle vient ce soir ?",
+            "Marie vient-t-elle ce soir ?"
+          ],
+          "answer": 1,
+          "translation": "玛丽今晚来吗？",
+          "explain": "名词主语 Marie 留在句中，动词后用阴性单数代词 elle 复指：Marie vient-elle ce soir ? 不能加连字符把名词直接粘在动词后（Vient-Marie）；若直接后置应写 Vient Marie ?（无连字符），但本题要求代词复指。也不能重复主语而不加连字符。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q11",
+          "type": "tiles",
+          "prompt": "Transformez en question : « Les enfants jouent dans le jardin. » → ___",
+          "answer": [
+            "Les",
+            "enfants",
+            "jouent-ils",
+            "dans",
+            "le",
+            "jardin",
+            "?"
+          ],
+          "bank": [
+            "Les",
+            "enfants",
+            "jouent-ils",
+            "dans",
+            "le",
+            "jardin",
+            "?",
+            "jouent",
+            "ils",
+            "jouent-t-ils",
+            "jardin."
+          ],
+          "translation": "孩子们在花园里玩。→ 孩子们在花园里玩吗？",
+          "explain": "名词主语 les enfants 留在句中，动词后用阳性复数代词 ils 复指：Les enfants jouent-ils... ? 复指代词要与名词的性和数一致。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q12",
+          "type": "tiles",
+          "prompt": "Transformez en question : « Mes sœurs chantent bien. » → ___",
+          "answer": [
+            "Mes",
+            "sœurs",
+            "chantent-elles",
+            "bien",
+            "?"
+          ],
+          "bank": [
+            "Mes",
+            "sœurs",
+            "chantent-elles",
+            "bien",
+            "?",
+            "chantent",
+            "elles",
+            "chantent-ils",
+            "bien."
+          ],
+          "translation": "我的姐妹们唱得好。→ 我的姐妹们唱得好吗？",
+          "explain": "mes sœurs 是阴性复数，倒装时用阴性复数代词 elles 复指：Mes sœurs chantent-elles bien ? 不能用 ils。语调式 Mes sœurs chantent bien ? 也成立，但不是本题要求的倒装式。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q13",
+          "type": "choice",
+          "prompt": "Complétez : « Mes amies ___ à la fête ? »",
+          "options": [
+            "viennent-ils",
+            "vient-elle",
+            "viennent-t-elles",
+            "viennent-elles"
+          ],
+          "answer": 3,
+          "translation": "我的女性朋友们来参加聚会吗？",
+          "explain": "mes amies 是阴性复数，复指代词用 elles；viennent 以辅音音素结尾，不需要插入 -t-：viennent-elles。vient-elle 是单数，viennent-ils 是阳性复数。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q14",
+          "type": "tiles",
+          "prompt": "Transformez en question : « Le train part à huit heures. » → ___",
+          "answer": [
+            "Le",
+            "train",
+            "part-il",
+            "à",
+            "huit",
+            "heures",
+            "?"
+          ],
+          "bank": [
+            "Le",
+            "train",
+            "part-il",
+            "à",
+            "huit",
+            "heures",
+            "?",
+            "part",
+            "il",
+            "part-t-il",
+            "heure."
+          ],
+          "translation": "火车八点出发。→ 火车八点出发吗？",
+          "explain": "le train 是阳性单数，用 il 复指；part 本身以 -t 结尾，直接加 -il，不再插入 -t-：Le train part-il... ? 不能写 part-t-il。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q15",
+          "type": "letters",
+          "prompt": "Complétez : ___-t-on français ici ? (parler)",
+          "answer": "Parle",
+          "decoys": [
+            "s",
+            "t",
+            "n"
+          ],
+          "translation": "这里说法语吗？",
+          "explain": "on 作主语用第三人称单数动词：parler → parle。parle 以元音结尾，与 on 倒装时插入 -t-：Parle-t-on français ici ? 不能写 Parles-t-on。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q16",
+          "type": "choice",
+          "prompt": "Transformez « Elle a un chat. » en question par inversion.",
+          "options": [
+            "A-t-elle un chat ?",
+            "A elle un chat ?",
+            "Has-t-elle un chat ?",
+            "A-t-elle un chat."
+          ],
+          "answer": 0,
+          "translation": "她有一只猫。→ 她有一只猫吗？",
+          "explain": "avoir 的第三人称单数是 a；a 与 elle 倒装时插入 -t-：A-t-elle un chat ? 问号不能省；不能保留主语在动词前写成 A elle。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q17",
+          "type": "letters",
+          "prompt": "Complétez : ___-t-elle le thé ? (aimer)",
+          "answer": "Aime",
+          "decoys": [
+            "s",
+            "t",
+            "n"
+          ],
+          "translation": "她喜欢茶吗？",
+          "explain": "主语 elle 用 aimer 的第三人称单数 aime；aime 以元音结尾，倒装时插入 -t-：Aime-t-elle le thé ? 不能写 Aimes-t-elle。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q18",
+          "type": "tiles",
+          "prompt": "Transformez en question par inversion : « Vous parlez anglais. » → ___",
+          "answer": [
+            "Parlez-vous",
+            "anglais",
+            "?"
+          ],
+          "bank": [
+            "Parlez-vous",
+            "anglais",
+            "?",
+            "Vous",
+            "parlez",
+            "Parles-vous",
+            "anglais."
+          ],
+          "translation": "你们说英语。→ 你们说英语吗？",
+          "explain": "vous 与动词倒装用连字符连接：Parlez-vous anglais ? 动词保留 vous 形式的词尾 -ez；不能写 Parles-vous。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q19",
+          "type": "choice",
+          "prompt": "Quelle phrase est incorrecte ?",
+          "options": [
+            "Est-ce que tu viens ?",
+            "Viens-tu ?",
+            "Tu viens ?",
+            "Est-ce tu viens ?"
+          ],
+          "answer": 3,
+          "translation": "哪一句不正确？",
+          "explain": "est-ce que 是固定组合，que 不能省略：Est-ce que tu viens ? 选项 3 缺 que，错误。其余三种分别是 est-ce que 式、倒装式、语调式，都成立。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q20",
+          "type": "tiles",
+          "prompt": "Transformez en question avec « est-ce que » : « Tes parents travaillent ici. » → ___",
+          "answer": [
+            "Est-ce",
+            "que",
+            "tes",
+            "parents",
+            "travaillent",
+            "ici",
+            "?"
+          ],
+          "bank": [
+            "Est-ce",
+            "que",
+            "tes",
+            "parents",
+            "travaillent",
+            "ici",
+            "?",
+            "travaillent-ils",
+            "travaillent."
+          ],
+          "translation": "你父母在这里工作。→ 你父母在这里工作吗？",
+          "explain": "est-ce que 后保持陈述词序，名词主语 tes parents 不需要倒装或代词复指：Est-ce que tes parents travaillent ici ? 若用倒装式则需写 Tes parents travaillent-ils ici ?"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q21",
+          "type": "choice",
+          "prompt": "Quelle est la version par inversion de « Est-ce que vous avez faim ? » ?",
+          "options": [
+            "Vous avez faim ?",
+            "Avez-vous faim ?",
+            "Avez-faim-vous ?",
+            "Est-ce que avez-vous faim ?"
+          ],
+          "answer": 1,
+          "translation": "您/你们饿吗？",
+          "explain": "est-ce que 式改为倒装式时去掉 est-ce que，把主语 vous 放到变位动词 avez 后：Avez-vous faim ? 不能保留 est-ce que 又倒装。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q22",
+          "type": "choice",
+          "prompt": "Complétez : « La porte ___ ouverte ? »",
+          "options": [
+            "est-il",
+            "elle est",
+            "est-elle",
+            "est-t-elle"
+          ],
+          "answer": 2,
+          "translation": "门开着吗？",
+          "explain": "la porte 是阴性单数，复指代词用 elle；est 本身以 -t 结尾，与 elle 直接加连字符，不再插入 -t-：La porte est-elle ouverte ? 不能用 il。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q23",
+          "type": "letters",
+          "prompt": "Complétez : ___-vous français ? (être)",
+          "answer": "Êtes",
+          "accentKeys": [
+            "Ê",
+            "È",
+            "É"
+          ],
+          "decoys": [
+            "é",
+            "n",
+            "r"
+          ],
+          "translation": "您/你们是法国人吗？",
+          "explain": "être 的 vous 形式是 êtes，倒装后写 Êtes-vous français ? 注意长音符号 ê；不能写 Etes-vous。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q24",
+          "type": "choice",
+          "prompt": "Quelle question respecte la règle de reprise du sujet nominal ?",
+          "options": [
+            "Les élèves écoutent-ils le professeur ?",
+            "Les élèves écoutent-t-ils le professeur ?",
+            "Les élèves ils écoutent le professeur ?",
+            "Écoutent-les élèves le professeur ?"
+          ],
+          "answer": 0,
+          "translation": "学生们听老师讲课吗？",
+          "explain": "名词主语 les élèves 保留在句中，动词后用阳性复数代词 ils 复指：Les élèves écoutent-ils... ? écoutent 以辅音音素结尾，不需要 -t-；不能加连字符把名词直接粘在动词后（Écoutent-les）；若直接后置应写 Écoutent les élèves ?（无连字符），但本题要求代词复指。也不能重复主语而不加连字符。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q25",
+          "type": "choice",
+          "prompt": "Quelle question porte sur la personne et respecte la reprise du sujet ? « Les élèves parlent au professeur. »",
+          "options": [
+            "À qui les élèves parlent-t-ils ?",
+            "À qui les élèves parlent-ils ?",
+            "Qui les élèves parlent-ils ?",
+            "À qui les élèves ils parlent ?"
+          ],
+          "answer": 1,
+          "translation": "学生们和老师说话。→ 学生们在和谁说话？",
+          "explain": "parler à 的介词 à 必须保留，问人用 à qui；名词主语 les élèves 保留，动词后用 ils 复指：À qui les élèves parlent-ils ? parlent 以辅音音素结尾，不需要 -t-；不能省略介词，也不能重复主语而不加连字符。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q26",
+          "type": "tiles",
+          "prompt": "Posez la question sur la personne : « Les élèves parlent au professeur. » → ___",
+          "answer": [
+            "À",
+            "qui",
+            "les",
+            "élèves",
+            "parlent-ils",
+            "?"
+          ],
+          "bank": [
+            "À",
+            "qui",
+            "les",
+            "élèves",
+            "parlent-ils",
+            "?",
+            "quoi",
+            "parlent",
+            "ils",
+            "au",
+            "professeur.",
+            "parlent-t-ils"
+          ],
+          "translation": "学生们和老师说话。→ 学生们在和谁说话？",
+          "explain": "parler à 的介词 à 必须保留；问人用 à qui。名词主语 les élèves 保留在句中，动词后用 ils 复指；parlent 以辅音音素结尾，不需要插入 -t-：À qui les élèves parlent-ils ? 不能省略介词，也不能写 parlent-t-ils。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q27",
+          "type": "choice",
+          "prompt": "Quelle est la différence entre « Qui est-ce que je regarde ? » et « Qui regardes-je ? » ?",
+          "options": [
+            "Les deux sont correctes, mais la seconde est plus polie.",
+            "La première demande le sujet ; la seconde demande l'objet.",
+            "La première est correcte ; la seconde est fautive, car le pronom je ne s'inverse normalement pas avec le verbe.",
+            "La seconde est correcte ; la première est fautive, car est-ce que ne peut pas suivre qui."
+          ],
+          "answer": 2,
+          "translation": "「Qui est-ce que je regarde ?」和「Qui regardes-je ?」有什么区别？",
+          "explain": "两句都想问直接宾语「谁」，但 je 作主语时通常不直接与变位动词倒装，规范说法是 qui est-ce que je + 动词，动词按 je 变位为 regarde，不是 regardes。只有 Puis-je、Ai-je 等少数固定形式保留 je 的倒装，不能类推。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l4-q28",
+          "type": "tiles",
+          "prompt": "Transformez en question par inversion : « Il parle français. » → ___",
+          "answer": [
+            "Parle-t-il",
+            "français",
+            "?"
+          ],
+          "bank": [
+            "Parle-t-il",
+            "français",
+            "?",
+            "Parles-t-il",
+            "Il",
+            "parle",
+            "français.",
+            "Parle-il",
+            "parlent-ils"
+          ],
+          "translation": "他讲法语。→ 他讲法语吗？",
+          "explain": "parler 的第三人称单数是 parle，以元音结尾；与 il 倒装时插入 -t- 并用连字符连接：Parle-t-il français ? 不能写 Parle-il（缺 -t-），也不能写 Parles-t-il（多一个 s）。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l5",
+      "title": "疑问副词、疑问形容词与介词后疑问代词",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c07-negation-questions-l5-q1",
+          "type": "choice",
+          "prompt": "Complétez : « ___ vas-tu ? — À la bibliothèque. »",
+          "options": [
+            "Quand",
+            "Où",
+            "Comment",
+            "Pourquoi"
+          ],
+          "answer": 1,
+          "translation": "你去哪里？——去图书馆。",
+          "explain": "回答 à la bibliothèque 是地点，问地点用 où。quand 问时间，comment 问方式，pourquoi 问原因。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q2",
+          "type": "choice",
+          "prompt": "Complétez : « ___ partez-vous ? — De Paris. »",
+          "options": [
+            "Où",
+            "Par où",
+            "D'où",
+            "Quand"
+          ],
+          "answer": 2,
+          "translation": "你们从哪里出发？——从巴黎。",
+          "explain": "de Paris 表示起点、来源，用 d'où 提问；où 只问位置，par où 问经过的路线，quand 问时间。d'où 是 de + où 的缩合形式。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q3",
+          "type": "choice",
+          "prompt": "Complétez : « ___ voyages-tu ? — En train. »",
+          "options": [
+            "Comment",
+            "Quand",
+            "Pourquoi",
+            "Combien"
+          ],
+          "answer": 0,
+          "translation": "你怎么旅行？——坐火车。",
+          "explain": "回答 en train 说明方式，用 comment。pourquoi 问原因，quand 问时间，combien 问数量。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q4",
+          "type": "choice",
+          "prompt": "Complétez : « ___ est-ce que tu ne viens pas ? — Parce que je suis malade. »",
+          "options": [
+            "Comment",
+            "Quand",
+            "Pourquoi",
+            "Où"
+          ],
+          "answer": 2,
+          "translation": "你为什么不来？——因为我病了。",
+          "explain": "回答 parce que 引出原因，问原因用 pourquoi。本句虽是否定疑问句，疑问词的选择仍只取决于所问信息的类型。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q5",
+          "type": "tiles",
+          "prompt": "Posez la question sur le lieu : « Tu vas à la piscine. » → ___",
+          "answer": [
+            "Où",
+            "vas-tu",
+            "?"
+          ],
+          "bank": [
+            "Où",
+            "vas-tu",
+            "?",
+            "Tu",
+            "vas",
+            "allez-tu",
+            "à",
+            "piscine."
+          ],
+          "translation": "你去游泳池。→ 你去哪里？",
+          "explain": "问地点用 où，置于句首；主语 tu 与动词 vas 倒装并加连字符：Où vas-tu ? 原句的地点补语 à la piscine 被疑问词替代，不再保留。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q6",
+          "type": "tiles",
+          "prompt": "Posez la question sur le temps avec « est-ce que » : « Le film commence à huit heures. » → ___",
+          "answer": [
+            "Quand",
+            "est-ce",
+            "que",
+            "le",
+            "film",
+            "commence",
+            "?"
+          ],
+          "bank": [
+            "Quand",
+            "est-ce",
+            "que",
+            "le",
+            "film",
+            "commence",
+            "?",
+            "commence-t-il",
+            "huit",
+            "heures"
+          ],
+          "translation": "电影八点开始。→ 电影什么时候开始？",
+          "explain": "问时间用 quand，置于句首；est-ce que 后保持陈述词序，名词主语 le film 不需要倒装或复指。原句的时间补语 à huit heures 被 quand 替代。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q7",
+          "type": "letters",
+          "prompt": "Complétez la question qui demande le lieu : « ___ est-ce que tu habites ? »",
+          "answer": "Où",
+          "accentKeys": [
+            "ù",
+            "û",
+            "ü"
+          ],
+          "decoys": [
+            "u",
+            "o",
+            "a"
+          ],
+          "translation": "你住在哪里？",
+          "explain": "问地点用 où，o 带重音符号 ù。不要与连词 ou（或者）混淆，后者没有重音符号。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q8",
+          "type": "choice",
+          "prompt": "Complétez : « ___ étudiants y a-t-il dans la classe ? »",
+          "options": [
+            "Combien de",
+            "Combien des",
+            "Combien",
+            "Combien d'"
+          ],
+          "answer": 3,
+          "translation": "班里有多少学生？",
+          "explain": "combien de 后接名词，名词前不用定冠词或部分冠词；étudiants 以元音开头，de 省音为 d'：Combien d'étudiants... ? 不能写 Combien de étudiants 或 Combien des étudiants。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q9",
+          "type": "tiles",
+          "prompt": "Transformez en question avec « combien de » : « Il y a vingt étudiants dans la classe. » → ___",
+          "answer": [
+            "Combien",
+            "d'étudiants",
+            "y",
+            "a-t-il",
+            "dans",
+            "la",
+            "classe",
+            "?"
+          ],
+          "bank": [
+            "Combien",
+            "d'étudiants",
+            "y",
+            "a-t-il",
+            "dans",
+            "la",
+            "classe",
+            "?",
+            "de",
+            "étudiants",
+            "des",
+            "vingt"
+          ],
+          "translation": "班里有二十个学生。→ 班里有多少学生？",
+          "explain": "combien de + 名词置于句首；de 与元音开头的 étudiants 省音为 d'。il y a 在疑问句中倒装为 y a-t-il，保留无人称结构。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q10",
+          "type": "choice",
+          "prompt": "Complétez : « ___ robe préfères-tu ? »",
+          "options": [
+            "Quelle",
+            "Quel",
+            "Quels",
+            "Quelles"
+          ],
+          "answer": 0,
+          "translation": "你更喜欢哪条裙子？",
+          "explain": "robe 是阴性单数名词，疑问形容词用 quelle。quel 用于阳性单数，quels 阳性复数，quelles 阴性复数。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q11",
+          "type": "choice",
+          "prompt": "Complétez : « ___ livres veux-tu ? »",
+          "options": [
+            "Quel",
+            "Quelle",
+            "Quels",
+            "Quelles"
+          ],
+          "answer": 2,
+          "translation": "你想要哪些书？",
+          "explain": "livres 是阳性复数名词，用 quels。配合对象是名词 livres，不是主语 tu。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q12",
+          "type": "choice",
+          "prompt": "Complétez : « À ___ heure part le train ? »",
+          "options": [
+            "quel",
+            "quelle",
+            "quels",
+            "quelles"
+          ],
+          "answer": 1,
+          "translation": "火车几点出发？",
+          "explain": "heure 是阴性单数名词，疑问形容词用 quelle；在介词短语 à quelle heure 中，quel 紧贴名词 heure。不能因为 part 的主语 train 是阳性而写 quel。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q13",
+          "type": "tiles",
+          "prompt": "Transformez en question avec « quel » : « Tu préfères ce livre. » → ___",
+          "answer": [
+            "Quel",
+            "livre",
+            "préfères-tu",
+            "?"
+          ],
+          "bank": [
+            "Quel",
+            "livre",
+            "préfères-tu",
+            "?",
+            "Quelle",
+            "préfères",
+            "tu",
+            "livres",
+            "préfères-tu."
+          ],
+          "translation": "你更喜欢这本书。→ 你更喜欢哪本书？",
+          "explain": "livre 是阳性单数，疑问形容词用 quel；疑问词短语 Quel livre 置于句首，主语 tu 与 préfères 倒装：Quel livre préfères-tu ?"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q14",
+          "type": "choice",
+          "prompt": "Complétez : « ___ belle journée ! »",
+          "options": [
+            "Quel",
+            "Quels",
+            "Quelles",
+            "Quelle"
+          ],
+          "answer": 3,
+          "translation": "多美好的一天啊！",
+          "explain": "感叹形容词 quel 与名词配合；journée 是阴性单数，用 quelle。感叹句句末用感叹号，名词前不再加不定冠词。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q15",
+          "type": "choice",
+          "prompt": "Complétez : « ___ beaux tableaux ! »",
+          "options": [
+            "Quel",
+            "Quels",
+            "Quelle",
+            "Quelles"
+          ],
+          "answer": 1,
+          "translation": "多美的画啊！",
+          "explain": "tableaux 是阳性复数，用 quels。beaux 是形容词，不影响 quel 的性数；配合对象仍是名词 tableaux。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q16",
+          "type": "choice",
+          "prompt": "Complétez : « — ___ ? — C'est Marie. »",
+          "options": [
+            "Qui est-ce",
+            "Qu'est-ce que c'est",
+            "Qu'est-ce qui",
+            "Qui est-ce que"
+          ],
+          "answer": 0,
+          "translation": "——这是谁？——这是玛丽。",
+          "explain": "回答 C'est Marie 指人、问身份，用 Qui est-ce ? Qu'est-ce que c'est 问物，Qu'est-ce qui 问物作主语，Qui est-ce que 后面还需要直接宾语，不能单独用在这里。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q17",
+          "type": "choice",
+          "prompt": "Complétez : « — ___ ? — C'est un dictionnaire. »",
+          "options": [
+            "Qui est-ce",
+            "Qui est-ce qui",
+            "Qui est-ce que",
+            "Qu'est-ce que c'est"
+          ],
+          "answer": 3,
+          "translation": "——这是什么？——这是一本词典。",
+          "explain": "回答指物（un dictionnaire），用 Qu'est-ce que c'est ? 问「这是什么」。qui 系列问人；Qui est-ce que 后面必须接宾语，不能单独作「这是什么」。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q18",
+          "type": "choice",
+          "prompt": "Complétez : « À ___ penses-tu ? — À ma sœur. »",
+          "options": [
+            "que",
+            "quoi",
+            "qui",
+            "auquel"
+          ],
+          "answer": 2,
+          "translation": "你在想谁？——想我姐姐。",
+          "explain": "penser à 保留介词 à；回答 à ma sœur 指人，介词后问人用 qui：À qui penses-tu ? 问物才用 à quoi。auquel 是 à + lequel 的缩合，用于从多个事物中限定，不能在这里替代问人的 qui。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q19",
+          "type": "choice",
+          "prompt": "Complétez : « De ___ parlez-vous ? — De notre voyage. »",
+          "options": [
+            "quoi",
+            "qui",
+            "que",
+            "lequel"
+          ],
+          "answer": 0,
+          "translation": "你们在谈论什么？——谈论我们的旅行。",
+          "explain": "parler de 保留介词 de；回答 de notre voyage 指物，介词后问物用 quoi：De quoi parlez-vous ? 指人才用 de qui；que 不能直接放在介词后。lequel 是复合疑问代词，也不能直接放在 de 后；de + lequel 应缩合为 duquel。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q20",
+          "type": "tiles",
+          "prompt": "Posez la question sur la personne : « Tu parles à ton professeur. » → ___",
+          "answer": [
+            "À",
+            "qui",
+            "parles-tu",
+            "?"
+          ],
+          "bank": [
+            "À",
+            "qui",
+            "parles-tu",
+            "?",
+            "quoi",
+            "parles",
+            "tu",
+            "au",
+            "professeur."
+          ],
+          "translation": "你在和你的老师说话。→ 你在和谁说话？",
+          "explain": "parler à 的介词 à 必须保留；问人用 qui，不能用 quoi。主语 tu 与 parles 倒装：À qui parles-tu ? 原句的 à ton professeur 被疑问短语替代。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q21",
+          "type": "choice",
+          "prompt": "Complétez : « ___ regardes-tu ? — Je regarde la télévision. »",
+          "options": [
+            "Qui",
+            "Que",
+            "Quoi",
+            "Quel"
+          ],
+          "answer": 1,
+          "translation": "你在看什么？——我在看电视。",
+          "explain": "regarder 直接带宾语，回答 la télévision 指物，用 que：Que regardes-tu ? qui 问人；quoi 多用于口语或介词后；quel 是形容词，后面要接名词。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q22",
+          "type": "choice",
+          "prompt": "Complétez : « ___ de ces deux chemises préfères-tu ? » (une seule)",
+          "options": [
+            "Lequel",
+            "Lesquels",
+            "Lesquelles",
+            "Laquelle"
+          ],
+          "answer": 3,
+          "translation": "这两件衬衫你更喜欢哪一件？",
+          "explain": "所指的 chemises 是阴性复数，从两者中选一个用阴性单数 laquelle。lequel 阳性单数，lesquels 阳性复数，lesquelles 阴性复数（若问多件）。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q23",
+          "type": "choice",
+          "prompt": "Complétez : « ___ de ces projets participes-tu ? »",
+          "options": [
+            "À lequel",
+            "Lequel",
+            "Auquel",
+            "Duquel"
+          ],
+          "answer": 2,
+          "translation": "你参与这些项目中的哪一个？",
+          "explain": "participer à 要求介词 à；à + lequel 缩合为 auquel，指阳性单数 projet。不能写 à lequel；duquel 是 de + lequel，不能与 participer à 搭配。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q24",
+          "type": "choice",
+          "prompt": "Complétez : « ___ chansons aimes-tu ? »",
+          "options": [
+            "Quel",
+            "Quelle",
+            "Quels",
+            "Quelles"
+          ],
+          "answer": 3,
+          "translation": "你喜欢哪些歌？",
+          "explain": "chansons 是阴性复数名词，疑问形容词用 quelles。quel 阳性单数，quelle 阴性单数，quels 阳性复数。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q25",
+          "type": "choice",
+          "prompt": "Quelle ponctuation convient à une phrase qui exprime l'admiration ? « Comme tu es gentil ___ »",
+          "options": [
+            "!",
+            "?",
+            ".",
+            "…"
+          ],
+          "answer": 0,
+          "translation": "你多么友善啊！",
+          "explain": "句子表达赞叹、强烈情感，交际功能是感叹，句末用感叹号。问号用于提问，句号用于陈述，省略号表示话未说完或留白。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q26",
+          "type": "tiles",
+          "prompt": "Transformez en question négative avec « pourquoi » : « Tu viens avec nous. » → ___",
+          "answer": [
+            "Pourquoi",
+            "ne",
+            "viens-tu",
+            "pas",
+            "avec",
+            "nous",
+            "?"
+          ],
+          "bank": [
+            "Pourquoi",
+            "ne",
+            "viens-tu",
+            "pas",
+            "avec",
+            "nous",
+            "?",
+            "viens",
+            "tu",
+            "avec nous.",
+            "viens-tu pas",
+            "comment"
+          ],
+          "translation": "你和我们一起来。→ 你为什么不来和我们一起？",
+          "explain": "问原因用 pourquoi，置于句首；否定疑问句中 ne 在变位动词 viens 前，pas 在代词主语 -tu 后：Pourquoi ne viens-tu pas avec nous ? 不能把 pas 放到 -tu 前，也不能省略 ne。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q27",
+          "type": "choice",
+          "prompt": "Pourquoi emploie-t-on « d'où » plutôt que « où » dans « D'où viens-tu ? » ?",
+          "options": [
+            "Parce que le verbe venir exige toujours d'où, quel que soit le sens.",
+            "Parce que d'où est la forme polie de où à l'écrit.",
+            "Parce que où ne peut jamais se placer en tête de phrase.",
+            "Parce que la réponse indique l'origine ou la provenance, avec la préposition de."
+          ],
+          "answer": 3,
+          "translation": "为什么「D'où viens-tu ?」用「d'où」而不是「où」？",
+          "explain": "d'où = de + où，问起点或来源，答句通常用 de + 地点（Je viens de Paris）。où 单独问位置（Où habites-tu ?）。选择由所问信息的类型决定，不是动词的固定搭配，也不是语域问题。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l5-q28",
+          "type": "choice",
+          "prompt": "Quelle règle justifie « À qui penses-tu ? » plutôt que « À quoi penses-tu ? » quand on parle d'une personne ?",
+          "options": [
+            "Parce que penser à ne peut jamais se construire avec quoi.",
+            "Le choix dépend de la personne ou de la chose visée : qui pour une personne, quoi pour une chose.",
+            "Parce que à qui est réservé aux questions indirectes.",
+            "Parce que qui remplace toujours le sujet du verbe."
+          ],
+          "answer": 1,
+          "translation": "当谈论一个人时，为什么用「À qui penses-tu ?」而不是「À quoi penses-tu ?」？",
+          "explain": "介词 à 由 penser à 决定，必须保留；介词后指人用 qui，指物用 quoi。也可说 À qui est-ce que tu penses ? 或 Tu penses à qui ?，但介词和 qui/quoi 的选择不变。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l6",
+      "title": "「qui est-ce qui」与「qui est-ce que」：主语疑问和宾语疑问",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c07-negation-questions-l6-q1",
+          "type": "choice",
+          "prompt": "Complétez : « ___ parle ? — Marie. »",
+          "options": [
+            "Qui est-ce que",
+            "Qu'est-ce qui",
+            "Qui est-ce qui",
+            "Qu'est-ce que"
+          ],
+          "answer": 2,
+          "translation": "谁在说话？——玛丽。",
+          "explain": "空格后直接跟变位动词 parle，问的是主语且指人，用 qui est-ce qui。qui est-ce que 后面要接主语和宾语，qu'est-ce qui 问物。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q2",
+          "type": "choice",
+          "prompt": "Complétez : « ___ fait ce bruit ? — Le vent. »",
+          "options": [
+            "Qui est-ce qui",
+            "Qu'est-ce que",
+            "Qui est-ce que",
+            "Qu'est-ce qui"
+          ],
+          "answer": 3,
+          "translation": "是什么发出这个声音？——风。",
+          "explain": "fait 的主语是「事情」，问物作主语用 qu'est-ce qui。qui est-ce qui 问人；qu'est-ce que 问直接宾语，后面需要主语。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q3",
+          "type": "choice",
+          "prompt": "Complétez : « ___ tu regardes ? — Je regarde Marie. »",
+          "options": [
+            "Qui est-ce qui",
+            "Qui est-ce que",
+            "Qu'est-ce que",
+            "Qu'est-ce qui"
+          ],
+          "answer": 1,
+          "translation": "你在看谁？——我在看玛丽。",
+          "explain": "tu regardes 后面缺直接宾语，回答 Marie 指人，用 qui est-ce que。qui est-ce qui 问主语，后面直接跟动词。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q4",
+          "type": "choice",
+          "prompt": "Complétez : « ___ tu achètes ? — J'achète un livre. »",
+          "options": [
+            "Qu'est-ce que",
+            "Qui est-ce que",
+            "Qu'est-ce qui",
+            "Qui est-ce qui"
+          ],
+          "answer": 0,
+          "translation": "你买什么？——我买一本书。",
+          "explain": "回答 un livre 指物，问直接宾语用 qu'est-ce que。qu'est-ce qui 问物作主语，后面直接跟动词；qui 系列问人。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q5",
+          "type": "tiles",
+          "prompt": "Posez la question sur le sujet : « Marie regarde Paul. » → ___",
+          "answer": [
+            "Qui",
+            "est-ce",
+            "qui",
+            "regarde",
+            "Paul",
+            "?"
+          ],
+          "bank": [
+            "Qui",
+            "est-ce",
+            "qui",
+            "regarde",
+            "Paul",
+            "?",
+            "que",
+            "Marie",
+            "regarde-t-elle",
+            "Paul."
+          ],
+          "translation": "玛丽看着保罗。→ 谁看着保罗？",
+          "explain": "问主语且指人用 qui est-ce qui，后面直接跟变位动词；原主语 Marie 被疑问词替代，不再保留。宾语 Paul 保持不变。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q6",
+          "type": "tiles",
+          "prompt": "Posez la question sur le sujet : « Les enfants jouent dans la cour. » → ___",
+          "answer": [
+            "Qui",
+            "est-ce",
+            "qui",
+            "joue",
+            "dans",
+            "la",
+            "cour",
+            "?"
+          ],
+          "bank": [
+            "Qui",
+            "est-ce",
+            "qui",
+            "joue",
+            "dans",
+            "la",
+            "cour",
+            "?",
+            "jouent",
+            "les",
+            "enfants",
+            "joue-t-il"
+          ],
+          "translation": "孩子们在院子里玩。→ 谁在院子里玩？",
+          "explain": "主语疑问 qui est-ce qui 视为第三人称单数，动词用 joue，不随原主语 les enfants 变复数：Qui est-ce qui joue... ? 不能写 jouent。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q7",
+          "type": "letters",
+          "prompt": "Complétez : « Qui est-ce qui ___ cette chanson ? » (chanter)",
+          "answer": "chante",
+          "decoys": [
+            "z",
+            "r",
+            "é"
+          ],
+          "translation": "谁在唱这首歌？",
+          "explain": "qui est-ce qui 作主语时动词保持第三人称单数：chanter → chante。即使答案可能是多个人，动词也不变复数，不能写 chantent。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q8",
+          "type": "tiles",
+          "prompt": "Posez la question sur le sujet : « Ce bruit vient de la rue. » → ___",
+          "answer": [
+            "Qu'est-ce",
+            "qui",
+            "vient",
+            "de",
+            "la",
+            "rue",
+            "?"
+          ],
+          "bank": [
+            "Qu'est-ce",
+            "qui",
+            "vient",
+            "de",
+            "la",
+            "rue",
+            "?",
+            "que",
+            "bruit",
+            "vient-il"
+          ],
+          "translation": "这个声音来自街上。→ 是什么从街上传来？",
+          "explain": "问物作主语用 qu'est-ce qui，后面直接跟变位动词 vient；原主语 ce bruit 被替代。不能写成 Qu'est-ce que vient...，也不能用 qui est-ce qui（问人）。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q9",
+          "type": "choice",
+          "prompt": "Transformez « Paul ouvre la fenêtre. » en question sur le sujet.",
+          "options": [
+            "Qui est-ce que Paul ouvre ?",
+            "Qu'est-ce qui ouvre la fenêtre ?",
+            "Qui est-ce qu'ouvre la fenêtre ?",
+            "Qui est-ce qui ouvre la fenêtre ?"
+          ],
+          "answer": 3,
+          "translation": "保罗打开窗户。→ 谁打开窗户？",
+          "explain": "问主语且指人用 qui est-ce qui + 变位动词：Qui est-ce qui ouvre la fenêtre ? qui est-ce que 问宾语，后面要保留主语；qu'est-ce qui 问物。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q10",
+          "type": "tiles",
+          "prompt": "Posez la question sur l'objet : « Tu regardes ce film. » → ___",
+          "answer": [
+            "Qu'est-ce",
+            "que",
+            "tu",
+            "regardes",
+            "?"
+          ],
+          "bank": [
+            "Qu'est-ce",
+            "que",
+            "tu",
+            "regardes",
+            "?",
+            "qui",
+            "ce film",
+            "regardes-tu",
+            "Qu'est-ce qui"
+          ],
+          "translation": "你在看这部电影。→ 你在看什么？",
+          "explain": "问直接宾语且指物用 qu'est-ce que，后面保持陈述词序 tu regardes；原宾语 ce film 被疑问短语替代。不能写成 Qu'est-ce qui tu regardes。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q11",
+          "type": "tiles",
+          "prompt": "Posez la question sur l'objet : « Elle invite ses amies. » → ___",
+          "answer": [
+            "Qui",
+            "est-ce",
+            "qu'elle",
+            "invite",
+            "?"
+          ],
+          "bank": [
+            "Qui",
+            "est-ce",
+            "qu'elle",
+            "invite",
+            "?",
+            "que",
+            "elle",
+            "invite-t-elle",
+            "ses amies"
+          ],
+          "translation": "她邀请她的朋友们。→ 她邀请谁？",
+          "explain": "问直接宾语且指人用 qui est-ce que；que 遇 elle 省音为 qu'：Qui est-ce qu'elle invite ? 不能写 Qui est-ce que elle invite。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q12",
+          "type": "choice",
+          "prompt": "Quelle question demande l'identité de la personne invitée ?",
+          "options": [
+            "Qu'est-ce qu'elle invite ?",
+            "Qui est-ce qui elle invite ?",
+            "Qui est-ce qu'elle invite ?",
+            "Qui est-ce que elle invite ?"
+          ],
+          "answer": 2,
+          "translation": "哪一句是在问「她邀请的人是谁」？",
+          "explain": "问人作直接宾语用 qui est-ce que，que 与 elle 省音为 qu'：Qui est-ce qu'elle invite ? Qu'est-ce qu'elle invite 问物；qui est-ce qui 不能直接接主语 elle；que elle 没有省音。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q13",
+          "type": "choice",
+          "prompt": "Transformez « Je regarde Marie. » en question sur l'objet.",
+          "options": [
+            "Qui est-ce qui je regarde ?",
+            "Qui est-ce que je regarde ?",
+            "Qui regardes-je ?",
+            "Qui est-ce que je regardes ?"
+          ],
+          "answer": 1,
+          "translation": "我看玛丽。→ 我看谁？",
+          "explain": "问直接宾语且指人用 qui est-ce que，主语 je 保留在 que 后；因为 je 不宜直接倒装，用 est-ce que 结构：Qui est-ce que je regarde ? 动词按 je 变位为 regarde，不能写 regardes；也不能用 qui est-ce qui（那会问主语）。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q14",
+          "type": "tiles",
+          "prompt": "Posez la question sur l'objet : « Vous attendez le directeur. » → ___",
+          "answer": [
+            "Qui",
+            "est-ce",
+            "que",
+            "vous",
+            "attendez",
+            "?"
+          ],
+          "bank": [
+            "Qui",
+            "est-ce",
+            "que",
+            "vous",
+            "attendez",
+            "?",
+            "qui",
+            "le directeur",
+            "attendez-vous",
+            "Qu'est-ce que"
+          ],
+          "translation": "你们在等经理。→ 你们在等谁？",
+          "explain": "问直接宾语且指人用 qui est-ce que，后面保持陈述词序 vous attendez，不再倒装。若用倒装式则写 Qui attendez-vous ?，但不能把 est-ce que 与倒装混用。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q15",
+          "type": "choice",
+          "prompt": "Complétez : « ___ tu appelles ? — J'appelle Julie. »",
+          "options": [
+            "Qui est-ce qui",
+            "Qu'est-ce que",
+            "Qu'est-ce qui",
+            "Qui est-ce que"
+          ],
+          "answer": 3,
+          "translation": "你在给谁打电话？——我在给朱莉打电话。",
+          "explain": "appeler 直接带宾语，回答 Julie 指人，问直接宾语用 qui est-ce que。qui est-ce qui 问主语；qu'est-ce que 问物。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q16",
+          "type": "letters",
+          "prompt": "Complétez : « Qu'est-ce ___ tu veux ? » (objet : une pomme)",
+          "answer": "que",
+          "decoys": [
+            "i",
+            "s",
+            "t"
+          ],
+          "translation": "你想要什么？",
+          "explain": "问直接宾语且指物用 qu'est-ce que；que 位于 est-ce 与主语 tu 之间，不能换成 qui。完整形式：Qu'est-ce que tu veux ?"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q17",
+          "type": "tiles",
+          "prompt": "Posez la question sur l'objet : « Tu regardes Marie. » → ___",
+          "answer": [
+            "Qui",
+            "regardes-tu",
+            "?"
+          ],
+          "bank": [
+            "Qui",
+            "regardes-tu",
+            "?",
+            "Que",
+            "regardes",
+            "tu",
+            "Marie.",
+            "regarde-tu",
+            "Quoi"
+          ],
+          "translation": "你在看玛丽。→ 你在看谁？",
+          "explain": "问人作直接宾语用 qui，置于句首；主语代词 tu 与变位动词 regardes 倒装，用连字符连接：Qui regardes-tu ? 原宾语 Marie 被疑问词替代。不能写 Qui regarde-tu，因为动词没有按 tu 变位。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q18",
+          "type": "tiles",
+          "prompt": "Posez la question sur l'objet : « Il regarde Marie. » → ___",
+          "answer": [
+            "Qui",
+            "regarde-t-il",
+            "?"
+          ],
+          "bank": [
+            "Qui",
+            "regarde-t-il",
+            "?",
+            "Que",
+            "regarde",
+            "il",
+            "Marie.",
+            "regarde-il",
+            "Quoi"
+          ],
+          "translation": "他在看玛丽。→ 他在看谁？",
+          "explain": "问人作直接宾语用 qui，置于句首；主语 il 与动词 regarde 倒装，regarde 以元音结尾，需插入 -t-：Qui regarde-t-il ? 不能写 Qui regarde-il，也不能省略连字符。原宾语 Marie 被疑问词替代。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q19",
+          "type": "tiles",
+          "prompt": "Posez la question sur l'objet, avec inversion : « Tu attends Paul. » → ___",
+          "answer": [
+            "Qui",
+            "attends-tu",
+            "?"
+          ],
+          "bank": [
+            "Qui",
+            "attends-tu",
+            "?",
+            "Que",
+            "attends",
+            "tu",
+            "Paul.",
+            "attend-tu",
+            "Quoi"
+          ],
+          "translation": "你在等保罗。→ 你在等谁？",
+          "explain": "问人作直接宾语用 qui，置于句首；主语代词 tu 与变位动词 attends 倒装，用连字符连接：Qui attends-tu ? 原宾语 Paul 被疑问词替代。attend-tu 缺少 tu 形式的 -s，不能接受。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l6-q20",
+          "type": "tiles",
+          "prompt": "Posez la question sur l'objet, avec inversion : « Elle invite Julie. » → ___",
+          "answer": [
+            "Qui",
+            "invite-t-elle",
+            "?"
+          ],
+          "bank": [
+            "Qui",
+            "invite-t-elle",
+            "?",
+            "Que",
+            "invite",
+            "elle",
+            "Julie.",
+            "invite-elle",
+            "invites-t-elle",
+            "Quoi"
+          ],
+          "translation": "她邀请朱莉。→ 她邀请谁？",
+          "explain": "问人作直接宾语用 qui，置于句首；主语 elle 与动词 invite 倒装，invite 以元音字母结尾，需在动词与 elle 之间插入 -t-：Qui invite-t-elle ? 不能写 Qui invite-elle（缺 -t-），也不能写 invites-t-elle（动词未按 elle 变位）。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l7",
+      "title": "否定疑问句与 si 回答",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c07-negation-questions-l7-q1",
+          "type": "choice",
+          "prompt": "Quelle est la question négative correctement formée ?",
+          "options": [
+            "Est-ce que tu viens ne pas au cours ?",
+            "Est-ce que tu ne viens pas au cours ?",
+            "Ne est-ce que tu viens pas au cours ?",
+            "Est-ce que ne tu viens pas au cours ?"
+          ],
+          "answer": 1,
+          "translation": "你不来上课吗？",
+          "explain": "est-ce que 位于句首，后面保持陈述词序；ne 在变位动词 viens 前，pas 在 viens 后，写成 Est-ce que tu ne viens pas... ?。其余选项把 ne 或 pas 放到了错误位置。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l7-q2",
+          "type": "choice",
+          "prompt": "Tu n'as pas faim ? — ___, j'ai très faim.",
+          "options": [
+            "Oui",
+            "Non",
+            "Si",
+            "Aussi"
+          ],
+          "answer": 2,
+          "translation": "你不饿吗？——不，我很饿。",
+          "explain": "问句是否定疑问句，回答却肯定「饿」这一被否定的内容，用法语 si；oui 只用于肯定问句的肯定回答；non 是否定回答，与后句「我很饿」矛盾。aussi 不用于这种应答。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l7-q3",
+          "type": "letters",
+          "prompt": "Complétez : Pourquoi ne ___-tu pas avec nous ? (venir)",
+          "answer": "viens",
+          "decoys": [
+            "a",
+            "t",
+            "r"
+          ],
+          "translation": "你为什么不来和我们一起？",
+          "explain": "venir 的 tu 形式是 viens，用短词干 vien- 加 -s。否定疑问句倒装中，ne 在变位动词前，pas 在代词主语 -tu 后；不能写 vient（第三人称单数）或 venez（vous 形式）。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l7-q4",
+          "type": "tiles",
+          "prompt": "Répondez affirmativement à la question « Elle n'a pas de frère ? »",
+          "answer": [
+            "Si,",
+            "elle",
+            "a",
+            "un",
+            "frère."
+          ],
+          "bank": [
+            "Si,",
+            "elle",
+            "a",
+            "un",
+            "frère.",
+            "Oui,",
+            "n'a",
+            "pas",
+            "de",
+            "frères.",
+            "a-t-elle"
+          ],
+          "translation": "她没有兄弟吗？——不，她有一个兄弟。",
+          "explain": "否定疑问句的肯定回答用 Si；肯定回答中不再保留否定，直接说 elle a un frère，宾语前恢复不定冠词 un。Oui 不能用于否定疑问句的肯定回答。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l7-q5",
+          "type": "choice",
+          "prompt": "Quelle règle explique la réponse « Si, je suis content » à la question « Tu n'es pas content ? » ?",
+          "options": [
+            "Si remplace toujours oui dans les réponses affirmatives, quel que soit le type de question.",
+            "Si est la forme négative de oui et équivaut à non.",
+            "On répond si pour confirmer le contenu nié par une question négative ; oui confirme une question affirmative.",
+            "On emploie si parce que la question contient le mot pas, sans autre condition."
+          ],
+          "answer": 2,
+          "translation": "什么规则解释了用「Si, je suis content」回答「Tu n'es pas content ?」？",
+          "explain": "否定疑问句作肯定回答用 si，肯定的是被否定的内容；肯定疑问句的肯定回答用 oui；否定回答用 non。si 不是 oui 的随意变体，也不等于 non；问句含 pas 并不自动要求 si，因为否定回答仍可用 non。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l8",
+      "title": "否定代词与限定词的位置（识别）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c07-negation-questions-l8-q1",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Je ne vois personne dans la cour.",
+            "Je ne personne vois dans la cour.",
+            "Je vois ne personne dans la cour.",
+            "Je ne vois pas personne dans la cour."
+          ],
+          "answer": 0,
+          "translation": "我在院子里没看见任何人。",
+          "explain": "personne 与 ne 连用：ne 在变位动词 vois 前，personne 在 vois 后。否定词已经表达否定，不能再加上 pas；选项 4 的 pas personne 构成双重否定，不是本义。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l8-q2",
+          "type": "choice",
+          "prompt": "Complétez : Elle ne peut ___ faire aujourd'hui.",
+          "options": [
+            "ne rien",
+            "rien ne",
+            "rien",
+            "aucun"
+          ],
+          "answer": 2,
+          "translation": "她今天什么也做不了。",
+          "explain": "rien 放在不定式 faire 之后；ne 在变位动词 peut 前，不能再重复一个 ne。pas 也不能与 rien 并用；aucun 后必须接名词，不能单独作宾语。"
+        },
+        {
+          "id": "pub-c07-negation-questions-l8-q3",
+          "type": "choice",
+          "prompt": "Complétez : Nous ne trouvons cette marque ___ .",
+          "options": [
+            "pas nulle part",
+            "nulle part",
+            "nulle part ne",
+            "aucune part"
+          ],
+          "answer": 1,
+          "translation": "我们哪儿也找不到这个牌子。",
+          "explain": "nulle part 是副词性短语，放在变位动词后，与 ne 连用；不能加 pas，也不能拆成 aucune part。它的位置与 personne、rien 同类，但不能套用 pas 的位置。"
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "pub-c07-negation-questions-x1",
+      "title": "综合：否定的形式、冠词与位置",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c07-negation-questions-x1-q1",
+          "type": "choice",
+          "prompt": "Complétez : Je ne bois pas ___ café, mais je bois ___ thé.",
+          "options": [
+            "de / du",
+            "du / du",
+            "de / de",
+            "du / de"
+          ],
+          "answer": 0,
+          "translation": "我不喝咖啡，但我喝茶。",
+          "explain": "第一空是否定直接宾语：部分冠词 du 在绝对否定中变为 de，写成 ne bois pas de café。第二空是肯定句，thé 前保留部分冠词 du，写成 je bois du thé。同一类名词在否定与肯定中冠词形式不同。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x1-q2",
+          "type": "choice",
+          "prompt": "Complétez : Je n'aime pas ___ films d'horreur et je ne bois pas ___ lait.",
+          "options": [
+            "des / de",
+            "les / de",
+            "les / du",
+            "de / de"
+          ],
+          "answer": 1,
+          "translation": "我不喜欢恐怖片，也不喝牛奶。",
+          "explain": "第一空：aimer 后表类别的名词用定冠词 les，否定不改变冠词，也不能用 des 或 de；第二空：否定直接宾语 lait，部分冠词 du 在绝对否定中变为 de。两处冠词规则不同，不能一起套用。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x1-q3",
+          "type": "choice",
+          "prompt": "Complétez : Ce n'est pas ___ problème, mais il n'aime ni ___ café ni ___ thé.",
+          "options": [
+            "de / le / le",
+            "un / du / du",
+            "un / le / le",
+            "de / du / du"
+          ],
+          "answer": 2,
+          "translation": "这不是问题，但他既不喜欢咖啡也不喜欢茶。",
+          "explain": "problème 作表语，否定时保留不定冠词 un，不变成 de；ne...ni...ni 连接两个直接宾语，aimer 表类别时要求定冠词，且定冠词在否定中保留，所以是 ni le café ni le thé。不能把定冠词换成部分冠词 du，也不能省掉。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x1-q4",
+          "type": "choice",
+          "prompt": "Complétez : Je ne mets plus ___ manteau en hiver, mais je ne retire jamais ___ écharpe.",
+          "options": [
+            "un / mon",
+            "de / une",
+            "un / une",
+            "de / mon"
+          ],
+          "answer": 3,
+          "translation": "冬天我不再穿大衣，但我从不摘下围巾。",
+          "explain": "ne...plus 表示「不再」，直接宾语 manteau 前的不定冠词 un 变为 de；écharpe 前是主有形容词 mon，否定中保留，不变成 de。plus 与 jamais 各自围绕自己的变位动词，不能同时再加 pas。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x1-q5",
+          "type": "choice",
+          "prompt": "Complétez : Je ne bois que ___ eau et je ne bois pas ___ café.",
+          "options": [
+            "de / de",
+            "de l' / de",
+            "de l' / du",
+            "du / de"
+          ],
+          "answer": 1,
+          "translation": "我只喝水，不喝咖啡。",
+          "explain": "ne...que 表限制，不是否定，eau 前保留部分冠词 de l'；后一分句是真正的否定，café 前的部分冠词 du 变为 de。不能因为两句都有 ne 就把冠词同样处理。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x1-q6",
+          "type": "choice",
+          "prompt": "Choisissez la phrase correcte.",
+          "options": [
+            "Elle ne parle pas très fort, mais elle ne crie jamais.",
+            "Elle ne parle très pas fort, mais elle ne crie jamais.",
+            "Elle ne parle pas très fort, mais elle ne crie pas jamais.",
+            "Elle ne parle pas très fort, mais elle jamais ne crie."
+          ],
+          "answer": 0,
+          "translation": "她说话声音不太大，但从不喊叫。",
+          "explain": "程度副词 très 位于否定词 pas 之后，修饰 fort；第二个分句用 ne...jamais 表示「从不」，jamais 在变位动词 crie 后占据 pas 的位置。选项 2 把 très 放到 pas 前；选项 3 同时用 pas 和 jamais；选项 4 把 jamais 放到 ne 前，位置都错误。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x1-q7",
+          "type": "choice",
+          "prompt": "Choisissez la phrase correcte.",
+          "options": [
+            "Je préfère pas sortir et je ne veux pas déranger mes parents.",
+            "Je préfère ne sortir pas et je ne veux pas déranger mes parents.",
+            "Je préfère ne pas sortir et je ne veux pas déranger mes parents.",
+            "Je préfère ne pas sortir et je ne veux déranger pas mes parents."
+          ],
+          "answer": 2,
+          "translation": "我宁愿不出去，也不想打扰父母。",
+          "explain": "否定不定式 sortir 时，ne pas 作为整体放在不定式前：ne pas sortir；否定变位动词 vouloir 时，ne...pas 夹住变位动词：je ne veux pas déranger。两种否定的位置不同，不能把 pas 单独挪到不定式后或变位动词后。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x1-q8",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre :",
+          "answer": [
+            "Je",
+            "ne",
+            "bois",
+            "plus",
+            "de",
+            "café",
+            "le",
+            "soir,",
+            "mais",
+            "je",
+            "bois",
+            "encore",
+            "du",
+            "thé."
+          ],
+          "bank": [
+            "Je",
+            "ne",
+            "bois",
+            "plus",
+            "de",
+            "café",
+            "le",
+            "soir,",
+            "mais",
+            "je",
+            "bois",
+            "encore",
+            "du",
+            "thé.",
+            "des",
+            "matin,",
+            "thés."
+          ],
+          "translation": "我晚上不再喝咖啡，但我还喝茶。",
+          "explain": "ne...plus 表示「不再」，pas 不能与 plus 同时使用；否定直接宾语 café 前的部分冠词 du 变为 de；后一分句是肯定，thé 前保留部分冠词 du。两处冠词形式相反，取决于肯定或否定。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x1-q9",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre :",
+          "answer": [
+            "Ce",
+            "n'est",
+            "pas",
+            "un",
+            "problème,",
+            "mais",
+            "il",
+            "n'a",
+            "ni",
+            "temps",
+            "ni",
+            "argent."
+          ],
+          "bank": [
+            "Ce",
+            "n'est",
+            "pas",
+            "un",
+            "problème,",
+            "mais",
+            "il",
+            "n'a",
+            "ni",
+            "temps",
+            "ni",
+            "argent.",
+            "de",
+            "des",
+            "problèmes,"
+          ],
+          "translation": "这不是问题，但他既没有时间也没有钱。",
+          "explain": "表语名词 problème 在否定中保留不定冠词 un；ne...ni...ni 连接两个直接宾语，不定冠词省略，所以是 ni temps ni argent。不能被前一分句的否定同化，把 un 改成 de。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x1-q10",
+          "type": "choice",
+          "prompt": "Choisissez la phrase correcte.",
+          "options": [
+            "Elle n'a aucun amie ici, et elle ne sort jamais.",
+            "Elle n'a aucune amie ici, et elle ne sort pas jamais.",
+            "Elle n'a aucuns amis ici, et elle ne sort jamais.",
+            "Elle n'a aucune amie ici, et elle ne sort jamais."
+          ],
+          "answer": 3,
+          "translation": "她在这里没有任何女性朋友，而且她从不外出。",
+          "explain": "aucun 随名词 amie 用阴性单数 aucune；aucuns 不能与单数名词搭配，aucun 也不能修饰阴性名词。第二个分句用 ne...jamais 表示「从不」，jamais 已是否定词，不能与 pas 并用。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-x2",
+      "title": "综合：疑问句的结构与疑问词",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c07-negation-questions-x2-q1",
+          "type": "choice",
+          "prompt": "Transformez en question avec inversion : « Marie parle français. »",
+          "options": [
+            "Marie parle-t-elle français ?",
+            "Marie parle-elle français ?",
+            "Marie-t-elle parle français ?",
+            "Parle Marie-t-elle français ?"
+          ],
+          "answer": 0,
+          "translation": "玛丽讲法语吗？",
+          "explain": "名词主语 Marie 保留在句中，动词后用第三人称单数代词 elle 复指；parle 以 -e 结尾，与 elle 之间要加 -t-，写成 parle-t-elle。parle-elle 缺 -t-；Marie-t-elle 把 -t- 插在名词后；Parle Marie-t-elle 把动词重复倒装。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x2-q2",
+          "type": "choice",
+          "prompt": "N'es-tu pas content ? — ___, je suis très content.",
+          "options": [
+            "Oui",
+            "Non",
+            "Si",
+            "Aussi"
+          ],
+          "answer": 2,
+          "translation": "你不高兴吗？——不，我很高兴。",
+          "explain": "问句是否定疑问句：ne...pas 围绕 es，倒装为 n'es-tu pas。回答肯定被否定的内容用 si；oui 用于肯定问句的肯定回答，non 是否定回答。这里的 si 是应答词，不是连词。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x2-q3",
+          "type": "choice",
+          "prompt": "Complétez : Avec ___ est-ce que tu parles ? — Avec mon professeur.",
+          "options": [
+            "que",
+            "qui",
+            "quoi",
+            "qu'"
+          ],
+          "answer": 1,
+          "translation": "你在和谁说话？——和我的老师。",
+          "explain": "介词 avec 后指人用 qui，并保留动词要求的介词 avec；que 和 quoi 指物，不能指人。疑问结构用 est-ce que，介词短语置于句首。不能因为 est-ce que 后接主语就把 qui 换成 que。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x2-q4",
+          "type": "choice",
+          "prompt": "Complétez : ___ heure est-il ? — Il est huit heures.",
+          "options": [
+            "Quel",
+            "Quels",
+            "Quelle",
+            "Quelles"
+          ],
+          "answer": 2,
+          "translation": "几点了？——八点。",
+          "explain": "heure 是阴性单数名词，疑问形容词 quel 要配合成 quelle；est-il 是无人称倒装结构，动词与 il 一致。quel 和 quels 是阳性形式，quelles 是阴性复数。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x2-q5",
+          "type": "choice",
+          "prompt": "Complétez : ___ de ces deux robes préfères-tu ?",
+          "options": [
+            "Laquelle",
+            "Lequel",
+            "Lesquelles",
+            "Lesquels"
+          ],
+          "answer": 0,
+          "translation": "这两条裙子你更喜欢哪一条？",
+          "explain": "所指名词 robes 是阴性，但从中选一条，复合疑问代词用阴性单数 laquelle；de ces deux robes 表示选择范围。lequel 是阳性单数，lesquelles 和 lesquels 是复数，与「选一条」不符。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x2-q6",
+          "type": "choice",
+          "prompt": "Complétez : ___ a téléphoné ? — Julie.",
+          "options": [
+            "Qui est-ce que",
+            "Qu'est-ce qui",
+            "Qu'est-ce que",
+            "Qui est-ce qui"
+          ],
+          "answer": 3,
+          "translation": "谁打电话来了？——朱莉。",
+          "explain": "问句缺主语，指人用 qui est-ce qui；qui 在 est-ce qui 前作主语。qui est-ce que 用于直接宾语提问，qu'est-ce qui 问物作主语，qu'est-ce que 问物作宾语。不能只看「人」就选 qui est-ce que，还要看句法角色。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x2-q7",
+          "type": "choice",
+          "prompt": "Complétez : ___ va-t-il à Paris ? — En train.",
+          "options": [
+            "Qui",
+            "Comment",
+            "Pourquoi",
+            "Quand"
+          ],
+          "answer": 1,
+          "translation": "他怎么去巴黎？——坐火车。",
+          "explain": "答句 en train 说明方式，疑问副词用 comment；va-t-il 是倒装，va 以 -a 结尾，与 il 之间加 -t-。qui 问人，pourquoi 问原因，quand 问时间，都与 en train 不对应。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x2-q8",
+          "type": "choice",
+          "prompt": "Complétez : ___ étudiants y a-t-il dans la classe ?",
+          "options": [
+            "Combien de",
+            "Combien des",
+            "Combien les",
+            "Combien d'"
+          ],
+          "answer": 3,
+          "translation": "班里有多少学生？",
+          "explain": "combien de 后直接接名词，名词前不用定冠词或部分冠词；étudiants 以元音开头，de 省音为 d'，写成 combien d'étudiants。y a-t-il 是 il y a 的倒装，a 与 il 之间加 -t-。combien des 和 combien les 保留限定词，均不正确。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x2-q9",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre :",
+          "answer": [
+            "Qu'est-ce",
+            "que",
+            "tu",
+            "cherches",
+            "exactement ?"
+          ],
+          "bank": [
+            "Qu'est-ce",
+            "que",
+            "tu",
+            "cherches",
+            "exactement ?",
+            "qui",
+            "est-ce",
+            "quoi",
+            "cherche"
+          ],
+          "translation": "你到底在找什么？",
+          "explain": "问物作直接宾语用 qu'est-ce que，后接陈述词序 tu cherches；exactement 是副词，放在句末。qu'est-ce qui 问物作主语，qui est-ce que 问人作宾语，都不能与 tu cherches 的宾语角色搭配。"
+        },
+        {
+          "id": "pub-c07-negation-questions-x2-q10",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre :",
+          "answer": [
+            "Qui",
+            "est-ce",
+            "que",
+            "tu",
+            "regardes ?"
+          ],
+          "bank": [
+            "Qui",
+            "est-ce",
+            "que",
+            "tu",
+            "regardes ?",
+            "qui",
+            "est-ce qui",
+            "regarde",
+            "quoi"
+          ],
+          "translation": "你在看谁？",
+          "explain": "问人作直接宾语用 qui est-ce que，后接主语 tu 和变位动词 regardes；不能把宾语疑问写成 qui est-ce qui（主语疑问），也不能用 qu'est-ce que（问物）。regardes 与 tu 配合，保留 -s。"
+        }
+      ]
+    }
+  ]
+}

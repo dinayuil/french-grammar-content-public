@@ -239,20 +239,6 @@
           ]
         },
         {
-          "id": "pub-articles-l2-q7",
-          "prompt": "Je n'ai pas ___ pain.（不特指）",
-          "translation": "我没有面包。",
-          "explain": "否定中部分冠词 du 变为 de：pas de pain。",
-          "type": "choice",
-          "options": [
-            "de",
-            "le",
-            "des",
-            "du"
-          ],
-          "answer": 0
-        },
-        {
           "id": "pub-articles-l2-q8",
           "prompt": "J'aime ___ chocolat.（泛指这一类食物）",
           "translation": "我喜欢巧克力。",

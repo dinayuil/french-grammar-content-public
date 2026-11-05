@@ -8,10 +8,11 @@
     "chapters/pub-c04-determiners.json",
     "chapters/pub-c05-present.json",
     "chapters/pub-c06-verbs.json",
+    "chapters/pub-c07-negation-questions.json",
     "chapters/pub-predication.json",
     "chapters/pub-articles.json",
     "chapters/pub-agreement.json"
   ],
-  "expectedChapterCount": 9,
-  "expectedQuestionCount": 924
+  "expectedChapterCount": 10,
+  "expectedQuestionCount": 1093
 }

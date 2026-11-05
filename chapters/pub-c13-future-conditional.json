@@ -1,0 +1,3096 @@
+{
+  "id": "pub-c13-future-conditional",
+  "title": "将来、条件式与假设",
+  "titleFr": "Le futur, le conditionnel et l'hypothèse",
+  "cards": [
+    {
+      "id": "pub-c13-future-conditional-card-u1-1",
+      "title": "aller + 不定式：最近将来时",
+      "body": "最近将来时由 aller 的现在时加动词不定式构成，两者之间不加介词。它表示说话时刻即将发生或已经决定要做的动作。\n\naller 的现在时：je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont。\n\n- Je vais partir dans cinq minutes.（我五分钟后就走。）\n- Nous allons visiter le musée cet après-midi.（我们今天下午要去参观博物馆。）\n- Ils vont arriver tout de suite.（他们马上就到。）\n\n否定和代词位置：\n- Je ne vais pas sortir ce soir.（我今晚不出去。）——ne...pas 包住 aller，不定式放在 pas 后\n- Il va me téléphoner.（他要给我打电话。）——宾语代词放在 aller 与不定式之间\n- Elle va s'en occuper.（她会处理这件事。）——代词式动词的自反代词放在不定式前\n\n判断要点：\n- 只有 aller 变位，后面的动词保持不定式，不能再变位：*Je vais pars 错。\n- 时间状语（tout de suite、dans une minute、ce soir）常用来强化「即将」。\n\n边界：aller 单独使用表示「去某地」（Je vais à Paris），后面接不定式才构成最近将来时；现在时也可表示已安排的近期动作（Je pars demain），但最近将来时用 aller + 不定式，强调即将发生；最近将来时与简单将来时的分工见 U3。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u1-2",
+      "title": "venir de + 不定式：最近过去时",
+      "body": "venir 的现在时加 de 加不定式，表示说话时刻之前刚刚完成的动作。de 在元音或哑音 h 前省音为 d'。\n\nvenir 的现在时：je viens, tu viens, il/elle vient, nous venons, vous venez, ils/elles viennent。\n\n- Je viens d'arriver.（我刚到。）\n- Elle vient de téléphoner.（她刚打过电话。）\n- Nous venons de finir le repas.（我们刚吃完饭。）\n- Ils viennent d'ouvrir la boutique.（他们刚开门。）\n\n否定：\n- Je ne viens pas de sortir.（我刚没出去。）——ne...pas 包住 venir\n- Il ne vient pas d'arriver.（他并不是刚到的。）\n\n要点：\n- 只有 venir 变位，de 后的动词用不定式。\n- de 后遇元音或哑音 h 必须省音：d'arriver、d'habiter；辅音前保留 de：de partir。\n- 最近过去强调「刚刚」，不强调动作本身完成；与复合过去时的区别见下一张卡。\n\n边界：venir de + 名词或地点表示「来自」（Je viens de Paris），不是最近过去；de 后接不定式才是最近过去。现在时本身不能表示「刚刚发生」，要强调刚刚发生必须用 venir de + 不定式。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u1-3",
+      "title": "最近将来、最近过去与过去参照点",
+      "body": "两种结构按时间方向对立：aller + 不定式指向即将发生，venir de + 不定式指向刚刚发生。选择时先看动作相对于参照点是「还没发生」还是「已经完成」。\n\n- Je vais sortir.（我这就出去。）\n- Je viens de sortir.（我刚出去。）\n- Le train va partir.（火车要开了。）\n- Le train vient de partir.（火车刚开走。）\n\n常见时间标志：\n- 最近将来：dans un instant、tout de suite、ce soir、la semaine prochaine\n- 最近过去：à l'instant、juste、il y a deux minutes、ce matin\n\n过去参照点：把 venir 变成未完成过去时，就得到「在过去某一时刻刚刚发生」：\n- Quand je suis arrivé, il venait de partir.（我到的时候，他刚走。）\n- Elle venait de se coucher quand le téléphone a sonné.（电话响时她刚躺下。）\n\n要点：\n- 过去最近过去用 venir 的未完成过去时（venais, venait, venions, venaient）+ de + 不定式，不能用现在时 venir。\n- venir de + 地点表示「来自某地」，与最近过去结构形似但意义不同：Il vient de Lyon.（他来自里昂。）\n- 复合过去时只说明动作已完成，不强调「刚刚」：Il a fini.（他做完了。）\n\n边界：本单元只处理过去最近过去；过去最近将来（allait + 不定式）在后续单元另列。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u2-1",
+      "title": "简单将来时：规则构成",
+      "body": "简单将来时以不定式词干加统一词尾 -ai, -as, -a, -ons, -ez, -ont 构成。词尾不因动词组别而改变。\n\n- 第一组 -er：parler → je parlerai, tu parleras, il parlera, nous parlerons, vous parlerez, ils parleront\n- 第二组 -ir：finir → je finirai, nous finirons, ils finiront\n- 规则第三组 -re：去掉不定式末尾的 e，再加词尾：vendre → je vendrai, nous vendrons；attendre → j'attendrai；répondre → il répondra\n- 部分第三组 -ir：ouvrir → j'ouvrirai；partir → je partirai；sortir → il sortira；dormir → nous dormirons\n\n例：\n- Demain, nous visiterons le musée.（明天我们要参观博物馆。）\n- Elle vendra sa voiture.（她将卖掉她的车。）\n- Ils partiront tôt.（他们将早走。）\n\n要点：\n- -re 动词去 e 是构成规则，不是拼写例外；但 prendre、faire 等不规则 -re 动词另用特殊词干。\n- 不是所有动词都用不定式词干：être、avoir、aller、faire、venir/tenir 等见后续卡片。\n\n边界：本卡只处理规则词干；-er 动词的拼写调整与特殊词干分别另列。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u2-2",
+      "title": "-er 动词的将来时拼写调整",
+      "body": "第一组动词的将来时词尾不变，但不定式词干在书写上可能调整。调整只发生在词干，不改变 -ai/-as/-a/-ons/-ez/-ont。\n\n1. e → è：acheter → j'achèterai；lever → je lèverai；mener → je mènerai；peser → je pèserai\n2. 双写 l 或 t：appeler → j'appellerai；jeter → je jetterai；rappeler → je rappellerai\n3. y → i：nettoyer → je nettoierai；employer → j'emploierai；essayer → j'essaierai\n4. 保留 é：préférer → je préférerai；espérer → j'espérerai；répéter → je répéterai\n\n例：\n- J'appellerai mes parents dimanche.（我周日会给父母打电话。）\n- Elle achètera du pain.（她会买面包。）\n- Nous nettoierons la cuisine.（我们会打扫厨房。）\n- Ils préféreront le train.（他们会更喜欢火车。）\n\n要点：\n- 不要把现在时的拼写变化（如 commençons、mangeons）搬到将来时；将来时词干是整不定式，commencer → commencerai，manger → mangerai。\n- -ayer 动词允许保留 y（payer → payerai）或改为 i（paierai），两种规范都有；本课练习以 y→i 的常见形式为主。\n\n边界：c/ç、g/ge 的变化属于现在时或未完成过去时，不属于将来时拼写规则。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u2-3",
+      "title": "être 与 avoir 的简单将来时",
+      "body": "être 的简单将来时用词干 ser-，avoir 用词干 aur-，后接统一词尾 -ai/-as/-a/-ons/-ez/-ont。\n\nêtre：je serai, tu seras, il/elle sera, nous serons, vous serez, ils/elles seront\navoir：j'aurai, tu auras, il/elle aura, nous aurons, vous aurez, ils/elles auront\n\n例：\n- Je serai là à huit heures.（我八点会在那里。）\n- Nous aurons une réunion demain.（我们明天有一个会议。）\n- Ils seront contents de te voir.（他们会很高兴见到你。）\n- Elle aura vingt ans l'année prochaine.（她明年二十岁。）\n\n要点：\n- 不要把 ser- 与未完成过去时的 ét- 混同：j'étais（过去）≠ je serai（将来）。\n- 不要把 aur- 与复合过去时的 eu 混同。\n- ser-、aur- 只用于 être、avoir，不要套到其他动词。\n\n边界：本卡只处理这两个动词的简单将来时；其他不规则词干见下一张卡。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u2-4",
+      "title": "高频不规则将来时词干",
+      "body": "高频不规则动词的将来时词干需要单独记，词尾仍是统一的 -ai/-as/-a/-ons/-ez/-ont。\n\n- aller → ir-：j'irai, nous irons\n- faire → fer-：je ferai, ils feront\n- savoir → saur-：je saurai\n- vouloir → voudr-：je voudrai\n- pouvoir → pourr-：je pourrai\n- devoir → devr-：je devrai\n- falloir → faudr-：il faudra（无人称，只用第三人称单数）\n- valoir → vaudr-：il vaudra\n- courir → courr-：je courrai（双 r）\n- mourir → mourr-：je mourrai（双 r）\n- cueillir → cueiller-：je cueillerai\n- tenir → tiendr-：je tiendrai\n- venir → viendr-：je viendrai\n- pleuvoir → pleuvr-：il pleuvra（无人称）\n\n例：\n- L'été prochain, nous irons en Italie.（明年夏天我们去意大利。）\n- Il faudra réserver à l'avance.（必须提前预订。）\n- Ils viendront demain.（他们明天来。）\n\n要点：\n- courir、mourir 的将来时词干双写 r，不要写成 courerai、mourai。\n- tenir/venir 及派生词（revenir、obtenir）用 -iendr-。\n- 本组 -oir 动词按个别词干记，不能总结成统一的 -oir 规则；voir、envoyer、recevoir 另列。\n\n边界：无人称动词只按第三人称单数处理；不要把个别词干推广到同组其他动词。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u2-5",
+      "title": "-aître 动词：-aîtr- 词干",
+      "body": "-aître 动词的简单将来时词干是 -aîtr-：在不定式词干上保留 î，并去掉词尾的 -e，再加统一词尾。该词干不含 d。\n\n- connaître → je connaîtrai, tu connaîtras, il connaîtra, nous connaîtrons, vous connaîtrez, ils connaîtront\n- paraître → je paraîtrai, il paraîtra\n- apparaître → il apparaîtra\n- disparaître → ils disparaîtront\n\n例：\n- Je connaîtrai la réponse demain.（明天我就知道答案了。）\n- Le livre paraîtra en septembre.（这本书九月出版。）\n- Les clés disparaîtront comme par magie.（钥匙会像变魔术一样消失。）\n\n要点：\n- 词干写 -aîtr-，不要写成 -aiter-，也不要加 d（*connaidrai 错）。\n- 不要与未完成过去时的 -aiss- 词干混淆：je connaissais（过去）≠ je connaîtrai（将来）。\n- 该词干只用于 -aître 类动词，不要套到 peindre/éteindre 等 -aindre/-eindre 动词上。\n\n边界：本卡只处理 -aître 类；-aindre/-eindre 的 -dr- 词干见下一张卡。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u2-6",
+      "title": "-aindre/-eindre 动词：-dr- 词干",
+      "body": "-aindre/-eindre 动词的简单将来时词干是 -dr-：保留原词干中的 d，去掉不定式末尾的 -re，再加统一词尾。\n\n- peindre → je peindrai, il peindra, nous peindrons\n- éteindre → j'éteindrai, ils éteindront\n- craindre → je craindrai\n- plaindre → il plaindra\n\n例：\n- Il peindra le mur samedi.（他周六刷墙。）\n- J'éteindrai la lumière en sortant.（我出去时会关灯。）\n- Ils craindront le froid.（他们会怕冷。）\n\n要点：\n- 词干中的 d 不能省略：peindrai，不是 *peinrai。\n- 不要把 -dr- 词干与 -aître 的 -aîtr- 词干混同：peindrai ≠ paraîtrai。\n- 该词干只用于 -aindre/-eindre 类，不要推广到其他第三组动词。\n\n边界：本卡只处理 -aindre/-eindre 类；规则 -re 动词去 e 的构成见规则构成卡。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u2-7",
+      "title": "voir、envoyer、recevoir 的将来时词干",
+      "body": "voir 的将来时词干是 verr-；envoyer/renvoyer 是 enverr-/renverr-；recevoir/apercevoir/décevoir 是 recevr-/apercevr-/décevr-。这些词干后接统一词尾。\n\n- voir → je verrai, tu verras, il verra, nous verrons, vous verrez, ils verront\n- envoyer → j'enverrai, tu enverras, il enverra\n- renvoyer → je renverrai\n- recevoir → je recevrai, il recevra, nous recevrons\n- apercevoir → j'apercevrai\n- décevoir → il décevra\n\n例：\n- Nous verrons le résultat demain.（我们明天会看到结果。）\n- Je t'enverrai un message.（我会给你发消息。）\n- Ils recevront les invitations lundi.（他们周一收到邀请。）\n\n要点：\n- voir 和 envoyer 的将来时词干都带双 r；envoyer 的 y 在将来时不再出现。\n- recevoir 类词干是 recevr-，不要写成 *recevoirai。\n- 不要把双 r 词干推广到其他 -oir 动词：devoir → devrai，不是 *deverrai。\n\n边界：本卡只处理这三组词干；其他 -oir 动词的不规则词干见不规则词干卡。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u3-1",
+      "title": "简单将来时的意义：近将来与远将来",
+      "body": "简单将来时表示相对说话时刻将要发生的动作、状态或计划。它本身不限定远近：时间远近由时间状语和语境决定，同一个形式既可指几分钟后，也可指几年后。\n\n- Je partirai dans cinq minutes.（我五分钟后出发。）——近\n- Nous habiterons peut-être à l'étranger dans dix ans.（十年后我们也许住在国外。）——远\n- Elle sera là ce soir.（她今晚会在。）\n- Un jour, tu comprendras.（总有一天你会明白。）\n\n与最近将来时的分工：\n- aller + 不定式更强调「即将发生、已经决定」，口语中更常见：Je vais partir.（我这就走。）\n- 简单将来时更常用于较远、较正式或书面化的陈述：Je partirai demain matin.（我明天早上出发。）\n- 两者意义接近，但不能机械互换；语域、时间距离和语境都会影响选择。\n\n要点：\n- 不要因为简单将来时就默认「远将来」；dans une minute 也可用简单将来时。\n- 也不要把最近将来时限定为唯一的口语形式；正式场合同样可以使用简单将来时。\n\n边界：本卡只处理时间意义和两种将来表达的倾向性差异；最近将来时的构成见 U1。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u3-2",
+      "title": "从简单将来时转到命令式",
+      "body": "把简单将来时的陈述改成命令式，需要：1）取相应人称的命令式形式；2）去掉主语代词；3）保留时间状语、否定结构和并列关系。命令式一般由现在时形式构成，但 tu 形式有特殊规则。\n\n人称对应：\n- tu：Tu partiras. → Pars. / Tu finiras. → Finis.（-er 动词和 aller 的 tu 命令式去掉词尾 s）\n- nous：Nous partirons. → Partons.\n- vous：Vous partirez. → Partez.\n\n不规则命令式：\n- être：Sois / Soyons / Soyez\n- avoir：Aie / Ayons / Ayez\n- aller：Va / Allons / Allez\n- savoir：Sache / Sachons / Sachez\n- faire：Fais / Faisons / Faites\n- venir：Viens / Venons / Venez\n\n否定与代词：\n- Tu ne partiras pas. → Ne pars pas.\n- Tu iras à la piscine. → N'y va pas.（aller 的 tu 命令式仍去 s）\n- Vous vous lèverez tôt. → Levez-vous tôt.\n\n要点：\n- -er 动词和 aller 的 tu 命令式去 s；prendre、faire 等不去 s（Prends、Fais）。\n- 否定命令式中，ne 放在动词前，pas 放在动词后；代词位置按命令式规则调整。\n- 并列句要逐句转换，各分句人称可以不同。\n\n边界：本卡只处理将来时陈述与命令式的对应；命令式的基本构成和代词位置另见相关单元。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u3-3",
+      "title": "简单将来时表示命令、建议或委婉请求",
+      "body": "简单将来时可以代替现在命令式，借语调和语境表达命令、建议或委婉请求。此时重点不是将来时间，而是说话人对听话人的要求或态度。\n\n- Vous fermerez la porte en partant.（您走的时候把门关上。）——委婉的命令\n- Tu me rapporteras le livre demain.（你明天把书带给我。）——吩咐\n- Vous m'enverrez le dossier, s'il vous plaît.（请您把材料发给我。）——礼貌请求\n- On se verra demain ?（明天见？）——约定\n\n判断要点：\n- 有明确将来时间状语、只是陈述计划时，是时间意义：Je partirai demain.（我明天出发。）\n- 没有将来时间、面对听话人提出要求时，才可能是命令或请求：Tu fermeras la fenêtre.（你把窗户关上。）\n- 语气比命令式缓和，但仍可带明确的要求；s'il vous plaît 等标记有助于判断。\n\n边界：该用法依赖语调和语境，不能仅凭将来时形式判定；不要把一切将来时句子都解释为命令或建议。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u4-1",
+      "title": "条件式现在时的构成：将来时词干 + 未完成过去时词尾",
+      "body": "条件式现在时由简单将来时词干加未完成过去时词尾构成：-ais、-ais、-ait、-ions、-iez、-aient。词干与简单将来时完全一致，所以先要能说出该动词的将来时词干；六个人称的词尾都要写全。\n\n规则动词：\n- parler → je parlerais, tu parlerais, il parlerait, nous parlerions, vous parleriez, ils parleraient\n- finir → je finirais, nous finirions\n- vendre → je vendrais, nous vendrions（将来时词干是 vendr-，不要写成 *venderais）\n\n常见不规则词干：\n- être → ser-：je serais, nous serions\n- avoir → aur-：j'aurais, vous auriez\n- aller → ir-：j'irais, ils iraient\n- faire → fer-：je ferais\n- pouvoir → pourr-：je pourrais\n- vouloir → voudr-：je voudrais\n- venir → viendr-：je viendrais\n- savoir → saur-：je saurais\n- voir → verr-：je verrais\n- devoir → devr-：je devrais\n\n要点：\n- 条件式词尾与未完成过去时相同，但词干来自将来时，不是现在时词干：nous parlions 是未完成过去时，nous parlerions 是条件式。\n- -re 动词的将来时词干保留 r：vendre → vendr- → je vendrais。\n- je serais（条件式）与 je serai（简单将来时）只差词尾，注意区分。\n\n边界：本卡只处理条件式现在时的形式；它在礼貌、建议、愿望、想象和过去将来中的用法见后续卡片。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u4-2",
+      "title": "条件式现在时的礼貌用法",
+      "body": "条件式现在时可以把请求、提问或意愿说得更委婉，语气比直陈式现在时轻，而且不表示过去时间。常见于 vouloir、pouvoir、aimer、désirer 等动词。\n\n- Je voudrais un café, s'il vous plaît.（我想要一杯咖啡，谢谢。）——比 Je veux un café 委婉\n- Pourriez-vous fermer la fenêtre ?（您能把窗户关上吗？）\n- Auriez-vous un moment ?（您有空吗？）\n- J'aimerais vous poser une question.（我想向您提个问题。）\n- Serait-il possible de partir plus tôt ?（可以早点走吗？）\n\n要点：\n- 礼貌条件式多用于面向对方的请求或询问，时间指向现在或将来。\n- 倒装疑问中要保留连字符：Pourriez-vous... ? / Auriez-vous... ?\n- 条件式比现在时缓和，但仍表达明确的请求；不要误解为过去。\n\n边界：本卡只处理礼貌用法；愿望、建议与想象另列。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u4-3",
+      "title": "条件式现在时的委婉建议",
+      "body": "条件式现在时可以用来提出委婉建议，常见结构有 tu devrais / vous devriez + 不定式、il faudrait + 不定式、il vaudrait mieux + 不定式、on pourrait + 不定式。语气比命令式或 devoir 的现在时弱，不直接施加义务。\n\n- Tu devrais te reposer.（你应该休息一下。）\n- Vous devriez réserver une table.（您最好订个位子。）\n- Il faudrait partir avant la nuit.（最好在天黑前出发。）\n- Il vaudrait mieux attendre demain.（最好等到明天。）\n- On pourrait demander conseil au professeur.（我们可以去问老师的意见。）\n\n要点：\n- 建议对象是 tu/vous 时，用 devrais/devriez；无人称建议用 il faudrait / il vaudrait mieux。\n- il faudrait 来自 falloir，只有第三人称单数；il vaudrait 来自 valoir。\n- 这类建议保留条件式的缓和语气，不是过去时。\n\n边界：本卡只处理建议；命令式的直接要求与条件式的礼貌请求要分开判断。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u4-4",
+      "title": "条件式现在时的愿望表达",
+      "body": "条件式现在时也用来表达愿望、偏好或希望，语气比直陈式现在时委婉，常由 aimer、vouloir、souhaiter 等动词引出。愿望可以是关于自己的，也可以是关于别人的。\n\n- J'aimerais habiter près de la mer.（我想住在海边。）\n- Je voudrais apprendre le piano.（我想学钢琴。）\n- Nous souhaiterions vous revoir bientôt.（我们希望很快再见到您。）\n- Elle aimerait partir avec nous.（她想和我们一起走。）\n- J'aimerais tant voyager en Asie.（我多想去亚洲旅行啊。）\n\n要点：\n- aimerais / voudrais / souhaiterions 都比现在时更委婉，不代表过去。\n- 愿望与礼貌请求有重叠：面向自己多为愿望，面向对方多为请求，要结合语境判断。\n- vouloir 的条件式是 voudrais，不是 *voulerais。\n\n边界：本卡只处理条件式现在时的愿望用法；si 引导的假设愿望另见 U6。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u4-5",
+      "title": "条件式现在时的想象用法",
+      "body": "在设想、角色扮演或非现实情境中，条件式现在时用来描述「如果处在某种情况下会发生什么」，常与 à ta place、dans un monde idéal、dans ce jeu 等语境词共现。\n\n- À ta place, je choisirais la deuxième solution.（换作是我，我会选第二个方案。）\n- Dans un monde idéal, tout le monde serait égal.（在理想世界里，人人平等。）\n- Dans ce jeu, tu serais un explorateur.（在这个游戏里，你会是一名探险家。）\n- Sans toi, la fête serait moins amusante.（没有你，聚会会没那么有趣。）\n\n要点：\n- 想象用法描述的是设想中的结果，不是对现实将来的预测；现实预测用简单将来时。\n- 常与 à ta place / sans... / dans un monde idéal 等非现实标记共现。\n- 条件式形式仍按将来时词干构成：serais、serait、serions。\n\n边界：本卡只处理想象语境；si 从句与主句的时态配对见 U6。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u5-1",
+      "title": "条件式过去时的构成：助动词条件式 + 过去分词",
+      "body": "条件式过去时由助动词 avoir 或 être 的条件式现在时加过去分词构成。助动词的选择与复合过去时一致：多数动词用 avoir，表示移动、状态变化及代词式动词通常用 être。\n\n用 avoir：\n- j'aurais fini（我本来会完成）\n- tu aurais pris\n- il aurait écrit\n- nous aurions attendu\n- vous auriez compris\n- ils auraient répondu\n\n用 être：\n- elle serait partie\n- nous serions venus\n- ils seraient arrivés\n\n要点：\n- 先变助动词：aurais / aurais / aurait / aurions / auriez / auraient；serais / serais / serait / serions / seriez / seraient。\n- 过去分词要记不规则形式：eu、été、fait、dit、écrit、pris、mis、vu、pu、dû、su、voulu、venu、parti。\n- 不要用简单将来时助动词：il aura fini 是直陈式先将来时（futur antérieur），不是条件式过去时。\n\n边界：本卡只处理构成与助动词选择；分词配合见下一张卡。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u5-2",
+      "title": "条件式过去时的分词配合",
+      "body": "条件式过去时的分词配合规则与复合过去时一致。核心是看助动词。\n\n1. 助动词为 être 的非代词式动词，分词通常与主语作性数配合：\n- Elle serait partie.（她本来会离开。）\n- Ils seraient venus.（他们本来会来。）\n- Les filles seraient arrivées plus tôt.（女孩们本来会更早到。）\n\n2. 助动词为 avoir 时，分词不随主语变化；但前置的直接宾语可以触发配合：\n- Elle aurait écrit une lettre.（她本来会写一封信。）——不写 *écrite\n- Les lettres qu'elle aurait écrites.（她本来会写的那些信。）——前置直接宾语 les lettres 是阴性复数，écrit 加 -es\n\n3. 代词式动词要看自反代词的角色：自反代词是直接宾语时与主语配合，是间接宾语时不配合：\n- Elle se serait levée tôt.（她本来会早起。）——se 是 lever 的直接宾语\n- Nous nous serions parlé.（我们本来会交谈。）——se 是 parler 的间接宾语，不配合\n\n要点：\n- avoir + 主语：不配合；avoir + 前置直接宾语：按该宾语配合。\n- être + 非代词式动词：按主语配合。\n- 代词式动词不能一概按主语处理。\n\n边界：本卡只处理条件式过去时中的配合；复合过去时的同一规则可迁移，但不在本卡展开。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u5-3",
+      "title": "条件式过去时的先将来用法（识别）",
+      "body": "条件式过去时还可以表示「在过去参照点之前已经完成的将来动作」，常称为先将来。判断关键是：句中必须有一个过去的参照点，动作从那个参照点看是「将要完成」，并且先于参照点之后的另一个时刻。\n\n- Il m'a dit qu'il aurait terminé avant mon retour.（他告诉我，他会在我的回来之前完成。）——参照点是 m'a dit；aurait terminé 从过去视角看，先于 mon retour 完成\n- Elle a promis qu'elle aurait fini à midi.（她答应中午前会完成。）\n- Nous espérions qu'ils auraient envoyé le dossier avant lundi.（我们当时希望他们会在周一前寄出材料。）\n\n对比：\n- Il a dit qu'il partirait le lendemain.（他说他第二天会走。）——过去将来，动作在参照点之后\n- Il a dit qu'il serait déjà parti avant midi.（他说他中午前就已经走了。）——先将来，动作在参照点之前完成\n\n要点：\n- 必须有明确的过去参照点；没有参照点就不能判定为「过去的先将来」。\n- 时间先后由参照点决定，不要只看条件式过去时的形式。\n\n边界：本概念只要求识别，不要求产出；与纯粹表示反事实的 si + 愈过去时 + 条件式过去时区分。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u6-1",
+      "title": "si 条件从句不能用条件式",
+      "body": "si 引导条件从句时，从句动词不能使用条件式；要根据假设类型选择现在时、未完成过去时或愈过去时。条件式只出现在主句或独立句中，不出现在条件 si 从句里。\n\n- 对：Si j'ai le temps, je viendrai.（如果我有时间，我就来。）\n- 错：*Si j'aurai le temps, je viendrai.\n- 对：Si j'avais le temps, je viendrais.（如果我有时间，我就会来。）\n- 错：*Si j'aurais le temps, je viendrais.\n- 对：Si j'avais su, je serais venu.（如果我当时知道，我就会来了。）\n- 错：*Si j'aurais su, je serais venu.\n\n要点：\n- 条件 si 从句的三类搭配：si + 现在时 → 主句将来时/现在时（或命令式）；si + 未完成过去时 → 主句条件式现在时；si + 愈过去时 → 主句条件式过去时。\n- 这条限制只针对条件 si；疑问句或引述中的 si 不受此限。\n\n边界：本卡只处理条件 si 从句的时态限制；三种搭配的细节见后续卡片。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u6-2",
+      "title": "si + 现在时，主句将来时",
+      "body": "表示现实可能的条件时，si 从句用现在时，主句用简单将来时；主句也可以根据语境用现在时或命令式来交代结果。si 从句不能用简单将来时。\n\n- Si tu viens, nous irons au cinéma.（如果你来，我们就去看电影。）\n- S'il fait beau demain, nous sortirons.（如果明天天气好，我们就出门。）\n- Si tu as fini, tu peux partir.（如果你做完了，可以走。）——主句现在时\n- Si vous êtes prêts, partez !（如果你们准备好了，就出发吧！）——主句命令式\n\n要点：\n- si 从句用现在时，主句通常用将来时；不要写成 *Si tu viendras。\n- 条件越现实、越可能实现，越常用这一组合。\n- 主句用现在时或命令式时，结果仍然是现实可行的。\n\n边界：本卡只处理 si + 现在时；低可能性假设用未完成过去时，过去反事实用愈过去时。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u6-3",
+      "title": "si + 未完成过去时，主句条件式现在时",
+      "body": "当 si 从句用未完成过去时，主句通常用条件式现在时。这一组合可以表示较低可能性的假设、与现在事实相反、对未来的设想，也可以用于委婉建议。\n\n- Si j'avais plus de temps, je voyagerais.（如果我有更多时间，我就会去旅行。）\n- Si nous habitions à la campagne, nous aurions un jardin.（如果我们住在乡下，就会有个花园。）\n- Si tu venais demain, nous pourrions visiter le musée.（如果你明天来，我们就能参观博物馆。）\n- Si on prenait un taxi, on arriverait plus vite.（如果我们打车，会更快到。）\n\n要点：\n- si 从句用未完成过去时，主句用条件式现在时；主句不能用简单将来时，si 从句不能用条件式。\n- 这一组合不一律表示「与事实相反」，也可能只是低可能性或委婉设想，要结合语境。\n\n边界：本卡处理 si + 未完成过去时与主句条件式现在时的配对；该结构在语境中的识别见下一张卡，愈过去时另列。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u6-4",
+      "title": "si + 未完成过去时的语境识别（识别）",
+      "body": "si + 未完成过去时不一定都表示「与现在事实相反」。它常用于三类语境：对现在或未来的低可能性假设、委婉请求或建议，以及说话人明知不太可能实现的设想。理解时要看主句和上下文，不能机械地一律解释为反事实。\n\n- Si tu pouvais fermer la porte, ce serait gentil.（如果你能把门关上，那就太好了。）——委婉请求，不是反事实\n- Si j'avais un million d'euros, j'achèterais une île.（如果我有一百万欧元，我就买一座岛。）——低可能性设想，也可能只是想象\n- Si nous partions plus tôt, nous éviterions les embouteillages.（如果我们早点出发，就能避开堵车。）——对未来的低可能性设想\n- Si seulement j'avais plus de temps !（要是我有更多时间就好了！）——独立 si 从句，表示愿望或遗憾，没有主句配对\n\n要点：\n- 有主句时，主句通常用条件式现在时；这是形式配对，不自动等于「与事实相反」。\n- 独立或省略主句的 si 从句不适用主句配对规则，要按愿望、遗憾、委婉请求等语境理解。\n- 判断现实性要看上下文，不能只看 si + 未完成过去时这一形式。\n\n边界：本概念只要求识别，不要求产出；si + 现在时与 si + 愈过去时另列。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u6-5",
+      "title": "si + 愈过去时，主句条件式过去时",
+      "body": "表示与过去事实相反的假设时，si 从句用愈过去时（avoir/être 的未完成过去时 + 过去分词），主句用条件式过去时。该组合说明结果在当时并未实现。\n\n- Si j'avais su, je serais venu.（如果我当时知道，我就会来了。）——实际上我不知道，也没来\n- Si elle avait étudié, elle aurait réussi.（如果她当时学习，她就会通过了。）\n- S'il n'avait pas plu, nous serions sortis.（如果当时没下雨，我们就出门了。）\n- Si nous étions partis plus tôt, nous n'aurions pas manqué le train.（如果我们早点出发，就不会错过火车了。）\n\n要点：\n- si 从句用愈过去时，主句用条件式过去时；si 从句不能用条件式过去时。\n- 用 être 作助动词时，愈过去时和条件式过去时的分词都要与主语配合：elle était partie / elle serait partie。\n- 这一组合只用于过去非现实，不能用于真实可能的条件。\n\n边界：本卡处理过去反事实；现在或未来的低可能性假设用 si + 未完成过去时 + 条件式现在时。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u6-6",
+      "title": "假设段落中的时态统筹",
+      "body": "在整段假设性文字中，时态要按每句话的条件类型分别安排，不能拿一个时态机械替换全篇。常见组合：\n\n- 现实可能：si + 现在时 → 主句简单将来时（或现在时/命令式）\n- 低可能性或现在反事实：si + 未完成过去时 → 主句条件式现在时\n- 过去反事实：si + 愈过去时 → 主句条件式过去时\n\n例段：\n« Si j'ai le temps ce week-end, j'irai au marché. Si j'avais une voiture, j'irais plus loin. Mais l'année dernière, si j'avais eu une voiture, j'aurais visité la côte. »（如果这周末我有时间，我会去市场。如果我有车，我会去更远的地方。但去年如果我有车，我就会去海岸看看。）\n\n要点：\n- 先判断每句的条件类型，再选 si 从句时态与主句时态。\n- 同一段里可以出现不同组合，但每一组内部必须配对。\n- 注意主句的否定、代词位置和分词配合，不能只改动词时态。\n\n边界：本卡只做段落层面的时态统筹；三类组合的细节分别见前几张卡。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u7-1",
+      "title": "过去将来时：从过去的视角看将来",
+      "body": "过去将来时用条件式现在时表达：当主句是过去时（未完成过去时或复合过去时），从句中发生在那个过去视角之后的事要用条件式现在时，不能机械保留简单将来时。\n\n- Il m'a dit qu'il arriverait le lendemain.（他告诉我他第二天到。）——主句 a dit 是复合过去时，参照点在过去\n- Elle savait qu'elle devrait partir avant la nuit.（她知道她得在天黑前离开。）\n- Nous espérions que vous viendriez à la fête.（我们当时希望你们会来参加聚会。）\n- Je pensais que la réunion commencerait à neuf heures.（我当时以为会议九点开始。）\n\n对比：\n- Il dit qu'il arrivera demain.（他说他明天到。）——主句现在时，从句用简单将来时\n- Il a dit qu'il arriverait le lendemain.（他当时说他第二天到。）——主句过去时，从句改用条件式现在时\n\n要点：\n- 主句可用未完成过去时或复合过去时；判断依据是有没有一个过去的参照点。\n- 条件式现在时的词干与简单将来时相同，词尾是 -ais/-ais/-ait/-ions/-iez/-aient：viendr- → viendrait，fer- → ferait，ser- → serait。\n- 过去将来只说明“在那个过去时刻之后”，不说明动作后来是否真的发生。\n- 时间指示词常随参照点后移：demain → le lendemain，hier → la veille，aujourd'hui → ce jour-là。\n\n边界：本卡只处理“过去主句 + 条件式现在时”的将来视角；条件式过去时表示过去参照点之前已完成的先将来，只作识别，另见 U5；不要把过去将来与表示委婉或假设的条件式用法混为一谈。"
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u7-2",
+      "title": "过去最近将来：aller 的未完成过去时 + 不定式",
+      "body": "过去最近将来用 aller 的未完成过去时（allais, allais, allait, allions, alliez, allaient）加不定式，表示在过去某一参照时刻即将发生的动作。\n\n- Quand je suis arrivé, elle allait partir.（我到的时候，她正要离开。）\n- Le film allait commencer quand nous sommes entrés.（我们进来时，电影就要开始了。）\n- Il pleuvait, et les enfants allaient rentrer.（当时下着雨，孩子们正要回家。）\n- Nous allions téléphoner quand tu as appelé.（你打电话来时，我们正要给你打电话。）\n\n与实义 aller 的区别：\n- Elle allait à la gare quand je l'ai vue.（我看见她时，她正去火车站。）——aller + 地点，表示移动\n- Elle allait prendre le train quand je l'ai vue.（我看见她时，她正要赶火车。）——aller + 不定式，表示即将发生\n\n要点：\n- 结构是「aller 的未完成过去时 + 不定式」，不是 aller 现在时 + 不定式；后者用于现在参照点。\n- 只用于过去参照点；现在即将发生用 vais/vas/va + 不定式。\n- 常与 quand、au moment où、déjà 等时间成分共现，但不能只靠副词判断。\n- 与简单将来时不同：过去最近将来强调“马上、正要”，参照点在过去。\n\n边界：不要把 aller 的实义移动用法当成最近将来；不要把过去最近将来与条件式现在时的“过去将来”混同——前者强调临近，后者只表示过去视角中的一般将来。代词式动词和否定结构照常：Elle allait se coucher. / Il n'allait pas partir."
+    },
+    {
+      "id": "pub-c13-future-conditional-card-u7-3",
+      "title": "时间参照的三层：过去将来、过去最近将来与过去最近过去",
+      "body": "同一个过去参照点，可以向前看、看即将发生，也可以回头看刚发生。三种结构的分工如下：\n\n1. 过去将来（条件式现在时）：Il m'a dit qu'il partirait le lendemain.（他告诉我他第二天走。）\n2. 过去最近将来（aller 未完成过去时 + 不定式）：Il allait partir quand je suis arrivé.（我到的时候他正要走。）\n3. 过去最近过去（venir 未完成过去时 + de + 不定式）：Il venait de partir quand je suis arrivé.（我到的时候他刚走。）\n\n对比：\n- Quand j'ai appelé, elle allait sortir.（正要出门——还没出）\n- Quand j'ai appelé, elle venait de sortir.（刚出门——已经不在）\n- Quand j'ai appelé, elle est sortie.（已经出门——单纯叙述完成）\n\n时间词：\n- 过去将来常配 le lendemain、le jour suivant、quelques jours plus tard。\n- 过去最近将来常配 sur le point de、déjà，或由 quand 从句给出参照时刻。\n- 过去最近过去由 venir de 构成，常与 tout juste、à l'instant 连用。\n\n要点：\n- 先找参照点：参照点在现在，用现在时一套；参照点在过去，要把 aller/venir 变成未完成过去时，把将来改成条件式现在时。\n- 过去将来不等于“动作一定发生”；它只表示过去视角中的将来。\n- 三种结构都围绕同一个过去时刻，不能把参照点混到说话时刻。\n\n边界：本卡只做三种时间关系的对比；条件式过去时的先将来（aurait fini）只识别，不在此产出。venir de + 地点表示来源，不是最近过去。"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pub-c13-future-conditional-l1",
+      "title": "最近将来与最近过去",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c13-future-conditional-l1-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Demain, nous ___ visiter le musée. » (aller, présent)",
+          "options": [
+            "allons",
+            "allez",
+            "vont",
+            "va"
+          ],
+          "answer": 0,
+          "translation": "明天我们要参观博物馆。",
+          "explain": "最近将来时由 aller 的现在时加不定式构成；主语 nous 对应 allons，后面 visiter 保持不定式。allez 是 vous 的形式，vont 是 ils/elles 的形式，va 是 il/elle 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q2",
+          "type": "tiles",
+          "prompt": "Mettez au pluriel en gardant « aller + infinitif » : « Le train va partir. » → ___",
+          "answer": [
+            "Les",
+            "trains",
+            "vont",
+            "partir."
+          ],
+          "bank": [
+            "Les",
+            "trains",
+            "vont",
+            "partir.",
+            "Le",
+            "train",
+            "va",
+            "part",
+            "partis",
+            "partiront"
+          ],
+          "translation": "火车要开了。→ 这些火车要开了。",
+          "explain": "主语 le train 变复数 les trains，aller 相应变为 vont；不定式 partir 不变。part 是现在时 il/elle 的形式，partiront 是简单将来时，均不符合最近将来时的结构。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q3",
+          "type": "choice",
+          "prompt": "— Tu pars déjà ? — Oui, je ___ dans une minute.",
+          "options": [
+            "viens de partir",
+            "vais partir",
+            "suis parti",
+            "partais"
+          ],
+          "answer": 1,
+          "translation": "——你这就走了？——是的，我一分钟后就走。",
+          "explain": "dans une minute 指向即将发生的动作，用 aller 的现在时加不定式：je vais partir。venir de + 不定式表示刚刚发生，与 dans une minute 矛盾；复合过去时和未完成过去时都不能表示即将发生。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q4",
+          "type": "tiles",
+          "prompt": "Transformez avec « venir de » : « J'arrive. » → ___",
+          "answer": [
+            "Je",
+            "viens",
+            "d'arriver."
+          ],
+          "bank": [
+            "Je",
+            "viens",
+            "d'arriver.",
+            "J'",
+            "vient",
+            "de",
+            "arriver.",
+            "viens de",
+            "suis",
+            "arrivé."
+          ],
+          "translation": "我刚到。",
+          "explain": "最近过去时用 venir 的现在时 + de + 不定式；主语 je 对应 viens。arriver 以元音开头，de 省音为 d'，写成 d'arriver。vient 是 il/elle 的形式，de arriver 没有省音。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q5",
+          "type": "choice",
+          "prompt": "Quelle phrase correspond le mieux à « 她刚刚写完 » ?",
+          "options": [
+            "Elle a fini.",
+            "Elle finit.",
+            "Elle vient de finir.",
+            "Elle va finir."
+          ],
+          "answer": 2,
+          "translation": "她刚刚写完。",
+          "explain": "「刚刚做完」用最近过去时 venir de + 不定式：Elle vient de finir。复合过去时 Elle a fini 只说明动作已完成，不强调「刚刚」；Elle finit 是现在时，Elle va finir 是最近将来时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q6",
+          "type": "letters",
+          "prompt": "Complétez : « Nous ___ d'arriver. » (venir, présent)",
+          "answer": "venons",
+          "decoys": [
+            "a",
+            "e",
+            "s",
+            "t"
+          ],
+          "translation": "我们刚到。",
+          "explain": "主语 nous 对应 venir 的现在时 venons；d' 是 de 在元音前的省音，已经写在题干中。不要写成 vient（il/elle）或 venez（vous）。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q7",
+          "type": "choice",
+          "prompt": "Quand je suis arrivé, ils ___ de partir.",
+          "options": [
+            "viennent",
+            "viendront",
+            "étaient venus",
+            "venaient"
+          ],
+          "answer": 3,
+          "translation": "我到的时候，他们刚走。",
+          "explain": "主句参照点是过去（je suis arrivé），「刚刚走」要用 venir 的未完成过去时 + de + 不定式：ils venaient de partir。viennent 是现在时，viendront 是将来时，étaient venus 是愈过去时，都不表示过去参照点之前的「刚刚」。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q8",
+          "type": "letters",
+          "prompt": "Quand le téléphone a sonné, nous ___ de nous asseoir. (venir, imparfait)",
+          "answer": "venions",
+          "decoys": [
+            "a",
+            "e",
+            "s",
+            "t"
+          ],
+          "translation": "电话响的时候，我们刚坐下。",
+          "explain": "venir 的未完成过去时以 ven- 为词干，nous 形式加 -ions：venions。这里表示在过去某一时刻刚刚发生，所以不能用现在时 venons。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q9",
+          "type": "tiles",
+          "prompt": "Transformez au passé récent avec « venir de » : « Elle se lève. » → ___",
+          "answer": [
+            "Elle",
+            "vient",
+            "de",
+            "se",
+            "lever."
+          ],
+          "bank": [
+            "Elle",
+            "vient",
+            "de",
+            "se",
+            "lever.",
+            "viennent",
+            "d'",
+            "s'est",
+            "levée.",
+            "lève"
+          ],
+          "translation": "她刚起床。",
+          "explain": "最近过去时只让 venir 变位：elle vient；代词式动词的不定式 se lever 整体保留，自反代词 se 放在不定式前。de 后接辅音开头的 se，不省音。viennent 是复数形式，d' 不能用在辅音前。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q10",
+          "type": "choice",
+          "prompt": "Hier, quand je l'ai appelé, il ___ de déjeuner.",
+          "options": [
+            "vient",
+            "venait",
+            "allait",
+            "était"
+          ],
+          "answer": 1,
+          "translation": "昨天我给他打电话时，他刚吃完午饭。",
+          "explain": "过去的参照点要求用 venir 的未完成过去时：il venait de déjeuner。vient 是现在时；allait de déjeuner 不成立；était 不能构成最近过去时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q11",
+          "type": "choice",
+          "prompt": "Mes parents ___ de rentrer.",
+          "options": [
+            "vient",
+            "viens",
+            "viennent",
+            "venons"
+          ],
+          "answer": 2,
+          "translation": "我父母刚回来。",
+          "explain": "主语 mes parents 是第三人称复数，venir 的现在时用 viennent。vient 是 il/elle 的形式，viens 是 je/tu 的形式，venons 是 nous 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q12",
+          "type": "choice",
+          "prompt": "Quelle phrase signifie « 她刚从巴黎回来 » ?",
+          "options": [
+            "Elle vient de Paris.",
+            "Elle rentre de Paris.",
+            "Elle vient rentrer de Paris.",
+            "Elle vient de rentrer de Paris."
+          ],
+          "answer": 3,
+          "translation": "她刚从巴黎回来。",
+          "explain": "「刚刚回到」用 venir de + 不定式 rentrer，来源地用第二个 de 引出：Elle vient de rentrer de Paris。Elle vient de Paris 表示「她来自巴黎」，没有「刚刚回来」的意思；Elle rentre de Paris 是现在时；Elle vient rentrer 缺少 de，不能表示最近过去。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q13",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Je ne vais pas partir ce soir.",
+            "Je ne vais partir pas ce soir.",
+            "Je ne pas vais partir ce soir.",
+            "Je ne vais pas partirai ce soir."
+          ],
+          "answer": 0,
+          "translation": "我今晚不走了。",
+          "explain": "最近将来时的否定是 ne + aller + pas + 不定式：Je ne vais pas partir。pas 不能放到不定式后，ne 与 pas 不能这样拆开，partir 也不能再变位为 partirai。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q14",
+          "type": "tiles",
+          "prompt": "Transformez avec « venir de » : « Il me téléphone. » → ___",
+          "answer": [
+            "Il",
+            "vient",
+            "de",
+            "me",
+            "téléphoner."
+          ],
+          "bank": [
+            "Il",
+            "vient",
+            "de",
+            "me",
+            "téléphoner.",
+            "viennent",
+            "d'",
+            "m'a",
+            "téléphoné.",
+            "téléphone"
+          ],
+          "translation": "他刚给我打电话。",
+          "explain": "venir 的现在时 il vient + de + 不定式 téléphoner；宾语代词 me 放在不定式前。de 后接辅音 m，不省音。m'a téléphoné 是复合过去时，不表示「刚刚」。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q15",
+          "type": "tiles",
+          "prompt": "Dites le contraire avec « aller + infinitif » : « Je viens de sortir. » → ___",
+          "answer": [
+            "Je",
+            "vais",
+            "sortir."
+          ],
+          "bank": [
+            "Je",
+            "vais",
+            "sortir.",
+            "viens",
+            "de",
+            "sors",
+            "sorti.",
+            "allais"
+          ],
+          "translation": "我刚出去。→ 我这就出去。",
+          "explain": "最近过去 venir de + 不定式与最近将来 aller + 不定式相对。主语 je 对应 vais，sortir 保持不定式。de 和过去分词 sorti 都不能保留在最近将来时里。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q16",
+          "type": "choice",
+          "prompt": "— Le dîner est prêt ? — Oui, je ___ de le préparer.",
+          "options": [
+            "vais",
+            "vient",
+            "viens",
+            "venais"
+          ],
+          "answer": 2,
+          "translation": "——晚饭好了吗？——好了，我刚做好。",
+          "explain": "「刚做好」用 venir de + 不定式，主语 je 对应 viens。vais 是最近将来时，vient 是 il/elle 的形式，venais 是未完成过去时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q17",
+          "type": "tiles",
+          "prompt": "Exprimez « 我刚到，马上就走 » avec « venir de » et « aller » : ___",
+          "answer": [
+            "Je",
+            "viens",
+            "d'arriver",
+            "et",
+            "je",
+            "vais",
+            "repartir."
+          ],
+          "bank": [
+            "Je",
+            "viens",
+            "d'arriver",
+            "et",
+            "je",
+            "vais",
+            "repartir.",
+            "arrive",
+            "de",
+            "viens de",
+            "sors",
+            "repars"
+          ],
+          "translation": "我刚到，马上就走。",
+          "explain": "「刚到」用 venir 的现在时 + de + 不定式，arriver 以元音开头，de 省音为 d'：je viens d'arriver。「马上就走」用 aller 的现在时 + 不定式：je vais repartir。两个结构并列，venir 和 aller 分别变位，后面的动词保持不定式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q18",
+          "type": "choice",
+          "prompt": "Quelle paire de phrases est correcte ?",
+          "options": [
+            "Elle a mangé. / Elle vient de manger.",
+            "Elle a manger. / Elle vient de mangé.",
+            "Elle a mangé. / Elle vient de mangé.",
+            "Elle a manger. / Elle vient de manger."
+          ],
+          "answer": 0,
+          "translation": "她吃了饭。/ 她刚吃完饭。",
+          "explain": "复合过去时用过去分词 mangé（-é），最近过去用 venir de + 不定式 manger（-er）。因此只有第一组两句都正确；a manger、vient de mangé 都把不定式和过去分词用反了。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l1-q19",
+          "type": "tiles",
+          "prompt": "Transformez à l'imparfait : « Nous venons de sortir et il pleut. » → ___",
+          "answer": [
+            "Nous",
+            "venions",
+            "de",
+            "sortir",
+            "et",
+            "il",
+            "pleuvait."
+          ],
+          "bank": [
+            "Nous",
+            "venions",
+            "de",
+            "sortir",
+            "et",
+            "il",
+            "pleuvait.",
+            "venons",
+            "venait",
+            "sortons",
+            "pleut",
+            "pleuvoir",
+            "sommes"
+          ],
+          "translation": "我们刚出去，天在下雨。→ 当时我们刚出去，天在下雨。",
+          "explain": "整句移到过去：venir 用未完成过去时 venions + de + 不定式 sortir，表示过去参照时刻之前刚刚发生；pleuvoir 用未完成过去时 il pleuvait 描写当时天气。venons 是现在时，venait 是第三人称单数，pleut 是现在时，都不能描写过去背景。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l2",
+      "title": "简单将来与不规则词干",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c13-future-conditional-l2-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Demain, nous ___ le musée. » (visiter, futur simple)",
+          "options": [
+            "visiterons",
+            "visitez",
+            "visitons",
+            "visiteraient"
+          ],
+          "answer": 0,
+          "translation": "明天我们要参观博物馆。",
+          "explain": "visiter 是第一组动词，简单将来时以整个不定式为词干加 -ons：nous visiterons。visitez 是现在时 vous 形式，visitons 是现在时 nous 形式，visiteraient 是条件式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q2",
+          "type": "letters",
+          "prompt": "Complétez : « L'année prochaine, elle ___ à Lyon. » (travailler, futur simple)",
+          "answer": "travaillera",
+          "decoys": [
+            "s",
+            "t",
+            "e",
+            "i"
+          ],
+          "translation": "明年她将在里昂工作。",
+          "explain": "travailler 以整个不定式为词干，主语 elle 加 -a：travaillera。注意保留词干中的双 l，词尾不随 -er 组改变。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q3",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Nous attendons le bus. » → ___",
+          "answer": [
+            "Nous",
+            "attendrons",
+            "le",
+            "bus."
+          ],
+          "bank": [
+            "Nous",
+            "attendrons",
+            "le",
+            "bus.",
+            "attendons",
+            "attendrez",
+            "attenderons",
+            "attendront"
+          ],
+          "translation": "我们在等公共汽车。→ 我们将等公共汽车。",
+          "explain": "attendre 是规则 -re 动词：去掉不定式末尾的 e，得到词干 attendr-，再加 -ons：nous attendrons。attendons 是现在时，attendrez 是 vous 的形式，attenderons 多了一个 e。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q4",
+          "type": "choice",
+          "prompt": "Complétez : « Ils ___ leur appartement avant de partir. » (vendre, futur simple)",
+          "options": [
+            "vendent",
+            "vendront",
+            "venderons",
+            "vendrons"
+          ],
+          "answer": 1,
+          "translation": "他们出发前会卖掉他们的公寓。",
+          "explain": "vendre 去掉词尾 e 得 vendr-，主语 ils 加 -ont：vendront。vendent 是现在时，venderons 多了一个 e 且是 nous 的词尾，vendrons 是 nous 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q5",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Elle ouvre la porte. » → ___",
+          "answer": [
+            "Elle",
+            "ouvrira",
+            "la",
+            "porte."
+          ],
+          "bank": [
+            "Elle",
+            "ouvrira",
+            "la",
+            "porte.",
+            "ouvre",
+            "ouvrirai",
+            "ouvrirons",
+            "ouverte"
+          ],
+          "translation": "她打开门。→ 她将打开门。",
+          "explain": "ouvrir 属于按不定式词干构成的第三组 -ir 动词：elle ouvrira。ouvre 是现在时，ouvrirai 是 je 的形式，ouvrirons 是 nous 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q6",
+          "type": "letters",
+          "prompt": "Complétez : « Nous ___ tôt demain matin. » (partir, futur simple)",
+          "answer": "partirons",
+          "decoys": [
+            "e",
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "我们明天早上会早走。",
+          "explain": "partir 以整个不定式为词干，nous 加 -ons：partirons。它不是 -re 动词，词干不删任何字母；词尾 -ons 也不随组别改变。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q7",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Il connaît mieux la ville et il visite les musées. » → ___",
+          "answer": [
+            "Il",
+            "connaîtra",
+            "mieux",
+            "la",
+            "ville",
+            "et",
+            "il",
+            "visitera",
+            "les",
+            "musées."
+          ],
+          "bank": [
+            "Il",
+            "connaîtra",
+            "mieux",
+            "la",
+            "ville",
+            "et",
+            "il",
+            "visitera",
+            "les",
+            "musées.",
+            "connaît",
+            "visite",
+            "connaîtrai",
+            "connaitera",
+            "visiterons"
+          ],
+          "translation": "他更了解这座城市，并参观博物馆。→ 他将会更了解这座城市，并参观博物馆。",
+          "explain": "两个分句都要变成将来时：connaître 的词干是 connaîtr-，il 加 -a 得 connaîtra；visiter 是规则 -er 动词，il 加 -a 得 visitera。connaît/visite 是现在时，connaîtrai 是 je 的形式，connaitera 丢了 î。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q8",
+          "type": "letters",
+          "prompt": "Complétez : « Elle ___ dans le journal demain. » (paraître, futur simple)",
+          "answer": "paraîtra",
+          "accentKeys": [
+            "î"
+          ],
+          "decoys": [
+            "e",
+            "s",
+            "d",
+            "t"
+          ],
+          "translation": "她明天会出现在报纸上。",
+          "explain": "paraître 的将来时词干是 paraîtr-，主语 elle 加 -a：paraîtra。词干保留 î，不写 d；不要与未完成过去时的 paraissait 混淆。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q9",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Les clés disparaissent. » → ___",
+          "answer": [
+            "Les",
+            "clés",
+            "disparaîtront."
+          ],
+          "bank": [
+            "Les",
+            "clés",
+            "disparaîtront.",
+            "disparaissent",
+            "disparaîteront",
+            "disparaîtrons",
+            "disparaîtra"
+          ],
+          "translation": "钥匙不见了。→ 钥匙将会消失。",
+          "explain": "disparaître 的将来时词干是 disparaîtr-，主语 les clés（第三人称复数）加 -ont：disparaîtront。disparaissent 是现在时，disparaîteront 丢了 î，disparaîtrons 是 nous 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q10",
+          "type": "choice",
+          "prompt": "Complétez au futur simple : « L'été prochain, nous ___ nos amis et nous ___ un voyage. » (appeler / faire)",
+          "options": [
+            "appelons / faisons",
+            "appellerons / ferions",
+            "appellerons / faisons",
+            "appellerons / ferons"
+          ],
+          "answer": 3,
+          "translation": "明年夏天我们会给朋友打电话，并去旅行。",
+          "explain": "两个动作都在将来：appeler 是第一组动词，将来时双写 l 并加 -ons：nous appellerons；faire 用不规则词干 fer-：nous ferons。现在时 appelons/faisons 在口语中也可表示已安排的将来计划，但本题要求简单将来时；ferions 是条件式，时态不符。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q11",
+          "type": "letters",
+          "prompt": "Complétez : « J'___ mes grands-parents dimanche. » (appeler, futur simple)",
+          "answer": "appellerai",
+          "decoys": [
+            "a",
+            "e",
+            "s",
+            "t"
+          ],
+          "translation": "我周日会给祖父母打电话。",
+          "explain": "appeler 的将来时词干双写 l：appeller-，主语 je 加 -ai：appellerai。不要写成 appelerai（只写一个 l），词尾 -ai 不受拼写调整影响。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q12",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Je nettoie la cuisine. » → ___",
+          "answer": [
+            "Je",
+            "nettoierai",
+            "la",
+            "cuisine."
+          ],
+          "bank": [
+            "Je",
+            "nettoierai",
+            "la",
+            "cuisine.",
+            "nettoie",
+            "nettoyerai",
+            "nettoierons",
+            "nettoierais"
+          ],
+          "translation": "我打扫厨房。→ 我将打扫厨房。",
+          "explain": "nettoyer 属于 -yer 动词，将来时把 y 改为 i：nettoier-，加 -ai 得 je nettoierai。nettoie 是现在时，nettoyerai 保留了 y，nettoierons 是 nous 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q13",
+          "type": "choice",
+          "prompt": "Complétez : « Elle ___ du pain. » (acheter, futur simple)",
+          "options": [
+            "achetera",
+            "achètera",
+            "achétera",
+            "achèterai"
+          ],
+          "answer": 1,
+          "translation": "她会买面包。",
+          "explain": "acheter 的将来时词干把 e 改为 è：achèter-，主语 elle 加 -a：achètera。achetera 缺重音，achétera 的重音位置不对，achèterai 是 je 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q14",
+          "type": "choice",
+          "prompt": "Complétez selon l'orthographe traditionnelle : « Nous ___ ce film. » (préférer, futur simple)",
+          "options": [
+            "préférerions",
+            "préfèrerons",
+            "préférerons",
+            "préfererons"
+          ],
+          "answer": 2,
+          "translation": "我们会更喜欢这部电影。",
+          "explain": "préférer 属于 é 保持不变的动词，传统将来时词干仍写 préférer-，nous 加 -ons：préférerons。préfèrerons 在 1990 年拼写改革下是可接受变体，但本题按传统规范作答；préfererons 丢了重音，préférerions 是条件式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q15",
+          "type": "choice",
+          "prompt": "Complétez : « Dans vingt ans, ils ___ adultes et ils ___ leur propre maison. » (être / avoir, futur simple)",
+          "options": [
+            "vont être / vont avoir",
+            "sont / ont",
+            "seraient / auraient",
+            "seront / auront"
+          ],
+          "answer": 3,
+          "translation": "二十年后他们将是成年人，并拥有自己的房子。",
+          "explain": "两个空都用简单将来时：être 的词干是 ser-，avoir 的词干是 aur-；ils 分别加 -ont，得到 seront / auront。口语中 vont être / vont avoir 也可成立，但本题限定 futur simple，且 dans vingt ans 的远期预测更常用 seront / auront；seraient / auraient 是条件式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q16",
+          "type": "letters",
+          "prompt": "Complétez : « Nous ___ besoin de ton aide. » (avoir, futur simple)",
+          "answer": "aurons",
+          "decoys": [
+            "a",
+            "e",
+            "s",
+            "t"
+          ],
+          "translation": "我们会需要你的帮助。",
+          "explain": "avoir 的简单将来时词干是 aur-，nous 加 -ons：aurons。不要写成 avions（未完成过去时）或 aurions（条件式）。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q17",
+          "type": "choice",
+          "prompt": "Complétez : « Quand tu reviendras, nous ___ là. » (être, futur simple)",
+          "options": [
+            "serons",
+            "sommes",
+            "serions",
+            "étions"
+          ],
+          "answer": 0,
+          "translation": "你回来的时候，我们会在那儿。",
+          "explain": "quand 引导的从句用简单将来时 reviendras 表示将来，主句同样用将来时：nous serons。sommes 是现在时，serions 是条件式，étions 是未完成过去时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q18",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Après le cours, vous avez faim. » → ___",
+          "answer": [
+            "Après",
+            "le",
+            "cours,",
+            "vous",
+            "aurez",
+            "faim."
+          ],
+          "bank": [
+            "Après",
+            "le",
+            "cours,",
+            "vous",
+            "aurez",
+            "faim.",
+            "avez",
+            "aviez",
+            "auriez",
+            "aurons"
+          ],
+          "translation": "下课后你们会饿。",
+          "explain": "avoir 的将来时词干是 aur-，vous 加 -ez：aurez。avez 是现在时，aviez 是未完成过去时，auriez 是条件式，aurons 是 nous 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q19",
+          "type": "letters",
+          "prompt": "Complétez : « Elle ___ vingt ans l'année prochaine. » (avoir, futur simple)",
+          "answer": "aura",
+          "decoys": [
+            "s",
+            "t",
+            "e",
+            "i"
+          ],
+          "translation": "她明年二十岁。",
+          "explain": "avoir 的将来时词干 aur-，主语 elle 加 -a：aura。不要写成 aurai（je 的形式）或 avait（未完成过去时）。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q20",
+          "type": "letters",
+          "prompt": "Complétez : « Je ___ prêt dans cinq minutes. » (être, futur simple)",
+          "answer": "serai",
+          "decoys": [
+            "a",
+            "s",
+            "t",
+            "e"
+          ],
+          "translation": "我五分钟后准备好。",
+          "explain": "être 的将来时词干是 ser-，主语 je 加 -ai：serai。不要写成 serais（条件式）或 étais（未完成过去时）。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q21",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Je suis en retard. » → ___",
+          "answer": [
+            "Je",
+            "serai",
+            "en",
+            "retard."
+          ],
+          "bank": [
+            "Je",
+            "serai",
+            "en",
+            "retard.",
+            "suis",
+            "serais",
+            "étais",
+            "serons"
+          ],
+          "translation": "我迟到了。→ 我会迟到。",
+          "explain": "être 的将来时词干是 ser-，je 加 -ai：serai。suis 是现在时，serais 是条件式，étais 是未完成过去时，serons 是 nous 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q22",
+          "type": "choice",
+          "prompt": "Complétez au futur simple : « L'été prochain, nous ___ en Italie et nous ___ Rome. » (aller / visiter)",
+          "options": [
+            "allons / visitons",
+            "irons / visiterons",
+            "irons / visiterions",
+            "allions / visiterons"
+          ],
+          "answer": 1,
+          "translation": "明年夏天我们去意大利，并参观罗马。",
+          "explain": "aller 的将来时词干是 ir-：nous irons；visiter 是规则 -er 动词：nous visiterons。现在时 allons/visitons 在口语中也可表示已安排的将来计划，但本题要求简单将来时；visiterions 是条件式，allions 是未完成过去时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q23",
+          "type": "choice",
+          "prompt": "Complétez : « Demain, tu ___ le directeur et tu ___ ta demande. » (voir / faire)",
+          "options": [
+            "verras / fais",
+            "vois / feras",
+            "verras / feras",
+            "verras / ferais"
+          ],
+          "answer": 2,
+          "translation": "明天你会见到主任，并提交你的申请。",
+          "explain": "voir 的将来时词干是 verr-，tu 加 -as：verras；faire 的词干是 fer-，tu 加 -as：feras。fais 是现在时，vois 是现在时，ferais 是条件式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q24",
+          "type": "choice",
+          "prompt": "Attention ! Tu ___ tomber !",
+          "options": [
+            "iras",
+            "allais",
+            "irais",
+            "vas"
+          ],
+          "answer": 3,
+          "translation": "小心！你要摔倒了！",
+          "explain": "对眼前即将发生的动作发出警告，用最近将来时 aller + 不定式：tu vas tomber。iras 是简单将来时，allais 是未完成过去时，irais 是条件式，都不能表达这种即时的警告。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q25",
+          "type": "choice",
+          "prompt": "Quelle phrase exprime une décision immédiate ?",
+          "options": [
+            "Je vais appeler le médecin tout de suite.",
+            "J'appellerai le médecin l'année prochaine.",
+            "J'appelais le médecin.",
+            "J'ai appelé le médecin."
+          ],
+          "answer": 0,
+          "translation": "我这就给医生打电话。",
+          "explain": "最近将来时 aller + 不定式强调即将发生、已经决定的动作，tout de suite 也支持这一解读。J'appellerai... l'année prochaine 是远期计划；J'appelais 是未完成过去时；J'ai appelé 是复合过去时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q26",
+          "type": "letters",
+          "prompt": "Complétez : « Je ___ t'aider demain. » (vouloir, futur simple)",
+          "answer": "voudrai",
+          "decoys": [
+            "e",
+            "s",
+            "a",
+            "t"
+          ],
+          "translation": "我明天会帮你。",
+          "explain": "vouloir 的将来时词干是 voudr-，je 加 -ai：voudrai。不要写成 voudrais（条件式）或 veux（现在时）。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q27",
+          "type": "choice",
+          "prompt": "Complétez : « L'année prochaine, ils ___ acheter une maison. » (pouvoir, futur simple)",
+          "options": [
+            "peuvent",
+            "pourront",
+            "pourraient",
+            "pourrons"
+          ],
+          "answer": 1,
+          "translation": "明年他们就能买房子了。",
+          "explain": "pouvoir 的将来时词干是 pourr-，ils 加 -ont：pourront。peuvent 是现在时，pourraient 是条件式，pourrons 是 nous 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q28",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Tu dois faire tes devoirs. » → ___",
+          "answer": [
+            "Tu",
+            "devras",
+            "faire",
+            "tes",
+            "devoirs."
+          ],
+          "bank": [
+            "Tu",
+            "devras",
+            "faire",
+            "tes",
+            "devoirs.",
+            "dois",
+            "devrais",
+            "devront",
+            "feras"
+          ],
+          "translation": "你必须做作业。→ 你将必须做作业。",
+          "explain": "devoir 的将来时词干是 devr-，tu 加 -as：devras；后面的 faire 保持不定式，不能变成 feras。dois 是现在时，devrais 是条件式，devront 是 ils 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q29",
+          "type": "letters",
+          "prompt": "Complétez : « Tu ___ la réponse demain. » (savoir, futur simple)",
+          "answer": "sauras",
+          "decoys": [
+            "e",
+            "s",
+            "a",
+            "t"
+          ],
+          "translation": "你明天就会知道答案。",
+          "explain": "savoir 的将来时词干是 saur-，tu 加 -as：sauras。不要写成 sais（现在时）或 saurais（条件式）。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q30",
+          "type": "choice",
+          "prompt": "Transformez au futur simple : « Il faut partir. » → ___",
+          "options": [
+            "Il faut partir.",
+            "Il faudrait partir.",
+            "Il faudra partir.",
+            "Il faudra partie."
+          ],
+          "answer": 2,
+          "translation": "必须出发。→ 将必须出发。",
+          "explain": "falloir 的将来时词干是 faudr-，无人称形式只有 il faudra。faut 是现在时，faudrait 是条件式，partie 是过去分词，不能代替不定式 partir。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q31",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Nous courons vite. » → ___",
+          "answer": [
+            "Nous",
+            "courrons",
+            "vite."
+          ],
+          "bank": [
+            "Nous",
+            "courrons",
+            "vite.",
+            "courons",
+            "courerons",
+            "courrez",
+            "courrais"
+          ],
+          "translation": "我们跑得快。→ 我们将跑得快。",
+          "explain": "courir 的将来时词干是 courr-（双写 r），nous 加 -ons：courrons。courons 是现在时，courerons 只写一个 r，courrez 是 vous 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q32",
+          "type": "choice",
+          "prompt": "Complétez : « Il ___ le mur et il ___ les travaux demain. » (peindre / finir)",
+          "options": [
+            "peindera / finira",
+            "peint / finira",
+            "peindra / finirait",
+            "peindra / finira"
+          ],
+          "answer": 3,
+          "translation": "明天他会刷墙，并把工程做完。",
+          "explain": "peindre 的将来时词干是 peindr-，il 加 -a：peindra；finir 用不定式词干 finir-，il 加 -a：finira。peindera 多了一个 e，peint 是现在时，finirait 是条件式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q33",
+          "type": "letters",
+          "prompt": "Complétez : « J'___ la lumière avant de sortir. » (éteindre, futur simple)",
+          "answer": "éteindrai",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "a",
+            "e",
+            "s",
+            "t"
+          ],
+          "translation": "我出去前会关灯。",
+          "explain": "éteindre 的将来时词干是 éteindr-，je 加 -ai：éteindrai。词干保留 d 和 é；不要写成 éteinrai（丢 d）或 éteindrais（条件式）。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q34",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Ils éteignent les lumières. » → ___",
+          "answer": [
+            "Ils",
+            "éteindront",
+            "les",
+            "lumières."
+          ],
+          "bank": [
+            "Ils",
+            "éteindront",
+            "les",
+            "lumières.",
+            "éteignent",
+            "éteindrons",
+            "éteigneront",
+            "éteindrai"
+          ],
+          "translation": "他们关灯。→ 他们将会关灯。",
+          "explain": "éteindre 的词干是 éteindr-，ils 加 -ont：éteindront。éteignent 是现在时，éteindrons 是 nous 的形式，éteigneront 丢了 d，éteindrai 是 je 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q35",
+          "type": "choice",
+          "prompt": "Complétez : « Demain, nous ___ un film, puis nous ___ le dîner. » (voir / préparer)",
+          "options": [
+            "verrons / préparerons",
+            "voyons / préparerons",
+            "verrons / préparons",
+            "verrons / préparerions"
+          ],
+          "answer": 0,
+          "translation": "明天我们会看一部电影，然后准备晚饭。",
+          "explain": "voir 的将来时词干是 verr-：nous verrons；préparer 是规则 -er 动词：nous préparerons。两个动作都在将来，voyons/préparons 是现在时，préparerions 是条件式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q36",
+          "type": "choice",
+          "prompt": "Quelle phrase annonce une action immédiate ?",
+          "options": [
+            "Le film commencera dans un an.",
+            "Le film va commencer.",
+            "Le film a commencé.",
+            "Le film commençait."
+          ],
+          "answer": 1,
+          "translation": "哪一句表示动作马上开始？",
+          "explain": "Le film va commencer 用最近将来时，表示电影马上就要开始。Le film commencera dans un an 把动作放到一年后；a commencé 是复合过去时；commençait 是未完成过去时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q37",
+          "type": "letters",
+          "prompt": "Complétez : « Ils ___ leurs grands-parents dimanche. » (inviter, futur simple)",
+          "answer": "inviteront",
+          "decoys": [
+            "a",
+            "e",
+            "s",
+            "t"
+          ],
+          "translation": "他们周日会邀请祖父母。",
+          "explain": "inviter 以整个不定式为词干，ils 加 -ont：inviteront。不要写成 invitent（现在时）或 inviterons（nous 的形式）。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q38",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Ils répondent à la question. » → ___",
+          "answer": [
+            "Ils",
+            "répondront",
+            "à",
+            "la",
+            "question."
+          ],
+          "bank": [
+            "Ils",
+            "répondront",
+            "à",
+            "la",
+            "question.",
+            "répondent",
+            "répondrons",
+            "réponderont",
+            "répondrez"
+          ],
+          "translation": "他们回答问题。→ 他们将回答问题。",
+          "explain": "répondre 去掉词尾 e 得 répondr-，ils 加 -ont：répondront。répondent 是现在时，répondrons 是 nous 的形式，réponderont 多了一个 e。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q39",
+          "type": "letters",
+          "prompt": "Complétez : « Tu ___ à la fête demain. » (danser, futur simple)",
+          "answer": "danseras",
+          "decoys": [
+            "e",
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "你明天会在派对上跳舞。",
+          "explain": "danser 以整个不定式为词干，tu 加 -as：danseras。不要写成 danses（现在时）或 danserais（条件式）。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q40",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Nous voyons la mer. » → ___",
+          "answer": [
+            "Nous",
+            "verrons",
+            "la",
+            "mer."
+          ],
+          "bank": [
+            "Nous",
+            "verrons",
+            "la",
+            "mer.",
+            "voyons",
+            "verrez",
+            "verons",
+            "verrions"
+          ],
+          "translation": "我们看见大海。→ 我们将看见大海。",
+          "explain": "voir 的将来时词干是 verr-（双写 r），nous 加 -ons：verrons。voyons 是现在时，verrez 是 vous 的形式，verons 只写一个 r，verrions 是条件式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q41",
+          "type": "letters",
+          "prompt": "Complétez : « Ils ___ le résultat demain. » (voir, futur simple)",
+          "answer": "verront",
+          "decoys": [
+            "a",
+            "e",
+            "s",
+            "t"
+          ],
+          "translation": "他们明天会看到结果。",
+          "explain": "voir 的将来时词干是 verr-，ils 加 -ont：verront。注意双写 r；不要写成 veront 或 verrons（nous 的形式）。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q42",
+          "type": "choice",
+          "prompt": "Complétez : « J'___ la lettre demain. » (envoyer, futur simple)",
+          "options": [
+            "enverai",
+            "enverrais",
+            "enverrai",
+            "envoyerai"
+          ],
+          "answer": 2,
+          "translation": "我明天会把信寄出去。",
+          "explain": "envoyer 的将来时词干是 enverr-（双写 r，不再保留 y），je 加 -ai：enverrai。enverai 只写一个 r，envoyerai 保留了 y 且没有双 r，enverrais 是条件式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q43",
+          "type": "letters",
+          "prompt": "Complétez : « Nous ___ ta proposition. » (recevoir, futur simple)",
+          "answer": "recevrons",
+          "decoys": [
+            "a",
+            "e",
+            "s",
+            "t"
+          ],
+          "translation": "我们会收到你的提议。",
+          "explain": "recevoir 的将来时词干是 recevr-，nous 加 -ons：recevrons。不要写成 recevons（现在时）或 recevrions（条件式）。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q44",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Ils reçoivent des cadeaux. » → ___",
+          "answer": [
+            "Ils",
+            "recevront",
+            "des",
+            "cadeaux."
+          ],
+          "bank": [
+            "Ils",
+            "recevront",
+            "des",
+            "cadeaux.",
+            "reçoivent",
+            "recevrons",
+            "receveront",
+            "recevrez"
+          ],
+          "translation": "他们收到礼物。→ 他们将收到礼物。",
+          "explain": "recevoir 的将来时词干是 recevr-，ils 加 -ont：recevront。reçoivent 是现在时，recevrons 是 nous 的形式，receveront 多了一个 e，recevrez 是 vous 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q45",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Nous allons être en retard et nous allons avoir des problèmes. » → ___",
+          "answer": [
+            "Nous",
+            "serons",
+            "en",
+            "retard",
+            "et",
+            "nous",
+            "aurons",
+            "des",
+            "problèmes."
+          ],
+          "bank": [
+            "Nous",
+            "serons",
+            "en",
+            "retard",
+            "et",
+            "nous",
+            "aurons",
+            "des",
+            "problèmes.",
+            "allons",
+            "être",
+            "sommes",
+            "avez",
+            "auriez",
+            "serez"
+          ],
+          "translation": "我们快要迟到了，而且会有麻烦。→ 我们将会迟到，而且会有麻烦。",
+          "explain": "把两个最近将来时改成简单将来时：être 用词干 ser-，nous 加 -ons 得 serons；avoir 用词干 aur-，nous 加 -ons 得 aurons。allons 和不定式 être/avoir 不能保留；sommes 是现在时，auriez 是条件式，serez 是 vous 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q46",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Je vais aller à la gare et tu vas venir avec moi. » → ___",
+          "answer": [
+            "J'",
+            "irai",
+            "à",
+            "la",
+            "gare",
+            "et",
+            "tu",
+            "viendras",
+            "avec",
+            "moi."
+          ],
+          "bank": [
+            "J'",
+            "irai",
+            "à",
+            "la",
+            "gare",
+            "et",
+            "tu",
+            "viendras",
+            "avec",
+            "moi.",
+            "Je",
+            "vais",
+            "aller",
+            "iras",
+            "viendrai",
+            "venais"
+          ],
+          "translation": "我要去火车站，你要和我一起去。→ 我将去火车站，你将要和我一起去。",
+          "explain": "aller 的将来时词干是 ir-：j'irai；venir 的词干是 viendr-：tu viendras。两个最近将来结构都要换成简单将来时，vais/aller 和 vas/venir 不能保留；iras 是 aller 的 tu 形式，viendrai 是 je 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l2-q47",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Il va pleuvoir et nous allons devoir rentrer. » → ___",
+          "answer": [
+            "Il",
+            "pleuvra",
+            "et",
+            "nous",
+            "devrons",
+            "rentrer."
+          ],
+          "bank": [
+            "Il",
+            "pleuvra",
+            "et",
+            "nous",
+            "devrons",
+            "rentrer.",
+            "va",
+            "pleuvoir",
+            "allons",
+            "devoir",
+            "devrez",
+            "pleuvront",
+            "devrions"
+          ],
+          "translation": "要下雨了，我们得回家。→ 将会下雨，我们将不得不回家。",
+          "explain": "pleuvoir 的将来时词干是 pleuvr-，无人称只用 il pleuvra；devoir 的词干是 devr-，nous 加 -ons 得 devrons，后面的 rentrer 保持不定式。va/pleuvoir 和 allons/devoir 不能保留；devrez 是 vous 的形式，devrions 是条件式。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l3",
+      "title": "将来时的意义与转换",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c13-future-conditional-l3-q1",
+          "type": "choice",
+          "prompt": "Transformez à l'impératif (tu) : « Tu iras à la boulangerie. » → ___",
+          "options": [
+            "Vas à la boulangerie.",
+            "Iras à la boulangerie.",
+            "Allez à la boulangerie.",
+            "Va à la boulangerie."
+          ],
+          "answer": 3,
+          "translation": "你去面包店。→ 去面包店。",
+          "explain": "aller 的 tu 命令式是 va，并且按 -er 类规则去掉词尾 s；主语 tu 省略。Vas 保留了 s，Iras 仍是将来时，Allez 是 vous 的命令式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q2",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif (vous) : « Vous irez au marché. » → ___",
+          "answer": [
+            "Allez",
+            "au",
+            "marché."
+          ],
+          "bank": [
+            "Allez",
+            "au",
+            "marché.",
+            "Irez",
+            "Va",
+            "Aller",
+            "Allez-y"
+          ],
+          "translation": "您去市场。→ 请去市场。",
+          "explain": "aller 的 vous 命令式是 allez，省略主语 vous。Irez 仍是将来时，Va 是 tu 的形式，Aller 是不定式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q3",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif négatif (tu) : « Tu oublieras ton livre. » → ___",
+          "answer": [
+            "N'oublie",
+            "pas",
+            "ton",
+            "livre."
+          ],
+          "bank": [
+            "N'oublie",
+            "pas",
+            "ton",
+            "livre.",
+            "Ne",
+            "oublie",
+            "oublieras",
+            "oublies",
+            "oublier."
+          ],
+          "translation": "你会忘记你的书。→ 别忘了你的书。",
+          "explain": "oublier 的 tu 命令式去掉词尾 s：oublie；否定用 ne...pas，但 ne 在元音前省音为 n'，写成 N'oublie pas。主语 tu 省略，oublieras 不能保留。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q4",
+          "type": "choice",
+          "prompt": "Transformez à l'impératif (vous) : « Vous répondrez à la lettre. » → ___",
+          "options": [
+            "Répondez à la lettre.",
+            "Répondrez à la lettre.",
+            "Réponds à la lettre.",
+            "Répondre à la lettre."
+          ],
+          "answer": 0,
+          "translation": "您会回这封信。→ 请回这封信。",
+          "explain": "répondre 的 vous 命令式取现在时 vous 形式 répondez，省略主语。Répondrez 仍是将来时，Réponds 是 tu 的形式，Répondre 是不定式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q5",
+          "type": "choice",
+          "prompt": "Transformez à l'impératif (nous) : « Nous partirons tôt. » → ___",
+          "options": [
+            "Partirons tôt.",
+            "Partez tôt.",
+            "Partir tôt.",
+            "Partons tôt."
+          ],
+          "answer": 3,
+          "translation": "我们会早走。→ 我们早点走吧。",
+          "explain": "nous 的命令式取现在时 nous 形式：partons，省略主语 nous。Partirons 仍是将来时，Partez 是 vous 的形式，Partir 是不定式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q6",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif (nous) : « Nous choisirons un cadeau. » → ___",
+          "answer": [
+            "Choisissons",
+            "un",
+            "cadeau."
+          ],
+          "bank": [
+            "Choisissons",
+            "un",
+            "cadeau.",
+            "Choisirons",
+            "Choisissez",
+            "Choisir",
+            "choisissons"
+          ],
+          "translation": "我们会选一份礼物。→ 我们选一份礼物吧。",
+          "explain": "choisir 的 nous 命令式取现在时 nous 形式 choisissons，省略主语。Choisirons 仍是将来时，Choisissez 是 vous 的形式，Choisir 是不定式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q7",
+          "type": "choice",
+          "prompt": "Transformez à l'impératif (tu) : « Tu prendras le train. » → ___",
+          "options": [
+            "Prends le train.",
+            "Prend le train.",
+            "Prendras le train.",
+            "Prenez le train."
+          ],
+          "answer": 0,
+          "translation": "你会坐火车。→ 坐火车吧。",
+          "explain": "prendre 的 tu 命令式是 prends，保留词尾 s（去 s 规则只适用于 -er 动词和 aller）。Prend 缺 s，Prendras 仍是将来时，Prenez 是 vous 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q8",
+          "type": "choice",
+          "prompt": "Transformez à l'impératif (tu) : « Tu seras prudent. » → ___",
+          "options": [
+            "Seras prudent.",
+            "Soyez prudent.",
+            "Sois prudent.",
+            "Es prudent."
+          ],
+          "answer": 2,
+          "translation": "你会很谨慎。→ 小心点。",
+          "explain": "être 的 tu 命令式是 sois，属于不规则形式。Seras 仍是将来时，Soyez 是 vous 的形式，Es 不是命令式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q9",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif négatif (vous) : « Vous ne serez pas en retard. » → ___",
+          "answer": [
+            "Ne",
+            "soyez",
+            "pas",
+            "en",
+            "retard."
+          ],
+          "bank": [
+            "Ne",
+            "soyez",
+            "pas",
+            "en",
+            "retard.",
+            "Soyez",
+            "serez",
+            "n'êtes",
+            "sois"
+          ],
+          "translation": "你们不会迟到。→ 别迟到。",
+          "explain": "être 的 vous 命令式是 soyez；否定为 ne...pas：Ne soyez pas en retard。Soyez 是肯定命令式，serez 仍是将来时，sois 是 tu 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q10",
+          "type": "choice",
+          "prompt": "Transformez à l'impératif négatif (vous) : « Vous aurez peur. » → ___",
+          "options": [
+            "N'aurez pas peur.",
+            "N'avez pas peur.",
+            "Ayez pas peur.",
+            "N'ayez pas peur."
+          ],
+          "answer": 3,
+          "translation": "你们会害怕。→ 别害怕。",
+          "explain": "avoir 的 vous 命令式是 ayez；否定用 ne...pas，ne 在元音前省音为 n'：N'ayez pas peur。N'aurez pas 仍是将来时，N'avez pas 是现在时陈述，Ayez pas 缺少 ne。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q11",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif négatif (tu) : « Tu auras confiance en lui. » → ___",
+          "answer": [
+            "N'aie",
+            "pas",
+            "confiance",
+            "en",
+            "lui."
+          ],
+          "bank": [
+            "N'aie",
+            "pas",
+            "confiance",
+            "en",
+            "lui.",
+            "Ne",
+            "aie",
+            "auras",
+            "N'aies"
+          ],
+          "translation": "你会信任他。→ 别信任他。",
+          "explain": "avoir 的 tu 命令式是 aie；否定为 ne...pas，ne 省音为 n'：N'aie pas confiance en lui。N'aies 多加了 s，auras 仍是将来时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q12",
+          "type": "choice",
+          "prompt": "Transformez à l'impératif (nous) : « Nous serons patients. » → ___",
+          "options": [
+            "Serons patients.",
+            "Soyez patients.",
+            "Soyons patients.",
+            "Sommes patients."
+          ],
+          "answer": 2,
+          "translation": "我们要有耐心。→ 我们耐心点吧。",
+          "explain": "être 的 nous 命令式是 soyons，省略主语。Serons 仍是将来时，Soyez 是 vous 的形式，Sommes 是现在时陈述。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q13",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif négatif (tu) : « Tu iras à la piscine. » → ___",
+          "answer": [
+            "N'y",
+            "va",
+            "pas."
+          ],
+          "bank": [
+            "N'y",
+            "va",
+            "pas.",
+            "Ne",
+            "y",
+            "vas",
+            "iras",
+            "N'irai"
+          ],
+          "translation": "你会去游泳池。→ 别去游泳池。",
+          "explain": "aller 的 tu 命令式是 va（去 s）；地点代词 y 放在动词前，否定为 ne...y...pas，ne 省音为 n'：N'y va pas。N'y vas pas 保留了 s，iras 仍是将来时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q14",
+          "type": "choice",
+          "prompt": "Transformez à l'impératif négatif (tu) : « Tu ne te lèveras pas tôt. » → ___",
+          "options": [
+            "Ne te lève pas tôt.",
+            "Ne te lèves pas tôt.",
+            "Ne te lèveras pas tôt.",
+            "Ne lève-toi pas tôt."
+          ],
+          "answer": 0,
+          "translation": "你不会早起。→ 别早起。",
+          "explain": "lever 的 tu 命令式去掉词尾 s：lève；代词式动词的命令式中，自反代词 te 放在动词前：Ne te lève pas tôt。lèves 保留了 s，lèveras 仍是将来时，lève-toi 是肯定命令式的词序。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q15",
+          "type": "choice",
+          "prompt": "Transformez à l'impératif (tu) : « Tu sauras rester calme. » → ___",
+          "options": [
+            "Sauras rester calme.",
+            "Sais rester calme.",
+            "Sachez rester calme.",
+            "Sache rester calme."
+          ],
+          "answer": 3,
+          "translation": "你会保持冷静。→ 你要保持冷静。",
+          "explain": "savoir 的 tu 命令式是不规则的 sache。Sauras 仍是将来时，Sais 是现在时陈述，Sachez 是 vous 的形式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q16",
+          "type": "choice",
+          "prompt": "Transformez à l'impératif (tu) : « Tu feras tes exercices. » → ___",
+          "options": [
+            "Faites tes exercices.",
+            "Fais tes exercices.",
+            "Feras tes exercices.",
+            "Faire tes exercices."
+          ],
+          "answer": 1,
+          "translation": "你会做练习。→ 做你的练习。",
+          "explain": "faire 的 tu 命令式是 fais，保留 s。Faites 是 vous 的形式，Feras 仍是将来时，Faire 是不定式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q17",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif (tu) : « Tu viendras avec nous. » → ___",
+          "answer": [
+            "Viens",
+            "avec",
+            "nous."
+          ],
+          "bank": [
+            "Viens",
+            "avec",
+            "nous.",
+            "Viendras",
+            "Venez",
+            "Venir",
+            "Viens-y"
+          ],
+          "translation": "你会和我们一起来。→ 和我们一起来吧。",
+          "explain": "venir 的 tu 命令式是 viens，省略主语。Viendras 仍是将来时，Venez 是 vous 的形式，Venir 是不定式。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q18",
+          "type": "choice",
+          "prompt": "Dans « Vous fermerez la porte en partant. », le futur simple exprime surtout…",
+          "options": [
+            "une action déjà accomplie",
+            "une hypothèse irréelle",
+            "une demande atténuée",
+            "une action habituelle"
+          ],
+          "answer": 2,
+          "translation": "在「您走的时候把门关上」中，简单将来时主要表达什么？",
+          "explain": "这里没有明确的将来时间，说话人是在向对方提出要求；用简单将来时比命令式委婉。它不是已完成的动作，也不是非现实假设或习惯性动作。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q19",
+          "type": "choice",
+          "prompt": "Quelle phrase est une demande polie plutôt qu'une simple information ?",
+          "options": [
+            "Vous enverrez le dossier demain.",
+            "Vous m'enverrez le dossier, s'il vous plaît.",
+            "Vous avez envoyé le dossier.",
+            "Vous envoyiez le dossier."
+          ],
+          "answer": 1,
+          "translation": "哪一句是礼貌请求，而不是单纯陈述信息？",
+          "explain": "s'il vous plaît 加上对听话人的要求，使简单将来时成为委婉请求。第一句只是说明将来的事实，第三句是复合过去时，第四句是未完成过去时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q20",
+          "type": "choice",
+          "prompt": "Quelle phrase décrit une action qui se passe tout de suite ?",
+          "options": [
+            "Je vais répondre.",
+            "Je répondrai demain.",
+            "J'ai répondu.",
+            "Je répondais."
+          ],
+          "answer": 0,
+          "translation": "哪一句描述马上要发生的动作？",
+          "explain": "Je vais répondre 用最近将来时，表示马上就去接/回答。Je répondrai demain 把动作放到明天；J'ai répondu 是复合过去时；Je répondais 是未完成过去时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q21",
+          "type": "tiles",
+          "prompt": "Transformez au futur simple : « Je vais partir demain. » → ___",
+          "answer": [
+            "Je",
+            "partirai",
+            "demain."
+          ],
+          "bank": [
+            "Je",
+            "partirai",
+            "demain.",
+            "vais",
+            "partir",
+            "partirais",
+            "partons"
+          ],
+          "translation": "我明天出发。→ 我明天将出发。",
+          "explain": "把最近将来时 aller + 不定式换成简单将来时，只需把 partir 变为将来时：je partirai，时间状语 demain 保留。vais 和不定式 partir 不能同时保留。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l3-q22",
+          "type": "choice",
+          "prompt": "Dans « Dans vingt ans, on vivra peut-être sur Mars. », le futur simple exprime…",
+          "options": [
+            "un ordre",
+            "une prévision lointaine",
+            "un fait passé",
+            "une hypothèse irréelle"
+          ],
+          "answer": 1,
+          "translation": "在「二十年后我们也许生活在火星上」中，简单将来时表达什么？",
+          "explain": "dans vingt ans 加上 peut-être 表明这是对较远将来的预测，而不是命令、过去事实或非现实假设。简单将来时本身不限定远近，这里的时间状语给出了「远」的信息。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l4",
+      "title": "条件式现在时：形式与礼貌、建议、愿望、想象（含 U7 过去将来时预练）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c13-future-conditional-l4-q1",
+          "type": "letters",
+          "prompt": "À ta place, je ___ (partir) tout de suite.",
+          "answer": "partirais",
+          "decoys": [
+            "e",
+            "u",
+            "n"
+          ],
+          "translation": "换作是我，我会马上离开。",
+          "explain": "partir 的简单将来时词干是 partir-，条件式加 -ais：je partirais。词尾 -ais 不能写成将来时的 -ai，也不能写成第三人称单数的 -ait。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l4-q2",
+          "type": "letters",
+          "prompt": "Est-ce que vous ___ m'aider à porter cette valise ? (pouvoir, conditionnel)",
+          "answer": "pourriez",
+          "decoys": [
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "您能帮我搬这个箱子吗？",
+          "explain": "pouvoir 的条件式词干是 pourr-，vous 形式加 -iez：vous pourriez。这里用条件式使请求委婉；现在时 pouvez 语法上也可用于请求，但语气更直接，将来时 pourrez 问的是将来的能力。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l4-q3",
+          "type": "choice",
+          "prompt": "Tu ___ consulter un médecin : ce n'est pas urgent, mais c'est plus prudent. (devoir, conditionnel)",
+          "options": [
+            "devrais",
+            "dois",
+            "devras",
+            "devrai"
+          ],
+          "answer": 0,
+          "translation": "你最好去看医生：不着急，但这样更稳妥。",
+          "explain": "这里给的是委婉建议，用 devoir 的条件式 tu devrais。dois 语法上成立，但语气更直接，不符合“不着急、更稳妥”的缓和语气；devras 是简单将来时；devrai 是 je 的形式，与 tu 不配。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l4-q4",
+          "type": "tiles",
+          "prompt": "Adoucissez cet ordre avec « devoir » au conditionnel : « Pars maintenant ! » → ___",
+          "answer": [
+            "Tu",
+            "devrais",
+            "partir",
+            "maintenant."
+          ],
+          "bank": [
+            "Tu",
+            "devrais",
+            "partir",
+            "maintenant.",
+            "Pars",
+            "dois",
+            "devras",
+            "partirais",
+            "partez"
+          ],
+          "translation": "你现在就走吧。→ 你应该现在就走。",
+          "explain": "命令式 Pars 改为条件式建议：主语恢复为 tu，devoir 用条件式 devrais，后接不定式 partir；maintenant 保留。条件式建议比命令式委婉。dois 是现在时，devras 是将来时，都不能体现缓和语气。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l4-q5",
+          "type": "choice",
+          "prompt": "Dans ce jeu de rôle, tu ___ le capitaine du navire. (être, conditionnel)",
+          "options": [
+            "seras",
+            "serais",
+            "étais",
+            "es"
+          ],
+          "answer": 1,
+          "translation": "在这个角色扮演游戏里，你会是船长。",
+          "explain": "这是想象和角色扮演的情境，用条件式现在时 serais 描述设想中的身份。seras 在角色分配语境中也说得通，但那是现实预测；本题要求条件式，étais 是未完成过去时，es 是现在时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l4-q6",
+          "type": "letters",
+          "prompt": "Dans un monde idéal, nous ___ (être, conditionnel) plus tolérants.",
+          "answer": "serions",
+          "decoys": [
+            "a",
+            "t",
+            "u"
+          ],
+          "translation": "在理想世界里，我们会更宽容。",
+          "explain": "être 的条件式词干是 ser-，nous 加 -ions：nous serions。将来时 serons 语法上可成立，但表示现实预测，与“理想世界”的非现实语境不符；未完成过去时 étions 也不合。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l4-q7",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre pour former une demande polie au conditionnel : ___",
+          "answer": [
+            "Pourriez-vous",
+            "fermer",
+            "la",
+            "fenêtre",
+            "?"
+          ],
+          "bank": [
+            "Pourriez-vous",
+            "fermer",
+            "la",
+            "fenêtre",
+            "?",
+            "Pouvez-vous",
+            "fermez",
+            "fermerez",
+            "le",
+            "porte"
+          ],
+          "translation": "您能把窗户关上吗？",
+          "explain": "礼貌请求用 pouvoir 的条件式，倒装形式 Pourriez-vous 保留连字符；后接不定式 fermer。Pouvez-vous 也可用于礼貌请求，但本题要求条件式，语气更委婉；fermez 是命令式；fermerez 是将来时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l4-q8",
+          "type": "letters",
+          "prompt": "Je ___ (vouloir, conditionnel) un thé au citron, s'il vous plaît.",
+          "answer": "voudrais",
+          "decoys": [
+            "e",
+            "t",
+            "n"
+          ],
+          "translation": "我想要一杯柠檬茶，谢谢。",
+          "explain": "vouloir 的条件式词干是 voudr-，je 加 -ais：je voudrais。这里用条件式使点单更礼貌；现在时 veux 语法上成立，但语气更直接，将来时 voudrai 也不合。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l4-q9",
+          "type": "choice",
+          "prompt": "J'___ vivre près de la mer, dans une petite maison. (aimer, conditionnel)",
+          "options": [
+            "aimerai",
+            "aimais",
+            "aimerais",
+            "aime"
+          ],
+          "answer": 2,
+          "translation": "我想住在海边的一栋小房子里。",
+          "explain": "这里表达委婉的愿望，用 aimer 的条件式 j'aimerais。现在时 aime 也能构成完全自然的句子（J'aime vivre près de la mer），但本题要求条件式，语气更委婉；aimerai 是简单将来时，aimais 是未完成过去时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l4-q10",
+          "type": "letters",
+          "prompt": "Nous ___ (souhaiter, conditionnel) vous revoir bientôt.",
+          "answer": "souhaiterions",
+          "decoys": [
+            "b",
+            "v",
+            "y"
+          ],
+          "translation": "我们希望很快再见到您。",
+          "explain": "souhaiter 的将来时词干是 souhaiter-，nous 加条件式词尾 -ions：nous souhaiterions。现在时 souhaitons 语法上成立，但语气更直接；将来时 souhaiterons 和未完成过去时 souhaitions 都不合。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l4-q11",
+          "type": "choice",
+          "prompt": "Il a dit qu'il ___ le lendemain.",
+          "options": [
+            "viendra",
+            "viendrait",
+            "venait",
+            "est venu"
+          ],
+          "answer": 1,
+          "translation": "他说他第二天会来。",
+          "explain": "主句 a dit 是过去时，从句中的将来事件要用条件式现在时 viendrait，表示过去视角中的将来。本题提前练习 U7 的过去将来时，详见 U7；viendra 是现在视角的将来，venait 是未完成过去时，est venu 是已完成的动作。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l4-q12",
+          "type": "tiles",
+          "prompt": "Transposez au passé : « Elle pense qu'elle réussira. » → ___",
+          "answer": [
+            "Elle",
+            "pensait",
+            "qu'elle",
+            "réussirait."
+          ],
+          "bank": [
+            "Elle",
+            "pensait",
+            "qu'elle",
+            "réussirait.",
+            "pense",
+            "réussira",
+            "réussissait",
+            "qu'il",
+            "réussirai"
+          ],
+          "translation": "她认为她会成功。→ 她当时认为她会成功。",
+          "explain": "主句 pense 变为过去时 pensait，从句的将来 réussira 相应变为条件式现在时 réussirait。本题提前练习 U7 的过去将来时，详见 U7；过去视角中的将来不用简单将来时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l4-q13",
+          "type": "choice",
+          "prompt": "Quelle série de formes est correcte au conditionnel présent ?",
+          "options": [
+            "je viendrais, tu viendras, il viendrait, nous viendriez, vous viendrions, ils viendraient",
+            "je viendrai, tu viendrais, il viendrait, nous viendrions, vous viendriez, ils viendraient",
+            "je viendrais, tu viendrais, il viendrait, nous viendrions, vous viendriez, ils viendraient",
+            "je viendrais, tu viendrais, il viendrait, nous viendrons, vous viendriez, ils viendraient"
+          ],
+          "answer": 2,
+          "translation": "哪一组是条件式现在时的正确形式？",
+          "explain": "venir 的条件式词干是 viendr-，六个人称分别加 -ais、-ais、-ait、-ions、-iez、-aient：je viendrais, tu viendrais, il viendrait, nous viendrions, vous viendriez, ils viendraient。其余选项混入了简单将来时形式，或把 nous/vous 的词尾对调。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l4-q14",
+          "type": "letters",
+          "prompt": "Il ___ (falloir, conditionnel) réserver une table pour huit heures.",
+          "answer": "faudrait",
+          "decoys": [
+            "e",
+            "s",
+            "n"
+          ],
+          "translation": "最好订一张八点的桌子。",
+          "explain": "无人称建议用 il faudrait + 不定式。falloir 的条件式只有第三人称单数 faudrait；现在时 faut 语法上成立，但语气更直接，将来时 faudra 也不合。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l4-q15",
+          "type": "tiles",
+          "prompt": "Transformez à l'irréel : « Dans ce jeu, je suis un explorateur. » → ___",
+          "answer": [
+            "Dans",
+            "ce",
+            "jeu,",
+            "je",
+            "serais",
+            "un",
+            "explorateur."
+          ],
+          "bank": [
+            "Dans",
+            "ce",
+            "jeu,",
+            "je",
+            "serais",
+            "un",
+            "explorateur.",
+            "suis",
+            "serai",
+            "étais",
+            "explorateur",
+            "serions"
+          ],
+          "translation": "在这个游戏里，我是一名探险家。→ 在这个游戏里，我会是一名探险家。",
+          "explain": "角色扮演属于想象情境，用条件式现在时：être 的词干 ser-，je 加 -ais 得 serais。suis 是现在时，serai 是简单将来时，étais 是未完成过去时，都不能体现非现实的设想。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l5",
+      "title": "条件式过去时：构成、配合与先将来（识别）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c13-future-conditional-l5-q1",
+          "type": "choice",
+          "prompt": "Complétez au conditionnel passé : « Elle ___ partie sans nous prévenir. »",
+          "options": [
+            "serait",
+            "serais",
+            "sera",
+            "était"
+          ],
+          "answer": 0,
+          "translation": "她本来会不打招呼就走的。",
+          "explain": "主语 elle 是第三人称单数，条件式过去时用 être 的条件式 serait + 过去分词 partie；partie 与阴性主语配合。serais 是 je/tu 的形式；sera + partie 构成 futur antérieur（先将来时），不是条件式过去时；était 是未完成过去时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l5-q2",
+          "type": "letters",
+          "prompt": "Tu ___ (avoir, conditionnel passé) pu me prévenir avant de partir.",
+          "answer": "aurais",
+          "decoys": [
+            "e",
+            "t",
+            "n"
+          ],
+          "translation": "你本来可以在走之前告诉我的。",
+          "explain": "条件式过去时的助动词用 avoir 的条件式：tu aurais pu。空格填 aurais；as 是现在时，auras + pu 构成 futur antérieur（先将来时），不是条件式过去时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l5-q3",
+          "type": "tiles",
+          "prompt": "Mettez les deux verbes au temps convenable pour exprimer un passé non réalisé : « Si tu savais, tu viendrais. » → ___",
+          "answer": [
+            "Si",
+            "tu",
+            "avais",
+            "su,",
+            "tu",
+            "serais",
+            "venu."
+          ],
+          "bank": [
+            "Si",
+            "tu",
+            "avais",
+            "su,",
+            "tu",
+            "serais",
+            "venu.",
+            "savais",
+            "viendrais",
+            "étais",
+            "venais",
+            "serai"
+          ],
+          "translation": "如果你当时知道，你就会来了。",
+          "explain": "这是与过去事实相反的假设：si 从句用愈过去时 tu avais su，主句用条件式过去时 tu serais venu。venir 用 être 作助动词，过去分词 venu 与 tu 配合；不能用条件式现在时 viendrais。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l5-q4",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Si j'aurais su, je serais venu plus tôt hier.",
+            "Si j'avais su, je serais venu plus tôt hier.",
+            "Si j'avais su, je viendrais plus tôt hier.",
+            "Si j'aurais su, je viendrais plus tôt hier."
+          ],
+          "answer": 1,
+          "translation": "如果我当时知道，我昨天就会早点来了。",
+          "explain": "si 条件从句不能用条件式：与过去事实相反时用愈过去时 j'avais su，主句用条件式过去时 je serais venu。第一和第四句在 si 从句误用条件式；第三句用条件式现在时搭配过去时间 hier，时态不配。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l5-q5",
+          "type": "letters",
+          "prompt": "Elles seraient ___ (partir) avant la fin du film.",
+          "answer": "parties",
+          "decoys": [
+            "a",
+            "u",
+            "n"
+          ],
+          "translation": "她们本来会在电影结束前离开。",
+          "explain": "助动词是 être，过去分词与主语 elles 配合，parti 变为阴性复数 parties。不能写 parti 或 partie。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l5-q6",
+          "type": "letters",
+          "prompt": "Ce sont les lettres qu'elle aurait ___ (écrire).",
+          "answer": "écrites",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "这些就是她本来会写的信。",
+          "explain": "助动词是 avoir，但前置的直接宾语 les lettres 是阴性复数，过去分词要与之配合：écrit 变为 écrites。不能写 écrit 或 écrite。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l5-q7",
+          "type": "choice",
+          "prompt": "Dans « Il m'a promis qu'il aurait terminé avant mon retour », comment comprendre « aurait terminé » ?",
+          "options": [
+            "Il a terminé avant de faire sa promesse.",
+            "Il terminera après mon retour, dans le futur.",
+            "L'action est imaginaire et ne se réalisera jamais.",
+            "Du point de vue passé de la promesse, l'action sera déjà accomplie avant mon retour."
+          ],
+          "answer": 3,
+          "translation": "在「他答应我会在我回来之前完成」中，该如何理解 aurait terminé？",
+          "explain": "这是条件式过去时的先将来用法：参照点是过去的 m'a promis，从那个视角看，动作将在 mon retour 之前完成。它不是已经完成的过去动作，不是现在的将来，也不是单纯想象。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l6",
+      "title": "si 条件结构：三类假设与段落时态",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c13-future-conditional-l6-q1",
+          "type": "choice",
+          "prompt": "S'il ___ beau demain, nous irons à la plage.",
+          "options": [
+            "fait",
+            "faisait",
+            "fera",
+            "ferait"
+          ],
+          "answer": 0,
+          "translation": "如果明天天气好，我们就去海滩。",
+          "explain": "现实可能的条件用 si + 现在时，主句用简单将来时：si + fait → irons。si 从句不能用简单将来时 fera，也不能用条件式 ferait；faisait 是未完成过去时，用于低可能性假设。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l6-q2",
+          "type": "letters",
+          "prompt": "Si tu ___ (finir) tes devoirs, tu pourras sortir.",
+          "answer": "finis",
+          "decoys": [
+            "a",
+            "e",
+            "t"
+          ],
+          "translation": "如果你做完作业，就可以出去。",
+          "explain": "si 从句表示现实条件，用现在时；finir 的第二人称单数现在时是 finis。主句 pourras 是简单将来时。不要填将来时 finiras。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l6-q3",
+          "type": "tiles",
+          "prompt": "Réunissez les deux phrases en une seule avec « si » : « Tu viendras. Nous irons au cinéma. » → ___",
+          "answer": [
+            "Si",
+            "tu",
+            "viens,",
+            "nous",
+            "irons",
+            "au",
+            "cinéma."
+          ],
+          "bank": [
+            "Si",
+            "tu",
+            "viens,",
+            "nous",
+            "irons",
+            "au",
+            "cinéma.",
+            "viendras",
+            "viendrions",
+            "cinéma"
+          ],
+          "translation": "如果你来，我们就去看电影。",
+          "explain": "si 从句用现在时 viens，不能用将来时 viendras；主句用简单将来时 irons。两句合并后 si 位于句首，逗号保留。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l6-q4",
+          "type": "choice",
+          "prompt": "Si j'avais plus de temps, je ___ davantage.",
+          "options": [
+            "lirai",
+            "lisais",
+            "lirais",
+            "lis"
+          ],
+          "answer": 2,
+          "translation": "如果我有更多时间，我会多读些书。",
+          "explain": "si 从句用未完成过去时 avais，主句用条件式现在时 lirais。lirai 是简单将来时，lisais 是未完成过去时，lis 是现在时，均不能与这一假设配对。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l6-q5",
+          "type": "letters",
+          "prompt": "Si elle avait le choix, elle ___ (choisir) une autre destination.",
+          "answer": "choisirait",
+          "decoys": [
+            "e",
+            "n",
+            "u"
+          ],
+          "translation": "如果她有选择，她会选另一个目的地。",
+          "explain": "主句用条件式现在时：choisir 的将来时词干 choisir- 加 -ait，得 choisirait。si 从句 avait 是未完成过去时；主句不能用将来时 choisira。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l6-q6",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Si j'aurais le temps, je viendrais.",
+            "Si j'avais le temps, je viendrais.",
+            "Si j'avais le temps, je viendrai.",
+            "Si j'aurai le temps, je viendrais."
+          ],
+          "answer": 1,
+          "translation": "如果我有时间，我就会来。",
+          "explain": "si 从句不能用条件式，所以第一句错；si + 未完成过去时要求主句用条件式现在时，所以第三句的 viendrai 错；第四句在 si 从句误用简单将来时，且主句时态不配。只有第二句正确。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l6-q7",
+          "type": "choice",
+          "prompt": "Dans « Si vous pouviez parler plus doucement, ce serait plus agréable », la phrase exprime surtout...",
+          "options": [
+            "un fait passé",
+            "une condition irréelle du passé",
+            "un ordre catégorique",
+            "une demande polie"
+          ],
+          "answer": 3,
+          "translation": "在「如果您能说得轻一点，那就更好了」中，这句话主要表达什么？",
+          "explain": "si + 未完成过去时加主句条件式现在时，这里用于委婉请求，而不是过去事实或过去反事实。它也不等于命令式那样的强硬命令。si + 未完成过去时不一定都表示与事实相反。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l6-q8",
+          "type": "choice",
+          "prompt": "Choisissez le passage qui respecte les règles des hypothèses.",
+          "options": [
+            "Si j'aurai le temps, je passerai chez toi ; si j'aurais plus d'argent, je partirais en vacances.",
+            "Si j'ai le temps, je passais chez toi ; si j'avais plus d'argent, je partirais en vacances.",
+            "Si j'ai le temps, je passerai chez toi ; si j'avais plus d'argent, je partirais en vacances.",
+            "Si j'avais le temps, je passerai chez toi ; si j'ai plus d'argent, je partirais en vacances."
+          ],
+          "answer": 2,
+          "translation": "如果我有时间，我就去你那儿；如果我有更多钱，我就去度假。",
+          "explain": "第一句是现实条件：si + 现在时 j'ai → 主句简单将来时 passerai。第二句是低可能性假设：si + 未完成过去时 j'avais → 主句条件式现在时 partirais。其余选项都在 si 从句误用将来时或条件式，或把主句时态配错。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l6-q9",
+          "type": "choice",
+          "prompt": "Si tu ___ plus tôt, tu aurais pu nous aider.",
+          "options": [
+            "arrivais",
+            "arriveras",
+            "serais arrivé",
+            "étais arrivé"
+          ],
+          "answer": 3,
+          "translation": "如果你当时早点到，你本来就能帮我们了。",
+          "explain": "主句是条件式过去时 aurais pu，说明这是与过去事实相反的假设，si 从句要用愈过去时 étais arrivé。arrivais 是未完成过去时，arriveras 是将来时，serais arrivé 是条件式过去时，都不能用在条件 si 从句。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l6-q10",
+          "type": "letters",
+          "prompt": "S'ils avaient su, ils seraient ___ (venir) plus tôt.",
+          "answer": "venus",
+          "decoys": [
+            "a",
+            "i",
+            "t"
+          ],
+          "translation": "如果他们当时知道，他们就会早点来了。",
+          "explain": "主句助动词是 être，过去分词与主语 ils 配合；venir 的过去分词 venu 变为阳性复数 venus。不能写 venu 或 venue。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l6-q11",
+          "type": "tiles",
+          "prompt": "Exprimez l'hypothèse irréelle au passé avec « si » : « Il n'a pas étudié ; il a échoué. » → ___",
+          "answer": [
+            "S'il",
+            "avait",
+            "étudié,",
+            "il",
+            "n'aurait",
+            "pas",
+            "échoué."
+          ],
+          "bank": [
+            "S'il",
+            "avait",
+            "étudié,",
+            "il",
+            "n'aurait",
+            "pas",
+            "échoué.",
+            "a",
+            "étudiait",
+            "aurait",
+            "échouer",
+            "n'a"
+          ],
+          "translation": "他没有学习；他失败了。→ 如果他当时学习了，他就不会失败。",
+          "explain": "把现实过去改写成与过去事实相反的假设：si 从句用愈过去时 il avait étudié，主句用条件式过去时 il n'aurait pas échoué。否定词 pas 放在助动词与过去分词之间；n'aurait 与 il 省音。不能用未完成过去时 étudiait 或条件式现在时 aurait。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l6-q12",
+          "type": "tiles",
+          "prompt": "Transformez en hypothèse moins probable (si + imparfait, 主句条件式现在时) : « Si nous avons le temps, nous visiterons le musée. » → ___",
+          "answer": [
+            "Si",
+            "nous",
+            "avions",
+            "le",
+            "temps,",
+            "nous",
+            "visiterions",
+            "le",
+            "musée."
+          ],
+          "bank": [
+            "Si",
+            "nous",
+            "avions",
+            "le",
+            "temps,",
+            "nous",
+            "visiterions",
+            "le",
+            "musée.",
+            "avons",
+            "visiterons",
+            "aurons",
+            "visité",
+            "temps"
+          ],
+          "translation": "如果我们有时间，我们就去参观博物馆。→ 如果我们有时间，我们就会去参观博物馆。",
+          "explain": "把现实条件改为低可能性假设：si 从句由现在时 avons 变为未完成过去时 avions，主句由简单将来时 visiterons 变为条件式现在时 visiterions。两个 nous 和两个 le 都要保留。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l7",
+      "title": "过去将来时与过去最近将来",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c13-future-conditional-l7-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Il a promis qu'il ___ attention ce jour-là. »",
+          "options": [
+            "fera",
+            "ferait",
+            "faisait",
+            "ferais"
+          ],
+          "answer": 1,
+          "translation": "他答应过他那一天会小心。",
+          "explain": "主句 il a promis 是复合过去时，从句中发生在那个过去视角之后的“会小心”要用条件式现在时 ferait；ce jour-là 明确把参照点固定在过去，只有在主句为现在时 il promet 时才用简单将来时 fera。fera 没有随过去参照点变化；faisait 是未完成过去时；ferais 是第一、第二人称条件式，与主语 il 不一致。faire 的将来时词干是 fer-。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l7-q2",
+          "type": "tiles",
+          "prompt": "Rapportez les paroles au passé : « Il a annoncé : “Je prendrai le train de huit heures.” » → ___",
+          "answer": [
+            "Il",
+            "a",
+            "annoncé",
+            "qu'il",
+            "prendrait",
+            "le",
+            "train",
+            "de",
+            "huit",
+            "heures."
+          ],
+          "bank": [
+            "Il",
+            "a",
+            "annoncé",
+            "qu'il",
+            "prendrait",
+            "le",
+            "train",
+            "de",
+            "huit",
+            "heures.",
+            "prendra",
+            "prendrais",
+            "prenait",
+            "qu'elle",
+            "la",
+            "sept"
+          ],
+          "translation": "他宣布：“我将坐八点的火车。”→ 他宣布他会坐八点的火车。",
+          "explain": "直接引语 prendrai 是简单将来时；转为过去主句 il a annoncé 引导的间接引语后，要变为条件式现在时，人称随主语变为 il：prendrait。prendra 没有随过去参照点变化；prendrais 是第一人称条件式；prenait 是未完成过去时。prendre 的将来时词干是 prendr-。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l7-q3",
+          "type": "letters",
+          "prompt": "Complétez : « Elle a promis qu'elle ___ (revoir) ses amis le lendemain. »",
+          "answer": "reverrait",
+          "decoys": [
+            "s",
+            "x",
+            "q"
+          ],
+          "translation": "她答应过她第二天会再见到她的朋友们。",
+          "explain": "主句 elle a promis 是复合过去时，le lendemain 明确把参照点放在过去；从句的“会再见到”是过去视角中的将来，用条件式现在时。revoir 的将来时词干是 reverr-（re- + verr-），加条件式词尾 -ait，得到 reverrait；注意双 r。不能写简单将来时 reverra，也不能写未完成过去时 revoyait。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l7-q4",
+          "type": "choice",
+          "prompt": "Complétez : « Quand nous sommes arrivés à la gare, le train ___ partir. »",
+          "options": [
+            "irait",
+            "va",
+            "allait",
+            "venait"
+          ],
+          "answer": 2,
+          "translation": "我们到火车站时，火车正要开走。",
+          "explain": "这里表示在过去参照时刻（我们到达时）即将发生的动作，用 aller 的未完成过去时 allait + 不定式 partir。irait 是条件式，表示过去视角中的一般将来，不强调“正要”；va 是现在时，参照点变成说话时刻；venait 后接不定式缺少 de，不能表示最近过去。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l7-q5",
+          "type": "choice",
+          "prompt": "Complétez : « Hier, à cette heure-ci, elle ___ à la gare et ___ prendre le train de huit heures. »",
+          "options": [
+            "allait / allait",
+            "allait / irait",
+            "irait / allait",
+            "allait / venait"
+          ],
+          "answer": 0,
+          "translation": "昨天这个时间，她正前往火车站，要赶八点的火车。",
+          "explain": "第一空 aller + 地点 à la gare，是实义移动，用未完成过去时 allait 描写过去背景；第二空 aller + 不定式 prendre，是过去最近将来，表示在过去参照时刻即将发生，同样用 allait。irait 是条件式，不能表示“正要”；venait 后接不定式需加 de 才表示最近过去，不能直接接 prendre。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l7-q6",
+          "type": "tiles",
+          "prompt": "Mettez à l'imparfait : « Comme il est tard, nous allons rentrer. » → ___",
+          "answer": [
+            "Comme",
+            "il",
+            "était",
+            "tard,",
+            "nous",
+            "allions",
+            "rentrer."
+          ],
+          "bank": [
+            "Comme",
+            "il",
+            "était",
+            "tard,",
+            "nous",
+            "allions",
+            "rentrer.",
+            "est",
+            "sera",
+            "allons",
+            "rentrions",
+            "partir",
+            "elle"
+          ],
+          "translation": "因为当时天晚了，我们正要回家。",
+          "explain": "原句用现在时 est 和现在最近将来 allons rentrer；整句移到过去后，comme 从句用 être 的未完成过去时 était，主句用 aller 的未完成过去时 allions + 不定式 rentrer，表示在过去参照时刻即将回家。est 没有变成过去时，sera 是将来时，rentrions 是未完成过去时（当时正在回家或过去习惯），都不合。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l7-q7",
+          "type": "choice",
+          "prompt": "Complétez : « Quand je suis entré dans la salle, la réunion ___ de commencer et il ___ déjà trop tard pour poser une question. »",
+          "options": [
+            "venait / était",
+            "allait / était",
+            "venait / est",
+            "venait / sera"
+          ],
+          "answer": 0,
+          "translation": "我走进大厅时，会议刚开始，已经来不及提问了。",
+          "explain": "venir 的未完成过去时 venait + de + 不定式表示在过去参照时刻刚刚发生；il 指当时的情况，用 être 的未完成过去时 était 描写状态。allait 会构成“正要开始”，与 de 不搭配；est 是现在时；sera 是将来时，都不能描写过去背景。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l7-q8",
+          "type": "choice",
+          "prompt": "Complétez : « Le train ___ partir ; les voyageurs se dépêchaient encore. »",
+          "options": [
+            "irait",
+            "va",
+            "venait",
+            "allait"
+          ],
+          "answer": 3,
+          "translation": "火车就要开了；旅客们还在匆忙地赶路。",
+          "explain": "se dépêchaient 是未完成过去时，给出过去参照点；火车“正要开”用 aller 的未完成过去时 allait + 不定式 partir。irait 表示过去视角中的一般将来，不强调“就要”；va 是现在时；venait 后接不定式缺少 de，不能表示最近过去。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l7-q9",
+          "type": "tiles",
+          "prompt": "Transformez au discours indirect : « Elle a affirmé : “Je viendrai demain.” » → ___",
+          "answer": [
+            "Elle",
+            "a",
+            "affirmé",
+            "qu'elle",
+            "viendrait",
+            "le",
+            "lendemain."
+          ],
+          "bank": [
+            "Elle",
+            "a",
+            "affirmé",
+            "qu'elle",
+            "viendrait",
+            "le",
+            "lendemain.",
+            "viendra",
+            "viendrais",
+            "demain",
+            "qu'il",
+            "la",
+            "veille"
+          ],
+          "translation": "她断言：“我明天来。”→ 她断言她第二天会来。",
+          "explain": "直接引语 viendrai 是简单将来时；过去主句 elle a affirmé 后变为条件式现在时 viendrait，人称随主语变为 elle。时间词 demain 要按过去参照点改为 le lendemain；不能保留 demain 或简单将来时 viendra。viendrais 是第一人称条件式，人称不对；la veille 对应“前一天”，与 demain 不符。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l7-q10",
+          "type": "letters",
+          "prompt": "Complétez : « Ils nous ont promis qu'ils ___ (être) là avant midi le lendemain. »",
+          "answer": "seraient",
+          "decoys": [
+            "x",
+            "q",
+            "v"
+          ],
+          "translation": "他们答应过我们第二天中午之前会在那里。",
+          "explain": "主句 ont promis 是复合过去时，le lendemain 明确把参照点放在过去；从句用条件式现在时表示过去视角中的将来。être 的条件式词干是 ser-，加第三人称复数词尾 -aient，得到 seraient；不能写简单将来时 seront，也不能写未完成过去时 étaient。词尾 -aient 与主语 ils 一致。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l7-q11",
+          "type": "tiles",
+          "prompt": "Transformez à l'imparfait : « Il est tard, elle va sortir. » → ___",
+          "answer": [
+            "Il",
+            "était",
+            "tard,",
+            "elle",
+            "allait",
+            "sortir."
+          ],
+          "bank": [
+            "Il",
+            "était",
+            "tard,",
+            "elle",
+            "allait",
+            "sortir.",
+            "est",
+            "sera",
+            "va",
+            "irait",
+            "sortie"
+          ],
+          "translation": "天晚了，她正要出门。→ 当时天晚了，她正要出门。",
+          "explain": "整句移到过去：être 用未完成过去时 était，aller 用未完成过去时 allait + 不定式 sortir，表示在过去参照时刻即将出门。est 是现在时，sera 是将来时，irait 是条件式，sortie 是过去分词，都不能替代过去最近将来。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l7-q12",
+          "type": "tiles",
+          "prompt": "Transformez à l'imparfait : « Il est midi, ils viennent de finir. » → ___",
+          "answer": [
+            "Il",
+            "était",
+            "midi,",
+            "ils",
+            "venaient",
+            "de",
+            "finir."
+          ],
+          "bank": [
+            "Il",
+            "était",
+            "midi,",
+            "ils",
+            "venaient",
+            "de",
+            "finir.",
+            "est",
+            "sera",
+            "viennent",
+            "venait",
+            "fini"
+          ],
+          "translation": "中午了，他们刚做完。→ 当时中午了，他们刚做完。",
+          "explain": "整句移到过去：être 用未完成过去时 était，venir 用未完成过去时 venaient + de + 不定式 finir，表示在过去参照时刻之前刚刚完成。viennent 是现在时，venait 是第三人称单数，fini 是过去分词，均不符合结构。"
+        },
+        {
+          "id": "pub-c13-future-conditional-l7-q13",
+          "type": "choice",
+          "prompt": "Complétez : « Quand je suis arrivé, il ___ de partir et elle ___ téléphoner. »",
+          "options": [
+            "venait / allait",
+            "allait / venait",
+            "venait / venait",
+            "allait / allait"
+          ],
+          "answer": 0,
+          "translation": "我到的时候，他刚走，她正要打电话。",
+          "explain": "同一过去参照点下，venir 的未完成过去时 + de 表示“刚刚发生”，aller 的未完成过去时 + 不定式表示“即将发生”。il venait de partir 是刚走，elle allait téléphoner 是正要打电话。两个 allait 会丢失“刚走”的语义；两个 venait 则不能接 téléphoner 表示即将。"
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "pub-c13-future-conditional-x1",
+      "title": "将来与条件式综合",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c13-future-conditional-x1-q1",
+          "type": "tiles",
+          "prompt": "Transformez la première action au futur proche et la seconde au futur simple : « Je fais mes bagages tout de suite et je pars en Australie l'année prochaine. » → ___",
+          "answer": [
+            "Je",
+            "vais",
+            "faire",
+            "mes",
+            "bagages",
+            "tout",
+            "de",
+            "suite",
+            "et",
+            "je",
+            "partirai",
+            "en",
+            "Australie",
+            "l'année",
+            "prochaine."
+          ],
+          "bank": [
+            "Je",
+            "vais",
+            "faire",
+            "mes",
+            "bagages",
+            "tout",
+            "de",
+            "suite",
+            "et",
+            "je",
+            "partirai",
+            "en",
+            "Australie",
+            "l'année",
+            "prochaine.",
+            "ferai",
+            "pars",
+            "partirais",
+            "allais",
+            "partir"
+          ],
+          "translation": "我马上收拾行李；明年，我要去澳大利亚。",
+          "explain": "题干要求第一动作用最近将来时，第二动作用简单将来时。最近将来时由 aller 的现在时 vais + 不定式 faire 构成，强调眼下即将发生；简单将来时用 partirai，表示较远的计划。ferai 是简单将来时，pars 是现在时，partirais 是条件式，allais 是未完成过去时，都不符合要求的时态分工。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x1-q2",
+          "type": "choice",
+          "prompt": "Complétez : « Trop tard : le bus ___ de partir ! »",
+          "options": [
+            "vient",
+            "va",
+            "viendra",
+            "venait"
+          ],
+          "answer": 0,
+          "translation": "太晚了：公交车刚走！",
+          "explain": "venir 的现在时 + de + 不定式表示说话时刻之前刚刚发生：le bus vient de partir。va 会构成最近将来“公交车要走了”，与 de 不搭配；viendra 是简单将来时；venait 是未完成过去时，参照点在过去。这里参照点是说话时刻，所以用现在时 vient。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x1-q3",
+          "type": "choice",
+          "prompt": "Complétez : « Demain, nous ___ le dossier, puis nous vous ___ la réponse. »",
+          "options": [
+            "recevrons / enverrons",
+            "receverons / enverrons",
+            "recevrons / envoierons",
+            "recevrons / enverrai"
+          ],
+          "answer": 0,
+          "translation": "明天我们收到材料后，会把答复寄给你们。",
+          "explain": "recevoir 的简单将来时词干是 recevr-，envoyer 是 enverr-（双 r），二者都加 -ons 与 nous 配合：recevrons, enverrons。receverons 多了一个 e，词干错误；envoierons 把 envoyer 当成普通 -yer 动词，漏掉双 r；enverrai 是第一人称单数，与 nous 不一致。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x1-q4",
+          "type": "letters",
+          "prompt": "Complétez : « Dans dix ans, il ___ (connaître) toute la vérité. »",
+          "answer": "connaîtra",
+          "accentKeys": [
+            "î"
+          ],
+          "decoys": [
+            "s",
+            "d",
+            "e"
+          ],
+          "translation": "十年后，他会知道全部真相。",
+          "explain": "connaître 的简单将来时词干是 connaîtr-（-aîtr-，不含 d），加第三人称单数词尾 -a，得到 connaîtra。注意 î 上的长音符号不能丢；不要按未完成过去时写成 connaissait，也不要混入 -aindre 类的 -dr- 词干。dans dix ans 明确指将来。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x1-q5",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif (tu) : « Tu rangeras ta chambre avant de sortir. » → ___",
+          "answer": [
+            "Range",
+            "ta",
+            "chambre",
+            "avant",
+            "de",
+            "sortir."
+          ],
+          "bank": [
+            "Range",
+            "ta",
+            "chambre",
+            "avant",
+            "de",
+            "sortir.",
+            "Rangeras",
+            "rangera",
+            "Ne",
+            "pas",
+            "ton",
+            "sortie."
+          ],
+          "translation": "你出去前把房间收拾好。→ 出去前把房间收拾好！",
+          "explain": "简单将来时 tu rangeras 对应 tu 的命令式。ranger 是第一组动词，tu 命令式去掉现在时词尾 -es 的 s，得到 Range；主语 tu 省略，时间状语 avant de sortir 保留。Rangeras 仍是将来时，不是命令式；ton 与阴性名词 chambre 不一致。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x1-q6",
+          "type": "choice",
+          "prompt": "Complétez par une formule polie au conditionnel : « ___-vous m'indiquer le chemin de la gare ? »",
+          "options": [
+            "Pourrez",
+            "Pourriez",
+            "Pourrions",
+            "Puissiez"
+          ],
+          "answer": 1,
+          "translation": "您能告诉我去火车站的路吗？",
+          "explain": "题干要求礼貌公式，条件式现在时 pourriez 用来软化请求，语气比直陈式 pouvez 更委婉；pouvoir 的条件式词干是 pourr-。Pourrez 也可用于礼貌请求，但本题要求条件式，且它问的是将来的能力；Pourrions 是第一人称复数，与 vous 不一致；Puissiez 是虚拟式，不能用于这种独立疑问。倒装时保留连字符：Pourriez-vous。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x1-q7",
+          "type": "choice",
+          "prompt": "Complétez : « Il ___ mieux prendre le train de sept heures. »",
+          "options": [
+            "vaudra",
+            "valdrait",
+            "faudrait",
+            "vaudrait"
+          ],
+          "answer": 3,
+          "translation": "最好乘七点的火车。",
+          "explain": "il vaudrait mieux + 不定式是条件式现在时引出的委婉建议，语气比命令式或 il faut 更弱。valoir 的条件式词干是 vaudr-，加 -ait：vaudrait。vaudra 是简单将来时；valdrait 词干错误；faudrait 来自 falloir，意为“需要、应当”，不能与 mieux 构成“最好”的固定表达。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x1-q8",
+          "type": "letters",
+          "prompt": "Complétez : « Si j'étais libre, je ___ (venir) avec vous. »",
+          "answer": "viendrais",
+          "decoys": [
+            "t",
+            "x",
+            "q"
+          ],
+          "translation": "如果我有空，我会和你们一起去。",
+          "explain": "si 从句用未完成过去时 étais，表示对现在情况的假设；主句用条件式现在时。venir 的条件式词干是 viendr-，第一人称单数词尾 -ais：viendrais。不能写简单将来时 viendrai，也不能在 si 从句里用条件式。词尾 -ais 不要写成 -ait。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x1-q9",
+          "type": "choice",
+          "prompt": "Complétez : « Si elle avait su que tu étais malade, elle ___ plus tôt. »",
+          "options": [
+            "serait venu",
+            "aurait venue",
+            "sera venue",
+            "serait venue"
+          ],
+          "answer": 3,
+          "translation": "如果她知道你病了，她会早点来。",
+          "explain": "si 从句用愈过去时 avait su，表示与过去事实相反；主句用条件式过去时。venir 用 être 作助动词，主语 elle 是阴性单数，过去分词要配合：venue，所以是 serait venue。serait venu 漏了阴性配合；aurait venue 助动词错误（venir 用 être）；sera venue 是简单将来时，时态配对错误。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x1-q10",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Si j'aurais le temps, je viendrais.",
+            "Si j'avais le temps, je viendrais.",
+            "Si j'aurai le temps, je viendrais.",
+            "Si j'avais le temps, je viendrai."
+          ],
+          "answer": 1,
+          "translation": "如果我有时间，我会来。",
+          "explain": "si 引导条件从句时，从句不能用条件式，也不能用简单将来时；表示对现在的假设要用未完成过去时 avais，主句配条件式现在时 viendrais。第一句把条件式 aurais 放进了 si 从句；第三句用了将来时 aurai；第四句主句用简单将来时 viendrai，与 si + 未完成过去时的配对不符。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x1-q11",
+          "type": "tiles",
+          "prompt": "Transformez à l'irréel du présent : « Comme il n'a pas d'argent, il ne part pas. » → ___",
+          "answer": [
+            "S'il",
+            "avait",
+            "de",
+            "l'argent,",
+            "il",
+            "partirait."
+          ],
+          "bank": [
+            "S'il",
+            "avait",
+            "de",
+            "l'argent,",
+            "il",
+            "partirait.",
+            "a",
+            "part",
+            "partira",
+            "aurait",
+            "partait",
+            "ne"
+          ],
+          "translation": "因为他没钱，所以他不走。→ 如果他有钱，他就会走。",
+          "explain": "原句用现在时陈述事实；转为对现在的非现实假设时，si 从句用未完成过去时 avait，主句用条件式现在时 partirait。si 从句不能保留 a（现在时）或 aurait（条件式）；主句不能用简单将来时 partira，也不能用未完成过去时 partait。肯定假设中不再保留否定 ne...pas。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x1-q12",
+          "type": "choice",
+          "prompt": "Complétez : « Si vous ___ ce formulaire avant vendredi, nous ___ votre demande la semaine prochaine. »",
+          "options": [
+            "remplirez / traiterons",
+            "remplissez / traiterions",
+            "remplissez / traiterons",
+            "remplissiez / traiterons"
+          ],
+          "answer": 2,
+          "translation": "如果您在周五之前填好这份表格，我们下周会处理您的申请。",
+          "explain": "si 从句表示现实可能时用现在时 remplissez，不能用简单将来时 remplirez，也不能用未完成过去时 remplissiez（那会把条件变成低现实性假设）。主句结果是将来，用简单将来时 traiterons；traiterions 是条件式，应与 si + 未完成过去时搭配，而本句 si 从句是现在时。时间状语 avant vendredi 与 la semaine prochaine 也支持现实条件。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-x2",
+      "title": "假设与时间参照综合",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c13-future-conditional-x2-q1",
+          "type": "choice",
+          "prompt": "Complétez : « S'il fait beau dimanche prochain, nous ___ sûrement un pique-nique. »",
+          "options": [
+            "faisons",
+            "ferions",
+            "ferons",
+            "faisions"
+          ],
+          "answer": 2,
+          "translation": "如果下周日天气好，我们肯定会去野餐。",
+          "explain": "si 从句用现在时 fait 表示现实可能的条件；主句结果用简单将来时 ferons。faisons 是现在时，ferions 是条件式，faisions 是未完成过去时，都不能与 si + 现在时的现实条件配对。dimanche prochain 与 sûrement 都明确指向将来结果，faire 的将来时词干是 fer-。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x2-q2",
+          "type": "choice",
+          "prompt": "Complétez : « Si j'avais plus de temps, je ___ des cours de guitare. »",
+          "options": [
+            "prendrai",
+            "prendrais",
+            "prenais",
+            "prendre"
+          ],
+          "answer": 1,
+          "translation": "如果我有更多时间，我会去上吉他课。",
+          "explain": "si 从句用未完成过去时 avais，表示对现在情况的假设；主句用条件式现在时 prendrais。prendrai 是简单将来时，prenais 是未完成过去时，prendre 是不定式，都不能与 si + 未完成过去时搭配。prendre 的条件式词干 prendr- 来自简单将来时。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x2-q3",
+          "type": "choice",
+          "prompt": "Complétez : « Si elles avaient su que tu venais, elles ___ plus tôt. »",
+          "options": [
+            "seraient venu",
+            "auraient venues",
+            "seraient venues",
+            "seront venues"
+          ],
+          "answer": 2,
+          "translation": "如果她们知道你要来，她们会早点到。",
+          "explain": "si 从句用愈过去时 avaient su，表示与过去事实相反；主句用条件式过去时。venir 以 être 作助动词，主语 elles 是阴性复数，过去分词用 venues：seraient venues。seraient venu 缺阴性复数配合；auraient venues 助动词错误；seront venues 是简单将来时，配对错误。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x2-q4",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Si tu étais libre demain, nous irions au cinéma.",
+            "Si tu serais libre demain, nous irions au cinéma.",
+            "Si tu étais libre demain, nous irons au cinéma.",
+            "Si tu serais libre demain, nous allions au cinéma."
+          ],
+          "answer": 0,
+          "translation": "如果你明天有空，我们就去看电影。",
+          "explain": "si 条件从句不能用条件式，所以 serais 不能出现在 si 从句里；表示对将来较低可能性的设想，用未完成过去时 étais，主句配条件式现在时 irions。第三句主句用了简单将来时 irons，与 si + 未完成过去时不对应；第四句 si 从句和主句都错。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x2-q5",
+          "type": "letters",
+          "prompt": "Complétez : « Si nous partions plus tôt, nous ___ (pouvoir) arriver avant la nuit. »",
+          "answer": "pourrions",
+          "decoys": [
+            "a",
+            "e",
+            "x"
+          ],
+          "translation": "如果我们早点出发，就能在天黑前到。",
+          "explain": "si 从句 partions 是未完成过去时，主句用条件式现在时。pouvoir 的条件式词干是 pourr-，加第一人称复数词尾 -ions：pourrions。不能写简单将来时 pourrons，也不能写未完成过去时 pouvions；词尾 -ions 与 nous 一致，注意双 r。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x2-q6",
+          "type": "letters",
+          "prompt": "Complétez : « Il a promis qu'il ___ (revenir) le lendemain. »",
+          "answer": "reviendrait",
+          "decoys": [
+            "s",
+            "x",
+            "q"
+          ],
+          "translation": "他答应过第二天回来。",
+          "explain": "主句 a promis 是复合过去时，从句用条件式现在时表示过去视角中的将来。revenir 的条件式词干是 reviendr-，加第三人称单数词尾 -ait：reviendrait。不能保留简单将来时 reviendra；le lendemain 也说明时间参照在过去。词尾 -ait 不要写成 -ais。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x2-q7",
+          "type": "tiles",
+          "prompt": "Transformez au discours indirect : « Il a dit : “Je partirai demain.” » → ___",
+          "answer": [
+            "Il",
+            "a",
+            "dit",
+            "qu'il",
+            "partirait",
+            "le",
+            "lendemain."
+          ],
+          "bank": [
+            "Il",
+            "a",
+            "dit",
+            "qu'il",
+            "partirait",
+            "le",
+            "lendemain.",
+            "partira",
+            "demain",
+            "partirais",
+            "qu'elle",
+            "la",
+            "veille"
+          ],
+          "translation": "他说：“我明天出发。”→ 他说他第二天出发。",
+          "explain": "直接引语中的简单将来时 partirai 在过去主句 il a dit 后变为条件式现在时，人称随主语变为 il：partirait。时间词 demain 也要按过去参照点改为 le lendemain；不能保留 demain 或简单将来时 partira。partirais 是第一人称条件式，人称不对；la veille 对应“前一天”，与 demain 不符。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x2-q8",
+          "type": "choice",
+          "prompt": "Complétez : « Quand nous sommes sortis, il ___ pleuvoir. »",
+          "options": [
+            "irait",
+            "va",
+            "allait",
+            "venait"
+          ],
+          "answer": 2,
+          "translation": "我们出来时，天要下雨了。",
+          "explain": "过去参照时刻（我们出来时）即将下雨，用 aller 的未完成过去时 allait + 不定式 pleuvoir。irait 是条件式，表示过去视角中的一般将来，不强调“就要”；va 是现在时；venait 后接不定式缺少 de，不能表示最近过去。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x2-q9",
+          "type": "choice",
+          "prompt": "Dans « Il m'a assuré que, dès qu'il aurait terminé, il m'appellerait », que marque « aurait terminé » ?",
+          "options": [
+            "Une action passée antérieure au moment de la parole",
+            "Une demande polie",
+            "Une hypothèse irréelle sur le présent",
+            "Une action future déjà accomplie par rapport à un moment passé"
+          ],
+          "answer": 3,
+          "translation": "他向我保证，一完成工作就给我打电话。这里 aurait terminé 表示什么？",
+          "explain": "aurait terminé 是条件式过去时，在这里表示先将来：在以过去为参照的将来时间中，完成“结束工作”这一动作先于“打电话”。它依赖主句 a assuré 和 il m'appellerait 构成的过去参照点，不是对现在的假设，也不是礼貌请求。这个用法只要求识别，不要求产出。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x2-q10",
+          "type": "choice",
+          "prompt": "Complétez par une formule polie au conditionnel : « Si vous avez un instant, ___-vous me montrer comment fonctionne cet appareil ? »",
+          "options": [
+            "pourrez",
+            "pourriez",
+            "pourrions",
+            "puissiez"
+          ],
+          "answer": 1,
+          "translation": "如果您有片刻时间，能告诉我这台机器怎么用吗？",
+          "explain": "si 从句用现在时 avez，表示现实条件；主句用条件式现在时 pourriez 来软化请求。注意：si + 现在时的常规时态配对是主句简单将来时，这里的条件式主句只为礼貌，不属于 si + 未完成过去时的配对；pourrez 也常见于礼貌请求，但本题要求条件式；pourrions 是第一人称复数，与 vous 不一致；puissiez 是虚拟式。倒装形式 pourriez-vous 保留连字符。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x2-q11",
+          "type": "tiles",
+          "prompt": "Transformez à l'irréel du présent : « Il n'a pas de voiture, donc il ne vient pas. » → ___",
+          "answer": [
+            "S'il",
+            "avait",
+            "une",
+            "voiture,",
+            "il",
+            "viendrait."
+          ],
+          "bank": [
+            "S'il",
+            "avait",
+            "une",
+            "voiture,",
+            "il",
+            "viendrait.",
+            "a",
+            "de",
+            "vient",
+            "viendra",
+            "venait",
+            "aurait"
+          ],
+          "translation": "他没有车，所以不来。→ 如果他有车，他就会来。",
+          "explain": "现在时陈述转为对现在的非现实假设：si 从句用未完成过去时 avait，否定中的 de 在肯定假设中改为 une；主句用条件式现在时 viendrait。si 从句不能保留 a 或使用 aurait；主句不能用简单将来时 viendra，也不能用未完成过去时 venait。"
+        },
+        {
+          "id": "pub-c13-future-conditional-x2-q12",
+          "type": "choice",
+          "prompt": "Complétez : « Il m'a expliqué que, si j'acceptais, je ___ commencer lundi. »",
+          "options": [
+            "pourrai",
+            "pouvais",
+            "pourvais",
+            "pourrais"
+          ],
+          "answer": 3,
+          "translation": "他向我解释，如果我接受，我星期一就可以开始。",
+          "explain": "si 从句 acceptais 是未完成过去时，表示在他过去说话视角中的假设；主句用条件式现在时 pourrais，同时受过去主句 a expliqué 的过去将来视角支配。pourrai 是简单将来时，既不符合 si + 未完成过去时的配对，也没有随过去参照点变化；pouvais 是未完成过去时；pourvais 不是正确词形。"
+        }
+      ]
+    }
+  ]
+}

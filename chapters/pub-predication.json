@@ -26,185 +26,6 @@
   ],
   "lessons": [
     {
-      "id": "pub-predication-l1",
-      "title": "Être 现在时：先认主语",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-predication-l1-q1",
-          "prompt": "Je ___ étudiant en histoire.",
-          "translation": "我是历史系学生。",
-          "explain": "主语 je 对应 suis；es 用于 tu，est 用于 il/elle/on，sommes 用于 nous。",
-          "type": "choice",
-          "options": [
-            "suis",
-            "est",
-            "es",
-            "sommes"
-          ],
-          "answer": 0
-        },
-        {
-          "id": "pub-predication-l1-q2",
-          "prompt": "Tu ___ prêt à commencer.（用 être 的适当形式填空）",
-          "translation": "你准备好开始了。",
-          "explain": "tu 的 être 形式是 es；不要与 est 或 suis 混淆。",
-          "type": "letters",
-          "answer": "es"
-        },
-        {
-          "id": "pub-predication-l1-q3",
-          "prompt": "Elle ___ très patiente avec ses élèves.",
-          "translation": "她对学生们很有耐心。",
-          "explain": "elle 是第三人称单数，用 est；patiente 也与阴性单数主语配合。",
-          "type": "choice",
-          "options": [
-            "es",
-            "est",
-            "sont",
-            "sommes"
-          ],
-          "answer": 1
-        },
-        {
-          "id": "pub-predication-l1-q4",
-          "prompt": "Nous ___ dans la même classe.（用 être 的适当形式填空）",
-          "translation": "我们在同一个班。",
-          "explain": "nous 对应 sommes；这是第一人称复数形式。",
-          "type": "letters",
-          "answer": "sommes"
-        },
-        {
-          "id": "pub-predication-l1-q5",
-          "prompt": "Vous ___ déjà prêts.（用 être 的适当形式填空）",
-          "translation": "你们已经准备好了。",
-          "explain": "vous 对应 êtes，注意长音符号 ê；prêts 用阳性复数配合。",
-          "type": "letters",
-          "answer": "êtes",
-          "accentKeys": [
-            "ê"
-          ]
-        },
-        {
-          "id": "pub-predication-l1-q6",
-          "prompt": "Les clés ___ sur la table.",
-          "translation": "钥匙在桌子上。",
-          "explain": "主语 les clés 是复数第三人称，用 sont；est 只用于单数。",
-          "type": "choice",
-          "options": [
-            "sommes",
-            "est",
-            "sont",
-            "avez"
-          ],
-          "answer": 2
-        },
-        {
-          "id": "pub-predication-l1-q7",
-          "prompt": "On ___ prêts à partir.",
-          "translation": "我们准备出发了。",
-          "explain": "on 作主语时动词用第三人称单数 est；这里 on 实际指“我们”，表语形容词按实际复数用 prêts。",
-          "type": "choice",
-          "options": [
-            "sommes",
-            "es",
-            "est",
-            "sont"
-          ],
-          "answer": 2
-        }
-      ]
-    },
-    {
-      "id": "pub-predication-l2",
-      "title": "Avoir 现在时：拥有与年龄",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-predication-l2-q1",
-          "prompt": "J'___ un frère et une sœur.",
-          "translation": "我有一个哥哥（弟弟）和一个姐姐（妹妹）。",
-          "explain": "主语 je 用 ai；J' 与 ai 省音成 J'ai，选项本身只填 ai。",
-          "type": "choice",
-          "options": [
-            "a",
-            "as",
-            "ai",
-            "avons"
-          ],
-          "answer": 2
-        },
-        {
-          "id": "pub-predication-l2-q2",
-          "prompt": "Tu ___ une belle voix.（用 avoir 的适当形式填空）",
-          "translation": "你有一副好嗓子。",
-          "explain": "tu 对应 as；不要与 a（第三人称单数）混淆。",
-          "type": "letters",
-          "answer": "as"
-        },
-        {
-          "id": "pub-predication-l2-q3",
-          "prompt": "Il ___ trois ans de plus que moi.",
-          "translation": "他比我大三岁。",
-          "explain": "il 对应 a；这里 a 是动词，不是介词 à。",
-          "type": "choice",
-          "options": [
-            "a",
-            "ai",
-            "ont",
-            "as"
-          ],
-          "answer": 0
-        },
-        {
-          "id": "pub-predication-l2-q4",
-          "prompt": "Nous ___ besoin d'aide.（用 avoir 的适当形式填空）",
-          "translation": "我们需要帮助。",
-          "explain": "nous 对应 avons；avoir besoin de 是固定表达。",
-          "type": "letters",
-          "answer": "avons"
-        },
-        {
-          "id": "pub-predication-l2-q5",
-          "prompt": "Vous ___ le droit de poser une question.",
-          "translation": "你们有权提问。",
-          "explain": "vous 对应 avez；être 的形式 êtes 不能表示“有”。",
-          "type": "choice",
-          "options": [
-            "avons",
-            "ont",
-            "avez",
-            "êtes"
-          ],
-          "answer": 2
-        },
-        {
-          "id": "pub-predication-l2-q6",
-          "prompt": "Elles ___ une maison à la campagne.（用 avoir 的适当形式填空）",
-          "translation": "她们在乡下有一栋房子。",
-          "explain": "elles 是第三人称复数，用 ont；不要与 sont 混淆。",
-          "type": "letters",
-          "answer": "ont"
-        },
-        {
-          "id": "pub-predication-l2-q7",
-          "prompt": "Quel âge ___ ton frère ?",
-          "translation": "你哥哥多大年纪？",
-          "explain": "法语问年龄用 avoir：Quel âge a ton frère ? 不用 être。",
-          "type": "choice",
-          "options": [
-            "est",
-            "as",
-            "ont",
-            "a"
-          ],
-          "answer": 3
-        }
-      ]
-    },
-    {
       "id": "pub-predication-l3",
       "title": "主语配合：形容词也要跟上",
       "kind": "lesson",
@@ -231,20 +52,6 @@
           "explain": "fenêtres 是阴性复数，ouverte 加 s 变成 ouvertes。",
           "type": "letters",
           "answer": "ouvertes"
-        },
-        {
-          "id": "pub-predication-l3-q5",
-          "prompt": "Léa et Chloé ___ prêtes à partir.",
-          "translation": "莱娅和克洛埃准备好出发了。",
-          "explain": "两个女性名字构成阴性复数主语，用 sont；prêtes 也是阴性复数。",
-          "type": "choice",
-          "options": [
-            "êtes",
-            "sont",
-            "sommes",
-            "est"
-          ],
-          "answer": 1
         },
         {
           "id": "pub-predication-l3-q7",
@@ -315,14 +122,6 @@
           ]
         },
         {
-          "id": "pub-predication-l4-q3",
-          "prompt": "Il n'___ pas de frère.（用 avoir 的适当形式填空）",
-          "translation": "他没有兄弟。",
-          "explain": "n' 是 ne 在元音前的省音；avoir 的第三人称单数是 a。否定后 un frère 的不定冠词变成 de。",
-          "type": "letters",
-          "answer": "a"
-        },
-        {
           "id": "pub-predication-l4-q4",
           "prompt": "用词块组成句子：她不在家。请用标准书面否定并保留 ne，要求以 Elle 开头（句首大写），句末加句号。",
           "translation": "她不在家。",
@@ -374,17 +173,6 @@
             "a"
           ],
           "answer": 3
-        },
-        {
-          "id": "pub-predication-l4-q7",
-          "prompt": "Vous n'___ pas en retard.（用 être 的适当形式填空）",
-          "translation": "你们没有迟到。",
-          "explain": "vous 的 être 形式是 êtes；n' 与 êtes 分开写，否定仍是 ne ... pas。",
-          "type": "letters",
-          "answer": "êtes",
-          "accentKeys": [
-            "ê"
-          ]
         }
       ]
     },
@@ -550,14 +338,6 @@
           ]
         },
         {
-          "id": "pub-predication-x1-q3",
-          "prompt": "Mes parents ___ en vacances.（用 être 的适当形式填空）",
-          "translation": "我父母在度假。",
-          "explain": "主语 mes parents 是第三人称复数，用 sont；ont 是 avoir，意思不同。",
-          "type": "letters",
-          "answer": "sont"
-        },
-        {
           "id": "pub-predication-x1-q4",
           "prompt": "___ une question difficile, mais je vais essayer.（评价）",
           "translation": "这是个难题，但我会试试。",
@@ -611,14 +391,6 @@
             "Ce sont"
           ],
           "answer": 2
-        },
-        {
-          "id": "pub-predication-x1-q7",
-          "prompt": "Vous n'___ pas de voiture.（用 avoir 的适当形式填空）",
-          "translation": "你们没有车。",
-          "explain": "vous 对应 avez；否定中 une voiture 的不定冠词变成 de。",
-          "type": "letters",
-          "answer": "avez"
         },
         {
           "id": "pub-predication-x1-q8",

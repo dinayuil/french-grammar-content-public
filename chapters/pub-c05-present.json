@@ -1,0 +1,2993 @@
+{
+  "id": "pub-c05-present",
+  "title": "现在时的规则与主谓一致",
+  "titleFr": "Le présent de l'indicatif : règles et accord sujet-verbe",
+  "cards": [
+    {
+      "id": "pub-c05-present-card-u1-1",
+      "title": "être 的现在时：六个形式整体记忆",
+      "body": "être 是法语最不规则的动词之一，现在时形式不能靠词干推导，必须按人称整体记住。\n\n- je suis（我是）\n- tu es（你是）\n- il / elle / on est（他/她/我们是）\n- nous sommes（我们是）\n- vous êtes（您/你们是）\n- ils / elles sont（他们/她们是）\n\n例：Je suis étudiant.（我是学生。）Tu es prêt ?（你准备好了吗？）Elle est à la maison.（她在家。）Nous sommes en retard.（我们迟到了。）Vous êtes en retard.（您/你们迟到了。）Ils sont contents.（他们很高兴。）\n\n要点：\n- on 作主语时动词用第三人称单数：On est prêt.（我们准备好了。）\n- être 本身不与主语发生省音，写 je suis，不写 j'suis（口语发音另说）。\n- vous 既可指一个人（敬称），也可指多个人，动词都用 êtes。\n\n边界：本卡只处理直陈式现在时。否定、疑问结构中的词序不由本卡处理；être 作助动词的复合时态（如 je suis venu）也不在本章范围。"
+    },
+    {
+      "id": "pub-c05-present-card-u1-2",
+      "title": "avoir 的现在时：j'ai、on a 与 il y a",
+      "body": "avoir 的现在时同样不规则，但六个形式可以成组记忆。\n\n- j'ai（我有）——je 与 ai 省音，写成 j'ai\n- tu as（你有）\n- il / elle / on a（他/她/我们有）\n- nous avons（我们有）\n- vous avez（您/你们有）\n- ils / elles ont（他们/她们有）\n\n例：J'ai vingt ans.（我二十岁。）Tu as raison.（你说得对。）Il a un chien.（他有一条狗。）Nous avons une voiture.（我们有一辆车。）Vous avez le temps ?（您/你们有时间吗？）Ils ont deux enfants.（他们有两个孩子。）\n\n要点：\n- 法语说年龄用 avoir：J'ai vingt ans，不用 être。\n- on 后面用 a，不省音：On a un problème.（我们有一个问题。）\n- il y a 是固定存在句，动词形式仍是 avoir 的 a：Il y a du pain sur la table.（桌上有面包。）\n\n边界：avoir 作助动词构成复合时态（j'ai mangé）不在本章范围；本卡只处理 avoir 本身作谓语的现在时。"
+    },
+    {
+      "id": "pub-c05-present-card-u1-3",
+      "title": "être 与 avoir 的分工和主谓一致",
+      "body": "être 和 avoir 都按主语变位，但意义和搭配不同，不能互换。\n\n- être 表身份、状态、位置：Je suis professeur.（我是老师。）Elle est fatiguée.（她累了。）Nous sommes ici.（我们在这里。）\n- avoir 表拥有、年龄、固定搭配：J'ai une sœur.（我有一个姐妹。）Il a trente ans.（他三十岁。）Nous avons besoin d'aide.（我们需要帮助。）\n\n对比同一主语：Nous sommes étudiants.（我们是学生。）Nous avons des livres.（我们有书。）Vous êtes français.（您是法国人。）Vous avez un passeport.（您有护照。）Ils sont à Lyon.（他们在里昂。）Ils ont une maison à Lyon.（他们在里昂有一所房子。）\n\n形容词作表语时与主语性数配合：Elle est grande. / Ils sont grands. / Elles sont grandes. 这属于形容词配合，但常与 être 句一起出现。\n\n边界：\n- 不要把 avoir 的 ont 与 être 的 sont 混用：ils ont（他们有）≠ ils sont（他们是）。\n- 主语是复合形式时先确定真正主语：Ma sœur et moi, nous avons...（我姐姐和我，我们有……）。\n- 本卡不涉及复合时态中的助动词选择。"
+    },
+    {
+      "id": "pub-c05-present-card-u2-1",
+      "title": "第一组 -er 动词的规则词尾",
+      "body": "第一组动词以 -er 结尾（parler、marcher、habiter、aimer……），现在时词干通常不变，词尾按主语固定为 -e、-es、-e、-ons、-ez、-ent。\n\n以 parler 为例：\n- je parle\n- tu parles\n- il / elle / on parle\n- nous parlons\n- vous parlez\n- ils / elles parlent\n\n例：Je parle français.（我说法语。）Tu parles trop vite.（你说得太快。）Elle parle à sa sœur.（她和她姐妹说话。）Nous parlons de ce film.（我们谈这部电影。）Vous parlez anglais.（您/你们说英语。）Ils parlent ensemble.（他们一起说话。）\n\n要点：\n- 三个单数形式和第三人称复数（-e、-es、-ent）都不发音，口语里常听起来一样；区别写在词尾上。\n- -ons 读 [ɔ̃]，-ez 读 [e]，要能听出 nous 与 vous 的区别。\n- on 用第三人称单数：On parle français ici.（这里大家说法语。）\n\n边界：本卡只处理词干稳定的规则 -er 动词。词干拼写调整（-cer、-ger、-yer、辅音双写、e→è）分别在后面处理；aller 虽以 -er 结尾但变位不规则，不在本卡。"
+    },
+    {
+      "id": "pub-c05-present-card-u2-2",
+      "title": "词干重音变化：e/é → è",
+      "body": "部分第一组动词在重读形式（三个单数、第三人称复数）把词干里的 e 或 é 改为 è，nous 和 vous 保留原来的 e/é。\n\n类型一：e → è（acheter、lever、peser、promener）\n- j'achète, tu achètes, il achète, nous achetons, vous achetez, ils achètent\n- je lève, tu lèves, il lève, nous levons, vous levez, ils lèvent\n\n类型二：é → è（préférer、espérer、répéter）\n- je préfère, tu préfères, il préfère, nous préférons, vous préférez, ils préfèrent\n- j'espère, tu espères, il espère, nous espérons, vous espérez, ils espèrent\n\n例：J'achète du pain.（我买面包。）Nous achetons du pain.（我们买面包。）Elle préfère le thé.（她更喜欢茶。）Nous préférons le café.（我们更喜欢咖啡。）\n\n判断：先确认该动词属于 e/é→è 类型（如 acheter、lever、préférer、espérer），再看主语是不是 je/tu/il/ils 一侧；nous/vous 保留原元音。\n\n边界：e→è 与辅音双写是两种不同调整：acheter → achète（加重音符号，不双写），appeler → appelle（双写 l，不加重音符号）。不是所有 -er 动词都发生 e→è，需按词条判断。"
+    },
+    {
+      "id": "pub-c05-present-card-u2-3",
+      "title": "根据词尾反推主语：能缩小范围，但不能唯一确定",
+      "body": "现在时词尾能把主语范围缩小，但同形词尾可能对应不止一个主语。\n\n- -e：je / il / elle / on（parle）\n- -es：tu（parles）\n- -ons：nous（parlons）\n- -ez：vous（parlez）\n- -ent：ils / elles（parlent）\n\n例：Il parle vite.（他说得快。）Je parle vite.（我说得快。）两句动词同为 parle，靠主语或上下文区分。\n\n逆推练习：看到 « chantez »，先排除 nous（应为 chantons）和 ils（chantent），剩下 vous。看到 « chantent »，主语只能是 ils 或 elles。看到 « chante »，可能是 je、il、elle 或 on，不能只凭词尾断定。\n\n边界：词尾只能缩小范围，不能单独证明唯一主语。主语是名词短语时，还要先确定名词的单复数（Les enfants chantent / L'enfant chante）。"
+    },
+    {
+      "id": "pub-c05-present-card-u3-1",
+      "title": "-cer 动词：nous 形式 c → ç",
+      "body": "以 -cer 结尾的第一组动词（commencer、lancer、avancer、placer），在 nous 形式（词尾 -ons）前把 c 改成 ç，保持 /s/ 音；其他现在时形式保留 c。\n\n以 commencer 为例：\n- je commence\n- tu commences\n- il / elle / on commence\n- nous commençons\n- vous commencez\n- ils / elles commencent\n\n例：Nous commençons le cours à huit heures.（我们八点开始上课。）Nous lançons le match.（我们开始比赛。）\n\n为什么只改 nous：c 在 a、o 前会读 /k/；加软音符变成 ç 才读 /s/。c 在 e、i 前本来就读 /s/，所以 je commence、vous commencez、nous remercions 都保留 c。\n\n边界：本卡只处理现在时。未完成过去时等时态中的 ç 规则不在本章。"
+    },
+    {
+      "id": "pub-c05-present-card-u3-2",
+      "title": "-ger 动词：nous 形式保留 e",
+      "body": "以 -ger 结尾的第一组动词（manger、nager、voyager、ranger），在 nous 形式前保留词干末尾的 e，写成 -geons，以保持 /ʒ/ 音；其他形式不额外加 e。\n\n以 manger 为例：\n- je mange\n- tu manges\n- il / elle / on mange\n- nous mangeons\n- vous mangez\n- ils / elles mangent\n\n例：Nous mangeons à midi.（我们中午吃饭。）Nous voyageons en train.（我们乘火车旅行。）Nous nageons dans la piscine.（我们在游泳池里游泳。）\n\n为什么只加在 nous：g 在 a、o 前会读 /g/；保留 e 后写成 gea/geo，g 才读 /ʒ/。je mange、tu manges、il mange、ils mangent 中的 g 在 e 前，已经读 /ʒ/，不需要加 e。\n\n边界：不要把 e 加到其他形式：ils mangent，不写 ils mangeent；vous mangez，不写 vous mangeez。"
+    },
+    {
+      "id": "pub-c05-present-card-u3-3",
+      "title": "-yer 动词：y → i 与 -ayer 的两种拼写",
+      "body": "以 -yer 结尾的第一组动词在三个单数和第三人称复数把 y 改成 i；nous 和 vous 保留 y。\n\n以 nettoyer（-oyer）为例：\n- je nettoie\n- tu nettoies\n- il / elle / on nettoie\n- nous nettoyons\n- vous nettoyez\n- ils / elles nettoient\n\n以 essuyer（-uyer）为例：j'essuie, tu essuies, il essuie, nous essuyons, vous essuyez, ils essuient。\n\n-ayer 类动词（payer、essayer）有两种可接受拼写：je paie / je paye，tu paies / tu payes，ils paient / ils payent；nous payons、vous payez 始终保留 y。考试或写作时按题目要求或词典拼写判断，不能把 -ayer 的两种形式套到 -oyer/-uyer 上。\n\n例：Je nettoie la cuisine.（我打扫厨房。）Nous nettoyons la voiture.（我们洗车。）Il envoie une lettre.（他寄一封信。）\n\n边界：并非所有 -yer 动词都变 y→i；-ayer 允许保留 y，属于正字法变体。y 变 i 只发生在词尾不发音的形式（-e、-es、-ent），nous/vous 的 -ons/-ez 是发音词尾，保留 y。"
+    },
+    {
+      "id": "pub-c05-present-card-u3-4",
+      "title": "-eler/-eter 动词：单数与第三人称复数双写辅音",
+      "body": "部分以 -eler、-eter 结尾的第一组动词在三个单数和第三人称复数双写词尾辅音 l 或 t；nous 和 vous 不双写。\n\n以 appeler 为例：\n- j'appelle\n- tu appelles\n- il / elle / on appelle\n- nous appelons\n- vous appelez\n- ils / elles appellent\n\n以 jeter 为例：je jette, tu jettes, il jette, nous jetons, vous jetez, ils jettent。épeler 同理：j'épelle, nous épelons。\n\n例：J'appelle mon frère.（我给我兄弟打电话。）Nous appelons nos amis.（我们给朋友们打电话。）Elle jette la balle.（她扔球。）Ils jettent les dés.（他们掷骰子。）\n\n对比：acheter 不双写，而把 e 改成 è：j'achète, nous achetons。lever、peser 也走重音符号路线。因此不能看到 -eler/-eter 就一律双写，必须按词条记忆：appeler、jeter、épeler 属双写族；acheter、lever、peser 属重音符号族。\n\n边界：双写只出现在词尾不发音的单数和第三人称复数形式，nous/vous 不双写；本卡只处理现在时的拼写调整。"
+    },
+    {
+      "id": "pub-c05-present-card-u4-1",
+      "title": "第二组 -ir：单数 -is/-is/-it，复数 -iss-",
+      "body": "第二组动词以 -ir 结尾，变位时在词干后加 -iss- 构成复数词干。\n\n以 finir（完成）为例：\n- je finis / tu finis / il/elle finit\n- nous finissons / vous finissez / ils/elles finissent\n\n例：Je finis mon travail.（我做完我的工作。）Nous finissons le cours à midi.（我们中午下课。）Ils choisissent un livre.（他们选一本书。）\n\n同样：réussir（成功）→ je réussis, nous réussissons, ils réussissent；grandir（长大）→ je grandis, nous grandissons, ils grandissent。\n\n判断要点：单数三个人称都以 -is/-is/-it 结尾，复数出现 -iss- 再接 -ons/-ez/-ent。听到复数形式里 /i/ 后接 /s/，通常就是第二组。\n\n边界：不能只看 -ir 词尾就判定为第二组。dormir、sortir、partir 等第三组动词虽然也以 -ir 结尾，却没有 -iss-（见下一张卡）。"
+    },
+    {
+      "id": "pub-c05-present-card-u4-2",
+      "title": "第三组短词干 -ir：dormir/sortir/partir 型",
+      "body": "部分第三组 -ir 动词有短、长两套词干：单数用短词干加 -s、-s、-t；复数用长词干加 -ons、-ez、-ent。\n\n以 dormir（睡觉）为例：\n- je dors / tu dors / il/elle dort\n- nous dormons / vous dormez / ils/elles dorment\n\n例：Les enfants dorment encore.（孩子们还在睡。）Nous sortons après le dîner.（我们晚饭后出门。）Ils partent maintenant.（他们现在动身。）\n\n同族：servir → je sers, nous servons, ils servent；mentir → je mens, nous mentons, ils mentent；sentir → je sens, nous sentons, ils sentent。\n\n判断要点：单数词干通常比复数短，第三人称单数常以 -t 结尾；复数没有 -iss-。\n\n边界：这个模型不适用于所有第三组 -ir 动词；courir、cueillir 等另有词干变化，不在本卡范围。也不要把 dormir 类套成 dormissons。"
+    },
+    {
+      "id": "pub-c05-present-card-u4-3",
+      "title": "第二组还是第三组：对照与常见错误",
+      "body": "遇到 -ir 动词，先看复数形式，而不是只看不定式。\n\n对照：\n- finir（第二组）：nous finissons, ils finissent\n- choisir（第二组）：nous choisissons, ils choisissent\n- dormir（第三组）：nous dormons, ils dorment\n- sortir（第三组）：nous sortons, ils sortent\n- partir（第三组）：nous partons, ils partent\n\n例：Nous finissons nos devoirs.（我们做完作业。）Nous dormons jusqu'à midi.（我们睡到中午。）\n\n常见错误：\n1. 把 dormir 写成 nous dormissons：多了 -iss-，这是第二组模式。\n2. 把 finir 写成 nous finons：漏掉 -iss-，这是第一组模式。\n3. 单数第三人称漏写 -t：il dort、il finit，不是 il dor / il fini。\n4. 把 sortir 的 ils 形式写成 sortissent：第三组短词干复数只用 -ent。\n\n判断顺序：先确认动词属于哪一组；再按人称选短词干或 -iss- 词干；最后核对词尾。"
+    },
+    {
+      "id": "pub-c05-present-card-u5-1",
+      "title": "主谓一致：先找真正的主语，再定人称和数",
+      "body": "现在时动词必须与主语的人称和数一致。做题顺序：\n\n1. 找主语（谁执行动作或处于某种状态）。\n2. 判断人称：je、tu、il/elle/on、nous、vous、ils/elles。\n3. 按动词组选词尾。\n\n例：Je travaille à la bibliothèque.（我在图书馆学习。）Les étudiants travaillent à la bibliothèque.（学生们在图书馆学习。）Nous travaillons ensemble.（我们一起学习。）\n\n注意：主语和动词之间可以插入其他成分，但一致关系不变：Les enfants de mon voisin jouent dans le jardin.（我邻居家的孩子们在花园里玩。）真正的主语是 les enfants，不是 voisin。\n\n边界：不要按离动词最近的名词选变位；也不要因为句首有复数名词就忽略真正的主语。"
+    },
+    {
+      "id": "pub-c05-present-card-u5-2",
+      "title": "复合主语：et、toi et moi、avec 的区别",
+      "body": "复合主语由 et 连接时，通常按“几个人”取复数：\n\n- Paul et Marie arrivent.（保罗和玛丽到了。）→ ils\n- Le père et la mère travaillent.（父亲和母亲都工作。）→ ils\n- Toi et ton frère parlez anglais.（你和你兄弟说英语。）→ vous\n- Ma sœur et moi dansons.（我姐姐和我跳舞。）→ nous\n\n含 je 的复合主语变 nous；含 tu 的复合主语变 vous；其余第三人称组合变 ils/elles。\n\n关键区别：avec 引出的成分通常是伴随状语，不改变主语：Le professeur, avec ses étudiants, visite le musée.（老师带着学生们参观博物馆。）主语仍是 le professeur，动词用单数 visite。\n\n边界：逗号之间的 avec 短语不是复合主语。别把“老师 + 学生”当成 ils。"
+    },
+    {
+      "id": "pub-c05-present-card-u5-3",
+      "title": "主语和动词被补语隔开：看中心名词",
+      "body": "主语后面常带 de 补语、同位语或状语；这些成分不支配主句动词。\n\n- Le prix des livres augmente.（书价上涨。）主语 le prix 是单数；des livres 是补语。\n- Les enfants de mon voisin jouent dehors.（我邻居家的孩子们在外面玩。）主语 les enfants 是复数；de mon voisin 是补语。\n- La classe, le matin, commence à huit heures.（这个班早上八点开始上课。）主语 la classe 是单数；le matin 是时间状语，不决定动词的数。\n\n判断方法：去掉 de 短语或插入成分，看剩下哪个名词能独立作主语；那个名词才决定动词的数。\n\n边界：不要被补语里的复数名词带偏，也不要按“最近的名词”机械配合。"
+    },
+    {
+      "id": "pub-c05-present-card-u5-4",
+      "title": "一致之外还要查词干拼写：-cer/-ger/-yer/双写/重音",
+      "body": "确定主语后，还要检查第一组动词的词干拼写是否随人称调整。常见的五类：\n\n- -cer：nous commençons（我们开始），其他形式 commencent、commence。\n- -ger：nous mangeons（我们吃），其他形式 mangent、mange。\n- -yer：nous payons、nous nettoyons（nous/vous 保留 y）；je paie、ils nettoient（单数及第三人称复数改 i）。-ayer 类中 je paye 也是可接受异体，本课以 je paie 为主。\n- 双写：j'appelle、ils appellent，但 nous appelons、vous appelez 不双写。\n- 重音：je lève、ils achètent，但 nous levons、nous achetons 保留 e。\n\n例：Nous commençons le cours à neuf heures et nous mangeons à midi.（我们九点开始上课，中午吃饭。）\n\n边界：这些调整只看主语形式，不要把所有形式统一改形；同一动词的 nous 形式和其他形式往往不同。"
+    },
+    {
+      "id": "pub-c05-present-card-u6-1",
+      "title": "泛指主语（单数）：on、tout le monde、personne、chacun",
+      "body": "这些形式作主语时，动词一律用第三人称单数：\n\n- on：On travaille ici.（人们在这里工作。）On a raison.（我们有道理。）\n- tout le monde：Tout le monde est content.（大家都很高兴。）\n- personne：Personne ne vient.（没有人来。）\n- chacun：Chacun a un casier.（每个人都有一个储物柜。）\n\n注意：on 形式上是第三人称单数，即使意思上指“我们/人们”，动词也不用 nous 形式。personne 作主语时通常与 ne 连用。\n\n边界：chacun 后面的 de 短语可以是复数（chacun des élèves），但动词仍看 chacun，用单数。同位语或补语不支配主句动词。"
+    },
+    {
+      "id": "pub-c05-present-card-u6-2",
+      "title": "泛指主语（复数）：la plupart、quelques-uns、certains",
+      "body": "表示“多数、一些、某些”的复数泛指形式作主语时，动词用第三人称复数：\n\n- La plupart des étudiants sont présents.（大多数学生都到场了。）\n- Quelques-uns arrivent en retard.（有几个迟到了。）\n- Certains préfèrent le thé.（有些人更喜欢茶。）\n- Plusieurs travaillent ici.（好几个人在这里工作。）\n\n对比：Tout le monde est là.（大家都在。）→ 单数；La plupart des gens sont là.（大多数人在。）→ 复数。\n\n边界：la plupart 形式上是单数名词，但作主语时按意义取复数。la plupart du temps 是时间状语，不是主语，动词仍跟真正的主语配合。"
+    },
+    {
+      "id": "pub-c05-present-card-u6-3",
+      "title": "由动词形式反推主语：词尾对应表",
+      "body": "看到变位动词，可以先用词尾缩小主语范围：\n\n- -ons → nous：nous parlons, nous finissons, nous dormons\n- -ez → vous：vous parlez, vous finissez, vous dormez\n- -ent → ils/elles：ils parlent, elles finissent, ils dorment\n- -is → je 或 tu：je finis, tu finis\n- -it/-t → il/elle/on：il finit, il dort\n- 第一组 -e → je/il/elle/on；-es → tu：je parle, il parle, tu parles\n\n例：Nous avons deux cours le lundi.（我们星期一有两节课。）→ -ons 说明主语是 nous。\n\n边界：词尾只能缩小范围，不能单独证明唯一主语；-s 既可能是 je 也可能是 tu，-e 也可能对应多个主语，要结合上下文。"
+    },
+    {
+      "id": "pub-c05-present-card-u6-4",
+      "title": "动词形式与主语代词：同形、省音与否定",
+      "body": "反推主语时要注意三类干扰：\n\n1. 同形：je finis 和 tu finis 都是 finis，仅凭词形不能区分，需要上下文或主语代词。\n2. 省音：je 在元音或哑音 h 前写成 j'：J'ai un frère.（我有一个兄弟。）J'habite à Lyon.（我住在里昂。）不能因为看到 j' 就以为是另一个代词。\n3. 否定：ne...pas 包住动词，但动词形式仍按主语变：Je ne parle pas anglais.（我不说英语。）Nous ne finissons pas.（我们没有完成。）\n\n例：— Qui a un stylo ? — J'ai un stylo.（谁有笔？我有笔。）动词 ai 只对应 je。\n\n边界：真正回指前文名词时，要按第三人称重新判断，不只看词尾；例如 Les enfants arrivent. Ils ont faim. 中 ils 回指 les enfants。"
+    },
+    {
+      "id": "pub-c05-present-card-u7-1",
+      "title": "现在时的当前用法：说话时刻正在发生",
+      "body": "现在时最基本的功能是描述说话时刻正在进行的动作、当前状态或当前天气。\n\n- 动作：Regarde ! Les enfants jouent dans la cour.（看！孩子们正在院子里玩。）Je cherche mes clés.（我正在找钥匙。）\n- 状态：Elle est fatiguée.（她累了。）Nous avons faim.（我们饿了。）\n- 天气：Il pleut.（正在下雨。）Il fait froid.（天冷。）\n\n判断线索：en ce moment、maintenant、regarde、écoute 等把动作锚定在说话当下。\n\n边界：现在时也可以表示习惯、普遍真理，或替代最近将来/过去；这些用法要看时间状语和语境，不能只按“正在”理解。"
+    },
+    {
+      "id": "pub-c05-present-card-u7-2",
+      "title": "现在时的习惯用法：反复发生的动作",
+      "body": "现在时描述反复发生、习惯性的动作或经常存在的状态，常与频率副词或时间状语共现。\n\n- 常见标记：souvent（经常）、toujours（总是）、d'habitude（通常）、chaque jour（每天）、tous les matins（每天早上）、le lundi（每周一）。\n- 例：Chaque samedi, mes parents travaillent au jardin.（每个星期六，我父母都在花园里干活。）Elle étudie tous les matins.（她每天早上学习。）\n\n判断：时间状语说明动作反复出现，而不是此刻正在发生。\n\n边界：频率副词不是唯一判据，有的句子靠整体语境表示习惯。对比：Aujourd'hui, je travaille au bureau.（今天我在办公室工作，当前一次）／D'habitude, je travaille à la maison.（平时我在家工作，习惯）。"
+    },
+    {
+      "id": "pub-c05-present-card-u7-3",
+      "title": "现在时的普遍真理用法：不受时间限制的判断",
+      "body": "现在时表达客观事实、普遍规律、格言或不受时间限制的判断。这类句子不指向某一次具体事件。\n\n- 自然规律：L'eau bout à cent degrés.（水在一百度沸腾。）La Terre tourne autour du Soleil.（地球绕着太阳转。）\n- 普遍事实：Les enfants grandissent vite.（孩子长得快。）\n- 格言：L'argent ne fait pas le bonheur.（金钱买不到幸福。）\n\n判断：句子陈述的是“任何时候都成立”的事实，而不是此刻或某个习惯。\n\n边界：与习惯用法区分——Chaque matin, il boit un café.（习惯，有频率状语）／Le café contient de la caféine.（普遍事实）。与当前具体天气区分——Ce matin, il pleut.（当前具体天气）。"
+    },
+    {
+      "id": "pub-c05-present-card-u7-4",
+      "title": "无人称动词与天气表达：只有第三人称单数",
+      "body": "有些动词只以第三人称单数形式出现，主语 il 不指具体的人或物，这类动词叫无人称动词。天气表达最常用这一句式。\n\n- il pleut（下雨）、il neige（下雪）、il vente（刮风）、il gèle（结冰）。\n- 天气状态也用固定句式：il fait beau / chaud / froid（天气好／热／冷）。\n- 例：Il pleut depuis ce matin.（从今天早上起一直在下雨。）Il neige souvent ici en janvier.（这里一月经常下雪。）\n\n要点：主语固定为 il，动词固定第三人称单数；不能说 ils pleuvent，也不能换成 je、tu、nous 等。\n\n边界：il est + 形容词（Il est difficile de partir.）是无人称评价句，不属于天气表达；il y a 是 avoir 的存在句。本课只处理天气与固定无人称表达。"
+    },
+    {
+      "id": "pub-c05-present-card-u7-5",
+      "title": "三种用法对比：当前、习惯、普遍真理",
+      "body": "同一个现在时形式可以承担不同用法，判断依据是语境和时间状语。\n\n- 当前：En ce moment, il pleut.（此刻正在下雨。）——动作或状态锚定在说话时刻。\n- 习惯：Chaque hiver, il neige dans cette région.（每年冬天这里都下雪。）——反复出现。\n- 普遍真理：L'eau gèle à zéro degré.（水在零度结冰。）——不受时间限制。\n\n判断顺序：\n1. 有 en ce moment、regarde、maintenant 等 → 当前。\n2. 有 chaque、souvent、d'habitude、tous les... 等 → 习惯。\n3. 句子陈述规律、格言、客观事实，无具体时间 → 普遍真理。\n\n边界与注意：天气句可以用于三种用法（Il pleut. / Il pleut souvent ici. / Il gèle à zéro degré.），不能看到天气就一律归为当前，要结合状语与语境判断。"
+    },
+    {
+      "id": "pub-c05-present-card-u8-1",
+      "title": "不定式的常见词尾：-er、-ir、-re、-oir",
+      "body": "不定式是动词的词典形式，也是变位的基础。常见词尾有四类：\n\n- -er：parler（说）、manger（吃）、commencer（开始）。第一组动词绝大多数属于此类。\n- -ir：finir（完成）、choisir（选择）、partir（出发）。注意 -ir 动词分属第二组和第三组，词尾相同但变位模式不同。\n- -re：vendre（卖）、prendre（拿）、conduire（开车）。\n- -oir：recevoir（收到）、voir（看见）、pouvoir（能够）。\n\n例：Nous finissons le projet.（我们完成项目。）——finir 的不定式词尾是 -ir。Il vend sa voiture.（他卖车。）——vendre 的词尾是 -re。\n\n边界：认出词尾不等于会正确变位；-ir 不能直接判定为第二组（partir 属第三组短词干型），-re/-oir 内部也有不同词干变化。少数动词词尾在拼写或读音上有特殊之处，需按词条记忆。"
+    },
+    {
+      "id": "pub-c05-present-card-u8-2",
+      "title": "非代词式动词的词干调整：现在时的拼写变化",
+      "body": "非代词式动词在现在时中，除了词尾，还要处理词干拼写。常见类型：\n\n- -er 动词的 e/é 变化：acheter → j'achète、nous achetons；préférer → je préfère、nous préférons。重读的单数和第三人称复数改变元音，nous/vous 保留原元音。\n- 辅音双写：appeler → j'appelle、nous appelons；jeter → je jette、nous jetons。\n- -cevoir：recevoir → je reçois、nous recevons、ils reçoivent。c 在 o 前写 ç，在 e 前保持 c。\n- -uire：conduire → je conduis、nous conduisons、ils conduisent；traduire → je traduis、nous traduisons。\n\n判断顺序：先确定动词组和词干，再看主语人称和数，最后检查是否需要改音或改拼写。\n\n边界：本卡只处理非代词式动词的现在时；代词式动词另列，不在本章范围。词干变化按动词组和语音环境处理，不能只套一个词尾表。"
+    },
+    {
+      "id": "pub-c05-present-card-u8-3",
+      "title": "同族迁移：用一个代表动词推导同族动词（仅识别）",
+      "body": "很多动词以“代表动词 + 前缀”的方式构成同族词，变位模式通常随代表动词，前缀只改变词义。\n\n- prendre（拿）：comprendre（理解）、apprendre（学习）、reprendre（重新拿）。现在时：je prends / nous prenons / ils prennent；同族：je comprends / nous comprenons / ils comprennent。\n- venir（来）：revenir（回来）、devenir（变成）、tenir（持）。je viens / nous venons / ils viennent；同族：je reviens / nous revenons / ils reviennent。\n- mettre（放）：permettre（允许）、promettre（承诺）。je mets / nous mettons / ils mettent；同族：je permets / nous permettons / ils permettent。\n\n要点：派生词可能有前缀或拼写调整，但词尾模式通常保持；判断时先找代表动词，再套用其现在时模式。\n\n边界：不能把不同词族的动词强行归并；本概念只要求识别同族关系与正确形式，不要求主动产出整组变位。"
+    },
+    {
+      "id": "pub-c05-present-card-u8-4",
+      "title": "第三人称单数的长音符号：il paraît / il connaît（仅识别）",
+      "body": "部分以 -aître 结尾的动词，以及 plaire 类动词，第三人称单数传统拼写带长音符号 î：\n\n- paraître → il paraît；connaître → il connaît；disparaître → il disparaît。\n- plaire → il plaît；déplaire → il déplaît。\n\n例：Il paraît fatigué.（他看上去累了。）Elle connaît bien la ville.（她很熟悉这座城市。）Cette idée plaît aux enfants.（孩子们喜欢这个主意。）\n\n1990 年拼写改革允许省略长音符号：il parait、il connait、il plait。两种拼写都可接受，但同一文本内应保持一致。\n\n边界：并非所有 -aire 结尾的动词都带长音符号，需以词典传统拼写为准；长音符号属于正字法变体，不改变变位模式。本概念只要求识别，不要求产出。"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pub-c05-present-l1",
+      "title": "être 与 avoir 的现在时",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c05-present-l1-q1",
+          "type": "choice",
+          "prompt": "Complétez : Nous ___ étudiants.",
+          "options": [
+            "êtes",
+            "sommes",
+            "sont",
+            "avons"
+          ],
+          "answer": 1,
+          "translation": "我们是学生。",
+          "explain": "主语是 nous，être 的现在时用 sommes。êtes 对应 vous，sont 对应 ils/elles，avons 是 avoir 的形式，都不是 être 的 nous 形式。"
+        },
+        {
+          "id": "pub-c05-present-l1-q2",
+          "type": "letters",
+          "prompt": "Complétez : Vous ___ en retard ? (être)",
+          "answer": "êtes",
+          "accentKeys": [
+            "ê"
+          ],
+          "decoys": [
+            "a",
+            "i",
+            "n",
+            "r"
+          ],
+          "translation": "你们迟到了吗？",
+          "explain": "主语是 vous，être 用 êtes，词尾带长音符号 ê。es 是 tu 的形式，sont 是 ils/elles，sommes 是 nous。"
+        },
+        {
+          "id": "pub-c05-present-l1-q3",
+          "type": "choice",
+          "prompt": "Complétez : Ils ___ un chien et deux chats.",
+          "options": [
+            "ont",
+            "sont",
+            "avez",
+            "as"
+          ],
+          "answer": 0,
+          "translation": "他们有一条狗和两只猫。",
+          "explain": "主语 ils 指「他们」，avoir 的第三人称复数形式是 ont。sont 是 être，avez 对应 vous，as 对应 tu，都不能与 ils 搭配表示「有」。"
+        },
+        {
+          "id": "pub-c05-present-l1-q4",
+          "type": "letters",
+          "prompt": "Complétez : J'___ vingt ans. (avoir)",
+          "answer": "ai",
+          "decoys": [
+            "e",
+            "s",
+            "t"
+          ],
+          "translation": "我二十岁。",
+          "explain": "表示年龄用 avoir：j'ai vingt ans。je 与 ai 省音，写成 j'ai，不能写 je ai；ai 是 avoir 的第一人称单数形式。"
+        },
+        {
+          "id": "pub-c05-present-l1-q5",
+          "type": "choice",
+          "prompt": "Complétez : Il y ___ beaucoup de monde dans la rue.",
+          "options": [
+            "est",
+            "ont",
+            "a",
+            "as"
+          ],
+          "answer": 2,
+          "translation": "街上有很多人。",
+          "explain": "il y a 是固定存在句，表示「有、存在」，其中动词形式是 avoir 的 a。il y est 不成立；ont 是复数，as 对应 tu。"
+        },
+        {
+          "id": "pub-c05-present-l1-q6",
+          "type": "tiles",
+          "prompt": "Transformez au pluriel : « Je suis étudiant. » → ___",
+          "answer": [
+            "Nous",
+            "sommes",
+            "étudiants."
+          ],
+          "bank": [
+            "Nous",
+            "sommes",
+            "étudiants.",
+            "êtes",
+            "sont",
+            "étudiant.",
+            "étudiez",
+            "étudier"
+          ],
+          "translation": "我是学生。→ 我们是学生。",
+          "explain": "源句 Je suis étudiant 是单数；变复数后主语 je 改为 nous，être 用 sommes，表语 étudiants 加 -s 与复数主语配合。"
+        },
+        {
+          "id": "pub-c05-present-l1-q7",
+          "type": "choice",
+          "prompt": "Quel pronom sujet correspond à la forme « avez » ?",
+          "options": [
+            "nous",
+            "ils",
+            "tu",
+            "vous"
+          ],
+          "answer": 3,
+          "translation": "« avez » 对应的主语代词是哪一个？",
+          "explain": "avez 是 avoir 的第二人称复数形式，主语只能是 vous。nous 对应 avons，ils/elles 对应 ont，tu 对应 as。"
+        },
+        {
+          "id": "pub-c05-present-l1-q8",
+          "type": "letters",
+          "prompt": "Complétez : Mes parents ___ une voiture. (avoir)",
+          "answer": "ont",
+          "decoys": [
+            "s",
+            "a",
+            "e"
+          ],
+          "translation": "我父母有一辆车。",
+          "explain": "主语 mes parents 是复数第三人称，相当于 ils，avoir 用 ont。不能按「父母」的意义写成单数 a，也不能用 être 的 sont。"
+        },
+        {
+          "id": "pub-c05-present-l1-q9",
+          "type": "choice",
+          "prompt": "Complétez : Tu ___ raison.",
+          "options": [
+            "as",
+            "es",
+            "est",
+            "avons"
+          ],
+          "answer": 0,
+          "translation": "你说得对。",
+          "explain": "avoir raison 是固定搭配「有理、说得对」，主语 tu 对应 as。es 是 être 的形式；est 对应 il/elle/on；avons 对应 nous。"
+        },
+        {
+          "id": "pub-c05-present-l1-q10",
+          "type": "choice",
+          "prompt": "Complétez : Les fenêtres ___ grandes.",
+          "options": [
+            "êtes",
+            "sommes",
+            "sont",
+            "est"
+          ],
+          "answer": 2,
+          "translation": "窗户很大。",
+          "explain": "主语 les fenêtres 是阴性复数，être 用 sont；形容词 grand 也要变阴性复数 grandes。êtes 对应 vous，sommes 对应 nous，est 是单数。"
+        },
+        {
+          "id": "pub-c05-present-l1-q11",
+          "type": "tiles",
+          "prompt": "Transformez au singulier : « Elles sont belles. » → ___",
+          "answer": [
+            "Elle",
+            "est",
+            "belle."
+          ],
+          "bank": [
+            "Elle",
+            "est",
+            "belle.",
+            "es",
+            "beau.",
+            "belles.",
+            "sont"
+          ],
+          "translation": "她们很漂亮。→ 她很漂亮。",
+          "explain": "源句 Elles sont belles 是阴性复数；变单数后主语用 Elle，être 用 est，形容词 belle 保持阴性单数。sont 是复数形式，belles 是复数形容词。"
+        },
+        {
+          "id": "pub-c05-present-l1-q12",
+          "type": "letters",
+          "prompt": "Complétez : Nous ___ une grande famille. (avoir)",
+          "answer": "avons",
+          "decoys": [
+            "s",
+            "e",
+            "z",
+            "i"
+          ],
+          "translation": "我们有一个大家庭。",
+          "explain": "题干给出 (avoir)，所以用 avoir 的 nous 形式 avons；不能因为「一个大家庭」而把动词写成单数。sommes 是 être 的形式，虽然「Nous sommes une grande famille」本身也成立，但不符合括号中指定的动词。"
+        },
+        {
+          "id": "pub-c05-present-l1-q13",
+          "type": "choice",
+          "prompt": "Complétez : ___ étudiant et ___ une sœur.",
+          "options": [
+            "Je suis / je ai",
+            "Je suis / j'ai",
+            "Je sommes / j'ai",
+            "J'ai / j'ai"
+          ],
+          "answer": 1,
+          "translation": "我是学生，我有一个姐妹。",
+          "explain": "第一空主语 je，身份用 être：je suis；第二空表示拥有，用 avoir：j'ai，且 je 与 ai 必须省音。其他选项或缺少省音，或把 être/avoir 形式配错。"
+        },
+        {
+          "id": "pub-c05-present-l1-q14",
+          "type": "choice",
+          "prompt": "Quelle phrase correspond à « 桌上有三本书 » ?",
+          "options": [
+            "Il est trois livres sur la table.",
+            "Il a trois livres sur la table.",
+            "Il y ont trois livres sur la table.",
+            "Il y a trois livres sur la table."
+          ],
+          "answer": 3,
+          "translation": "桌上有三本书。",
+          "explain": "表示「桌上有三本书」用存在句 il y a，动词是 avoir 的 a。il est 后接表语，不表示存在；il a 表示「他有」；il y ont 中 ont 与无人称的 il 不搭配。"
+        },
+        {
+          "id": "pub-c05-present-l1-q15",
+          "type": "letters",
+          "prompt": "Complétez : Ces voitures sont ___ (vieux).",
+          "answer": "vieilles",
+          "decoys": [
+            "a",
+            "u",
+            "r",
+            "t"
+          ],
+          "translation": "这些车很旧。",
+          "explain": "主语 ces voitures 是阴性复数，être 用 sont；形容词 vieux 的阴性单数是 vieille，阴性复数再加 -s，写成 vieilles。"
+        },
+        {
+          "id": "pub-c05-present-l1-q16",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre en conjuguant « être » et « avoir » au présent :",
+          "answer": [
+            "Nous",
+            "sommes",
+            "étudiants",
+            "et",
+            "nous",
+            "avons",
+            "beaucoup",
+            "de",
+            "livres."
+          ],
+          "bank": [
+            "Nous",
+            "sommes",
+            "étudiants",
+            "et",
+            "nous",
+            "avons",
+            "beaucoup",
+            "de",
+            "livres.",
+            "êtes",
+            "sont",
+            "avez",
+            "ont",
+            "étudiant",
+            "livre."
+          ],
+          "translation": "我们是学生，我们有很多书。",
+          "explain": "être 与 avoir 分别按同一主语 nous 变位：nous sommes、nous avons。beaucoup de 后接复数名词 livres；étudiants 作表语与复数主语配合，加 -s。"
+        },
+        {
+          "id": "pub-c05-present-l1-q17",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « je » : « Tu es étudiant et tu as une sœur. » → ___",
+          "answer": [
+            "Je",
+            "suis",
+            "étudiant",
+            "et",
+            "j'ai",
+            "une",
+            "sœur."
+          ],
+          "bank": [
+            "Je",
+            "suis",
+            "es",
+            "étudiant",
+            "et",
+            "j'ai",
+            "ai",
+            "une",
+            "un",
+            "sœur.",
+            "frère."
+          ],
+          "translation": "你是学生，你有一个姐妹。→ 我是学生，我有一个姐妹。",
+          "explain": "主语由 tu 改为 je：être 用 suis，写成 je suis；avoir 用 ai，且 je 与元音开头的 ai 省音，写成 j'ai。这样一句中同时出现保留 je 与省音为 j' 两种情况。"
+        },
+        {
+          "id": "pub-c05-present-l1-q18",
+          "type": "tiles",
+          "prompt": "Transformez au pluriel : « Je suis étudiant et j'ai un livre. » → ___",
+          "answer": [
+            "Nous",
+            "sommes",
+            "étudiants",
+            "et",
+            "nous",
+            "avons",
+            "un",
+            "livre."
+          ],
+          "bank": [
+            "Nous",
+            "sommes",
+            "êtes",
+            "étudiants",
+            "étudiant",
+            "et",
+            "nous",
+            "avons",
+            "avez",
+            "ont",
+            "un",
+            "livre.",
+            "livres."
+          ],
+          "translation": "我是学生，我有一本书。→ 我们是学生，我们有一本书。",
+          "explain": "主语 je 变复数后用 nous：être 用 sommes，avoir 用 avons。表语 étudiant 随复数主语加 -s；un livre 是单数宾语，保持原样。"
+        },
+        {
+          "id": "pub-c05-present-l1-q19",
+          "type": "letters",
+          "prompt": "Complétez : Ces idées sont ___ (nouveau).",
+          "answer": "nouvelles",
+          "decoys": [
+            "a",
+            "i",
+            "t",
+            "r"
+          ],
+          "translation": "这些想法很新颖。",
+          "explain": "主语 ces idées 是阴性复数，être 用 sont；nouveau 的阴性单数是 nouvelle，阴性复数再加 -s，写成 nouvelles。"
+        },
+        {
+          "id": "pub-c05-present-l1-q20",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « je » : « Tu as un frère et tu es étudiant. » → ___",
+          "answer": [
+            "J'",
+            "ai",
+            "un",
+            "frère",
+            "et",
+            "je",
+            "suis",
+            "étudiant."
+          ],
+          "bank": [
+            "J'",
+            "Je",
+            "ai",
+            "as",
+            "un",
+            "une",
+            "frère",
+            "frère.",
+            "et",
+            "je",
+            "suis",
+            "es",
+            "étudiant.",
+            "étudiante."
+          ],
+          "translation": "你有一个兄弟，你是学生。→ 我有一个兄弟，我是学生。",
+          "explain": "主语由 tu 改为 je：avoir 用 ai，je 与元音开头的 ai 省音为 j'ai；être 用 suis，suis 以辅音开头，je 保留不省音。同一句中同时出现省音与不省音两种情况。"
+        },
+        {
+          "id": "pub-c05-present-l1-q21",
+          "type": "tiles",
+          "prompt": "Transformez au pluriel : « Il a un chien et il est content. » → ___",
+          "answer": [
+            "Ils",
+            "ont",
+            "un",
+            "chien",
+            "et",
+            "ils",
+            "sont",
+            "contents."
+          ],
+          "bank": [
+            "Ils",
+            "ont",
+            "un",
+            "chien",
+            "et",
+            "ils",
+            "sont",
+            "contents.",
+            "Elles",
+            "a",
+            "est",
+            "content.",
+            "des",
+            "chiens."
+          ],
+          "translation": "他有一条狗，他很高兴。→ 他们有一条狗，他们很高兴。",
+          "explain": "主语 il 变复数用 ils；avoir 用 ont，être 用 sont，不能保留单数 a、est。表语 content 随复数主语加 -s，写成 contents；un chien 是单数宾语，保持不变。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l2",
+      "title": "第一组规则词尾与词干",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c05-present-l2-q1",
+          "type": "choice",
+          "prompt": "Complétez : Nous ___ français en classe.",
+          "options": [
+            "parlez",
+            "parlons",
+            "parlent",
+            "parle"
+          ],
+          "answer": 1,
+          "translation": "我们在课上说法语。",
+          "explain": "主语 nous，第一组动词 parler 的词尾是 -ons，词干 parl- 不变：nous parlons。parlez 对应 vous，parlent 对应 ils/elles，parle 对应 je/il/elle/on。"
+        },
+        {
+          "id": "pub-c05-present-l2-q2",
+          "type": "letters",
+          "prompt": "Complétez : Tu ___ très bien. (chanter)",
+          "answer": "chantes",
+          "decoys": [
+            "z",
+            "a",
+            "i",
+            "r"
+          ],
+          "translation": "你唱得很好。",
+          "explain": "主语 tu，chanter 的词尾是 -es：tu chantes。词干 chant- 保持稳定；-e 对应 je，-ons 对应 nous，-ez 对应 vous。"
+        },
+        {
+          "id": "pub-c05-present-l2-q3",
+          "type": "letters",
+          "prompt": "Complétez : Elles ___ à Lyon. (habiter)",
+          "answer": "habitent",
+          "decoys": [
+            "s",
+            "a",
+            "o",
+            "r"
+          ],
+          "translation": "她们住在里昂。",
+          "explain": "主语 elles 是第三人称复数，habiter 用 -ent：elles habitent。-ent 不发音，但必须写出来；habite 是单数，habitez 对应 vous。"
+        },
+        {
+          "id": "pub-c05-present-l2-q4",
+          "type": "choice",
+          "prompt": "Complétez : Je ___ dans un bureau.",
+          "options": [
+            "travaille",
+            "travailles",
+            "travaillons",
+            "travaillent"
+          ],
+          "answer": 0,
+          "translation": "我在办公室工作。",
+          "explain": "主语 je，travailler 用 -e：je travaille。travailles 对应 tu，travaillons 对应 nous，travaillent 对应 ils/elles。"
+        },
+        {
+          "id": "pub-c05-present-l2-q5",
+          "type": "tiles",
+          "prompt": "Transformez au pluriel : « Il regarde la télévision. » → ___",
+          "answer": [
+            "Ils",
+            "regardent",
+            "la",
+            "télévision."
+          ],
+          "bank": [
+            "Ils",
+            "regardent",
+            "la",
+            "télévision.",
+            "regarde",
+            "les",
+            "regardes"
+          ],
+          "translation": "他在看电视。→ 他们在看电视。",
+          "explain": "源句主语 il 是第三人称单数，regarde 为 -e；变复数后用 ils，regarder 的词尾变 -ent，写成 regardent。冠词 la 不变。"
+        },
+        {
+          "id": "pub-c05-present-l2-q6",
+          "type": "choice",
+          "prompt": "Complétez : Vous ___ la télévision le soir.",
+          "options": [
+            "regarde",
+            "regardent",
+            "regardez",
+            "regardons"
+          ],
+          "answer": 2,
+          "translation": "您/你们晚上看电视。",
+          "explain": "主语 vous，regarder 用 -ez：vous regardez。regarde 对应 je/il，regardent 对应 ils/elles，regardons 对应 nous。"
+        },
+        {
+          "id": "pub-c05-present-l2-q7",
+          "type": "choice",
+          "prompt": "Quel est le sujet possible de la forme « chantez » ?",
+          "options": [
+            "vous",
+            "nous",
+            "tu",
+            "ils"
+          ],
+          "answer": 0,
+          "translation": "« chantez » 可能的主语是哪一个？",
+          "explain": "词尾 -ez 只对应 vous（敬称单数或多人都用 vous）。nous 是 -ons，tu 是 -es，ils/elles 是 -ent。"
+        },
+        {
+          "id": "pub-c05-present-l2-q8",
+          "type": "choice",
+          "prompt": "Quel est le sujet possible de la forme « parlent » ?",
+          "options": [
+            "tu",
+            "ils ou elles",
+            "nous",
+            "je"
+          ],
+          "answer": 1,
+          "translation": "« parlent » 可能的主语是哪一个？",
+          "explain": "词尾 -ent 对应第三人称复数 ils 或 elles。tu 是 -es，nous 是 -ons，je 是 -e。"
+        },
+        {
+          "id": "pub-c05-present-l2-q9",
+          "type": "choice",
+          "prompt": "Quelle forme peut avoir pour sujet « je » ou « il » ?",
+          "options": [
+            "parles",
+            "parlez",
+            "parle",
+            "parlons"
+          ],
+          "answer": 2,
+          "translation": "哪个形式的主语可以是 « je » 或 « il »？",
+          "explain": "词尾 -e 可对应 je、il、elle、on 四个主语，单凭词尾不能确定唯一主语；-es 只对应 tu，-ez 只对应 vous，-ons 只对应 nous。"
+        },
+        {
+          "id": "pub-c05-present-l2-q10",
+          "type": "choice",
+          "prompt": "Complétez : J'___ une nouvelle voiture.",
+          "options": [
+            "achéte",
+            "achete",
+            "achètes",
+            "achète"
+          ],
+          "answer": 3,
+          "translation": "我买一辆新车。",
+          "explain": "acheter 在重读的 je 形式把词干 e 改成 è：j'achète。achéte 的重音位置不对，achete 缺少重音，achètes 是 tu 的形式。"
+        },
+        {
+          "id": "pub-c05-present-l2-q11",
+          "type": "letters",
+          "prompt": "Complétez : Nous ___ du pain. (acheter)",
+          "answer": "achetons",
+          "decoys": [
+            "s",
+            "a",
+            "t",
+            "i"
+          ],
+          "translation": "我们买面包。",
+          "explain": "主语 nous 属非重读形式，acheter 保留词干 e，不加重音符号：nous achetons。单数和第三人称复数才写 achète/achètent。"
+        },
+        {
+          "id": "pub-c05-present-l2-q12",
+          "type": "letters",
+          "prompt": "Complétez : Tu ___ la main. (lever)",
+          "answer": "lèves",
+          "accentKeys": [
+            "è"
+          ],
+          "decoys": [
+            "e",
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "你举手。",
+          "explain": "lever 在 tu 形式把 e 改成 è：tu lèves。nous 形式保留 e，写成 nous levons；不要把 è 套到所有形式。"
+        },
+        {
+          "id": "pub-c05-present-l2-q13",
+          "type": "choice",
+          "prompt": "Complétez : Ils ___ la main.",
+          "options": [
+            "lèvent",
+            "levent",
+            "lévent",
+            "levons"
+          ],
+          "answer": 0,
+          "translation": "他们举手。",
+          "explain": "主语 ils 是第三人称复数，lever 同样把 e 改成 è：ils lèvent。levent 缺重音符号，lévent 的重音符号位置错误，levons 对应 nous。"
+        },
+        {
+          "id": "pub-c05-present-l2-q14",
+          "type": "letters",
+          "prompt": "Complétez : Nous ___ gagner. (espérer)",
+          "answer": "espérons",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "e",
+            "s",
+            "a",
+            "i"
+          ],
+          "translation": "我们希望赢。",
+          "explain": "espérer 属 é→è 类型，但 nous 形式保留 é：nous espérons。只有 je/tu/il/ils 一侧写 espère/espèrent。"
+        },
+        {
+          "id": "pub-c05-present-l2-q15",
+          "type": "choice",
+          "prompt": "Complétez : J'___ réussir.",
+          "options": [
+            "espére",
+            "espère",
+            "éspere",
+            "espères"
+          ],
+          "answer": 1,
+          "translation": "我希望成功。",
+          "explain": "主语 je，espérer 的词干 é 在重读形式变 è：j'espère。espére 的重音位置不对，éspere 错在首字母，espères 是 tu 的形式。"
+        },
+        {
+          "id": "pub-c05-present-l2-q16",
+          "type": "letters",
+          "prompt": "Complétez : Elle ___ le thé. (préférer)",
+          "answer": "préfère",
+          "accentKeys": [
+            "é",
+            "è"
+          ],
+          "decoys": [
+            "e",
+            "s",
+            "a",
+            "i"
+          ],
+          "translation": "她更喜欢茶。",
+          "explain": "主语 elle 是第三人称单数，préférer 把词干 é 改成 è：elle préfère。nous 形式则保留 é，写成 nous préférons。"
+        },
+        {
+          "id": "pub-c05-present-l2-q17",
+          "type": "choice",
+          "prompt": "Quelle série de formes est correcte pour acheter ?",
+          "options": [
+            "j'achette, tu achettes, nous achetons",
+            "j'achète, tu achète, nous achetons",
+            "j'achète, tu achètes, nous achetons",
+            "j'achète, tu achètes, nous achétons"
+          ],
+          "answer": 2,
+          "translation": "哪一组 acheter 的现在时形式正确？",
+          "explain": "正确的一组是 j'achète, tu achètes, nous achetons：单数和第三人称复数把 e 改成 è，nous 保留 e。其他选项分别错在错误双写、tu 缺 -s、nous 多了重音符号。"
+        },
+        {
+          "id": "pub-c05-present-l2-q18",
+          "type": "choice",
+          "prompt": "Complétez : Vous ___ trop vite.",
+          "options": [
+            "parlons",
+            "parlent",
+            "parle",
+            "parlez"
+          ],
+          "answer": 3,
+          "translation": "您/你们说得太快了。",
+          "explain": "主语 vous，parler 用 -ez：vous parlez。parlons 对应 nous，parlent 对应 ils/elles，parle 对应 je/il/elle/on。"
+        },
+        {
+          "id": "pub-c05-present-l2-q19",
+          "type": "letters",
+          "prompt": "Complétez : J'___ la musique. (écouter)",
+          "answer": "écoute",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "s",
+            "a",
+            "i",
+            "e"
+          ],
+          "translation": "我听音乐。",
+          "explain": "主语 je，écouter 用 -e：j'écoute。je 与元音开头的 écoute 省音，写成 j'écoute；词尾 -e 不发音。"
+        },
+        {
+          "id": "pub-c05-present-l2-q20",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "J'aime le chocolat.",
+            "Je aime le chocolat.",
+            "J'aimes le chocolat.",
+            "J'aime le chocolats."
+          ],
+          "answer": 0,
+          "translation": "我喜欢巧克力。",
+          "explain": "je 后接元音开头的 aime 必须省音，写成 j'aime，不能写 je aime。动词是第一人称单数 -e，不加 -s；chocolat 是单数，不加 -s。"
+        },
+        {
+          "id": "pub-c05-present-l2-q21",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « je » : « Tu étudies le français. » → ___",
+          "answer": [
+            "J'",
+            "étudie",
+            "le",
+            "français."
+          ],
+          "bank": [
+            "J'",
+            "Je",
+            "étudie",
+            "étudies",
+            "le",
+            "la",
+            "français.",
+            "française."
+          ],
+          "translation": "你学法语。→ 我学法语。",
+          "explain": "源句主语 tu，étudier 为 étudies；改成 je 后动词用 -e，写成 étudie，且 je 与元音开头的 étudie 省音为 j'étudie。"
+        },
+        {
+          "id": "pub-c05-present-l2-q22",
+          "type": "choice",
+          "prompt": "Complétez : ___ à Paris.",
+          "options": [
+            "Je habite",
+            "J'habite",
+            "J'habites",
+            "Je h'abite"
+          ],
+          "answer": 1,
+          "translation": "我住在巴黎。",
+          "explain": "habiter 的 h 是哑音 h，je 要省音，写成 j'habite。不能写 je habite；动词是 je 形式，不加 -s。"
+        },
+        {
+          "id": "pub-c05-present-l2-q23",
+          "type": "choice",
+          "prompt": "Complétez : Les étudiants ___ dans la bibliothèque.",
+          "options": [
+            "travaille",
+            "travaillez",
+            "travaillent",
+            "travaillons"
+          ],
+          "answer": 2,
+          "translation": "学生们在图书馆学习。",
+          "explain": "主语 les étudiants 是第三人称复数，travailler 用 -ent：travaillent。travaille 是单数，travaillez 对应 vous，travaillons 对应 nous。"
+        },
+        {
+          "id": "pub-c05-present-l2-q24",
+          "type": "letters",
+          "prompt": "Complétez : Ma sœur et moi, nous ___ le dîner. (préparer)",
+          "answer": "préparons",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "e",
+            "s",
+            "a",
+            "i"
+          ],
+          "translation": "我姐姐和我准备晚饭。",
+          "explain": "主语是复合主语 ma sœur et moi，合起来相当于 nous，préparer 用 -ons：nous préparons。不能按最近的名词写单数。"
+        },
+        {
+          "id": "pub-c05-present-l2-q25",
+          "type": "choice",
+          "prompt": "Complétez : Le professeur ___ la leçon.",
+          "options": [
+            "expliques",
+            "expliquent",
+            "expliquez",
+            "explique"
+          ],
+          "answer": 3,
+          "translation": "老师解释课文。",
+          "explain": "主语 le professeur 是第三人称单数，expliquer 用 -e：explique。expliques 对应 tu，expliquent 对应 ils/elles，expliquez 对应 vous。"
+        },
+        {
+          "id": "pub-c05-present-l2-q26",
+          "type": "tiles",
+          "prompt": "Transformez au pluriel : « L'enfant joue dans le jardin. » → ___",
+          "answer": [
+            "Les",
+            "enfants",
+            "jouent",
+            "dans",
+            "le",
+            "jardin."
+          ],
+          "bank": [
+            "Les",
+            "enfants",
+            "jouent",
+            "dans",
+            "le",
+            "jardin.",
+            "Le",
+            "enfant",
+            "joue",
+            "la"
+          ],
+          "translation": "孩子在花园里玩。→ 孩子们在花园里玩。",
+          "explain": "源句主语 l'enfant 是单数，变复数后冠词变 les，名词 enfants 加 -s，动词 jouer 用 -ent：jouent。dans le jardin 不变。"
+        },
+        {
+          "id": "pub-c05-present-l2-q27",
+          "type": "tiles",
+          "prompt": "Mettez le sujet au pluriel : « J'achète un livre. » → ___",
+          "answer": [
+            "Nous",
+            "achetons",
+            "un",
+            "livre."
+          ],
+          "bank": [
+            "Nous",
+            "achetons",
+            "un",
+            "livre.",
+            "achetez",
+            "achètent",
+            "livres.",
+            "achète"
+          ],
+          "translation": "我买一本书。→ 我们买一本书。",
+          "explain": "源句主语 je，acheter 为 j'achète；改成 nous 后词干保留 e，用 -ons：nous achetons。un livre 是单数宾语，不随主语变复数。"
+        },
+        {
+          "id": "pub-c05-present-l2-q28",
+          "type": "choice",
+          "prompt": "Complétez : Nous ___ le journal chaque matin.",
+          "options": [
+            "achetons",
+            "achètent",
+            "achète",
+            "achetez"
+          ],
+          "answer": 0,
+          "translation": "我们每天早上买报纸。",
+          "explain": "chaque matin 表示习惯，主语 nous，acheter 在 nous 形式保留 e：nous achetons。achètent 是 ils/elles，achète 是单数，achetez 是 vous。"
+        },
+        {
+          "id": "pub-c05-present-l2-q29",
+          "type": "letters",
+          "prompt": "Complétez : Ils ___ le café. (préférer)",
+          "answer": "préfèrent",
+          "accentKeys": [
+            "é",
+            "è"
+          ],
+          "decoys": [
+            "e",
+            "s",
+            "a",
+            "i"
+          ],
+          "translation": "他们更喜欢咖啡。",
+          "explain": "主语 ils 是第三人称复数，préférer 把 é 改成 è：ils préfèrent。nous 形式才保留 é，写成 nous préférons。"
+        },
+        {
+          "id": "pub-c05-present-l2-q30",
+          "type": "choice",
+          "prompt": "Complétez : En général, les enfants ___ les histoires drôles.",
+          "options": [
+            "aime",
+            "aiment",
+            "aimez",
+            "aimes"
+          ],
+          "answer": 1,
+          "translation": "一般来说，孩子们喜欢有趣的故事。",
+          "explain": "en général 表示普遍规律，用现在时；主语 les enfants 是第三人称复数，aimer 用 -ent：aiment。aime 是单数，aimez 对应 vous，aimes 对应 tu。"
+        },
+        {
+          "id": "pub-c05-present-l2-q31",
+          "type": "choice",
+          "prompt": "Complétez : Chaque samedi, nous ___ chez mes grands-parents.",
+          "options": [
+            "dînent",
+            "dînez",
+            "dînons",
+            "dîne"
+          ],
+          "answer": 2,
+          "translation": "每周六我们都去祖父母家吃晚饭。",
+          "explain": "chaque samedi 表示反复习惯；主语 nous，dîner 用 -ons：dînons。dînent 对应 ils/elles，dînez 对应 vous，dîne 是单数。"
+        },
+        {
+          "id": "pub-c05-present-l2-q32",
+          "type": "letters",
+          "prompt": "Complétez : Nous ___ nos exercices. (finir)",
+          "answer": "finissons",
+          "decoys": [
+            "e",
+            "a",
+            "r",
+            "t"
+          ],
+          "translation": "我们完成练习。",
+          "explain": "finir 属第二组 -ir 动词，复数形式在词干 fin- 后加 -iss-：nous finissons。不能按第一组写 finons；第一组 parler 才是 nous parlons。"
+        },
+        {
+          "id": "pub-c05-present-l2-q33",
+          "type": "letters",
+          "prompt": "Complétez : Elle ___ son travail. (terminer)",
+          "answer": "termine",
+          "decoys": [
+            "s",
+            "a",
+            "e",
+            "t"
+          ],
+          "translation": "她完成她的工作。",
+          "explain": "主语 elle 是第三人称单数，terminer 用 -e：elle termine。termines 对应 tu，terminez 对应 vous，terminent 对应 ils/elles。"
+        },
+        {
+          "id": "pub-c05-present-l2-q34",
+          "type": "choice",
+          "prompt": "Quelle série de formes est correcte ?",
+          "options": [
+            "nous parlez, vous parlons, ils parle",
+            "nous parlons, vous parlez, ils parle",
+            "nous parlez, vous parlez, ils parlent",
+            "nous parlons, vous parlez, ils parlent"
+          ],
+          "answer": 3,
+          "translation": "哪一组现在时形式完全正确？",
+          "explain": "正确的一组是 nous parlons, vous parlez, ils parlent：-ons 配 nous，-ez 配 vous，-ent 配 ils。其余选项都把主语和词尾配错。"
+        },
+        {
+          "id": "pub-c05-present-l2-q35",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « je » : « Tu achètes un livre. » → ___",
+          "answer": [
+            "J'",
+            "achète",
+            "un",
+            "livre."
+          ],
+          "bank": [
+            "J'",
+            "Je",
+            "achète",
+            "achètes",
+            "achetons",
+            "achetez",
+            "un",
+            "des",
+            "livre.",
+            "livres."
+          ],
+          "translation": "你买一本书。→ 我买一本书。",
+          "explain": "tu achètes 改为 je 后，acheter 仍把 e 改成 è，写成 achète；je 与元音开头的 achète 省音，得到 j'achète。宾语 un livre 不变。"
+        },
+        {
+          "id": "pub-c05-present-l2-q36",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « je » : « Tu étudies, tu es étudiant et tu as un livre. » → ___",
+          "answer": [
+            "J'",
+            "étudie,",
+            "je",
+            "suis",
+            "étudiant",
+            "et",
+            "j'ai",
+            "un",
+            "livre."
+          ],
+          "bank": [
+            "J'",
+            "Je",
+            "étudie,",
+            "étudies,",
+            "je",
+            "suis",
+            "es",
+            "étudiant",
+            "et",
+            "j'ai",
+            "ai",
+            "un",
+            "livre.",
+            "livres."
+          ],
+          "translation": "你学习，你是学生，你有一本书。→ 我学习，我是学生，我有一本书。",
+          "explain": "étudier 是规则 -er 动词，je 形式为 étudie，且 je 省音为 j'；être 用 je suis，suis 以辅音开头，je 不省音；avoir 用 j'ai。三个动词都按 je 变位，省音只发生在元音开头的动词前。"
+        },
+        {
+          "id": "pub-c05-present-l2-q37",
+          "type": "tiles",
+          "prompt": "Transformez au pluriel : « Il achète une voiture. » → ___",
+          "answer": [
+            "Ils",
+            "achètent",
+            "une",
+            "voiture."
+          ],
+          "bank": [
+            "Ils",
+            "Elles",
+            "achètent",
+            "achète",
+            "achetons",
+            "achetez",
+            "une",
+            "des",
+            "voiture.",
+            "voitures."
+          ],
+          "translation": "他买一辆车。→ 他们买一辆车。",
+          "explain": "il 变复数用 ils；acheter 在第三人称复数同样把 e 改成 è，词尾用 -ent，写成 achètent。主语变了，单数宾语 une voiture 不变。"
+        },
+        {
+          "id": "pub-c05-present-l2-q38",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « je » : « Tu écoutes la radio. » → ___",
+          "answer": [
+            "J'",
+            "écoute",
+            "la",
+            "radio."
+          ],
+          "bank": [
+            "J'",
+            "Je",
+            "écoute",
+            "écoutes",
+            "écoutons",
+            "écoutez",
+            "la",
+            "le",
+            "radio.",
+            "radios."
+          ],
+          "translation": "你听广播。→ 我听广播。",
+          "explain": "écouter 是规则 -er 动词，je 形式用 -e，写成 écoute；je 与元音开头的 écoute 省音为 j'écoute。tu 形式 écoutes 的 -s 要去掉。"
+        },
+        {
+          "id": "pub-c05-present-l2-q39",
+          "type": "choice",
+          "prompt": "Parmi ces pronoms, lequel peut accompagner la forme « lève » ?",
+          "options": [
+            "je",
+            "tu",
+            "nous",
+            "vous"
+          ],
+          "answer": 0,
+          "translation": "下列哪个主语代词可以与 « lève » 搭配？",
+          "explain": "lève 是 lever 的 je 形式，也可用于 il/elle/on；tu 对应 lèves，nous 对应 levons，vous 对应 levez。选项中只有 je 能与 lève 搭配。"
+        },
+        {
+          "id": "pub-c05-present-l2-q40",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre en conjuguant « lever » : je / la main / et / nous / les mains.",
+          "answer": [
+            "Je",
+            "lève",
+            "la",
+            "main",
+            "et",
+            "nous",
+            "levons",
+            "les",
+            "mains."
+          ],
+          "bank": [
+            "Je",
+            "lève",
+            "leve",
+            "lèves",
+            "la",
+            "main",
+            "et",
+            "nous",
+            "levons",
+            "lèvons",
+            "les",
+            "mains.",
+            "main."
+          ],
+          "translation": "我举手，我们举手。",
+          "explain": "同一动词 lever 在两个主语下词干不同：je lève 把 e 改成 è，nous levons 保留 e。对比记忆：重读的单数形式改重音，nous/vous 保留原元音。"
+        },
+        {
+          "id": "pub-c05-present-l2-q41",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « je » : « Tu travailles, tu es fatigué et tu as un livre. » → ___",
+          "answer": [
+            "Je",
+            "travaille,",
+            "je",
+            "suis",
+            "fatigué",
+            "et",
+            "j'ai",
+            "un",
+            "livre."
+          ],
+          "bank": [
+            "Je",
+            "travaille,",
+            "travailles,",
+            "je",
+            "suis",
+            "es",
+            "fatigué",
+            "et",
+            "j'ai",
+            "ai",
+            "un",
+            "livre.",
+            "livres."
+          ],
+          "translation": "你工作，你累了，你有一本书。→ 我工作，我累了，我有一本书。",
+          "explain": "travailler 是规则 -er 动词，je 形式用 -e：je travaille；être 用 je suis；avoir 用 j'ai，je 与 ai 省音。travailler 与 être 以辅音开头，前面的 je 不省音。"
+        },
+        {
+          "id": "pub-c05-present-l2-q42",
+          "type": "tiles",
+          "prompt": "Transformez au pluriel : « Il promène le chien. » → ___",
+          "answer": [
+            "Ils",
+            "promènent",
+            "le",
+            "chien."
+          ],
+          "bank": [
+            "Ils",
+            "promènent",
+            "le",
+            "chien.",
+            "Elles",
+            "promene",
+            "proménent",
+            "promener",
+            "les",
+            "chiens."
+          ],
+          "translation": "他遛狗。→ 他们遛狗。",
+          "explain": "主语 il 变复数用 ils；promener 属 e→è 类，第三人称复数把 e 改成 è 并加 -ent：promènent。promene 缺重音，proménent 把重音符号放错位置，promener 是不定式。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l3",
+      "title": "第一组拼写调整：-cer、-ger、-yer 与辅音双写",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c05-present-l3-q1",
+          "type": "choice",
+          "prompt": "Complétez : Nous ___ la leçon.",
+          "options": [
+            "commencons",
+            "commençons",
+            "commencez",
+            "commencent"
+          ],
+          "answer": 1,
+          "translation": "我们开始上课。",
+          "explain": "commencer 属 -cer 动词，nous 形式在 c 后加软音符：nous commençons，以保持 /s/ 音。commencons 缺少 ç；commencez 对应 vous；commencent 对应 ils/elles。"
+        },
+        {
+          "id": "pub-c05-present-l3-q2",
+          "type": "letters",
+          "prompt": "Complétez : Nous ___ le match. (lancer)",
+          "answer": "lançons",
+          "accentKeys": [
+            "ç"
+          ],
+          "decoys": [
+            "s",
+            "a",
+            "e",
+            "c"
+          ],
+          "translation": "我们开始比赛。",
+          "explain": "lancer 属 -cer 动词，nous 形式把 c 改成 ç：nous lançons。其他形式如 je lance、vous lancez 保留 c。"
+        },
+        {
+          "id": "pub-c05-present-l3-q3",
+          "type": "choice",
+          "prompt": "Quel est le sujet possible de la forme « commencez » ?",
+          "options": [
+            "vous",
+            "nous",
+            "ils",
+            "tu"
+          ],
+          "answer": 0,
+          "translation": "« commencez » 可能的主语是哪一个？",
+          "explain": "commencez 的词尾是 -ez，只对应 vous。nous 是 commençons，ils/elles 是 commencent，tu 是 commences。"
+        },
+        {
+          "id": "pub-c05-present-l3-q4",
+          "type": "choice",
+          "prompt": "Complétez : Nous ___ ensemble.",
+          "options": [
+            "mangons",
+            "mangez",
+            "mangeons",
+            "mangent"
+          ],
+          "answer": 2,
+          "translation": "我们一起吃饭。",
+          "explain": "manger 属 -ger 动词，nous 形式保留 e 再写 -ons：nous mangeons，以保持 /ʒ/ 音。mangons 会让 g 读 /g/；mangez 对应 vous；mangent 对应 ils/elles。"
+        },
+        {
+          "id": "pub-c05-present-l3-q5",
+          "type": "letters",
+          "prompt": "Complétez : Nous ___ en train. (voyager)",
+          "answer": "voyageons",
+          "decoys": [
+            "s",
+            "a",
+            "e",
+            "i"
+          ],
+          "translation": "我们乘火车旅行。",
+          "explain": "voyager 属 -ger 动词，nous 形式写 -geons：nous voyageons。其他形式不加 e：je voyage、vous voyagez、ils voyagent。"
+        },
+        {
+          "id": "pub-c05-present-l3-q6",
+          "type": "choice",
+          "prompt": "Complétez : Elles ___ dans la piscine.",
+          "options": [
+            "nageent",
+            "nageons",
+            "nagez",
+            "nagent"
+          ],
+          "answer": 3,
+          "translation": "她们在游泳池里游泳。",
+          "explain": "主语 elles 是第三人称复数，nager 用 -ent，不需要额外加 e：elles nagent。只有 nous 形式才写 nageons；nageent 拼写不合法。"
+        },
+        {
+          "id": "pub-c05-present-l3-q7",
+          "type": "choice",
+          "prompt": "Complétez : Je ___ la cuisine.",
+          "options": [
+            "nettoie",
+            "nettoye",
+            "nettoies",
+            "nettoyons"
+          ],
+          "answer": 0,
+          "translation": "我打扫厨房。",
+          "explain": "nettoyer 属 -oyer 动词，je 形式把 y 改成 i：je nettoie。nettoye 不是 -oyer 的标准形式；nettoies 对应 tu；nettoyons 对应 nous。"
+        },
+        {
+          "id": "pub-c05-present-l3-q8",
+          "type": "letters",
+          "prompt": "Complétez : Nous ___ la voiture. (nettoyer)",
+          "answer": "nettoyons",
+          "decoys": [
+            "s",
+            "a",
+            "e",
+            "i"
+          ],
+          "translation": "我们洗车。",
+          "explain": "nettoyer 的 nous 形式保留 y：nous nettoyons。y→i 只发生在词尾不发音的单数和第三人称复数形式（nettoie、nettoient）。"
+        },
+        {
+          "id": "pub-c05-present-l3-q9",
+          "type": "choice",
+          "prompt": "Complétez : Ils ___ des lettres.",
+          "options": [
+            "envoyent",
+            "envoient",
+            "envoie",
+            "envoyons"
+          ],
+          "answer": 1,
+          "translation": "他们寄信。",
+          "explain": "envoyer 属 -oyer 动词，ils 形式把 y 改成 i：ils envoient。envoyent 不是标准形式；envoie 是单数；envoyons 对应 nous。"
+        },
+        {
+          "id": "pub-c05-present-l3-q10",
+          "type": "letters",
+          "prompt": "Complétez : Tu ___ la table. (essuyer)",
+          "answer": "essuies",
+          "decoys": [
+            "a",
+            "r",
+            "t",
+            "n"
+          ],
+          "translation": "你擦桌子。",
+          "explain": "essuyer 属 -uyer 动词，tu 形式把 y 改成 i：tu essuies。nous 形式保留 y，写成 nous essuyons。"
+        },
+        {
+          "id": "pub-c05-present-l3-q11",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « je » : « Tu essuies la vaisselle. » → ___",
+          "answer": [
+            "J'",
+            "essuie",
+            "la",
+            "vaisselle."
+          ],
+          "bank": [
+            "J'",
+            "Je",
+            "essuie",
+            "essuies",
+            "essuyons",
+            "la",
+            "les",
+            "vaisselle."
+          ],
+          "translation": "你擦餐具。→ 我擦餐具。",
+          "explain": "源句主语 tu，essuyer 为 essuies；改成 je 后 y 变 i，写成 essuie，且 je 与元音开头的 essuie 省音为 j'essuie。vaisselle 是阴性单数，冠词用 la。"
+        },
+        {
+          "id": "pub-c05-present-l3-q12",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « je » : « Tu appelles ton frère. » → ___",
+          "answer": [
+            "J'",
+            "appelle",
+            "mon",
+            "frère."
+          ],
+          "bank": [
+            "J'",
+            "Je",
+            "appelle",
+            "appelles",
+            "appelons",
+            "mon",
+            "frère.",
+            "frères."
+          ],
+          "translation": "你给你兄弟打电话。→ 我给我兄弟打电话。",
+          "explain": "源句 tu appelles 中 appeler 双写 l；改成 je 后仍双写：j'appelle。je 与元音开头的 appelle 省音；主有形容词随主语改为 mon frère。"
+        },
+        {
+          "id": "pub-c05-present-l3-q13",
+          "type": "letters",
+          "prompt": "Complétez : Nous ___ nos amis. (appeler)",
+          "answer": "appelons",
+          "decoys": [
+            "s",
+            "a",
+            "e",
+            "i"
+          ],
+          "translation": "我们给朋友们打电话。",
+          "explain": "主语 nous 属非重读形式，appeler 不双写：nous appelons。双写只出现在 je/tu/il/ils 一侧：j'appelle、tu appelles、il appelle、ils appellent。"
+        },
+        {
+          "id": "pub-c05-present-l3-q14",
+          "type": "choice",
+          "prompt": "Complétez : Ils ___ les dés.",
+          "options": [
+            "jetent",
+            "jètent",
+            "jettent",
+            "jetez"
+          ],
+          "answer": 2,
+          "translation": "他们掷骰子。",
+          "explain": "主语 ils 是第三人称复数，jeter 双写 t：ils jettent。jetent 少一个 t；jètent 错在把双写换成重音符号；jetez 对应 vous。"
+        },
+        {
+          "id": "pub-c05-present-l3-q15",
+          "type": "choice",
+          "prompt": "Quelle paire de formes est correcte ?",
+          "options": [
+            "j'achète / j'apelle",
+            "j'achette / j'appelle",
+            "j'achète / j'appèle",
+            "j'achète / j'appelle"
+          ],
+          "answer": 3,
+          "translation": "哪一组形式正确？",
+          "explain": "正确的一组是 j'achète / j'appelle：acheter 走 e→è 路线，不双写；appeler 走双写 l 路线，不加重音符号。j'apelle 少一个 l，j'achette 多一个 t，j'appèle 错在给 appeler 加重音符号。"
+        },
+        {
+          "id": "pub-c05-present-l3-q16",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « je » : « Tu essaies ce manteau. » → ___",
+          "answer": [
+            "J'",
+            "essaie",
+            "ce",
+            "manteau."
+          ],
+          "bank": [
+            "J'",
+            "Je",
+            "essaie",
+            "essaies",
+            "essayons",
+            "essayez",
+            "ce",
+            "cet",
+            "manteau.",
+            "manteaux."
+          ],
+          "translation": "你试这件大衣。→ 我试这件大衣。",
+          "explain": "essayer 属 -ayer 类，je 形式可写 essaie（y→i）；je 与元音开头的 essaie 省音为 j'essaie。nous/vous 形式才保留 y：nous essayons、vous essayez。"
+        },
+        {
+          "id": "pub-c05-present-l3-q17",
+          "type": "choice",
+          "prompt": "Quel est le sujet possible de la forme « jettent » ?",
+          "options": [
+            "tu",
+            "ils ou elles",
+            "nous",
+            "je"
+          ],
+          "answer": 1,
+          "translation": "« jettent » 可能的主语是哪一个？",
+          "explain": "词尾 -ent 只对应第三人称复数 ils/elles。jeter 的 ils 形式双写 t：jettent。tu 对应 jettes，nous 对应 jetons，je 对应 jette。"
+        },
+        {
+          "id": "pub-c05-present-l3-q18",
+          "type": "choice",
+          "prompt": "Parmi ces pronoms, lequel peut accompagner la forme « nettoie » ?",
+          "options": [
+            "tu",
+            "ils",
+            "vous",
+            "je"
+          ],
+          "answer": 3,
+          "translation": "下列哪个主语代词可以与 « nettoie » 搭配？",
+          "explain": "nettoie 是 -oyer 动词的单数形式，可对应 je/il/elle/on；选项中只有 je。tu 对应 nettoies，ils 对应 nettoient，vous 对应 nettoyez。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l4",
+      "title": "第二组 -ir 与第三组短词干 -ir",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c05-present-l4-q1",
+          "type": "choice",
+          "prompt": "Complétez : Nous ___ nos exercices avant le dîner. (finir)",
+          "options": [
+            "finissons",
+            "finons",
+            "finissez",
+            "finissent"
+          ],
+          "answer": 0,
+          "translation": "我们在晚饭前做完练习。",
+          "explain": "finir 是第二组 -ir 动词：复数词干为 finiss-，nous 后接 -ons，所以是 finissons。finons 是按第一组模式错误地去掉了 -iss-；finissez 对应 vous；finissent 对应 ils/elles。"
+        },
+        {
+          "id": "pub-c05-present-l4-q2",
+          "type": "letters",
+          "prompt": "Complétez : Je ___ toujours mes devoirs après l'école. (finir)",
+          "answer": "finis",
+          "translation": "我总是放学后完成作业。",
+          "explain": "主语是 je，finir 的第二组单数第一人称词尾是 -is，所以填 finis。第二组单数三个人称为 finis、finis、finit，复数才出现 -iss-（nous finissons）。"
+        },
+        {
+          "id": "pub-c05-present-l4-q3",
+          "type": "letters",
+          "prompt": "Mettez au pluriel avec « ils » : « Je finis mon travail. » → Ils ___ leur travail.",
+          "answer": "finissent",
+          "translation": "他们把工作做完。",
+          "explain": "源句主语是 je，改为 ils 后动词用第二组复数形式 finissent（finiss- + -ent）；主有形容词也相应由 mon 变为 leur（题干已给出）。不能保留 finis，也不能写成 finir。"
+        },
+        {
+          "id": "pub-c05-present-l4-q4",
+          "type": "tiles",
+          "prompt": "Transformez à la personne « nous » : « Je choisis un livre. » → ___",
+          "answer": [
+            "Nous",
+            "choisissons",
+            "un",
+            "livre."
+          ],
+          "bank": [
+            "Nous",
+            "choisissons",
+            "choisit",
+            "choisissez",
+            "choisir",
+            "choisissent",
+            "un",
+            "livre.",
+            "livres.",
+            "Je"
+          ],
+          "translation": "我们选一本书。",
+          "explain": "choisir 是第二组动词；主语由 je 改为 nous，词干 choisiss- 加 -ons，得到 choisissons。不能沿用 je choisis，也不能按第一组写成 choisisons。"
+        },
+        {
+          "id": "pub-c05-present-l4-q5",
+          "type": "choice",
+          "prompt": "Complétez : Les enfants ___ jusqu'à huit heures le dimanche. (dormir)",
+          "options": [
+            "dormissent",
+            "dormons",
+            "dorment",
+            "dort"
+          ],
+          "answer": 2,
+          "translation": "孩子们星期天睡到八点。",
+          "explain": "dormir 属于第三组短词干 -ir：ils/elles 用长词干 dorm- 加 -ent，得到 dorment。dormissent 是错误地把第二组 -iss- 套进来；dormons 对应 nous；dort 对应 il/elle。"
+        },
+        {
+          "id": "pub-c05-present-l4-q6",
+          "type": "letters",
+          "prompt": "Complétez : Je ___ de bonne heure le lundi. (sortir)",
+          "answer": "sors",
+          "translation": "星期一我出门很早。",
+          "explain": "sortir 是第三组短词干动词：je 用短词干 sor- 加 -s，得到 sors。复数 nous sortons、ils sortent 用长词干；不要写成第二组的 sortis 形式。"
+        },
+        {
+          "id": "pub-c05-present-l4-q7",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre : les élèves / finir / leurs devoirs / et / sortir / dans la cour.",
+          "answer": [
+            "Les",
+            "élèves",
+            "finissent",
+            "leurs",
+            "devoirs",
+            "et",
+            "sortent",
+            "dans",
+            "la",
+            "cour."
+          ],
+          "bank": [
+            "Les",
+            "élèves",
+            "finissent",
+            "finis",
+            "finissons",
+            "leurs",
+            "leur",
+            "devoirs",
+            "devoir",
+            "et",
+            "sortent",
+            "sort",
+            "sortons",
+            "dans",
+            "la",
+            "cour.",
+            "cours."
+          ],
+          "translation": "学生们做完作业，然后到院子里去。",
+          "explain": "主语 les élèves 是第三人称复数：finir 用 finissent（第二组），sortir 用 sortent（第三组短词干）。两个动词都必须与同一复数主语一致；leurs devoirs 也随复数主有者用 leurs。"
+        },
+        {
+          "id": "pub-c05-present-l4-q8",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Nous dormissons jusqu'à midi le samedi.",
+            "Nous dormons jusqu'à midi le samedi.",
+            "Nous dormons jusqu'à midi le samedis.",
+            "Nous dortons jusqu'à midi le samedi."
+          ],
+          "answer": 1,
+          "translation": "哪句话是正确的？",
+          "explain": "dormir 是第三组短词干动词，nous 形式为 dormons，不能按第二组写成 dormissons。le samedi 表示“每逢星期六”，用单数；samedis 在此不成立。dortons 是拼写错误。"
+        },
+        {
+          "id": "pub-c05-present-l4-q9",
+          "type": "tiles",
+          "prompt": "Transformez à la personne « nous » : « Je joue dans la cour et je finis mes devoirs. » → ___",
+          "answer": [
+            "Nous",
+            "jouons",
+            "dans",
+            "la",
+            "cour",
+            "et",
+            "finissons",
+            "nos",
+            "devoirs."
+          ],
+          "bank": [
+            "Nous",
+            "jouons",
+            "joue",
+            "jouent",
+            "dans",
+            "la",
+            "cour",
+            "et",
+            "finissons",
+            "finit",
+            "finissent",
+            "nos",
+            "mes",
+            "devoirs.",
+            "devoir."
+          ],
+          "translation": "我们在院子里玩，然后做完作业。",
+          "explain": "源句两个动词都以 je 为主语。改为 nous 后，第一组 jouer 用 jouons，第二组 finir 用 finissons；主有形容词 mes 也随之改为 nos。两个动词都要与同一主语 nous 一致。"
+        },
+        {
+          "id": "pub-c05-present-l4-q10",
+          "type": "tiles",
+          "prompt": "Transformez à la personne « nous » : « Tu manges et tu finis ton repas. » → ___",
+          "answer": [
+            "Nous",
+            "mangeons",
+            "et",
+            "nous",
+            "finissons",
+            "notre",
+            "repas."
+          ],
+          "bank": [
+            "Nous",
+            "mangeons",
+            "mangez",
+            "mangent",
+            "et",
+            "nous",
+            "finissons",
+            "finissez",
+            "finissent",
+            "notre",
+            "ton",
+            "repas."
+          ],
+          "translation": "你吃饭，你吃完你的饭。→ 我们吃饭，我们吃完我们的饭。",
+          "explain": "manger 属第一组，nous 形式保留 e：mangeons；finir 属第二组，nous 形式加 -iss-：finissons。主有形容词也随主语由 ton 改为 notre。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l5",
+      "title": "主谓一致：找对主语，选对词尾",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c05-present-l5-q1",
+          "type": "choice",
+          "prompt": "Complétez : Paul et Marie ___ à la gare en ce moment. (arriver)",
+          "options": [
+            "arrivent",
+            "arrive",
+            "arrivez",
+            "arrivons"
+          ],
+          "answer": 0,
+          "translation": "保罗和玛丽现在到火车站。",
+          "explain": "复合主语 Paul et Marie 相当于 ils，动词用第三人称复数 arrivent。arrive 是单数，arrivez 对应 vous，arrivons 对应 nous。"
+        },
+        {
+          "id": "pub-c05-present-l5-q2",
+          "type": "choice",
+          "prompt": "Complétez : Le professeur, avec ses étudiants, ___ le musée chaque année. (visiter)",
+          "options": [
+            "visitent",
+            "visitez",
+            "visite",
+            "visitons"
+          ],
+          "answer": 2,
+          "translation": "老师每年和学生们一起参观博物馆。",
+          "explain": "句子的真正主语是 le professeur（单数）；avec ses étudiants 是伴随状语，不参与主谓一致。visiter 的第三人称单数为 visite。visitent 是误按 étudiants 变位，visitez/visitons 人称不符。"
+        },
+        {
+          "id": "pub-c05-present-l5-q3",
+          "type": "letters",
+          "prompt": "Complétez : Toi et ton frère ___ très bien l'anglais. (parler)",
+          "answer": "parlez",
+          "translation": "你和你兄弟英语说得很好。",
+          "explain": "Toi et ton frère 合起来相当于 vous，parler 的 vous 形式是 parlez。不能按 toi 用 parles，也不能按“他们”用 parlent。"
+        },
+        {
+          "id": "pub-c05-present-l5-q4",
+          "type": "letters",
+          "prompt": "Complétez : Les enfants de mon voisin ___ dans le jardin. (jouer)",
+          "answer": "jouent",
+          "translation": "我邻居家的孩子们在花园里玩。",
+          "explain": "真正的主语是 les enfants（复数）；de mon voisin 是主语的补语，不决定动词的数。jouer 的 ils/elles 形式是 jouent。若误把 voisin 当主语就会写成 joue。"
+        },
+        {
+          "id": "pub-c05-present-l5-q5",
+          "type": "choice",
+          "prompt": "Complétez : Le prix des livres ___ chaque année. (augmenter)",
+          "options": [
+            "augmentent",
+            "augmente",
+            "augmentez",
+            "augmentons"
+          ],
+          "answer": 1,
+          "translation": "书价每年上涨。",
+          "explain": "主语 le prix 是单数；des livres 是补语。augmenter 的第三人称单数为 augmente。augmentent 是误按 livres 变位。"
+        },
+        {
+          "id": "pub-c05-present-l5-q6",
+          "type": "choice",
+          "prompt": "Complétez : Ses parents et elle ___ pour Lyon maintenant. (partir)",
+          "options": [
+            "part",
+            "partons",
+            "partez",
+            "partent"
+          ],
+          "answer": 3,
+          "translation": "她的父母和她现在动身去里昂。",
+          "explain": "Ses parents et elle 相当于 ils/elles，动词取第三人称复数。partir 是第三组短词干动词，复数词干 part- 加 -ent，得到 partent；part 是单数，partons 对应 nous，partez 对应 vous。"
+        },
+        {
+          "id": "pub-c05-present-l5-q7",
+          "type": "letters",
+          "prompt": "Complétez : Nous ___ le cours à neuf heures. (commencer)",
+          "answer": "commençons",
+          "accentKeys": [
+            "ç"
+          ],
+          "translation": "我们九点开始上课。",
+          "explain": "commencer 是以 -cer 结尾的第一组动词；nous 形式要在 c 下加软音符，写成 commençons，以保持 /s/ 音。其他形式如 il commence、ils commencent 保留 c。"
+        },
+        {
+          "id": "pub-c05-present-l5-q8",
+          "type": "letters",
+          "prompt": "Complétez : Ils ___ la balle trop fort. (lancer)",
+          "answer": "lancent",
+          "translation": "他们把球扔得太用力。",
+          "explain": "lancer 的 ils 形式是 lancent：词干 lanc- 加 -ent。软音符只出现在 nous 形式 lançons（c→ç），ils 形式不改变 c。不能写成 lançent。"
+        },
+        {
+          "id": "pub-c05-present-l5-q9",
+          "type": "letters",
+          "prompt": "Complétez : Nous ___ nos amis pour le dîner. (appeler)",
+          "answer": "appelons",
+          "translation": "我们请朋友们来吃晚饭。",
+          "explain": "appeler 在 nous 形式不双写 l：appelons。双写只出现在重读的单数和第三人称复数：j'appelle、tu appelles、il appelle、ils appellent；nous/vous 保留单 l。"
+        },
+        {
+          "id": "pub-c05-present-l5-q10",
+          "type": "letters",
+          "prompt": "Complétez : Ils ___ les vieux papiers. (jeter)",
+          "answer": "jettent",
+          "translation": "他们扔掉旧纸张。",
+          "explain": "jeter 在 ils 形式双写 t：jettent。nous jetons、vous jetez 不双写。jetent 漏掉双写，jetez 对应 vous，jetons 对应 nous。"
+        },
+        {
+          "id": "pub-c05-present-l5-q11",
+          "type": "letters",
+          "prompt": "Complétez : Nous ___ à midi. (manger)",
+          "answer": "mangeons",
+          "translation": "我们中午吃饭。",
+          "explain": "manger 是以 -ger 结尾的第一组动词；nous 形式保留 e，写成 mangeons，以保持 /ʒ/ 音。不能写成 mangons；其他形式如 il mange、ils mangent 不加额外 e。"
+        },
+        {
+          "id": "pub-c05-present-l5-q12",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre : elle / nager / tous les matins / avant le travail.",
+          "answer": [
+            "Elle",
+            "nage",
+            "tous",
+            "les",
+            "matins",
+            "avant",
+            "le",
+            "travail."
+          ],
+          "bank": [
+            "Elle",
+            "nage",
+            "nagee",
+            "nages",
+            "nagent",
+            "tous",
+            "les",
+            "matins",
+            "matin",
+            "avant",
+            "le",
+            "travail.",
+            "travaux."
+          ],
+          "translation": "她每天早上上班前游泳。",
+          "explain": "主语 elle 是第三人称单数，nager 用 nage。以 -ger 结尾的动词只在 nous 形式保留 e（nous nageons），其他形式不加；nages 对应 tu，nagent 对应 ils/elles。"
+        },
+        {
+          "id": "pub-c05-present-l5-q13",
+          "type": "choice",
+          "prompt": "Quelle paire de formes est correcte ? (lever)",
+          "options": [
+            "je lève / nous levons",
+            "je lève / nous lèvons",
+            "je leve / nous levons",
+            "je lèves / nous levons"
+          ],
+          "answer": 0,
+          "translation": "哪一组形式是正确的？",
+          "explain": "lever 属于词干重音变化类：重读的 je 形式把 e 改为 è，写成 lève；nous 形式不重读，保留 e，写成 levons。所以正确组合是 je lève / nous levons。lèvons 错在 nous 形式也改重音；leve 漏重音；je lèves 多了 -s。"
+        },
+        {
+          "id": "pub-c05-present-l5-q14",
+          "type": "letters",
+          "prompt": "Complétez : Nous ___ le thé au café. (préférer)",
+          "answer": "préférons",
+          "accentKeys": [
+            "é"
+          ],
+          "translation": "比起咖啡，我们更喜欢茶。",
+          "explain": "préférer 在 nous 形式保留 é：préférons。词干重音变化只发生在重读的单数和第三人称复数（je préfère、ils préfèrent）；nous/vous 保留 é。"
+        },
+        {
+          "id": "pub-c05-present-l5-q15",
+          "type": "letters",
+          "prompt": "Complétez : Ils ___ des fruits au marché. (acheter)",
+          "answer": "achètent",
+          "accentKeys": [
+            "è"
+          ],
+          "translation": "他们在市场买水果。",
+          "explain": "acheter 在 ils 形式把 e 改为 è 并加 -ent：achètent。nous achetons 保留 e，vous achetez 也不变；achetent 漏掉重音。"
+        },
+        {
+          "id": "pub-c05-present-l5-q16",
+          "type": "letters",
+          "prompt": "Complétez : Nous ___ par carte bancaire. (payer)",
+          "answer": "payons",
+          "translation": "我们用银行卡付款。",
+          "explain": "payer 属于 -yer 类；nous 形式保留 y，写成 payons。单数及第三人称复数才把 y 改为 i（je paie、ils paient）；nous/vous 保留 y。"
+        },
+        {
+          "id": "pub-c05-present-l5-q17",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre : ils / nettoyer / la cuisine / après le repas.",
+          "answer": [
+            "Ils",
+            "nettoient",
+            "la",
+            "cuisine",
+            "après",
+            "le",
+            "repas."
+          ],
+          "bank": [
+            "Ils",
+            "nettoient",
+            "nettoie",
+            "nettoyons",
+            "nettoyent",
+            "la",
+            "cuisine",
+            "après",
+            "le",
+            "repas.",
+            "repas"
+          ],
+          "translation": "饭后他们打扫厨房。",
+          "explain": "nettoyer 在 ils 形式把 y 改为 i：nettoient。nous nettoyons 保留 y；nettoie 是单数，nettoyent 是错误拼写。"
+        },
+        {
+          "id": "pub-c05-present-l5-q18",
+          "type": "letters",
+          "prompt": "Complétez : Chaque matin, elle ___ les informations à la radio. (écouter)",
+          "answer": "écoute",
+          "accentKeys": [
+            "é"
+          ],
+          "translation": "每天早上她听广播新闻。",
+          "explain": "主语 elle 是第三人称单数，écouter 用 écoute。chaque matin 表示习惯性动作，现在时形式不因“习惯”另加词尾。法语说 écouter la radio（听广播），不说 regarder la radio；regarder 用于电视。"
+        },
+        {
+          "id": "pub-c05-present-l5-q19",
+          "type": "letters",
+          "prompt": "Complétez avec le pronom sujet et le verbe : (je) ___ près de la gare. (habiter)",
+          "answer": "j'habite",
+          "translation": "我住在火车站附近。",
+          "explain": "括号中的 (je) 指定主语是 je；habiter 以哑音 h 开头，je 要省音写成 j'，动词用第一人称单数 habite，合起来是 j'habite。不能写 je habite；动词形式由 je 决定，与省音无关。"
+        },
+        {
+          "id": "pub-c05-present-l5-q20",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre : les étudiants / travailler / à la bibliothèque.",
+          "answer": [
+            "Les",
+            "étudiants",
+            "travaillent",
+            "à",
+            "la",
+            "bibliothèque."
+          ],
+          "bank": [
+            "Les",
+            "étudiants",
+            "travaillent",
+            "travaille",
+            "travaillez",
+            "travaillons",
+            "à",
+            "la",
+            "bibliothèque.",
+            "bibliothèques."
+          ],
+          "translation": "学生们在图书馆学习。",
+          "explain": "主语 les étudiants 是第三人称复数，travailler 用 travaillent。travaille 是单数，travaillez 对应 vous，travaillons 对应 nous；拼写还要注意双写 l。"
+        },
+        {
+          "id": "pub-c05-present-l5-q21",
+          "type": "letters",
+          "prompt": "Complétez : Ma sœur et moi ___ dans la même troupe. (danser)",
+          "answer": "dansons",
+          "translation": "我姐姐和我在同一个舞团跳舞。",
+          "explain": "Ma sœur et moi 合起来相当于 nous，danser 的 nous 形式是 dansons。不能按 ma sœur 用 danse，也不能按“他们”用 dansent。"
+        },
+        {
+          "id": "pub-c05-present-l5-q22",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre : les élèves de ma classe / commencer / à huit heures / et / manger / à midi.",
+          "answer": [
+            "Les",
+            "élèves",
+            "de",
+            "ma",
+            "classe",
+            "commencent",
+            "à",
+            "huit",
+            "heures",
+            "et",
+            "mangent",
+            "à",
+            "midi."
+          ],
+          "bank": [
+            "Les",
+            "élèves",
+            "de",
+            "ma",
+            "classe",
+            "commencent",
+            "commence",
+            "commençons",
+            "à",
+            "à",
+            "huit",
+            "heures",
+            "et",
+            "mangent",
+            "mange",
+            "mangeons",
+            "midi.",
+            "classe.",
+            "élève"
+          ],
+          "translation": "我班上的学生八点开始上课，中午吃饭。",
+          "explain": "主语 les élèves 是第三人称复数，两个动词都用复数：commencer → commencent，manger → mangent。de ma classe 是补语，不影响一致；-cer 的 ç 和 -ger 的 e 只在 nous 形式出现，ils 形式分别用 commencent、mangent。"
+        },
+        {
+          "id": "pub-c05-present-l5-q23",
+          "type": "letters",
+          "prompt": "Complétez : Je ___ la main pour répondre. (lever)",
+          "answer": "lève",
+          "accentKeys": [
+            "è"
+          ],
+          "translation": "我举手回答。",
+          "explain": "lever 属于词干重音变化类：je 形式把 e 改为 è，写成 lève。nous levons、vous levez 保留 e；lèves 对应 tu，lèvent 对应 ils/elles。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l6",
+      "title": "泛指主语与由动词形式反推主语",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c05-present-l6-q1",
+          "type": "choice",
+          "prompt": "Complétez : ___ ai deux sœurs et un frère.",
+          "options": [
+            "Tu",
+            "Il",
+            "J'",
+            "Je"
+          ],
+          "answer": 2,
+          "translation": "我有两个姐妹和一个兄弟。",
+          "explain": "avoir 的现在时 ai 只对应 je；je 在元音前省音为 j'，所以写 J'ai。tu 对应 as，il 对应 a，Je ai 缺少省音，都是错误形式。"
+        },
+        {
+          "id": "pub-c05-present-l6-q2",
+          "type": "choice",
+          "prompt": "Complétez : ___ sommes dans la même classe.",
+          "options": [
+            "Nous",
+            "Vous",
+            "Ils",
+            "Je"
+          ],
+          "answer": 0,
+          "translation": "我们在同一个班。",
+          "explain": "être 的 sommes 只对应 nous。vous 对应 êtes，ils/elles 对应 sont，je 对应 suis，都不能与 sommes 搭配。"
+        },
+        {
+          "id": "pub-c05-present-l6-q3",
+          "type": "choice",
+          "prompt": "Complétez : Tout le monde ___ content, mais la plupart des étudiants ___ fatigués.",
+          "options": [
+            "sont / est",
+            "est / sont",
+            "est / est",
+            "sont / sont"
+          ],
+          "answer": 1,
+          "translation": "大家都很高兴，但大多数学生很累。",
+          "explain": "tout le monde 形式上是单数，动词用 est；la plupart des étudiants 表示复数群体，动词用 sont。两类泛指主语的数不同，不能都按单数或都按复数处理。"
+        },
+        {
+          "id": "pub-c05-present-l6-q4",
+          "type": "choice",
+          "prompt": "Complétez : Chacun des élèves ___ un casier à son nom.",
+          "options": [
+            "ont",
+            "avez",
+            "avons",
+            "a"
+          ],
+          "answer": 3,
+          "translation": "每个学生都有一个写着自己名字的储物柜。",
+          "explain": "chacun 作主语时动词用第三人称单数 a；des élèves 是 chacun 的补语，虽然形式上是复数，但不支配主句动词。不要写成 ont。"
+        },
+        {
+          "id": "pub-c05-present-l6-q5",
+          "type": "choice",
+          "prompt": "Complétez : On ___ souvent ce problème au printemps. (avoir)",
+          "options": [
+            "ont",
+            "a",
+            "avez",
+            "as"
+          ],
+          "answer": 1,
+          "translation": "春天我们经常遇到这个问题。",
+          "explain": "on 作主语时动词用第三人称单数，avoir 用 a。ont 对应 ils/elles，avez 对应 vous，as 对应 tu。avoir 在这里表示“有、遇到（问题）”，是已学的常用动词。"
+        },
+        {
+          "id": "pub-c05-present-l6-q6",
+          "type": "tiles",
+          "prompt": "Transformez avec « tout le monde » : « Les enfants aiment le chocolat. » → ___",
+          "answer": [
+            "Tout",
+            "le",
+            "monde",
+            "aime",
+            "le",
+            "chocolat."
+          ],
+          "bank": [
+            "Tout",
+            "le",
+            "le",
+            "monde",
+            "aime",
+            "aiment",
+            "aimons",
+            "chocolat.",
+            "chocolats.",
+            "Les",
+            "enfants"
+          ],
+          "translation": "所有人都喜欢巧克力。",
+          "explain": "源句主语 les enfants 是复数；改为 tout le monde 后，主语变为第三人称单数，aimer 用 aime。le chocolat 保持不变。不能保留 aiment。"
+        },
+        {
+          "id": "pub-c05-present-l6-q7",
+          "type": "letters",
+          "prompt": "Complétez avec le verbe être : La plupart des livres de cette bibliothèque ___ en français.",
+          "answer": "sont",
+          "translation": "这家图书馆的大部分书是法语的。",
+          "explain": "主语 la plupart des livres 表示复数，动词用 sont；de cette bibliothèque 是补语，不影响主谓一致。不能因为 bibliothèque 是单数就写 est。"
+        },
+        {
+          "id": "pub-c05-present-l6-q8",
+          "type": "choice",
+          "prompt": "Complétez : ___ n'ai pas de frère.",
+          "options": [
+            "Je",
+            "Tu",
+            "Il",
+            "Nous"
+          ],
+          "answer": 0,
+          "translation": "我没有兄弟。",
+          "explain": "avoir 的 ai 只对应 je；在否定结构 ne...pas 中，je 位于 n' 前不省音，仍写 Je，所以是 Je n'ai pas de frère。tu 对应 as，il 对应 a，nous 对应 avons，都不能与 ai 搭配。"
+        },
+        {
+          "id": "pub-c05-present-l6-q9",
+          "type": "tiles",
+          "prompt": "Transformez la phrase en remplaçant « l'étudiant » par « la plupart des étudiants » et « chacun » par « tout le monde » : « L'étudiant est content et chacun est prêt. » → ___",
+          "answer": [
+            "La",
+            "plupart",
+            "des",
+            "étudiants",
+            "sont",
+            "contents",
+            "et",
+            "tout",
+            "le",
+            "monde",
+            "est",
+            "prêt."
+          ],
+          "bank": [
+            "La",
+            "plupart",
+            "des",
+            "étudiants",
+            "sont",
+            "contents",
+            "et",
+            "tout",
+            "le",
+            "monde",
+            "est",
+            "prêt.",
+            "content",
+            "êtes",
+            "L'",
+            "étudiant"
+          ],
+          "translation": "这个学生很高兴，每个人也都准备好了。→ 大多数学生很高兴，大家也都准备好了。",
+          "explain": "la plupart des étudiants 形式上是单数名词短语，但按意义取复数，être 用 sont，表语 content 也变复数 contents；tout le monde 虽指所有人，形式上是单数，être 用 est。两个泛指主语的数不同。"
+        },
+        {
+          "id": "pub-c05-present-l6-q10",
+          "type": "tiles",
+          "prompt": "Transformez avec « la plupart des étudiants » et « la plupart du temps » : « Les étudiants sont sérieux et ils travaillent à la bibliothèque. » → ___",
+          "answer": [
+            "La",
+            "plupart",
+            "des",
+            "étudiants",
+            "sont",
+            "sérieux",
+            "et",
+            "la",
+            "plupart",
+            "du",
+            "temps,",
+            "ils",
+            "travaillent",
+            "à",
+            "la",
+            "bibliothèque."
+          ],
+          "bank": [
+            "La",
+            "plupart",
+            "plupart",
+            "des",
+            "étudiants",
+            "étudiant",
+            "sont",
+            "est",
+            "sérieux",
+            "sérieuse",
+            "et",
+            "la",
+            "la",
+            "du",
+            "de",
+            "temps,",
+            "ils",
+            "elles",
+            "travaillent",
+            "travaille",
+            "à",
+            "bibliothèque.",
+            "bibliothèques."
+          ],
+          "translation": "学生们很认真，他们在图书馆学习。→ 大多数学生很认真，而且他们大多数时候在图书馆学习。",
+          "explain": "la plupart des étudiants 作主语时按意义取复数，être 用 sont，表语 sérieux 保持复数；la plupart du temps 是时间状语，不是主语，主句动词仍随 ils 用 travaillent。两个 la plupart 结构作用不同，不能都当主语。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l7",
+      "title": "现在时的用法与无人称动词",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c05-present-l7-q1",
+          "type": "choice",
+          "prompt": "Dans « Regarde ! Il neige ! », le présent sert à…",
+          "options": [
+            "décrire une action habituelle",
+            "décrire ce qui se passe au moment où l'on parle",
+            "énoncer une vérité générale",
+            "parler d'une action future"
+          ],
+          "answer": 1,
+          "translation": "在 « Regarde ! Il neige ! » 中，现在时用于……",
+          "explain": "Regarde ! 把注意力引向说话当下正在发生的天气；现在时在这里表示当前正在发生的事，而不是习惯、普遍真理或将来。"
+        },
+        {
+          "id": "pub-c05-present-l7-q2",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre en conjuguant « pleuvoir » et « jouer » au présent :",
+          "answer": [
+            "En",
+            "ce",
+            "moment,",
+            "il",
+            "pleut",
+            "et",
+            "les",
+            "enfants",
+            "jouent",
+            "dans",
+            "le",
+            "salon."
+          ],
+          "bank": [
+            "En",
+            "ce",
+            "moment,",
+            "il",
+            "pleut",
+            "et",
+            "les",
+            "enfants",
+            "jouent",
+            "dans",
+            "le",
+            "salon.",
+            "pleuvent",
+            "joue",
+            "jouons",
+            "enfant"
+          ],
+          "translation": "此刻正在下雨，孩子们在客厅里玩。",
+          "explain": "En ce moment 指向说话时刻，是当前用法；pleuvoir 是无人称动词，只有 il pleut，不能写 il pleuvent；jouer 的主语 les enfants 是第三人称复数，用 jouent。"
+        },
+        {
+          "id": "pub-c05-present-l7-q3",
+          "type": "choice",
+          "prompt": "Quelle phrase énonce une vérité générale avec une forme verbale correcte ?",
+          "options": [
+            "Les planètes tournent autour du Soleil.",
+            "Les planètes tourne autour du Soleil.",
+            "En ce moment, mes cousins tournent un film.",
+            "Chaque matin, elle tourne la page du journal."
+          ],
+          "answer": 0,
+          "translation": "哪一句陈述普遍真理，且动词形式正确？",
+          "explain": "« Les planètes tournent autour du Soleil. » 陈述不受时间限制的客观规律，用现在时；主语 les planètes 是复数，tourner 用 -ent。B 主谓不一致；C 的 En ce moment 表当前；D 的 Chaque matin 表习惯。"
+        },
+        {
+          "id": "pub-c05-present-l7-q4",
+          "type": "letters",
+          "prompt": "Complétez au présent, en respectant l'habitude exprimée : Chaque samedi, mes parents ___ (travailler) au jardin.",
+          "answer": "travaillent",
+          "translation": "每个星期六，我父母都在花园里干活。",
+          "explain": "Chaque samedi 表示反复发生的习惯，用现在时；主语 mes parents 是第三人称复数，travailler 的词干 travaill- 加 -ent，写作 travaillent。"
+        },
+        {
+          "id": "pub-c05-present-l7-q5",
+          "type": "letters",
+          "prompt": "Complétez avec le verbe impersonnel qui convient : Il ___ (pleuvoir) souvent dans cette région en janvier.",
+          "answer": "pleut",
+          "translation": "一月这里经常下雨。",
+          "explain": "pleuvoir 是无人称动词，只以第三人称单数使用：il pleut。souvent 表示习惯，但无人称句的主语固定为 il，不能改成复数 il pleuvent。"
+        },
+        {
+          "id": "pub-c05-present-l7-q6",
+          "type": "choice",
+          "prompt": "Complétez : D'habitude, je prends le bus, mais aujourd'hui je ___ à pied.",
+          "options": [
+            "marches",
+            "marchons",
+            "marche",
+            "marchent"
+          ],
+          "answer": 2,
+          "translation": "平时我坐公交，但今天我步行。",
+          "explain": "主语是 je，marcher 属第一组，加 -e 得 marche；aujourd'hui 指当前这一次，与 d'habitude 表示的习惯形成对比。"
+        },
+        {
+          "id": "pub-c05-present-l7-q7",
+          "type": "letters",
+          "prompt": "Complétez au présent : Regarde ! Les élèves ___ (chanter) dans la cour.",
+          "answer": "chantent",
+          "translation": "看！学生们正在院子里唱歌。",
+          "explain": "Regarde ! 指向说话时刻正在发生的动作，用现在时的当前用法；主语 les élèves 是第三人称复数，chanter 加 -ent，写作 chantent。"
+        },
+        {
+          "id": "pub-c05-present-l7-q8",
+          "type": "choice",
+          "prompt": "Quelle phrase exprime une habitude ?",
+          "options": [
+            "En ce moment, nous dînons au restaurant.",
+            "L'eau bout à cent degrés.",
+            "Il neige dehors.",
+            "Chaque lundi, elle appelle sa grand-mère."
+          ],
+          "answer": 3,
+          "translation": "哪一句表达习惯？",
+          "explain": "Chaque lundi 表示反复发生，elle appelle 是第三人称单数；A 和 C 描述当前情况，B 陈述普遍规律。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l8",
+      "title": "不定式、同族迁移与长音符号",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c05-present-l8-q1",
+          "type": "letters",
+          "prompt": "Écrivez l'infinitif du verbe conjugué dans « nous choisissons » : ___.",
+          "answer": "choisir",
+          "translation": "写出 « nous choisissons » 中动词的不定式。",
+          "explain": "choisissons 是第二组 -ir 动词的 nous 形式；去掉 -issons 后得到词干 chois-，再加不定式词尾 -ir，写作 choisir。"
+        },
+        {
+          "id": "pub-c05-present-l8-q2",
+          "type": "choice",
+          "prompt": "Quel verbe se termine par -oir ?",
+          "options": [
+            "finir",
+            "parler",
+            "vendre",
+            "recevoir"
+          ],
+          "answer": 3,
+          "translation": "哪个动词以 -oir 结尾？",
+          "explain": "recevoir 的不定式词尾是 -oir；finir 是 -ir，parler 是 -er，vendre 是 -re。"
+        },
+        {
+          "id": "pub-c05-present-l8-q3",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre en conjuguant « recevoir » au présent (sujet : je) :",
+          "answer": [
+            "Je",
+            "reçois",
+            "un",
+            "cadeau."
+          ],
+          "bank": [
+            "Je",
+            "reçois",
+            "un",
+            "cadeau.",
+            "reçoi",
+            "reçoit",
+            "reçoivent",
+            "recevois",
+            "cadeaux."
+          ],
+          "translation": "我收到一份礼物。",
+          "explain": "recevoir 的 je 形式是 reçois：词干 recev- 在重读形式中变为 reçoiv-，并写 ç 保持 /s/ 音；un cadeau 是单数。"
+        },
+        {
+          "id": "pub-c05-present-l8-q4",
+          "type": "letters",
+          "prompt": "Complétez au présent : Nous ___ (conduire) prudemment.",
+          "answer": "conduisons",
+          "translation": "我们谨慎地开车。",
+          "explain": "conduire 属 -uire 类第三组动词，nous 形式为 conduisons（词干 conduis- + -ons）；不要按第二组写成 conduissons。"
+        },
+        {
+          "id": "pub-c05-present-l8-q5",
+          "type": "choice",
+          "prompt": "Sur le modèle de « prendre » (je prends, nous prenons, ils prennent), quelle forme est correcte ?",
+          "options": [
+            "nous comprendons",
+            "nous comprenez",
+            "nous comprenons",
+            "nous comprennent"
+          ],
+          "answer": 2,
+          "translation": "按照 « prendre » 的模式，哪个形式正确？",
+          "explain": "comprendre 与 prendre 同族，nous 形式用词干 pren- 加 -ons：nous comprenons。comprendons 把 -d- 带进了 nous 形式，comprenez 是 vous 形式，comprennent 是 ils 形式。"
+        },
+        {
+          "id": "pub-c05-present-l8-q6",
+          "type": "choice",
+          "prompt": "Quelle est la graphie traditionnelle de la 3e personne du singulier de « paraître » ?",
+          "options": [
+            "il parait",
+            "il paraît",
+            "il paraîs",
+            "il paraî"
+          ],
+          "answer": 1,
+          "translation": "« paraître » 第三人称单数的传统拼写是什么？",
+          "explain": "传统拼写 il paraît 带长音符号 î；1990 年改革拼写 il parait 也可接受，但题干问的是传统拼写。paraîs 和 paraî 都不是合法形式。"
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "pub-c05-present-x1",
+      "title": "综合：变位与一致",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c05-present-x1-q1",
+          "type": "choice",
+          "prompt": "Complétez : Mon frère et moi ___ étudiants, et ma sœur ___ seize ans.",
+          "options": [
+            "sont / a",
+            "sommes / a",
+            "sommes / ont",
+            "est / a"
+          ],
+          "answer": 1,
+          "translation": "我兄弟和我是学生，我姐妹十六岁。",
+          "explain": "并列主语 mon frère et moi 含说话人，相当于 nous，être 用 sommes；ma sœur 是第三人称单数，avoir 用 a。两个动词分别按各自主语变位。"
+        },
+        {
+          "id": "pub-c05-present-x1-q2",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre en conjuguant « manger » et « finir » au présent :",
+          "answer": [
+            "Ma",
+            "sœur",
+            "et",
+            "moi",
+            "mangeons",
+            "à",
+            "midi",
+            "et",
+            "nous",
+            "finissons",
+            "à",
+            "deux",
+            "heures."
+          ],
+          "bank": [
+            "Ma",
+            "sœur",
+            "et",
+            "moi",
+            "mangeons",
+            "à",
+            "midi",
+            "et",
+            "nous",
+            "finissons",
+            "à",
+            "deux",
+            "heures.",
+            "mange",
+            "mangons",
+            "finit",
+            "finissez"
+          ],
+          "translation": "我和我姐妹中午吃饭，两点结束。",
+          "explain": "manger 的 nous 形式保留 e：mangeons；finir 属第二组，nous 形式为 finissons。并列主语 ma sœur et moi 含说话人，两个动词都取 nous 的复数形式。"
+        },
+        {
+          "id": "pub-c05-present-x1-q3",
+          "type": "letters",
+          "prompt": "Complétez : Ma mère et ma tante ___ (préférer) le thé.",
+          "answer": "préfèrent",
+          "accentKeys": [
+            "é",
+            "è"
+          ],
+          "translation": "我母亲和我阿姨更喜欢茶。",
+          "explain": "主语 ma mère et ma tante 是第三人称复数（= elles）；préférer 在重读的第三人称复数形式中把 é 改为 è，写作 préfèrent，不能写 préférent。"
+        },
+        {
+          "id": "pub-c05-present-x1-q4",
+          "type": "choice",
+          "prompt": "Complétez : Nous ___ (nettoyer) la cour, puis nous ___ (commencer) à ranger.",
+          "options": [
+            "nettoions / commençons",
+            "nettoyons / commencons",
+            "nettoyons / commençons",
+            "nettoyons / commencent"
+          ],
+          "answer": 2,
+          "translation": "我们打扫院子，然后开始整理。",
+          "explain": "-yer 动词在 nous 形式保留 y：nettoyons；-cer 动词在 nous 形式把 c 改为 ç 以保持 /s/ 音：commençons。两个拼写调整都发生在第一人称复数形式。"
+        },
+        {
+          "id": "pub-c05-present-x1-q5",
+          "type": "choice",
+          "prompt": "Complétez : Tout le monde ___ (avoir) un avis, mais quelques étudiants ___ (être) absents.",
+          "options": [
+            "a / sont",
+            "ont / sont",
+            "a / est",
+            "ont / est"
+          ],
+          "answer": 0,
+          "translation": "每个人都有自己的看法，但有几个学生缺席。",
+          "explain": "tout le monde 形式上是单数，动词用第三人称单数 a；quelques étudiants 是复数泛指，动词用 sont。两个主语分别控制各自的动词。"
+        },
+        {
+          "id": "pub-c05-present-x1-q6",
+          "type": "choice",
+          "prompt": "Quel couple de sujets complète correctement : « ___ sommes prêts et ___ avez raison. » ?",
+          "options": [
+            "Vous / nous",
+            "Nous / ils",
+            "Ils / vous",
+            "Nous / vous"
+          ],
+          "answer": 3,
+          "translation": "哪个主语组合能正确填入：« ___ sommes prêts et ___ avez raison. »？",
+          "explain": "sommes 只对应 nous，avez 只对应 vous；两个空都要由动词词尾反推主语，不能凭语序猜。"
+        },
+        {
+          "id": "pub-c05-present-x1-q7",
+          "type": "letters",
+          "prompt": "Complétez : Ma sœur et moi ___ (commencer) le cours à neuf heures.",
+          "answer": "commençons",
+          "accentKeys": [
+            "ç"
+          ],
+          "translation": "我和我姐妹九点开始上课。",
+          "explain": "并列主语 ma sœur et moi 含说话人，相当于 nous；commencer 在 nous 形式把 c 改为 ç：commençons，以保持 /s/ 音。"
+        },
+        {
+          "id": "pub-c05-present-x1-q8",
+          "type": "choice",
+          "prompt": "Complétez : Mes cousins ___ (partir) maintenant, et nous ___ (manger) ensemble à la maison.",
+          "options": [
+            "part / mangeons",
+            "partent / mangeons",
+            "partent / mangons",
+            "partons / mangeons"
+          ],
+          "answer": 1,
+          "translation": "我的表兄弟现在出发，我们在家一起吃饭。",
+          "explain": "mes cousins 是第三人称复数，partir 用短词干复数 part- 加 -ent → partent；nous 对应 manger 的 nous 形式 mangeons（保留 e）。maintenant 指向说话当下，两个动词都用现在时的当前用法。"
+        },
+        {
+          "id": "pub-c05-present-x1-q9",
+          "type": "choice",
+          "prompt": "Complétez : La plupart des élèves ___ (avoir) un livre, et chacun ___ (travailler) à son rythme.",
+          "options": [
+            "a / travaillent",
+            "ont / travaillent",
+            "ont / travaille",
+            "a / travaille"
+          ],
+          "answer": 2,
+          "translation": "大多数学生有一本书，每个人按自己的节奏学习。",
+          "explain": "la plupart des élèves 作主语时按意义取复数，avoir 用 ont；chacun 是单数泛指，travailler 用 travaille。不要因为两个主语都出现在同一句就统一成一个数。"
+        },
+        {
+          "id": "pub-c05-present-x1-q10",
+          "type": "letters",
+          "prompt": "Complétez : Mon frère et toi, vous ___ (être) prêts pour le voyage.",
+          "answer": "êtes",
+          "accentKeys": [
+            "ê"
+          ],
+          "translation": "我兄弟和你已经为旅行准备好了。",
+          "explain": "主语 mon frère et toi 含对话者，相当于 vous；être 的 vous 形式是 êtes，带长音符号 ê。"
+        },
+        {
+          "id": "pub-c05-present-x1-q11",
+          "type": "choice",
+          "prompt": "Complétez : J'___ (appeler) ma sœur, puis nous ___ (appeler) nos parents.",
+          "options": [
+            "appele / appelons",
+            "appelle / appellons",
+            "appelles / appelons",
+            "appelle / appelons"
+          ],
+          "answer": 3,
+          "translation": "我给我姐妹打电话，然后我们给父母打电话。",
+          "explain": "appeler 在单数形式双写 l：j'appelle；nous 形式不双写：nous appelons。两个形式属于同一动词的不同词干规则。"
+        },
+        {
+          "id": "pub-c05-present-x1-q12",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre en conjuguant « être » et « partir » au présent :",
+          "answer": [
+            "Mon",
+            "frère",
+            "et",
+            "moi",
+            "sommes",
+            "à",
+            "la",
+            "maison,",
+            "et",
+            "nos",
+            "parents",
+            "partent",
+            "au",
+            "travail."
+          ],
+          "bank": [
+            "Mon",
+            "frère",
+            "et",
+            "moi",
+            "sommes",
+            "à",
+            "la",
+            "maison,",
+            "et",
+            "nos",
+            "parents",
+            "partent",
+            "au",
+            "travail.",
+            "est",
+            "êtes",
+            "part",
+            "partons",
+            "parent",
+            "travaille"
+          ],
+          "translation": "我兄弟和我在家，我们的父母去上班。",
+          "explain": "mon frère et moi 含说话人 → nous，être 用 sommes；nos parents 是第三人称复数，partir 用短词干复数 partent。并列主语和第三人称复数各按自己的主语变位。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-x2",
+      "title": "综合：现在时用法与句型",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c05-present-x2-q1",
+          "type": "choice",
+          "prompt": "Complétez : En ce moment, il ___ (pleuvoir) et les enfants ___ (dormir) dans leur chambre.",
+          "options": [
+            "pleuvent / dorment",
+            "pleut / dort",
+            "pleut / dorment",
+            "pleut / dormons"
+          ],
+          "answer": 2,
+          "translation": "此刻正在下雨，孩子们在房间里睡觉。",
+          "explain": "En ce moment 表示当前用法；pleuvoir 是无人称动词，只有 il pleut；dormir 的主语 les enfants 是第三人称复数，用 dorment。"
+        },
+        {
+          "id": "pub-c05-present-x2-q2",
+          "type": "choice",
+          "prompt": "Quelle phrase décrit une habitude ?",
+          "options": [
+            "Chaque soir, mes parents finissent leur travail à sept heures.",
+            "En ce moment, nous finissons le repas.",
+            "Le ciel rougit au coucher du soleil.",
+            "Les enfants dorment déjà."
+          ],
+          "answer": 0,
+          "translation": "哪一句描述习惯？",
+          "explain": "Chaque soir 表示反复发生，finissent 与 mes parents 配合；其余句子分别表示当前动作、普遍规律和当前状态。"
+        },
+        {
+          "id": "pub-c05-present-x2-q3",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre en conjuguant « partir » et « finir » au présent :",
+          "answer": [
+            "Chaque",
+            "matin,",
+            "nous",
+            "partons",
+            "à",
+            "sept",
+            "heures",
+            "et",
+            "nous",
+            "finissons",
+            "à",
+            "midi."
+          ],
+          "bank": [
+            "Chaque",
+            "matin,",
+            "nous",
+            "partons",
+            "à",
+            "sept",
+            "heures",
+            "et",
+            "nous",
+            "finissons",
+            "à",
+            "midi.",
+            "part",
+            "partent",
+            "finis",
+            "finissez"
+          ],
+          "translation": "每天早上，我们七点出发，中午结束。",
+          "explain": "Chaque matin 表示习惯，用现在时；nous 对应 partir → partons（第三组短词干复数），finir → finissons（第二组加 -iss-）。两个 -ir 动词组别不同。"
+        },
+        {
+          "id": "pub-c05-present-x2-q4",
+          "type": "choice",
+          "prompt": "Complétez : En ce moment, tout le monde ___ (applaudir), mais quelques spectateurs ___ (partir).",
+          "options": [
+            "applaudit / partent",
+            "applaudissent / partent",
+            "applaudit / part",
+            "applaudissent / part"
+          ],
+          "answer": 0,
+          "translation": "此刻大家都在鼓掌，但有几个观众正在离开。",
+          "explain": "En ce moment 表示当前；tout le monde 用第三人称单数 applaudit（第二组 -it）；quelques spectateurs 是复数，partir 用 partent（第三组短词干）。"
+        },
+        {
+          "id": "pub-c05-present-x2-q5",
+          "type": "letters",
+          "prompt": "Complétez au présent, selon la situation décrite : Regarde par la fenêtre ! Il ___ (pleuvoir) à verse.",
+          "answer": "pleut",
+          "translation": "看窗外！正下着倾盆大雨。",
+          "explain": "Regarde ! 指向说话时刻，用现在时的当前用法；pleuvoir 是无人称动词，只以第三人称单数 il pleut 出现，不能写 il pleuvent。"
+        },
+        {
+          "id": "pub-c05-present-x2-q6",
+          "type": "choice",
+          "prompt": "Quel couple de sujets complète correctement : « ___ finissons le projet et ___ présentent les résultats. » ?",
+          "options": [
+            "Vous / elles",
+            "Nous / elle",
+            "Ils / nous",
+            "Nous / ils"
+          ],
+          "answer": 3,
+          "translation": "哪个主语组合能正确填入：« ___ finissons le projet et ___ présentent les résultats. »？",
+          "explain": "finissons 只对应 nous；présentent 是第三人称复数，对应 ils/elles，选项中只有 ils。两个空都要由动词词尾反推主语。"
+        },
+        {
+          "id": "pub-c05-present-x2-q7",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre pour former une phrase au présent qui énonce une vérité générale :",
+          "answer": [
+            "La",
+            "Terre",
+            "tourne",
+            "autour",
+            "du",
+            "Soleil."
+          ],
+          "bank": [
+            "La",
+            "Terre",
+            "tourne",
+            "autour",
+            "du",
+            "Soleil.",
+            "Le",
+            "tournent",
+            "tournes",
+            "tournons",
+            "de"
+          ],
+          "translation": "地球绕着太阳转。",
+          "explain": "这是不受时间限制的普遍事实，用现在时；主语 La Terre 是第三人称单数，tourner 用 tourne，不能加 -nt。"
+        },
+        {
+          "id": "pub-c05-present-x2-q8",
+          "type": "choice",
+          "prompt": "Complétez : D'habitude, il ___ (faire) beau ici, mais aujourd'hui il ___ (pleuvoir).",
+          "options": [
+            "font / pleuvent",
+            "fait / pleuvent",
+            "fait / pleut",
+            "font / pleut"
+          ],
+          "answer": 2,
+          "translation": "平时这里天气很好，但今天在下雨。",
+          "explain": "il fait beau 是无人称天气表达，固定用 il + fait；il pleut 也是无人称第三人称单数。d'habitude 与 aujourd'hui 形成习惯/当前对照，但两个动词都保持 3sg。"
+        },
+        {
+          "id": "pub-c05-present-x2-q9",
+          "type": "letters",
+          "prompt": "Complétez : Les enfants de ma voisine ___ (grandir) vite.",
+          "answer": "grandissent",
+          "translation": "我邻居家的孩子长得很快。",
+          "explain": "主语 les enfants 是第三人称复数；grandir 属第二组，复数在词干后加 -iss- 再接 -ent，写作 grandissent。句子陈述一般情况，用现在时。"
+        },
+        {
+          "id": "pub-c05-present-x2-q10",
+          "type": "choice",
+          "prompt": "Complétez : Ma mère et moi ___ (finir) le dîner, puis nous ___ (sortir).",
+          "options": [
+            "finissons / sortent",
+            "finissons / sortons",
+            "finis / sortons",
+            "finissent / sortons"
+          ],
+          "answer": 1,
+          "translation": "我妈妈和我吃完晚饭，然后我们出门。",
+          "explain": "ma mère et moi 含说话人，相当于 nous；finir → finissons（第二组），sortir → sortons（第三组短词干复数）。两个动词组别不同，但都按 nous 变位。"
+        }
+      ]
+    }
+  ]
+}

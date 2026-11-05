@@ -12,10 +12,11 @@
     "chapters/pub-c08-imperative-emphasis.json",
     "chapters/pub-c09-past-tenses.json",
     "chapters/pub-c10-object-pronouns.json",
+    "chapters/pub-c11-pronominal-verbs.json",
     "chapters/pub-predication.json",
     "chapters/pub-articles.json",
     "chapters/pub-agreement.json"
   ],
-  "expectedChapterCount": 13,
-  "expectedQuestionCount": 2159
+  "expectedChapterCount": 14,
+  "expectedQuestionCount": 2356
 }

@@ -1,0 +1,3572 @@
+{
+  "id": "pub-c11-pronominal-verbs",
+  "title": "代词式动词与人称指代",
+  "titleFr": "Les verbes pronominaux et la référence personnelle",
+  "cards": [
+    {
+      "id": "pub-c11-pronominal-verbs-card-u1-1",
+      "title": "构成：主语 + 自反代词 + 动词",
+      "body": "代词式动词由「主语 + 自反代词 + 动词」构成，自反代词的人称和数必须与主语一致：je me、tu te、il/elle/on se、nous nous、vous vous、ils/elles se。自反代词放在变位动词之前，不能省略。\n\n- Je me lève à sept heures.（我七点起床。）\n- Tu te dépêches.（你快点。）\n- Elle s'appelle Marie.（她叫玛丽。）\n- Nous nous amusons bien.（我们玩得很开心。）\n- Vous vous reposez.（你们休息。）\n- Ils se rencontrent souvent.（他们常常见面。）\n\n要点：\n- me、te、se 在元音或哑音 h 前省音：je m'appelle、tu t'habilles、il s'occupe。\n- 不定式写作 se 或 s'：se lever、s'appeler；不定式中的自反代词仍随主语变化：Je vais me lever / Tu vas te lever。\n- 否定时 ne 放在自反代词之前：Je ne me lève pas。\n\n边界：肯定命令式中自反代词后置（Lève-toi），本章只要求识别；复合过去时的助动词选择与过去分词配合见 U3。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u1-2",
+      "title": "自反意义：动作回到主语自身",
+      "body": "主语对自己实施动作时，自反代词作直接宾语，表示「自己对自己」。常见动词：se laver、se regarder、s'habiller、se réveiller、se coiffer、se maquiller。\n\n- Elle se lave.（她洗澡/洗脸。）——laver qui ? elle-même\n- Il se regarde dans le miroir.（他照镜子。）\n- Nous nous habillons rapidement.（我们很快穿好衣服。）\n- Je me réveille à six heures.（我六点醒来。）\n\n判断：把自反代词换成「自己」后，动词的直接宾语就是主语本人。\n- Elle se lave. = Elle lave elle-même.\n- Elle se regarde. = Elle regarde elle-même.\n\n要点：\n- 自反代词作直接宾语时，复合过去时的过去分词与主语配合：Elle s'est lavée。（见 U3）\n- 否定：Elle ne se lave pas。\n\n边界：se laver les mains 中，直接宾语是 les mains，se 变成间接宾语，配合规则不同；s'appeler、se souvenir 等属于词汇性代词式动词，se 不表示「自己」。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u1-3",
+      "title": "相互意义：复数主语之间的「互相」",
+      "body": "当主语包含多个参与者、动作互为对象时，自反代词表示「互相」。常见动词：se rencontrer、se téléphoner、s'écrire、s'aimer、se disputer、se parler、se voir。\n\n- Ils se rencontrent au parc.（他们在公园见面。）\n- Nous nous téléphonons tous les jours.（我们每天通电话。）\n- Elles s'écrivent souvent.（她们常写信。）\n- Les deux amis se disputent.（两个朋友吵架。）\n- On se voit demain ?（明天见吗？）——on 指多人，动词仍用第三人称单数\n\n要点：\n- 相互意义通常需要复数主语；真正的单数个体不能「互相」。\n- on 形式为单数，但可指多个人，此时也可有相互意义。\n- 有些动词的相互意义与自反意义界限模糊，要靠语境：Ils se regardent 可指「他们互相看」或「他们看自己」。\n\n边界：se parler、se téléphoner 的自反代词是间接宾语（parler à qn、téléphoner à qn），复合过去时不与主语配合；se rencontrer、se regarder 则是直接宾语。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u1-4",
+      "title": "词汇性代词式动词：se 是词的一部分",
+      "body": "有些动词天生带自反代词，se 不表示「自己」或「互相」，而是动词词形的一部分，意义要整体记忆：s'en aller（离开）、se taire（沉默）、se souvenir de（记得）、se moquer de（嘲笑）、s'occuper de（照顾/处理）、s'apercevoir de（发觉）、se dépêcher（赶紧）、s'appeler（名叫）。\n\n- Je m'en vais tout de suite.（我马上走。）\n- Elle se tait pendant la réunion.（开会时她保持沉默。）\n- Nous nous souvenons de ce voyage.（我们记得这次旅行。）\n- Ils se moquent de lui.（他们嘲笑他。）\n- Tu t'occupes de la réservation ?（你负责订位吗？）\n\n要点：\n- 不能去掉 se：Je m'en vais，不是 Je en vais。\n- 这类动词的 se 不一定是直接宾语；复合过去时通常与主语配合：Elle s'est souvenue de son enfance。\n- 词义不能按字面拆：se taire 不是「使自己沉默」，s'en aller 不是「使自己走」。\n\n边界：部分动词可随语境在词汇义和自反义之间转换（如 se lever 多指「起床」，也可强调「自己抬起自己」），需按语境判断。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u1-5",
+      "title": "不定式中的自反代词与否定",
+      "body": "代词式动词的不定式仍带自反代词，写作 se 或 s'，且自反代词的人称要随主语变化，不是固定用 se。\n\n- Je vais me coucher.（我要去睡觉。）\n- Tu dois te lever tôt.（你得早起。）\n- Elle veut s'inscrire à ce cours.（她想报名这门课。）\n- Nous allons nous promener.（我们要去散步。）\n- Vous pouvez vous asseoir.（你们可以坐下。）\n\n否定不定式：ne pas 放在不定式前，自反代词紧靠不定式。\n- Je préfère ne pas me lever tôt.（我宁愿不早起。）\n- Elle essaie de ne pas se moquer de lui.（她尽量不嘲笑他。）\n\n要点：\n- 变位动词否定时，否定词包住变位动词，自反代词仍跟不定式：Je ne veux pas me lever。\n- 不要写成 Je vais me se coucher 或 Elle veut se inscrire。\n\n边界：使役动词 faire + 不定式的代词位置另有规则，本节不展开；肯定命令式的后置代词只要求识别。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u1-6",
+      "title": "判断自反、相互还是词汇义",
+      "body": "遇到带 se 的动词，按以下顺序判断：\n\n1. 先看动词是否天生带 se：se souvenir、se moquer、s'en aller、se taire 等要整体记词义。\n2. 再看主语：单数主语通常只能是自反义或词汇义；复数主语才可能是相互义。\n3. 用「自己」和「互相」分别代入：意思通顺的那个就是答案。\n4. 最后看自反代词的句法角色：直接宾语还是间接宾语，决定复合过去时是否配合。\n\n对比：\n- Elle se lave.（她洗澡。）——自反，se = 直接宾语\n- Elles se rencontrent.（她们见面。）——相互，se = 直接宾语\n- Elle s'appelle Julie.（她叫朱莉。）——词汇义，se 不独立作宾语\n- Elle se lave les mains.（她洗手。）——自反，但 se = 间接宾语\n\n边界：不要把「带 se」一律当作自反；也不要把所有相互动词都判成直接宾语，se parler、se téléphoner 的 se 是间接宾语。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u2-1",
+      "title": "现在时：自反代词 + 动词变位",
+      "body": "代词式动词的现在时由自反代词和动词的现在时变位组成，两部分都要随主语变化。\n\nse coucher（-er）：\n- je me couche、tu te couches、il/elle/on se couche\n- nous nous couchons、vous vous couchez、ils/elles se couchent\n\nse réjouir（-ir）：\n- je me réjouis、tu te réjouis、il/elle se réjouit\n- nous nous réjouissons、vous vous réjouissez、ils/elles se réjouissent\n\nse défendre（-re）：\n- je me défends、tu te défends、il/elle se défend\n- nous nous défendons、vous vous défendez、ils/elles se défendent\n\n例：\n- Elle se couche à dix heures.（她十点睡觉。）\n- Nous nous réjouissons de votre visite.（我们很高兴你们来访。）\n- Ils se défendent contre cette accusation.（他们反驳这项指控。）\n\n边界：词干变化和拼写调整见下一张卡；复合过去时不在本卡范围。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u2-2",
+      "title": "词干与拼写调整：-e_er、-yer、-ger、-cer",
+      "body": "自反代词不参与词干变化，但动词本身的拼写调整仍要照常处理。\n\n-e_er：哑音 e 在单数及第三人称复数前变 è，nous/vous 保留 e。\n- se lever：je me lève、tu te lèves、il se lève、nous nous levons、vous vous levez、ils se lèvent\n- se promener：je me promène、nous nous promenons\n\n双写辅音：\n- s'appeler：je m'appelle、tu t'appelles、il s'appelle、nous nous appelons、ils s'appellent\n\n-oyer/-uyer：哑音 e 前 y 变 i，nous/vous 及未完成过去时保留 y。\n- s'ennuyer：je m'ennuie、tu t'ennuies、il s'ennuie、nous nous ennuyons、ils s'ennuient\n\n-ger：a/o 前保留 e。\n- se protéger：nous nous protégeons、je me protégeais、nous nous protégions\n\n-cer：a/o 前 c 变 ç。\n- se lancer：nous nous lançons、je me lançais、nous nous lancions\n\n边界：这些调整只影响动词词干，自反代词始终按主语选择；不要在 nous 形式中重复调整元音。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u2-3",
+      "title": "将来时与未完成过去时",
+      "body": "代词式动词的将来时和未完成过去时同样由「自反代词 + 动词变位」构成。\n\n将来时：不定式词干 + -ai/-as/-a/-ons/-ez/-ont。\n- se lever：je me lèverai、tu te lèveras、il se lèvera、nous nous lèverons\n- s'ennuyer：je m'ennuierai、nous nous ennuierons\n- se coucher：je me coucherai、nous nous coucherons\n\n未完成过去时：nous 形式词干（去掉 -ons）+ -ais/-ais/-ait/-ions/-iez/-aient。\n- se lever：je me levais、tu te levais、il se levait、nous nous levions\n- se protéger：je me protégeais、nous nous protégions\n- se lancer：je me lançais、nous nous lancions\n\n例：\n- Demain, je me lèverai à six heures.（明天我六点起床。）\n- Nous nous ennuierons si nous restons ici.（如果我们留在这里，会无聊的。）\n- Quand j'étais petit, je me couchais à huit heures.（小时候我八点睡觉。）\n\n边界：将来时词干中的 è 与未完成过去时的词干要分别记忆；复合时态见 U3。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u2-4",
+      "title": "否定：ne 在自反代词之前",
+      "body": "代词式动词的否定结构中，ne 位于自反代词之前，pas 位于变位动词之后；自反代词不能被推到 ne 前，也不能省略。\n\n现在时：\n- Je ne me lève pas avant sept heures.（我七点前不起床。）\n- Elle ne s'appelle pas Julie.（她不叫朱莉。）\n- Nous ne nous dépêchons pas.（我们不着急。）\n\n其他否定词：\n- Il ne se couche jamais avant minuit.（他从不午夜前睡觉。）\n- Elle ne se moque plus de lui.（她不再嘲笑他了。）\n\n复合过去时：ne + 自反代词 + 助动词 + pas + 过去分词。\n- Je ne me suis pas levé.（我没起床。）\n- Elle ne s'est pas couchée.（她没睡下。）\n\n否定不定式：ne pas 放在自反代词和不定式前。\n- Je préfère ne pas me lever tôt.（我宁愿不早起。）\n\n边界：本卡只处理否定词位置；复合过去时的配合见 U3。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u2-5",
+      "title": "疑问与倒装：自反代词留在变位动词前",
+      "body": "提问可以用 est-ce que，也可以主谓倒装。倒装时自反代词留在变位动词之前，主语人称代词移到变位动词之后。\n\n简单时态：\n- Est-ce que tu te lèves tôt ?（你起得早吗？）\n- Te lèves-tu tôt ?（你起得早吗？）\n- Se couche-t-il tard ?（他睡得晚吗？）\n- Comment s'appelle-t-elle ?（她叫什么名字？）——动词以元音结尾，加增音 -t-\n\n复合时态：倒装以助动词为操作对象，过去分词位置不变。\n- T'es-tu levé tôt ?（你起得早吗？）\n- S'est-elle couchée ?（她睡下了吗？）\n\n要点：\n- 自反代词永远在变位动词（或助动词）前，不随主语一起后移。\n- 简单时态直接倒装变位动词；复合时态倒装助动词。\n- 口语中也可用语调提问：Tu te lèves tôt ?\n\n边界：本卡不涉及否定倒装和命令式；肯定命令式中自反代词后置，只要求识别。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u3-1",
+      "title": "复合过去时：être + 过去分词，配合看自反代词角色",
+      "body": "所有代词式动词的复合过去时都用 être 作助动词，结构为「自反代词 + être 的现在时 + 过去分词」。过去分词是否与主语配合，取决于自反代词的句法角色。\n\n自反代词作直接宾语：与主语配合。\n- Elle s'est lavée.（她洗了澡。）——laver qn，se = 直接宾语\n- Ils se sont regardés.（他们互相看了看。）\n- Elles se sont rencontrées.（她们相遇了。）\n\n自反代词作间接宾语：通常不与主语配合。\n- Elle s'est lavé les mains.（她洗了手。）——直接宾语是 les mains\n- Ils se sont parlé.（他们交谈了。）——parler à qn\n- Elles se sont téléphoné.（她们通了电话。）——téléphoner à qn\n\n另有前置直接宾语：与那个直接宾语配合。\n- Elle se les est lavées.（她把手洗了。）——les 是前置直接宾语，与它配合。\n\n否定：ne + 自反代词 + 助动词 + pas + 过去分词。\n- Elle ne s'est pas lavée.（她没洗澡。）\n\n边界：词汇性代词式动词的配合见 U3 后面的卡片；不能把「代词式动词」一律处理成与主语配合。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u3-2",
+      "title": "判断 se 是直接宾语还是间接宾语",
+      "body": "判断配合前，先看动词的配价，而不是只看主语或 se 的形式。\n\n直接宾语（动词直接带 qn/qch）：\n- regarder qn → Elle s'est regardée.（她看了自己。）\n- rencontrer qn → Elles se sont rencontrées.（她们相遇了。）\n- voir qn → Ils se sont vus.（他们见了面。）\n- aimer qn → Elles se sont aimées.（她们彼此相爱。）\n\n间接宾语（动词用 à + 人）：\n- parler à qn → Ils se sont parlé.（他们交谈了。）\n- téléphoner à qn → Elles se sont téléphoné.（她们通了电话。）\n- écrire à qn → Ils se sont écrit.（他们通了信。）\n- sourire à qn → Elle s'est souri.（她对自己笑了。）\n\n特殊结构：\n- se laver les mains = laver les mains à soi：直接宾语是 les mains，se 是间接宾语，所以 lavé 不配合。\n- Les photos qu'elles se sont envoyées.（她们互相寄的照片。）——envoyer qch à qn，se 是间接宾语，但前置直接宾语 les photos 引起配合。\n\n边界：不能因为句子里还有一个 à + 人补语，就把 se 判成间接宾语；要看 se 本身承担的是哪个角色。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u3-3",
+      "title": "词汇性代词式动词与特殊结构的配合",
+      "body": "词汇性代词式动词的 se 不表示自反或相互，但复合过去时通常仍与主语配合。\n\n- se souvenir de → Elle s'est souvenue de son enfance.（她记得自己的童年。）\n- s'occuper de → Elles se sont occupées des enfants.（她们照顾了孩子们。）\n- se moquer de → Ils se sont moqués de lui.（他们嘲笑他。）\n- s'apercevoir de → Elle s'est aperçue de son erreur.（她发觉了自己的错误。）\n- s'en aller → Elles s'en sont allées.（她们走了。）\n\n特殊情况：\n- 无人称 se passer：Il s'est passé quelque chose.（发生了某事。）——形式主语 il，过去分词不配合。\n- se faire mal：Elle s'est fait mal.（她弄伤了自己。）——固定表达，fait 不配合；mal 的句法归类存在分析分歧，不据此断言它是直接宾语。\n\n要点：\n- 词汇性动词不能按「se 是不是直接宾语」硬推，但规范用法多与主语配合。\n- 无人称结构和固定表达要单独记，不能套用一般配合规则。\n\n边界：本卡只列常见词汇性动词；部分动词的绝对义与其他义需按语境判断。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u3-4",
+      "title": "愈过去时：自反代词 + être 的未完成过去时 + 过去分词",
+      "body": "代词式动词的愈过去时（plus-que-parfait）由「自反代词 + être 的未完成过去时 + 过去分词」构成，表示在过去某个时间点之前已经完成的动作。\n\nse lever：\n- je m'étais levé(e)\n- tu t'étais levé(e)\n- il s'était levé / elle s'était levée\n- nous nous étions levés\n- vous vous étiez levés\n- ils s'étaient levés / elles s'étaient levées\n\n例：\n- Quand je suis arrivé, elle s'était déjà couchée.（我到的时候，她已经睡下了。）\n- Il s'était souvenu de moi.（他当时还记得我。）\n- Elles s'étaient levées avant l'aube.（她们天亮前就起床了。）\n\n否定：ne + 自反代词 + 助动词 + pas + 过去分词。\n- Je ne m'étais pas encore levé.（我当时还没起床。）\n\n倒装：以助动词为操作对象。\n- T'étais-tu levé tôt ?（你当时起得早吗？）\n- S'était-elle déjà couchée ?（她当时已经睡下了吗？）\n\n边界：配合规则与复合过去时相同，仍要看自反代词的角色；词干变化按未完成过去时处理。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u3-5",
+      "title": "复合过去时与愈过去时：时间先后与配合复习",
+      "body": "复合过去时表示一个已完成的过去事件；愈过去时表示在过去某个参照点之前已经完成的事件，常与 déjà、quand、lorsque 等搭配。\n\n对比：\n- Elle s'est levée à sept heures.（她七点起了床。）——复合过去时\n- Quand je suis arrivé, elle s'était déjà levée.（我到的时候，她已经起床了。）——愈过去时，动作更早\n- Ils se sont parlé hier.（他们昨天交谈了。）——复合过去时，se 是间接宾语，parlé 不配合\n- Ils s'étaient parlé avant la réunion.（他们在会议前交谈过。）——愈过去时，同样不配合\n\n共同点：\n- 都用 être 作助动词（代词式动词）。\n- 否定都是 ne + 自反代词 + 助动词 + pas + 过去分词。\n- 配合都取决于自反代词是直接宾语还是间接宾语。\n\n常见错误：\n- Elle s'est levé. → Elle s'est levée.\n- Elle s'est lavée les mains. → Elle s'est lavé les mains.\n- Elle s'avait levée. → Elle s'était levée.\n- Elles s'étaient levé. → Elles s'étaient levées.\n\n边界：本卡是 U3 的复习，不引入新的时态或语气；命令式与被动意义不在本节范围。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u4-1",
+      "title": "复合过去时的配合：先判断 se 的角色",
+      "body": "代词式动词的复合过去时用 être 作助动词，但过去分词是否配合，不取决于 être，而取决于自反代词的句法角色：自反代词作直接宾语时与主语配合；作间接宾语时通常不配合；若另有前置直接宾语，则与该宾语配合。\n\n- Elle s'est levée à sept heures.（她七点起床。）——se 是直接宾语，阴性单数加 -e\n- Ils se sont rencontrés hier.（他们昨天相遇。）——相互意义，se 是直接宾语，阳性复数加 -s\n- Elles se sont parlé au téléphone.（她们通过电话交谈。）——se parler 的 se 是间接宾语，parlé 不变\n- Elle s'est lavé les mains.（她洗了手。）——laver qch à qn，se 是间接宾语，les mains 是后置直接宾语，lavé 不变\n- Les mains qu'elle s'est lavées.（她洗过的手。）——les mains 是前置直接宾语，与它配合\n\n判断顺序：先确定 se 是直接还是间接宾语，再看是否有前置直接宾语。\n\n边界：固定或本质代词式动词按主语配合（Elle s'est souvenue de...）；无人称 se passer 不配合（Il s'est passé...）；se faire mal 中分词不配合。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u4-2",
+      "title": "se 作直接宾语：与主语配合",
+      "body": "自反代词作直接宾语时，主语就是动作的承受者，动词本身可以直接带宾语，不需要介词。\n\n- Elle se lave.（她洗澡。）——laver qn\n- Il se regarde dans la glace.（他照镜子。）——regarder qn\n- Nous nous réveillons à six heures.（我们六点醒来。）——réveiller qn\n- Elles se sont couchées tard.（她们很晚才睡。）——复合过去时与主语配合\n\n相互意义也可能是直接宾语：se rencontrer、se voir、s'aimer、se détester、se saluer 等，主语通常为复数。\n- Ils se sont vus au cinéma.（他们在电影院见了面。）\n- Elles se sont aimées pendant des années.（她们相爱多年。）\n\n否定：ne + se + 动词 + pas；复合过去时 ne + se + 助动词 + pas + 分词。\n- Elle ne se lave pas le soir.（她晚上不洗澡。）\n- Ils ne se sont pas vus.（他们没有见面。）\n\n边界：se laver les mains 中 les mains 才是直接宾语，se 变为间接宾语，见下一张卡。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u4-3",
+      "title": "se 作间接宾语：通常不配合",
+      "body": "当动词的配价是 à + 人时，自反代词承担这个间接宾语角色，表示“对自己”或“互相”。常见动词：parler à、téléphoner à、écrire à、sourire à、plaire à、obéir à、mentir à、ressembler à；以及带双宾语的 acheter qch à qn、offrir qch à qn、donner qch à qn、prêter qch à qn、dire qch à qn、raconter qch à qn。\n\n- Elle se parle devant la glace.（她对着镜子自言自语。）——parler à qn\n- Ils se téléphonent chaque soir.（他们每晚通电话。）——相互意义，se 仍是间接宾语\n- Elle s'est acheté une robe.（她给自己买了一条裙子。）——直接宾语 une robe 后置，过去分词不配合\n- Les robes qu'elle s'est achetées.（她给自己买的那些裙子。）——前置直接宾语 les robes 引起配合\n\n注意：不能因为动词另有补语就断定 se 是间接宾语，要看 se 本身承担哪个论元。例如 Il se présente à ses collègues（他向同事自我介绍）中，se 是 présenter qn 的直接宾语，à ses collègues 只是另一个补语；复合过去时为 Il s'est présenté / Elle s'est présentée。\n\n边界：parler à qn 的第三人称代词化用 lui/leur；penser à qn 用重读代词，见 U7。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u4-4",
+      "title": "前置直接宾语优先配合",
+      "body": "若代词式动词另有前置直接宾语，过去分词与这个直接宾语配合，而不是与主语配合；没有前置直接宾语时，才按 se 的角色处理。\n\n- Les mains ? Elle se les est lavées.（手呢？她洗了。）——les 是 laver 的前置直接宾语，阴性复数\n- La robe ? Elle se l'est achetée.（那条裙子？她给自己买下了。）——l' 是 acheter 的前置直接宾语，阴性单数\n- Les lettres ? Elles se les sont écrites.（那些信？她们互相写了。）——se 是间接宾语，但 les 是前置直接宾语，écrites 与它配合\n\n判断：先找分词前是否有一个直接宾语（le/la/les 等）。有则优先与它配合；没有才看 se 是直接还是间接宾语。\n\n边界：不要因为 se 是间接宾语就一律写不变，前置直接宾语会改变配合对象。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u4-5",
+      "title": "固定代词式动词与特殊结构",
+      "body": "有些动词的自反代词是词条的一部分，不表示“对自己”或“互相”，不能按普通自反宾语推导；复合过去时通常仍与主语配合。\n\n- Elle s'est souvenue de son enfance.（她想起了童年。）——se souvenir de\n- Ils se sont moqués de lui.（他们嘲笑他。）——se moquer de\n- Elle s'est aperçue de son erreur.（她发现了自己的错误。）——s'apercevoir de\n- Nous nous sommes absentés une heure.（我们离开了一小时。）——s'absenter\n\n特殊结构：\n- Il s'est passé quelque chose d'étrange.（发生了奇怪的事。）——无人称 se passer，形式主语 il，分词不配合\n- Elle s'est fait mal au genou.（她膝盖受伤了。）——se faire mal 是固定表达，fait 不配合\n- Elle s'est rendu compte de son erreur.（她意识到了自己的错误。）——compte 是后置直接宾语，rendu 不配合\n\n边界：不要把所有带 se 的动词都分析成“自反代词作宾语”；固定搭配要按词条整体记忆。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u5-1",
+      "title": "不定式中的自反代词",
+      "body": "代词式动词的不定式仍保留与主语一致的自反代词，代词放在不定式之前，与前面的变位动词组成两个动词的结构。\n\n- Je vais me coucher.（我要去睡觉。）\n- Elle doit s'habiller.（她必须穿戴整齐。）\n- Nous allons nous promener.（我们要去散步。）\n- Ils veulent se revoir.（他们想再见面。）\n\n否定：否定词只包住变位动词，自反代词仍紧靠不定式。\n- Je ne veux pas me lever tôt.（我不想早起。）\n- Elle n'a pas pu se concentrer.（她没能集中注意力。）\n\n要点：自反代词随主语变化，不固定为 se；不要写成 Je vais se coucher。代词属于不定式，不能提到变位动词前。\n\n边界：faire/laisser + 不定式的使役结构另列；肯定命令式的代词后置见下一张卡。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u5-2",
+      "title": "命令式中的自反代词（识别）",
+      "body": "代词式动词的肯定命令式：自反代词移到动词后，用连字符连接；第二人称单数 te 变为 toi，其余 me/nous/vous 不变。否定命令式：自反代词回到动词前，恢复 me/te。\n\n肯定：\n- Lève-toi !（起床！）\n- Asseyons-nous !（我们坐下吧！）\n- Dépêchez-vous !（你们快点！）\n\n否定：\n- Ne te lève pas !（别起床！）\n- Ne nous asseyons pas ici.（我们别坐这里。）\n- Ne vous dépêchez pas.（你们别急。）\n\n识别要点：\n- 肯定命令式才有代词后置和 te → toi。\n- 否定命令式仍前置，用 te，不用 toi。\n- 代词与动词之间用连字符，不写成 « lève toi »。\n\n边界：本单元只要求识别命令式形式，不要求产出；普通宾语代词命令式另见 C10。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u5-3",
+      "title": "副动词中的宾语代词位置",
+      "body": "副动词由 en + 现在分词构成，保留动词的句法特性：宾语代词放在 en 与现在分词之间，而不是 en 前，也不是分词后。\n\n- En regardant les photos, elle a souri. → En les regardant, elle a souri.（看着照片，她笑了。）\n- Il a appris le français en écoutant la radio. → Il l'a appris en l'écoutant.（他通过听广播学法语。）\n- Elle s'est blessée en tombant.（她摔倒时受伤了。）——代词式动词的 se 也在 en 后\n- En me levant, j'ai vu le soleil.（起床时，我看见了太阳。）\n\n双代词仍按宾语代词顺序排在 en 与分词之间：\n- En me le donnant, il a souri.（他把它给我时笑了。）\n\n要点：\n- en 本身是副动词标记，不是代词；宾语代词紧贴现在分词之前。\n- 不要写成 « En regardant les » 或 « Les regardant en... »。\n- 副动词的宾语代词位置与复合时态不同。\n\n边界：只处理代词位置，不涉及现在分词的构成与配合。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u6-1",
+      "title": "se 作直接宾语：主语对自己实施动作",
+      "body": "自反代词作直接宾语时，主语就是动作的承受者，动词本身可以直接带宾语（不加介词）。\n\n- Elle se lave.（她洗澡。）——laver qn\n- Il se regarde dans la glace.（他照镜子。）——regarder qn\n- Nous nous réveillons tôt.（我们醒得早。）——réveiller qn\n- Elles se sont couchées tard.（她们很晚才睡。）——复合过去时与主语配合\n\n相互意义：se rencontrer、se voir、s'aimer、se détester、se connaître 等，se 也是直接宾语。\n- Ils se sont vus hier.（他们昨天见了面。）\n- Elles s'aiment beaucoup.（她们彼此很相爱。）\n\n否定：ne + se + 动词 + pas。\n- Elle ne se lave pas le matin.（她早上不洗澡。）\n\n边界：se laver les mains 中 les mains 是直接宾语，se 变间接；固定代词式动词的 se 不一定作直接宾语。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u6-2",
+      "title": "se 作间接宾语：动词要求 à + 人",
+      "body": "当动词的配价是 à + 人时，自反代词可以承担这个间接宾语角色，表示“对自己”或“互相”。判断依据是动词的论元结构，不是句子里是否还有别的名词。\n\n- Elle se parle.（她自言自语。）——parler à qn\n- Ils se téléphonent tous les jours.（他们每天通电话。）——téléphoner à qn\n- Elles s'écrivent souvent.（她们常通信。）——écrire à qn\n- Elle s'achète une robe.（她给自己买一条裙子。）——acheter qch à qn\n- Il se lave les mains.（他洗手。）——laver qch à qn\n\n注意：\n- se laver 中 se 是直接宾语（Elle se lave），se laver les mains 中 se 是间接宾语（les mains 是直接宾语）。\n- 不能因为动词另有补语就判 se 为间接宾语；要看 se 本身是不是 à + 人论元。\n- 相互意义也可能间接：Ils se sont parlé、Elles se sont écrit。\n\n边界：penser à qn、s'intéresser à qn 等用重读代词 à lui/à elle，见 U7。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u6-3",
+      "title": "直接还是间接：配价判断与位置",
+      "body": "判断 se 的角色，用动词的配价测试：\n- 动词可直接带宾语（laver qn、regarder qn、rencontrer qn）→ se 是直接宾语。\n- 动词要求 à + 人（parler à qn、téléphoner à qn、écrire à qn）→ se 是间接宾语。\n- 动词另有直接宾语，而 se 承担“给谁”的论元（laver qch à qn、acheter qch à qn）→ se 是间接宾语。\n\n位置：陈述句和否定句中 se 放在变位动词前；复合时态放在助动词前；不定式前放在不定式前。\n- Elle se lave. / Elle ne se lave pas.\n- Elle s'est lavée. / Elle ne s'est pas lavée.\n- Elle va se laver. / Elle ne va pas se laver.\n\n常见错误：\n- 把 se laver les mains 的分词写成 lavée（应 lavé，因为 se 是间接宾语）。\n- 把 Ils se sont parlé 写成 parlés（应 parlé）。\n- 把 Elle s'est souvenue 写成 souvenu（固定代词式动词与主语配合）。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u6-4",
+      "title": "相互意义与双宾语",
+      "body": "相互意义的主语通常为复数（或指代多人的 on），动作在参与者之间互为对象。se 的角色仍由动词配价决定：\n\n直接相互：se rencontrer、se voir、se saluer、s'aimer、se détester\n- Ils se sont rencontrés.（他们相遇了。）\n- Elles se sont saluées.（她们互相问候。）\n\n间接相互：se parler、se téléphoner、s'écrire、se sourire、se plaire\n- Ils se sont parlé.（他们交谈过。）\n- Elles se sont écrit.（她们通过信。）\n- Les lettres qu'elles se sont écrites.（她们互相写的信。）\n\n双宾语：se 是间接宾语时，直接宾语代词按顺序放在 se 后：\n- Il se lave les mains. → Il se les lave.（他洗手。）\n- Elle s'achète une robe. → Elle se l'achète.（她给自己买它。）\n- Il doit se laver les mains. → Il doit se les laver.\n\n边界：相互意义不等于间接宾语；直接相互与间接相互要按动词区分。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u7-1",
+      "title": "介词后指人：保留介词，用重读代词",
+      "body": "重读代词有独立的重音形式：moi、toi、lui、elle、nous、vous、eux、elles。它们在介词后指人时使用，介词必须保留；这与直接/间接宾语代词（me、te、le、la、les、lui、leur）的位置和形式都不同。\n\n- Tu viens avec nous ?（你跟我们来吗？）\n- Il habite chez ses parents ? — Oui, il habite chez eux.（他住父母家吗？——是的，他住他们那儿。）\n- Ce cadeau est pour elle.（这份礼物是给她的。）\n- Nous avons parlé devant eux.（我们在他们面前谈了话。）\n- Elle est assise à côté de moi.（她坐在我旁边。）\n\n要点：\n- avec、chez、pour、sans、devant、derrière、à côté de 等介词后，指人一律用重读代词。\n- 介词不能丢：不说 *Je pense elle，也不说 *Il habite chez ils。\n- 形式按所指人物的性、数选择：lui/elle 为单数，eux/elles 为复数；nous/vous 形式不变。\n\n边界：parler à qn、téléphoner à qn 这类动词把 à + 人整体代词化为 lui/leur，不属于本条；penser à + 人与 de + 人另有专门规则，见后两张卡。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u7-2",
+      "title": "独立使用的重读代词（识别）",
+      "body": "重读代词可以独立使用，不依附变位动词，常见于答语、感叹和列举。它的形式仍由所指人物的人称、性别和数决定。\n\n- — Qui veut venir avec moi ? — Moi !（谁想跟我来？——我！）\n- — J'adore ce film. — Moi aussi.（我很喜欢这部电影。——我也是。）\n- Lui, toujours en retard !（他呀，总是迟到！）\n- Nous avons invité Marie, Paul et elle.（我们邀请了玛丽、保罗和她。）\n\n识别方法：\n- 看答语或列举中是否有独立的重读形式，而不是 me/te/le 等前置宾语代词。\n- 确认它没有直接挂在变位动词前作宾语：Moi, je viens 中的 moi 是独立复指，不是宾语。\n- 形式要与所指人物一致：男性用 lui，女性用 elle，混合复数用 eux。\n\n边界：本条只要求识别独立用法；介词后作补语、句首复指主语另有卡片。不能把独立重读代词误当作新的句法主语。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u7-3",
+      "title": "句首复指主语：强调与对比",
+      "body": "在句首用重读代词复指主语，可以形成强调或对比。重读代词与主语之间可以有逗号或停顿，但它不充当新的句法主语，动词仍与原来的人称主语一致。\n\n- Moi, je préfère le thé.（我嘛，我更喜欢茶。）\n- Toi, tu es toujours en retard.（你呀，总是迟到。）\n- Lui, il travaille le samedi.（他嘛，星期六工作。）\n- Elle, elle ne vient pas.（她嘛，她不来了。）\n- Nous, nous habitons ici depuis dix ans.（我们嘛，在这儿住了十年。）\n- Eux, ils ont déjà fini.（他们嘛，已经做完了。）\n\n要点：\n- 重读代词的人称、性、数必须与主语一致：Paul → lui；Marie → elle；Paul et Marie → eux。\n- 主语代词通常保留：Moi, je...；Eux, ils...。\n- 对比两个主语时最自然：Lui, il aime le café ; elle, elle préfère le thé。\n\n边界：本条只处理句首复指主语的强调用法；介词后的重读代词和独立答语另列。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u7-4",
+      "title": "penser à / s'intéresser à + 人：à + 重读代词",
+      "body": "penser、s'intéresser、s'habituer、s'adresser 等动词通过 à 引出人时，代词化要保留 à，并用重读代词：à lui、à elle、à eux、à elles。不能改用 lui/leur，因为后者只用于动词把 à + 人整体作为间接宾语的搭配。\n\n- Je pense souvent à Marie. → Je pense souvent à elle.（我常想到玛丽。）\n- Il s'intéresse à ses étudiants. → Il s'intéresse à eux.（他对学生们感兴趣。）\n- Elle s'habitue à ses nouveaux collègues. → Elle s'habitue à eux.（她习惯了新同事。）\n- Le professeur s'adresse aux enfants. → Le professeur s'adresse à eux.（老师对孩子们讲话。）\n\n对比：\n- Je parle à Marie. → Je lui parle.（我跟玛丽说话。）——parler à 用 lui\n- Je pense à Marie. → Je pense à elle.（我想玛丽。）——penser à 用 à + 重读代词\n\n边界：à + 事物用 y（Je pense à ce projet → J'y pense）；à + 人用重读代词是这些动词的搭配要求，不能推广到所有 à 结构。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u7-5",
+      "title": "de + 人：de lui / d'elle / d'eux / d'elles",
+      "body": "动词或形容词通过 de 引出人时，通常保留 de，并用重读代词：de lui、d'elle、d'eux、d'elles。常见搭配有 avoir besoin de、avoir peur de、être fier de、être amoureux de、parler de。\n\n- J'ai besoin de mon frère. → J'ai besoin de lui.（我需要他。）\n- Elle est fière de ses filles. → Elle est fière d'elles.（她为女儿们自豪。）\n- Nous parlons souvent de Paul. → Nous parlons souvent de lui.（我们常谈起保罗。）\n- Il est amoureux de Sophie. → Il est amoureux d'elle.（他爱着索菲。）\n\n要点：\n- de 与重读代词结合时省音：de elle → d'elle，de eux → d'eux。\n- 不要写成 *J'ai besoin de il 或 *Elle est fière de les。\n- 第三人称形式按所指人物变化：lui 为男性单数，elle 为女性单数，eux 为阳性或混合复数，elles 为全女性复数。\n\n边界：de + 事物通常用 en（J'ai besoin de ce livre → J'en ai besoin）；但 en 指人在某些动词和语境中也可接受，不能一概排除。本卡只要求掌握规范的 de + 重读代词。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u7-6",
+      "title": "c'est + 重读代词：指人识别（识别）",
+      "body": "c'est 后指人时，用重读代词完成识别或强调：C'est moi、C'est toi、C'est lui、C'est elle、C'est nous、C'est vous、C'est eux、C'est elles。\n\n- Qui est-ce ? — C'est lui.（是谁？——是他。）\n- C'est elle, ma nouvelle voisine.（是她，我的新邻居。）\n- — Qui a téléphoné ? — C'est nous.（谁打的电话？——是我们。）\n- Ce sont eux qui ont gagné.（是他们赢了。）\n\n识别方法：\n- c'est 后如果是人名或指人的重读代词，就是识别用法。\n- 重读代词的形式要与所指人物一致：男性用 lui，女性用 elle，混合复数用 eux。\n- c'est 后的重读代词不充当新的句法主语，动词变位仍由 c'est/ce sont 承担。\n\n边界：本条只列 c'est + 重读代词的指人识别；c'est + 名词/形容词的其他结构不在本条，ce 也不是人称回指。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u8-1",
+      "title": "on：泛指主语与第三人称单数",
+      "body": "on 作不定人称或泛指主语时，动词固定用第三人称单数，不随实际所指人数变化。具体所指由语境决定：可指“人们”“有人”，也可在口语中代替 nous。\n\n- En France, on mange souvent du fromage.（在法国，人们常吃奶酪。）\n- On sonne à la porte.（有人按门铃。）\n- On doit respecter les autres.（人们应该尊重别人。）\n- Nous, on part demain.（我们嘛，明天出发。）——口语替代 nous\n- On n'a pas le temps.（我们没时间。）\n\n要点：\n- 变位永远是第三人称单数：on est、on a、on va、on peut。\n- 否定为 on + ne + 动词 + pas，ne 在元音前省音：on n'a pas。\n- on 可作主语，但不能像 nous 那样用 -ons 词尾。\n\n边界：on 不固定等同于 nous；口语替代只说明所指范围，不改变第三人称单数变位。无人称 il 与 on 都用第三人称单数，但语义不同。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u8-2",
+      "title": "tout le monde：单数形式，复数意义",
+      "body": "tout le monde 表示“所有人”，意义上是复数群体，但形式是固定的单数：tout 不变，le monde 用单数，动词、助动词和过去分词都用第三人称单数。\n\n- Tout le monde est là.（大家都在。）\n- Tout le monde vient à la fête.（大家都来参加聚会。）\n- Tout le monde a compris.（大家都明白了。）\n- Tout le monde est parti.（大家都走了。）——过去分词 parti 用单数\n- Tout le monde doit prendre son parapluie.（每个人都必须带自己的雨伞。）\n\n要点：\n- 不能说 *Tous le monde 或 *Tout le monde sont。\n- 表语形容词也用单数：Tout le monde est content。\n- 领属用 son/sa/ses，不按实际人数改用 leur。\n\n边界：与逐个人称的 chacun 不同；与复数主语 tous les gens 的变位也不同。tout le monde 本身不要求识别具体成员。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u8-3",
+      "title": "代词 tout：中性 tout 与配合的 tous/toutes",
+      "body": "代词 tout 有两个不同系统。\n\n1. 中性 tout 指“一切、所有东西”，形式不变，可作主语、直接宾语、表语或介词补语。作直接宾语时位于变位动词后；复合时态中位于助动词与过去分词之间；在不定式前则放在不定式前。\n- Tout est prêt.（一切都准备好了。）\n- J'ai tout compris.（我全明白了。）\n- Il a tout mangé.（他把所有东西都吃了。）\n- Elle va tout expliquer.（她要把一切解释清楚。）\n\n2. tous/toutes 指“所有人/所有物”，性数随所指变化，可作主语或同位语。\n- Tous sont arrivés.（所有人都到了。）\n- Les exercices ? Je les ai tous faits.（这些练习？我全做完了。）\n- Mes sœurs ? Je les ai toutes invitées.（我的姐妹们？我把她们全邀请了。）\n\n要点：\n- 中性 tout 不配合；tous/toutes 必须与所指名词的性数一致。\n- 两组形式的位置规则不能互相套用：中性 tout 作宾语在动词后，人称代词后的 tous/toutes 是同位语。\n\n边界：不涉及形容词 tout（toute la journée）和副词 tout（tout petit）。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u8-4",
+      "title": "泛指主语的领属：son/sa/ses（识别）",
+      "body": "泛指性主语（on、tout le monde、chacun 等）对应的主有形容词固定用 son、sa、ses，按所修饰名词的性数选形，而不按实际听话人是谁、群体多大来选。\n\n- On doit ranger sa chambre.（每个人都该收拾自己的房间。）\n- Tout le monde prend son parapluie.（每个人都带自己的雨伞。）\n- Chacun a ses raisons.（每个人都有自己的理由。）\n- On aime ses amis.（人们爱自己的朋友。）\n\n识别方法：\n- 先确认主语是泛指性的（on、tout le monde、chacun）。\n- 再看主有形容词修饰的名词性数：阳性单数 son，阴性单数 sa，复数 ses。\n- 不要因为“实际有很多人”就换成 leur/leurs。\n\n边界：泛指主有者和具体第三人称主有者共用同一套形式，但语义不同；本条只要求识别，不要求把具体第三人称句子改写为泛指句。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u8-5",
+      "title": "并列主语的人称合并",
+      "body": "并列主语按人称优先级合并：含 moi/je 时改用 nous；不含第一人称而含 toi 时改用 vous；只有第三人称时按性别和数用 ils 或 elles，混合性别用 ils。\n\n- Paul et moi, nous partons demain.（保罗和我，我们明天出发。）\n- Toi et Marie, vous êtes amies.（你和玛丽，你们是朋友。）\n- Lui et elle sont arrivés.（他和她到了。）——混合性别用 ils，不用 elles\n- Ma sœur et ma cousine sont allées à la plage.（我姐姐和表姐去了海滩。）——全女性用 elles\n\n要点：\n- 含 moi 时不能保留 je：不说 *Paul et moi, je partons。\n- 含 toi 时不能仍用 tu：不说 *Toi et Marie, tu êtes。\n- 混合性别复数一律 ils，即使女性人数更多。\n\n边界：toi 单独作主语才用 tu；第三人称复数代词的选择还要看前文名词的性与数，见下一张卡。"
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-card-u8-6",
+      "title": "il/elle/ils/elles：按先行词的性与数",
+      "body": "选择 il、elle、ils、elles 时，要看前文名词的性与数，或语境中人物的性别和数。真正的回指要保持一致；混合性别的第三人称复数用 ils。\n\n- Le musée ? Il est fermé le lundi.（博物馆？它周一闭馆。）\n- La voiture ? Elle est très rapide.（车？它很快。）\n- J'ai deux frères. Ils habitent à Bordeaux.（我有两个兄弟。他们住在波尔多。）\n- Ces photos ? Elles sont magnifiques.（这些照片？它们很漂亮。）\n- Paul et Sophie ? Ils sont venus ensemble.（保罗和索菲？他们一起来的。）——混合性别用 ils\n\n要点：\n- 回指名词时看名词本身的性数，不看说话人或主语的性别。\n- 混合性别复数用 ils；全女性才用 elles。\n- 语境没有明示性别时，可能不止一种形式可接受，要按上下文判断。\n\n边界：c'est 里的 ce 不是人称回指；无人称 il（Il pleut）不在此列。"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pub-c11-pronominal-verbs-l1",
+      "title": "代词式动词的构成、自反代词变位与意义",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q1",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative en gardant l'infinitif : « Je préfère me lever tôt. » → ___",
+          "answer": [
+            "Je",
+            "préfère",
+            "ne",
+            "pas",
+            "me",
+            "lever",
+            "tôt."
+          ],
+          "bank": [
+            "Je",
+            "préfère",
+            "ne",
+            "pas",
+            "me",
+            "lever",
+            "tôt.",
+            "te",
+            "lève",
+            "se"
+          ],
+          "translation": "我宁愿不早起。",
+          "explain": "这里否定的是不定式 me lever，所以 ne pas 放在不定式前；代词式动词的不定式仍带自反代词，主语是 je，因此用 me，并紧靠不定式 lever。不要写成 Je ne préfère pas me lever，那是否定 préférer，意思变成「我不更愿意早起」。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q2",
+          "type": "choice",
+          "prompt": "Quelle phrase utilise correctement le verbe pronominal « s'appeler » au présent ?",
+          "options": [
+            "Elle se appelle Marie.",
+            "Elle s'appelle Marie.",
+            "Elle s'appele Marie.",
+            "Elle s'appelle à Marie."
+          ],
+          "answer": 1,
+          "translation": "她叫玛丽。",
+          "explain": "se 在元音 a 前省音为 s'；appeler 的第三人称单数现在时是 appelle，要双写 l。因此是 Elle s'appelle Marie。se appelle 缺少省音，s'appele 拼写错误，s'appelle à 多加了介词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q3",
+          "type": "choice",
+          "prompt": "Dans « Il se regarde dans le miroir », quel est le rôle du pronom « se » ?",
+          "options": [
+            "Il est sujet du verbe.",
+            "Il est objet indirect.",
+            "Il est objet direct réfléchi.",
+            "Il marque une action réciproque."
+          ],
+          "answer": 2,
+          "translation": "他在照镜子。",
+          "explain": "regarder qn 直接带宾语；se 指主语 il 本人，作直接宾语，表示自反意义。主语已经是 il，se 不能作主语；句中也没有 à + 人，所以不是间接宾语；单数主语不能构成相互意义。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q4",
+          "type": "choice",
+          "prompt": "Dans « Ils se regardent », que peut signifier le pronom « se » ?",
+          "options": [
+            "Seulement « eux-mêmes ».",
+            "Seulement « l'un l'autre ».",
+            "« eux-mêmes » ou « l'un l'autre », selon le contexte.",
+            "Une personne extérieure au groupe."
+          ],
+          "answer": 2,
+          "translation": "他们互相看/他们看自己。",
+          "explain": "复数主语加 se regarder 既可理解为自反（各自看自己），也可理解为相互（互相看）。语境决定具体含义，不能只凭形式断定其中一种。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q5",
+          "type": "choice",
+          "prompt": "Que signifie « se dépêcher » ?",
+          "options": [
+            "S'arrêter.",
+            "Se reposer.",
+            "S'asseoir.",
+            "Se hâter."
+          ],
+          "answer": 3,
+          "translation": "se dépêcher 意为「赶紧、赶快」。",
+          "explain": "se dépêcher 是词汇性代词式动词，整体意义为「赶紧」，不能按 se + dépêcher 字面拆解。其他三项分别是「停下」「休息」「坐下」。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q6",
+          "type": "letters",
+          "prompt": "Complétez : « Le matin, elles se ___ et s'occupent de leur chat. » (se laver, présent)",
+          "answer": "lavent",
+          "decoys": [
+            "s",
+            "i",
+            "r",
+            "u"
+          ],
+          "translation": "早上她们洗个澡，然后照顾她们的猫。",
+          "explain": "主语 elles 是第三人称复数，自反代词用 se；laver 的现在时第三人称复数是 lavent。后半句 s'occupent 是词汇性代词式动词，用来对比 se 的不同作用。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q7",
+          "type": "choice",
+          "prompt": "Complétez : « Il ___ jamais de ses vacances. » (se souvenir)",
+          "options": [
+            "ne se souvient",
+            "ne s'souvient",
+            "se ne souvient",
+            "ne se souviens"
+          ],
+          "answer": 0,
+          "translation": "他从不记得自己的假期。",
+          "explain": "否定词 ne 放在自反代词 se 之前，jamais 放在变位动词之后；se souvenir 的第三人称单数现在时是 souvient。因此是 Il ne se souvient jamais。ne s'souvient 拼写错误，se ne 顺序错误，souviens 是第二人称单数形式。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q8",
+          "type": "letters",
+          "prompt": "Complétez : « Ils se ___ l'un de l'autre. » (se souvenir, présent)",
+          "answer": "souviennent",
+          "decoys": [
+            "a",
+            "r",
+            "m"
+          ],
+          "translation": "他们彼此记得对方。",
+          "explain": "l'un de l'autre 标明相互意义；主语 ils 是第三人称复数，se souvenir 的现在时第三人称复数为 souviennent（词干 souven- 加 -nent，双写 n）。自反代词用 se。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q9",
+          "type": "letters",
+          "prompt": "Complétez : « Nous nous ___ de ce problème. » (s'occuper, présent)",
+          "answer": "occupons",
+          "decoys": [
+            "e",
+            "a",
+            "i"
+          ],
+          "translation": "我们处理这个问题。",
+          "explain": "s'occuper de 是词汇性代词式动词；主语 nous，自反代词用 nous，occuper 的现在时第一人称复数为 occupons。不要写成 occupe 或 occupont。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q10",
+          "type": "tiles",
+          "prompt": "Transformez au pluriel : « Je m'en vais. » → ___",
+          "answer": [
+            "Nous",
+            "nous",
+            "en",
+            "allons."
+          ],
+          "bank": [
+            "Nous",
+            "nous",
+            "en",
+            "allons.",
+            "me",
+            "m'en",
+            "vais",
+            "se",
+            "vont"
+          ],
+          "translation": "我走了。——我们走了。",
+          "explain": "s'en aller 变位时保留 en，自反代词随主语变为 nous，aller 的第一人称复数现在时是 allons：Nous nous en allons。不能省略自反代词，也不能用 m'en 或 vont。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q11",
+          "type": "letters",
+          "prompt": "Complétez : « Les élèves se ___ pendant l'examen. » (se taire, présent)",
+          "answer": "taisent",
+          "decoys": [
+            "u",
+            "o",
+            "r"
+          ],
+          "translation": "考试期间学生们保持安静。",
+          "explain": "se taire 是词汇性代词式动词，意为「保持沉默」。主语 les élèves 是第三人称复数，现在时为 taisent（词干 tais- 加 -ent）；不要与单数 tait 或 nous taisons 混淆。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q12",
+          "type": "tiles",
+          "prompt": "Transformez avec « aller » au présent : « Elles se rencontrent au parc. » → « Elles vont ___ au parc. »",
+          "answer": [
+            "se",
+            "rencontrer"
+          ],
+          "bank": [
+            "se",
+            "rencontrer",
+            "rencontrent",
+            "s'",
+            "rencontrée",
+            "vont",
+            "au",
+            "parc."
+          ],
+          "translation": "她们要去公园见面。",
+          "explain": "aller + 不定式表示将来；代词式动词的不定式仍带自反代词，且自反代词随主语 elles 用 se，放在不定式 rencontrer 前。不能保留变位形式 rencontrent，也不能用 s'（rencontrer 不是元音开头）。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q13",
+          "type": "tiles",
+          "prompt": "Transformez avec « devoir » au présent : « Tu te lèves tôt. » → « Tu dois ___ tôt. »",
+          "answer": [
+            "te",
+            "lever"
+          ],
+          "bank": [
+            "te",
+            "lever",
+            "lèves",
+            "se",
+            "levez",
+            "lève",
+            "tôt."
+          ],
+          "translation": "你得早起。",
+          "explain": "devoir + 不定式；自反代词随主语 tu 用 te，放在不定式 lever 前。变位形式 lèves 不能放在不定式的位置。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q14",
+          "type": "letters",
+          "prompt": "Complétez : « Ils se sont ___ de leur erreur. » (s'apercevoir, passé composé)",
+          "answer": "aperçus",
+          "accentKeys": [
+            "ç"
+          ],
+          "decoys": [
+            "o",
+            "t",
+            "n"
+          ],
+          "translation": "他们意识到了自己的错误。",
+          "explain": "s'apercevoir de 是词汇性代词式动词，复合过去时用 être；过去分词与主语 ils 配合，aperçu 加 -s 成 aperçus，并保留 ç。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q15",
+          "type": "letters",
+          "prompt": "Complétez : « Elle ne s'est pas ___ de son enfance. » (se souvenir, passé composé)",
+          "answer": "souvenue",
+          "decoys": [
+            "a",
+            "i",
+            "r"
+          ],
+          "translation": "她不记得自己的童年了。",
+          "explain": "se souvenir de 是词汇性代词式动词，复合过去时用 être；过去分词与主语 elle 配合，souvenu 加 -e 成 souvenue。否定词 pas 位于助动词 est 之后、过去分词之前。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q16",
+          "type": "tiles",
+          "prompt": "Transformez au passé composé : « Elles se moquent de lui. » → ___",
+          "answer": [
+            "Elles",
+            "se",
+            "sont",
+            "moquées",
+            "de",
+            "lui."
+          ],
+          "bank": [
+            "Elles",
+            "se",
+            "sont",
+            "moquées",
+            "de",
+            "lui.",
+            "moqué",
+            "moquée",
+            "s'est",
+            "moquent"
+          ],
+          "translation": "她们嘲笑他。",
+          "explain": "se moquer de 是词汇性代词式动词，复合过去时用 être；过去分词与主语 elles 配合，moqué 变 moquées。自反代词 se 放在助动词 sont 前。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q17",
+          "type": "tiles",
+          "prompt": "Transformez au passé composé : « Elle se regarde dans le miroir. » → ___",
+          "answer": [
+            "Elle",
+            "s'est",
+            "regardée",
+            "dans",
+            "le",
+            "miroir."
+          ],
+          "bank": [
+            "Elle",
+            "s'est",
+            "regardée",
+            "dans",
+            "le",
+            "miroir.",
+            "se",
+            "est",
+            "regardé",
+            "regardées"
+          ],
+          "translation": "她在镜子里看自己。",
+          "explain": "se regarder 中 se 是直接宾语（regarder qn），复合过去时用 être；过去分词与主语 elle 配合，regardé 加 -e 成 regardée。自反代词 se 在元音 est 前省音为 s'。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q18",
+          "type": "letters",
+          "prompt": "Complétez : « Elles se sont ___ à la fête. » (se rencontrer, passé composé)",
+          "answer": "rencontrées",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "i",
+            "u",
+            "a"
+          ],
+          "translation": "她们在聚会上相遇了。",
+          "explain": "se rencontrer 表示相互意义，se 是直接宾语（rencontrer qn）；复合过去时用 être，过去分词与主语 elles 配合，加 -es 成 rencontrées。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q19",
+          "type": "choice",
+          "prompt": "Dans quelle phrase le pronom réfléchi est-il un objet indirect ?",
+          "options": [
+            "Elle se lave.",
+            "Ils se regardent.",
+            "Nous nous levons.",
+            "Elle se lave les mains."
+          ],
+          "answer": 3,
+          "translation": "哪一句中的自反代词是间接宾语？",
+          "explain": "se laver les mains 等于 laver les mains à soi：直接宾语是 les mains，se 是间接宾语。其余三句的 se 都是直接宾语：laver qn、regarder qn、lever qn。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q20",
+          "type": "letters",
+          "prompt": "Complétez : « Elles s'___ tous les matins. » (s'habiller, présent)",
+          "answer": "habillent",
+          "decoys": [
+            "u",
+            "o",
+            "r"
+          ],
+          "translation": "她们每天早上穿衣服。",
+          "explain": "主语 elles，自反代词 s' 是 se 在哑音 h 前的省音；habiller 的现在时第三人称复数是 habillent。不要写成 habillée 或 habilles。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q21",
+          "type": "tiles",
+          "prompt": "Transformez au pluriel : « Je me réveille à six heures. » → ___",
+          "answer": [
+            "Nous",
+            "nous",
+            "réveillons",
+            "à",
+            "six",
+            "heures."
+          ],
+          "bank": [
+            "Nous",
+            "nous",
+            "réveillons",
+            "à",
+            "six",
+            "heures.",
+            "me",
+            "réveille",
+            "réveillent",
+            "vous"
+          ],
+          "translation": "我六点醒来。——我们六点醒来。",
+          "explain": "主语变为 nous 后，自反代词也要变为 nous，réveiller 的第一人称复数现在时为 réveillons。不能保留 me，也不能用第三人称复数 réveillent。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q22",
+          "type": "letters",
+          "prompt": "Complétez : « Elles se ___ tôt le matin. » (se lever, présent)",
+          "answer": "lèvent",
+          "accentKeys": [
+            "è"
+          ],
+          "decoys": [
+            "i",
+            "u",
+            "o"
+          ],
+          "translation": "她们早上起得早。",
+          "explain": "se lever 的第三人称复数现在时为 lèvent：词干 lèv- 加 -ent，e 在哑音 e 前变 è。自反代词用 se。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q23",
+          "type": "tiles",
+          "prompt": "Transformez en question avec inversion : « Elles s'en sont allées. » → ___",
+          "answer": [
+            "S'en",
+            "sont-elles",
+            "allées",
+            "?"
+          ],
+          "bank": [
+            "S'en",
+            "sont-elles",
+            "allées",
+            "?",
+            "Elles",
+            "s'en",
+            "sont",
+            "allé"
+          ],
+          "translation": "她们走了吗？",
+          "explain": "复合时态倒装以助动词 sont 为操作对象，主语 elles 后移成 sont-elles；自反代词 s' 与 en 留在助动词前，过去分词 allées 与主语 elles 配合且位置不变。不能写成 S'en sont allées-elles。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q24",
+          "type": "tiles",
+          "prompt": "Transformez au présent : « Ils se sont écrit souvent. » → ___",
+          "answer": [
+            "Ils",
+            "s'écrivent",
+            "souvent."
+          ],
+          "bank": [
+            "Ils",
+            "s'écrivent",
+            "souvent.",
+            "se sont",
+            "écrivent",
+            "écrit",
+            "s'est"
+          ],
+          "translation": "他们以前常写信。——他们常写信。",
+          "explain": "s'écrire 表示相互意义；现在时第三人称复数为 s'écrivent（écrire 的 ils 形式是 écrivent，自反代词 s' 在元音前省音）。不能保留复合过去时的 se sont，也不能用单数 écrit。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q25",
+          "type": "letters",
+          "prompt": "Complétez : « Nous nous ___ tous les jours. » (se téléphoner, présent)",
+          "answer": "téléphonons",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "i",
+            "u",
+            "r"
+          ],
+          "translation": "我们每天通电话。",
+          "explain": "se téléphoner 表示相互意义；主语 nous，自反代词用 nous，téléphoner 的现在时第一人称复数为 téléphonons。注意 é 的拼写。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q26",
+          "type": "letters",
+          "prompt": "Complétez : « Nous nous ___ les mains avant de manger. » (se laver, présent)",
+          "answer": "lavons",
+          "decoys": [
+            "i",
+            "u",
+            "r"
+          ],
+          "translation": "吃饭前我们洗手。",
+          "explain": "se laver les mains 中直接宾语是 les mains，se 是间接宾语；主语 nous，自反代词用 nous，laver 的第一人称复数现在时为 lavons。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l1-q27",
+          "type": "letters",
+          "prompt": "Complétez : « Les deux frères se ___ l'un de l'autre. » (se moquer, présent)",
+          "answer": "moquent",
+          "decoys": [
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "两兄弟互相嘲笑。",
+          "explain": "se moquer de 是词汇性代词式动词，l'un de l'autre 标明相互意义；主语 les deux frères 是第三人称复数，现在时为 moquent。自反代词用 se。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l2",
+      "title": "简单时态、否定、疑问与倒装",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Le matin, je ___ et je m'occupe de mon chat. » (se laver, présent)",
+          "options": [
+            "me lave",
+            "me laves",
+            "m'lave",
+            "se lave"
+          ],
+          "answer": 0,
+          "translation": "早上我洗澡，然后照顾我的猫。",
+          "explain": "se laver 中 se 是直接宾语（laver qn），主语 je 用 me；第一人称单数现在时为 me lave。后半句 m'occupe 是词汇性代词式动词，用来说明同一个主语下不同 se 的作用。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q2",
+          "type": "letters",
+          "prompt": "Complétez : « Ils s'___ Marc et Julie. » (s'appeler, présent)",
+          "answer": "appellent",
+          "decoys": [
+            "i",
+            "u",
+            "o"
+          ],
+          "translation": "他们叫马克和朱莉。",
+          "explain": "主语 ils 是第三人称复数，s'appeler 的现在时为 appellent，双写 l。自反代词 se 在元音 a 前省音为 s'。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q3",
+          "type": "letters",
+          "prompt": "Complétez : « Nous nous ___ pendant les vacances. » (s'ennuyer, présent)",
+          "answer": "ennuyons",
+          "decoys": [
+            "a",
+            "i",
+            "r"
+          ],
+          "translation": "假期里我们觉得无聊。",
+          "explain": "s'ennuyer 属于 -oyer/-uyer 类；nous 形式保留 y，词干 ennuy- 加 -ons，得到 ennuyons。只在以哑音 e 开头的词尾前变 i（je m'ennuie、ils s'ennuient）；nous/vous 及未完成过去时保留 y（nous ennuyons、je m'ennuyais）。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q4",
+          "type": "choice",
+          "prompt": "Complétez : « Elle se ___ de ta visite. » (se réjouir, présent)",
+          "options": [
+            "réjouis",
+            "réjouit",
+            "réjoui",
+            "réjouie"
+          ],
+          "answer": 1,
+          "translation": "她很高兴你来做客。",
+          "explain": "se réjouir 是第二组 -ir 动词；第三人称单数现在时为 réjouit。réjouis 是第一、第二人称单数形式，réjoui/réjouie 是过去分词形式。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q5",
+          "type": "letters",
+          "prompt": "Complétez : « Ils se ___ contre l'injustice. » (se défendre, présent)",
+          "answer": "défendent",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "i",
+            "u",
+            "o"
+          ],
+          "translation": "他们反抗不公正。",
+          "explain": "se défendre 是 -re 动词；词干 défend- 加第三人称复数词尾 -ent，得到 défendent（d 属于词干，保留）。自反代词用 se。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q6",
+          "type": "choice",
+          "prompt": "Complétez : « Nous nous ___ du froid. » (se protéger, présent)",
+          "options": [
+            "protégons",
+            "protégeons",
+            "protègeons",
+            "protégions"
+          ],
+          "answer": 1,
+          "translation": "我们防寒。",
+          "explain": "se protéger 是 -ger 动词，在 a/o 前要保留 e：nous nous protégeons。protégons 丢了 e，protègeons 多写了 e，protégions 是未完成过去时形式。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q7",
+          "type": "letters",
+          "prompt": "Complétez : « Nous nous ___ dans la course. » (se lancer, présent)",
+          "answer": "lançons",
+          "accentKeys": [
+            "ç"
+          ],
+          "decoys": [
+            "i",
+            "u",
+            "e"
+          ],
+          "translation": "我们投入比赛。",
+          "explain": "se lancer 是 -cer 动词，在 a/o 前 c 要变 ç：nous nous lançons。不要写成 lancons 或 lançcons。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q8",
+          "type": "choice",
+          "prompt": "Complétez : « Demain, je ___ à sept heures. » (se lever, futur simple)",
+          "options": [
+            "me lèverai",
+            "me leverai",
+            "me lèverons",
+            "me lève"
+          ],
+          "answer": 0,
+          "translation": "明天我七点起床。",
+          "explain": "se lever 的将来时词干为 lèver-，第一人称单数加 -ai：je me lèverai。me leverai 丢了 è，me lèverons 是 nous 形式，me lève 是现在时。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q9",
+          "type": "letters",
+          "prompt": "Complétez : « Nous nous ___ si nous restons ici. » (s'ennuyer, futur simple)",
+          "answer": "ennuierons",
+          "decoys": [
+            "a",
+            "t",
+            "m"
+          ],
+          "translation": "如果我们留在这里，我们会无聊的。",
+          "explain": "s'ennuyer 的将来时词干把 y 变 i：ennuier-；第一人称复数加 -ons，得到 ennuierons。不要写成 ennuyerons。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q10",
+          "type": "choice",
+          "prompt": "Complétez : « Quand j'étais petit, je ___ à huit heures. » (se coucher, imparfait)",
+          "options": [
+            "me couche",
+            "me couchais",
+            "me couchait",
+            "me coucherai"
+          ],
+          "answer": 1,
+          "translation": "小时候我八点睡觉。",
+          "explain": "未完成过去时第一人称单数词尾是 -ais：je me couchais。me couche 是现在时，me couchait 是第三人称单数，me coucherai 是将来时。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q11",
+          "type": "letters",
+          "prompt": "Complétez : « Nous nous ___ du froid. » (se protéger, imparfait)",
+          "answer": "protégions",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "a",
+            "u",
+            "m"
+          ],
+          "translation": "我们那时防寒。",
+          "explain": "se protéger 的未完成过去时以 nous 形式词干 protég- 加 -ions，得到 protégions；-ger 在 i 前不保留额外的 e。不要写成 protégeions。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q12",
+          "type": "letters",
+          "prompt": "Complétez : « Il ne se ___ jamais de ses vacances. » (se souvenir, présent)",
+          "answer": "souvient",
+          "decoys": [
+            "a",
+            "r",
+            "m"
+          ],
+          "translation": "他从不记得自己的假期。",
+          "explain": "否定词 ne 位于自反代词 se 之前，jamais 位于变位动词之后；se souvenir 的第三人称单数现在时为 souvient。因此是 Il ne se souvient jamais。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q13",
+          "type": "letters",
+          "prompt": "Complétez : « Elles ne s'___ jamais de leur travail. » (s'occuper, présent)",
+          "answer": "occupent",
+          "decoys": [
+            "i",
+            "a",
+            "r"
+          ],
+          "translation": "她们从不关心自己的工作。",
+          "explain": "s'occuper de 是词汇性代词式动词；主语 elles，现在时第三人称复数为 occupent。否定结构 ne + s' + occupent + jamais 保持自反代词在 ne 之后。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q14",
+          "type": "choice",
+          "prompt": "Complétez : « Elle ne s'est pas ___ de la réservation. » (s'occuper, passé composé)",
+          "options": [
+            "occupé",
+            "occupés",
+            "occupée",
+            "occuper"
+          ],
+          "answer": 2,
+          "translation": "她没有处理预订的事。",
+          "explain": "复合过去时否定中，pas 位于助动词 est 之后、过去分词之前；s'occuper de 是词汇性代词式动词，过去分词与主语 elle 配合成 occupée。occupé 未配合，occupés 是阳性复数，occuper 是不定式。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q15",
+          "type": "tiles",
+          "prompt": "Transformez en question avec inversion : « Tu te lèves tôt. » → ___",
+          "answer": [
+            "Te",
+            "lèves-tu",
+            "tôt",
+            "?"
+          ],
+          "bank": [
+            "Te",
+            "lèves-tu",
+            "tôt",
+            "?",
+            "tu",
+            "lèves",
+            "se",
+            "lève-t-il"
+          ],
+          "translation": "你起得早吗？",
+          "explain": "简单时态倒装时，自反代词 te 留在变位动词前，主语 tu 移到动词后，并用连字符连接：Te lèves-tu tôt ? 不能写成 Te tu lèves 或 Lèves-te。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q16",
+          "type": "choice",
+          "prompt": "Complétez : « Comment ___ ? » (s'appeler, elle)",
+          "options": [
+            "se appelle-t-elle",
+            "s'appelle elle",
+            "s'appelle-t-elle",
+            "elle s'appelle-t-elle"
+          ],
+          "answer": 2,
+          "translation": "她叫什么名字？",
+          "explain": "倒装时自反代词 s' 留在变位动词前，主语 elle 移到动词后；动词 appelle 以元音结尾，加增音 -t-：s'appelle-t-elle。se appelle 缺少省音，s'appelle elle 缺少连字符和增音，elle s'appelle-t-elle 重复主语。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q17",
+          "type": "tiles",
+          "prompt": "Transformez en question avec inversion : « Il se couche tard. » → ___",
+          "answer": [
+            "Se",
+            "couche-t-il",
+            "tard",
+            "?"
+          ],
+          "bank": [
+            "Se",
+            "couche-t-il",
+            "tard",
+            "?",
+            "il",
+            "couche",
+            "se",
+            "couchent-ils"
+          ],
+          "translation": "他睡得晚吗？",
+          "explain": "自反代词 se 留在变位动词 couche 前，主语 il 后移；couche 以元音结尾，加增音 -t- 写成 couche-t-il。不能写成 Couche-se-il 或 Se couche il。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q18",
+          "type": "choice",
+          "prompt": "Quelle question est correcte ?",
+          "options": [
+            "Est-ce que te lèves-tu tôt ?",
+            "Est-ce que tu lèves tôt ?",
+            "Tu te lèves tôt, est-ce que ?",
+            "Est-ce que tu te lèves tôt ?"
+          ],
+          "answer": 3,
+          "translation": "你起得早吗？",
+          "explain": "用 est-ce que 提问时，后面接完整的陈述语序：Est-ce que tu te lèves tôt ? 不能再倒装，也不能省略自反代词 te。其他三项分别混用了 est-ce que 与倒装、漏掉 te、把 est-ce que 放错位置。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q19",
+          "type": "tiles",
+          "prompt": "Transformez en question avec inversion : « Elle s'est levée tôt. » → ___",
+          "answer": [
+            "S'est-elle",
+            "levée",
+            "tôt",
+            "?"
+          ],
+          "bank": [
+            "S'est-elle",
+            "levée",
+            "tôt",
+            "?",
+            "Elle",
+            "s'est",
+            "levé",
+            "est-elle"
+          ],
+          "translation": "她起得早吗？",
+          "explain": "复合时态的倒装以助动词 est 为操作对象：S'est-elle...；自反代词 s' 留在助动词前，过去分词 levée 位置不变，并与主语 elle 配合。不能写成 S'est levée-t-elle。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l2-q20",
+          "type": "choice",
+          "prompt": "Quelle phrase exprime une action réciproque ?",
+          "options": [
+            "Il se téléphone chaque soir.",
+            "Elle s'appelle Julie.",
+            "Ils se téléphonent chaque soir.",
+            "Nous nous souvenons de ce voyage."
+          ],
+          "answer": 2,
+          "translation": "哪一句表达相互动作？",
+          "explain": "Ils se téléphonent 的主语是复数 ils，动作在两个参与者之间互为对象，表示「他们每天通电话」。Il se téléphone 是单数，不能相互；s'appeler 是词汇性代词式动词；se souvenir 是词汇义，不表示相互。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l3",
+      "title": "复合时态（复合过去时与愈过去时）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c11-pronominal-verbs-l3-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Elle s'est ___ devant le miroir. » (se regarder, passé composé)",
+          "options": [
+            "regardée",
+            "regardé",
+            "regardés",
+            "regarder"
+          ],
+          "answer": 0,
+          "translation": "她在镜子前看自己。",
+          "explain": "se regarder 中 se 是直接宾语（regarder qn）；复合过去时用 être，过去分词与主语 elle 配合，regardé 加 -e 成 regardée。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l3-q2",
+          "type": "choice",
+          "prompt": "Complétez : « Elle s'est ___ les mains. » (se laver, passé composé)",
+          "options": [
+            "lavée",
+            "lavé",
+            "lavés",
+            "lavées"
+          ],
+          "answer": 1,
+          "translation": "她洗了手。",
+          "explain": "se laver les mains 等于 laver les mains à soi：直接宾语是 les mains，位于过去分词之后；se 是间接宾语，所以过去分词不配合，保持 lavé。若直接宾语前置，则要与它配合，如 Les mains qu'elle s'est lavées。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l3-q3",
+          "type": "letters",
+          "prompt": "Complétez : « Elles se sont ___ au cinéma. » (se voir, passé composé)",
+          "answer": "vues",
+          "decoys": [
+            "i",
+            "u",
+            "a"
+          ],
+          "translation": "她们在电影院见了面。",
+          "explain": "se voir 表示相互意义，se 是直接宾语（voir qn）；复合过去时用 être，过去分词与主语 elles 配合，vu 加 -es 成 vues。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l3-q4",
+          "type": "tiles",
+          "prompt": "Transformez au passé composé : « Elles s'en vont. » → ___",
+          "answer": [
+            "Elles",
+            "s'en",
+            "sont",
+            "allées."
+          ],
+          "bank": [
+            "Elles",
+            "s'en",
+            "sont",
+            "allées.",
+            "allé",
+            "allés",
+            "se",
+            "vont"
+          ],
+          "translation": "她们走了。",
+          "explain": "s'en aller 是词汇性代词式动词；复合过去时用 être，过去分词与主语 elles 配合成 allées。en 保留在自反代词后、助动词前：Elles s'en sont allées。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l3-q5",
+          "type": "letters",
+          "prompt": "Complétez : « Ils se sont ___ pendant la réunion. » (se taire, passé composé)",
+          "answer": "tus",
+          "decoys": [
+            "i",
+            "o",
+            "r"
+          ],
+          "translation": "会议期间他们一直沉默。",
+          "explain": "se taire 是词汇性代词式动词，复合过去时用 être；过去分词与主语 ils 配合，tu 加 -s 成 tus。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l3-q6",
+          "type": "choice",
+          "prompt": "Complétez : « Ils ne se sont pas ___ de lui. » (se moquer, passé composé)",
+          "options": [
+            "moqué",
+            "moqués",
+            "moquées",
+            "moquer"
+          ],
+          "answer": 1,
+          "translation": "他们没有嘲笑他。",
+          "explain": "se moquer de 是词汇性代词式动词，复合过去时用 être；否定词 pas 在助动词后、分词前；分词与主语 ils 配合成 moqués。moqué 未配合，moquées 是阴性复数，moquer 是不定式。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l3-q7",
+          "type": "tiles",
+          "prompt": "Transformez en question avec inversion : « Elle s'est souvenue de son enfance. » → ___",
+          "answer": [
+            "S'est-elle",
+            "souvenue",
+            "de",
+            "son",
+            "enfance",
+            "?"
+          ],
+          "bank": [
+            "S'est-elle",
+            "souvenue",
+            "de",
+            "son",
+            "enfance",
+            "?",
+            "Elle",
+            "s'est",
+            "souvenu",
+            "se"
+          ],
+          "translation": "她记得自己的童年吗？",
+          "explain": "复合时态倒装以助动词 est 为操作对象，写成 S'est-elle；自反代词 s' 留在助动词前，过去分词 souvenue 与主语 elle 配合且位置不变。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l3-q8",
+          "type": "tiles",
+          "prompt": "Transformez au plus-que-parfait : « Elle a mangé et s'est couchée. » → ___",
+          "answer": [
+            "Elle",
+            "avait",
+            "mangé",
+            "et",
+            "s'était",
+            "couchée."
+          ],
+          "bank": [
+            "Elle",
+            "avait",
+            "mangé",
+            "et",
+            "s'était",
+            "couchée.",
+            "a",
+            "s'est",
+            "couché",
+            "mangée",
+            "était"
+          ],
+          "translation": "她已经吃过饭，也已经睡下了。",
+          "explain": "两个动词共用一个主语 elle，都要变成愈过去时：manger 用 avoir 的未完成过去时 avait + mangé；se coucher 用自反代词 + être 的未完成过去时 s'était + 过去分词 couchée，并与主语 elle 配合。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l3-q9",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative en remplaçant « déjà » : « Elle s'était déjà habituée à Paris. » → ___",
+          "answer": [
+            "Elle",
+            "ne",
+            "s'était",
+            "pas",
+            "encore",
+            "habituée",
+            "à",
+            "Paris."
+          ],
+          "bank": [
+            "Elle",
+            "ne",
+            "s'était",
+            "pas",
+            "encore",
+            "habituée",
+            "à",
+            "Paris.",
+            "se",
+            "était",
+            "déjà",
+            "habitué"
+          ],
+          "translation": "她那时还没有习惯巴黎。",
+          "explain": "愈过去时否定：ne 放在自反代词前，pas 放在助动词 était 后、过去分词前；déjà 在否定中改为 encore，位置在 pas 后。habituée 与主语 elle 配合。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l3-q10",
+          "type": "letters",
+          "prompt": "Complétez : « Nous nous étions ___ avant l'orage. » (se dépêcher, plus-que-parfait)",
+          "answer": "dépêchés",
+          "accentKeys": [
+            "é",
+            "ê"
+          ],
+          "decoys": [
+            "i",
+            "u",
+            "o"
+          ],
+          "translation": "暴风雨前我们赶紧走了。",
+          "explain": "se dépêcher 的愈过去时由自反代词 + être 的未完成过去时 étions + 过去分词构成；过去分词与主语 nous 配合，dépêché 加 -s 成 dépêchés。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l3-q11",
+          "type": "tiles",
+          "prompt": "Transformez au plus-que-parfait : « Ils se sont tus pendant la réunion. » → ___",
+          "answer": [
+            "Ils",
+            "s'étaient",
+            "tus",
+            "pendant",
+            "la",
+            "réunion."
+          ],
+          "bank": [
+            "Ils",
+            "s'étaient",
+            "tus",
+            "pendant",
+            "la",
+            "réunion.",
+            "se sont",
+            "tu",
+            "s'était",
+            "taisent"
+          ],
+          "translation": "会议期间他们一直沉默。",
+          "explain": "把助动词 être 的复合过去时 sont 改为未完成过去时 étaient，自反代词 s' 保留：Ils s'étaient tus。过去分词 tu 与主语 ils 配合加 -s；pendant la réunion 不变。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l3-q12",
+          "type": "choice",
+          "prompt": "Complétez : « Quand je suis arrivé, elle ___ déjà partie. » (partir, plus-que-parfait)",
+          "options": [
+            "était",
+            "s'était",
+            "avait",
+            "est"
+          ],
+          "answer": 0,
+          "translation": "我到的时候，她已经走了。",
+          "explain": "partir 是非代词式动词，愈过去时用 être 的未完成过去时 était + 过去分词 partie；过去分词与主语 elle 配合。s'était 多加了自反代词，avait 用错助动词，est 是复合过去时。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l3-q13",
+          "type": "choice",
+          "prompt": "Complétez : « Elles s'étaient ___ avant la fin du film. » (se lever, plus-que-parfait)",
+          "options": [
+            "levé",
+            "levés",
+            "lever",
+            "levées"
+          ],
+          "answer": 3,
+          "translation": "电影结束前她们就起来了。",
+          "explain": "se lever 中 se 是直接宾语；愈过去时用 être 的未完成过去时 s'étaient + 过去分词，分词与主语 elles 配合成 levées。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l3-q14",
+          "type": "letters",
+          "prompt": "Complétez : « Elles se sont ___ hier soir. » (se parler, passé composé)",
+          "answer": "parlé",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "i",
+            "u",
+            "o"
+          ],
+          "translation": "她们昨晚交谈了。",
+          "explain": "se parler 等于 parler à soi/à l'autre：se 是间接宾语，所以过去分词不与主语配合，保持 parlé。不要因为主语是 elles 就写成 parlées。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l4",
+      "title": "过去分词配合",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Elle s'est ___ à sept heures. » (lever)",
+          "options": [
+            "levée",
+            "levé",
+            "levés",
+            "levées"
+          ],
+          "answer": 0,
+          "translation": "她七点起床。",
+          "explain": "se lever 的 se 是直接宾语（lever qn），复合过去时与主语 elle 配合，阴性单数写 levée。levé 是阳性单数，levés/levées 是复数。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q2",
+          "type": "choice",
+          "prompt": "Complétez : « Ils se sont ___ dans la cour. » (rencontrer)",
+          "options": [
+            "rencontré",
+            "rencontrée",
+            "rencontrés",
+            "rencontrées"
+          ],
+          "answer": 2,
+          "translation": "他们在院子里相遇了。",
+          "explain": "se rencontrer 是直接相互意义，se 作直接宾语；主语 ils 是阳性复数，过去分词加 -s，写 rencontrés。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q3",
+          "type": "choice",
+          "prompt": "Complétez : « Elles se sont ___ au téléphone. » (parler)",
+          "options": [
+            "parlée",
+            "parlé",
+            "parlés",
+            "parlées"
+          ],
+          "answer": 1,
+          "translation": "她们在电话里交谈过。",
+          "explain": "parler à qn 要求 à + 人，se parler 的 se 是间接宾语；间接宾语不引起与主语的配合，parlé 保持阳性单数。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q4",
+          "type": "choice",
+          "prompt": "Complétez : « Elle s'est ___ les dents. » (se brosser)",
+          "options": [
+            "brossé",
+            "brossée",
+            "brossés",
+            "brossées"
+          ],
+          "answer": 0,
+          "translation": "她刷了牙。",
+          "explain": "se brosser les dents 等于 brosser les dents à soi：les dents 是直接宾语且位于分词后，se 是间接宾语；没有前置直接宾语，过去分词不配合，写 brossé。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q5",
+          "type": "letters",
+          "prompt": "Complétez : « Ces photos ? Elle se les est ___ hier. » (envoyer)",
+          "answer": "envoyées",
+          "decoys": [
+            "u",
+            "i",
+            "p"
+          ],
+          "accentKeys": [
+            "é"
+          ],
+          "translation": "这些照片？她昨天把它们寄给了自己。",
+          "explain": "envoyer qch à qn：se 是间接宾语，les（= ces photos，阴性复数）是前置直接宾语；过去分词与前置直接宾语配合，写 envoyées。这里只看宾语代词的位置和配合，不依赖关系代词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q6",
+          "type": "letters",
+          "prompt": "Complétez : « Cette robe ? Elle se l'est ___ pour la fête. » (acheter)",
+          "answer": "achetée",
+          "decoys": [
+            "u",
+            "i",
+            "p"
+          ],
+          "accentKeys": [
+            "é"
+          ],
+          "translation": "这条裙子？她为了聚会给自己买下了它。",
+          "explain": "acheter qch à qn：se 是间接宾语，l'（= cette robe，阴性单数）是前置直接宾语；分词与它配合，写 achetée。不要因为 se 是间接宾语就写 acheté。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q7",
+          "type": "letters",
+          "prompt": "Complétez : « Elle s'est ___ de son enfance. » (souvenir)",
+          "answer": "souvenue",
+          "decoys": [
+            "i",
+            "a",
+            "t"
+          ],
+          "translation": "她想起了自己的童年。",
+          "explain": "se souvenir 是固定代词式动词，se 不表示“对自己”的普通宾语；复合过去时按主语配合，主语 elle 为阴性单数，写 souvenue。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q8",
+          "type": "letters",
+          "prompt": "Complétez : « Ils se sont ___ de leur promesse. » (souvenir)",
+          "answer": "souvenus",
+          "decoys": [
+            "i",
+            "a",
+            "t"
+          ],
+          "translation": "他们想起了自己的承诺。",
+          "explain": "se souvenir 按主语配合；主语 ils 是阳性复数，过去分词加 -s，写 souvenus。不要因为后面有 de + 名词就误判为间接宾语而不配合。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q9",
+          "type": "choice",
+          "prompt": "Complétez : « Nous nous sommes ___ hier soir. » (téléphoner)",
+          "options": [
+            "téléphoné",
+            "téléphonée",
+            "téléphonés",
+            "téléphonées"
+          ],
+          "answer": 0,
+          "translation": "我们昨晚通了电话。",
+          "explain": "téléphoner à qn 的 se 是间接宾语；相互意义不改变这个角色，所以过去分词不与主语 nous 配合，写 téléphoné。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q10",
+          "type": "choice",
+          "prompt": "Complétez : « Elles se sont ___ une lettre. » (écrire)",
+          "options": [
+            "écrite",
+            "écrits",
+            "écrit",
+            "écrites"
+          ],
+          "answer": 2,
+          "translation": "她们互相写了一封信。",
+          "explain": "écrire qch à qn：une lettre 是直接宾语且位于分词后，se 是间接宾语；没有前置直接宾语，écrit 不配合，也不与主语 elles 配合。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q11",
+          "type": "tiles",
+          "prompt": "Transformez au pluriel : « Il s'est levé tôt. » → ___",
+          "answer": [
+            "Ils",
+            "se",
+            "sont",
+            "levés",
+            "tôt."
+          ],
+          "bank": [
+            "Ils",
+            "se",
+            "sont",
+            "levés",
+            "tôt.",
+            "Il",
+            "s'est",
+            "levé",
+            "levée"
+          ],
+          "translation": "他们起得早。",
+          "explain": "主语变为 ils，自反代词仍用 se，助动词变为 sont；se lever 的 se 是直接宾语，过去分词与阳性复数主语配合，写 levés。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q12",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative : « Elle s'est maquillée. » → ___",
+          "answer": [
+            "Elle",
+            "ne",
+            "s'est",
+            "pas",
+            "maquillée."
+          ],
+          "bank": [
+            "Elle",
+            "ne",
+            "s'est",
+            "pas",
+            "maquillée.",
+            "se",
+            "sont",
+            "maquillé",
+            "maquillées."
+          ],
+          "translation": "她没有化妆。",
+          "explain": "否定词 ne 放在自反代词 s' 前，pas 放在助动词 est 后、过去分词前；se maquiller 的 se 是直接宾语，分词仍与主语 elle 配合，写 maquillée。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q13",
+          "type": "tiles",
+          "prompt": "Remplacez « les mains » par « les » : « Elle s'est lavé les mains. » → ___",
+          "answer": [
+            "Elle",
+            "se",
+            "les",
+            "est",
+            "lavées."
+          ],
+          "bank": [
+            "Elle",
+            "se",
+            "les",
+            "est",
+            "lavées.",
+            "a",
+            "lavé",
+            "lavée",
+            "lui"
+          ],
+          "translation": "她把手洗了。",
+          "explain": "les 替代 les mains，是前置直接宾语；se 仍是间接宾语。代词顺序为 se + les，助动词 est 其后；分词与 les（阴性复数）配合，写 lavées。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q14",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Elle s'est souvenu de son ami.",
+            "Elle s'est souvenue de son ami.",
+            "Elle s'est souvenues de son ami.",
+            "Elle s'est souvenir de son ami."
+          ],
+          "answer": 1,
+          "translation": "她想起了她的朋友。",
+          "explain": "se souvenir 是固定代词式动词，复合过去时按主语配合；elle 是阴性单数，写 souvenue。souvenu 未配合，souvenues 数与主语不符，souvenir 是不定式，不能作过去分词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q15",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Elle s'est lavée les mains.",
+            "Elle s'est lavés les mains.",
+            "Elle s'est lavées les mains.",
+            "Elle s'est lavé les mains."
+          ],
+          "answer": 3,
+          "translation": "她洗了手。",
+          "explain": "laver qch à qn：les mains 是直接宾语且后置，se 是间接宾语，过去分词不配合，写 lavé。lavée 是把她本人当作直接宾语，lavés/lavées 则错误地与后置宾语配合。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l4-q16",
+          "type": "choice",
+          "prompt": "Complétez : « Elle s'est ___ à ses collègues. » (présenter)",
+          "options": [
+            "présenté",
+            "présentée",
+            "présentés",
+            "présentées"
+          ],
+          "answer": 1,
+          "translation": "她向同事们做了自我介绍。",
+          "explain": "se présenter à qn 中，se 是 présenter qn 的直接宾语，à ses collègues 只是另一个补语；不能因为出现 à + 人就判 se 为间接宾语。分词与主语 elle 配合，写 présentée。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l5",
+      "title": "命令式与不定式",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c11-pronominal-verbs-l5-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Elle ne veut pas ___ tôt. » (lever)",
+          "options": [
+            "se lever",
+            "s'lever",
+            "lever se",
+            "se lève"
+          ],
+          "answer": 0,
+          "translation": "她不想早起。",
+          "explain": "题干只给原形 lever；这里需要代词式动词 se lever，自反代词属于不定式，放在它前面并随主语 elle 写成 se。否定词只包住变位动词 veut，即 ne veut pas。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l5-q2",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative : « Il doit se coucher. » → ___",
+          "answer": [
+            "Il",
+            "ne",
+            "doit",
+            "pas",
+            "se",
+            "coucher."
+          ],
+          "bank": [
+            "Il",
+            "ne",
+            "doit",
+            "pas",
+            "se",
+            "coucher.",
+            "s'",
+            "couche",
+            "couché"
+          ],
+          "translation": "他不能去睡觉。",
+          "explain": "否定词包住变位动词 doit：ne doit pas；自反代词 se 仍紧靠不定式 coucher，不能被否定词隔开，也不能写成 s'coucher。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l5-q3",
+          "type": "tiles",
+          "prompt": "Transformez avec « devoir » : « Elles se parlent. » → ___",
+          "answer": [
+            "Elles",
+            "doivent",
+            "se",
+            "parler."
+          ],
+          "bank": [
+            "Elles",
+            "doivent",
+            "se",
+            "parler.",
+            "doit",
+            "s'",
+            "parlent",
+            "parlé"
+          ],
+          "translation": "她们必须交谈。",
+          "explain": "devoir 按主语 elles 变位为 doivent；自反代词 se 属于不定式 parler，放在不定式前。se parler 是间接相互，这里只要求保留 se，不涉及过去分词配合。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l5-q4",
+          "type": "choice",
+          "prompt": "Laquelle de ces phrases est correcte ?",
+          "options": [
+            "Te lève !",
+            "Lève te !",
+            "Lève-toi !",
+            "Toi lève !"
+          ],
+          "answer": 2,
+          "translation": "起床！",
+          "explain": "肯定命令式中自反代词移到动词后，并用连字符连接；第二人称单数 te 变为 toi，所以写 Lève-toi !。Te lève 和 Toi lève 位置错误，Lève te 缺少连字符且未变 toi。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l5-q5",
+          "type": "choice",
+          "prompt": "Laquelle de ces phrases est correcte ?",
+          "options": [
+            "Ne couche-toi pas !",
+            "Ne te couche pas !",
+            "Ne toi couche pas !",
+            "Ne couche pas-toi !"
+          ],
+          "answer": 1,
+          "translation": "别睡！",
+          "explain": "否定命令式中自反代词留在动词前，并恢复 me/te 的形式，所以用 ne te couche pas。te → toi 只发生在肯定命令式，不能写成 couche-toi。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l5-q6",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom objet : « En regardant les photos, elle a souri. » → ___",
+          "answer": [
+            "En",
+            "les",
+            "regardant,",
+            "elle",
+            "a",
+            "souri."
+          ],
+          "bank": [
+            "En",
+            "les",
+            "regardant,",
+            "elle",
+            "a",
+            "souri.",
+            "regardé",
+            "leur",
+            "la",
+            "photo."
+          ],
+          "translation": "看着那些照片，她笑了。",
+          "explain": "副动词保留动词的句法特性：宾语代词 les 放在 en 与现在分词 regardant 之间，不能放在 en 前，也不能放在分词后。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l5-q7",
+          "type": "choice",
+          "prompt": "Complétez : « Il a appris le français ___ la radio. » (en + écouter)",
+          "options": [
+            "en écoutant le",
+            "en le écoutant",
+            "écoutant en le",
+            "en l'écoutant"
+          ],
+          "answer": 3,
+          "translation": "他通过听广播学法语。",
+          "explain": "副动词 en + 现在分词中，宾语代词放在 en 与分词之间；le 指 la radio，遇 écouter 的元音省音为 l'，所以写 en l'écoutant。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l5-q8",
+          "type": "letters",
+          "prompt": "Complétez : « Tu dois ___ avant de sortir. » (s'habiller)",
+          "answer": "t'habiller",
+          "decoys": [
+            "n",
+            "u",
+            "y"
+          ],
+          "translation": "你出门前必须穿好衣服。",
+          "explain": "s'habiller 的自反代词随主语 tu 变为 te，遇 habiller 的哑音 h 省音为 t'；代词放在不定式前，构成 dois + t'habiller 的两词结构。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l5-q9",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Présentez-lui-vous !",
+            "Présentez-vous-lui !",
+            "Présentez-vous lui !",
+            "Vous présentez-lui !"
+          ],
+          "answer": 1,
+          "translation": "你们向他自我介绍吧！",
+          "explain": "肯定命令式中代词后置，顺序为动词 + 直接宾语 + 间接宾语：Présentez-vous-lui !。vous 是自反直接宾语，lui 是间接宾语（présenter qn à qn），不能颠倒顺序，也不能保留主语 vous 在动词前。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l6",
+      "title": "自反代词作直接/间接宾语",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Elle ___ à sept heures. » (se lever, présent)",
+          "options": [
+            "se lève",
+            "se lever",
+            "lève",
+            "se lèves"
+          ],
+          "answer": 0,
+          "translation": "她七点起床。",
+          "explain": "题干限定现在时：se lever 的 se 与主语 elle 一致，现在时用 se lève。se lever 是不定式，不能作变位动词；lève 缺少自反代词，se lèves 变位错误。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q2",
+          "type": "choice",
+          "prompt": "Complétez : « Vous ___ devant la glace. » (se regarder)",
+          "options": [
+            "se regardez",
+            "vous regardez vous",
+            "vous regardez",
+            "regardez-vous"
+          ],
+          "answer": 2,
+          "translation": "你们在镜子前照自己。",
+          "explain": "主语 vous 对应自反代词 vous，放在变位动词 regardez 前，写 vous vous regardez；se 是第三人称形式，不能与 vous 搭配。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q3",
+          "type": "choice",
+          "prompt": "Complétez : « Ils ___ souvent au téléphone. » (se parler)",
+          "options": [
+            "se parle",
+            "se parlent",
+            "s'parlent",
+            "parlent se"
+          ],
+          "answer": 1,
+          "translation": "他们经常通电话。",
+          "explain": "主语 ils 是复数，自反代词用 se，动词 parler 变位为 parlent；se parler 是间接相互（parler à qn），但简单时态中 se 仍按主语变复数。s'parlent 的省音错误。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q4",
+          "type": "choice",
+          "prompt": "Complétez : « Elles ___ souvent. » (s'écrire)",
+          "options": [
+            "se écrivent",
+            "s'écrivent elles",
+            "écrivent s'",
+            "s'écrivent"
+          ],
+          "answer": 3,
+          "translation": "她们经常通信。",
+          "explain": "s'écrire 的自反代词 se 在元音 é 前省音为 s'，与动词写成一个整体 s'écrivent；主语 elles 要求动词第三人称复数。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q5",
+          "type": "choice",
+          "prompt": "Dans « Elle se lave », quel est le rôle de « se » ?",
+          "options": [
+            "objet direct",
+            "objet indirect",
+            "sujet",
+            "préposition"
+          ],
+          "answer": 0,
+          "translation": "在 « Elle se lave » 中，se 是什么成分？",
+          "explain": "laver 可以直接带宾语（laver qn），se 指主语 elle 本人，充当直接宾语；因此复合过去时要与主语配合：Elle s'est lavée。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q6",
+          "type": "choice",
+          "prompt": "Dans « Elle se parle », quel est le rôle de « se » ?",
+          "options": [
+            "objet direct",
+            "sujet",
+            "objet indirect",
+            "article"
+          ],
+          "answer": 2,
+          "translation": "在 « Elle se parle » 中，se 是什么成分？",
+          "explain": "parler 的补语由 à 引出（parler à qn），se 承担这个 à + 人论元，所以是间接宾语；复合过去时写 Elle s'est parlé，不配合。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q7",
+          "type": "letters",
+          "prompt": "Complétez : « Tu ___ avant de sortir. » (s'habiller)",
+          "answer": "t'habilles",
+          "decoys": [
+            "n",
+            "r",
+            "u"
+          ],
+          "translation": "你出门前穿好衣服。",
+          "explain": "s'habiller 的自反代词随主语 tu 变为 te，遇哑音 h 省音为 t'；代词放在变位动词 habilles 前，写 t'habilles。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q8",
+          "type": "letters",
+          "prompt": "Complétez : « Elles se sont ___ tout de suite. » (se plaire)",
+          "answer": "plu",
+          "decoys": [
+            "s",
+            "e",
+            "t"
+          ],
+          "translation": "她们立刻对彼此产生了好感。",
+          "explain": "se plaire 等于 plaire à qn：se 是间接宾语，相互意义不改变这个角色；过去分词不与主语 elles 配合，写 plu。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q9",
+          "type": "letters",
+          "prompt": "Complétez : « Elle s'est ___ les cheveux. » (se peigner)",
+          "answer": "peigné",
+          "decoys": [
+            "s",
+            "e",
+            "t"
+          ],
+          "accentKeys": [
+            "é"
+          ],
+          "translation": "她梳了头发。",
+          "explain": "peigner qch à qn：les cheveux 是直接宾语且后置，se 是间接宾语；没有前置直接宾语，分词不配合，写 peigné。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q10",
+          "type": "letters",
+          "prompt": "Complétez : « Ils se sont ___ hier. » (rencontrer)",
+          "answer": "rencontrés",
+          "decoys": [
+            "u",
+            "i",
+            "p"
+          ],
+          "accentKeys": [
+            "é"
+          ],
+          "translation": "他们昨天见了面。",
+          "explain": "se rencontrer 是直接相互意义，se 作直接宾语；复合过去时与阳性复数主语 ils 配合，写 rencontrés。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q11",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative : « Elle se maquille. » → ___",
+          "answer": [
+            "Elle",
+            "ne",
+            "se",
+            "maquille",
+            "pas."
+          ],
+          "bank": [
+            "Elle",
+            "ne",
+            "se",
+            "maquille",
+            "pas.",
+            "s'",
+            "maquillent",
+            "maquillé"
+          ],
+          "translation": "她不化妆。",
+          "explain": "否定词 ne 放在自反代词 se 前，pas 放在变位动词 maquille 后；se 作直接宾语，位置不变。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q12",
+          "type": "tiles",
+          "prompt": "Remplacez « les mains » par « les » : « Il se lave les mains. » → ___",
+          "answer": [
+            "Il",
+            "se",
+            "les",
+            "lave."
+          ],
+          "bank": [
+            "Il",
+            "se",
+            "les",
+            "lave.",
+            "la",
+            "lui",
+            "lavent",
+            "mains."
+          ],
+          "translation": "他洗自己的手。",
+          "explain": "se 是间接宾语（laver qch à qn），les 替代 les mains 作直接宾语；两个代词都放在变位动词 lave 前，顺序为 se + les。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q13",
+          "type": "tiles",
+          "prompt": "Remplacez « ces livres » par « les » : « Elle s'achète ces livres. » → ___",
+          "answer": [
+            "Elle",
+            "se",
+            "les",
+            "achète."
+          ],
+          "bank": [
+            "Elle",
+            "se",
+            "les",
+            "achète.",
+            "le",
+            "lui",
+            "achètent",
+            "livres."
+          ],
+          "translation": "她把这些书买给自己。",
+          "explain": "acheter qch à qn：se 是间接宾语，les 替代 ces livres 作直接宾语；代词顺序为 se + les，放在变位动词 achète 前。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q14",
+          "type": "tiles",
+          "prompt": "Transformez avec « devoir » et remplacez « les mains » par « les » : « Il se lave les mains. » → ___",
+          "answer": [
+            "Il",
+            "doit",
+            "se",
+            "les",
+            "laver."
+          ],
+          "bank": [
+            "Il",
+            "doit",
+            "se",
+            "les",
+            "laver.",
+            "doivent",
+            "la",
+            "lui",
+            "lavé"
+          ],
+          "translation": "他必须洗手。",
+          "explain": "devoir 变位为 doit，自反代词和直接宾语代词都属于不定式 laver，放在它前面；顺序仍是 se + les，构成 Il doit se les laver。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q15",
+          "type": "choice",
+          "prompt": "Dans « Ils se sont écrit », quel est le rôle de « se » ?",
+          "options": [
+            "objet direct",
+            "sujet",
+            "article",
+            "objet indirect"
+          ],
+          "answer": 3,
+          "translation": "在 « Ils se sont écrit » 中，se 是什么成分？",
+          "explain": "écrire à qn 的补语由 à 引出，se 承担这个间接宾语角色；所以过去分词 écrit 不因主语 ils 配合。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q16",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Elle se lave les mains.",
+            "Elle se lave les main.",
+            "Elle se lavent les mains.",
+            "Elle se lave à les mains."
+          ],
+          "answer": 0,
+          "translation": "她洗手。",
+          "explain": "laver qch à qn 的结构是 laver les mains à qn，代词式形式为 se laver les mains；se 是间接宾语，les mains 是直接宾语。main 单复数错误，lavent 与 elle 不配，à les 应缩合为 aux 且这里不需要介词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q17",
+          "type": "choice",
+          "prompt": "Complétez : « Nous ___ tous les jours. » (se téléphoner)",
+          "options": [
+            "se téléphonons",
+            "nous nous téléphonons",
+            "nous téléphones",
+            "nous téléphonons nous"
+          ],
+          "answer": 1,
+          "translation": "我们每天通电话。",
+          "explain": "主语 nous 对应自反代词 nous，放在变位动词 téléphonons 前，写 nous nous téléphonons；se 是第三人称形式，不能与 nous 搭配。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q18",
+          "type": "choice",
+          "prompt": "Complétez : « Elles se sont ___ une histoire. » (se raconter)",
+          "options": [
+            "raconté",
+            "racontée",
+            "racontés",
+            "racontées"
+          ],
+          "answer": 0,
+          "translation": "她们互相讲了一个故事。",
+          "explain": "raconter qch à qn：une histoire 是后置直接宾语，se 是间接宾语；没有前置直接宾语，过去分词不配合，写 raconté。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q19",
+          "type": "choice",
+          "prompt": "Laquelle de ces phrases est correcte ?",
+          "options": [
+            "Lave-te les mains !",
+            "Te lave les mains !",
+            "Lave-toi les mains !",
+            "Toi lave les mains !"
+          ],
+          "answer": 2,
+          "translation": "洗手！",
+          "explain": "肯定命令式中自反代词移到动词后并用连字符连接，第二人称单数 te 变为 toi，所以写 Lave-toi les mains !。les mains 是直接宾语，se/toi 是间接宾语。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l6-q20",
+          "type": "choice",
+          "prompt": "Laquelle de ces phrases est correcte ?",
+          "options": [
+            "Donne-toi-la !",
+            "Donne la toi !",
+            "Te la donne !",
+            "Donne-la-toi !"
+          ],
+          "answer": 3,
+          "translation": "把它给你自己！",
+          "explain": "肯定命令式中代词后置，顺序为动词 + 直接宾语 + 间接宾语：Donne-la-toi !。自反间接宾语在肯定命令式用重读形式 toi，不能保留 te，也不能把 toi 放在 la 前。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l7",
+      "title": "U7 重读代词：介词后、强调与识别",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Tu penses souvent à Julie ? — Oui, je pense souvent ___ . »",
+          "options": [
+            "à lui",
+            "à elle",
+            "lui",
+            "y"
+          ],
+          "answer": 1,
+          "translation": "你常想到朱莉吗？——是的，我常想到她。",
+          "explain": "penser à + 人时保留介词 à，宾语用重读代词；Julie 是女性单数，所以是 à elle。lui 是间接宾语代词，用于 parler à、téléphoner à 这类动词；y 只替代 à + 事物或地点。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q2",
+          "type": "choice",
+          "prompt": "Complétez : « Elle s'intéresse à ses étudiants ? — Oui, elle s'intéresse ___ . »",
+          "options": [
+            "leur",
+            "y",
+            "à eux",
+            "les"
+          ],
+          "answer": 2,
+          "translation": "她对她的学生感兴趣吗？——是的，她对他们感兴趣。",
+          "explain": "s'intéresser à + 人时，介词 à 保留，指人用重读代词；ses étudiants 是阳性或混合复数，用 à eux。leur 是间接宾语代词，不能跟在保留的介词 à 后面；y 只替代事物。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q3",
+          "type": "letters",
+          "prompt": "Complétez avec le pronom qui convient : « Je pense souvent à mes grands-parents. — Moi aussi, je pense souvent à ___ . »",
+          "answer": "eux",
+          "decoys": [
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "我常想到我的祖父母。——我也是，我常想到他们。",
+          "explain": "介词 à 后指人用重读代词；mes grands-parents 是阳性复数（混合），用 eux。不能写 leur（间接宾语代词）或 elles（全为女性时才用）。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q4",
+          "type": "tiles",
+          "prompt": "Transformez en remplaçant « à ses nouveaux voisins » par un pronom : « Elle s'habitue à ses nouveaux voisins, Paul et Marc. » → ___",
+          "answer": [
+            "Elle",
+            "s'habitue",
+            "à",
+            "eux."
+          ],
+          "bank": [
+            "Elle",
+            "s'habitue",
+            "à",
+            "eux.",
+            "leur",
+            "y",
+            "elles",
+            "s'habituent"
+          ],
+          "translation": "她习惯了她的新邻居保罗和马克。→ 她习惯了他们。",
+          "explain": "s'habituer à + 人保留介词 à，用重读代词 eux；Paul et Marc 是阳性复数。leur 是间接宾语代词，不能与保留的 à 同现；y 只替代事物。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q5",
+          "type": "choice",
+          "prompt": "Complétez : « Il est très fier de sa fille ? — Oui, il est très fier ___ . »",
+          "options": [
+            "de lui",
+            "de les",
+            "la",
+            "d'elle"
+          ],
+          "answer": 3,
+          "translation": "他为自己的女儿感到非常自豪吗？——是的，他为她感到非常自豪。",
+          "explain": "être fier de + 人时保留 de，指人用重读代词；sa fille 是女性单数，de + elle 省音为 d'elle。不能用 la（直接宾语代词）；在明确指人的结构里，规范表达用重读代词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q6",
+          "type": "choice",
+          "prompt": "Transformez : « Nous avons besoin de nos voisins. » → « Nous avons besoin ___ . »",
+          "options": [
+            "d'eux",
+            "de leur",
+            "de les",
+            "les"
+          ],
+          "answer": 0,
+          "translation": "我们需要我们的邻居。→ 我们需要他们。",
+          "explain": "avoir besoin de + 人保留介词 de，指人用重读代词；nos voisins 是阳性或混合复数，用 eux，de eux 省音为 d'eux。de leur、de les 都不是合法的代词组合；les 是直接宾语代词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q7",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative en remplaçant « de sa sœur » par un pronom tonique : « Marc a besoin de sa sœur pour ce travail. » → ___",
+          "answer": [
+            "Marc",
+            "n'a",
+            "pas",
+            "besoin",
+            "d'elle",
+            "pour",
+            "ce",
+            "travail."
+          ],
+          "bank": [
+            "Marc",
+            "n'a",
+            "pas",
+            "besoin",
+            "d'elle",
+            "pour",
+            "ce",
+            "travail.",
+            "de lui.",
+            "les.",
+            "ne"
+          ],
+          "translation": "马克做这项工作需要他的姐姐。→ 马克做这项工作不需要她。",
+          "explain": "avoir besoin de + 人保留 de，用重读代词 d'elle；否定时 ne 在变位动词 avoir 前，pas 在其后，写成 Marc n'a pas besoin d'elle pour ce travail。不能写成 de lui（性别不符）；介词后也不能直接用 les。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q8",
+          "type": "choice",
+          "prompt": "Complétez : « Je vais chez ___ demain. » (mes cousins)",
+          "options": [
+            "ils",
+            "eux",
+            "leur",
+            "les"
+          ],
+          "answer": 1,
+          "translation": "我明天去我的表兄弟家。",
+          "explain": "chez 是介词，后接指人的重读代词；mes cousins 是阳性复数，用 eux。ils 是主语代词，不能作介词补语；leur/les 是宾语代词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q9",
+          "type": "tiles",
+          "prompt": "Réécrivez en remplaçant « chez sa tante » par un pronom : « Julie passe le week-end chez sa tante. » → ___",
+          "answer": [
+            "Julie",
+            "passe",
+            "le",
+            "week-end",
+            "chez",
+            "elle."
+          ],
+          "bank": [
+            "Julie",
+            "passe",
+            "le",
+            "week-end",
+            "chez",
+            "elle.",
+            "lui",
+            "la",
+            "y"
+          ],
+          "translation": "朱莉在她姨妈家过周末。→ 朱莉在她家过周末。",
+          "explain": "chez 后指人用重读代词；sa tante 是女性单数，用 elle。lui/la/y 都不能作 chez 的补语；chez elle 整体保留介词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q10",
+          "type": "letters",
+          "prompt": "Complétez : « Je travaille avec ___ . » (mes deux sœurs)",
+          "answer": "elles",
+          "decoys": [
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "我和我的两个姐妹一起工作。",
+          "explain": "avec 是介词，后接重读代词；mes deux sœurs 全为女性，用 elles。eux 用于阳性或混合复数；ils 是主语代词；leur 是间接宾语代词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q11",
+          "type": "choice",
+          "prompt": "Complétez : « ___ , je préfère le thé. »",
+          "options": [
+            "Je",
+            "Me",
+            "Moi",
+            "Mon"
+          ],
+          "answer": 2,
+          "translation": "我嘛，我更喜欢茶。",
+          "explain": "句首用重读代词复指主语 je，形成强调；第一人称单数重读形式是 moi，后面保留主语 je。Je 不是重读形式；me 是宾语代词；mon 是主有形容词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q12",
+          "type": "choice",
+          "prompt": "Complétez : « Mes frères travaillent à Lyon ; ___ , ils rentrent le week-end. »",
+          "options": [
+            "ils",
+            "leur",
+            "les",
+            "eux"
+          ],
+          "answer": 3,
+          "translation": "我的兄弟们在里昂工作；他们嘛，周末回来。",
+          "explain": "句首复指主语 ils 要用重读代词；mes frères 是阳性复数，用 eux。ils 本身是主语代词，不能再放在逗号前复指；leur/les 是宾语代词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q13",
+          "type": "letters",
+          "prompt": "Complétez : « Paul est très timide ; ___ , il parle peu. »",
+          "answer": "lui",
+          "decoys": [
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "保罗很害羞；他嘛，很少说话。",
+          "explain": "句首复指 Paul（第三人称阳性单数）用重读代词 lui，后面保留主语 il。il 不是重读形式；le 是直接宾语代词；elle 指女性。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q14",
+          "type": "tiles",
+          "prompt": "Réécrivez en ajoutant un pronom tonique de rappel après le sujet : « Ton frère a beaucoup de chance. » → ___",
+          "answer": [
+            "Ton",
+            "frère,",
+            "lui,",
+            "a",
+            "beaucoup",
+            "de",
+            "chance."
+          ],
+          "bank": [
+            "Ton",
+            "frère,",
+            "lui,",
+            "a",
+            "beaucoup",
+            "de",
+            "chance.",
+            "le,",
+            "elle,"
+          ],
+          "translation": "你哥哥嘛，他运气很好。",
+          "explain": "在原主语 ton frère 后用重读代词 lui 复指，形成强调；lui 与所指人物第三人称阳性单数一致。il 是主语代词，不能作复指重读形式；le 是宾语代词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q15",
+          "type": "choice",
+          "prompt": "Quelle réponse convient à « J'adore ce film ! » pour dire « 我也是 » ?",
+          "options": [
+            "Me aussi.",
+            "Moi aussi.",
+            "Je aussi.",
+            "Mon aussi."
+          ],
+          "answer": 1,
+          "translation": "我太喜欢这部电影了！——我也是。",
+          "explain": "独立答语用重读代词 moi，不依附变位动词；不能把宾语代词 me 或主语 je 直接放在 aussi 前。此用法只需识别。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q16",
+          "type": "choice",
+          "prompt": "Complétez : « Qui a appelé ? — C'est ___ . » (Paul)",
+          "options": [
+            "il",
+            "le",
+            "lui",
+            "son"
+          ],
+          "answer": 2,
+          "translation": "谁打的电话？——是他。",
+          "explain": "c'est 后指人做识别时用重读代词；Paul 是男性单数，用 lui。il 是主语代词，不能直接放在 c'est 后；le 是直接宾语代词。此用法只要求识别。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q17",
+          "type": "choice",
+          "prompt": "Complétez : « Elle s'intéresse beaucoup à ses voisins : elle pense souvent à ___ et elle ___ parle tous les jours. »",
+          "options": [
+            "eux / leur",
+            "leur / leur",
+            "eux / eux",
+            "lui / leur"
+          ],
+          "answer": 0,
+          "translation": "她对邻居们很感兴趣：她常想到他们，而且每天跟他们说话。",
+          "explain": "penser à + 人保留介词，用重读代词 eux；parler à qn 则把 à + 人整体代词化为间接宾语 leur。两个动词搭配不同，不能统一用 leur 或统一用重读代词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q18",
+          "type": "choice",
+          "prompt": "Transformez : « Le professeur s'adresse à ses étudiants. » → « Le professeur s'adresse ___ . »",
+          "options": [
+            "leur",
+            "à eux",
+            "y",
+            "les"
+          ],
+          "answer": 1,
+          "translation": "老师对学生讲话。→ 老师对他们讲话。",
+          "explain": "s'adresser à + 人保留介词 à，用重读代词；ses étudiants 是复数人，用 à eux。leur 是间接宾语代词，不能与保留的 à 连用；y 替代 à + 事物。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q19",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif affirmatif en remplaçant « à Paul » par un pronom : « Tu parles de moi à Paul. » → ___",
+          "answer": [
+            "Parle-lui",
+            "de",
+            "moi."
+          ],
+          "bank": [
+            "Parle-lui",
+            "de",
+            "moi.",
+            "Parle-le-lui",
+            "de lui",
+            "me",
+            "Parles-lui"
+          ],
+          "translation": "你跟保罗谈我。→ 跟他谈我。",
+          "explain": "parler à Paul 的 à + 人是间接宾语，肯定命令式中后置为 lui；de moi 是 de + 人，保留介词并用重读代词 moi。两部分不能合并成一个代词：写 Parle-lui de moi。Parles-lui 多加了 -s。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q20",
+          "type": "choice",
+          "prompt": "Transformez à l'impératif négatif : « Tu me parles de Paul. » → ___",
+          "options": [
+            "Ne parle-moi pas de lui.",
+            "Ne me parle pas de il.",
+            "Ne me parle pas de lui.",
+            "Ne m'parle pas de lui."
+          ],
+          "answer": 2,
+          "translation": "你跟我谈保罗。→ 别跟我谈他。",
+          "explain": "否定命令式中宾语代词回到动词前：ne + me + parle + pas；de + 人保留介词并用重读代词 lui，不能写成 de il。肯定命令式的 parle-moi 位置在否定句中不成立。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q21",
+          "type": "tiles",
+          "prompt": "Réécrivez avec deux pronoms en conservant « de » : « Elle a parlé de son frère à ses amies. » → ___",
+          "answer": [
+            "Elle",
+            "leur",
+            "a",
+            "parlé",
+            "de",
+            "lui."
+          ],
+          "bank": [
+            "Elle",
+            "leur",
+            "a",
+            "parlé",
+            "de",
+            "lui.",
+            "d'eux.",
+            "les",
+            "d'elle."
+          ],
+          "translation": "她跟朋友们谈了她的弟弟。→ 她跟他们谈了他。",
+          "explain": "à ses amies 是复数间接宾语，用 leur，放在助动词 a 前；de son frère 是 de + 人，按题目要求保留介词并用重读代词 lui（son frère 为男性），写 Elle leur a parlé de lui。d'elle 性别不符；les 不能代替 à ses amies。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q22",
+          "type": "choice",
+          "prompt": "Complétez : « Ces deux garçons ? Leur mère est très fière ___ . »",
+          "options": [
+            "d'elles",
+            "de les",
+            "les",
+            "d'eux"
+          ],
+          "answer": 3,
+          "translation": "这两个男孩？他们的母亲为他们感到非常自豪。",
+          "explain": "être fier de + 人保留 de，用重读代词；ces deux garçons 是阳性复数，用 eux，de eux 省音为 d'eux。d'elles 只用于全为女性；de les 不是合法的代词形式。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q23",
+          "type": "choice",
+          "prompt": "Transformez à l'impératif affirmatif : « Vous me parlez de Paul. » → ___",
+          "options": [
+            "Parlez-me de lui.",
+            "Parlez-moi de il.",
+            "Parlez-moi de lui.",
+            "Moi parlez de lui."
+          ],
+          "answer": 2,
+          "translation": "你们跟我谈保罗。→ 跟我谈谈他吧。",
+          "explain": "肯定命令式中第一人称间接宾语代词 me 后置为 moi，写成 Parlez-moi；de + 人保留介词并用重读代词 lui，不能写成 de il。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l7-q24",
+          "type": "choice",
+          "prompt": "Transformez à l'impératif négatif : « Tu nous parles de Paul. » → ___",
+          "options": [
+            "Ne nous parle pas de il.",
+            "Ne nous parles pas de lui.",
+            "Ne parle-nous pas de lui.",
+            "Ne nous parle pas de lui."
+          ],
+          "answer": 3,
+          "translation": "你跟我们谈保罗。→ 别跟我们谈他。",
+          "explain": "否定命令式中宾语代词回到动词前：ne + nous + parle + pas；de + 人保留介词并用重读代词 lui，不能写成 de il。命令式 tu 形式 parle 不加 -s。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l8",
+      "title": "U8 on、tout le monde 与代词 tout",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Dans ce magasin, on ___ les cartes bancaires. » (accepter)",
+          "options": [
+            "acceptent",
+            "accepte",
+            "acceptons",
+            "acceptez"
+          ],
+          "answer": 1,
+          "translation": "这家商店接受银行卡。",
+          "explain": "on 作泛指主语时，动词固定用第三人称单数：on accepte。不能因为 on 可指一群人就用 acceptent 或 acceptons。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q2",
+          "type": "choice",
+          "prompt": "Complétez : « On ___ beaucoup de choses en voyageant. » (apprendre)",
+          "options": [
+            "apprennent",
+            "apprenons",
+            "apprend",
+            "apprenez"
+          ],
+          "answer": 2,
+          "translation": "旅行时人们能学到很多东西。",
+          "explain": "on 是泛指主语，动词用第三人称单数 apprend；主语形式不变，动词也不随语境中实际人数变复数。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q3",
+          "type": "letters",
+          "prompt": "Complétez : « On ___ souvent à ses amis quand on est loin. »",
+          "answer": "pense",
+          "decoys": [
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "人们远离朋友时常会想到他们。",
+          "explain": "on 泛指“人们”，动词 penser 用第三人称单数：on pense。pensent 是第三人称复数，pensons/pensez 分别对应 nous/vous。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q4",
+          "type": "choice",
+          "prompt": "Complétez : « On ___ aller au cinéma ce soir ? » (pouvoir)",
+          "options": [
+            "peuvent",
+            "pouvons",
+            "pouvez",
+            "peut"
+          ],
+          "answer": 3,
+          "translation": "今晚我们能去看电影吗？",
+          "explain": "on 作主语时，即使口语中指“我们”，动词仍用第三人称单数 peut。pouvons 只与 nous 搭配。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q5",
+          "type": "choice",
+          "prompt": "Transformez en registre familier avec on : « Nous allons au marché. » → « On ___ au marché. »",
+          "options": [
+            "va",
+            "allons",
+            "vont",
+            "allez"
+          ],
+          "answer": 0,
+          "translation": "我们去市场。→ 大家去市场。",
+          "explain": "口语中 on 可代替 nous，但动词仍按第三人称单数变位：on va。不能保留 nous 的变位 allons。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q6",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative : « On a des problèmes. » → ___",
+          "answer": [
+            "On",
+            "n'a",
+            "pas",
+            "de",
+            "problèmes."
+          ],
+          "bank": [
+            "On",
+            "n'a",
+            "pas",
+            "de",
+            "problèmes.",
+            "des",
+            "ne",
+            "les",
+            "problème"
+          ],
+          "translation": "我们遇到了一些问题。→ 我们没问题。",
+          "explain": "否定句中 ne 放在 on 后并省音为 n'，pas 放在变位动词 a 后；不定复数 des 在否定中改为 de。不能保留 des，也不能省略 ne。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q7",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « on » : « Nous avons tout compris. » → ___",
+          "answer": [
+            "On",
+            "a",
+            "tout",
+            "compris."
+          ],
+          "bank": [
+            "On",
+            "a",
+            "tout",
+            "compris.",
+            "avons",
+            "tous",
+            "comprises",
+            "comprise"
+          ],
+          "translation": "我们全明白了。→ 大家全明白了。",
+          "explain": "on 代替 nous 后动词用第三人称单数 a；代词 tout 指“一切”，形式不变，放在助动词 a 与过去分词 compris 之间。不能写成 avons 或 tous。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q8",
+          "type": "choice",
+          "prompt": "Complétez : « Tout le monde ___ à la fête hier soir. » (venir)",
+          "options": [
+            "sont venus",
+            "êtes venus",
+            "est venu",
+            "sommes venus"
+          ],
+          "answer": 2,
+          "translation": "昨晚大家都来参加聚会了。",
+          "explain": "tout le monde 形式是单数，动词用第三人称单数 est venu，过去分词也按单数配合。不能因为意思指多人就用 sont venus。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q9",
+          "type": "choice",
+          "prompt": "Complétez : « Tout le monde doit prendre ___ parapluie. »",
+          "options": [
+            "leur",
+            "ses",
+            "sa",
+            "son"
+          ],
+          "answer": 3,
+          "translation": "每个人都必须带上自己的雨伞。",
+          "explain": "tout le monde 是泛指性单数主语，其主有形容词固定用 son/sa/ses；parapluie 是阳性单数，用 son。不能按实际人数用 leur。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q10",
+          "type": "letters",
+          "prompt": "Complétez : « Tout le monde ___ content de cette nouvelle. » (être)",
+          "answer": "est",
+          "decoys": [
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "大家对这个消息都很高兴。",
+          "explain": "tout le monde 是单数主语，être 用第三人称单数 est。sont 对应 ils/elles，es 对应 tu，êtes 对应 vous。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q11",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « tout le monde » : « Les invités sont partis. » → ___",
+          "answer": [
+            "Tout",
+            "le",
+            "monde",
+            "est",
+            "parti."
+          ],
+          "bank": [
+            "Tout",
+            "le",
+            "monde",
+            "est",
+            "parti.",
+            "sont",
+            "partis",
+            "tous"
+          ],
+          "translation": "客人们都走了。→ 大家都走了。",
+          "explain": "tout le monde 意义为“所有人”，但形式是单数，动词用 est，过去分词 parti 也按单数配合。不能保留 sont partis。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q12",
+          "type": "choice",
+          "prompt": "Complétez : « — Tu as bien compris ? — Oui, j'ai ___ compris. »",
+          "options": [
+            "tout",
+            "tous",
+            "toutes",
+            "toute"
+          ],
+          "answer": 0,
+          "translation": "你都明白了吗？——是的，我全明白了。",
+          "explain": "代词 tout 指“一切”时形式不变，作直接宾语放在助动词与过去分词之间：j'ai tout compris。tous/toutes 要有性数配合对象，这里没有。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q13",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Il a mangé tout.",
+            "Il a tout mangé.",
+            "Il a tous mangé.",
+            "Il a mangé tous."
+          ],
+          "answer": 1,
+          "translation": "他把所有东西都吃了。",
+          "explain": "中性代词 tout 作直接宾语时放在变位动词之后；复合时态中放在助动词与过去分词之间：Il a tout mangé。不能放在过去分词后，也不能写成 tous。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q14",
+          "type": "letters",
+          "prompt": "Complétez : « Ces exercices ? Je les ai ___ faits. »",
+          "answer": "tous",
+          "decoys": [
+            "a",
+            "i",
+            "n"
+          ],
+          "translation": "这些练习？我全做完了。",
+          "explain": "这里 tous 指“全部”，与前置直接宾语 les exercices（阳性复数）性数一致，放在助动词与过去分词之间。中性 tout 不随所指对象变化。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q15",
+          "type": "letters",
+          "prompt": "Complétez : « Mes sœurs ? Je les ai ___ invitées. »",
+          "answer": "toutes",
+          "decoys": [
+            "a",
+            "i",
+            "n"
+          ],
+          "translation": "我的姐妹们？我把她们全邀请了。",
+          "explain": "toutes 与前置直接宾语 mes sœurs（阴性复数）配合，放在助动词与过去分词之间；过去分词 invitées 也同样配合。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q16",
+          "type": "tiles",
+          "prompt": "Réécrivez avec le pronom tout : « Elle a lu tous les livres. » → ___",
+          "answer": [
+            "Elle",
+            "a",
+            "tout",
+            "lu."
+          ],
+          "bank": [
+            "Elle",
+            "a",
+            "tout",
+            "lu.",
+            "tous",
+            "les",
+            "lus",
+            "lues"
+          ],
+          "translation": "她读完了所有书。→ 她全都读完了。",
+          "explain": "中性 tout 替代“所有东西”，形式不变，放在助动词 a 与过去分词 lu 之间：Elle a tout lu。不能用 tous（那要指代具体的复数名词并配合）。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q17",
+          "type": "choice",
+          "prompt": "Complétez : « ___ est prêt pour le départ. »",
+          "options": [
+            "Tous",
+            "Toute",
+            "Tout",
+            "Toutes"
+          ],
+          "answer": 2,
+          "translation": "出发的一切都准备好了。",
+          "explain": "作主语的 tout 指“一切”，是中性单数，形式为 tout，动词用 est。tous/toutes 指“所有人/所有物”的复数，需要具体所指。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q18",
+          "type": "choice",
+          "prompt": "Complétez : « Paul et moi, ___ partons demain matin. »",
+          "options": [
+            "on",
+            "nous",
+            "ils",
+            "vous"
+          ],
+          "answer": 1,
+          "translation": "保罗和我，我们明天早上出发。",
+          "explain": "并列主语含 moi（第一人称），合并后改用 nous，动词 partons 与 nous 一致。不能保留 je，也不能用 ils；on 虽可指群体，但这里已有明确并列主语。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q19",
+          "type": "letters",
+          "prompt": "Complétez : « Toi et Marie, ___ êtes amis depuis longtemps. »",
+          "answer": "vous",
+          "decoys": [
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "你和玛丽，你们是多年的朋友。",
+          "explain": "并列主语含 toi（第二人称），合并后用 vous，动词 êtes 与 vous 一致。不能仍用 tu；elles 是第三人称阴性复数，与 toi 不符。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q20",
+          "type": "choice",
+          "prompt": "Remplacez « Paul et Marie » par un pronom : « Paul et Marie sont arrivés. » → ___ sont arrivés.",
+          "options": [
+            "Elles",
+            "Eux",
+            "Ils",
+            "Les"
+          ],
+          "answer": 2,
+          "translation": "保罗和玛丽到了。→ 他们到了。",
+          "explain": "Paul et Marie 是混合性别复数，按规则用 ils。elles 只用于全为女性；eux 是重读代词，不能作主语；les 是直接宾语代词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q21",
+          "type": "choice",
+          "prompt": "Remplacez « ma sœur et ma cousine » par un pronom : « Ma sœur et ma cousine sont allées à la plage. » → ___ sont allées à la plage.",
+          "options": [
+            "Ils",
+            "Eux",
+            "Leurs",
+            "Elles"
+          ],
+          "answer": 3,
+          "translation": "我姐姐和我表姐去了海滩。→ 她们去了海滩。",
+          "explain": "并列主语全为女性，用 elles；过去分词 allées 也按阴性复数配合。ils 用于阳性或混合；eux 是重读代词；leurs 是主有形容词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q22",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative : « Paul et moi, nous sommes prêts. » → ___",
+          "answer": [
+            "Paul",
+            "et",
+            "moi,",
+            "nous",
+            "ne",
+            "sommes",
+            "pas",
+            "prêts."
+          ],
+          "bank": [
+            "Paul",
+            "et",
+            "moi,",
+            "nous",
+            "ne",
+            "sommes",
+            "pas",
+            "prêts.",
+            "ils",
+            "sont",
+            "prêt"
+          ],
+          "translation": "保罗和我，我们准备好了。→ 保罗和我，我们没准备好。",
+          "explain": "并列主语含 moi，保留 nous；否定结构为 ne + 变位动词 + pas：nous ne sommes pas prêts。不能改用 ils/sont，也不能把 ne 放在 nous 前。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q23",
+          "type": "choice",
+          "prompt": "Complétez : « J'ai deux frères. ___ habitent à Bordeaux. »",
+          "options": [
+            "Ils",
+            "Elles",
+            "Eux",
+            "Les"
+          ],
+          "answer": 0,
+          "translation": "我有两个兄弟。他们住在波尔多。",
+          "explain": "deux frères 是阳性复数，回指用 ils。elles 指女性；eux 是重读代词，不能直接作主语；les 是宾语代词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q24",
+          "type": "letters",
+          "prompt": "Complétez : « J'ai acheté une voiture ; ___ est très rapide. »",
+          "answer": "elle",
+          "decoys": [
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "我买了一辆车；它很快。",
+          "explain": "回指 une voiture（阴性单数）用 elle，不能按说话人或“车”这个概念随意用 il。ils/elles 是复数形式，与 une voiture 不符。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q25",
+          "type": "choice",
+          "prompt": "Complétez : « Le musée ? ___ est fermé le lundi. »",
+          "options": [
+            "Elle",
+            "Il",
+            "Ils",
+            "Elles"
+          ],
+          "answer": 1,
+          "translation": "博物馆？它周一闭馆。",
+          "explain": "le musée 是阳性单数，回指用 il。elle 指阴性名词；ils/elles 是复数。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q26",
+          "type": "choice",
+          "prompt": "Complétez : « Il y a deux musées dans cette ville ; ___ sont fermés le lundi. »",
+          "options": [
+            "Ils",
+            "Elles",
+            "Eux",
+            "Les"
+          ],
+          "answer": 0,
+          "translation": "这座城里有两座博物馆；它们周一闭馆。",
+          "explain": "il y a 引出 deux musées（阳性复数），第二句回指它用 ils，动词 sont 也按复数。il y a 中的 il 是无人称形式主语，不是回指对象；elles 只用于阴性复数，eux 是重读代词，les 是宾语代词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q27",
+          "type": "choice",
+          "prompt": "Complétez : « Paul et Sophie ? ___ sont venus ensemble. »",
+          "options": [
+            "Elles",
+            "Eux",
+            "Leurs",
+            "Ils"
+          ],
+          "answer": 3,
+          "translation": "保罗和索菲？他们一起来的。",
+          "explain": "Paul et Sophie 是混合性别复数，用 ils，过去分词 venus 也按阳性复数配合。elles 只用于全为女性。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q28",
+          "type": "choice",
+          "prompt": "Complétez : « On doit toujours ranger ___ chambre avant de sortir. »",
+          "options": [
+            "sa",
+            "son",
+            "ses",
+            "leur"
+          ],
+          "answer": 0,
+          "translation": "人们出门前总得收拾好自己的房间。",
+          "explain": "泛指主语 on 对应的主有形容词固定用 son/sa/ses；chambre 是阴性单数，用 sa。不能按实际人数用 leur，也不能因为 on 看似复数而用 ses。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q29",
+          "type": "choice",
+          "prompt": "Complétez : « ___ les garçons ont compris, et tout le monde est content. »",
+          "options": [
+            "Tout",
+            "Tous",
+            "Toutes",
+            "Toute"
+          ],
+          "answer": 1,
+          "translation": "所有男孩都明白了，大家都很高兴。",
+          "explain": "tous 是形容词，与复数名词 les garçons（阳性复数）配合；后面的 tout le monde 是单数主语，动词用 est。两者形式不能互换。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q30",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Tous le monde est content.",
+            "Tout le monde sont contents.",
+            "Tout le monde est content.",
+            "Toute le monde est contente."
+          ],
+          "answer": 2,
+          "translation": "大家都很高兴。",
+          "explain": "tout le monde 是固定单数形式：tout 不变，le monde 用单数，动词用 est，表语形容词也用单数 content。不能写成 tous le monde，也不能用复数动词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q31",
+          "type": "letters",
+          "prompt": "Complétez : « Marie et Paul ___ deux enfants. » (avoir, présent)",
+          "answer": "ont",
+          "decoys": [
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "玛丽和保罗有两个孩子。",
+          "explain": "并列主语 Marie et Paul 合并为第三人称复数 ils，avoir 的现在时第三人称复数为 ont。不能按其中单个人名用 a。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q32",
+          "type": "choice",
+          "prompt": "Complétez : « Paul et moi, nous ___ deux sœurs. » (avoir)",
+          "options": [
+            "ont",
+            "a",
+            "avons",
+            "avez"
+          ],
+          "answer": 2,
+          "translation": "保罗和我，我们有两个姐妹。",
+          "explain": "并列主语含 moi（第一人称），按人称优先级合并为 nous；avoir 的第一人称复数现在时为 avons。不能保留 je 的 a，也不能用第三人称 ont。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q33",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative : « Toi et Marie, vous êtes prêts. » → ___",
+          "answer": [
+            "Toi",
+            "et",
+            "Marie,",
+            "vous",
+            "n'êtes",
+            "pas",
+            "prêts."
+          ],
+          "bank": [
+            "Toi",
+            "et",
+            "Marie,",
+            "vous",
+            "n'êtes",
+            "pas",
+            "prêts.",
+            "ne",
+            "êtes",
+            "sommes",
+            "sont",
+            "prêt"
+          ],
+          "translation": "你和玛丽，你们准备好了。→ 你们没准备好。",
+          "explain": "并列主语含 toi，合并后用 vous；否定结构为 ne + 变位动词 + pas，être 的 vous 形式 êtes 在元音前省音为 n'êtes。不能保留肯定形式 êtes，也不能把 ne 放在 vous 前。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q34",
+          "type": "choice",
+          "prompt": "Complétez : « Regarde cet homme : ___ Monsieur Dupont. ___ médecin. »",
+          "options": [
+            "Il est / C'est",
+            "C'est / Il est",
+            "Ce sont / Ils sont",
+            "Il y a / Il est"
+          ],
+          "answer": 1,
+          "translation": "看这个男人：他是杜邦先生。他是医生。",
+          "explain": "首次指认具体的人用 c'est + 名词/人名：C'est Monsieur Dupont；对已确定的第三人称描述身份用 il est + 无冠词职业名词：Il est médecin。ce sont 用于复数指认；il y a 表存在。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q35",
+          "type": "choice",
+          "prompt": "Complétez : « ___ un vélo dans le garage : ___ le vélo de ma sœur, et ___ à elle. »",
+          "options": [
+            "C'est / il y a / il est",
+            "Il y a / il est / c'est",
+            "Il y a / c'est / il est",
+            "Il est / c'est / il y a"
+          ],
+          "answer": 2,
+          "translation": "车库里有辆自行车：这是我姐姐的自行车，是她的。",
+          "explain": "il y a 引出存在：Il y a un vélo；c'est + 名词短语用于指认：c'est le vélo de ma sœur；être à + 重读代词表所属：il est à elle。三处结构不能混用。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q36",
+          "type": "choice",
+          "prompt": "Complétez : « ___ une boulangerie dans ma rue : ___ la boulangerie de mon oncle ; ___ très ancienne. »",
+          "options": [
+            "C'est / il y a / elle est",
+            "Il y a / elle est / c'est",
+            "Elle est / c'est / il y a",
+            "Il y a / c'est / elle est"
+          ],
+          "answer": 3,
+          "translation": "我住的街上有一家面包店：这是我叔叔的面包店；它非常古老。",
+          "explain": "il y a 表存在：Il y a une boulangerie；c'est + 名词短语用于指认：c'est la boulangerie de mon oncle；回指 la boulangerie（阴性单数）描述属性用 elle est。不能用 il est 回指阴性名词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q37",
+          "type": "choice",
+          "prompt": "Complétez : « Mon voisin ? Il ___ médecin. » (être, présent)",
+          "options": [
+            "es",
+            "est",
+            "sont",
+            "a"
+          ],
+          "answer": 1,
+          "translation": "我的邻居？他是医生。",
+          "explain": "il 回指 mon voisin（阳性单数），être 用第三人称单数 est；表示职业身份的谓语名词 médecin 前不加冠词。es 对应 tu，sont 对应 ils/elles，a 是 avoir。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q38",
+          "type": "tiles",
+          "prompt": "Transformez au pluriel : « Il y a une école dans le quartier ; elle est très moderne. » → « Il y a deux écoles dans le quartier ; ___ ___ très modernes. »",
+          "answer": [
+            "elles",
+            "sont"
+          ],
+          "bank": [
+            "elles",
+            "sont",
+            "ils",
+            "est",
+            "a",
+            "une"
+          ],
+          "translation": "这个街区有一所学校；它非常现代化。→ 这个街区有两所学校；它们非常现代化。",
+          "explain": "il y a 形式不变，仍用单数 il；回指 deux écoles（阴性复数）用 elles，être 用 sont，表语形容词也配合成 modernes。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q39",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative : « On a un chien. » → ___",
+          "answer": [
+            "On",
+            "n'a",
+            "pas",
+            "de",
+            "chien."
+          ],
+          "bank": [
+            "On",
+            "n'a",
+            "pas",
+            "de",
+            "chien.",
+            "un",
+            "ne",
+            "a",
+            "des"
+          ],
+          "translation": "我们有一只狗。→ 我们没有狗。",
+          "explain": "on 作泛指主语，否定为 on + ne + 动词 + pas，ne 在 a 前省音为 n'；不定冠词 un 在否定中改为 de：On n'a pas de chien。不能保留 un，也不能把 ne 放在 on 前。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l8-q40",
+          "type": "tiles",
+          "prompt": "Réécrivez avec « tout le monde » : « Tous les étudiants ont réussi. » → ___",
+          "answer": [
+            "Tout",
+            "le",
+            "monde",
+            "a",
+            "réussi."
+          ],
+          "bank": [
+            "Tout",
+            "le",
+            "monde",
+            "a",
+            "réussi.",
+            "Tous",
+            "les",
+            "étudiants",
+            "ont",
+            "Toute"
+          ],
+          "translation": "所有学生都通过了。→ 大家都通过了。",
+          "explain": "tous 是形容词，与复数名词 les étudiants（阳性复数）配合；改用 tout le monde 后形式为单数，动词用 a，过去分词 réussi 不变。不能保留 Tous 或 ont。"
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "pub-c11-pronominal-verbs-x1",
+      "title": "代词式动词综合",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c11-pronominal-verbs-x1-q1",
+          "type": "letters",
+          "prompt": "Complétez : « Le dimanche, je me ___ dans le parc. » (se promener)",
+          "answer": "promène",
+          "accentKeys": [
+            "è",
+            "é"
+          ],
+          "decoys": [
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "星期天，我在公园里散步。",
+          "explain": "代词式动词现在时：自反代词与主语 je 一致，用 me；se promener 属 -e_er 类，词干在哑音 e 前把 e 改为 è，写 je me promène。词尾 -e 与 je 对应，拼写中不能漏掉 è 上的重音。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x1-q2",
+          "type": "letters",
+          "prompt": "Complétez : « Nous nous ___ sur l'organisation du voyage. » (s'interroger)",
+          "answer": "interrogeons",
+          "decoys": [
+            "a",
+            "é",
+            "s"
+          ],
+          "translation": "我们在考虑旅行的安排。",
+          "explain": "s'interroger 是 -ger 动词，nous 形式在 g 后接 o 时要保留 e：nous nous interrogeons。去掉 e 的 interrogons 只用于 g 后接 i 的形式，如 nous interrogions。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x1-q3",
+          "type": "choice",
+          "prompt": "Quelle paire est correcte ?",
+          "options": [
+            "Elle s'est lavée les mains. / Elle se les est lavé.",
+            "Elle s'est lavé les mains. / Elle se les est lavé.",
+            "Elle s'est lavé les mains. / Elle se les est lavées.",
+            "Elle s'est lavée les mains. / Elle se les est lavées."
+          ],
+          "answer": 2,
+          "translation": "她洗了手。/ 她把它们洗了。",
+          "explain": "se laver les mains 中，les mains 是直接宾语且位于分词后，自反代词 se 是间接宾语，分词不配合：s'est lavé les mains。若用 se les 前置，les（= les mains，阴性复数）成为前置直接宾语，分词要配合：se les est lavées。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x1-q4",
+          "type": "choice",
+          "prompt": "Complétez : « Marie et Julie se sont ___ hier soir. » (téléphoner)",
+          "options": [
+            "téléphonées",
+            "téléphonés",
+            "téléphonée",
+            "téléphoné"
+          ],
+          "answer": 3,
+          "translation": "玛丽和朱莉昨晚通了电话。",
+          "explain": "se téléphoner 是相互意义，但 téléphoner à qn 要求 à + 人，自反代词是间接宾语；过去分词不因主语配合，写 se sont téléphoné。不能因为主语是女性复数就写 téléphonées。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x1-q5",
+          "type": "choice",
+          "prompt": "Complétez : « Elles se sont ___ dans la rue. » (rencontrer)",
+          "options": [
+            "rencontrées",
+            "rencontrés",
+            "rencontré",
+            "rencontrée"
+          ],
+          "answer": 0,
+          "translation": "她们在街上相遇了。",
+          "explain": "se rencontrer 的相互意义中，自反代词作直接宾语；主语 elles 为阴性复数，过去分词配合写 rencontrées。与 se téléphoner（间接宾语，不配合）形成对比。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x1-q6",
+          "type": "letters",
+          "prompt": "Complétez : « Elles se sont ___ de leur voyage. » (se souvenir)",
+          "answer": "souvenues",
+          "decoys": [
+            "a",
+            "i",
+            "t"
+          ],
+          "translation": "她们想起了她们的旅行。",
+          "explain": "se souvenir 是本质代词式动词，自反代词是动词固有部分；即使后面有 de + 补语，过去分词仍与主语 elles 配合，写 se sont souvenues。不能把 de 补语当成阻止配合的理由。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x1-q7",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative : « Elle s'est souvenue de moi. » → ___",
+          "answer": [
+            "Elle",
+            "ne",
+            "s'est",
+            "pas",
+            "souvenue",
+            "de",
+            "moi."
+          ],
+          "bank": [
+            "Elle",
+            "ne",
+            "s'est",
+            "pas",
+            "souvenue",
+            "de",
+            "moi.",
+            "souvenu",
+            "s'est ne",
+            "me"
+          ],
+          "translation": "她想起了我。→ 她没想起我。",
+          "explain": "代词式复合过去时的否定：ne 放在自反代词前，pas 放在助动词后、过去分词前，写 elle ne s'est pas souvenue。不能把 pas 放在分词后，也不能把 ne 放进主语与助动词之间；souvenue 仍与主语 elle 配合。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x1-q8",
+          "type": "tiles",
+          "prompt": "Transformez au plus-que-parfait : « Quand je suis arrivé, elles se sont couchées. » → « Quand je suis arrivé, elles ___ . »",
+          "answer": [
+            "s'étaient",
+            "couchées."
+          ],
+          "bank": [
+            "s'étaient",
+            "couchées.",
+            "se sont",
+            "couchés",
+            "s'était",
+            "couché",
+            "coucher"
+          ],
+          "translation": "我到的时候，她们上床睡了。→ 我到的时候，她们已经上床睡了。",
+          "explain": "愈过去时由自反代词 + être 的未完成过去时 + 过去分词构成：elles s'étaient couchées。se coucher 的自反代词作直接宾语，分词与阴性复数主语配合；不能用复合过去时 se sont couchées。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x1-q9",
+          "type": "choice",
+          "prompt": "Complétez : « Il ___ pas encore ___ quand je l'ai appelé. » (se réveiller)",
+          "options": [
+            "ne s'était / réveillé",
+            "ne s'est / réveillé",
+            "s'était ne / réveillé",
+            "n'était / réveillé"
+          ],
+          "answer": 0,
+          "translation": "我给他打电话时，他还没醒。",
+          "explain": "愈过去时的否定：ne 在自反代词前，pas 在助动词后；主语 il 为阳性单数，se réveiller 的分词不另加 -e，写 il ne s'était pas encore réveillé。ne s'est 是复合过去时，与 quand je l'ai appelé 的先后关系不符。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x1-q10",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Je ne veux pas s'inscrire à ce cours.",
+            "Je ne veux pas m'inscrire à ce cours.",
+            "Je ne veux pas me inscrire à ce cours.",
+            "Je ne m'veux pas inscrire à ce cours."
+          ],
+          "answer": 1,
+          "translation": "我不想报名这门课。",
+          "explain": "代词式动词的不定式仍带与主语一致的自反代词：主语 je，所以用 m'，并置于不定式前，元音前省音。否定词包住变位动词 veux：ne ... pas；自反代词紧靠不定式。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x1-q11",
+          "type": "choice",
+          "prompt": "Quelle paire est correcte ?",
+          "options": [
+            "Lèves-toi ! / Ne te lèves pas !",
+            "Lève-te ! / Ne lève-toi pas !",
+            "Lève-toi ! / Ne te lève pas !",
+            "Te lève ! / Ne te lève pas !"
+          ],
+          "answer": 2,
+          "translation": "起床！/ 别起床！",
+          "explain": "肯定命令式中自反代词后置，te 变 toi，第一组 -er 动词的 tu 命令式不加 -s：Lève-toi。否定命令式中代词回到动词前并恢复 te：Ne te lève pas。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x1-q12",
+          "type": "choice",
+          "prompt": "Transformez en question avec inversion : « Il s'est levé très tôt. » → ___",
+          "options": [
+            "S'est-il levée très tôt ?",
+            "Il s'est-il levé très tôt ?",
+            "Est-il s'est levé très tôt ?",
+            "S'est-il levé très tôt ?"
+          ],
+          "answer": 3,
+          "translation": "他很早就起床了。→ 他起得很早吗？",
+          "explain": "复合时态倒装以助动词为操作对象：s'est → s'est-il；自反代词留在助动词前，过去分词 levé 位置不变，并与阳性单数主语 il 配合。不能重复主语 il，也不能把 est 与 s' 拆开。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x1-q13",
+          "type": "choice",
+          "prompt": "Transformez en remplaçant « les mains » par un pronom : « Il va se laver les mains. » → « Il va ___ laver. »",
+          "options": [
+            "se les",
+            "les se",
+            "lui les",
+            "se lui"
+          ],
+          "answer": 0,
+          "translation": "他要去洗手。→ 他要去洗它们。",
+          "explain": "se laver les mains 中，les mains 是直接宾语，用 les；自反代词 se 是间接宾语。两个代词都放在不定式 laver 前，顺序为 se → les，写 Il va se les laver。les se 顺序颠倒；lui 不能代替自反代词 se。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x1-q14",
+          "type": "tiles",
+          "prompt": "Transformez en remplaçant « à la tâche » par « y » : « Elle s'est mise à la tâche tout de suite. » → ___",
+          "answer": [
+            "Elle",
+            "s'y",
+            "est",
+            "mise",
+            "tout",
+            "de",
+            "suite."
+          ],
+          "bank": [
+            "Elle",
+            "s'y",
+            "est",
+            "mise",
+            "tout",
+            "de",
+            "suite.",
+            "se",
+            "y",
+            "met",
+            "s'est",
+            "mis"
+          ],
+          "translation": "她马上开始干活。→ 她马上就开始干了。",
+          "explain": "y 替代 à + 事物（à la tâche），放在自反代词后、助动词前：se + y → s'y。se mettre à qch 中 se 是直接宾语，过去分词与主语 elle 配合成 mise。不能写成 se y est mise 或 s'y est mis。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x1-q15",
+          "type": "tiles",
+          "prompt": "Transformez en remplaçant « au travail » par « y » : « Ils se sont mis au travail tout de suite. » → ___",
+          "answer": [
+            "Ils",
+            "s'y",
+            "sont",
+            "mis",
+            "tout",
+            "de",
+            "suite."
+          ],
+          "bank": [
+            "Ils",
+            "s'y",
+            "sont",
+            "mis",
+            "tout",
+            "de",
+            "suite.",
+            "se",
+            "y",
+            "mettent",
+            "se sont",
+            "mise"
+          ],
+          "translation": "他们马上开始干活。→ 他们马上就开始干了起来。",
+          "explain": "y 替代 à + 事物（au travail），放在自反代词后、助动词前：se + y → s'y。se mettre à qch 中 se 是直接宾语，过去分词与主语 ils 配合成 mis。不能写成 se y sont mis 或 s'y sont mise。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-x2",
+      "title": "人称指代综合",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c11-pronominal-verbs-x2-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Mes parents sont en vacances ; ___ , ils rentrent dimanche. »",
+          "options": [
+            "eux",
+            "ils",
+            "leur",
+            "les"
+          ],
+          "answer": 0,
+          "translation": "我父母在度假；他们嘛，星期天回来。",
+          "explain": "句首复指主语 ils 用重读代词；mes parents 是阳性或混合复数，用 eux，后面保留 ils。ils 不能自己复指自己；leur/les 是宾语代词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x2-q2",
+          "type": "choice",
+          "prompt": "Complétez : « Sophie et Marc ? Je pense souvent à ___ et je ___ téléphone chaque semaine. »",
+          "options": [
+            "leur / leur",
+            "eux / leur",
+            "eux / eux",
+            "lui / leur"
+          ],
+          "answer": 1,
+          "translation": "索菲和马克？我常想到他们，而且每周给他们打电话。",
+          "explain": "penser à + 人保留介词，用重读代词 eux；téléphoner à qn 把 à + 人整体代词化为 leur。两个动词搭配不同，不能都用 leur，也不能都用重读代词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x2-q3",
+          "type": "choice",
+          "prompt": "Complétez : « Tous les candidats se sont ___ , puis tout le monde ___ sa fiche. »",
+          "options": [
+            "présenté / ont rempli",
+            "présentés / ont rempli",
+            "présentés / a rempli",
+            "présentée / a rempli"
+          ],
+          "answer": 2,
+          "translation": "所有候选人都到了，然后每个人都填了自己的表。",
+          "explain": "se présenter 的自反代词作直接宾语，分词与阳性复数主语 tous les candidats 配合：présentés。tout le monde 是单数主语，动词用 a rempli；泛指主语的领属用 sa，不因实际人数改 leur。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x2-q4",
+          "type": "choice",
+          "prompt": "Complétez : « Toi et moi, ___ partons ensemble, et on ___ bien. »",
+          "options": [
+            "vous / s'entend",
+            "nous / s'entendent",
+            "ils / s'entend",
+            "nous / s'entend"
+          ],
+          "answer": 3,
+          "translation": "你和我，我们一起出发，而且我们相处得很好。",
+          "explain": "并列主语含 toi 和 moi，按第一人称优先合并为 nous，动词 partons。第二句 on 泛指“我们”，动词仍用第三人称单数 s'entend。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x2-q5",
+          "type": "choice",
+          "prompt": "Complétez : « On a ___ mangé, il ne reste rien. »",
+          "options": [
+            "tout",
+            "tous",
+            "toutes",
+            "toute"
+          ],
+          "answer": 0,
+          "translation": "我们把所有东西都吃了，一点没剩。",
+          "explain": "on 作泛指主语；中性代词 tout 指“一切”，形式不变，放在助动词 a 与过去分词 mangé 之间。tous/toutes 要与复数名词配合，这里没有具体复数所指。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x2-q6",
+          "type": "choice",
+          "prompt": "Complétez : « Qui est cette dame ? — C'est ___ , ma nouvelle voisine. »",
+          "options": [
+            "la",
+            "elle",
+            "lui",
+            "se"
+          ],
+          "answer": 1,
+          "translation": "这位女士是谁？——是她，我的新邻居。",
+          "explain": "c'est 后指人做识别用重读代词；cette dame 是女性单数，用 elle。lui 指男性；la 是直接宾语代词；se 是自反代词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x2-q7",
+          "type": "choice",
+          "prompt": "Complétez : « On doit ranger ___ affaires avant de partir. »",
+          "options": [
+            "ses",
+            "sa",
+            "son",
+            "leur"
+          ],
+          "answer": 0,
+          "translation": "大家出发前必须收拾好自己的东西。",
+          "explain": "泛指主语 on 的领属固定用 son/sa/ses；affaires 是阴性复数，用 ses。不能按实际所指人数用 leur。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x2-q8",
+          "type": "letters",
+          "prompt": "Complétez : « Tout le monde aime cette voiture ; ___ est vraiment rapide. »",
+          "answer": "elle",
+          "decoys": [
+            "a",
+            "s",
+            "t"
+          ],
+          "translation": "大家都喜欢这辆车；它真的很快。",
+          "explain": "第二句主语回指 cette voiture（阴性单数），用 elle；tout le monde 只决定第一句动词为单数，不影响第二句代词的性。不能因为前句是 tout le monde 就用 il。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x2-q9",
+          "type": "tiles",
+          "prompt": "Réécrivez en ajoutant un pronom tonique de rappel après le sujet : « Paul et Marie travaillent le samedi. » → ___",
+          "answer": [
+            "Paul",
+            "et",
+            "Marie,",
+            "eux,",
+            "travaillent",
+            "le",
+            "samedi."
+          ],
+          "bank": [
+            "Paul",
+            "et",
+            "Marie,",
+            "eux,",
+            "travaillent",
+            "le",
+            "samedi.",
+            "elles,",
+            "travaille",
+            "travaillent-ils"
+          ],
+          "translation": "保罗和玛丽，他们星期六工作。",
+          "explain": "在主语 Paul et Marie 后用重读代词 eux 复指，动词仍与混合性别复数主语一致：travaillent。不能再用 ils 重复主语；elles 只用于全为女性。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x2-q10",
+          "type": "choice",
+          "prompt": "Complétez : « Lui, il est très fier ___ . » (sa fille)",
+          "options": [
+            "de lui",
+            "de les",
+            "d'elle",
+            "la"
+          ],
+          "answer": 2,
+          "translation": "他嘛，他为自己的女儿感到非常自豪。",
+          "explain": "句首 lui 复指主语 il，是强调用法；être fier de + 人保留 de，用重读代词，sa fille 是女性单数，所以 d'elle。de lui 指男性；la 是直接宾语代词。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x2-q11",
+          "type": "choice",
+          "prompt": "Complétez : « On a invité Paul et Marie ; ___ sont arrivés à huit heures. »",
+          "options": [
+            "elles",
+            "on",
+            "eux",
+            "ils"
+          ],
+          "answer": 3,
+          "translation": "我们邀请了保罗和玛丽；他们八点到的。",
+          "explain": "第一句 on 是泛指主语，动词用 a；第二句回指 Paul et Marie（混合性别复数），用 ils，动词 sont。不能用 on 回指具体两人，也不能用重读 eux 作主语。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-x2-q12",
+          "type": "choice",
+          "prompt": "Complétez : « Tout le monde pense à ___ , mais personne ne ___ écrit. » (Marie)",
+          "options": [
+            "elle / lui",
+            "lui / lui",
+            "elle / elle",
+            "la / lui"
+          ],
+          "answer": 0,
+          "translation": "大家都想着她，却没有人给她写信。",
+          "explain": "penser à + 人保留介词，用重读代词 elle；écrire à qn 的 à + 人用间接宾语 lui。tout le monde 与 personne 都按第三人称单数处理，但两个动词的代词化方式不同。"
+        }
+      ]
+    }
+  ]
+}

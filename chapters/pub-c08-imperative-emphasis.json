@@ -1,0 +1,1772 @@
+{
+  "id": "pub-c08-imperative-emphasis",
+  "title": "命令、强调与句式改写",
+  "titleFr": "L'impératif, l'emphase et la reformulation",
+  "cards": [
+    {
+      "id": "pub-c08-imperative-emphasis-card-u1-1",
+      "title": "命令式的基本构成：取 tu / nous / vous 三个人称",
+      "body": "命令式（l'impératif）一般取直陈式现在时的 tu、nous、vous 三个人称形式，并删去主语代词。命令式只有这三个人称，没有 je、il/elle、ils/elles 形式。\n\n- Tu manges. → Mange !（吃吧！）\n- Nous mangeons. → Mangeons !（我们吃吧！）\n- Vous mangez. → Mangez !（您/你们吃吧！）\n- Tu finis. → Finis !（完成吧！）\n- Nous finissons. → Finissons !（我们完成吧！）\n- Vous finissez. → Finissez !（您/你们完成吧！）\n\n要点：\n- 先写出现在时对应人称，再删主语代词；不要保留 tu / nous / vous。\n- 三个人称的选择由说话对象决定：对一个人用 tu，对一群人（或礼貌称呼）用 vous，把说话人自己包括进去时用 nous。\n- 这条一般对应只适用于规则形式；être、avoir、savoir 等异形见另卡。\n\n边界：命令式不扩展到第三人称，也不等于虚拟式现在时；代词式动词的命令式另有代词位置规则，本章不展开。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u1-2",
+      "title": "tu 命令式去 s：第一组动词与 ouvrir 类",
+      "body": "第一组 -er 动词的 tu 命令式去掉词尾 s；ouvrir、offrir、cueillir、souffrir、couvrir 等 tu 现在时以 -es 结尾的动词也去 s。第二组 -ir 动词保留 s。\n\n- Tu parles. → Parle !（说吧！）\n- Tu regardes. → Regarde !（看吧！）\n- Tu ouvres. → Ouvre !（打开吧！）\n- Tu offres. → Offre !（送吧！）\n- Tu finis. → Finis !（完成吧！）——第二组保留 s\n- Tu choisis. → Choisis !（选择吧！）\n\n判断步骤：\n- 看动词原形：-er 动词通常去 s。\n- 看 tu 现在时词尾：以 -es 结尾的 ouvrir / offrir 等也去 s。\n- 第二组 -ir 动词的 tu 形式以 -is 结尾，命令式保留 s。\n\n边界：aller 虽不是第一组，tu 命令式也写 va；en / y 紧随时是否加增音 s 属后续内容，本章不测试。不要把去 s 规则推广到 finir、partir 等保留 s 的动词。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u1-3",
+      "title": "常用不规则命令式：faire、dire、venir、prendre 等",
+      "body": "许多常用动词的命令式要按各自的现在时词干记忆，不能一律套第一组规则。常见形式：\n\n- faire：fais / faisons / faites\n- dire：dis / disons / dites\n- venir：viens / venons / venez\n- tenir：tiens / tenons / tenez\n- recevoir：reçois / recevons / recevez\n- écrire：écris / écrivons / écrivez\n- boire：bois / buvons / buvez\n- prendre：prends / prenons / prenez\n- partir：pars / partons / partez\n- répondre：réponds / répondons / répondez\n- vendre：vends / vendons / vendez\n- suivre：suis / suivons / suivez\n- devenir：deviens / devenons / devenez\n\n例：\n- Fais attention !（小心！）\n- Dites la vérité.（说实话。）\n- Viens avec nous.（跟我们一起来。）\n- Recevez ce colis.（收下这个包裹。）\n- Écrivez votre nom.（写下您的名字。）\n\n要点：\n- 三个人称都要能辨认和产出；注意 dites、faites 等 vous 形式虽与现在时同形，tu 形式却可能保留 s。\n- ouvrir / offrir 的 tu 形式虽属第三组，仍按 -es 去 s：ouvre、offre。\n- 不要把一个动词的命令式词干推广到同组其他动词：dire 的 vous 是 dites，不是 disez。\n\n边界：être、avoir、savoir 的完全异形另卡处理；代词式动词和 en / y 后置不在本卡。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u1-4",
+      "title": "être 与 avoir 的命令式：sois / soyez，aie / ayez",
+      "body": "être 的命令式是 sois / soyons / soyez，avoir 的命令式是 aie / ayons / ayez。它们与现在时变位不同，必须独立记忆。\n\n- Sois patient !（耐心点！）\n- Soyons prêts !（我们准备好！）\n- Soyez à l'heure.（请准时。）\n- Aie confiance !（要有信心！）\n- Ayons du courage !（我们要有勇气！）\n- Ayez de la patience !（请耐心一点！）\n\n对比：\n- Tu es → Sois !（不是 Es !）\n- Vous êtes → Soyez !（不是 Êtes !）\n- Tu as → Aie !（不是 As !）\n- Vous avez → Ayez !（不是 Avez !）\n\n要点：\n- 三个人称成套记忆：sois / soyons / soyez；aie / ayons / ayez。\n- 否定时 ne...pas 夹住这些形式：Ne sois pas triste. / N'ayez pas peur.\n- 不要把 être 与 avoir 的形式互换，也不要按现在时直接推导。\n\n边界：本卡只处理 être 与 avoir；其他不规则动词见前一卡，savoir 只要求识别。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u1-5",
+      "title": "aller 的 tu 命令式：va（去 s）",
+      "body": "aller 的现在时是 tu vas、nous allons、vous allez；命令式分别是 va、allons、allez。tu 形式由 vas 去掉 s 得到，虽然 aller 不属于第一组动词。\n\n- Va au marché !（去市场！）\n- Allons au cinéma !（我们去看电影吧！）\n- Allez tout droit !（一直往前走！）\n- Va voir le médecin.（去看医生。）\n\n要点：\n- tu 命令式写 va，不写 vas；不要与将来时 va（aller 的第三人称单数）混淆。\n- nous / vous 形式 allons / allez 与现在时同形，删去主语即可。\n- 后接 y 时保留 s 的增音规则属后续单元；本单元只要求区分 va 与 vas。\n\n边界：本卡只处理非代词式 aller 的命令式；代词式 s'en aller 不在本章范围。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u1-6",
+      "title": "非代词式动词的命令式：肯定与否定",
+      "body": "非代词式动词的肯定命令式第二人称单数一般取自现在时去掉主语的形式：-er 动词通常不带 -s，其他动词多保留 -s，aller 等有例外。\n\n- Parle ! / Finis ! / Va ! / Fais ! / Viens !\n- Ne parle pas ! / Ne finis pas ! / Ne va pas ! / Ne fais pas ! / Ne viens pas !\n\nnous 与 vous 形式：\n- Nous parlons. → Parlons !\n- Vous parlez. → Parlez !\n- Nous finissons. → Finissons !\n- Vous finissez. → Finissez !\n\n要点：\n- 肯定命令式不加主语代词；否定命令式仍用 ne...pas，ne 在动词前，pas 在动词后。\n- 否定不改变 tu 形式的去 s 结果：Parle ! → Ne parle pas !（不是 Ne parles pas）。\n- aller 的 tu 命令式是 va；y 紧跟时的增音规则另属后续内容。\n- en / y 紧随时是否加增音 s 属后续内容，本章不测试。\n- 不要把 aller 的 va 与将来时 va 混同：命令式的 va 表示「去」，不表示「将要」。\n\n边界：代词式动词的命令式有代词位置和 toi 形式，另属后续内容；本卡只处理非代词式动词。否定命令式的系统讲解见 U2。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u1-7",
+      "title": "savoir 的命令式：sache / sachons / sachez（仅识别）",
+      "body": "savoir 的命令式是 sache / sachons / sachez，词干为 sach-，与现在时变位不同。\n\n- Sache que je suis là.（你要知道我在。）\n- Sachons attendre.（我们要懂得等待。）\n- Sachez que ce n'est pas facile.（您要知道这不容易。）\n\n要点（仅要求识别）：\n- 三个人称都以 sach- 为词干：sache、sachons、sachez。\n- 不要写成 savez / savons / sais；这些是现在时形式。\n- 不把 sach- 词干推广到其他动词；savoir 的其他时态不在本卡。\n\n边界：本概念只要求识别，不要求主动产出；考题只做形式辨认。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u2-1",
+      "title": "否定命令式：ne...pas 包住动词",
+      "body": "否定命令式用 ne...pas 包住变位动词：ne 在动词前，pas 在动词后；ne 在元音或哑音 h 前省音为 n'。\n\n- Parle ! → Ne parle pas !（别说话！）\n- Finis ! → Ne finis pas !（别结束！）\n- Fais du bruit. → Ne fais pas de bruit.（别弄出声音。）\n- Sois triste. → Ne sois pas triste.（别难过。）\n- Ayez peur. → N'ayez pas peur.（别害怕。）\n- Va là-bas. → Ne va pas là-bas.（别去那边。）\n\n要点：\n- 肯定命令式的 tu 去 s 规则在否定中仍然有效：parle → ne parle pas；finis → ne finis pas。\n- être / avoir 的命令式形式不变：sois → ne sois pas；ayez → n'ayez pas。\n- 直接宾语前的不定冠词或部分冠词在绝对否定中变为 de：du bruit → de bruit。\n- 否定词不止 pas 时（ne...plus、ne...jamais 等），ne 仍在动词前，另一个否定词在动词后。\n\n边界：本卡只处理非代词式动词的否定命令式；代词式动词的否定与代词位置另属后续内容；复合时态不在本章。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u2-2",
+      "title": "命令式的交际功能：命令、禁止、请求、建议、鼓励（仅识别）",
+      "body": "同一个命令式形式可以表达不同的交际功能，具体语气由语境、语调和肯定/否定形式决定。\n\n- 命令：Ferme la porte !（把门关上！）\n- 禁止：Ne traversez pas ici !（不要从这里穿过去！）\n- 请求：Fermez la fenêtre, s'il vous plaît.（请把窗户关上。）\n- 建议：Prenez le train, c'est plus rapide.（坐火车吧，更快。）\n- 鼓励：Essayez encore, vous y êtes presque !（再试试，您就差一点了！）\n\n要点（仅要求识别）：\n- 否定形式常表达禁止，但也可表达劝阻或请求；不能把 ne...pas 固定等同于某一种功能。\n- 带 s'il vous plaît、语气缓和的结构更接近请求；感叹号、短促形式更接近命令或鼓励。\n- 判断依据是语境和说话意图，不是动词形式本身。\n\n边界：本概念只要求识别功能，不要求产出；不涉及命令式形式的构成，也不把命令式与陈述句将来时混同。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u3-1",
+      "title": "c'est / ce sont：首次指认人与物",
+      "body": "c'est 和 ce sont 用来首次指认、介绍人或物。用哪一个，取决于后面被指认对象是单数还是复数：单数用 c'est，复数用 ce sont。\n\n- C'est mon frère.（这是我哥哥。）\n- C'est une étudiante.（这是一名女学生。）\n- Ce sont mes parents.（这是我父母。）\n- Ce sont des étudiants.（这些是学生。）\n- — Qui est-ce ? — C'est Julie.（——这是谁？——是朱莉。）\n\nce 是中性指示代词，本身不随表语名词的阴阳变化：C'est un acteur. / C'est une actrice. 都用 c'est。变化只发生在后面的名词和限定词上。\n\n指认复数对象时，规范书面语用 ce sont；口语里常听到 C'est des étudiants，但这是语域变体，书面标准按数配合。\n\n要点：\n- 先判断被指认对象是单数还是复数，再选 c'est / ce sont。\n- ce 不随表语阴阳变化，不能写 cette est / ces sont。\n- 首次介绍与后续复指要衔接：Ce sont mes parents. Ils sont professeurs.（这是我父母。他们是老师。）\n\n边界：本卡处理指认结构与数配合；c'est 与 il est 的功能分工见下一张卡。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u3-2",
+      "title": "c'est / ce sont 的数配合：名词与重读代词",
+      "body": "选择 c'est 还是 ce sont，看的不是主语 ce，而是后面被指认对象的数：单数名词或单数重读代词用 c'est，复数名词或第三人称复数重读代词用 ce sont。ce 的形式始终不变。\n\n单数：\n- C'est le professeur de ma sœur.（这是我姐姐的老师。）\n- C'est moi.（是我。）\n- C'est toi.（是你。）\n\n复数：\n- Ce sont les professeurs de ma sœur.（这些是我姐姐的老师。）\n- Ce sont eux.（是他们。）\n- Ce sont elles.（是她们。）\n\n第一、二人称复数重读代词 nous、vous 是例外：它们虽然表示复数，前面仍用 c'est。\n- C'est nous.（是我们。）\n- C'est vous.（是您/你们。）\n\n指示形容词要与名词数配合：C'est cet étudiant. → Ce sont ces étudiants.（这是这名学生。→ 这些是这些学生。）\n\n要点：\n- 不要按主语 ce 判断，ce 没有单复数变化。\n- ce sont 不能类推到 nous、vous：不说 Ce sont nous。\n- 口语中 c'est 可泛用于复数，规范书面语仍按数配合。\n\n边界：本卡只处理 c'est / ce sont 的数配合；指认与描述的分工见下一张卡。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u3-3",
+      "title": "c'est 指认 vs il est 描述：功能不同",
+      "body": "c'est 与 il/elle est 都可以译成「是」，但功能不同：c'est 用于首次指认人或物，后接名词；il/elle est 用于描述已确定的人或物的属性，后接形容词，或职业、身份表语。\n\n指认：\n- C'est un médecin.（这是一位医生。）\n- Ce sont des amis de Marie.（这些是玛丽的朋友。）\n- C'est mon voisin.（这是我的邻居。）\n\n描述已确定的人：\n- Il est médecin.（他是医生。）\n- Elle est très gentille.（她很和善。）\n- Ils sont étudiants.（他们是学生。）\n\n职业名词作 il/elle est 的表语时，前面一般不加冠词：Il est professeur. / Elle est avocate. 而 c'est 指认时保留冠词：C'est un professeur. / C'est une avocate.\n\nc'est 还可后接形容词，对情况或行为作评价：C'est difficile.（这很难。）C'est très gentil de ta part.（你真好。）这时 c'est 指代的是情况，不是某个已确定的人。\n\n要点：\n- 先判断是在「指认是谁/是什么」还是在「描述已知的人怎样」。\n- 不能只看后面是名词还是形容词：Il est médecin 与 C'est un médecin 都对，区别在功能。\n- 描述已知的人不用 c'est + 形容词：不说 C'est très gentil avec tout le monde 来指 Paul。\n\n边界：本卡不涉及强调句 c'est...qui/que；也不把 c'est 后的形容词评价与 il est + 形容词的人称描述混为一谈。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u3-4",
+      "title": "c'est 介绍与 il est 介绍（仅识别）",
+      "body": "c'est 用来介绍或识别一个名词性对象，后接名词或重读代词；il/elle est 用来交代已知人物的职业或状态，职业名词前一般不用冠词。两者都能译成「是」，但信息结构不同。\n\n- Je vous présente Paul. C'est un collègue.（我给您介绍保罗。这是一位同事。）\n- Paul est architecte. Il est architecte depuis dix ans.（保罗是建筑师。他当建筑师十年了。）\n- — Qui est cette femme ? — C'est la directrice.（——这位女士是谁？——是经理。）\n- Elle est en vacances.（她在度假。）\n\n判断线索：\n- c'est 后面常常出现名词短语（un collègue, la directrice）或重读代词（moi, eux）。\n- il/elle est 后面常出现形容词、职业名词或状态短语（architecte, en vacances）。\n- il/elle est 也可回指上文已经确定的人；c'est 更适合首次介绍或识别。\n\n要点（仅要求识别）：\n- 冠词有无只是线索之一，不能单凭职业名词前有没有冠词就判定用哪个结构。\n- 不要把 c'est 当作 il/elle est 的同义替换；先看是在介绍新对象还是在描述已知对象。\n\n边界：本卡只要求识别这两种介绍方式，不要求产出复杂介绍句。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u3-5",
+      "title": "c'est...qui/que 分裂结构（仅识别）",
+      "body": "强调句用 c'est / ce sont 引出被强调成分，后面用 qui 或 que 引导关系从句。被强调成分在从句中作主语时用 qui，作直接宾语时用 que。\n\n- C'est Marie qui prépare le dîner.（是玛丽在做晚饭。）——Marie 在从句中作主语。\n- C'est ce livre que je préfère.（我更喜欢的是这本书。）——ce livre 在从句中作 préférer 的直接宾语。\n- Ce sont mes parents qui arrivent demain.（明天到的是我父母。）——被强调成分是复数，用 ce sont。\n\n识别方法：把 c'est / ce sont 和后面的名词拿掉，看剩余部分缺什么：\n- 缺主语 → qui：C'est Paul qui téléphone.（是保罗打电话。）\n- 缺直接宾语 → que：C'est Paul que je cherche.（我找的是保罗。）\n\nque 在元音开头的词前省音为 qu'：C'est Paul qu'elle cherche.（她找的是保罗。）\n\n要点（仅要求识别）：\n- 只处理 qui / que 分裂结构；不把 dont 直接套进 c'est...dont。\n- 识别时先找从句的谓语，再判断被强调成分在从句中的句法角色。\n\n边界：本卡只要求识别 c'est...qui/que 的功能；强调句的产出与配合规则见 U4。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u4-1",
+      "title": "强调句的连接词：主语用 qui，直宾用 que",
+      "body": "强调句的基本框架是：c'est / ce sont + 被强调成分 + qui / que + 其余部分。连接词由被强调成分在关系从句中的句法角色决定。\n\n强调主语 → qui：\n- C'est Marie qui prépare le dîner.（是玛丽在做晚饭。）\n- Ce sont mes parents qui arrivent demain.（明天到的是我父母。）\n- C'est moi qui ai raison.（有道理的是我。）\n\n强调直接宾语 → que：\n- C'est ce livre que je préfère.（我更喜欢的是这本书。）\n- C'est Paul que je cherche.（我找的是保罗。）\n- Ce sont ces photos que nous regardons.（我们看的是这些照片。）\n\nque 在元音或哑音 h 前省音为 qu'：C'est Paul qu'elle invite.（她邀请的是保罗。）\n\n判断步骤：\n- 先找出被强调成分在从句中作什么成分。\n- 作主语用 qui；作直接宾语用 que。\n- 被强调成分是复数时，c'est 改为 ce sont（见下一张卡）。\n\n要点：\n- qui 后面直接跟变位动词；que 后面通常先出现从句主语，再出现动词。\n- 不要按中文「的」来选连接词，要看句法角色。\n\n边界：本卡只处理强调主语和强调直接宾语；介词补语的强调以及 dont 结构不在本章范围。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u4-2",
+      "title": "强调句的两处配合：ce sont 与 qui 后动词",
+      "body": "强调句有两处配合：引出成分 c'est / ce sont 与被强调成分的数配合；qui 后的动词与被强调成分的人称和数配合。\n\nce sont + 复数：\n- Ce sont mes parents qui arrivent demain.（明天到的是我父母。）\n- Ce sont eux qui ont raison.（有道理的是他们。）\n- Ce sont mes sœurs qui préparent le dîner.（是我姐妹们在做晚饭。）\n\n重读代词决定 qui 后动词的人称：\n- C'est moi qui ai raison.（有道理的是我。）\n- C'est toi qui as raison.（有道理的是你。）\n- C'est nous qui avons raison.（有道理的是我们。）\n- C'est vous qui avez raison.（有道理的是您/你们。）\n- Ce sont eux qui ont raison.（有道理的是他们。）\n\n注意：nous、vous 前仍用 c'est，但 qui 后的动词按 nous、vous 变位；eux、elles 前用 ce sont。\n\n要点：\n- 先看被强调成分的数，决定 c'est / ce sont。\n- 再看被强调成分的人称，决定 qui 后动词的词形。\n- 两个配合点可能同时出现：Ce sont mes parents qui arrivent. 中 ce sont 与 mes parents 配合，arrivent 也与 mes parents 配合。\n\n边界：口语中 c'est 可接复数，但规范书面语用 ce sont；本卡按书面标准处理。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u5-1",
+      "title": "口语疑问句与规范疑问句：语域差异与改写总则",
+      "body": "口语疑问句常把疑问词留在原位，句末升调，或使用 c'est quoi / c'est qui 等结构；规范书面语则把疑问词放到句首，再用 est-ce que + 陈述词序或主谓倒装。两种形式都合法，差别在语域，不在真假。\n\n- Tu habites où ? → Où est-ce que tu habites ? / Où habites-tu ?（你住在哪里？）\n- Le film commence quand ? → Quand est-ce que le film commence ?（电影什么时候开始？）\n- On va où ? → Où allons-nous ?（我们去哪儿？）\n- C'est quoi, ce document ? → Qu'est-ce que c'est, ce document ?（这份文件是什么？）\n\n改写步骤：\n- 先找疑问词（où, quand, comment, pourquoi, qui, combien...），把它移到句首。\n- 再选结构：疑问词 + est-ce que + 主语 + 变位动词，或疑问词 + 变位动词 + -主语代词。\n- 时态、人称和其余成分保持不变；口语的 on 在规范改写中常改为 nous。\n\n注意：est-ce que 后不再倒装，不能说 Où est-ce que vas-tu ?；倒装要加连字符。\n\n边界：本卡只处理疑问句的语域改写，不涉及否定疑问句和间接疑问句；口语形式不应被判为错误。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u5-2",
+      "title": "规范疑问词的选择：问人、问物、介词与直接宾语",
+      "body": "改写时除了语序，还要选对疑问词。问人用 qui 系列，问物用 que / quoi 系列；选择取决于所问对象，不取决于中文。\n\n- Tu cherches qui ? → Qui est-ce que tu cherches ?（你在找谁？）\n- Tu cherches quoi ? → Qu'est-ce que tu cherches ?（你在找什么？）\n- Tu téléphones à qui ? → À qui est-ce que tu téléphones ?（你在给谁打电话？）\n- Tu penses à quoi ? → À quoi est-ce que tu penses ?（你在想什么？）\n- C'est qui ? → Qui est-ce ?（这是谁？）\n- C'est quoi ? → Qu'est-ce que c'est ?（这是什么？）\n\n要点：\n- 直接宾语问人用 qui est-ce que，问物用 qu'est-ce que。不能写成 Qui est-ce qui tu cherches ?，因为那是主语疑问的形式。\n- 介词必须保留并一起前置：à qui, de qui, à quoi, de quoi。que 不能直接放在介词后，不说 à que。\n- 身份辨认用 qui est-ce / qu'est-ce que c'est；不要用 il y a 回答身份问题。\n\n边界：本卡不涉及 quel / lequel 的性数配合，也不涉及间接引语中的疑问词转换。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u5-3",
+      "title": "口语感叹与规范感叹：que / comme 引导整句",
+      "body": "口语感叹常用强调框架 c'est fou ce que...、c'est incroyable comme...，或直接用 vachement、super、trop 等口语程度词。规范书面语把感叹意义收进 que 或 comme 引导的整句：Que / Comme + 主语 + 谓语 + !，程度意义保留，语域提高。\n\n- C'est fou ce qu'il est gentil ! → Qu'il est gentil !（他多好啊！）\n- C'est incroyable comme elle chante bien ! → Comme elle chante bien !（她唱得多好啊！）\n- Il conduit super vite ! → Comme il conduit vite !（他开得超快！）\n- Elle est vachement sympa ! → Qu'elle est sympa !（她人真好！）\n\n要点：\n- que / comme 后接完整的主语和谓语，词序与陈述句基本相同，不倒装：Qu'il est gentil !，不是 Qu'est-il gentil !\n- 口语强调框架（c'est fou ce que、c'est incroyable comme）在规范改写中删去，程度意义由 que / comme 承担。\n- 口语程度词（vachement, super, trop）可删去或改为 très，规范改写中不保留超口语形式。\n- 感叹句用感叹号；换成问号会改变交际功能。\n\n边界：qu'est-ce que 引导的感叹（Qu'est-ce qu'il est drôle !）属口语语域变体，不是错误；本卡只要求在规范改写中识别并转换，不把口语判为不可接受。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u5-4",
+      "title": "que / comme 感叹句的内部结构：语序、配合与补语",
+      "body": "que 和 comme 置于句首，后面是主语 + 谓语，语序与陈述句相同；形容词与主语配合，程度副词或不定式补语留在原位。\n\n- Qu'il fait beau aujourd'hui !（今天天气多好啊！）\n- Comme il est difficile de choisir !（做选择多难啊！）\n- Qu'elles sont belles, ces photos !（这些照片多美啊！）\n- Comme elles travaillent bien !（她们工作得多好啊！）\n\n要点：\n- que 在元音或哑音 h 前省音为 qu'：qu'il, qu'elle, qu'on, qu'elles；comme 不省音。\n- 主语代词不能重复：Qu'il fait beau，不写 Qu'il il fait beau。\n- 形容词与主语性数配合：elles → belles / fortes；主语是 il 时用阳性单数。\n- 不定式补语前的 de 保留：Comme il est difficile de choisir ! 不能省略 de。\n- 不倒装：Comme il est grand !，不是 Comme est-il grand !\n\n边界：本卡不处理 quel + 名词的感叹（Quelle belle journée !），也不处理感叹句的间接引语转换。"
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-card-u5-5",
+      "title": "改写检查清单：先判语域，再定疑问词与结构",
+      "body": "遇到口语/规范改写题，按固定顺序检查，避免只改一个词却留下另一个口语标记。\n\n步骤：\n- 判断原句是疑问还是感叹，找出要保留的交际意义。\n- 疑问句：找疑问词 → 前置 → 选 est-ce que 或倒装 → 保留时态、人称和其余成分。\n- 感叹句：找感叹核心 → 用 que / comme 重写整句 → 保留程度和补语 → 用感叹号。\n- 检查口语标记是否清除：on、c'est quoi、c'est fou ce que、vachement、super 等。\n\n对比：\n- On part quand ? → Quand partons-nous ?（我们什么时候出发？）——on 改 nous，动词随 nous 变 partons。\n- C'est quoi, cette clé ? → Qu'est-ce que c'est, cette clé ?（这把钥匙是什么？）——问物，不能改成 Qui est-ce ?\n- C'est fou ce qu'elle est patiente ! → Qu'elle est patiente !（她多耐心啊！）——删去口语框架，保留感叹。\n\n易错点：\n- 不要在 est-ce que 后再倒装：Quand est-ce que partons-nous ? 错。\n- 不要把介词留在句末：Tu parles à qui ? → À qui est-ce que tu parles ?\n- 不要给 que / comme 感叹句加倒装或问号。\n\n边界：本清单只覆盖本章的疑问句与感叹句改写；否定疑问、间接疑问、quel 感叹不在内。"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pub-c08-imperative-emphasis-l1",
+      "title": "命令式的基本构成、去 s 与不规则形式",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q1",
+          "type": "choice",
+          "prompt": "Quelles personnes possèdent une forme verbale à l'impératif ?",
+          "options": [
+            "je, tu, nous",
+            "tu, nous, vous",
+            "il, elle, on",
+            "nous, vous, ils"
+          ],
+          "answer": 1,
+          "translation": "哪些人称有命令式形式？",
+          "explain": "命令式只取直陈式现在时的 tu、nous、vous 三个人称，并删去主语代词；没有 je、il/elle/on、ils/elles 的命令式形式。因此正确组合是 tu, nous, vous。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q2",
+          "type": "letters",
+          "prompt": "Complétez : « S'il te plaît, ___ la porte. » (fermer)",
+          "answer": "ferme",
+          "decoys": [
+            "s",
+            "z",
+            "t"
+          ],
+          "translation": "请把门关上。",
+          "explain": "fermer 是第一组 -er 动词，tu 现在时是 fermes；构成命令式时删去词尾 s，写 ferme。s'il te plaît 说明说话对象是 tu。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q3",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif (tu) : « Tu parles plus lentement. » → ___",
+          "answer": [
+            "Parle",
+            "plus",
+            "lentement."
+          ],
+          "bank": [
+            "Parle",
+            "plus",
+            "lentement.",
+            "Parles",
+            "parle",
+            "lentement",
+            "vite."
+          ],
+          "translation": "你说话慢一点。→ 说慢一点。",
+          "explain": "parler 属第一组，tu 命令式去 s：parles → parle。副词 plus lentement 保持原位，不能因为去 s 而移动。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q4",
+          "type": "choice",
+          "prompt": "Quelle paire de formes impératives (tu) est correcte ?",
+          "options": [
+            "Parles ! / Finis !",
+            "Parle ! / Finit !",
+            "Parle ! / Finis !",
+            "Parles ! / Fini !"
+          ],
+          "answer": 2,
+          "translation": "哪一组 tu 命令式正确？",
+          "explain": "parler 是第一组 -er 动词，tu 命令式去 s，写 Parle !；finir 是第二组 -ir 动词，tu 命令式保留 s，写 Finis !。Finit 是第三人称单数，Fini 缺少第二组词尾。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q5",
+          "type": "letters",
+          "prompt": "Complétez : « Avant de sortir, ___ cet exercice. » (finir, tu)",
+          "answer": "finis",
+          "decoys": [
+            "e",
+            "t",
+            "r"
+          ],
+          "translation": "出门前完成这道练习。",
+          "explain": "finir 属第二组 -ir 动词，tu 现在时是 finis，命令式保留词尾 s；不要按第一组规则写成 fini。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q6",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif (nous) : « Nous commençons maintenant. » → ___",
+          "answer": [
+            "Commençons",
+            "maintenant."
+          ],
+          "bank": [
+            "Commençons",
+            "maintenant.",
+            "Commencent",
+            "commençons",
+            "maintenant",
+            "Commencer"
+          ],
+          "translation": "我们现在开始。→ 我们现在开始吧。",
+          "explain": "取 nous 的现在时 commençons，删去主语 nous 即得命令式。com- 后的 ç 在 o 前必须保留，写 Commençons，不能写 Commencons。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q7",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif (vous) : « Vous attendez ici. » → ___",
+          "answer": [
+            "Attendez",
+            "ici."
+          ],
+          "bank": [
+            "Attendez",
+            "ici.",
+            "Attendent",
+            "attendez",
+            "ici",
+            "Attendons"
+          ],
+          "translation": "您/你们在这里等。→ 请在这里等。",
+          "explain": "attendre 的 vous 现在时是 attendez，删去主语 vous 得命令式 Attendez；地点副词 ici 保持原位。Attendent 是第三人称复数，不能用于 vous。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q8",
+          "type": "choice",
+          "prompt": "Quelle est la forme impérative de « aller » à la deuxième personne du singulier ?",
+          "options": [
+            "Vas",
+            "Va",
+            "Vais",
+            "Allez"
+          ],
+          "answer": 1,
+          "translation": "aller 的第二人称单数命令式是什么？",
+          "explain": "aller 的 tu 现在时是 vas；命令式删去主语并去掉词尾 s，写 Va。虽然 aller 不属于第一组动词，tu 形式仍按去 s 处理。Vais 是 je 的形式，Allez 是 vous 的命令式。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q9",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif (tu) : « Tu vas au marché. » → ___",
+          "answer": [
+            "Va",
+            "au",
+            "marché."
+          ],
+          "bank": [
+            "Va",
+            "au",
+            "marché.",
+            "Vas",
+            "vas",
+            "du",
+            "marché"
+          ],
+          "translation": "你去市场。→ 去市场吧。",
+          "explain": "aller 的 tu 命令式是 va，由 vas 去 s 得到；au marché 保持不变。不能写 Vas au marché，因为命令式 tu 形式不带 s。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q10",
+          "type": "letters",
+          "prompt": "Complétez : « Il fait beau, ___ au marché ! » (aller, tu)",
+          "answer": "va",
+          "decoys": [
+            "s",
+            "t",
+            "e"
+          ],
+          "translation": "天气很好，去市场吧！",
+          "explain": "aller 的 tu 现在时是 vas，命令式去 s 写 va；aller 虽属第三组，tu 形式仍按去 s 处理。不要写 vas。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q11",
+          "type": "choice",
+          "prompt": "Complétez : « ___ la fenêtre, s'il te plaît. » (ouvrir, tu)",
+          "options": [
+            "Ouvre",
+            "Ouvres",
+            "Ouvrez",
+            "Ouvrir"
+          ],
+          "answer": 0,
+          "translation": "请把窗户打开。",
+          "explain": "ouvrir 的 tu 现在时是 ouvres，词尾以 -es 结尾；命令式按去 s 规则写 Ouvre。Ouvrez 是 vous 形式，Ouvrir 是不定式。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q12",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif (tu) : « Tu ouvres la porte. » → ___",
+          "answer": [
+            "Ouvre",
+            "la",
+            "porte."
+          ],
+          "bank": [
+            "Ouvre",
+            "la",
+            "porte.",
+            "Ouvres",
+            "ouvre",
+            "portes."
+          ],
+          "translation": "你打开门。→ 把门打开。",
+          "explain": "ouvrir 虽属第三组，tu 现在时 ouvres 以 -es 结尾，命令式同样去 s，写 Ouvre；定冠词 la 和名词 porte 不变。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q13",
+          "type": "letters",
+          "prompt": "Complétez : « Maintenant, ___ la vérité à vos parents. » (dire, vous)",
+          "answer": "dites",
+          "decoys": [
+            "e",
+            "s",
+            "z"
+          ],
+          "translation": "现在，把真相告诉你们的父母。",
+          "explain": "dire 的 vous 现在时是 dites，命令式与现在时同形；不能按一般规则写 disez。vous 形式不涉及 tu 的去 s 规则。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q14",
+          "type": "choice",
+          "prompt": "Complétez : « ___ attention, la route est glissante ! » (faire, vous)",
+          "options": [
+            "Fait",
+            "Faisez",
+            "Faites",
+            "Faisons"
+          ],
+          "answer": 2,
+          "translation": "小心，路很滑！",
+          "explain": "faire 的 vous 命令式是 faites，属于不规则形式；faisez 不存在，fait 是第三人称单数，faisons 是 nous 命令式。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q15",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif (nous) : « Nous recevons les invités. » → ___",
+          "answer": [
+            "Recevons",
+            "les",
+            "invités."
+          ],
+          "bank": [
+            "Recevons",
+            "les",
+            "invités.",
+            "Recevez",
+            "recevons",
+            "invité.",
+            "Recevait"
+          ],
+          "translation": "我们接待客人。→ 我们来接待客人吧。",
+          "explain": "recevoir 的 nous 现在时是 recevons，删去 nous 即得命令式；recevez 是 vous 形式，invité 是单数，均不符合原句的 nous 和复数宾语。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q16",
+          "type": "letters",
+          "prompt": "Complétez : « Demain matin, ___ ce colis. » (recevoir, vous)",
+          "answer": "recevez",
+          "decoys": [
+            "s",
+            "r",
+            "t"
+          ],
+          "translation": "明天早上收下这个包裹。",
+          "explain": "recevoir 的 vous 现在时是 recevez，命令式同形；注意词尾是 -ez，不是 -er 或其他形式。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q17",
+          "type": "choice",
+          "prompt": "Complétez : « ___ votre nom en haut de la page. » (écrire, vous)",
+          "options": [
+            "Écris",
+            "Écriviez",
+            "Écrivons",
+            "Écrivez"
+          ],
+          "answer": 3,
+          "translation": "请把您的名字写在页面顶部。",
+          "explain": "écrire 的 vous 命令式是 écrivez，由现在时 écrivez 删去主语得到；écris 是 tu 形式，écriviez 是未完成过去时，écrivons 是 nous 形式。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q18",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif (tu) : « Tu viens avec nous. » → ___",
+          "answer": [
+            "Viens",
+            "avec",
+            "nous."
+          ],
+          "bank": [
+            "Viens",
+            "avec",
+            "nous.",
+            "Venez",
+            "viens",
+            "venons",
+            "vous."
+          ],
+          "translation": "你和我们一起来。→ 和我们一起来吧。",
+          "explain": "venir 的 tu 命令式是 viens，保留词尾 s；avec nous 保持原样。Venez 是 vous 形式，不能与 tu 混用。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q19",
+          "type": "choice",
+          "prompt": "Complétez : « ___ patient, tout va bien se passer. » (être, tu)",
+          "options": [
+            "Sois",
+            "Es",
+            "Soyez",
+            "Soit"
+          ],
+          "answer": 0,
+          "translation": "耐心点，一切都会顺利的。",
+          "explain": "être 的命令式是 sois / soyons / soyez，与现在时 es / sommes / êtes 不同；tu 形式用 Sois。Soit 是第三人称虚拟式形式，Soyez 是 vous 命令式。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q20",
+          "type": "letters",
+          "prompt": "Complétez : « Demain, ___ à l'heure. » (être, vous)",
+          "answer": "soyez",
+          "decoys": [
+            "s",
+            "e",
+            "t"
+          ],
+          "translation": "明天请准时。",
+          "explain": "être 的 vous 命令式是 soyez，词干为 soy-；不能按现在时写 êtes。命令式形式需独立记忆。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q21",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif (nous) : « Nous sommes prudents. » → ___",
+          "answer": [
+            "Soyons",
+            "prudents."
+          ],
+          "bank": [
+            "Soyons",
+            "prudents.",
+            "Sommes",
+            "soyons",
+            "prudent."
+          ],
+          "translation": "我们很谨慎。→ 我们谨慎一点吧。",
+          "explain": "être 的 nous 命令式是 soyons，不是现在时的 sommes；形容词 prudents 与 nous 保持阳性复数配合。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q22",
+          "type": "letters",
+          "prompt": "Complétez : « Tu peux réussir : ___ confiance en toi. » (avoir, tu)",
+          "answer": "aie",
+          "decoys": [
+            "s",
+            "t",
+            "e"
+          ],
+          "translation": "你能成功：相信你自己。",
+          "explain": "avoir 的命令式是 aie / ayons / ayez；tu 形式用 aie，不是现在时的 as。confiance 前不加冠词，构成固定搭配 avoir confiance en soi。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q23",
+          "type": "choice",
+          "prompt": "Complétez : « ___ de la patience ! » (avoir, vous)",
+          "options": [
+            "Avez",
+            "Ayons",
+            "Ayez",
+            "Aie"
+          ],
+          "answer": 2,
+          "translation": "耐心一点！",
+          "explain": "avoir 的 vous 命令式是 ayez，与现在时 avez 不同；Ayons 是 nous 形式，Aie 是 tu 形式。de la patience 是部分冠词短语，保持不变。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q24",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif (nous) : « Nous avons du courage. » → ___",
+          "answer": [
+            "Ayons",
+            "du",
+            "courage."
+          ],
+          "bank": [
+            "Ayons",
+            "du",
+            "courage.",
+            "Avons",
+            "ayons",
+            "de",
+            "courage"
+          ],
+          "translation": "我们有勇气。→ 我们要有勇气。",
+          "explain": "avoir 的 nous 命令式是 ayons，不是 avons；肯定句中部分冠词 du 保留，不变成 de。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q25",
+          "type": "choice",
+          "prompt": "Quelle forme impérative de « savoir » correspond à « vous » ?",
+          "options": [
+            "Sachez",
+            "Savez",
+            "Sachiez",
+            "Sais"
+          ],
+          "answer": 0,
+          "translation": "savoir 对应 vous 的命令式是哪个？",
+          "explain": "savoir 的命令式是 sache / sachons / sachez，词干为 sach-；savez 是现在时，sachiez 是虚拟式现在时形式，sais 是 je/tu 现在时。本题只要求识别形式。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q26",
+          "type": "choice",
+          "prompt": "Quelle forme n'est pas une forme impérative autonome de parler ?",
+          "options": [
+            "Parle",
+            "Parlons",
+            "Parlez",
+            "Parles"
+          ],
+          "answer": 3,
+          "translation": "哪个形式不是 parler 的独立命令式形式？",
+          "explain": "第一组 -er 动词的 tu 命令式去 s，写 Parle；Parlons、Parlez 分别是 nous、vous 命令式。Parles 带 s，是直陈式 tu 形式，不能独立作命令式。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q27",
+          "type": "choice",
+          "prompt": "Quelle forme ne peut pas être une forme impérative correcte ?",
+          "options": [
+            "Mange",
+            "Manges",
+            "Finis",
+            "Venez"
+          ],
+          "answer": 1,
+          "translation": "哪个形式不能是正确命令式？",
+          "explain": "manger 是第一组 -er 动词，tu 命令式去 s，应写 Mange；Manges 带 s，是直陈式 tu 形式，不能作命令式。Finis 是第二组保留 s 的正确形式，Venez 是 vous 命令式。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l1-q28",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif (tu) : « Tu penses à ton travail. » → ___",
+          "answer": [
+            "Pense",
+            "à",
+            "ton",
+            "travail."
+          ],
+          "bank": [
+            "Pense",
+            "à",
+            "ton",
+            "travail.",
+            "Penses",
+            "pense",
+            "travaux."
+          ],
+          "translation": "你想着你的工作。→ 想想你的工作。",
+          "explain": "penser 属第一组，tu 现在时 penses，命令式去 s 写 Pense；介词短语 à ton travail 保持不变。Penses 是直陈式形式，不能作命令式。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-l2",
+      "title": "否定命令式与命令式的交际功能",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c08-imperative-emphasis-l2-q1",
+          "type": "choice",
+          "prompt": "Complétez à la forme négative : « ___ ce livre, il est à Marie. » (prendre, tu)",
+          "options": [
+            "Ne prends pas",
+            "Ne prend pas",
+            "Ne pas prends",
+            "Prends ne pas"
+          ],
+          "answer": 0,
+          "translation": "别拿这本书，它是玛丽的。",
+          "explain": "否定命令式用 ne + 变位动词 + pas 包住动词；prendre 的 tu 命令式是 prends，保留 s，因此写 Ne prends pas。Ne prend 缺 s，Ne pas prends 词序错误，Prends ne pas 也把否定词放错位置。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l2-q2",
+          "type": "letters",
+          "prompt": "Complétez : « Ne ___ pas si fort ! » (parler, tu)",
+          "answer": "parle",
+          "decoys": [
+            "s",
+            "z",
+            "t"
+          ],
+          "translation": "别说得那么大声！",
+          "explain": "否定命令式仍使用 tu 的命令式形式；parler 是第一组 -er 动词，命令式去 s，写 parle。否定词 ne...pas 不改变去 s 的结果，不能说 Ne parles pas。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l2-q3",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative : « Ferme la porte. » → ___",
+          "answer": [
+            "Ne",
+            "ferme",
+            "pas",
+            "la",
+            "porte."
+          ],
+          "bank": [
+            "Ne",
+            "ferme",
+            "pas",
+            "la",
+            "porte.",
+            "fermes",
+            "n'",
+            "portes."
+          ],
+          "translation": "把门关上。→ 别关门。",
+          "explain": "否定命令式把 ne 放在动词前、pas 放在动词后：Ne ferme pas la porte。fermer 的第一组 tu 命令式 ferme 在否定中仍不带 s；ferme 以辅音开头，ne 不省音。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l2-q4",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative : « Fais du sport. » → ___",
+          "answer": [
+            "Ne",
+            "fais",
+            "pas",
+            "de",
+            "sport."
+          ],
+          "bank": [
+            "Ne",
+            "fais",
+            "pas",
+            "de",
+            "sport.",
+            "fait",
+            "du",
+            "sports.",
+            "faisons"
+          ],
+          "translation": "做些运动。→ 别做运动。",
+          "explain": "faire 的 tu 命令式是不规则的 fais，否定式为 Ne fais pas；直接宾语 du sport 在绝对否定中按规则变为 de sport。否定词包住 fais，不包住后面的名词。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l2-q5",
+          "type": "choice",
+          "prompt": "Complétez : « ___ pas peur, je suis là. » (avoir, vous)",
+          "options": [
+            "Ne ayez",
+            "N'ayez",
+            "N'avez",
+            "N'aie"
+          ],
+          "answer": 1,
+          "translation": "别怕，我在。",
+          "explain": "avoir 的 vous 命令式是 ayez；ne 在元音 a 前省音为 n'，写 N'ayez pas peur。N'avez 是现在时否定，N'aie 是 tu 形式，Ne ayez 没有省音。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l2-q6",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative : « Sois sérieux. » → ___",
+          "answer": [
+            "Ne",
+            "sois",
+            "pas",
+            "sérieux."
+          ],
+          "bank": [
+            "Ne",
+            "sois",
+            "pas",
+            "sérieux.",
+            "soyez",
+            "es",
+            "n'",
+            "sérieuse."
+          ],
+          "translation": "严肃点。→ 别这么严肃。",
+          "explain": "être 的 tu 命令式是 sois，否定式为 Ne sois pas；sois 以辅音开头，ne 不省音。sérieux 是形容词，与 tu 的单数配合，不加 s。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l2-q7",
+          "type": "choice",
+          "prompt": "Quelle forme négative est correcte ?",
+          "options": [
+            "Ne vas pas là-bas !",
+            "Ne pas va là-bas !",
+            "Ne va pas là-bas !",
+            "Va ne pas là-bas !"
+          ],
+          "answer": 2,
+          "translation": "哪一句否定命令式正确？「别去那边！」",
+          "explain": "aller 的 tu 命令式是 va（由 vas 去 s），否定时写 Ne va pas là-bas。ne...pas 包住 va；Ne vas 多 s，Ne pas va 词序错误，Va ne pas 也把否定词放错位置。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l2-q8",
+          "type": "choice",
+          "prompt": "Dans « Ne traversez pas ici, c'est dangereux ! », l'impératif sert surtout à...",
+          "options": [
+            "encourager",
+            "demander poliment",
+            "féliciter",
+            "interdire"
+          ],
+          "answer": 3,
+          "translation": "在「Ne traversez pas ici, c'est dangereux !」中，命令式主要用来……",
+          "explain": "否定命令式配合危险语境，表达禁止、劝阻，即「不要从这里穿过去」。它不是鼓励、礼貌请求或祝贺。判断功能要看语境和否定形式，不能只看动词。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l2-q9",
+          "type": "choice",
+          "prompt": "Dans « Essayez encore, vous êtes presque arrivé ! », l'impératif exprime...",
+          "options": [
+            "un encouragement",
+            "une interdiction",
+            "un ordre strict",
+            "une demande de renseignement"
+          ],
+          "answer": 0,
+          "translation": "在「再试试，您快到了！」中，命令式表达……",
+          "explain": "「再试试，您快到了」是在给对方打气，属于鼓励。它不是禁止、严厉命令，也不是询问信息。命令式的功能由语境和语调决定，不能固定对应一种语气。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-l3",
+      "title": "c'est / ce sont 与 il est 的分工",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c08-imperative-emphasis-l3-q1",
+          "type": "choice",
+          "prompt": "— Qui est-ce ? — ___ mon frère.",
+          "options": [
+            "Ce sont",
+            "C'est",
+            "Il est",
+            "Ils sont"
+          ],
+          "answer": 1,
+          "translation": "——这是谁？——是我哥哥。",
+          "explain": "回答 Qui est-ce ? 时，用 c'est 指认单数的人，后接单数名词 mon frère。Ce sont 用于复数；Il est / Ils sont 用于描述已知人物的身份或属性，不用于这个指认问答。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l3-q2",
+          "type": "choice",
+          "prompt": "Dans cette bibliothèque, ___ plus de mille livres.",
+          "options": [
+            "il y a",
+            "c'est",
+            "ce sont",
+            "ils sont"
+          ],
+          "answer": 0,
+          "translation": "这个图书馆里有一千多本书。",
+          "explain": "表示某处存在某物用 il y a；c'est 用于指认某个对象，ce sont 用于复数指认，ils sont 后接表语。plus de mille livres 是首次出现的存在信息，不能用 c'est 指认。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l3-q3",
+          "type": "choice",
+          "prompt": "Mon père ___ médecin dans cet hôpital.",
+          "options": [
+            "c'est",
+            "sont",
+            "est",
+            "ce sont"
+          ],
+          "answer": 2,
+          "translation": "我父亲在这家医院当医生。",
+          "explain": "描述已确定的人的职业用 il/elle est + 职业名词，职业名词前不加冠词：Mon père est médecin。c'est 用于指认（C'est un médecin），sont 与复数主语配合，ce sont 用于复数指认，都不能填入单数主语 mon père 后的空位。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l3-q4",
+          "type": "tiles",
+          "prompt": "Mettez tout au pluriel (le garçon aussi) : « C'est le cahier du garçon. » → ___",
+          "answer": [
+            "Ce",
+            "sont",
+            "les",
+            "cahiers",
+            "des",
+            "garçons."
+          ],
+          "bank": [
+            "Ce",
+            "sont",
+            "les",
+            "cahiers",
+            "des",
+            "garçons.",
+            "C'est",
+            "le",
+            "cahier",
+            "du",
+            "garçon.",
+            "aux"
+          ],
+          "translation": "这是那个男孩的笔记本。→ 这些是那些男孩的笔记本。",
+          "explain": "单数指认 c'est 在复数中变为 ce sont；定冠词 le 随名词变 les，cahier 加 -s。du garçon 是 de + le，复数变为 des garçons（de + les）。冠词与名词的数要同时配合。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l3-q5",
+          "type": "tiles",
+          "prompt": "Mettez au pluriel : « C'est cet étudiant. » → ___",
+          "answer": [
+            "Ce",
+            "sont",
+            "ces",
+            "étudiants."
+          ],
+          "bank": [
+            "Ce",
+            "sont",
+            "ces",
+            "étudiants.",
+            "C'est",
+            "cet",
+            "étudiant.",
+            "aux",
+            "étudient"
+          ],
+          "translation": "这是这名学生。→ 这些是这几名学生。",
+          "explain": "c'est + 单数名词变 ce sont + 复数名词；指示形容词 cet 随阳性复数名词变 ces，étudiant 加 -s。ce 本身不变，变的只是后面的限定词、名词和 être 的形式。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l3-q6",
+          "type": "letters",
+          "prompt": "Complétez : Ce ___ mes cousins. (être)",
+          "answer": "sont",
+          "decoys": [
+            "s",
+            "e",
+            "t"
+          ],
+          "translation": "这是我的表兄弟们。",
+          "explain": "表语 mes cousins 是复数，指示代词 ce 后要用 être 的第三人称复数形式 sont，构成 ce sont；不能按单数写 ce est。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l3-q7",
+          "type": "letters",
+          "prompt": "Complétez : — Qui vient ce soir ? — C'___ nous. (être)",
+          "answer": "est",
+          "decoys": [
+            "a",
+            "i",
+            "s"
+          ],
+          "translation": "——今晚谁来？——是我们。",
+          "explain": "第一人称复数重读代词 nous 前仍用 c'est，不用 ce sont；c' 是 ce 的省音形式，后面接 être 的第三人称单数 est。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l3-q8",
+          "type": "choice",
+          "prompt": "À l'écrit, quelle phrase est correcte ?",
+          "options": [
+            "C'est tes livres.",
+            "Ce sont ton livres.",
+            "C'est ton livres.",
+            "Ce sont tes livres."
+          ],
+          "answer": 3,
+          "translation": "书面语：这些是你的书。",
+          "explain": "被指认对象 tes livres 是复数，规范书面语用 ce sont；主有形容词 tes 与复数名词 livres 配合。C'est tes livres 属口语泛用，ton livres 中 ton 与复数名词不配合。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l3-q9",
+          "type": "choice",
+          "prompt": "Paul ? Oui, ___ très gentil avec tout le monde.",
+          "options": [
+            "c'est",
+            "ce sont",
+            "il est",
+            "ils sont"
+          ],
+          "answer": 2,
+          "translation": "保罗吗？是的，他对所有人都很和善。",
+          "explain": "对已确定的人 Paul 描述性格，用 il est + 形容词：il est très gentil。c'est 用于指认或评价情况，ce sont / ils sont 与单数主语 Paul 不配合。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l3-q10",
+          "type": "tiles",
+          "prompt": "Mettez au pluriel : « C'est une idée intéressante. » → ___",
+          "answer": [
+            "Ce",
+            "sont",
+            "des",
+            "idées",
+            "intéressantes."
+          ],
+          "bank": [
+            "Ce",
+            "sont",
+            "des",
+            "idées",
+            "intéressantes.",
+            "C'est",
+            "une",
+            "idée",
+            "intéressant.",
+            "étaient"
+          ],
+          "translation": "这是一个有趣的想法。→ 这些是有趣的想法。",
+          "explain": "c'est + 单数名词变 ce sont + 复数名词；不定冠词 une 变 des，名词 idée 加 -s，形容词 intéressante 变阴性复数 intéressantes。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l3-q11",
+          "type": "choice",
+          "prompt": "Quelle phrase présente une personne avec c'est + nom ?",
+          "options": [
+            "Elle est avocate.",
+            "Il est grand.",
+            "C'est une avocate.",
+            "Elle est fatiguée."
+          ],
+          "answer": 2,
+          "translation": "哪一句用 c'est + 名词来指认一个人？",
+          "explain": "C'est une avocate 用 c'est + 名词首次指认身份；Elle est avocate 描述已知者的职业，Il est grand 和 Elle est fatiguée 描述已知者的属性。判断依据是功能：指认新对象还是描述已知对象。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l3-q12",
+          "type": "tiles",
+          "prompt": "Mettez au pluriel : « C'est mon voisin. » → ___",
+          "answer": [
+            "Ce",
+            "sont",
+            "mes",
+            "voisins."
+          ],
+          "bank": [
+            "Ce",
+            "sont",
+            "mes",
+            "voisins.",
+            "C'est",
+            "mon",
+            "voisin.",
+            "leur",
+            "voisine."
+          ],
+          "translation": "这是我的邻居。→ 这些是我的邻居。",
+          "explain": "c'est + 单数名词变 ce sont + 复数名词；主有形容词 mon 随名词变复数 mes，voisin 加 -s 变 voisins。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l3-q13",
+          "type": "choice",
+          "prompt": "Complétez : « C'est mon cousin ; il ___ dix ans et il ___ étudiant. »",
+          "options": [
+            "a / est",
+            "est / a",
+            "a / es",
+            "as / est"
+          ],
+          "answer": 0,
+          "translation": "这是我的表弟；他十岁，是学生。",
+          "explain": "年龄用 avoir：il a dix ans，不能按汉语「是十岁」写成 il est dix ans；职业用 il est + 职业名词，étudiant 前不加冠词。C'est mon cousin 是首次指认，后面的 il 复指同一个人。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l3-q14",
+          "type": "tiles",
+          "prompt": "Mettez tout au pluriel (la fille aussi) : « C'est le journal de la fille. » → ___",
+          "answer": [
+            "Ce",
+            "sont",
+            "les",
+            "journaux",
+            "des",
+            "filles."
+          ],
+          "bank": [
+            "Ce",
+            "sont",
+            "les",
+            "journaux",
+            "des",
+            "filles.",
+            "C'est",
+            "le",
+            "journal",
+            "de la",
+            "fille.",
+            "aux"
+          ],
+          "translation": "这是那个女孩的报纸。→ 这些是那些女孩的报纸。",
+          "explain": "单数指认 c'est 变复数 ce sont；定冠词 le 随阳性名词变 les，journal 的复数是不规则的 journaux（-al 变 -aux）。de la 是介词 de + 定冠词 la，复数时 de + les 缩合为 des，fille 加 -s。冠词、名词和缩合形式必须同时配合，不能只把 c'est 改成 ce sont。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-l4",
+      "title": "强调句 c'est...qui/que",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c08-imperative-emphasis-l4-q1",
+          "type": "choice",
+          "prompt": "Complétez : C'est Paul ___ prépare le dîner.",
+          "options": [
+            "que",
+            "qui",
+            "qu'",
+            "dont"
+          ],
+          "answer": 1,
+          "translation": "是保罗在做晚饭。",
+          "explain": "被强调成分 Paul 在关系从句中作主语，用 qui 引导；que 用于被强调成分作直接宾语，dont 不能直接套入这个结构，qu' 只在元音前省音且这里不需要。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l4-q2",
+          "type": "choice",
+          "prompt": "Complétez : C'est ce film ___ je préfère.",
+          "options": [
+            "qui",
+            "dont",
+            "où",
+            "que"
+          ],
+          "answer": 3,
+          "translation": "我更喜欢的是这部电影。",
+          "explain": "被强调成分 ce film 是 préférer 的直接宾语，用 que 引导关系从句；qui 要求被强调成分作主语，dont 代替 de + 名词，où 作地点或时间状语。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l4-q3",
+          "type": "choice",
+          "prompt": "À l'écrit, complétez : ___ mes parents qui arrivent demain.",
+          "options": [
+            "Ce sont",
+            "C'est",
+            "Il est",
+            "Ils sont"
+          ],
+          "answer": 0,
+          "translation": "明天到的是我父母。",
+          "explain": "被强调成分 mes parents 是复数名词，规范书面语用 ce sont；qui 后的动词 arrivent 也与复数主语配合。C'est 接复数属口语用法，Il est / Ils sont 不能用于这个强调框架。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l4-q4",
+          "type": "choice",
+          "prompt": "Complétez : C'est moi qui ___ raison.",
+          "options": [
+            "a",
+            "as",
+            "ai",
+            "avons"
+          ],
+          "answer": 2,
+          "translation": "有道理的是我。",
+          "explain": "qui 后的动词要与被强调的重读代词人称配合：moi 对应 je，avoir 的第一人称单数是 ai。a 是第三人称单数，as 是 tu，avons 是 nous。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l4-q5",
+          "type": "letters",
+          "prompt": "Complétez : C'est vous qui ___ raison. (avoir)",
+          "answer": "avez",
+          "decoys": [
+            "s",
+            "e",
+            "z"
+          ],
+          "translation": "有道理的是您/你们。",
+          "explain": "被强调的重读代词 vous 决定 qui 后动词的人称，avoir 的 vous 形式是 avez；不能因为 c'est 是单数就写成 a。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l4-q6",
+          "type": "tiles",
+          "prompt": "Mettez en relief le complément d'objet direct : « Je préfère ce livre. » → ___",
+          "answer": [
+            "C'est",
+            "ce",
+            "livre",
+            "que",
+            "je",
+            "préfère."
+          ],
+          "bank": [
+            "C'est",
+            "ce",
+            "livre",
+            "que",
+            "je",
+            "préfère.",
+            "qui",
+            "Ce sont",
+            "cette",
+            "livres.",
+            "préfères"
+          ],
+          "translation": "我更喜欢的是这本书。",
+          "explain": "强调直接宾语 ce livre 用 c'est...que；que 后保留从句主语 je 和变位动词 préfère。不能用 qui，因为 ce livre 不是从句主语；cette / livres 与单数阳性 livre 不配合。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l4-q7",
+          "type": "tiles",
+          "prompt": "Mettez en relief le sujet : « Mes sœurs préparent le dîner. » → ___",
+          "answer": [
+            "Ce",
+            "sont",
+            "mes",
+            "sœurs",
+            "qui",
+            "préparent",
+            "le",
+            "dîner."
+          ],
+          "bank": [
+            "Ce",
+            "sont",
+            "mes",
+            "sœurs",
+            "qui",
+            "préparent",
+            "le",
+            "dîner.",
+            "C'est",
+            "que",
+            "prépare",
+            "des",
+            "dîners."
+          ],
+          "translation": "是我姐妹们在做晚饭。",
+          "explain": "被强调成分 mes sœurs 是复数，用 ce sont...qui；qui 后的动词 préparent 与复数主语 mes sœurs 配合。若用 c'est 则不符合规范书面语的数配合。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-l5",
+      "title": "感叹与口语/标准句式转换",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c08-imperative-emphasis-l5-q1",
+          "type": "choice",
+          "prompt": "Réécrivez en question standard : « Tu vas où ? »",
+          "options": [
+            "Où tu vas ?",
+            "Où vas-tu ?",
+            "Où est-ce que tu vas-tu ?",
+            "Tu vas où ?"
+          ],
+          "answer": 1,
+          "translation": "你去哪儿？",
+          "explain": "规范问句把疑问词 où 移到句首，再用主谓倒装：Où vas-tu ?。选项 0 保留口语词序；选项 2 把 est-ce que 和倒装混用，est-ce que 后不能再倒装；选项 3 仍是口语原句。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l5-q2",
+          "type": "choice",
+          "prompt": "Réécrivez en question standard avec « est-ce que » : « Le film commence quand ? »",
+          "options": [
+            "Quand le film commence ?",
+            "Est-ce que quand le film commence ?",
+            "Quand est-ce que le film commence ?",
+            "Quand est-ce que commence le film-t-il ?"
+          ],
+          "answer": 2,
+          "translation": "电影什么时候开始？",
+          "explain": "疑问词 quand 前置，后接 est-ce que + 陈述词序 le film commence。est-ce que 已经承担疑问标记，后面不能再倒装，所以不能写 commence le film-t-il。选项 0 缺疑问结构，选项 1 把 est-ce que 放到 quand 前。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l5-q3",
+          "type": "choice",
+          "prompt": "Réécrivez en question standard : « Tu cherches qui ? »",
+          "options": [
+            "Qui est-ce que tu cherches ?",
+            "Qui est-ce qui tu cherches ?",
+            "Qui tu cherches ?",
+            "Qu'est-ce que tu cherches ?"
+          ],
+          "answer": 0,
+          "translation": "你在找谁？",
+          "explain": "qui 是 chercher 的直接宾语，问人用 qui est-ce que，后接陈述词序 tu cherches。qui est-ce qui 用于主语疑问；qu'est-ce que 问物；Qui tu cherches ? 缺少 est-ce que 或倒装，属口语词序。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l5-q4",
+          "type": "choice",
+          "prompt": "Réécrivez en question standard : « Tu téléphones à qui ? »",
+          "options": [
+            "À qui tu téléphones ?",
+            "Qui est-ce que tu téléphones à ?",
+            "À qui est-ce qui tu téléphones ?",
+            "À qui est-ce que tu téléphones ?"
+          ],
+          "answer": 3,
+          "translation": "你在给谁打电话？",
+          "explain": "téléphoner 的配价要求介词 à；问人时保留 à 并一起前置，写成 à qui，再用 est-ce que + tu téléphones。选项 0 虽保留了 à qui，但仍是口语词序，缺少 est-ce que 或倒装；规范书面语也不把介词留在句末，所以选项 1 不合适；à qui est-ce qui 把 qui 同时当作介词宾语和主语标记，结构错误。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l5-q5",
+          "type": "choice",
+          "prompt": "Réécrivez en question standard : « C'est quoi, ce document ? »",
+          "options": [
+            "Qui est-ce, ce document ?",
+            "Qu'est-ce que c'est, ce document ?",
+            "Qu'est-ce que ce document est ?",
+            "C'est quoi ce document ?"
+          ],
+          "answer": 1,
+          "translation": "这份文件是什么？",
+          "explain": "问物用 qu'est-ce que c'est；ce document 是后置的话题成分，用逗号隔开。qui est-ce 用来问人；Qu'est-ce que ce document est ? 词序不成立；选项 3 仍是口语原句。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l5-q6",
+          "type": "letters",
+          "prompt": "Réécrivez en question standard : « On va où ? » → Où ___-nous ?",
+          "answer": "allons",
+          "decoys": [
+            "s",
+            "e",
+            "z"
+          ],
+          "translation": "我们去哪儿？",
+          "explain": "口语的 on 在规范改写中改为 nous，这里两者指同一群人，语义人称不变，只是把口语代词换成规范形式；aller 的 nous 现在时是 allons，倒装写作 Où allons-nous ?。原句的 va 是 on 的第三人称单数形式，不能直接搬到 nous 后。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l5-q7",
+          "type": "tiles",
+          "prompt": "Réécrivez en question standard : « Le train part quand ? » → ___",
+          "answer": [
+            "Quand",
+            "est-ce",
+            "que",
+            "le",
+            "train",
+            "part ?"
+          ],
+          "bank": [
+            "Quand",
+            "est-ce",
+            "que",
+            "le",
+            "train",
+            "part ?",
+            "part-il ?",
+            "part-t-il ?",
+            "le train part-il ?",
+            "commence ?"
+          ],
+          "translation": "火车什么时候出发？",
+          "explain": "疑问词 quand 前置，后接 est-ce que + 陈述词序 le train part。est-ce que 后不再倒装，所以不用 part-il / part-t-il；名词主语 le train 保持在动词前。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l5-q8",
+          "type": "choice",
+          "prompt": "Réécrivez en exclamation standard : « Il est vachement gentil ! »",
+          "options": [
+            "Qu'il soit gentil !",
+            "Qu'est-ce qu'il est gentil !",
+            "Quil est gentil !",
+            "Qu'il est gentil !"
+          ],
+          "answer": 3,
+          "translation": "他多好啊！",
+          "explain": "规范感叹用 que + 主语 + 谓语：Qu'il est gentil !。que 在 il 前必须省音为 qu'，写成 Quil 缺撇号，是拼写错误；vachement 是口语程度词，改写时删去，程度意义由 que 承担。que 后不用虚拟式；qu'est-ce que 感叹属口语语域。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l5-q9",
+          "type": "tiles",
+          "prompt": "Réécrivez en exclamation standard avec « comme » : « Il conduit super vite ! » → ___",
+          "answer": [
+            "Comme",
+            "il",
+            "conduit",
+            "vite !"
+          ],
+          "bank": [
+            "Comme",
+            "il",
+            "conduit",
+            "vite !",
+            "Qu'il",
+            "conduit-il",
+            "conduis",
+            "vite."
+          ],
+          "translation": "他开得超快！",
+          "explain": "comme 置于句首，后接主语 il 和变位动词 conduit，语序与陈述句相同；super 是口语程度词，改写时删去，程度意义由 comme 承担。comme 后不倒装，所以不用 conduit-il。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l5-q10",
+          "type": "choice",
+          "prompt": "Réécrivez en exclamation standard : « C'est fou ce qu'elle travaille bien ! »",
+          "options": [
+            "Qu'elle travaille bien ?",
+            "Qu'est-ce qu'elle travaille bien !",
+            "Qu'elle soit travaille bien !",
+            "Qu'elle travaille bien !"
+          ],
+          "answer": 3,
+          "translation": "她工作得多好啊！",
+          "explain": "口语框架 c'est fou ce que 在规范改写中删去，改用 que + 主语 elle + 动词 travaille + 程度副词 bien；感叹句用感叹号。qu'est-ce que 版本属口语语域；que 后不用虚拟式，选项 2 还多出动词 soit，结构错误。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l5-q11",
+          "type": "tiles",
+          "prompt": "Réécrivez en exclamation standard avec « comme » : « Nous sommes vachement contents ! » → ___",
+          "answer": [
+            "Comme",
+            "nous",
+            "sommes",
+            "contents !"
+          ],
+          "bank": [
+            "Comme",
+            "nous",
+            "sommes",
+            "contents !",
+            "Qu'il",
+            "vous",
+            "êtes",
+            "content",
+            "vachement"
+          ],
+          "translation": "我们多开心啊！",
+          "explain": "comme 置于句首，后接主语 nous、变位动词 sommes 和形容词 contents，语序与陈述句相同；vachement 是口语程度词，规范改写中删去，程度意义由 comme 承担。主语 nous 在这里用默认阳性复数 contents；comme 后不倒装。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l5-q12",
+          "type": "choice",
+          "prompt": "Réécrivez en exclamation standard : « Il est difficile de choisir. »",
+          "options": [
+            "Comme il est difficile de choisir !",
+            "Comme il est difficile choisir !",
+            "Comme est-il difficile de choisir !",
+            "Qu'il est difficile de choisir ?"
+          ],
+          "answer": 0,
+          "translation": "做选择很难。→ 做选择多难啊！",
+          "explain": "comme 引出整句感叹，后接主语 il、动词 est 和形容词 difficile；不定式补语 choisir 前的 de 必须保留。comme 后不倒装，所以 est-il 错误；感叹句要用感叹号，问号会改变交际功能；difficile de choisir 中的 de 也不能省。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-l5-q13",
+          "type": "tiles",
+          "prompt": "Réécrivez en question standard : « Tu invites qui à la fête ? » → ___",
+          "answer": [
+            "Qui",
+            "est-ce",
+            "que",
+            "tu",
+            "invites",
+            "à",
+            "la",
+            "fête ?"
+          ],
+          "bank": [
+            "Qui",
+            "est-ce",
+            "que",
+            "tu",
+            "invites",
+            "à",
+            "la",
+            "fête ?",
+            "Qui est-ce qui",
+            "invitons",
+            "invitez",
+            "aux",
+            "fêtes ?"
+          ],
+          "translation": "你邀请谁参加聚会？",
+          "explain": "qui 是 inviter 的直接宾语，问人用 qui est-ce que，后接陈述词序 tu invites，介词短语 à la fête 保持原位。qui est-ce qui 用于主语疑问；qu'est-ce que 问物；est-ce que 后不能再倒装，所以不用 invites-tu。"
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "pub-c08-imperative-emphasis-x1",
+      "title": "综合：命令式的形式、去 s 与否定",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c08-imperative-emphasis-x1-q1",
+          "type": "choice",
+          "prompt": "Complétez : ___ la boîte, elle est fermée. (ouvrir, tu)",
+          "options": [
+            "Ouvres",
+            "Ouvrez",
+            "Ouvrir",
+            "Ouvre"
+          ],
+          "answer": 3,
+          "translation": "把盒子打开，它是关着的。",
+          "explain": "ouvrir 的 tu 现在时是 ouvres，命令式删去词尾 s，写成 Ouvre；ouvrir 虽以 -ir 结尾，却和第一组动词一样去 s，这是需要单独记住的特例。Ouvrez 是 vous 形式，Ouvrir 是不定式，Ouvres 是直陈式 tu 形式，都不能填入 tu 的命令式。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x1-q2",
+          "type": "choice",
+          "prompt": "Complétez : ___ pas peur, je suis là ! (avoir, tu)",
+          "options": [
+            "Ne aie",
+            "N'aie",
+            "N'ayes",
+            "N'ayez"
+          ],
+          "answer": 1,
+          "translation": "别怕，我在！",
+          "explain": "avoir 的 tu 命令式是 aie，与现在时 as 不同；否定命令式用 ne...pas 包住动词，ne 在 aie 前省音为 n'，写成 N'aie pas peur。N'ayez 是 vous 形式，N'ayes 多加了 s，Ne aie 没有省音。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x1-q3",
+          "type": "choice",
+          "prompt": "Complétez : ___ vite, le train part ! (aller, tu)",
+          "options": [
+            "Vas",
+            "Vais",
+            "Va",
+            "Allez"
+          ],
+          "answer": 2,
+          "translation": "快走，火车要开了！",
+          "explain": "aller 的 tu 现在时是 vas，命令式去掉 s，写成 va；aller 虽属第三组，tu 命令式仍按去 s 处理。Vas 保留了现在时的 s，Vais 是第一人称单数，Allez 是 vous 形式。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x1-q4",
+          "type": "choice",
+          "prompt": "Complétez : ___ ces exercices avant midi. (faire, vous)",
+          "options": [
+            "Faites",
+            "Fait",
+            "Faisez",
+            "Fais"
+          ],
+          "answer": 0,
+          "translation": "中午之前把这些练习做完。",
+          "explain": "faire 的 vous 现在时是 faites，命令式直接取该形式并删去主语 vous；它是不规则词干，不能按 -er 规则写成 faisez。Fait 是 il 形式，Fais 是 tu 形式，都与 vous 不匹配。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x1-q5",
+          "type": "letters",
+          "prompt": "Complétez : ___ un cadeau à votre mère. (offrir, vous)",
+          "answer": "Offrez",
+          "decoys": [
+            "s",
+            "t",
+            "a"
+          ],
+          "translation": "给您母亲送一份礼物。",
+          "explain": "offrir 的 vous 现在时是 offrez，命令式与现在时同形；offrir 的 tu 形式 offre 按 -es 去 s，但 vous 形式不涉及去 s。答案位于句首，首字母大写为 O，词尾保留 -ez。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x1-q6",
+          "type": "letters",
+          "prompt": "Complétez : ___ ton manteau, il fait froid. (prendre, tu)",
+          "answer": "Prends",
+          "decoys": [
+            "t",
+            "e",
+            "z"
+          ],
+          "translation": "穿上外套，天冷。",
+          "explain": "prendre 的 tu 现在时是 prends，命令式保留词尾 s，因为 prendre 不属于第一组动词，不适用去 s 规则。不能写成 prent 或 pren。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x1-q7",
+          "type": "letters",
+          "prompt": "Complétez : ___ patients, le médecin arrive. (être, vous)",
+          "answer": "Soyez",
+          "decoys": [
+            "s",
+            "e",
+            "t"
+          ],
+          "translation": "耐心点，医生马上来。",
+          "explain": "être 的 vous 命令式是 soyez，与现在时 êtes 完全不同，需要独立记忆；形容词 patients 在这里用默认阳性复数。不能按现在时写成 êtes。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x1-q8",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Parle à ton frère. » → ___",
+          "answer": [
+            "Ne",
+            "parle",
+            "pas",
+            "à",
+            "ton",
+            "frère."
+          ],
+          "bank": [
+            "Ne",
+            "parle",
+            "pas",
+            "à",
+            "ton",
+            "frère.",
+            "parles",
+            "parlez",
+            "n'",
+            "frères."
+          ],
+          "translation": "跟你兄弟说话。→ 别跟你兄弟说话。",
+          "explain": "parler 的 tu 命令式去掉现在时词尾 s，写作 parle；否定时 ne 在动词前、pas 在其后，写成 Ne parle pas。介词短语 à ton frère 保持原样，不能因为否定而改动。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x1-q9",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative : « Fais cela. » → ___",
+          "answer": [
+            "Ne",
+            "fais",
+            "pas",
+            "cela."
+          ],
+          "bank": [
+            "Ne",
+            "fais",
+            "pas",
+            "cela.",
+            "fait",
+            "faites",
+            "n'",
+            "ceci."
+          ],
+          "translation": "做这个。→ 别做这个。",
+          "explain": "faire 的 tu 命令式是 fais，词尾本来就有 s，不适用第一组动词的去 s 规则；否定词夹住 fais：Ne fais pas。指示代词 cela 作直接宾语，放在 pas 之后，形式不变。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x1-q10",
+          "type": "tiles",
+          "prompt": "Réécrivez à la forme négative (nous) : « Nous sortons ce soir. » → ___",
+          "answer": [
+            "Ne",
+            "sortons",
+            "pas",
+            "ce",
+            "soir."
+          ],
+          "bank": [
+            "Ne",
+            "sortons",
+            "pas",
+            "ce",
+            "soir.",
+            "sortez",
+            "sors",
+            "n'",
+            "soirs."
+          ],
+          "translation": "我们今晚出去。→ 我们今晚别出去。",
+          "explain": "nous 的命令式取现在时 nous 形式 sortons 并删去主语 nous；否定时 ne 在 sortons 前、pas 在其后，时间状语 ce soir 不变。sortez 是 vous 形式，sors 是 tu 形式。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x1-q11",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif (vous) : « Vous n'avez pas peur et vous dites la vérité. » → ___",
+          "answer": [
+            "N'ayez",
+            "pas",
+            "peur",
+            "et",
+            "dites",
+            "la",
+            "vérité."
+          ],
+          "bank": [
+            "N'ayez",
+            "pas",
+            "peur",
+            "et",
+            "dites",
+            "la",
+            "vérité.",
+            "Ayez",
+            "avez",
+            "disez",
+            "dis",
+            "vérités."
+          ],
+          "translation": "你们不害怕，而且说真话。→ 别害怕，说实话。",
+          "explain": "avoir 的 vous 命令式是 ayez，ne 在元音前省音为 n'，写成 N'ayez pas peur；dire 的 vous 命令式是不规则的 dites，不能写成 disez。两个命令式由 et 并列，否定只包住第一个动词，第二个保持肯定形式。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-x2",
+      "title": "综合：指认、分裂句与句式改写",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c08-imperative-emphasis-x2-q1",
+          "type": "choice",
+          "prompt": "Complétez en registre standard : ___ mes voisins qui organisent la fête.",
+          "options": [
+            "C'est",
+            "Ce sont eux",
+            "Ce sont",
+            "Il est"
+          ],
+          "answer": 2,
+          "translation": "是我的邻居们筹办这场聚会。",
+          "explain": "被强调的是原句的复数主语 mes voisins，规范书面语用 ce sont；强调主语用 qui 引导关系从句，从句动词 organisent 与 mes voisins 保持第三人称复数一致。C'est 在口语中可接复数，但规范书面语按数配合；Ce sont eux 后不能直接再跟名词主语；Il est 不用于这种分裂结构。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x2-q2",
+          "type": "choice",
+          "prompt": "Complétez en registre standard : ___ ces livres que je cherche.",
+          "options": [
+            "C'est",
+            "Ce sont les",
+            "Il est",
+            "Ce sont"
+          ],
+          "answer": 3,
+          "translation": "我找的是这些书。",
+          "explain": "被强调的是复数直接宾语 ces livres，规范书面语用 ce sont；强调宾语用 que 引导关系从句，que 在从句中作 chercher 的直接宾语。C'est 与复数名词的规范配合不符；Ce sont les 会多出冠词；Il est 不能用于分裂句。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x2-q3",
+          "type": "choice",
+          "prompt": "Complétez : Voici Mme Leroy. ___ notre nouvelle directrice ; ___ très sympathique.",
+          "options": [
+            "Elle est / c'est",
+            "C'est / elle est",
+            "C'est / c'est",
+            "Ce sont / elles sont"
+          ],
+          "answer": 1,
+          "translation": "这是勒鲁瓦女士。她是我们的新主任；她很和蔼。",
+          "explain": "第一空用 c'est + 名词短语指认人物；第二空描述已经确定的第三人称女性，用 elle est + 形容词，不用 c'est。directrice 是阴性名词，sympathique 为通性形容词；Ce sont / elles sont 与单数 Mme Leroy 不匹配。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x2-q4",
+          "type": "choice",
+          "prompt": "Complétez en registre standard : — ___ ? — ___ des photos de vacances.",
+          "options": [
+            "Qu'est-ce que c'est / Ce sont",
+            "Qui est-ce / Ce sont",
+            "Qu'est-ce que c'est / C'est",
+            "Qu'est-ce que ce sont / Ce sont"
+          ],
+          "answer": 0,
+          "translation": "——这是什么？——是一些度假照片。",
+          "explain": "问物用固定的 qu'est-ce que c'est，即使答句是复数也不改成 ce sont；答句的表语是复数名词 des photos，规范书面语用 ce sont 指认。Qui est-ce 问人；答句用 C'est 与复数表语不配合；Qu'est-ce que ce sont 不是规范问法。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x2-q5",
+          "type": "choice",
+          "prompt": "Réécrivez en exclamation standard avec « comme » : « C'est incroyable comme elle chante bien ! »",
+          "options": [
+            "Qu'elle chante bien !",
+            "Comme elle chante bien ?",
+            "Comme elle chante bien !",
+            "Comme elle soit chante bien !"
+          ],
+          "answer": 2,
+          "translation": "她唱得多好啊！",
+          "explain": "口语框架 c'est incroyable comme 在规范改写中删去，改用 comme + 主语 elle + 动词 chante + 程度副词 bien，感叹意义由 comme 承担，句末用感叹号。原句用 comme，改写也保留 comme；问号会改变交际功能；comme 后不用虚拟式，选项 3 还多出动词 soit，结构错误。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x2-q6",
+          "type": "choice",
+          "prompt": "Réécrivez avec « comme » : « Elles sont vachement fortes en maths ! »",
+          "options": [
+            "Comme ils sont fortes en maths !",
+            "Comme elles sont fortes en maths !",
+            "Comme elles sont fort en maths !",
+            "Comme sont-elles fortes en maths !"
+          ],
+          "answer": 1,
+          "translation": "她们数学超强！",
+          "explain": "comme 置于句首，后接主语 elles、动词 sont 和形容词 fortes，语序与陈述句相同；fortes 与 elles 保持阴性复数配合。vachement 是口语程度词，规范改写中删去。ils 与 elles 性别不符；fort 缺阴性复数词尾；comme 后不倒装。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x2-q7",
+          "type": "tiles",
+          "prompt": "Réécrivez en phrase clivée (registre standard) : « Ces enfants ont besoin d'aide. » → ___",
+          "answer": [
+            "Ce",
+            "sont",
+            "ces",
+            "enfants",
+            "qui",
+            "ont",
+            "besoin",
+            "d'aide."
+          ],
+          "bank": [
+            "Ce",
+            "sont",
+            "ces",
+            "enfants",
+            "qui",
+            "ont",
+            "besoin",
+            "d'aide.",
+            "C'est",
+            "que",
+            "a",
+            "besoins.",
+            "enfant"
+          ],
+          "translation": "这些孩子需要帮助。→ 需要帮助的是这些孩子。",
+          "explain": "原句主语 ces enfants 是复数，分裂句用 ce sont；强调主语用 qui 引导关系从句，从句动词 ont 与 ces enfants 保持第三人称复数一致。不能用 C'est（口语可接受，规范书面语按数配合），也不能用强调宾语的 que。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x2-q8",
+          "type": "tiles",
+          "prompt": "Réécrivez en question standard : « Tu parles à qui ? » → ___",
+          "answer": [
+            "À",
+            "qui",
+            "est-ce",
+            "que",
+            "tu",
+            "parles ?"
+          ],
+          "bank": [
+            "À",
+            "qui",
+            "est-ce",
+            "que",
+            "tu",
+            "parles ?",
+            "Qui",
+            "quoi",
+            "est-ce qui",
+            "parle",
+            "à"
+          ],
+          "translation": "你在跟谁说话？",
+          "explain": "parler à 的介词 à 必须保留，并与问人的 qui 一起前置为 à qui；规范问句用 est-ce que + 陈述词序 tu parles。不能把介词留在句末，也不能用问物的 quoi；qui 已在介词后作宾语，不能再套 est-ce qui。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x2-q9",
+          "type": "tiles",
+          "prompt": "Réécrivez en exclamation standard avec « comme » : « Elles chantent vachement bien ! » → ___",
+          "answer": [
+            "Comme",
+            "elles",
+            "chantent",
+            "bien !"
+          ],
+          "bank": [
+            "Comme",
+            "elles",
+            "chantent",
+            "bien !",
+            "Qu'elles",
+            "ils",
+            "chante",
+            "vachement",
+            "bien."
+          ],
+          "translation": "她们唱得超好！",
+          "explain": "comme 置于句首，后接主语 elles、变位动词 chantent 和程度副词 bien，语序与陈述句相同；vachement 是口语程度词，规范改写中删去，程度意义由 comme 承担。主语是 elles，不能用 ils；动词 chantent 要与 elles 配合；感叹句用感叹号。"
+        },
+        {
+          "id": "pub-c08-imperative-emphasis-x2-q10",
+          "type": "letters",
+          "prompt": "Complétez : Ce sont mes parents qui ___ demain. (arriver)",
+          "answer": "arrivent",
+          "decoys": [
+            "s",
+            "e",
+            "z"
+          ],
+          "translation": "明天来的是我父母。",
+          "explain": "ce sont 与复数表语 mes parents 配合；关系代词 qui 在从句中作主语，指代 mes parents，因此 arriver 用第三人称复数 arrivent。不能因为先行词在 qui 前就误用单数 arrive。"
+        }
+      ]
+    }
+  ]
+}

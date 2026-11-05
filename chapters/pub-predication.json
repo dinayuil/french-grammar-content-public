@@ -12,11 +12,6 @@
       "id": "pub-predication-c2",
       "title": "Avoir：拥有、年龄与固定搭配",
       "body": "avoir 的现在时是 j'ai, tu as, il/elle/on a, nous avons, vous avez, ils/elles ont。法语用 avoir 说年龄：J'ai vingt ans。它还出现在 avoir besoin de、avoir le droit de 等固定搭配中。"
-    },
-    {
-      "id": "pub-predication-c4",
-      "title": "C'est, ce sont, il est, il y a",
-      "body": "c'est 后接单数名词、名字或评价；ce sont 后接复数名词；il est 后接形容词或职业，职业前通常不加冠词；il y a 表示“有、存在”，后面可接单数或复数名词。"
     }
   ],
   "lessons": [
@@ -72,107 +67,56 @@
           ]
         }
       ]
-    },
-    {
-      "id": "pub-predication-l5",
-      "title": "指认与存在：c'est, ce sont, il est, il y a",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-predication-l5-q1",
-          "prompt": "Regarde, ___ mon ami Luc.（指认）",
-          "translation": "看，这是我的朋友吕克。",
-          "explain": "c'est 用来指认单数的人；ce sont 用于复数。il est 后通常不直接接带冠词的名词（如习惯说 c'est un médecin），但这不是绝对禁令；本题是指认，所以用 c'est。il y a 表示存在。",
-          "type": "choice",
-          "options": [
-            "c'est",
-            "il est",
-            "il y a",
-            "ce sont"
-          ],
-          "answer": 0
-        },
-        {
-          "id": "pub-predication-l5-q2",
-          "prompt": "Ces deux garçons ? ___ des étudiants de Lyon.（标准书面）",
-          "translation": "他们是里昂来的学生。",
-          "explain": "des étudiants 是复数名词，标准书面指认用 ce sont；口语中可能听到 C'est des étudiants，但本题要求标准书面。",
-          "type": "choice",
-          "options": [
-            "C'est",
-            "Il y a",
-            "Il est",
-            "Ce sont"
-          ],
-          "answer": 3
-        },
-        {
-          "id": "pub-predication-l5-q6",
-          "prompt": "用词块组成句子：这是一个好主意。要求以 C'est 开头（句首大写），句末加句号。",
-          "translation": "这是一个好主意。",
-          "explain": "c'est + 单数名词；idée 是阴性单数，用 une 和 bonne。",
-          "type": "tiles",
-          "answer": [
-            "C'est",
-            "une",
-            "bonne",
-            "idée."
-          ],
-          "bank": [
-            "C'est",
-            "une",
-            "bonne",
-            "idée.",
-            "Ce sont",
-            "un",
-            "il y a"
-          ]
-        }
-      ]
     }
   ],
   "challenges": [
     {
       "id": "pub-predication-x1",
-      "title": "综合挑战：在语境中选择",
+      "title": "主语配合综合",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
         {
-          "id": "pub-predication-x1-q4",
-          "prompt": "___ une question difficile, mais je vais essayer.（评价）",
-          "translation": "这是个难题，但我会试试。",
-          "explain": "c'est 后接单数名词 une question，用来评价或指认；il est 后通常接形容词或职业，通常不直接接带冠词的名词，但并非绝对禁令。本题是评价，用 c'est。",
+          "id": "pub-predication-x1-q1",
+          "prompt": "Marie est ___.",
+          "translation": "玛丽很高兴。",
+          "explain": "Marie 是阴性单数，heureux 的阴性单数是 heureuse。",
           "type": "choice",
           "options": [
-            "Il est",
-            "Ce sont",
-            "Il y a",
-            "C'est"
+            "heureuse",
+            "heureux",
+            "heureuses",
+            "heureuxs"
           ],
-          "answer": 3
+          "answer": 0
         },
         {
-          "id": "pub-predication-x1-q8",
-          "prompt": "用词块组成句子：他们是我的父母。要求以 Ce sont 开头（标准书面，句首大写），句末加句号。",
-          "translation": "他们是我的父母。",
-          "explain": "复数名词 parents 前标准书面用 ce sont；口语中可能听到 C'est mes parents，但本题按标准书面。",
+          "id": "pub-predication-x1-q2",
+          "prompt": "Ils sont ___.",
+          "translation": "他们准备好了。",
+          "explain": "ils 是阳性复数，prêt 的复数是 prêts；命令式/配合题中不要写成 prêt。",
+          "type": "letters",
+          "answer": "prêts"
+        },
+        {
+          "id": "pub-predication-x1-q3",
+          "prompt": "用词块组成句子：我们很高兴。要求以 Nous 开头（句首大写），句末加句号。",
+          "translation": "我们很高兴。",
+          "explain": "nous 的 être 形式是 sommes；heureux 的阴性复数是 heureuses。",
           "type": "tiles",
           "answer": [
-            "Ce",
-            "sont",
-            "mes",
-            "parents."
+            "Nous",
+            "sommes",
+            "heureuses",
+            "."
           ],
           "bank": [
-            "Ce",
-            "sont",
-            "mes",
-            "parents.",
-            "C'est",
-            "est",
-            "des"
+            "Nous",
+            "sommes",
+            "heureuses",
+            "heureux",
+            "êtes",
+            "."
           ]
         }
       ]

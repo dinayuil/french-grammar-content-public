@@ -22,11 +22,6 @@
       "id": "pub-agreement-card-articles",
       "title": "冠词与名词配合",
       "body": "冠词要和名词的性、数一致：\n• 不定冠词：un livre / une revue / des livres。\n• 定冠词：le livre / la revue / les livres。\n• 部分冠词：du pain / de la soupe / de l'eau / des légumes。\n\n省音与缩合：\n• 元音或哑音 h 前，le / la → l'：l'ami、l'école、l'hôtel；de + le → du，de + les → des；à + le → au，à + les → aux。\n• 否定句中，部分冠词和不定冠词通常变为 de / d'：Je bois du café. → Je ne bois pas de café.\n\n注意：表示职业时，être 后常不用冠词（Il est professeur），但 c'est 后要用（C'est un professeur）。"
-    },
-    {
-      "id": "pub-agreement-card-position",
-      "title": "形容词的位置、特殊形式与反义",
-      "body": "位置：\n• 常放在名词前的短形容词：grand、petit、jeune、vieux、beau、joli、bon、mauvais、nouveau、gros、haut、long、large、premier、dernier、prochain。\n• 通常后置：颜色、国籍、形状、分词，以及较长的形容词：une voiture rouge、une étudiante française、une table ronde、un livre intéressant。\n\n位置改变意义：\n• un grand homme（伟人）/ un homme grand（高个子男人）\n• un pauvre homme（可怜的人）/ un homme pauvre（穷人）\n• un ancien professeur（前任教师）/ un monument ancien（古老的纪念碑）\n• le même livre（同一本书）/ le livre même（书本身）\n• sa propre chambre（他自己的房间）/ une chambre propre（干净的房间）\n• un cher ami（亲爱的朋友）/ un livre cher（昂贵的书）\n\nbeau / nouveau / vieux 的阳性单数在元音或哑音 h 前变为 bel / nouvel / vieil：un bel homme、un nouvel élève、un vieil ami、un bel hôtel。复数仍为 beaux / nouveaux / vieux。注意哑音 h 与嘘音 h：un bel hôtel，但 un beau héros。\n\n常见反义：grand / petit、beau / laid、jeune / vieux、long / court、chaud / froid、bon / mauvais、riche / pauvre、lourd / léger、propre / sale、ouvert / fermé、heureux / triste、facile / difficile、rapide / lent、fort / faible、doux / dur、plein / vide、vrai / faux、premier / dernier、large / étroit。"
     }
   ],
   "lessons": [
@@ -385,28 +380,6 @@
           ],
           "translation": "学生们去博物馆。",
           "explain": "au = à + le；musée 是阳性单数。不能写成 à le musée。"
-        }
-      ]
-    },
-    {
-      "id": "pub-agreement-l7",
-      "title": "形容词的位置与意义",
-      "kind": "lesson",
-      "source": "原创练习，待人工审校",
-      "questions": [
-        {
-          "id": "pub-agreement-l7-q5",
-          "type": "choice",
-          "prompt": "Quelle expression signifie « 同一本书 » ?",
-          "options": [
-            "le livre même",
-            "le même livre",
-            "la même livre",
-            "les même livre"
-          ],
-          "answer": 1,
-          "translation": "哪一表达表示「同一本书」？",
-          "explain": "même 放在名词前表示「同一个」：le même livre；le livre même 表示「书本身」。"
         }
       ]
     },

@@ -1,0 +1,1711 @@
+{
+  "id": "pub-c04-determiners",
+  "title": "指示、主有与数量限定",
+  "titleFr": "Les déterminants démonstratifs, possessifs et quantificateurs",
+  "cards": [
+    {
+      "id": "pub-c04-determiners-card-u1-1",
+      "title": "指示限定词的基本性数：ce / cette / ces",
+      "body": "指示限定词的形式由被限定名词的性和数决定，与说话人无关。\n\n- 阳性单数：ce（元音或哑音 h 开头时改用 cet，见下一张卡）。例：ce livre（这本书）、ce garçon（这个男孩）。\n- 阴性单数：cette。例：cette table（这张桌子）、cette fille（这个女孩）。\n- 复数：ces，不分阴阳。例：ces livres（这些书）、ces tables（这些桌子）。\n\n指示限定词用于现场指认或回指已知对象：Prenez ce document.（请拿这份文件。）Ce livre est intéressant.（这本书很有趣。）\n\n边界：阳性单数若以元音或哑音 h 开头，不用 ce，而用 cet（见下一张卡）。不要把 ces 与同音的 ses 混用：ces 是指示，ses 是主有，必须看语境里有没有明确的主有者。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u1-2",
+      "title": "阳性单数元音或哑音 h 前用 cet",
+      "body": "阳性单数名词以元音或哑音 h 开头时，指示限定词用 cet，不能用 ce。\n\n- cet arbre（这棵树）、cet enfant（这个孩子）、cet homme（这个男人，h 为哑音）、cet hôtel（这家酒店，h 为哑音）。\n- 阴性单数仍用 cette，即使以元音开头：cette école（这所学校）、cette amie（这位女性朋友）、cette idée（这个主意）。\n- 复数一律 ces：ces arbres、ces écoles、ces hommes。\n\n判断顺序：先定性和数，再看阳性单数是否以元音或哑音 h 开头；cet 只出现在阳性单数。\n\n边界：嘘音 h 开头的词按辅音处理，用 ce，不用 cet：ce héros（这位英雄）。哑音 h 与嘘音 h 属于词条知识，遇到新词要查证。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u2-1",
+      "title": "复合形式：ce ... -ci / ce ... -là",
+      "body": "在简单指示限定词后加 -ci（近指）或 -là（远指、回指），就得到复合形式。名词的性和数仍决定前面的简单形式：ce livre-ci、cette femme-ci、ces enfants-ci；ce livre-là、cette femme-là、ces enfants-là。\n\n-ci 强调离说话人近或当前一方，-là 强调较远或已提到的一方。例：Ce livre-ci est à moi, ce livre-là est à toi.（这本是我的，那本是你的。）\n\n口语里 -là 的使用面更宽，常只起强调或回指作用，不一定真的表示远距离；不要只按空间距离机械理解。\n\n时间名词搭配 -ci/-là 表示时段对照，不按空间距离理解：ces jours-ci（这几天）、ces jours-là（那些日子）、ce matin-là（那天早上）。\n\n边界：-ci/-là 不改变名词的性和数，也不能补救前面 ce/cette/ces 的选择错误。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u3-1",
+      "title": "单数主有者的三组形式：mon/ma/mes、ton/ta/tes、son/sa/ses",
+      "body": "主有形容词由两个信息决定：主有者的人称，以及被拥有名词的性和数。\n\n- 阳性单数：mon / ton / son。例：mon livre（我的书）、ton stylo（你的笔）、son frère（他的或她的兄弟）。\n- 阴性单数：ma / ta / sa。例：ma table（我的桌子）、ta chaise（你的椅子）、sa sœur（他的或她的姐妹）。\n- 复数（阴阳同形）：mes / tes / ses。例：mes livres（我的书）、tes clés（你的钥匙）、ses chats（他的或她的猫）。\n\n人称随主有者：je → mon/ma/mes；tu → ton/ta/tes；il/elle → son/sa/ses。阴阳和单复数随名词：son frère / sa sœur / ses frères / ses sœurs。\n\n主有者的性别不参与选形。例：Marie aime son frère.（玛丽爱她的兄弟。名词 frère 是阳性单数，所以用 son，与玛丽是女性无关。）Paul aime sa sœur.（保罗爱他的姐妹。名词 sœur 是阴性单数，所以用 sa。）\n\n边界：本卡只处理单数主有者；主有者为 nous、vous、ils/elles 时用 notre/votre/leur 等，见下一单元。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u3-2",
+      "title": "先找主有者，再看名词：跨句判断与常见错误",
+      "body": "做题时按三步判断：\n\n1. 找主有者，确定人称：je、tu、il/elle。\n2. 看被拥有名词的性和数，选 mon/ma/mes、ton/ta/tes 或 son/sa/ses。\n3. 核对是否误用了主有者的性别；主有者性别不影响词形。\n\n跨句时先在前文找到主有者。例：Paul a une sœur. Sa sœur est médecin.（保罗有一个姐妹。他的姐妹是医生。）Marie a un frère. Son frère travaille à Lyon.（玛丽有一个兄弟。她的兄弟在里昂工作。）Léa a deux chats. Ses chats sont noirs.（莱娅有两只猫。她的猫是黑色的。）\n\n边界：不要只凭名词词尾 -s 判断复数：mon pays（我的国家）、ton cours（你的课）都是单数。阴性单数若以元音或哑音 h 开头，要改用 mon/ton/son，这条规则在下一单元处理；本单元的例子都用辅音开头的阴性名词。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u4-1",
+      "title": "复数主有者：notre/votre/leur 与 nos/vos/leurs",
+      "body": "主有形容词的人称由主有者决定，单复数形式却由被拥有的名词决定。主有者是“我们、你们、他们”时，仍要再看名词是单数还是复数。\n\n- 单数名词用 notre / votre / leur：Notre maison est grande.（我们的房子很大。）Vous aimez votre jardin.（你们喜欢你们的花园。）Ils invitent leur voisin.（他们邀请他们的邻居。）\n- 复数名词用 nos / vos / leurs：Nos enfants sont petits.（我们的孩子还小。）Vos livres sont sur la table.（你们的书在桌上。）Leurs amies arrivent demain.（他们的女性朋友明天到。）\n\n要点：这三个形式不随名词的阴阳性变化；主有者是男是女、是一个人还是几个人，也不改变形式。例如 Marie et Paul aiment leur voiture.（玛丽和保罗喜欢他们的车。）voiture 是单数，主有者虽是两个人，仍用 leur。\n\n边界：leur 作主有形容词时只配单数名词，leurs 只配复数名词；不要把“主有者复数”误当成“名词复数”，也不要把主有代词与这里的限定词混为一谈。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u4-2",
+      "title": "阴性单数遇元音或哑音 h：改用 mon/ton/son",
+      "body": "主有形容词仍按被拥有名词的性数选形，但有一条语音调整：阴性单数名词如果以元音或哑音 h 开头，ma/ta/sa 换成 mon/ton/son。\n\n- une amie → mon amie（不能说 ma amie）\n- une école → ton école\n- une idée → son idée\n- une habitude → mon habitude（habitude 的 h 是哑音 h）\n\n例：Mon amie française habite à Lyon.（我的法国女性朋友住在里昂。）Ton école est près du parc.（你的学校在公园附近。）\n\n要点：换的只是词形，名词的语法性不变：mon amie 仍是阴性名词，后面仍用阴性形容词。不能因为看到 mon 就判断名词是阳性。\n\n边界：辅音开头的阴性单数仍用 ma/ta/sa：ma maison、ta classe、sa sœur。嘘音 h 前也不换：ma haine。阳性单数本来就用 mon/ton/son，与这条规则无关。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u4-3",
+      "title": "主有限定词的判断顺序与常见错误",
+      "body": "遇到主有限定词，按三步判断：\n\n1. 找主有者，确定人称（je、tu、il/elle、nous、vous、ils/elles）。\n2. 找被拥有名词，确定单数还是复数。\n3. 需要时再看名词的阴阳性与首音。\n\n对照：\n- je + maison（阴性单数）→ ma maison\n- je + école（阴性单数、元音开头）→ mon école\n- nous + voiture（阴性单数）→ notre voiture\n- ils + voitures（阴性复数）→ leurs voitures\n- tu + livres（阳性复数）→ tes livres\n\n例：Je cherche mon père.（我在找我父亲。）Tu regardes ta sœur.（你看着你妹妹。）Nous aimons notre maison.（我们喜欢我们的房子。）Ils lavent leurs voitures.（他们洗他们的车。）\n\n常见错误：\n1. 按主有者性别选 mon/ma：主有者是女性也可以用 mon（mon père），是男性也可以用 ma（ma mère）。\n2. 按主有者人数选单复数：nous 有两个人以上，但 notre maison 仍是单数。\n3. 元音开头的阴性名词仍写 ma：ma amie 不合法，应为 mon amie。\n4. 把 leur 用在复数名词：leur livres 错，应为 leurs livres。\n\n边界：本卡只处理主有形容词的选择；主有代词等其他主有关系形式不在本课范围。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u5-1",
+      "title": "指示限定词 ce/cet/cette/ces：先看性数，再看首音",
+      "body": "指示限定词指出“这个、那个”，形式由名词的性和数决定，复数不分性别。\n\n- 阳性单数：ce。ce livre、ce garçon。\n- 阳性单数且以元音或哑音 h 开头：cet。cet ami、cet homme、cet hôtel。\n- 阴性单数：cette。cette table、cette amie、cette école。\n- 复数（阴阳同形）：ces。ces livres、ces tables、ces amis。\n\n例：Ce livre est intéressant.（这本书很有意思。）Cet ami habite à Paris.（这位朋友住在巴黎。）Cette école est fermée.（这所学校关门了。）Ces étudiants travaillent ensemble.（这些学生一起学习。）\n\n要点：cet 只用于阳性单数。阴性单数即使以元音开头也用 cette（cette amie，不是 cet amie）。ces 只表示复数，不表示性别。用法上，它既可以现场指认（Ce livre, ici, est à moi. 这本书，在这里，是我的。），也可以回指上文（Je lis un livre ; ce livre est passionnant. 我在读一本书；这本书很精彩。）。\n\n边界：嘘音 h 前不用 cet，如 ce héros；ce 还有其他语法功能，本课只处理限定词用法。另注意 ces 与主有形容词 ses 同音，只能靠语境区分：ces livres 指“这些书”，ses livres 指“他/她的书”。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u5-2",
+      "title": "主有形容词单数主有者：人称、性与数各管一层",
+      "body": "单数主有者（je、tu、il/elle）用 mon/ton/son（阳性单数）、ma/ta/sa（阴性单数）、mes/tes/ses（复数）。\n\n- mon père / ma mère / mes parents\n- ton frère / ta sœur / tes amis\n- son livre / sa table / ses cahiers\n\n例：Je téléphone à mon frère.（我给哥哥打电话。）Tu ranges ta chambre.（你整理你的房间。）Elle invite ses amies.（她邀请她的女性朋友们。）\n\n要点：人称随主有者；阴阳和单复数随被拥有的名词；主有者本人的性别不参与选择。Marie parle de son père.（玛丽谈到她的父亲。）主有者是女性，père 是阳性，仍用 son。\n\n边界：阴性单数遇元音或哑音 h 要换成 mon/ton/son（mon amie），这不是名词变成阳性。主有者变成 nous、vous、ils 时，改用 notre/votre/leur 系列，见上一单元。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u5-3",
+      "title": "同一句中连用：指示与主有各管一个名词",
+      "body": "指示限定词和主有形容词不能同时修饰同一个名词，不能说 ce mon livre。所谓“连用”，是指同一句中不同名词短语各用一个限定词。\n\n- Ces étudiants cherchent leurs livres.（这些学生在找他们的书。）指示 ces 管 étudiants，主有 leurs 管 livres。\n- Ce professeur corrige ses copies.（这位老师批改他的试卷。）指示 ce 管 professeur，主有 ses 管 copies。\n- Voici cet élève et son cahier.（这是这名学生和他的笔记本。）cet 管 élève，son 管 cahier。\n\n判断顺序：先分别找每个名词的限定词，再各自按性数选形；前一个限定词不会改变后一个的选择。\n\n边界：两类限定词不能叠用；如果语义上既想指示又想主有，要换结构，如 le livre de mon frère。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u6-1",
+      "title": "chaque：只配单数，本身不变",
+      "body": "chaque 表示“每一个”，后面只能接单数名词，本身没有阴阳性和单复数变化。\n\n- chaque étudiant（每个学生）\n- chaque semaine（每周）\n- chaque jour（每天）\n- chaque personne（每个人）\n\n例：Chaque matin, il lit le journal.（每天早上他都读报纸。）Chaque étudiant a un casier.（每个学生有一个储物柜。）\n\n边界：不能写 chaques，也不能接复数名词（chaque étudiants 错）。chaque 与代词 chacun 不同：chacun 单独作主语，本课不涉及。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u6-2",
+      "title": "plusieurs：只配复数，本身不变",
+      "body": "plusieurs 表示“好几个、若干”，数量不止一个但不精确；后面只接复数名词，本身不变形。\n\n- plusieurs livres（好几本书）\n- plusieurs amis（好几个朋友）\n- plusieurs étudiantes（好几个女学生）\n\n例：Plusieurs étudiants attendent dans le couloir.（好几个学生在走廊里等着。）Il a plusieurs projets.（他有好几个计划。）\n\n要点：plusieurs 已带 -s，不能再写成 plusieur，也不随名词阴阳性变化。plusieurs 前不加定冠词：les plusieurs livres 不合法。\n\n边界：plusieurs 与 quelques 都可配复数，但数量语气不同：plusieurs 偏“好几个”，quelques 偏“少数几个”。本课只比较这两个限定词，代词用法不在本课范围。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u6-3",
+      "title": "quelque + 单数：只作识别",
+      "body": "quelque 放在单数名词前，表示“某个、某一个”或“一点、某种”，本身不变形。这个用法在现代法语中偏书面、固定，属于识别性知识。\n\n- quelque temps（一段时间）\n- quelque raison（某个理由）\n- quelque détail（某个细节）\n\n例：Il reste quelque temps à Paris.（他在巴黎待一段时间。）Pour quelque raison, elle garde le silence.（因为某个理由，她保持沉默。）\n\n边界：单数 quelque 与复数 quelques 只差一个 -s，但意义和搭配不同：quelque + 单数表示“某个、一点”；quelques + 复数表示“几个”。不要把 quelque 当副词“大约”使用；副词用法不在本课。\n\n本卡只要求识别，不要求在练习中产出 quelque + 单数的句子。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u6-4",
+      "title": "quelques：只配复数，表示“几个”",
+      "body": "quelques 表示“几个、少数几个”，后面接复数名词，本身不变形。\n\n- quelques amis（几个朋友）\n- quelques livres（几本书）\n- quelques minutes（几分钟）\n- quelques idées（几个主意）\n\n例：J'ai quelques questions à poser.（我有几个问题要问。）Quelques étudiants sont absents.（有几个学生缺席。）\n\n要点：quelques 已带 -s，不能再加 -s 写成 quelquess，也不随名词阴阳性变化。quelques 前一般不加定冠词。\n\n边界：quelque 用于单数，quelques 用于复数；与 plusieurs 相比，quelques 强调数量少且不确定。不要把 quelques 与副词“大约”的用法混在一起。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u7-1",
+      "title": "la plupart de + 限定复数名词，动词取复数",
+      "body": "la plupart 表示“大多数”。结构是 la plupart de + 带限定词的复数名词：定冠词 les（与 de 缩合为 des）、指示词 ces、主有词 mes/tes/ses/nos/vos/leurs。名词必须是复数，不能直接接不带限定词的名词。\n\n例：La plupart des étudiants sont présents.（大多数学生都到场了。）La plupart de mes amis habitent à Lyon.（我的大多数朋友住在里昂。）La plupart de ces livres sont anciens.（这些书大部分都很旧。）\n\n作主语时，动词按意义取复数：La plupart des enfants jouent dans la cour.（大多数孩子在院子里玩。）不要因为 la plupart 形式上是单数，就把动词写成单数。\n\n边界：la plupart de 后不能省略限定词，不说 la plupart d'étudiants；单数名词一般不用 la plupart，只有固定时间状语 la plupart du temps 例外（见下一张卡）。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u7-2",
+      "title": "la plupart du temps 是状语，不决定动词单复数",
+      "body": "la plupart du temps 意为“大多数时候、通常”，是时间状语，不是主语。它本身不要求后面的动词变复数；动词跟真正的主语配合。\n\n例：La plupart du temps, il travaille seul.（大多数时候，他独自工作。）主语 il 是单数，动词用 travaille。La plupart du temps, les élèves sont attentifs.（大多数时候，学生们都很专心。）主语 les élèves 是复数，动词用 sont。\n\n对比：La plupart des élèves sont attentifs.（大多数学生都很专心。）这里 la plupart des élèves 才是主语，动词取复数。\n\n判断步骤：先找主语。主语是 la plupart de + 复数名词 → 动词复数；主语是 il/elle/单数名词，句首只有 la plupart du temps → 动词按该主语变。不要看到 plupart 就一律写复数动词。\n\n形式解析：du = de + le，la plupart du temps 中的 du 是缩合形式，整个短语是固定时间状语。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u8-1",
+      "title": "tout 作限定形容词：性数随名词",
+      "body": "tout/toute/tous/toutes 放在名词前，表示“全部、整个”，形式随名词的性和数变化。\n\n- 阳性单数：tout le jour，tout mon temps\n- 阴性单数：toute la journée，toute ma vie\n- 阳性复数：tous les élèves，tous mes amis\n- 阴性复数：toutes les filles，toutes ces photos\n\n例：Toute la classe est là.（全班都到了。）Toutes les fenêtres sont ouvertes.（所有窗户都开着。）\n\n边界：tout 还有副词用法（tout seul，tout en haut）和代词用法（tous，toutes），这两种不变或另按代词规则，不属于本卡的限定形容词。不要把副词 tout 当成限定词去配合。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u8-2",
+      "title": "tout + 单数名词 =“每一个”（仅识别）",
+      "body": "tout/toute + 单数名词可以表示“每一个、任何”，相当于 chaque，名词保持单数。\n\n例：Tout travail mérite salaire.（任何工作都应得到报酬。）Toute peine mérite salaire.（任何辛苦都应有回报。）Tout étudiant doit avoir une carte.（每个学生都必须有学生证。）\n\n要点：形式仍随名词的性（tout/toute），但名词是单数；这与复数限定词 tous les/toutes les 不同。\n\n本概念只要求识别：看到 tout + 单数名词，能判断是“每一个”，不要求主动产出这一结构。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u8-3",
+      "title": "même 表“同一个、同样的”：性数随名词",
+      "body": "le/la/les même 表示“同一个、同样的”，même 随名词的性和数变化：le même livre，la même histoire，les mêmes livres，les mêmes histoires。\n\n例：Nous avons le même professeur.（我们有同一位老师。）Elles portent la même robe.（她们穿着同样的连衣裙。）Ce sont les mêmes réponses.（这些是同样的答案。）\n\n要点：定冠词与 même 都要跟名词配合；复数加 -s，写成 mêmes，保留长音符号 ê。\n\n与介词 à/de 连用时，定冠词要缩合：au même professeur（à + le même）、du même livre（de + le même）。\n\n边界：même 也可作副词，表示“甚至”，此时不变：Il vient même le dimanche.（他甚至在星期天也来。）不要把副词 même 和限定词 même 混为一谈。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u8-4",
+      "title": "autre 的复数：d'autres 与 des autres",
+      "body": "autre 表示“别的、另外的”。单数用 un autre / une autre；复数泛指通常用 d'autres + 复数名词。\n\n例：J'ai d'autres amis dans cette ville.（我在这座城市里还有别的朋友。）D'autres étudiants arrivent demain.（别的学生明天到。）\n\ndes autres 是 de + les autres 的缩合结构，其中 autres 多作代词或带定冠词的名词，功能与泛指的 d'autres 不同：Il parle souvent des autres.（他常常谈论别人。）\n\n判断：如果后面直接接复数名词、意思是“另外一些”，用 d'autres；如果结构是介词 de + les autres（谈论“那些人/那些事物”），才出现 des autres。不要把两者当作同一种限定词。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u8-5",
+      "title": "固定搭配中插入不定冠词加强程度（仅识别）",
+      "body": "有些表达身体状况或感受的固定搭配，本来不用冠词；插入不定冠词 une 后加强程度，表示“非常……”。\n\n- avoir peur → avoir une peur bleue（非常害怕）\n- avoir faim → avoir une faim de lion（饿极了）\n- avoir soif → avoir une soif terrible（渴极了）\n\n例：Il a une peur bleue de l'avion.（他非常害怕坐飞机。）Après le sport, elle a une faim de lion.（运动后，她饿极了。）\n\n要点：这是固定搭配中的程度强调，不是“一个”的数量意义，也不能类推到所有名词。中性说法仍是不加冠词的 avoir peur / avoir faim / avoir soif。本概念只要求识别，不要求产出。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u9-1",
+      "title": "ces 与 ses：同音，但功能不同",
+      "body": "ces 和 ses 发音相同，都用于复数名词前，但来源和意义不同。\n\n- ces = 指示限定词“这些/那些”：Ces livres sont intéressants.（这些书很有趣。）Regarde ces photos.（看这些照片。）\n- ses = 主有限定词“他/她的”：Paul range ses livres.（保罗整理他的书。）Julie cherche ses clés.（朱莉找她的钥匙。）\n\n判断依据是语境：句中有明确的主有者（人）→ ses；现场指认或回指距离→ ces。名词是复数并不单独决定用哪一个。\n\n边界：ces 只用于复数，不能写成 cet/cette；ses 也只用于复数，单数是 son/sa。不要把 c'est（“这是”）当成限定词。"
+    },
+    {
+      "id": "pub-c04-determiners-card-u9-2",
+      "title": "语境线索与 -ci/-là 的配合",
+      "body": "遇到 ces/ses 的空格，先找两类线索：\n\n1. 主有线索：前文是否出现明确的人（Paul、Julie、Marie 等），后面是否谈“他/她的”东西。有明确主有者时优先 ses。\n2. 指认线索：是否有 montre、regarde、ici、là、-ci、-là 等现场指认标记。指认时用 ces，并可按远近加 -ci/-là：ces livres-ci（这些，近），ces livres-là（那些，远）。\n\n例：Regarde ces photos-ci : ce sont les photos de vacances de Julie.（看这些照片：这是朱莉的度假照片。）Julie range ses photos dans un album.（朱莉把她的照片收进相册。）\n\n注意：ses 也可以和 -ci/-là 连用，但语用上较少见，且仍表示主有；本章题目会给出足够语境，不要只凭名词复数猜。"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pub-c04-determiners-l1",
+      "title": "指示限定词 ce、cette、ces 与 cet",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c04-determiners-l1-q1",
+          "type": "choice",
+          "prompt": "Quelle forme complète désigne la personne qui est là-bas ? (homme : m. sg.)",
+          "options": [
+            "cet homme-ci",
+            "cet homme-là",
+            "cette homme-là",
+            "ces hommes-là"
+          ],
+          "answer": 1,
+          "translation": "哪个完整形式指那边那位男士？",
+          "explain": "homme 是阳性单数，且以哑音 h 开头，简单指示限定词用 cet；指较远的人用 -là，构成 cet homme-là。-ci 表示近指，cette 用于阴性，ces 用于复数，都不符合。"
+        },
+        {
+          "id": "pub-c04-determiners-l1-q2",
+          "type": "choice",
+          "prompt": "Complétez : ___ école-là est fermée le lundi.",
+          "options": [
+            "Cet",
+            "Ce",
+            "Cette",
+            "Ces"
+          ],
+          "answer": 2,
+          "translation": "那边那所学校每周一关门。",
+          "explain": "école 是阴性单数，虽然以元音开头，指示限定词仍用 cette；cet 只用于阳性单数；ce 是阳性单数，不能修饰阴性名词，元音前也不能用 ce；ces 用于复数。-là 不改变性数选择。"
+        },
+        {
+          "id": "pub-c04-determiners-l1-q3",
+          "type": "choice",
+          "prompt": "Complétez : ___ amis-là habitent à côté.",
+          "options": [
+            "Ces",
+            "Cet",
+            "Cette",
+            "Ce"
+          ],
+          "answer": 0,
+          "translation": "那边那些朋友住在隔壁。",
+          "explain": "amis 是阳性复数；以元音开头不影响复数形式，指示限定词用 ces，复数不分性别。cet、cette、ce 都是单数形式；-là 只是复合形式的后缀。"
+        },
+        {
+          "id": "pub-c04-determiners-l1-q4",
+          "type": "choice",
+          "prompt": "Complétez : ___ hôtel est très confortable.",
+          "options": [
+            "Ce",
+            "Cette",
+            "Ces",
+            "Cet"
+          ],
+          "answer": 3,
+          "translation": "这家酒店非常舒适。",
+          "explain": "hôtel 是阳性单数，且以哑音 h 开头，用 cet；ce 不能出现在元音或哑音 h 前，cette 用于阴性，ces 用于复数。"
+        },
+        {
+          "id": "pub-c04-determiners-l1-q5",
+          "type": "letters",
+          "prompt": "Écrivez le déterminant démonstratif qui convient : ___ arbre est très grand. (arbre : m. sg.)",
+          "answer": "cet",
+          "translation": "这棵树很高。",
+          "explain": "arbre 是阳性单数，以元音开头，指示限定词用 cet。ce 不能直接用在元音开头的阳性名词前；cette 用于阴性，ces 用于复数。"
+        },
+        {
+          "id": "pub-c04-determiners-l1-q6",
+          "type": "tiles",
+          "prompt": "Transformez au pluriel : cet hôtel → ___",
+          "answer": [
+            "ces",
+            "hôtels"
+          ],
+          "bank": [
+            "ces",
+            "hôtels",
+            "ce",
+            "cet",
+            "cette",
+            "hôtel"
+          ],
+          "translation": "这家酒店→这些酒店。",
+          "explain": "源短语 cet hôtel 是阳性单数，hôtel 以哑音 h 开头所以用 cet；变复数后指示限定词一律 ces，名词加 -s 成 hôtels。ce、cette 是单数形式，cet 只用于阳性单数。"
+        },
+        {
+          "id": "pub-c04-determiners-l1-q7",
+          "type": "tiles",
+          "prompt": "Transformez au féminin : ce voisin → ___",
+          "answer": [
+            "cette",
+            "voisine"
+          ],
+          "bank": [
+            "ce",
+            "voisin",
+            "cette",
+            "voisine",
+            "ces",
+            "voisines"
+          ],
+          "translation": "这位男邻居→这位女邻居。",
+          "explain": "源短语 ce voisin 是阳性单数；变阴性后名词为 voisine，指示限定词用 cette。ce 不能修饰阴性名词，ces 是复数。"
+        },
+        {
+          "id": "pub-c04-determiners-l1-q8",
+          "type": "choice",
+          "prompt": "Complétez : ___ maison est grande.",
+          "options": [
+            "Cette",
+            "Cet",
+            "Ce",
+            "Ces"
+          ],
+          "answer": 0,
+          "translation": "这栋房子很大。",
+          "explain": "maison 是阴性单数，用 cette；cet 只用于阳性单数，ce 用于辅音开头的阳性单数，ces 用于复数。"
+        },
+        {
+          "id": "pub-c04-determiners-l1-q9",
+          "type": "letters",
+          "prompt": "Écrivez le déterminant démonstratif qui convient : ___ livres sont sur la table. (livres : m. pl.)",
+          "answer": "ces",
+          "translation": "这些书在桌子上。",
+          "explain": "livres 是复数，指示限定词用 ces，复数形式不分性别。ce、cet、cette 都是单数形式。"
+        },
+        {
+          "id": "pub-c04-determiners-l1-q10",
+          "type": "choice",
+          "prompt": "Complétez : ___ héros est célèbre.",
+          "options": [
+            "Cet",
+            "Cette",
+            "Ce",
+            "Ces"
+          ],
+          "answer": 2,
+          "translation": "这位英雄很有名。",
+          "explain": "héros 以嘘音 h 开头，按辅音处理，阳性单数用 ce，不用 cet；cet 只用于元音或哑音 h 前。cette 用于阴性，ces 用于复数。"
+        },
+        {
+          "id": "pub-c04-determiners-l1-q11",
+          "type": "choice",
+          "prompt": "Quel groupe nominal désigne un arbre tout proche ? (arbre : m. sg.)",
+          "options": [
+            "cet arbre-là",
+            "cet arbre-ci",
+            "ce arbre-ci",
+            "cette arbre-ci"
+          ],
+          "answer": 1,
+          "translation": "哪个名词短语指一棵就在近处的树？",
+          "explain": "arbre 是阳性单数且以元音开头，用 cet；近指用 -ci，构成 cet arbre-ci。cet arbre-là 是远指，ce 不能直接用在元音开头的阳性名词前，cette 用于阴性。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c04-determiners-l2",
+      "title": "指示限定词的 -ci 与 -là 复合形式",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c04-determiners-l2-q1",
+          "type": "choice",
+          "prompt": "Quel groupe nominal désigne un livre tout proche ? (livre : m. sg.)",
+          "options": [
+            "ce livre-là",
+            "ce livre-ci",
+            "cette livre-ci",
+            "ces livres-là"
+          ],
+          "answer": 1,
+          "translation": "哪个名词短语指一本就在近处的书？",
+          "explain": "livre 是阳性单数，用 ce；指近处用 -ci，构成 ce livre-ci。ce livre-là 是远指，cette 不能修饰阳性 livre，ces 用于复数。"
+        },
+        {
+          "id": "pub-c04-determiners-l2-q2",
+          "type": "choice",
+          "prompt": "Quel groupe nominal désigne un tableau au fond de la classe ? (tableau : m. sg.)",
+          "options": [
+            "ce tableau-ci",
+            "cette tableau-là",
+            "ce tableau-là",
+            "ces tableaux-ci"
+          ],
+          "answer": 2,
+          "translation": "哪个名词短语指教室尽头的那块板？",
+          "explain": "tableau 是阳性单数，用 ce；指较远处用 -là，构成 ce tableau-là。-ci 表示近指，cette 不能修饰阳性名词，ces 用于复数。"
+        },
+        {
+          "id": "pub-c04-determiners-l2-q3",
+          "type": "choice",
+          "prompt": "Complétez : ___ robe-là est très élégante.",
+          "options": [
+            "Cet",
+            "Ce",
+            "Ces",
+            "Cette"
+          ],
+          "answer": 3,
+          "translation": "那边那条连衣裙非常优雅。",
+          "explain": "robe 是阴性单数，复合形式中的简单部分仍用 cette；-là 只表示远指，不改变性数。cet、ce 是阳性单数，ces 是复数。"
+        },
+        {
+          "id": "pub-c04-determiners-l2-q4",
+          "type": "choice",
+          "prompt": "Complétez : ___ enfants-là jouent dans la cour.",
+          "options": [
+            "Ces",
+            "Cet",
+            "Cette",
+            "Ce"
+          ],
+          "answer": 0,
+          "translation": "那边的孩子们在院子里玩。",
+          "explain": "enfants 是阳性复数，指示限定词用 ces；-là 是复合形式的后缀。cet、cette、ce 都是单数形式。"
+        },
+        {
+          "id": "pub-c04-determiners-l2-q5",
+          "type": "tiles",
+          "prompt": "Composez le groupe nominal pour désigner des enfants tout proches. (enfants : m. pl.)",
+          "answer": [
+            "ces",
+            "enfants-ci"
+          ],
+          "bank": [
+            "ces",
+            "enfants-ci",
+            "cet",
+            "enfant-ci",
+            "cette",
+            "enfants-là"
+          ],
+          "translation": "这些孩子（就在近处）。",
+          "explain": "enfants 是阳性复数，用 ces；近指用 -ci，构成 ces enfants-ci。enfants-là 是远指形式，cet、cette、enfant-ci 都不符合复数近指的语境。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c04-determiners-l3",
+      "title": "单数主有者的主有形容词",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c04-determiners-l3-q1",
+          "type": "letters",
+          "prompt": "Complétez avec le possessif qui convient : Voici Paul. ___ sœur est médecin. (sœur : f. sg.)",
+          "answer": "sa",
+          "translation": "这是保罗。他的姐妹是医生。",
+          "explain": "主有者是 Paul，单数第三人称；被拥有名词 sœur 是阴性单数，所以用 sa。主有者的性别不影响选形；son 用于阳性单数，ses 用于复数。"
+        },
+        {
+          "id": "pub-c04-determiners-l3-q2",
+          "type": "choice",
+          "prompt": "Complétez : Marie a un frère. ___ frère travaille à Lyon.",
+          "options": [
+            "Son",
+            "Sa",
+            "Ses",
+            "Ton"
+          ],
+          "answer": 0,
+          "translation": "玛丽有一个兄弟。她的兄弟在里昂工作。",
+          "explain": "主有者是 Marie，单数第三人称；frère 是阳性单数，所以用 son。主有者是女性并不要求用 sa；sa 只修饰阴性单数，ses 修饰复数，ton 对应第二人称单数主有者。"
+        },
+        {
+          "id": "pub-c04-determiners-l3-q3",
+          "type": "choice",
+          "prompt": "Complétez : Léa a deux chats. ___ chats sont noirs.",
+          "options": [
+            "Sa",
+            "Ses",
+            "Son",
+            "Tes"
+          ],
+          "answer": 1,
+          "translation": "莱娅有两只猫。她的猫是黑色的。",
+          "explain": "主有者是 Léa，单数第三人称；chats 是阳性复数，所以用 ses。sa 和 son 都是单数形式，tes 对应第二人称单数主有者。"
+        },
+        {
+          "id": "pub-c04-determiners-l3-q4",
+          "type": "choice",
+          "prompt": "Complétez : Paul cherche ___ clés. (clés : f. pl.)",
+          "options": [
+            "sa",
+            "ses",
+            "son",
+            "tes"
+          ],
+          "answer": 1,
+          "translation": "保罗在找他的钥匙。",
+          "explain": "主有者是 Paul，单数第三人称；clés 是阴性复数，所以用 ses。sa 只修饰阴性单数，son 只修饰阳性单数，tes 对应 tu。"
+        },
+        {
+          "id": "pub-c04-determiners-l3-q5",
+          "type": "letters",
+          "prompt": "Complétez avec le possessif qui convient : Je cherche ___ montre. (montre : f. sg.)",
+          "answer": "ma",
+          "translation": "我在找我的手表。",
+          "explain": "主有者是说话人 je，被拥有名词 montre 是阴性单数，所以用 ma。mon 用于阳性单数，mes 用于复数。"
+        },
+        {
+          "id": "pub-c04-determiners-l3-q6",
+          "type": "choice",
+          "prompt": "Complétez : J'ai besoin de ___ lunettes. (lunettes : f. pl.)",
+          "options": [
+            "ma",
+            "mon",
+            "mes",
+            "tes"
+          ],
+          "answer": 2,
+          "translation": "我需要我的眼镜。",
+          "explain": "主有者是 je，lunettes 是复数，所以用 mes。ma 和 mon 都是单数形式，tes 对应第二人称单数主有者。"
+        },
+        {
+          "id": "pub-c04-determiners-l3-q7",
+          "type": "choice",
+          "prompt": "Complétez : Tu as besoin de ___ lunettes ? (lunettes : f. pl.)",
+          "options": [
+            "ta",
+            "ton",
+            "ses",
+            "tes"
+          ],
+          "answer": 3,
+          "translation": "你需要你的眼镜吗？",
+          "explain": "主有者是 tu，lunettes 是复数，所以用 tes。ta 和 ton 是单数形式，ses 对应第三人称主有者。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c04-determiners-l4",
+      "title": "复数主有者与元音阴性",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c04-determiners-l4-q1",
+          "type": "letters",
+          "prompt": "Réécrivez avec le possesseur « nous », sans rien changer d'autre : « Voici mon voisin. » → Voici ___ voisin.",
+          "answer": "notre",
+          "translation": "这是我们的邻居。",
+          "explain": "主有者由 je 改为 nous 时，被拥有名词 voisin 仍是阳性单数，所以用 notre；主有者的人数不决定被拥有名词的单复数。notre 不变形，不能写成 notres。"
+        },
+        {
+          "id": "pub-c04-determiners-l4-q2",
+          "type": "tiles",
+          "prompt": "Réécrivez avec le possesseur « vous » (vouvoiement), sans rien changer d'autre : « Voici ta clé. » → ___",
+          "answer": [
+            "Voici",
+            "votre",
+            "clé."
+          ],
+          "bank": [
+            "Voici",
+            "votre",
+            "vos",
+            "ton",
+            "ta",
+            "tes",
+            "notre",
+            "clé.",
+            "clés."
+          ],
+          "translation": "这是您的钥匙。",
+          "explain": "主有者由 tu 改为 vous；clé 是阴性单数，所以用 votre，不能因为主有者是复数就用 vos。vos 只配复数名词。"
+        },
+        {
+          "id": "pub-c04-determiners-l4-q3",
+          "type": "letters",
+          "prompt": "Réécrivez avec le possesseur « nous », sans rien changer d'autre : « Voici mes livres. » → Voici ___ livres.",
+          "answer": "nos",
+          "translation": "这是我们的书。",
+          "explain": "主有者由 je 改为 nous；livres 是阳性复数，所以用 nos。notre 只用于单数名词，不能写成 notre livres。"
+        },
+        {
+          "id": "pub-c04-determiners-l4-q4",
+          "type": "tiles",
+          "prompt": "Réécrivez avec le possesseur « ils », sans rien changer d'autre : « Voici vos affiches. » → ___",
+          "answer": [
+            "Voici",
+            "leurs",
+            "affiches."
+          ],
+          "bank": [
+            "Voici",
+            "leurs",
+            "leur",
+            "vos",
+            "nos",
+            "ses",
+            "affiches.",
+            "affiche."
+          ],
+          "translation": "这是他们的海报。",
+          "explain": "主有者由 vous 改为 ils；affiches 是阴性复数，所以用 leurs。leur 只用于单数名词。"
+        },
+        {
+          "id": "pub-c04-determiners-l4-q5",
+          "type": "choice",
+          "prompt": "Complétez : Marie et Paul préparent la fête. Ils invitent ___ amis à ___ mariage.",
+          "options": [
+            "leurs / leur",
+            "leur / leurs",
+            "leurs / leurs",
+            "ses / son"
+          ],
+          "answer": 0,
+          "translation": "玛丽和保罗在准备派对。他们邀请他们的朋友参加他们的婚礼。",
+          "explain": "Ils 回指前句的 Marie et Paul，主有者是复数第三人称。amis 是复数，用 leurs；mariage 是单数，用 leur。两个空都由被拥有名词的单复数决定，而不是由主有者人数统一决定。"
+        },
+        {
+          "id": "pub-c04-determiners-l4-q6",
+          "type": "choice",
+          "prompt": "Complétez : Mon mari et moi, nous aimons beaucoup ___ maison de campagne.",
+          "options": [
+            "votre",
+            "leur",
+            "notre",
+            "nos"
+          ],
+          "answer": 2,
+          "translation": "我丈夫和我很喜欢我们的乡间别墅。",
+          "explain": "主有者包含说话人，相当于 nous；maison 是阴性单数，所以用 notre。nos 只能配复数名词；votre 指对话者，leur 指第三方。"
+        },
+        {
+          "id": "pub-c04-determiners-l4-q7",
+          "type": "choice",
+          "prompt": "Complétez : Ta sœur et toi, vous rangez ___ chambre chaque samedi.",
+          "options": [
+            "notre",
+            "votre",
+            "leur",
+            "vos"
+          ],
+          "answer": 1,
+          "translation": "你的姐妹和你每星期六整理你们的房间。",
+          "explain": "主有者是 ta sœur et toi，相当于 vous；chambre 是阴性单数，所以用 votre。vos 只配复数名词；notre 指 nous，leur 指第三方。"
+        },
+        {
+          "id": "pub-c04-determiners-l4-q8",
+          "type": "tiles",
+          "prompt": "Réécrivez avec le possesseur « nous », sans rien changer d'autre : « Voici leur jardin. » → ___",
+          "answer": [
+            "Voici",
+            "notre",
+            "jardin."
+          ],
+          "bank": [
+            "Voici",
+            "notre",
+            "nos",
+            "votre",
+            "leur",
+            "leurs",
+            "jardin.",
+            "jardins."
+          ],
+          "translation": "这是我们的花园。",
+          "explain": "主有者由 ils 改为 nous；jardin 是阳性单数，所以用 notre。主有者改变不影响名词的单复数，因此不用 nos。"
+        },
+        {
+          "id": "pub-c04-determiners-l4-q9",
+          "type": "letters",
+          "prompt": "Complétez avec le déterminant possessif qui convient (主有者：Marie ; 被拥有名词：école, 阴性单数) : Marie aime ___ école.",
+          "answer": "son",
+          "translation": "玛丽喜欢她的学校。",
+          "explain": "école 是阴性单数，但以元音开头；阴性单数名词在元音或哑音 h 前要用 son，而不是 sa。名词的语法性仍是阴性，son 在这里不表示阳性。"
+        },
+        {
+          "id": "pub-c04-determiners-l4-q10",
+          "type": "choice",
+          "prompt": "Complétez avec le déterminant possessif qui convient (主有者：je) : Je parle souvent de ___ amie.",
+          "options": [
+            "ma",
+            "mon",
+            "mes",
+            "ton"
+          ],
+          "answer": 1,
+          "translation": "我常常谈到我的朋友（女性）。",
+          "explain": "amie 是阴性单数，但以元音开头，所以用 mon，而不是 ma。mes 配复数；ton 是第二人称，与主有者 je 不符。"
+        },
+        {
+          "id": "pub-c04-determiners-l4-q11",
+          "type": "choice",
+          "prompt": "Complétez : Marie cache ___ haine et invite ___ amie. (haine : f. sg., h aspiré ; amie : f. sg.)",
+          "options": [
+            "son / sa",
+            "sa / sa",
+            "sa / son",
+            "son / son"
+          ],
+          "answer": 2,
+          "translation": "玛丽掩饰她的仇恨，邀请她的女性朋友。",
+          "explain": "haine 是阴性单数，但以嘘音 h 开头，按辅音处理，仍用 sa；amie 是阴性单数且以元音开头，用 son。两者都是阴性名词，差别只在首音。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c04-determiners-l5",
+      "title": "指示限定词与主有形容词的连用",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c04-determiners-l5-q1",
+          "type": "choice",
+          "prompt": "Complétez avec les déterminants corrects : ___ (ce) étudiants cherchent ___ (leur) livres.",
+          "options": [
+            "Ses / leurs",
+            "Cet / leurs",
+            "Ces / leur",
+            "Ces / leurs"
+          ],
+          "answer": 3,
+          "translation": "这些学生在找他们的书。",
+          "explain": "étudiants 是阳性复数，指示限定词用 ces，复数不分性别，也不用 cet；livres 是复数，主有形容词用 leurs。两个限定词分别管一个名词，不能同时放在同一名词前。"
+        },
+        {
+          "id": "pub-c04-determiners-l5-q2",
+          "type": "tiles",
+          "prompt": "Complétez avec les déterminants corrects, puis remettez les mots dans l'ordre : ___ (ce) filles et ___ (leur) frères jouent dans la cour.",
+          "answer": [
+            "Ces",
+            "filles",
+            "et",
+            "leurs",
+            "frères",
+            "jouent",
+            "dans",
+            "la",
+            "cour."
+          ],
+          "bank": [
+            "Ces",
+            "Ses",
+            "Cet",
+            "Cette",
+            "ses",
+            "leur",
+            "leurs",
+            "fille",
+            "filles",
+            "frère",
+            "frères",
+            "joue",
+            "jouent",
+            "et",
+            "dans",
+            "la",
+            "cour.",
+            "cours."
+          ],
+          "translation": "这些女孩和她们的兄弟在院子里玩。",
+          "explain": "filles 是阴性复数，指示限定词用 ces；frères 是阳性复数，主有形容词用 leurs。两个名词各自由前面的限定词控制，不能因为都是复数就随意互换 ces 与 leurs。"
+        },
+        {
+          "id": "pub-c04-determiners-l5-q3",
+          "type": "tiles",
+          "prompt": "Mettez au pluriel, en gardant l'ordre des mots : « Voici cet élève et son cahier. » → ___",
+          "answer": [
+            "Voici",
+            "ces",
+            "élèves",
+            "et",
+            "leurs",
+            "cahiers."
+          ],
+          "bank": [
+            "Voici",
+            "cet",
+            "ce",
+            "cette",
+            "ces",
+            "élève",
+            "élèves",
+            "et",
+            "son",
+            "ses",
+            "leur",
+            "leurs",
+            "cahier",
+            "cahiers."
+          ],
+          "translation": "这些学生和他们的笔记本在这里。",
+          "explain": "élève 变复数 élèves，指示限定词 cet 变 ces；主有者由单数变复数，cahier 也变复数，所以 son 变 leurs。leur 只配单数名词。"
+        },
+        {
+          "id": "pub-c04-determiners-l5-q4",
+          "type": "choice",
+          "prompt": "Complétez : ___ (ce) jeune homme présente ___ (son) sœur à la classe.",
+          "options": [
+            "Cet / sa",
+            "Ce / son",
+            "Ce / sa",
+            "Cette / sa"
+          ],
+          "answer": 2,
+          "translation": "这个年轻男子向全班介绍他的妹妹。",
+          "explain": "jeune 以辅音开头，阳性单数用 ce；cet 只用于元音或哑音 h 开头的阳性单数。sœur 是阴性单数，主有形容词用 sa；son 只用于阳性单数。"
+        },
+        {
+          "id": "pub-c04-determiners-l5-q5",
+          "type": "choice",
+          "prompt": "Complétez : ___ (ce) professeur corrige ___ (son) copies.",
+          "options": [
+            "Cet / ses",
+            "Ce / ces",
+            "Cette / ses",
+            "Ce / ses"
+          ],
+          "answer": 3,
+          "translation": "这位老师批改他的试卷。",
+          "explain": "professeur 是阳性单数，以辅音开头，用 ce；copies 是阴性复数，主有形容词用 ses。ces 是指示限定词复数，不能在这里表示主有。"
+        },
+        {
+          "id": "pub-c04-determiners-l5-q6",
+          "type": "tiles",
+          "prompt": "Réécrivez au singulier, en gardant l'ordre des mots : « Voici ces élèves et leur professeur. » → ___ (élève : m. sg.)",
+          "answer": [
+            "Voici",
+            "cet",
+            "élève",
+            "et",
+            "son",
+            "professeur."
+          ],
+          "bank": [
+            "Voici",
+            "cet",
+            "ce",
+            "cette",
+            "ces",
+            "élève",
+            "élèves",
+            "et",
+            "son",
+            "sa",
+            "ses",
+            "leur",
+            "leurs",
+            "professeur.",
+            "professeurs."
+          ],
+          "translation": "这是这名学生和他的老师。",
+          "explain": "élève 按题干标注为阳性单数，以元音开头，指示限定词用 cet；professeur 是阳性单数，主有形容词用 son。复数形式 ces 与 leur 都要随名词单数化改为 cet 与 son。"
+        },
+        {
+          "id": "pub-c04-determiners-l5-q7",
+          "type": "choice",
+          "prompt": "Mettez au pluriel : « Voici cette fille et son frère. »",
+          "options": [
+            "Voici ces filles et leur frères.",
+            "Voici cette filles et leurs frères.",
+            "Voici ces filles et leurs frères.",
+            "Voici ses filles et leurs frères."
+          ],
+          "answer": 2,
+          "translation": "这些女孩和她们的兄弟在这里。",
+          "explain": "fille 变复数 filles，指示限定词 cette 变 ces；主有者由单数变复数，frère 也变复数，因此 son 变 leurs。leur 配单数名词，不能配 frères。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c04-determiners-l6",
+      "title": "chaque、plusieurs 与 quelque(s)",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c04-determiners-l6-q1",
+          "type": "choice",
+          "prompt": "Complétez : ___ a un casier.",
+          "options": [
+            "Chaque étudiant",
+            "Chaques étudiant",
+            "Chaque étudiants",
+            "Quelques étudiant"
+          ],
+          "answer": 0,
+          "translation": "每个学生有一个储物柜。",
+          "explain": "chaque 只修饰单数名词，本身不变形：chaque étudiant。不能写成 chaques（chaque 没有复数形式），也不能接复数 étudiants。"
+        },
+        {
+          "id": "pub-c04-determiners-l6-q2",
+          "type": "letters",
+          "prompt": "用表示「每个」的单数限定词填空（该词本身不变形）：Il lit le journal ___ matin.",
+          "answer": "chaque",
+          "translation": "每天早上他都读报纸。",
+          "explain": "chaque 只修饰单数名词 matin，本身没有性数变化；不能写成 chaques，也不能写成 chaque matins。"
+        },
+        {
+          "id": "pub-c04-determiners-l6-q3",
+          "type": "choice",
+          "prompt": "Choisissez le déterminant qui exprime « 好几个（不止一个，数量不精确）» : ___ livres.",
+          "options": [
+            "quelques",
+            "chaque",
+            "plusieur",
+            "plusieurs"
+          ],
+          "answer": 3,
+          "translation": "好几本书。",
+          "explain": "plusieurs 只修饰复数名词，本身不变形，表示“好几个、若干”，数量不止一个且不精确；plusieur 缺少 -s 是错误拼写；quelques 表示“少数几个”；chaque 只配单数。"
+        },
+        {
+          "id": "pub-c04-determiners-l6-q4",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Plusieur étudiantes attendent dans le couloir.",
+            "Plusieurs étudiante attend dans le couloir.",
+            "Plusieurs étudiantes attendent dans le couloir.",
+            "Les plusieurs étudiantes attendent dans le couloir."
+          ],
+          "answer": 2,
+          "translation": "好几个女学生在走廊里等着。",
+          "explain": "plusieurs 修饰复数名词 étudiantes，本身以 -s 结尾，不能漏写；plusieurs 前不能加定冠词 les。正确形式是 Plusieurs étudiantes attendent dans le couloir."
+        },
+        {
+          "id": "pub-c04-determiners-l6-q5",
+          "type": "tiles",
+          "prompt": "Transformez en remplaçant « un » par le déterminant qui signifie « 好几个 » : « Voici un étudiant. » → ___",
+          "answer": [
+            "Voici",
+            "plusieurs",
+            "étudiants."
+          ],
+          "bank": [
+            "Voici",
+            "plusieurs",
+            "plusieur",
+            "quelques",
+            "chaque",
+            "étudiant",
+            "étudiants.",
+            "étudiantes."
+          ],
+          "translation": "这是好几个学生。",
+          "explain": "plusieurs 只修饰复数，所以 étudiant 变 étudiants；plusieurs 拼写带 -s，本身不再随名词变化。"
+        },
+        {
+          "id": "pub-c04-determiners-l6-q6",
+          "type": "choice",
+          "prompt": "Transformez « Voici une photo. » en remplaçant « une » par « plusieurs » :",
+          "options": [
+            "Voici plusieurs photos.",
+            "Voici plusieurs photo.",
+            "Voici plusieures photos.",
+            "Voici les plusieurs photos."
+          ],
+          "answer": 0,
+          "translation": "这是好几张照片。",
+          "explain": "plusieurs 只修饰复数名词，photo 要变 photos；plusieurs 本身不变，不能写成 plusieures，也不能加定冠词 les。"
+        },
+        {
+          "id": "pub-c04-determiners-l6-q7",
+          "type": "choice",
+          "prompt": "Choisissez le déterminant qui exprime « 少数几个（数量少且不确定）» : ___ amis viennent ce soir.",
+          "options": [
+            "plusieurs",
+            "quelques",
+            "chaque",
+            "quelque"
+          ],
+          "answer": 1,
+          "translation": "有几个朋友今晚来。",
+          "explain": "quelques 只修饰复数名词，表示“几个、少数几个”；plusieurs 表示数量更多的“好几个”；chaque 只配单数；quelque 用于单数，不用于复数 amis。"
+        },
+        {
+          "id": "pub-c04-determiners-l6-q8",
+          "type": "choice",
+          "prompt": "Complétez : Il connaît ___ mots d'anglais, mais seulement cinq ou six. （少数几个）",
+          "options": [
+            "plusieurs",
+            "quelque",
+            "chaque",
+            "quelques"
+          ],
+          "answer": 3,
+          "translation": "他认识几个英语单词，但只有五六个。",
+          "explain": "mots 是复数，题干括号提示“少数几个”，且上下文“只有五六个”说明数量很少，用 quelques（几个）。quelque 只配单数；chaque 只配单数；plusieurs 表示“好几个”，与“只有五六个”的少量语气不符。"
+        },
+        {
+          "id": "pub-c04-determiners-l6-q9",
+          "type": "tiles",
+          "prompt": "Transformez en remplaçant « un » par le déterminant qui signifie « 几个 » : « Voici un cadeau. » → ___",
+          "answer": [
+            "Voici",
+            "quelques",
+            "cadeaux."
+          ],
+          "bank": [
+            "Voici",
+            "quelques",
+            "quelque",
+            "plusieurs",
+            "chaque",
+            "cadeau",
+            "cadeaux.",
+            "cadeaus."
+          ],
+          "translation": "这是几个礼物。",
+          "explain": "quelques 只修饰复数名词，cadeau 变复数 cadeaux（-eau → -eaux），不是 cadeaus；quelques 本身不变。"
+        },
+        {
+          "id": "pub-c04-determiners-l6-q10",
+          "type": "choice",
+          "prompt": "Transformez « Voici une idée. » en remplaçant « une » par le déterminant qui signifie « 几个 » :",
+          "options": [
+            "Voici quelques idées.",
+            "Voici quelque idées.",
+            "Voici quelques idée.",
+            "Voici les quelques idées."
+          ],
+          "answer": 0,
+          "translation": "这是几个主意。",
+          "explain": "quelques 只修饰复数名词 idées，本身不变；quelque 是单数形式，不能配 idées；quelques 前也不能加定冠词 les。"
+        },
+        {
+          "id": "pub-c04-determiners-l6-q11",
+          "type": "choice",
+          "prompt": "Dans « Pour quelque raison, elle garde le silence », que signifie « quelque » ?",
+          "options": [
+            "plusieurs raisons",
+            "chaque raison",
+            "aucune raison",
+            "une certaine raison"
+          ],
+          "answer": 3,
+          "translation": "在 « Pour quelque raison, elle garde le silence » 中，quelque 是什么意思？",
+          "explain": "quelque + 单数名词 raison 表示“某个、某一个”，相当于 une certaine raison；它不是复数的 quelques（几个），也不是 chaque。这里只要求识别这一书面用法。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c04-determiners-l7",
+      "title": "la plupart 的限定结构与主谓配合",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c04-determiners-l7-q1",
+          "type": "choice",
+          "prompt": "Transformez avec « la plupart » : « Chaque étudiant est présent. » → « ___ étudiants ___ présents. »",
+          "options": [
+            "La plupart de / sont",
+            "La plupart des / est",
+            "La plupart des / sont",
+            "La plupart des / a"
+          ],
+          "answer": 2,
+          "translation": "大多数学生都到场了。",
+          "explain": "la plupart de + 定冠词复数，de 与 les 缩合为 des；la plupart des étudiants 作主语时动词取复数，用 sont，表语形容词也取复数 présents。"
+        },
+        {
+          "id": "pub-c04-determiners-l7-q2",
+          "type": "tiles",
+          "prompt": "Transformez « Tous les étudiants sont présents. » en remplaçant « tous les » par « la plupart des » : ___",
+          "answer": [
+            "La",
+            "plupart",
+            "des",
+            "étudiants",
+            "sont",
+            "présents."
+          ],
+          "bank": [
+            "La",
+            "plupart",
+            "des",
+            "étudiants",
+            "sont",
+            "présents.",
+            "Le",
+            "de",
+            "est",
+            "étudiant",
+            "classe",
+            "nombre"
+          ],
+          "translation": "大多数学生都到场了。",
+          "explain": "源句的 tous les 换成 la plupart des：de + les 缩合为 des。主语 la plupart des étudiants 要求动词复数 sont，表语 présents 也为阳性复数。"
+        },
+        {
+          "id": "pub-c04-determiners-l7-q3",
+          "type": "choice",
+          "prompt": "Transformez en gardant le sens : « D'habitude, il reste seul le matin. » → « La plupart du temps, il ___ seul le matin. »",
+          "options": [
+            "sont",
+            "est",
+            "a",
+            "ont"
+          ],
+          "answer": 1,
+          "translation": "大多数时候，他早上独自一人。",
+          "explain": "la plupart du temps 是时间状语，不是主语，不要求动词变复数。本句真正的主语是 il，单数，所以用 est；sont/ont 是复数形式，a 不能接表语 seul。源句的 reste 表示“一直保持”，改写为 est 后主语仍是 il。"
+        },
+        {
+          "id": "pub-c04-determiners-l7-q4",
+          "type": "letters",
+          "prompt": "Transformez « Tous les étudiants sont présents. » en remplaçant « tous les » par la locution qui correspond à « 大多数 » et complétez seulement le nom de cette locution : « La ___ des étudiants sont présents. »",
+          "answer": "plupart",
+          "translation": "大多数学生都到场了。",
+          "explain": "la plupart 是阴性名词性词组，写作 la plupart；de + les 缩合为 des。整个 la plupart des étudiants 作主语，动词仍取复数 sont。"
+        },
+        {
+          "id": "pub-c04-determiners-l7-q5",
+          "type": "choice",
+          "prompt": "Transformez « Tous ces livres sont anciens. » avec « la plupart » : « La plupart ___ ces livres sont anciens. »",
+          "options": [
+            "de",
+            "des",
+            "les",
+            "d'"
+          ],
+          "answer": 0,
+          "translation": "这些书大部分都很旧。",
+          "explain": "la plupart de 后接指示限定词复数 ces 时，de 不缩合，保持 de；des 只用于 de + les，les 也不能直接放在 de 后。动词仍按复数主语取 sont。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c04-determiners-l8",
+      "title": "tout、même、autre 与不定冠词强调",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c04-determiners-l8-q1",
+          "type": "letters",
+          "prompt": "Complétez avec « tout » : Dans cette école, ___ la classe participe au projet.",
+          "answer": "toute",
+          "translation": "在这所学校里，全班都参加这个项目。",
+          "explain": "classe 是阴性单数，tout 作限定形容词要与名词性数一致，用 toute。这里的 tout 修饰名词，不是不变的副词。"
+        },
+        {
+          "id": "pub-c04-determiners-l8-q2",
+          "type": "choice",
+          "prompt": "Complétez : ___ les élèves sont dans la cour.",
+          "options": [
+            "Tout",
+            "Toute",
+            "Tous",
+            "Toutes"
+          ],
+          "answer": 2,
+          "translation": "所有学生都在院子里。",
+          "explain": "élèves 是阳性复数，用 tous；tout 只用于阳性单数，toute 用于阴性单数，toutes 用于阴性复数。"
+        },
+        {
+          "id": "pub-c04-determiners-l8-q3",
+          "type": "tiles",
+          "prompt": "Complétez avec « tout », puis remettez les mots dans l'ordre : « ___ les fenêtres sont ouvertes. »",
+          "answer": [
+            "Toutes",
+            "les",
+            "fenêtres",
+            "sont",
+            "ouvertes."
+          ],
+          "bank": [
+            "Toutes",
+            "les",
+            "fenêtres",
+            "sont",
+            "ouvertes.",
+            "Tous",
+            "Tout",
+            "Toute",
+            "ouverte",
+            "fenêtre"
+          ],
+          "translation": "所有窗户都开着。",
+          "explain": "fenêtres 是阴性复数，tout 用 toutes；句中动词 sont 已给出。ouverte 也取阴性复数 ouvertes。tout 的单数形式不能修饰复数名词。"
+        },
+        {
+          "id": "pub-c04-determiners-l8-q4",
+          "type": "choice",
+          "prompt": "Complétez : ___ ses amies habitent à Paris.",
+          "options": [
+            "Tout",
+            "Tous",
+            "Toute",
+            "Toutes"
+          ],
+          "answer": 3,
+          "translation": "她所有的女性朋友都住在巴黎。",
+          "explain": "amies 是阴性复数，tout 取 toutes；主有限定词 ses 只说明“她的”，不改变 tout 与名词的配合。"
+        },
+        {
+          "id": "pub-c04-determiners-l8-q5",
+          "type": "choice",
+          "prompt": "Complétez avec « même » : Elles portent ___ robe.",
+          "options": [
+            "le même",
+            "la même",
+            "les mêmes",
+            "la mêmes"
+          ],
+          "answer": 1,
+          "translation": "她们穿着同样的连衣裙。",
+          "explain": "robe 是阴性单数，定冠词用 la，même 取阴性单数 même；le même 是阳性单数，les mêmes 是复数，la mêmes 形式不成立。"
+        },
+        {
+          "id": "pub-c04-determiners-l8-q6",
+          "type": "choice",
+          "prompt": "Complétez avec « même » : Nous avons ___ réponses.",
+          "options": [
+            "le mêmes",
+            "la même",
+            "les mêmes",
+            "les même"
+          ],
+          "answer": 2,
+          "translation": "我们有同样的答案。",
+          "explain": "réponses 是阴性复数，定冠词用 les，même 加 -s 成 mêmes，保留 ê。la même 是阴性单数，les même 漏了复数 -s。"
+        },
+        {
+          "id": "pub-c04-determiners-l8-q7",
+          "type": "letters",
+          "prompt": "Mettez au pluriel : « le même exercice » → « les ___ exercices ».",
+          "answer": "mêmes",
+          "accentKeys": [
+            "ê"
+          ],
+          "translation": "同样的练习（复数）。",
+          "explain": "même 作限定词随名词变复数，加 -s 写作 mêmes，并保留长音符号 ê；定冠词 le 也变为 les。"
+        },
+        {
+          "id": "pub-c04-determiners-l8-q8",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Elles ont les même chaussures.",
+            "Elles ont les mêmes chaussures.",
+            "Elles ont les mèmes chaussures.",
+            "Elles ont les mêmes chaussure."
+          ],
+          "answer": 1,
+          "translation": "她们有同样的鞋。",
+          "explain": "chaussures 是复数，même 要加 -s 成 mêmes，且 ê 不能写成 è；名词 chaussures 也必须保持复数。"
+        },
+        {
+          "id": "pub-c04-determiners-l8-q9",
+          "type": "letters",
+          "prompt": "Mettez au pluriel « un autre ami » et complétez : J'ai ___ amis dans cette ville.",
+          "answer": "d'autres",
+          "translation": "我在这座城市里还有别的朋友。",
+          "explain": "复数泛指“别的、另外的”用 d'autres；de 在元音开头的 autres 前省音为 d'。不要写成 des autres，后者是 de + les autres 的缩合结构，功能不同。"
+        },
+        {
+          "id": "pub-c04-determiners-l8-q10",
+          "type": "choice",
+          "prompt": "Choisissez la phrase correcte.",
+          "options": [
+            "D'autres étudiants arrivent demain.",
+            "Des autres étudiants arrivent demain.",
+            "D'autre étudiants arrivent demain.",
+            "D'autres étudiant arrivent demain."
+          ],
+          "answer": 0,
+          "translation": "别的学生明天到。",
+          "explain": "复数泛指用 d'autres + 复数名词 étudiants；des autres 是另一个结构，d'autre 只用于单数，étudiant 不能在这里用单数。"
+        },
+        {
+          "id": "pub-c04-determiners-l8-q11",
+          "type": "choice",
+          "prompt": "Dans « Tout travail mérite salaire », que signifie « tout » ?",
+          "options": [
+            "tous les",
+            "chaque",
+            "entier",
+            "très"
+          ],
+          "answer": 1,
+          "translation": "在 « Tout travail mérite salaire » 中，tout 是什么意思？",
+          "explain": "tout + 单数名词 travail 表示“每一个、任何”，相当于 chaque。这里不是复数限定词 tous les，也不是副词 très；名词保持单数。"
+        },
+        {
+          "id": "pub-c04-determiners-l8-q12",
+          "type": "choice",
+          "prompt": "Dans « Il a une peur bleue », quel est l'effet de l'article « une » ?",
+          "options": [
+            "表示数量“一个”",
+            "表示否定",
+            "加强程度，表示“非常害怕”",
+            "表示部分"
+          ],
+          "answer": 2,
+          "translation": "在 « Il a une peur bleue » 中，不定冠词 une 有什么作用？",
+          "explain": "avoir une peur bleue 是固定搭配，插入不定冠词 une 加强程度，表示“非常害怕”；中性说法是 avoir peur，不加冠词。这里不是数量“一个”。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c04-determiners-l9",
+      "title": "ces 与 ses 的语境辨析",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c04-determiners-l9-q1",
+          "type": "choice",
+          "prompt": "Choisissez les deux formes correctes : « Regarde ___ photos-ci : Julie montre ___ photos préférées. »",
+          "options": [
+            "ces / ses",
+            "ses / ces",
+            "ces / ces",
+            "ses / ses"
+          ],
+          "answer": 0,
+          "translation": "看这些照片：朱莉展示她最喜欢的照片。",
+          "explain": "第一空是现场指认，复数用指示词 ces，并带 -ci；第二空有明确主有者 Julie，“她的”用 ses。photos 是复数并不单独决定用 ces 还是 ses。"
+        },
+        {
+          "id": "pub-c04-determiners-l9-q2",
+          "type": "tiles",
+          "prompt": "Julie et moi avons deux paires de gants. Remettez les mots dans l'ordre en distinguant les deux formes : « ___ gants-ci sont à moi et ___ gants sont neufs. »",
+          "answer": [
+            "Ces",
+            "gants-ci",
+            "sont",
+            "à",
+            "moi",
+            "et",
+            "ses",
+            "gants",
+            "sont",
+            "neufs."
+          ],
+          "bank": [
+            "Ces",
+            "gants-ci",
+            "sont",
+            "à",
+            "moi",
+            "et",
+            "ses",
+            "gants",
+            "sont",
+            "neufs.",
+            "ce",
+            "cette",
+            "mon",
+            "leur",
+            "gant",
+            "est",
+            "neuve"
+          ],
+          "translation": "朱莉和我有两副手套：这副是我的，她的手套是新的。",
+          "explain": "前文 Julie et moi avons deux paires de gants 给出女性主有者 Julie；第一空现场指认用 ces + -ci，第二空指 Julie 的手套用 ses。gants 是复数不决定选择。"
+        },
+        {
+          "id": "pub-c04-determiners-l9-q3",
+          "type": "choice",
+          "prompt": "Paul désigne les livres sur l'étagère et dit : « Regarde ___ livres-là ! »",
+          "options": [
+            "ses",
+            "cet",
+            "cette",
+            "ces"
+          ],
+          "answer": 3,
+          "translation": "保罗指着架子上的书说：“看那些书！”",
+          "explain": "现场指认较远的对象用 ces + -là；livres 是阳性复数，cet 只用于阳性单数，cette 是阴性单数，ses 表示主有而这里没有明确主有者。"
+        },
+        {
+          "id": "pub-c04-determiners-l9-q4",
+          "type": "choice",
+          "prompt": "Choisissez la forme correcte（无指认语境）：Marie parle souvent de ___ deux frères.",
+          "options": [
+            "ces",
+            "les",
+            "ses",
+            "c'est"
+          ],
+          "answer": 2,
+          "translation": "玛丽经常谈起她的两个兄弟。",
+          "explain": "前文有明确主有者 Marie，“她的”用 ses；题干已说明无指认语境，ces 不适用；c'est 不是限定词。frères 是复数，但复数本身不决定用 ses。"
+        },
+        {
+          "id": "pub-c04-determiners-l9-q5",
+          "type": "letters",
+          "prompt": "Complétez : J'essaie ___ chaussures pour la fête.",
+          "answer": "ces",
+          "translation": "我为聚会试穿这双鞋。",
+          "explain": "句中只有说话人 j'，没有第三方主有者，不能用 ses；指“这些”用 ces。chaussures 是复数，但复数本身不单独决定 ces/ses。"
+        },
+        {
+          "id": "pub-c04-determiners-l9-q6",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Léa cherche cet lunettes depuis ce matin.",
+            "Léa cherche ses lunettes depuis ce matin.",
+            "Léa cherche c'est lunettes depuis ce matin.",
+            "Léa cherche ses lunette depuis ce matin."
+          ],
+          "answer": 1,
+          "translation": "莱娅从今天早上就在找她的眼镜。",
+          "explain": "有明确主有者 Léa，“她的”用 ses；cet 只用于阳性单数，不能修饰阴性复数 lunettes；c'est 不是限定词；lunettes 是复数，不能写成 lunette。"
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "pub-c04-determiners-x1",
+      "title": "综合：指示与主有",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c04-determiners-x1-q1",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre en choisissant les formes correctes : ___ garçon-ci est ___ frère et ___ filles-là sont ___ sœurs. (指示词 + 主有词)",
+          "answer": [
+            "Ce",
+            "garçon-ci",
+            "est",
+            "mon",
+            "frère",
+            "et",
+            "ces",
+            "filles-là",
+            "sont",
+            "mes",
+            "sœurs."
+          ],
+          "bank": [
+            "Ce",
+            "garçon-ci",
+            "est",
+            "mon",
+            "frère",
+            "et",
+            "ces",
+            "filles-là",
+            "sont",
+            "mes",
+            "sœurs.",
+            "Cet",
+            "Cette",
+            "ma",
+            "ta",
+            "garçons",
+            "fille"
+          ],
+          "translation": "这个男孩是我的兄弟，那些女孩是我的姐妹。",
+          "explain": "garçon 是阳性单数、辅音开头，用 ce + -ci；filles 是阴性复数，用 ces + -là。主有者为说话人，frère 阳性单数用 mon，sœurs 阴性复数用 mes。"
+        },
+        {
+          "id": "pub-c04-determiners-x1-q2",
+          "type": "choice",
+          "prompt": "Complétez : « ___ femme est ___ professeur. »",
+          "options": [
+            "Cette / notre",
+            "Cet / notre",
+            "Ce / notre",
+            "Cette / nos"
+          ],
+          "answer": 0,
+          "translation": "这位女士是我们的老师。",
+          "explain": "femme 是阴性单数，指示词用 cette；主有者为 nous（复数），professeur 是单数，用 notre，不用 nos。指示词和主有词分别按各自规则选形。"
+        },
+        {
+          "id": "pub-c04-determiners-x1-q3",
+          "type": "choice",
+          "prompt": "Complétez : « ___ amie et ses cousins habitent dans ___ maison. »",
+          "options": [
+            "Ma / cette",
+            "Mon / cette",
+            "Mon / cet",
+            "Ma / ce"
+          ],
+          "answer": 1,
+          "translation": "我的女性朋友和她的表兄弟住在这所房子里。",
+          "explain": "amie 是阴性单数，但以元音开头，主有限定词改用 mon，不能写 ma；maison 是阴性单数，指示词用 cette。ses cousins 是复数，是题中已给信息。"
+        },
+        {
+          "id": "pub-c04-determiners-x1-q4",
+          "type": "choice",
+          "prompt": "Complétez : « Regarde ___ enfants : ___ père est médecin. »",
+          "options": [
+            "ses / leur",
+            "ces / leurs",
+            "ces / leur",
+            "cet / son"
+          ],
+          "answer": 2,
+          "translation": "看这些孩子：他们的父亲是医生。",
+          "explain": "现场指认复数用 ces；père 是单数、主有者为复数“他们”，用 leur，不用 leurs。ses 表主有但这里是指认，cet 只用于阳性单数。"
+        },
+        {
+          "id": "pub-c04-determiners-x1-q5",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre en choisissant les formes correctes : ___ professeur choisit ___ livres-ci pour ___ élèves. (主有词 + 指示词)",
+          "answer": [
+            "Notre",
+            "professeur",
+            "choisit",
+            "ces",
+            "livres-ci",
+            "pour",
+            "ses",
+            "élèves."
+          ],
+          "bank": [
+            "Notre",
+            "professeur",
+            "choisit",
+            "ces",
+            "livres-ci",
+            "pour",
+            "ses",
+            "élèves.",
+            "de",
+            "dans",
+            "choisissent",
+            "livre",
+            "élève"
+          ],
+          "translation": "我们的老师为他的学生挑选这些书。",
+          "explain": "主有者 nous 为复数，professeur 是单数，用 notre；élèves 是复数，用 ses；现场指认复数 livres 用 ces + -ci。三个限定词各自按名词的性数判断。"
+        },
+        {
+          "id": "pub-c04-determiners-x1-q6",
+          "type": "choice",
+          "prompt": "Complétez : « ___ histoire est passionnante ; ___ fin est surprenante. »",
+          "options": [
+            "Cet / sa",
+            "Ce / son",
+            "Cette / son",
+            "Cette / sa"
+          ],
+          "answer": 3,
+          "translation": "这个故事很精彩；它的结尾出人意料。",
+          "explain": "histoire 是阴性单数，指示词用 cette；fin 也是阴性单数，主有者为单数第三人称，用 sa。cet/ce 是阳性，son 用于阳性单数名词。"
+        },
+        {
+          "id": "pub-c04-determiners-x1-q7",
+          "type": "choice",
+          "prompt": "Complétez : « ___ homme est ___ voisin. »",
+          "options": [
+            "Ce / notre",
+            "Cet / notre",
+            "Cette / notre",
+            "Cet / nos"
+          ],
+          "answer": 1,
+          "translation": "这位男士是我们的邻居。",
+          "explain": "homme 是阳性单数且以哑音 h 开头，指示词用 cet；主有者为 nous（复数），voisin 是单数，用 notre，不用 nos。"
+        },
+        {
+          "id": "pub-c04-determiners-x1-q8",
+          "type": "tiles",
+          "prompt": "Paul et Marie ont des enfants. Remettez les mots dans l'ordre en choisissant les formes correctes : ___ (leur) enfants sont dans ___ (ce) école et ___ (leur) professeurs sont contents.",
+          "answer": [
+            "Leurs",
+            "enfants",
+            "sont",
+            "dans",
+            "cette",
+            "école",
+            "et",
+            "leurs",
+            "professeurs",
+            "sont",
+            "contents."
+          ],
+          "bank": [
+            "Leurs",
+            "enfants",
+            "sont",
+            "dans",
+            "cette",
+            "école",
+            "et",
+            "leurs",
+            "professeurs",
+            "sont",
+            "contents.",
+            "Leur",
+            "ces",
+            "ce",
+            "enfant",
+            "professeur",
+            "contente"
+          ],
+          "translation": "他们的孩子在这所学校，他们的老师很满意。",
+          "explain": "前文 Paul et Marie ont des enfants 给出复数主有者；enfants/professeurs 是复数，用 leurs；école 是阴性单数，指示词用 cette。leur 只用于单数名词，ce 是阳性单数。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c04-determiners-x2",
+      "title": "综合：数量限定与主有",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c04-determiners-x2-q1",
+          "type": "choice",
+          "prompt": "Complétez : « ___ étudiant apporte ___ livre. »",
+          "options": [
+            "Chaque / ses",
+            "Chaque / son",
+            "Plusieurs / son",
+            "Chaque / leur"
+          ],
+          "answer": 1,
+          "translation": "每个学生都带自己的书。",
+          "explain": "chaque 只修饰单数，étudiant 是单数；主有者为单数第三人称，livre 是阳性单数，用 son。ses 用于复数名词，plusieurs 不能修饰单数。"
+        },
+        {
+          "id": "pub-c04-determiners-x2-q2",
+          "type": "choice",
+          "prompt": "Complétez : « ___ étudiantes préparent ___ exposés. »",
+          "options": [
+            "Plusieurs / leur",
+            "Chaque / leurs",
+            "Quelques / leur",
+            "Plusieurs / leurs"
+          ],
+          "answer": 3,
+          "translation": "几个女学生准备她们的展示。",
+          "explain": "plusieurs 只修饰复数，étudiantes 是复数；主有者为复数，exposés 是阳性复数，用 leurs。leur 用于单数名词，chaque 不能修饰复数。"
+        },
+        {
+          "id": "pub-c04-determiners-x2-q3",
+          "type": "choice",
+          "prompt": "Complétez : « ___ amies de Marie ont chacune une robe et elles prêtent ___ robes. »",
+          "options": [
+            "Quelques / ses",
+            "Plusieurs / leur",
+            "Quelques / leurs",
+            "Chaque / leurs"
+          ],
+          "answer": 2,
+          "translation": "玛丽的几个女性朋友每人有一条连衣裙，她们把各自的连衣裙借出去。",
+          "explain": "quelques 只修饰复数 amies；chacune une robe 说明每人有自己的连衣裙，第二空用 leurs 指主语 elles 的连衣裙，而不是 Marie 的 ses；chaque 不能修饰复数。"
+        },
+        {
+          "id": "pub-c04-determiners-x2-q4",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre en choisissant les formes correctes : ___ enfant range ___ jouets dans ___ boîte. (数量词 + 主有词 + 指示词)",
+          "answer": [
+            "Chaque",
+            "enfant",
+            "range",
+            "ses",
+            "jouets",
+            "dans",
+            "cette",
+            "boîte."
+          ],
+          "bank": [
+            "Chaque",
+            "enfant",
+            "range",
+            "ses",
+            "jouets",
+            "dans",
+            "cette",
+            "boîte.",
+            "Plusieurs",
+            "son",
+            "leur",
+            "ce",
+            "enfants",
+            "jouet",
+            "boîtes"
+          ],
+          "translation": "每个孩子把玩具收进这个盒子里。",
+          "explain": "chaque 只修饰单数 enfant；jouets 是阳性复数，用 ses；boîte 是阴性单数，用 cette。三个限定词分别随各自名词判断。"
+        },
+        {
+          "id": "pub-c04-determiners-x2-q5",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre en choisissant les formes correctes : ___ voisins vendent ___ maison et ___ voitures. (数量词 + 主有词)",
+          "answer": [
+            "Plusieurs",
+            "voisins",
+            "vendent",
+            "leur",
+            "maison",
+            "et",
+            "leurs",
+            "voitures."
+          ],
+          "bank": [
+            "Plusieurs",
+            "voisins",
+            "vendent",
+            "leur",
+            "maison",
+            "et",
+            "leurs",
+            "voitures.",
+            "Chaque",
+            "voisin",
+            "vend",
+            "son",
+            "sa",
+            "le",
+            "de"
+          ],
+          "translation": "几个邻居在卖他们的房子和他们的车。",
+          "explain": "plusieurs 修饰复数 voisins；主有者为复数，maison 是单数用 leur，voitures 是复数用 leurs。leur/leurs 只看被拥有名词的单复数。"
+        },
+        {
+          "id": "pub-c04-determiners-x2-q6",
+          "type": "choice",
+          "prompt": "Complétez : « ___ cousins habitent à Nice et ___ enfants sont à l'école. »",
+          "options": [
+            "Plusieurs / leurs",
+            "Plusieurs / leur",
+            "Quelque / leurs",
+            "Chaque / leurs"
+          ],
+          "answer": 0,
+          "translation": "好几个表兄弟住在尼斯，他们的孩子在学校。",
+          "explain": "plusieurs 只修饰复数 cousins；主有者为复数 cousins，enfants 是复数，用 leurs。leur 用于单数名词，quelque 是单数形式，chaque 也不能修饰复数。"
+        },
+        {
+          "id": "pub-c04-determiners-x2-q7",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre en choisissant les formes correctes : ___ étudiants de ___ classe parlent trois langues. (数量词 + 主有词)",
+          "answer": [
+            "Plusieurs",
+            "étudiants",
+            "de",
+            "ma",
+            "classe",
+            "parlent",
+            "trois",
+            "langues."
+          ],
+          "bank": [
+            "Plusieurs",
+            "étudiants",
+            "de",
+            "ma",
+            "classe",
+            "parlent",
+            "trois",
+            "langues.",
+            "étudiant",
+            "mon",
+            "mes",
+            "à",
+            "parle",
+            "langue"
+          ],
+          "translation": "我班上的几个学生说三种语言。",
+          "explain": "plusieurs 只修饰复数 étudiants，动词 parlent 也取复数；classe 是阴性单数，主有词用 ma。chaque 不能修饰复数，mon/mes 与 classe 的性数不合。"
+        },
+        {
+          "id": "pub-c04-determiners-x2-q8",
+          "type": "choice",
+          "prompt": "Complétez : « ___ étudiants parlent à ___ professeur et à ___ parents. »",
+          "options": [
+            "Plusieurs / leurs / leur",
+            "Chaque / son / ses",
+            "Quelques / leur / leur",
+            "Plusieurs / leur / leurs"
+          ],
+          "answer": 3,
+          "translation": "几个学生和他们的老师以及他们的父母说话。",
+          "explain": "plusieurs 修饰复数 étudiants；主有者为复数，professeur 是单数用 leur，parents 是复数用 leurs。leur/leurs 的差别只在被拥有名词的单复数。"
+        }
+      ]
+    }
+  ]
+}

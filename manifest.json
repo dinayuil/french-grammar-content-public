@@ -10,10 +10,11 @@
     "chapters/pub-c06-verbs.json",
     "chapters/pub-c07-negation-questions.json",
     "chapters/pub-c08-imperative-emphasis.json",
+    "chapters/pub-c09-past-tenses.json",
     "chapters/pub-predication.json",
     "chapters/pub-articles.json",
     "chapters/pub-agreement.json"
   ],
-  "expectedChapterCount": 11,
-  "expectedQuestionCount": 1183
+  "expectedChapterCount": 12,
+  "expectedQuestionCount": 1588
 }

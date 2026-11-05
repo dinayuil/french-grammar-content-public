@@ -397,20 +397,6 @@
       "source": "原创编写，待人工审校",
       "questions": [
         {
-          "id": "pub-articles-l4-q1",
-          "prompt": "Mon voisin est ___ depuis vingt ans.（只说明职业身份，不特指‘那位医生’）",
-          "translation": "我邻居当医生二十年了。",
-          "explain": "表示职业身份时，être 后通常用零冠词：Il est médecin。这里只是说明职业，不特指某一位医生，所以不用 le médecin；要强调“一名医生”常用 c'est un médecin。",
-          "type": "choice",
-          "options": [
-            "un médecin",
-            "médecin",
-            "le médecin",
-            "des médecins"
-          ],
-          "answer": 1
-        },
-        {
           "id": "pub-articles-l4-q3",
           "prompt": "Elle apprend ___ français à l'école.（指这门语言）",
           "translation": "她在学校学法语。",
@@ -564,20 +550,6 @@
             "des",
             "à les"
           ]
-        },
-        {
-          "id": "pub-articles-x1-q4",
-          "prompt": "Ma sœur a ___.（用 avoir 说年龄）",
-          "translation": "我妹妹十八岁。",
-          "explain": "年龄用 avoir + 数词 + ans，ans 前不加冠词；不要受中文“十八岁”影响添加冠词。",
-          "type": "choice",
-          "options": [
-            "dix-huit ans",
-            "les dix-huit ans",
-            "un dix-huit ans",
-            "des dix-huit ans"
-          ],
-          "answer": 0
         },
         {
           "id": "pub-articles-x1-q5",

@@ -7,10 +7,11 @@
     "chapters/pub-c03-adjectives.json",
     "chapters/pub-c04-determiners.json",
     "chapters/pub-c05-present.json",
+    "chapters/pub-c06-verbs.json",
     "chapters/pub-predication.json",
     "chapters/pub-articles.json",
     "chapters/pub-agreement.json"
   ],
-  "expectedChapterCount": 8,
-  "expectedQuestionCount": 690
+  "expectedChapterCount": 9,
+  "expectedQuestionCount": 924
 }

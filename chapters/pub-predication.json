@@ -159,20 +159,6 @@
             "avons n'"
           ],
           "answer": 1
-        },
-        {
-          "id": "pub-predication-l4-q6",
-          "prompt": "Il n'y ___ pas de problème.",
-          "translation": "没有问题。",
-          "explain": "il y a 的否定是 il n'y a pas；a 是 avoir 的第三人称单数。",
-          "type": "choice",
-          "options": [
-            "ont",
-            "a pas",
-            "est",
-            "a"
-          ],
-          "answer": 3
         }
       ]
     },
@@ -211,48 +197,6 @@
           "answer": 3
         },
         {
-          "id": "pub-predication-l5-q3",
-          "prompt": "Mon père travaille à l'hôpital. ___ médecin.",
-          "translation": "我父亲在医院工作。他是医生。",
-          "explain": "职业前用 il est，且职业名词前不加冠词；c'est 后通常要接限定名词，如 c'est un médecin。",
-          "type": "choice",
-          "options": [
-            "Ce sont",
-            "Il y a",
-            "Il est",
-            "C'est"
-          ],
-          "answer": 2
-        },
-        {
-          "id": "pub-predication-l5-q4",
-          "prompt": "___ un livre sur la table.（表示存在）",
-          "translation": "桌子上有一本书。",
-          "explain": "表示“某处存在某物”用 il y a；c'est 用于指认，不表示存在。",
-          "type": "choice",
-          "options": [
-            "Il y a",
-            "Il est",
-            "Ce sont",
-            "C'est"
-          ],
-          "answer": 0
-        },
-        {
-          "id": "pub-predication-l5-q5",
-          "prompt": "Dans la salle, ___ trois chaises.（表示存在）",
-          "translation": "房间里有三把椅子。",
-          "explain": "表达存在数量用 il y a；后面的名词是复数也不改变 il y a 的形式。",
-          "type": "choice",
-          "options": [
-            "il est",
-            "il y a",
-            "ce sont",
-            "c'est"
-          ],
-          "answer": 1
-        },
-        {
           "id": "pub-predication-l5-q6",
           "prompt": "用词块组成句子：这是一个好主意。要求以 C'est 开头（句首大写），句末加句号。",
           "translation": "这是一个好主意。",
@@ -273,20 +217,6 @@
             "un",
             "il y a"
           ]
-        },
-        {
-          "id": "pub-predication-l5-q7",
-          "prompt": "Ton frère ? ___ très gentil.（形容你哥哥的性格）",
-          "translation": "你哥哥呢？他人很好。",
-          "explain": "形容词 gentil 前用 il est；c'est 后一般接名词或评价结构，如 c'est gentil de ta part。",
-          "type": "choice",
-          "options": [
-            "Ce sont",
-            "Il est",
-            "Il y a",
-            "C'est"
-          ],
-          "answer": 1
         }
       ]
     }
@@ -298,20 +228,6 @@
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
-        {
-          "id": "pub-predication-x1-q1",
-          "prompt": "Dans le jardin, ___ des fleurs et un vieux pommier.（表示存在）",
-          "translation": "花园里有花和一棵老苹果树。",
-          "explain": "表示存在用 il y a；后面的名词即使有复数，也不改用 ce sont。",
-          "type": "choice",
-          "options": [
-            "ce sont",
-            "il est",
-            "c'est",
-            "il y a"
-          ],
-          "answer": 3
-        },
         {
           "id": "pub-predication-x1-q2",
           "prompt": "用词块组成句子：我今天没空。请用标准书面否定并保留 ne，要求以 Je 开头（句首大写），把 aujourd'hui 放在句末，句末加句号。",
@@ -350,47 +266,6 @@
             "C'est"
           ],
           "answer": 3
-        },
-        {
-          "id": "pub-predication-x1-q5",
-          "prompt": "用词块组成句子：我们有两个孩子和一只狗。要求以 Nous 开头（句首大写），按“两个孩子→一只狗”的顺序，句末加句号。",
-          "translation": "我们有两个孩子和一只狗。",
-          "explain": "nous 用 avons；deux 后直接接复数名词 enfants，不再加冠词；et 连接并列宾语。",
-          "type": "tiles",
-          "answer": [
-            "Nous",
-            "avons",
-            "deux",
-            "enfants",
-            "et",
-            "un",
-            "chien."
-          ],
-          "bank": [
-            "Nous",
-            "avons",
-            "deux",
-            "enfants",
-            "et",
-            "un",
-            "chien.",
-            "ont",
-            "des"
-          ]
-        },
-        {
-          "id": "pub-predication-x1-q6",
-          "prompt": "___ des livres intéressants à la bibliothèque.（表示存在）",
-          "translation": "图书馆里有一些有趣的书。",
-          "explain": "表示存在用 il y a；des livres 是复数名词，但 il y a 的形式不变。",
-          "type": "choice",
-          "options": [
-            "C'est",
-            "Il est",
-            "Il y a",
-            "Ce sont"
-          ],
-          "answer": 2
         },
         {
           "id": "pub-predication-x1-q8",

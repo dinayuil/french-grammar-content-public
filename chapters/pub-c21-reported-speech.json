@@ -178,7 +178,7 @@
             "travailler",
             "travaillera"
           ],
-          "translation": "他宣布他在这里工作两年了。",
+          "translation": "「我在这里工作两年了」，他宣布。",
           "explain": "陈述句用 que 从句；引导动词 déclare 是现在时，从句保留现在时 travaille，不回溯。je 按说话人变成 il，所以用 qu'il；题中没有改变转述地点，ici 可以保留。travaillait 是错误回溯，là-bas 改变了地点指称，travailler 是不定式，不能作从句的变位动词。"
         },
         {
@@ -315,7 +315,7 @@
             "que",
             "compris"
           ],
-          "translation": "他对我说他没听懂这个问题。",
+          "translation": "「我不明白这个问题」，他对我说。",
           "explain": "引导动词 m'a dit 是复合过去时，现在时 comprends 回溯为未完成过去时 comprenait；je 变成 il，所以用 qu'il。否定结构 ne...pas 保持在从句内，cette 不变。comprend 没有回溯，ce 是错误指示词，que 缺少省音，compris 是过去分词，都不能作从句的变位动词。"
         },
         {
@@ -346,7 +346,7 @@
             "que",
             "mon"
           ],
-          "translation": "玛丽解释说她丢了自己的钥匙。",
+          "translation": "「我丢了我的钥匙」，玛丽解释说。",
           "explain": "原话是复合过去时 ai perdu，引导动词是过去时，回溯为愈过去时 avait perdu；je 变成 elle，mes 变成 ses。perdait 对应现在时，son 是单数物主词，que 未省音，mon 仍指原说话人，都不符合转述后的指称。"
         },
         {
@@ -360,7 +360,7 @@
             "Marie attend une autre personne."
           ],
           "answer": 0,
-          "translation": "保罗对玛丽说他会在火车站前等她。",
+          "translation": "保罗对玛丽说，他会在火车站前等某人。谁等谁？",
           "explain": "从句主语 il 指说话人 Paul，l' 是直接宾语代词，指听话人 Marie；attendre 的动作由 Paul 发出。转述时人称代词要按新的说话关系还原，不能把 il 理解成 Marie。"
         },
         {
@@ -441,7 +441,7 @@
             "qu'il",
             "hier"
           ],
-          "translation": "电台宣布总统明天到。",
+          "translation": "「总统明天到」，电台宣布。",
           "explain": "引导动词 annonce 是现在时，从句保留现在时 arrive，不回溯；陈述句用 que 引出，demain 仍以现在为参照，保持不变。annonçait 和 arrivait 是错误回溯，qu'il 会把明确名词换成代词 il，失去原句的明确指称，hier 会把时间推到过去。"
         },
         {
@@ -468,7 +468,7 @@
             "Marie m'a confié que ses parents ne savaient pas qu'elle est partie."
           ],
           "answer": 1,
-          "translation": "玛丽向我吐露她的父母不知道她走了。",
+          "translation": "玛丽向我吐露：「我父母不知道我走了。」（她已经回来了。）",
           "explain": "引导动词是过去时，两个从句的现在时都要回溯：savent 变成 savaient，suis partie 变成 était partie。人称也要重排：mes parents 指 Marie 的父母，转述后是 ses parents；je 变成 elle。题干说明 Marie 已经回来，suis partie 描述的是已完成的动作，必须回溯；若转述时她还在外面，保留 est partie 也可接受。第一项没有换人称，第三项两个时态都没回溯，第四项只回溯了第一个。"
         },
         {
@@ -482,7 +482,7 @@
             "Le ministre a déclaré que la réforme entrerait en vigueur en janvier."
           ],
           "answer": 3,
-          "translation": "部长宣布改革将于一月生效。",
+          "translation": "「改革将于一月生效」，部长宣布。",
           "explain": "引导动词 a déclaré 是过去时，原话的简单将来时 entrera 回溯为条件式现在时 entrerait。entrera 没有回溯；entrait 对应现在时；était entrée 表示先于参照点完成，都不符合原话的将来关系。"
         },
         {
@@ -517,7 +517,7 @@
             "que",
             "son"
           ],
-          "translation": "保罗讲述说他和姐姐参观了罗马。",
+          "translation": "保罗讲述说：「我和姐姐参观了罗马。」",
           "explain": "原话是复合过去时 ai visité，引导动词是过去时，回溯为愈过去时 avait visité；je 变成 il，ma 变成 sa。visitait 对应现在时，mon 仍指原说话人，que 缺少省音，son 与阴性名词 sœur 的性不匹配。"
         },
         {
@@ -537,7 +537,7 @@
         {
           "id": "pub-c21-reported-speech-l1-q23",
           "type": "choice",
-          "prompt": "Marie a dit à Paul : « Je suis encore fatiguée aujourd'hui. » Paul rapporte. Quelle phrase est correcte ?",
+          "prompt": "Marie a dit à Paul : « Je suis encore fatiguée aujourd'hui. » Paul rapporte le lendemain. Quelle phrase est correcte ?",
           "options": [
             "Marie m'a dit qu'elle était encore fatiguée ce jour-là.",
             "Marie m'a dit qu'elle était encore fatigué ce jour-là.",
@@ -545,13 +545,13 @@
             "Marie m'a dit qu'elle était encore fatiguée aujourd'hui."
           ],
           "answer": 0,
-          "translation": "玛丽告诉保罗她那天还累。",
+          "translation": "玛丽对保罗说：「我今天还是累。」（保罗第二天转述）",
           "explain": "现在时 suis 回溯为 était；aujourd'hui 按转述参照改为 ce jour-là；je 指 Marie，转述为 elle；表语形容词与新的主语配合为 fatiguée。"
         },
         {
           "id": "pub-c21-reported-speech-l1-q24",
           "type": "choice",
-          "prompt": "Paul a dit à Julie : « Je suis arrivé en retard aujourd'hui. » Julie rapporte à Marie le soir même. Quelle phrase est correcte ?",
+          "prompt": "Paul a dit à Julie : « Je suis arrivé en retard aujourd'hui. » Julie rapporte à Marie le lendemain. Quelle phrase est correcte ?",
           "options": [
             "Paul m'a dit qu'il était arrivée en retard ce jour-là.",
             "Paul m'a dit qu'il était arrivé en retard ce jour-là.",
@@ -559,7 +559,7 @@
             "Paul m'a dit qu'il avait arrivé en retard ce jour-là."
           ],
           "answer": 1,
-          "translation": "保罗告诉朱莉他那天迟到了。",
+          "translation": "保罗对朱莉说：「我今天迟到了。」（朱莉第二天向玛丽转述）",
           "explain": "复合过去时 suis arrivé 回溯为 était arrivé；aujourd'hui 改为 ce jour-là；je 指 Paul，转述为 il；分词与主语配合为 arrivé（男性）。"
         }
       ]
@@ -581,7 +581,7 @@
             "est-ce que"
           ],
           "answer": 1,
-          "translation": "他问我是否和他一起去。",
+          "translation": "他问我：「你和我一起去吗？」",
           "explain": "原句是一般疑问句，转述用 si 引出宾语从句；est-ce que 要去掉，主谓倒装也回到陈述语序。que 用于陈述句；quand 是疑问词，原句没有问时间；est-ce que 不能留在间接疑问里。"
         },
         {
@@ -595,7 +595,7 @@
             "que il"
           ],
           "answer": 2,
-          "translation": "她问他是否已经走了。",
+          "translation": "她问：「他已经走了吗？」",
           "explain": "一般疑问用 si 转述；si 遇 il 要省音为 s'il。si il 缺少省音；qu'il 会把疑问转成陈述；que il 既用错连词又缺少省音。"
         },
         {
@@ -705,7 +705,7 @@
             "pourra",
             "m'aider."
           ],
-          "translation": "她问保罗是否能帮她。",
+          "translation": "她问：「保罗能帮我吗？」",
           "explain": "一般疑问用 si 转述，去掉 est-ce que，保留陈述语序 Paul peut。原话的 m' 指说话人 elle，转述后要变成 l'：Paul peut l'aider。que 用于陈述句；est-ce 不能保留；peut-il 是倒装形式；pourra 是将来时，改变了原话时态；m'aider 仍指转述者，指称错误。"
         },
         {
@@ -858,7 +858,7 @@
             "veux",
             "est-ce"
           ],
-          "translation": "他问我是否想和他一起来。",
+          "translation": "他问我：「你想和我一起来吗？」",
           "explain": "一般疑问用 si 转述，去掉 est-ce que；原句已有过去时 voulais，引导动词也是过去时，保留未完成过去时表示当时的状态。人称也要改：tu 变成 je，moi 变成 lui。que 用于陈述句，voulais-tu 是倒装，veux 会改变时态，est-ce 不能保留。"
         },
         {
@@ -886,13 +886,13 @@
             "Julie"
           ],
           "answer": 3,
-          "translation": "保罗问朱莉她是否完成了工作。",
+          "translation": "保罗问朱莉，某人是否完成了那项工作。谁应该完成这项工作？",
           "explain": "si 从句的主语 elle 指听话人 Julie；son travail 也随 elle 指 Julie 的工作。Paul 是提问的人，不是完成工作的主语。转述后的人称代词要回到具体所指来判断。"
         },
         {
           "id": "pub-c21-reported-speech-l2-q19",
           "type": "choice",
-          "prompt": "Paul a demandé à Marie : « Quelles clés aviez-vous perdues hier ? » Marie rapporte le lendemain. Quelle phrase est correcte ?",
+          "prompt": "Paul a demandé à Marie : « Quelles clés avez-vous perdues hier ? » Marie rapporte le lendemain. Quelle phrase est correcte ?",
           "options": [
             "Paul m'a demandé quelles clés j'avais perdu la veille.",
             "Paul m'a demandé quelles clés j'ai perdues hier.",
@@ -900,8 +900,8 @@
             "Paul m'a demandé quelles clés vous aviez perdues la veille."
           ],
           "answer": 2,
-          "translation": "保罗问玛丽前一天丢了哪些钥匙。",
-          "explain": "特殊疑问保留 quelles clés，语序回到陈述；aviez 回溯为 avais；hier 改为 la veille；vous 指 Marie，转述为 je；分词 perdues 与前置直接宾语 quelles clés（阴性复数）配合。"
+          "translation": "保罗问玛丽：「您昨天丢了哪些钥匙？」（玛丽第二天转述）",
+          "explain": "特殊疑问保留 quelles clés，语序回到陈述；avez 回溯为 avais；hier 改为 la veille；vous 指 Marie，转述为 je；分词 perdues 与前置直接宾语 quelles clés（阴性复数）配合。"
         }
       ]
     },
@@ -914,7 +914,7 @@
         {
           "id": "pub-c21-reported-speech-l2-q20",
           "type": "choice",
-          "prompt": "Julie a demandé à Paul : « Quels exercices aviez-vous faits la semaine dernière ? » Paul rapporte le lundi suivant. Quelle phrase est correcte ?",
+          "prompt": "Julie a demandé à Paul : « Quels exercices avez-vous faits la semaine dernière ? » Paul rapporte le lundi suivant. Quelle phrase est correcte ?",
           "options": [
             "Julie m'a demandé quels exercices j'avais fait la semaine précédente.",
             "Julie m'a demandé quels exercices j'ai faits la semaine dernière.",
@@ -922,8 +922,8 @@
             "Julie m'a demandé quels exercices j'avais faits la semaine précédente."
           ],
           "answer": 3,
-          "translation": "朱莉问保罗上一周做了哪些练习。",
-          "explain": "保留 quels exercices，语序回到陈述；aviez 回溯为 avais；la semaine dernière 改为 la semaine précédente；vous 指 Paul，转述为 je；分词 faits 与前置直接宾语 quels exercices（阳性复数）配合。"
+          "translation": "朱莉问保罗：「您上周做了哪些练习？」（保罗在接下来那个周一转述）",
+          "explain": "保留 quels exercices，语序回到陈述；avez 回溯为 avais；la semaine dernière 改为 la semaine précédente；vous 指 Paul，转述为 je；分词 faits 与前置直接宾语 quels exercices（阳性复数）配合。"
         },
         {
           "id": "pub-c21-reported-speech-l2-q21",
@@ -936,7 +936,7 @@
             "Paul m'a demandé si je les retrouvais la veille."
           ],
           "answer": 0,
-          "translation": "保罗问玛丽前一天是否找到了钥匙。",
+          "translation": "保罗问玛丽：「你昨天找到那些钥匙了吗？」",
           "explain": "一般疑问用 si；as 回溯为 avais；hier 改为 la veille；les 指 les clés（阴性复数），置于分词前，分词配合为 retrouvées。"
         },
         {
@@ -950,7 +950,7 @@
             "Marie m'a demandé si je les voyais la veille."
           ],
           "answer": 1,
-          "translation": "玛丽问保罗前一天是否看到了那些照片。",
+          "translation": "玛丽问保罗：「你昨天看到那些照片了吗？」",
           "explain": "一般疑问用 si；as 回溯为 avais；hier 改为 la veille；les 指 les photos（阴性复数），分词配合为 vues。"
         },
         {
@@ -1012,7 +1012,7 @@
         {
           "id": "pub-c21-reported-speech-l2-q27",
           "type": "choice",
-          "prompt": "Transformez au discours indirect : « Qu'est-ce qui arrivera demain ? », a-t-il demandé.",
+          "prompt": "Le jour suivant, il a demandé : « Qu'est-ce qui arrivera demain ? » Transformez au discours indirect.",
           "options": [
             "Il a demandé ce qui arrivera demain.",
             "Il a demandé qu'est-ce qui arriverait le lendemain.",
@@ -1020,7 +1020,7 @@
             "Il a demandé ce qui arriverait demain."
           ],
           "answer": 2,
-          "translation": "他问第二天会发生什么。",
+          "translation": "他问：「明天会发生什么？」",
           "explain": "qu'est-ce qui 转为 ce qui；arrivera 回溯为 arriverait；demain 改为 le lendemain；语序回到陈述。"
         },
         {
@@ -1056,7 +1056,7 @@
             "Le professeur a demandé à Paul qu'il fermait la porte."
           ],
           "answer": 2,
-          "translation": "老师让保罗关门。",
+          "translation": "老师对保罗说：「保罗，关上门！」",
           "explain": "命令式 ferme 转述时用 dire à qn de + 不定式：a dit à Paul de fermer。que 从句不是命令转述的常规结构；第二项缺 de；第四项既用 que 又用未完成过去时，结构和意义都不对。"
         },
         {
@@ -1070,7 +1070,7 @@
             "Paul m'a demandé de donner lui mon adresse."
           ],
           "answer": 0,
-          "translation": "保罗让我把我的地址给他。",
+          "translation": "保罗对玛丽说：「把你的地址给我。」",
           "explain": "原话 moi 指保罗，转述中作间接宾语 lui；ton adresse 指玛丽，玛丽自己转述时用 mon adresse。第二项 me 把地址指给玛丽自己；第三项 ton 还停留在原对话的听话人视角；第四项代词位置错误。"
         },
         {
@@ -1104,7 +1104,7 @@
             "à",
             "ouvrir"
           ],
-          "translation": "老师让我们关窗户。",
+          "translation": "老师对我们说：「关上窗户！」",
           "explain": "命令式 fermez 转为 de + 不定式 fermer；dire à qn de faire qch 的间接宾语 nous 放在 a dit 前。不能保留命令式 fermez，也不能改用 que 从句。"
         },
         {
@@ -1118,7 +1118,7 @@
             "Sa mère lui a dit de ne partir pas."
           ],
           "answer": 1,
-          "translation": "他母亲让他别走。",
+          "translation": "他母亲对他说：「别走！」",
           "explain": "否定命令转述为 de ne pas + 不定式：de ne pas partir。de 在最前，ne pas 整体紧跟其后，不能拆开或把 pas 放到句末。先检查 ne pas 是否完整地位于不定式前。"
         },
         {
@@ -1145,7 +1145,7 @@
             "s",
             "i"
           ],
-          "translation": "索菲让我们明天早上给她回电话。",
+          "translation": "索菲让我们明天早上___回电话。",
           "explain": "Sophie 是女性，作 rappeler 的直接宾语，用 la，放在不定式 rappeler 前。rappeler qn 意为「给某人回电话」，人作直接宾语；不要用 lui（间接宾语）或 le（阳性）。"
         }
       ]
@@ -1187,7 +1187,7 @@
             "envoyé",
             "qu'il"
           ],
-          "translation": "保罗让我在周一前把它寄给他。",
+          "translation": "保罗对玛丽说：「在周一前把它寄给我！」",
           "explain": "命令式转 de + 不定式；原话 moi 指保罗，转述中作 lui；le 是直接宾语，两个代词按 le + lui 排序，放在 envoyer 前。不能保留 moi，也不能把 envoyer 变成过去分词 envoyé。"
         },
         {
@@ -1243,7 +1243,7 @@
             "Paul m'a dit aller voir le médecin et demander-lui où j'avais mal."
           ],
           "answer": 2,
-          "translation": "保罗叫玛丽去看医生，并问医生哪里不舒服。",
+          "translation": "保罗叫玛丽去看医生，并让玛丽问医生她哪里疼。",
           "explain": "两个并列命令都用 de + 不定式；内嵌疑问保留 où，语序回到陈述；as 回溯为 avais；lui 指 le médecin。"
         },
         {
@@ -1257,7 +1257,7 @@
             "Léa m'a crié de rentrer à la maison et de demander à ma sœur où elle était."
           ],
           "answer": 3,
-          "translation": "莱娅叫汤姆回家，并问汤姆的妹妹在哪里。",
+          "translation": "莱娅叫汤姆回家，并让汤姆问他妹妹在哪里。",
           "explain": "并列命令用 de + 不定式；où 保留，语序回到陈述；est 回溯为 était；ta sœur 对转述者 Tom 来说是 ma sœur。"
         }
       ]
@@ -1279,7 +1279,7 @@
             "leur"
           ],
           "answer": 2,
-          "translation": "保罗对我说他把他的自行车借给我。",
+          "translation": "保罗对玛丽说：「我把我的自行车借给你。」",
           "explain": "mon vélo 的 mon 指原说话人保罗；转述后从句主语是 il，物主词随主语用 son。mon 保留原说话人视角，ton 会把自行车指给听话人，leur 指复数所有者，都不符合。"
         },
         {
@@ -1293,7 +1293,7 @@
             "leurs"
           ],
           "answer": 0,
-          "translation": "学生们对我说他们完成了他们的报告。",
+          "translation": "学生们对老师说：「我们完成了我们的报告。」",
           "explain": "notre exposé 指学生们共同的报告；转述后所有者是 ils，物主词用 leur。exposé 是单数，leur 不加 s；notre 保留原说话人视角，son 指单数所有者，都不对。"
         },
         {
@@ -1325,7 +1325,7 @@
             "attendais",
             "te"
           ],
-          "translation": "保罗对我说他会在火车站等我。",
+          "translation": "保罗对玛丽说：「我在火车站前等你。」",
           "explain": "原话 je 指保罗，转述后作 il；te 指玛丽，玛丽自己转述时用 me。现在时 attends 在间接引语中后移为未完成过去时 attendait。t'attendait 会把等待对象指错，qu'elle 会换掉主语性别。"
         },
         {
@@ -1353,7 +1353,7 @@
             "i",
             "t"
           ],
-          "translation": "玛丽对弟弟说她会把车借给他。",
+          "translation": "玛丽对弟弟说她会把车借给___。",
           "explain": "原话中的 à son frère 在转述中作间接宾语代词 lui，放在 prêtait 前。le / la 是直接宾语形式，leur 指复数间接宾语，都不符合这里的单数「弟弟」。"
         },
         {
@@ -1367,7 +1367,7 @@
             "Paul m'a dit que je pouvais venir chez lui."
           ],
           "answer": 3,
-          "translation": "保罗对我说我可以去他家。",
+          "translation": "保罗对玛丽说：「你可以来我家。」",
           "explain": "原话 tu 指玛丽，玛丽转述时改为 je；moi 指保罗，转述后改为 lui（chez lui）。pouvoir 的现在时在间接引语中后移为未完成过去时 pouvais。前三项分别保留了 tu 或 chez moi，指称会串位。"
         },
         {
@@ -1401,7 +1401,7 @@
         {
           "id": "pub-c21-reported-speech-l4-q9",
           "type": "tiles",
-          "prompt": "Rapportez les paroles de Julie : « Je pars demain. » → Julie a dit que... (On rapporte le lendemain.)",
+          "prompt": "Rapportez les paroles de Julie : « Je pars demain. » → Julie a dit que... （第二天转述）",
           "answer": [
             "Julie",
             "a",
@@ -1426,7 +1426,7 @@
             "veille",
             "qu'il"
           ],
-          "translation": "朱莉说她第二天走。",
+          "translation": "朱莉说：「我明天走。」",
           "explain": "现在时 pars 在间接引语中后移为未完成过去时 partait；demain 在事后转述中变为 le lendemain。不能保留 demain，也不能用简单将来时 partira。"
         }
       ]
@@ -1448,7 +1448,7 @@
             "i",
             "t"
           ],
-          "translation": "他讲述说他前一天到的。",
+          "translation": "他讲述说他___到的。",
           "explain": "hier 在事后转述中变为 la veille；la veille 是阴性名词短语，冠词用 la。拼写为 v-e-i-l-l-e，不要写成 veile。"
         },
         {
@@ -1476,7 +1476,7 @@
             "hier"
           ],
           "answer": 2,
-          "translation": "保罗今天早上说：「我明天出发。」当天中午玛丽转述：「保罗说他明天出发。」",
+          "translation": "保罗今天早上说：「我明天出发。」当天中午玛丽转述：「保罗说他___出发。」",
           "explain": "转述与原话在同一天，明天仍是同一个明天，demain 可以保留。la veille 和 hier 指过去，ce jour-là 指当天，都不符合。时间词是否改，要看转述时间，不能机械替换。"
         },
         {
@@ -1490,7 +1490,7 @@
             "il y a deux jours"
           ],
           "answer": 2,
-          "translation": "上周他说：「我两天前到的。」今天人们转述：「他说他在那之前两天到的。」",
+          "translation": "上周他说：「我两天前到的。」今天人们转述：「他说他在___到的。」",
           "explain": "原话 il y a deux jours 从原说话时点向前数；转述时点后移后，同一个时间点要用 deux jours plus tôt（或 auparavant）。dans deux jours 和 plus tard 指向将来；il y a deux jours 会按转述时点重新计算，变成另一个时间。"
         },
         {
@@ -1551,7 +1551,7 @@
             "la",
             "veille"
           ],
-          "translation": "保罗对我说他第二天会在那边等我。",
+          "translation": "上周在火车站，保罗对玛丽说：「我明天在这里等你。」今天在自己家，玛丽讲述：……",
           "explain": "人称：je → il，te → me。地点：原话 ici 指火车站，玛丽现在在家，改为 là-bas。时间：demain 在事后转述中改为 le lendemain。时态：现在时改为未完成过去时。四项要同时调整。"
         },
         {
@@ -1565,7 +1565,7 @@
             "chez lui"
           ],
           "answer": 0,
-          "translation": "在图书馆，保罗打电话对玛丽说：「我在那儿等你，在入口前。」玛丽到了图书馆后对姐姐说：「他说他在这里等我，在入口前。」",
+          "translation": "在图书馆，保罗打电话对玛丽说：「我在那儿等你，在入口前。」玛丽到了图书馆后对姐姐说：……",
           "explain": "原话 là 指图书馆入口；玛丽现在就在同一地点，转述时用 ici。若她在别处，才用 là-bas。地点词跟着转述者的实际位置变，不是固定替换。"
         },
         {
@@ -1601,7 +1601,7 @@
             "qu'elle",
             "voit"
           ],
-          "translation": "保罗说他前一天看过这部电影。",
+          "translation": "保罗说：「我昨天看过这部电影。」（第二天转述）",
           "explain": "原话复合过去时 j'ai vu 在间接引语中后移为愈过去时 j'avais vu（avoir 的未完成过去时加过去分词）；hier 改为 la veille。不能用未完成过去时 voyait 或现在时 voit 代替。"
         }
       ]
@@ -1637,7 +1637,7 @@
             "i",
             "t"
           ],
-          "translation": "他问我是否会来。→「你会来吗？」",
+          "translation": "他问我是否会来。→「你___？」（原问题用将来时。）",
           "explain": "si 从句还原为一般疑问句，去掉 si；条件式现在时 viendrais 对应简单将来时 viendras；原说话人问的是「我」，直接引语用 tu。venir 的简单将来时是 viendras，不能写条件式 viendrais，也不能写现在时 viens。间接条件式也可能来自直接条件式，但本题已限定原话为将来时，所以还原为 viendras。"
         },
         {
@@ -1786,13 +1786,13 @@
             "dans",
             "le"
           ],
-          "translation": "我坐错了火车。",
+          "translation": "她说她坐错了火车。",
           "explain": "s'était trompée 是愈过去时，还原为复合过去时 me suis trompée；主语 elle 还原为 je，自反代词 s' 还原为 me。tromper 在这个代词式结构里自反代词是直接宾语，分词与女性说话人配合写 trompée；若说话人是男性则写 trompé。Il / s'est 人称不对，s'était 没有还原时态。"
         },
         {
           "id": "pub-c21-reported-speech-l5-q11",
           "type": "choice",
-          "prompt": "Reconstituez la phrase directe : « Il a répondu qu'il reviendrait là-bas le lendemain. » (Il parle de l'endroit où il se trouve.)",
+          "prompt": "Reconstituez la phrase directe : « Il a répondu qu'il reviendrait là-bas le lendemain. » (Il parle de l'endroit où il se trouve.) (La phrase originale est au futur.)",
           "options": [
             "« Je reviendrais ici le lendemain. »",
             "« Je reviendrai ici demain. »",
@@ -1801,7 +1801,7 @@
           ],
           "answer": 1,
           "translation": "他回答说他第二天会回到那里。",
-          "explain": "条件式现在时 reviendrait 还原为简单将来时 reviendrai；le lendemain 还原为 demain；là-bas 指远离转述者的地方，本题说明原说话人说的就是自己所在的地点，所以还原为 ici；原说话人 il 还原为 je。第一项时态和时间词都没还原，第三项保留了 là-bas，第四项人称错。"
+          "explain": "条件式现在时 reviendrait 还原为简单将来时 reviendrai；le lendemain 还原为 demain；là-bas 指远离转述者的地方，本题说明原说话人说的就是自己所在的地点，所以还原为 ici；原说话人 il 还原为 je。题干已限定原话为将来时，因此用 reviendrai，不用条件式 reviendrais。第一项时态和时间词都没还原，第三项保留了 là-bas，第四项人称错。"
         },
         {
           "id": "pub-c21-reported-speech-l5-q12",
@@ -1838,12 +1838,12 @@
           "options": [
             "« Je suis arrivée hier. »",
             "« Je suis arrivé hier. »",
-            "« J'étais arrivée hier. »",
+            "« J'arrivais hier. »",
             "« Je serai arrivée hier. »"
           ],
           "answer": 0,
           "translation": "她说她前一天到了。",
-          "explain": "愈过去时 était arrivée 由复合过去时 suis arrivée 回溯而来；la veille 还原为 hier；elle 指原说话人，还原为 je；原说话人是女性，分词配合为 arrivée。"
+          "explain": "愈过去时 était arrivée 由复合过去时 suis arrivée 回溯而来；la veille 还原为 hier；elle 指原说话人，还原为 je；原说话人是女性，分词配合为 arrivée。选项 C 的 J'arrivais 是未完成过去时，不能对应愈过去时 était arrivée。"
         },
         {
           "id": "pub-c21-reported-speech-l5-q15",
@@ -1852,26 +1852,26 @@
           "options": [
             "« Je suis partie hier. »",
             "« Je suis parti hier. »",
-            "« J'étais parti hier. »",
+            "« Je partais hier. »",
             "« Tu es parti hier. »"
           ],
           "answer": 1,
           "translation": "他说他前一天走了。",
-          "explain": "愈过去时 était parti 由复合过去时 suis parti 回溯而来；la veille 还原为 hier；il 指原说话人（男性），还原为 je，分词配合为 parti。"
+          "explain": "愈过去时 était parti 由复合过去时 suis parti 回溯而来；la veille 还原为 hier；il 指原说话人（男性），还原为 je，分词配合为 parti。选项 C 的 Je partais 是未完成过去时，不能对应愈过去时 était parti。"
         },
         {
           "id": "pub-c21-reported-speech-l5-q16",
           "type": "choice",
-          "prompt": "Reconstituez la phrase directe : « Il a répondu qu'il était resté là-bas. »",
+          "prompt": "Reconstituez la phrase directe : « Il a répondu qu'il était resté là-bas. » (Il parle de l'endroit où il se trouve.)",
           "options": [
             "« Je suis resté là-bas. »",
-            "« J'étais resté ici. »",
+            "« Je restais ici. »",
             "« Je suis resté ici. »",
             "« Je resterai ici. »"
           ],
           "answer": 2,
           "translation": "他回答说他待在那边。",
-          "explain": "愈过去时 était resté 由复合过去时 suis resté 回溯而来；là-bas 还原为 ici（原说话地点）。"
+          "explain": "愈过去时 était resté 由复合过去时 suis resté 回溯而来；题干说明他说的就是自己所在的地点，所以 là-bas 还原为 ici。选项 B 的 Je restais 是未完成过去时，不能对应愈过去时 était resté。"
         },
         {
           "id": "pub-c21-reported-speech-l5-q17",
@@ -1922,7 +1922,7 @@
             "partirait / veille"
           ],
           "answer": 2,
-          "translation": "她对我说：「我明天出发。」→ 她对我说她第二天出发。",
+          "translation": "她对我说：「我明天出发。」→ 她对我说她___。",
           "explain": "直接引语 je 指 elle，转述时改为 elle；简单将来时 partirai 后移为条件式现在时 partirait；demain 以「说」的过去时刻为参照，改为 le lendemain。partira 没有后移；surlendemain 是「后天」；veille 是「前一天」，方向相反。"
         },
         {
@@ -1936,7 +1936,7 @@
             "viendrais / leur"
           ],
           "answer": 1,
-          "translation": "他问我：「你会和我们一起去吗？」→ 他问我是否会和他们一起去。",
+          "translation": "他问我：「你会和我们一起去吗？」",
           "explain": "一般疑问句用 si 引导，去掉 est-ce que；简单将来时 viendras 后移为条件式现在时 viendrais；tu 指听话人「我」，改为 je。nous 指原说话人一方，转述时从「我」的角度看是「他们」，用 eux；nous 会错误保留原说话人的视角，leur 是间接宾语代词，不能作 avec 的宾语。"
         },
         {
@@ -1950,13 +1950,13 @@
             "ferais"
           ],
           "answer": 0,
-          "translation": "她问我：「你今晚做什么？」→ 她问我那天晚上做什么。",
+          "translation": "她问我：「你今晚做什么？」",
           "explain": "qu'est-ce que 在间接引语中变为 ce que，并改用陈述语序；现在时 fais 后移为未完成过去时 faisais；ce soir 以过去为参照改为 ce soir-là。fais 没有后移；ferai 是将来时；ferais 是条件式，不能对应原话的现在时。"
         },
         {
           "id": "pub-c21-reported-speech-x1-q4",
           "type": "tiles",
-          "prompt": "Transformez au discours indirect : « Apportez vos cahiers demain », nous a demandé le professeur. (On rapporte le lendemain.)",
+          "prompt": "Transformez au discours indirect : « Apportez vos cahiers demain », nous a demandé le professeur. （第二天转述）",
           "answer": [
             "Il",
             "nous",
@@ -1985,7 +1985,7 @@
             "demandait",
             "de"
           ],
-          "translation": "老师要求我们第二天带练习本。",
+          "translation": "老师对我们说：「明天把你们的练习本带来。」",
           "explain": "肯定命令式转为 demander de + 不定式；de 在元音前省音为 d'。vos cahiers 的物主词随听话人 nous 改为 nos；demain 以过去为参照改为 le lendemain。apporter 前少了 de、保留 vos、保留 demain 都不符合转述要求。"
         },
         {
@@ -2035,13 +2035,13 @@
             "aurait / demain"
           ],
           "answer": 2,
-          "translation": "发言人宣布：「会议明天举行。」→ 发言人宣布会议明天举行。",
+          "translation": "发言人宣布：「会议明天举行。」",
           "explain": "引导动词 annonce 是现在时，间接引语沿用原时态，简单将来时 aura 不后移；转述与宣布在同一天，demain 仍指明天，保留 demain。只有引导动词改为过去时（a annoncé），才需要考虑 aurait 和 le lendemain。"
         },
         {
           "id": "pub-c21-reported-speech-x1-q8",
           "type": "tiles",
-          "prompt": "Transformez au discours indirect (il parle dans le jardin, on rapporte depuis chez lui) : « Je reviendrai ici demain », a-t-il dit. (On rapporte le lendemain.)",
+          "prompt": "Transformez au discours indirect (il parle dans le jardin, on rapporte depuis chez lui) : « Je reviendrai ici demain », a-t-il dit. （第二天转述）",
           "answer": [
             "Il",
             "a",
@@ -2067,7 +2067,7 @@
             "avait",
             "elle"
           ],
-          "translation": "他说他第二天会回到那里。",
+          "translation": "他说：「我明天会回到这里。」",
           "explain": "直接引语 ici 指花园；转述者已回到家中，地点要从 ici 改为 là-bas。demain 以原话的过去时刻为参照，改为 le lendemain；简单将来时 reviendrai 后移为条件式现在时 reviendrait；je 指 il，改为 il（qu'il）。reviendra 没有后移，ici / demain 没有重定位。"
         },
         {
@@ -2110,7 +2110,7 @@
             "n",
             "d"
           ],
-          "translation": "他今天早上宣布他后天回来。",
+          "translation": "他今天早上宣布：「我后天回来。」",
           "explain": "après-demain 对应 le surlendemain（与何时转述无关）；只有原话是 demain 时才用 le lendemain。"
         },
         {
@@ -2124,7 +2124,7 @@
             "Léa m'a dit qu'elle ne savait pas si elle pourrait venir aujourd'hui."
           ],
           "answer": 3,
-          "translation": "昨天，莱娅对我说：「我不知道明天能不能来。」今天我转述她的话：莱娅对我说她不知道今天能不能来。",
+          "translation": "昨天，莱娅对我说：「我不知道明天能不能来。」今天我转述她的话：莱娅对我说她不知道___能不能来。",
           "explain": "引导动词 m'a dit 是过去时，现在时 sais / pourrai 后移为未完成过去时 savais / 条件式现在时 pourrait。时间词要按转述时间重定位：原话的 demain 是「昨天」的明天，也就是今天，所以用 aujourd'hui；机械换成 le lendemain 会指明天。第一、第二项时态没有后移；第三项时间词错误。"
         }
       ]
@@ -2146,7 +2146,7 @@
             "te rappellerais"
           ],
           "answer": 0,
-          "translation": "前一天晚上，保罗在电话里说他第二天早上会给我回电。请还原他的原话：「我___明天早上。」",
+          "translation": "昨天在电话里，保罗说他第二天早上会给我回电。请还原他的原话：「我___明天早上。」",
           "explain": "间接引语里的 me 指转述者「我」，在直接引语中对应 te；il 指原说话人 Paul，还原为 je。条件式现在时 rappellerait 还原为简单将来时 rappellerai；le lendemain 还原为 demain。vous、me 人称不对，rappellerais 没有还原时态。"
         },
         {
@@ -2253,7 +2253,7 @@
             "leurs",
             "nous"
           ],
-          "translation": "别把你们的车停在入口前。",
+          "translation": "看守让我们不要把车停在入口前。",
           "explain": "de ne pas + 不定式还原为否定命令式：ne ... pas 放在变位动词两侧，动词用 vous 形式 garez（nous 是听话人）。nos voitures 随听话人改为 vos voitures。garer 是不定式，votre / voiture 单数不对，derrière 改变地点，leurs 人称不对。"
         },
         {

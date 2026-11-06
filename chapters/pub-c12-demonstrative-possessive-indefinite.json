@@ -36,7 +36,7 @@
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u2-3",
       "title": "主有代词的常见错误与对比",
-      "body": "<p>常见错误集中在三处：冠词、性数、长音符号。</p><ol><li>漏掉定冠词：</li></ol><ul><li>错：Ce livre est mien. 对：Ce livre est le mien.</li><li>错：Ces clés sont miennes. 对：Ces clés sont les miennes.</li></ul><ol><li>把 nôtre/vôtre/leur 类当成 mien 类来变：</li></ol><ul><li>错：*la notre。对：la nôtre。阳性单数是 le nôtre，复数是 les nôtres（阴阳同形）。</li><li>错：*les leur。对：les leurs。复数必须加 -s。</li></ul><ol><li>主有者性别误判：</li></ol><ul><li>Paul parle de sa sœur : « la sienne » 指 Paul 的姐姐/妹妹。主有者是 Paul（男性），但词干仍是 sien 类；不能因为主有者是男性就用 *le sien 来指阴性名词 sœur。</li><li>Marie parle de son frère : « le sien »。</li></ul><ol><li>与主有形容词混淆：</li></ol><ul><li>notre maison（我们的房子，形容词）→ la nôtre（我们的那座，代词）</li><li>votre voiture（你们的车）→ la vôtre</li></ul>"
+      "body": "<p>常见错误集中在三处：冠词、性数、长音符号。</p><ol><li>漏掉定冠词：<ul><li>错：Ce livre est mien. 对：Ce livre est le mien.</li><li>错：Ces clés sont miennes. 对：Ces clés sont les miennes.</li></ul></li></ol><ol><li>把 nôtre/vôtre/leur 类当成 mien 类来变：<ul><li>错：*la notre。对：la nôtre。阳性单数是 le nôtre，复数是 les nôtres（阴阳同形）。</li><li>错：*les leur。对：les leurs。复数必须加 -s。</li></ul></li></ol><ol><li>主有者性别误判：<ul><li>Paul parle de sa sœur : « la sienne » 指 Paul 的姐姐/妹妹。主有者是 Paul（男性），但词干仍是 sien 类；不能因为主有者是男性就用 *le sien 来指阴性名词 sœur。</li><li>Marie parle de son frère : « le sien »。</li></ul></li></ol><ol><li>与主有形容词混淆：<ul><li>notre maison（我们的房子，形容词）→ la nôtre（我们的那座，代词）</li><li>votre voiture（你们的车）→ la vôtre</li></ul></li></ol>"
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u3-1",
@@ -126,7 +126,7 @@
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u6-5",
       "title": "ce / ceci / cela / ça 的选择",
-      "body": "<p>四个形式都属中性指代，但搭配和语域不同。</p><ol><li>ce：只与 être、pouvoir、devoir 等少数动词搭配，不能直接带名词；元音前省音为 c'。</li></ol><ul><li>C'est vrai. / Ce doit être lui. / Ce peut être utile.</li></ul><ol><li>ceci：书面语，指向近处或下文；cela：书面或中性，指向远处、上文或整体。</li></ol><ul><li>Ceci est un exemple ; cela suffit.（这是一个例子；这就够了。）</li></ul><ol><li>ça：口语，替代 cela，广泛用于日常对话和固定套语。</li></ol><ul><li>Ça va ? / Ça y est ! / Ça m'étonne.</li></ul><p>对比：</p><ul><li>Cela me plaît. = Ça me plaît.（书面 / 口语）</li><li>*Ce me plaît. → 错：ce 不能作普通动词的主语。</li><li>*Ça est mon frère. → 错：应说 C'est mon frère。</li></ul><p>判断顺序：先看是否固定套语（用 ça）；再看是否书面且指近处或下文（ceci）或上文、整体（cela）；最后看后面是否直接跟 être、pouvoir、devoir（用 ce）。</p>"
+      "body": "<p>四个形式都属中性指代，但搭配和语域不同。</p><ol><li>ce：只与 être、pouvoir、devoir 等少数动词搭配，不能直接带名词；元音前省音为 c'。<ul><li>C'est vrai. / Ce doit être lui. / Ce peut être utile.</li></ul></li></ol><ol><li>ceci：书面语，指向近处或下文；cela：书面或中性，指向远处、上文或整体。<ul><li>Ceci est un exemple ; cela suffit.（这是一个例子；这就够了。）</li></ul></li></ol><ol><li>ça：口语，替代 cela，广泛用于日常对话和固定套语。<ul><li>Ça va ? / Ça y est ! / Ça m'étonne.</li></ul></li></ol><p>对比：</p><ul><li>Cela me plaît. = Ça me plaît.（书面 / 口语）</li><li>*Ce me plaît. → 错：ce 不能作普通动词的主语。</li><li>*Ça est mon frère. → 错：应说 C'est mon frère。</li></ul><p>判断顺序：先看是否固定套语（用 ça）；再看是否书面且指近处或下文（ceci）或上文、整体（cela）；最后看后面是否直接跟 être、pouvoir、devoir（用 ce）。</p>"
     }
   ],
   "lessons": [

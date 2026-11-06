@@ -101,7 +101,7 @@
     {
       "id": "pub-c13-future-conditional-card-u5-2",
       "title": "条件式过去时的分词配合",
-      "body": "<p>条件式过去时的分词配合规则与复合过去时一致。核心是看助动词。</p><ol><li>助动词为 être 的非代词式动词，分词通常与主语作性数配合：</li></ol><ul><li>Elle serait partie.（她本来会离开。）</li><li>Ils seraient venus.（他们本来会来。）</li><li>Les filles seraient arrivées plus tôt.（女孩们本来会更早到。）</li></ul><ol><li>助动词为 avoir 时，分词不随主语变化；但前置的直接宾语可以触发配合：</li></ol><ul><li>Elle aurait écrit une lettre.（她本来会写一封信。）——不写 *écrite</li><li>Les lettres qu'elle aurait écrites.（她本来会写的那些信。）——前置直接宾语 les lettres 是阴性复数，écrit 加 -es</li></ul><ol><li>代词式动词要看自反代词的角色：自反代词是直接宾语时与主语配合，是间接宾语时不配合：</li></ol><ul><li>Elle se serait levée tôt.（她本来会早起。）——se 是 lever 的直接宾语</li><li>Nous nous serions parlé.（我们本来会交谈。）——se 是 parler 的间接宾语，不配合</li></ul><p>要点：</p><ul><li>avoir + 主语：不配合；avoir + 前置直接宾语：按该宾语配合。</li><li>être + 非代词式动词：按主语配合。</li><li>代词式动词不能一概按主语处理。</li></ul><p>注意：复合过去时的同一规则可迁移。</p>"
+      "body": "<p>条件式过去时的分词配合规则与复合过去时一致。核心是看助动词。</p><ol><li>助动词为 être 的非代词式动词，分词通常与主语作性数配合：<ul><li>Elle serait partie.（她本来会离开。）</li><li>Ils seraient venus.（他们本来会来。）</li><li>Les filles seraient arrivées plus tôt.（女孩们本来会更早到。）</li></ul></li></ol><ol><li>助动词为 avoir 时，分词不随主语变化；但前置的直接宾语可以触发配合：<ul><li>Elle aurait écrit une lettre.（她本来会写一封信。）——不写 *écrite</li><li>Les lettres qu'elle aurait écrites.（她本来会写的那些信。）——前置直接宾语 les lettres 是阴性复数，écrit 加 -es</li></ul></li></ol><ol><li>代词式动词要看自反代词的角色：自反代词是直接宾语时与主语配合，是间接宾语时不配合：<ul><li>Elle se serait levée tôt.（她本来会早起。）——se 是 lever 的直接宾语</li><li>Nous nous serions parlé.（我们本来会交谈。）——se 是 parler 的间接宾语，不配合</li></ul></li></ol><p>要点：</p><ul><li>avoir + 主语：不配合；avoir + 前置直接宾语：按该宾语配合。</li><li>être + 非代词式动词：按主语配合。</li><li>代词式动词不能一概按主语处理。</li></ul><p>注意：复合过去时的同一规则可迁移。</p>"
     },
     {
       "id": "pub-c13-future-conditional-card-u5-3",

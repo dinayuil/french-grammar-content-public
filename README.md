@@ -1,6 +1,6 @@
 # 公开原创题库
 
-这是应用使用的公开原创题库仓库。当前为 6 章、459 题，配有讲解卡、练习与综合挑战。前三章 `pub-c01-boundaries`、`pub-c02-noun-phrases`、`pub-c03-adjectives` 是新课程的 C01（冠词形式与词间拼写）、C02（名词短语的性数与数量）与 C03（形容词的配合、位置与意义）；后三章为既有公开内容，尚未按新课程重组，不应把这 6 章理解为新课程的前六章。完整语法覆盖仍在建设中，全部内容尚待人工法语审校。
+这是应用使用的公开原创题库仓库。当前为 24 章、3586 题，配有讲解卡、练习与综合挑战。第 1–21 章（`pub-c01-boundaries`—`pub-c21-reported-speech`）是新课程，按 5 阶段大纲递进；旧三章 `pub-predication`、`pub-articles`、`pub-agreement` 为既有公开内容，尚未按新课程重组。完整语法覆盖仍在建设中，全部内容尚待人工法语审校。
 
 内容已经过 AI 编写及独立 AI 复核，尚待人工法语审校；技术检查和 AI 复核不构成原创性、版权或教学质量认证。
 
@@ -16,12 +16,30 @@
     "chapters/pub-c01-boundaries.json",
     "chapters/pub-c02-noun-phrases.json",
     "chapters/pub-c03-adjectives.json",
+    "chapters/pub-c04-determiners.json",
+    "chapters/pub-c05-present.json",
+    "chapters/pub-c06-verbs.json",
+    "chapters/pub-c07-negation-questions.json",
+    "chapters/pub-c08-imperative-emphasis.json",
+    "chapters/pub-c09-past-tenses.json",
+    "chapters/pub-c10-object-pronouns.json",
+    "chapters/pub-c11-pronominal-verbs.json",
+    "chapters/pub-c12-demonstrative-possessive-indefinite.json",
+    "chapters/pub-c13-future-conditional.json",
+    "chapters/pub-c14-relative-clauses.json",
+    "chapters/pub-c15-comparison-adverbs.json",
+    "chapters/pub-c16-time-space-prepositions.json",
+    "chapters/pub-c17-passive-voice.json",
+    "chapters/pub-c18-verb-complements.json",
+    "chapters/pub-c19-subjunctive.json",
+    "chapters/pub-c20-complex-sentences.json",
+    "chapters/pub-c21-reported-speech.json",
     "chapters/pub-predication.json",
     "chapters/pub-articles.json",
     "chapters/pub-agreement.json"
   ],
-  "expectedChapterCount": 6,
-  "expectedQuestionCount": 459
+  "expectedChapterCount": 24,
+  "expectedQuestionCount": 3586
 }
 ```
 
@@ -33,7 +51,7 @@
 ## 内容约定
 
 - 只接受原创或已获授权的内容；不得放入原书题目、扫描文字、书中例句或截图。
-- 章节、关卡和题目 ID 一旦发布应保持稳定。
+- 章节、关卡和题目 ID 一旦发布应保持稳定。唯一的例外是 2026-11-06 的关卡长度上限：每个练习关/挑战关最多 10 题，超过的关卡被拆成 `<原关卡>-<n>`（标题加 `（n）`），题目 ID 不变。
 - 题目 schema 由应用仓库定义；新增内容前先在应用仓库运行校验和测试。
 - 公开内容仓库不得包含应用代码、私有题库、密钥或本机路径。
 

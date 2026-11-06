@@ -1,0 +1,2074 @@
+{
+  "id": "pub-c19-subjunctive",
+  "title": "虚拟式与主观态度",
+  "titleFr": "Le subjonctif et l'attitude",
+  "cards": [
+    {
+      "id": "pub-c19-subjunctive-card-u1-1",
+      "title": "虚拟式是什么：语气与主观态度",
+      "body": "虚拟式（subjonctif）是法语的一种语气（mode，即说话人看待动作的方式），与陈述事实的直陈式（indicatif）相对。虚拟式通常出现在 que 引导的从句中，由主句谓语表达的主观态度（说话人对从句动作的愿望、情感、怀疑、评价等）触发。\n\n- Je veux que tu viennes.（我希望你来。）——愿望。\n- Je suis content que tu sois là.（我很高兴你在。）——情感。\n- Il est important que nous partions.（我们离开很重要。）——评价。\n- Je doute qu'il soit là.（我怀疑他在那里。）——怀疑。\n\n虚拟式现在时表示与主句同时或尚未发生的动作；虚拟式过去时表示相对主句参照点已经先完成的动作。两种形式都保留虚拟语气，时间关系另算。\n\n注意：que 本身不是虚拟式的标志。Je pense que tu as raison（我认为你说得对）用直陈式，因为主句是肯定判断。也不能按汉语意思机械对应：espérer que 虽然表示「希望」，肯定句通常仍用直陈式，例如 J'espère que tu vas bien（我希望你一切都好）；否定或疑问时要另行判断。具体触发条件见后面的单元。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u1-2",
+      "title": "规则构成：从 ils 词干出发",
+      "body": "规则动词和许多不规则动词的虚拟式现在时，都从直陈式现在时的 ils 形式取词干：去掉词尾 -ent，再加 -e、-es、-e、-ions、-iez、-ent。\n\n- parler：ils parlent → que je parle, que tu parles, qu'il parle, que nous parlions, que vous parliez, qu'ils parlent\n- finir：ils finissent → que je finisse, que tu finisses, qu'il finisse, que nous finissions, que vous finissiez, qu'ils finissent\n- attendre：ils attendent → que j'attende, que tu attendes, qu'il attende, que nous attendions, que vous attendiez, qu'ils attendent\n\n以 -ir 结尾的规则动词，词干为 finiss-：单数和第三人称复数用 finisse, finissent，nous/vous 用 finissions, finissiez。\n\nnous/vous 的 -ions/-iez 词尾与直陈式未完成过去时同形：que nous parlions 与 nous parlions（我们过去说）写法相同，要靠主句和 que 判断语气。\n\n注意：这个方法只给出词干，nous/vous 形式有时要换另一个词干（见下一张）；不要用单数词干直接加 -ions。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u1-3",
+      "title": "双词干动词：nous/vous 要换词干",
+      "body": "有些动词的虚拟式现在时有两套词干：单数（je, tu, il/elle）和第三人称复数（ils/elles）用短词干，nous/vous 用另一套长词干。长词干通常来自直陈式现在时的 nous 形式。\n\n- prendre：que je prenne, que tu prennes, qu'il prenne；que nous prenions, que vous preniez, qu'ils prennent\n- venir：que je vienne；que nous venions, que vous veniez, qu'ils viennent\n- voir：que je voie；que nous voyions, que vous voyiez, qu'ils voient\n- croire：que je croie；que nous croyions, que vous croyiez, qu'ils croient\n- boire：que je boive；que nous buvions, que vous buviez, qu'ils boivent\n- recevoir：que je reçoive；que nous recevions, que vous receviez, qu'ils reçoivent\n- tenir：que je tienne；que nous tenions, que vous teniez, qu'ils tiennent\n- aller：que j'aille；que nous allions, que vous alliez, qu'ils aillent\n- vouloir：que je veuille；que nous voulions, que vous vouliez, qu'ils veuillent\n\n注意：faire、pouvoir、savoir 不是双词干动词，它们分别只有一个书写词干 fass-、puiss-、sach-（见下一张）。不能把单数词干搬到 nous/vous：*que nous prennions、*que nous viennions 都不对，正确形式是 prenions、venions。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u1-4",
+      "title": "不规则动词：逐词记",
+      "body": "有些动词的虚拟式现在时不能按 ils 词干类推，要逐词记。下面列出常用形式：\n\n- être：que je sois, que tu sois, qu'il soit, que nous soyons, que vous soyez, qu'ils soient\n- avoir：que j'aie, que tu aies, qu'il ait, que nous ayons, que vous ayez, qu'ils aient\n- faire：que je fasse, que tu fasses, qu'il fasse, que nous fassions, que vous fassiez, qu'ils fassent\n- pouvoir：que je puisse, que tu puisses, qu'il puisse, que nous puissions, que vous puissiez, qu'ils puissent\n- savoir：que je sache, que tu saches, qu'il sache, que nous sachions, que vous sachiez, qu'ils sachent\n- valoir：que je vaille, que tu vailles, qu'il vaille, que nous valions, que vous valiez, qu'ils vaillent\n- pleuvoir：qu'il pleuve（无人称，只有第三人称单数）\n\naller 和 vouloir 也属于不规则形式，同时有双词干，见上一张。\n\n注意：不要把直陈式的词干直接套过来：*que je suis、*que j'ai（应为 aie）、*que je peux（应为 puisse）、*que je sais（应为 sache）、*que je fais（应为 fasse）都不对。être 的 nous/vous 形式 soyons/soyez 尤其容易漏掉 y。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u1-5",
+      "title": "拼写调整：-ger、-cer、-yer 与双 i",
+      "body": "虚拟式现在时的词尾和词干会触发一些拼写调整。这些调整只影响书写，不改变时态或语气。\n\n1. -ger 结尾的动词：nous/vous 形式保留 e，使 g 保持软音。\n- manger：que nous mangions, que vous mangiez（单数：mange, manges, mange）\n- nager：que nous nagions, que vous nagiez\n2. -cer 结尾的动词：nous/vous 形式在 c 后接 i，不加软音符；在 a、o 前才写 ç。\n- commencer：que nous commencions, que vous commenciez（单数：commence）；对比直陈式 nous commençons\n- lancer：que nous lancions, que vous lanciez\n3. -yer 结尾的动词：单数词干末尾的 y 在无声的 e 前变成 i；nous/vous 保留 y，因为后面是 i。\n- payer：que je paie, que tu paies, qu'il paie；que nous payions, que vous payiez, qu'ils paient\n- employer：que j'emploie；que nous employions, que vous employiez, qu'ils emploient\n4. 双 i 与 y + i：词干以 i 结尾时，nous/vous 的 -ions/-iez 前再出现 i，要写两个 i；词干以 y 结尾时保留 y，后面再接 i。\n- étudier：que nous étudiions, que vous étudiiez\n- rire：que nous riions, que vous riiez\n- voir：que nous voyions, que vous voyiez\n- nettoyer：que nous nettoyions, que vous nettoyiez\n5. 双写辅音：有些形式要双写辅音字母。\n- appeler：que j'appelle, que nous appelions\n- jeter：que je jette, que nous jetions\n- finir：que je finisse, que nous finissions\n- faire：que je fasse, que nous fassions\n\n注意：-ger 和 -cer 的调整只出现在 nous/vous 形式；单数形式保持 mange、commence 这样的写法。不要把它们与直陈式未完成过去时的拼写混淆：两者在 nous/vous 上常常同形，但语气由主句决定。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u1-6",
+      "title": "选择虚拟式现在时的顺序",
+      "body": "遇到需要填虚拟式现在时的空，可以按下面的顺序判断：\n1. 先确认主句是否真的要求虚拟式（愿望、请求、情感、怀疑、必要、评价等）；que 本身不是理由。\n2. 找出动词的直陈式 ils 形式，去掉 -ent，得到基本词干。\n3. 看主语是不是 nous/vous；如果是，检查这个动词有没有另一套长词干（prendre → prenions，venir → venions）。\n4. 检查是否属于 être、avoir、faire、pouvoir、savoir、valoir、pleuvoir 等不规则动词；这些形式要直接记。\n5. 最后处理拼写：-ger 保留 e，-cer 在 i 前写 c，-yer 单数变 i，必要时双写 i 或辅音。\n\n例：Il faut que nous prenions le train.（我们必须坐火车。）——prendre 是双词干，nous 用 pren- + -ions。\n例：Je suis content que tu sois là.（我很高兴你在。）——être 是不规则动词，tu 用 sois。\n\n注意：主语是 il/elle/ils/elles 时，-e/-ent 词尾不发音，但书写不能省略；不要把虚拟式写成直陈式或将来时。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u2-1",
+      "title": "虚拟式过去时的构成",
+      "body": "虚拟式过去时（subjonctif passé）由助动词（帮助构成复合时态的动词，如 avoir、être）的虚拟式现在时加过去分词（动词的非变位形式，如 fini、parti）构成。助动词的选择与复合过去时（passé composé，由助动词加过去分词构成的过去时态）一致：多数动词用 avoir；aller、partir、arriver、naître、mourir、rester 等常用动词以及代词式动词用 être。\n\n- finir（avoir）：que j'aie fini, que tu aies fini, qu'il ait fini, que nous ayons fini, que vous ayez fini, qu'ils aient fini\n- partir（être）：que je sois parti(e), que tu sois parti(e), qu'il soit parti, que nous soyons partis, que vous soyez partis, qu'ils soient partis\n- se lever（être）：que je me sois levé(e), que nous nous soyons levés\n\n过去分词的形式由动词决定；以 être 为助动词的非代词式动词，过去分词要与主语配合，见下一张。\n\n注意：虚拟式过去时不是「主句是过去时」的标志。主句用现在时，只要从句动作已经先完成，也可以用虚拟式过去时：Je suis content que tu aies réussi.（我很高兴你成功了。）"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u2-2",
+      "title": "助动词与过去分词配合",
+      "body": "虚拟式过去时的助动词选择和过去分词配合，沿用复合过去时的规则。\n\n1. 以 avoir 为助动词：过去分词通常不与主语配合。\n- Elle est contente que nous ayons fini.（她很高兴我们完成了。）——fini 不因 nous 变成 finis。\n- Il est possible qu'elles aient oublié les clés.（她们可能忘了钥匙。）——oublié 不变。\n2. 以 être 为助动词的非代词式动词：过去分词与主语性数配合。\n- Je suis surpris qu'elle soit partie.（我很惊讶她走了。）——partie 与 elle 配合。\n- Nous sommes contents que les enfants soient rentrés.（我们很高兴孩子们回来了。）——rentrés 与 les enfants（阳性复数）配合。\n3. 代词式动词（带自反代词的动词，如 s'amuser）：助动词用 être，但过去分词是否配合要看自反代词（如 nous 在 nous nous amusons 中）在句中作什么成分。自反代词是直接宾语时，与主语配合；是间接宾语时不配合。\n- Elle est heureuse que nous nous soyons amusés.（她很高兴我们玩得开心。）——nous 是 amuser 的直接宾语，amusés 与主语 nous 配合。\n- Elle est contente que nous nous soyons parlé.（她很高兴我们交谈了。）——se parler 中 nous 是间接宾语（parler à qn），parlé 不配合。\n\n注意：不要看到 être 就一律配合，也不要看到 avoir 就一律不配合；先判断助动词，再看句法结构。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u2-3",
+      "title": "现在时还是过去时：看时间关系",
+      "body": "虚拟式用现在时还是过去时，取决于从句动作与主句参照点的时间关系，而不是主句本身用什么时态。\n\n- 从句动作与主句同时，或尚未发生：用虚拟式现在时。\nJe suis content que tu sois là.（我很高兴你在。）——同时。\nIl faut que tu viennes demain.（你明天必须来。）——将来。\n- 从句动作在主句参照点之前已经完成，也就是存在先完成关系（从句动作先于主句参照点完成）：用虚拟式过去时。\nJe suis content que tu aies réussi.（我很高兴你成功了。）——成功先于高兴。\nIl est possible qu'elle soit partie hier.（她可能昨天就走了。）——离开先于现在的推测。\n\n主句是过去时，并不自动要求从句用虚拟式过去时：\n- Il était content que je sois là.（他当时很高兴我在场。）——从句状态与主句同时，仍用现在时。\n- Il était possible qu'elle vienne.（她当时可能来。）——当时尚未发生，用现在时。\n\n时间副词和上下文是重要线索：hier、déjà、avant 常指向先完成的动作；maintenant、demain、en ce moment 常指向同时或将来。\n\n注意：不要按「主句过去 → 从句过去」的机械对应；判断的是两个动作之间的先后关系。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u2-4",
+      "title": "虚拟式过去时的判断顺序",
+      "body": "遇到虚拟式过去时的题，可以按下面的顺序判断：\n1. 先判断语气：主句是否触发虚拟式？如果主句表达肯定事实，从句仍用直陈式。\n2. 再判断时间：从句动作是否先于主句参照点完成？先完成用虚拟式过去时，同时或未完成用现在时。\n3. 选助动词：按复合过去时的规则，多数动词用 avoir；aller、partir、arriver、naître、mourir、rester 等常用动词以及代词式动词用 être。\n4. 写助动词：把 avoir 或 être 变成虚拟式现在时（aie, aies, ait, ayons, ayez, aient；sois, sois, soit, soyons, soyez, soient）。\n5. 写过去分词：以 être 为助动词时与主语配合；以 avoir 为助动词时通常不变；代词式动词看自反代词是直接还是间接宾语。\n\n例：Je suis étonné qu'il ait réussi.（我很惊讶他成功了。）——avoir + ait + réussi。\n例：Nous sommes contents que les filles soient arrivées.（我们很高兴女孩们到了。）——être + soient + arrivées（阴性复数配合）。\n\n注意：不要把助动词的虚拟式形式写成直陈式：*qu'il a réussi、*qu'elles sont arrivées 都不含虚拟式，不能用在 il est possible que 等触发结构后。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u3-1",
+      "title": "虚拟式与主观态度：语气由主句决定",
+      "body": "虚拟式（subjonctif）是法语的一种语气（mode）：它通常不把动作当作单纯的事实来陈述，而是表达说话人的愿望、情感、怀疑、必要或评价。这种对动作的态度叫主观态度。与它相对的是直陈式（indicatif），即把动作作为事实陈述的语气。\n\n虚拟式最常出现在由 que 引导的从句里，但「有 que」不等于「用虚拟式」：语气由主句的谓语或结构决定。\n- Je sais qu'il vient.（我知道他会来。）——主句陈述事实，从句用直陈式。\n- Je doute qu'il vienne.（我怀疑他会来。）——主句表达怀疑，从句用虚拟式。\n\n同一个事实，主句态度一变，从句语气就可能跟着变。判断时先看主句：它是在肯定事实，还是在表达愿望、情感、怀疑或评价？\n\n本章常见的四类触发是：意志与请求（vouloir、demander 等）、情感与需要（être content、avoir peur 等）、怀疑与否定（douter、ne pas croire 等）、无人称评价（il faut、il est important 等）。主语相同时，通常改用不定式（infinitif，动词原形，不按人称变位），见第 4 单元。\n\n注意：不要从句子里有没有 que 来判断；que 也引导直陈式从句。先判断主句的态度，再决定语气。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u3-2",
+      "title": "意志与请求：vouloir、demander、exiger",
+      "body": "意志触发指主句表达愿望、命令、请求、建议、允许或禁止。这类谓语后面的 que 从句通常用虚拟式。常见动词：vouloir（想要）、souhaiter（希望）、désirer（渴望）、exiger（要求）、demander（要求）、prier（请求）、proposer（建议）、conseiller（建议）、permettre（允许）、interdire（禁止）、ordonner（命令）。\n- Je veux que tu viennes demain.（我希望你明天来。）\n- Le professeur demande que les élèves soient attentifs.（老师要求学生们专心。）\n- Nous proposons qu'il parte plus tôt.（我们建议他早点出发。）\n- Le directeur exige que les employés arrivent à huit heures.（经理要求员工八点到。）\n\n这类动词也常和不定式搭配，但要看主语是否相同：\n- 主语相同：Je veux partir.（我想出发。）——直接用不定式，不说 *Je veux que je parte。\n- 主语不同：Je veux que tu partes.（我希望你出发。）——用 que + 虚拟式。\n\n注意：espérer（希望）虽然表示愿望，肯定句中通常接直陈式：J'espère que tu viens ce soir.（我希望你今晚来。）它不触发虚拟式；否定或疑问时要按语境另判，不能直接套用 vouloir 的规则。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u3-3",
+      "title": "情感与需要：être content、regretter、avoir peur",
+      "body": "情感触发指主句表达高兴、遗憾、惊讶、害怕、需要等情感或需求。这类谓语后面的 que 从句通常用虚拟式。常见结构：être content/heureux/triste（高兴／幸福／难过）、être étonné/surpris（惊讶）、regretter（遗憾）、avoir peur（害怕）、avoir envie（想要）、avoir besoin（需要）、il est dommage（可惜）。\n- Je suis content que tu sois là.（我很高兴你在。）\n- Elle regrette que nous partions si tôt.（她遗憾我们这么早走。）\n- J'ai envie que tu viennes avec nous.（我希望你和我们一起去。）\n- Il est étonné que son frère fasse du théâtre.（他惊讶弟弟演戏剧。）\n\n情感主体与从句主语相同时，通常改用 de + 不定式：\n- Je suis content de te voir.（我很高兴见到你。）\n- Elle a peur de tomber.（她怕摔倒。）\n- Je regrette d'être en retard.（我遗憾自己迟到了。）\n比较：Je suis content que tu sois là（主语不同）／Je suis content d'être là（主语相同）。\n\n注意：情感触发看主句谓语是否表达情感或需要，不看从句内容本身是否令人高兴或难过；从句用虚拟式，与它陈述的是好事还是坏事无关。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u3-4",
+      "title": "怀疑、否认与否定判断",
+      "body": "怀疑触发指主句表达怀疑、否认或否定判断。这类谓语后面的 que 从句通常用虚拟式。常见结构：douter que（怀疑）、nier que（否认）、contester que（质疑）、ne pas croire que（不相信）、ne pas penser que（不认为）、ne pas trouver que（不觉得）、il est douteux que（可疑）、il est possible que（可能）、il se peut que（可能）。\n- Je doute qu'il vienne.（我怀疑他会来。）\n- Je ne crois pas qu'elle ait raison.（我不认为她有道理。）\n- Nous ne pensons pas que ce soit une bonne idée.（我们不认为这是个好主意。）\n- Il est possible que le train soit en retard.（火车可能晚点。）\n\n肯定且确信的同源表达用直陈式：\n- Je crois qu'il vient.（我相信他会来。）\n- Je pense que c'est vrai.（我认为这是真的。）\n- Je trouve qu'elle a raison.（我觉得她有道理。）\n- Il est certain que tu as raison.（肯定你是对的。）\n\n判断的关键是主句的态度，而不是句子里有没有否定词：\n- Je ne pense pas qu'il soit là.（我不认为他在。）——否定主句谓语，怀疑，用虚拟式。\n- Je pense qu'il n'est pas là.（我认为他不在。）——从句否定，主句仍是肯定判断，用直陈式。\n\n注意：douter que 本身表示怀疑，肯定形式也用虚拟式；se douter que 的意思接近「猜到、料到」，表达肯定判断，通常用直陈式：Je me doute qu'il est déjà parti."
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u3-5",
+      "title": "无人称结构：il faut que、il est important que",
+      "body": "无人称结构指主语用 il、但不指具体的人的结构；真正的内容放在后面。这类结构后面的 que 从句，如果表达必要、评价、可能或惊讶，通常用虚拟式。常见结构：il faut que（必须）、il est important/nécessaire/essentiel/utile que（重要／必要／有用）、il vaut mieux que（最好）、il est possible que（可能）、il est étonnant/surprenant que（令人惊讶）、il est dommage que（可惜）、il semble que（似乎）、il se peut que（可能）。\n- Il faut que tu partes maintenant.（你必须现在出发。）\n- Il est important que les élèves comprennent la règle.（学生理解这条规则很重要。）\n- Il vaut mieux qu'il attende.（他最好等一等。）\n- Il est étonnant que tu ne le saches pas.（你竟然不知道，真令人惊讶。）\n\n没有具体主语时，il faut 直接接不定式，il est important 用 de + 不定式：\n- Il faut partir.（必须出发。）\n- Il est important de relire le contrat.（重读合同很重要。）\n比较：Il faut que tu partes（有具体执行者）／Il faut partir（泛指）。\n\n表示确信或很可能时，无人称结构也可以用直陈式：il est certain/évident/vrai que、il est probable que、il paraît que。il semble que 多接虚拟式，但 il me semble que 表达个人看法时通常用直陈式。\n\n注意：il est possible que（可能，不确定）用虚拟式，il est probable que（很可能，接近确信）用直陈式；不要只按「无人称」一刀切。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u4-1",
+      "title": "肯定确信：用直陈式",
+      "body": "当主句对从句内容作出肯定判断、把它当作事实或很可能的事实时，从句用直陈式。这类主句包括：croire que（认为）、penser que（认为）、trouver que（觉得）、estimer que（认为）、être sûr/certain que（确信）、être convaincu que（确信）、il est certain/évident/vrai/probable que（肯定／明显／真实／很可能）、j'espère que（希望）。\n- Je crois que la réunion commence à neuf heures.（我相信会议九点开始。）\n- Nous pensons que ce projet est réaliste.（我们认为这个项目可行。）\n- Elle est sûre que son frère est déjà là.（她确信弟弟已经在那儿了。）\n- Il est évident que tu as raison.（显然你是对的。）\n- J'espère que tu vas bien.（希望你一切都好。）\n\n这里的「肯定」指主句对命题持肯定态度，不是指从句本身是肯定句。从句里出现否定词，只要主句仍是肯定判断，仍用直陈式：Je pense qu'il n'est pas là.（我认为他不在。）\n\n注意：同一动词变成否定或疑问时，确信度下降，从句往往改用虚拟式；见下一张。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u4-2",
+      "title": "肯定与否定：同一动词的两种语气",
+      "body": "同一组主句谓语，肯定时和否定或疑问时可能要求不同语气。肯定时把内容当作事实，用直陈式；否定或疑问时表示怀疑、不确定，用虚拟式。\n- Je crois qu'il est malade.（我相信他病了。）／Je ne crois pas qu'il soit malade.（我不认为他病了。）\n- Elle pense que c'est une erreur.（她认为这是个错误。）／Elle ne pense pas que ce soit une erreur.（她不认为这是个错误。）\n- Il est certain que nous avons raison.（肯定我们是对的。）／Il n'est pas certain que nous ayons raison.（不一定我们对。）\n- Il est vrai que tu as raison.（确实你有道理。）／Il n'est pas vrai que tu aies raison.（你未必有道理。）\n- Il est probable qu'elle vient.（很可能她会来。）／Il n'est pas probable qu'elle vienne.（她不大可能来。）\n\n疑问句同样会降低确信度：Crois-tu qu'il vienne ?（你认为他会来吗？）\n\n注意：判断依据是语义上的确信度，不是句子里有没有否定词；douter que 肯定形式也用虚拟式，se douter que 反而用直陈式。espérer 在否定或疑问时的用法要另行判断。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u4-3",
+      "title": "同主语：用不定式，不用 que + 虚拟式",
+      "body": "主句主语和从句主语相同时，法语通常不用 que + 虚拟式，而用不定式。不定式是动词原形，不按人称变位，因此不需要重复主语。\n- Je veux partir.（我想出发。）——不说 *Je veux que je parte。\n- Elle souhaite réussir.（她希望成功。）\n- Nous préférons attendre.（我们更愿意等。）\n- Je suis content de te voir.（我很高兴见到你。）\n- Elle a peur de tomber.（她怕摔倒。）\n- Il propose de commencer.（他建议开始。）\n- Il faut partir.（必须出发。）——没有具体主语时也用不定式。\n\n用不用介词由前面的动词或形容词决定：vouloir、souhaiter、espérer、préférer、pouvoir、savoir、devoir 直接接不定式；être content、avoir peur、regretter、proposer、essayer、décider 常用 de + 不定式。de 遇元音开头的动词要省音：Je regrette d'être en retard.\n\n主语不同时才用 que + 虚拟式：\n- Je veux que tu partes.（我希望你出发。）\n- Elle est contente que tu sois là.（她很高兴你在。）\n- Nous avons peur qu'il tombe.（我们怕他摔倒。）\n\n注意：同主语时不要机械地给所有动词加 de——vouloir faire、souhaiter faire、espérer faire 中间没有介词；也不要保留 que 从句，*Je souhaite que je parte 不是标准说法。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u4-4",
+      "title": "第三人称命令：qu'il vienne（识别）",
+      "body": "法语的命令式（impératif）只有 tu、nous、vous 三个人称，没有 il/elle/ils/elles 的形式。要对第三人称下命令或表达愿望，用 que + 虚拟式现在时：\n- Qu'il entre !（让他进来！）\n- Qu'elle parte tout de suite !（让她马上走！）\n- Qu'ils soient prudents !（让他们小心！）\n- Qu'il ne fasse pas de bruit !（让他别出声！）\n- Qu'on se dépêche !（让大家快点！）\n\n这里的 que 引导的是命令或祝愿，不是普通的陈述。它不能省：*Il entre ! 作为命令不成立，只会被理解为陈述句「他进来了」。\n\n对比三个人称：\n- Entre !（你进来！）——tu 的命令式。\n- Entrez !（您／你们进来！）——vous 的命令式。\n- Qu'il entre !（让他进来！）——第三人称用 que + 虚拟式。\n\n注意：第三人称命令用虚拟式现在时，不要借用直陈式第三人称；句首的 que 和虚拟式一起才表示命令，去掉 que 或换成直陈式都会变成陈述。"
+    },
+    {
+      "id": "pub-c19-subjunctive-card-u4-5",
+      "title": "四步判断：直陈式、虚拟式还是不定式",
+      "body": "遇到「主句 + que／不定式」的结构，可以按下面的顺序判断：\n1. 先看主语：主句主语和后面的动作主语相同吗？相同则通常用不定式（没有具体主语时也用不定式）：Je veux partir.（我想出发。）/ Elle a peur de tomber.（她怕摔倒。）/ Il faut partir.（必须出发。）\n2. 主语不同，再看主句态度：是在肯定事实、表示确信吗？是则用直陈式：Je pense qu'il vient.（我认为他会来。）/ Il est évident qu'elle a raison.（显然她有道理。）\n3. 主句表达意志、情感、怀疑或无人称评价吗？是则用 que + 虚拟式：Je veux qu'il vienne.（我希望他来。）/ Je doute qu'il vienne.（我怀疑他会来。）/ Il faut qu'il vienne.（必须让他来。）\n4. 如果是针对 il/elle/ils/elles 的命令或祝愿，用 que + 虚拟式现在时，句首的 que 不能省：Qu'il vienne !（让他来！）\n\n对比例句：\n- Je veux partir.（我想出发。）／Je veux que tu partes.（我希望你出发。）\n- Je pense qu'il part.（我认为他出发。）／Je doute qu'il parte.（我怀疑他出发。）\n- Il faut partir.（必须出发。）／Il faut que nous partions.（我们必须出发。）\n- Qu'il parte !（让他出发！）\n\n注意：先判断主句态度，再判断主语是否相同；不要从句子里有没有 que 入手。que 既引导直陈式，也引导虚拟式。"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pub-c19-subjunctive-l1",
+      "title": "虚拟式现在时：规则、双词干、不规则与拼写",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c19-subjunctive-l1-q1",
+          "type": "letters",
+          "prompt": "Complétez au subjonctif présent : « Il faut que nous ___ français en classe. » (parler)",
+          "answer": "parlions",
+          "decoys": [
+            "e",
+            "s",
+            "t",
+            "a"
+          ],
+          "translation": "课堂上我们必须说法语。",
+          "explain": "parler 的直陈式现在时 ils 形式是 parlent；去掉 -ent 得词干 parl-，加 -ions 得 parlions。nous 形式与直陈式未完成过去时同形，但这里由 il faut que 决定用虚拟式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q2",
+          "type": "tiles",
+          "prompt": "Composez une phrase au subjonctif présent : il faut / qu'ils / finir / le travail / avant midi",
+          "answer": [
+            "Il",
+            "faut",
+            "qu'ils",
+            "finissent",
+            "le",
+            "travail",
+            "avant",
+            "midi."
+          ],
+          "bank": [
+            "Il",
+            "faut",
+            "qu'ils",
+            "finissent",
+            "le",
+            "travail",
+            "avant",
+            "midi.",
+            "finisse",
+            "finiront",
+            "qu'il",
+            "termine"
+          ],
+          "translation": "他们必须在中午前完成工作。",
+          "explain": "finir 的 ils 形式是 finissent，去掉 -ent 得 finiss-，加 -ent 得 finissent；主语 ils 是第三人称复数，从句动词用 finissent。这里由 il faut que 触发虚拟式；finissent 恰好与直陈式同形，但语气仍是虚拟式。que 在 ils 前省音为 qu'ils。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q3",
+          "type": "choice",
+          "prompt": "Complétez : « Il est important que nous ___ ce projet ensemble. » (commencer)",
+          "options": [
+            "commençons",
+            "commencions",
+            "commençions",
+            "commencons"
+          ],
+          "answer": 1,
+          "translation": "我们一起开始这个项目很重要。",
+          "explain": "commencer 的 nous 形式在虚拟式现在时为 commencions：词干 commenc- 后接 -ions，c 在 i 前保持原形，不加软音符。软音符只出现在 a、o 前：commençons。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q4",
+          "type": "letters",
+          "prompt": "Complétez : « Il faut que nous ___ plus de légumes. » (manger)",
+          "answer": "mangions",
+          "decoys": [
+            "e",
+            "s",
+            "t",
+            "a"
+          ],
+          "translation": "我们必须多吃蔬菜。",
+          "explain": "manger 的 nous 形式为 mangions：保留 e 以保证 g 读软音，再加 -ions；不能写成 *mangons；直陈式现在时是 nous mangeons，虚拟式则是 nous mangions。单数形式为 mange、manges、mange。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q5",
+          "type": "choice",
+          "prompt": "Transformez au subjonctif présent : « nous prenons le train » → « Il faut que nous ___ le train. »",
+          "options": [
+            "prendions",
+            "prenions",
+            "prennions",
+            "prenons"
+          ],
+          "answer": 1,
+          "translation": "我们必须坐火车。",
+          "explain": "prendre 是双词干动词：单数和第三人称复数用 prenn-（que je prenne, qu'ils prennent），nous/vous 用 pren-（prenions, preniez）。这里主语是 nous，所以用 prenions；词干不能加双 n。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q6",
+          "type": "letters",
+          "prompt": "Complétez : « Il faut que je ___ le bus de sept heures. » (prendre)",
+          "answer": "prenne",
+          "decoys": [
+            "d",
+            "s",
+            "t",
+            "i"
+          ],
+          "translation": "我必须坐七点的公交车。",
+          "explain": "prendre 的虚拟式现在时单数词干是 prenn-：que je prenne, que tu prennes, qu'il prenne。这里主语是 je，用 prenne，双写 n；不要按直陈式 je prends 写成 *prende。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q7",
+          "type": "letters",
+          "prompt": "Complétez : « Je suis surpris que vous ___ si tôt. » (venir)",
+          "answer": "veniez",
+          "decoys": [
+            "n",
+            "s",
+            "t",
+            "e"
+          ],
+          "translation": "我很惊讶你们来得这么早。",
+          "explain": "venir 是双词干动词：单数用 vienn-（vienne, viennes），nous/vous 用 ven-（venions, veniez）。主语是 vous，用 veniez；不能把单数词干搬过来写成 *vienniez。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q8",
+          "type": "choice",
+          "prompt": "Complétez : « Elle est contente que nous ___ enfin son film ce soir. » (voir)",
+          "options": [
+            "voyons",
+            "verrons",
+            "voyions",
+            "voiyons"
+          ],
+          "answer": 2,
+          "translation": "她很高兴我们今晚终于看她的电影。",
+          "explain": "voir 的虚拟式现在时词干在 nous/vous 中为 voy-：que nous voyions, que vous voyiez；单数则是 voie, voies, voie。这里从句用虚拟式，主语 nous，所以是 voyions；y 与词尾 i 相连，不写成 *voiyons。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q9",
+          "type": "tiles",
+          "prompt": "Composez une phrase au subjonctif présent : je / être / étonné / que / tu / croire / cette histoire",
+          "answer": [
+            "Je",
+            "suis",
+            "étonné",
+            "que",
+            "tu",
+            "croies",
+            "cette",
+            "histoire."
+          ],
+          "bank": [
+            "Je",
+            "suis",
+            "étonné",
+            "que",
+            "tu",
+            "croies",
+            "cette",
+            "histoire.",
+            "crois",
+            "croyais",
+            "croiras",
+            "étonner"
+          ],
+          "translation": "我很惊讶你相信这个故事。",
+          "explain": "croire 的虚拟式现在时：que je croie, que tu croies, qu'il croie, que nous croyions, qu'ils croient。这里主语是 tu，用 croies（词尾 -es）；主句 être étonné que 表惊讶，触发虚拟式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q10",
+          "type": "choice",
+          "prompt": "Complétez : « Je veux que vous ___ le bus pour aller au musée. » (prendre)",
+          "options": [
+            "prenez",
+            "prendrez",
+            "prendions",
+            "preniez"
+          ],
+          "answer": 3,
+          "translation": "我希望你们坐公交车去博物馆。",
+          "explain": "vouloir que 触发虚拟式；prendre 的 vous 形式用长词干 pren- 加 -iez，得 preniez。prenez 是直陈式或命令式，prendrez 是将来时，prendions 是 nous 形式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q11",
+          "type": "letters",
+          "prompt": "Complétez : « Le professeur demande que vous ___ compte de cette règle. » (tenir)",
+          "answer": "teniez",
+          "decoys": [
+            "n",
+            "s",
+            "t",
+            "i"
+          ],
+          "translation": "老师要求你们考虑这条规则。",
+          "explain": "tenir 与 venir 一样是双词干动词：单数 tienn-（tienne），nous/vous ten-（tenions, teniez）。demander que 表请求，触发虚拟式；主语 vous 用 teniez。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q12",
+          "type": "letters",
+          "prompt": "Transformez au subjonctif présent : « Nous buvons moins de café. » → « Il faut que nous ___ moins de café. »",
+          "answer": "buvions",
+          "decoys": [
+            "e",
+            "s",
+            "t",
+            "o"
+          ],
+          "translation": "我们必须少喝咖啡。",
+          "explain": "boire 的虚拟式现在时单数用 boiv-（boive），nous/vous 用 buv-（buvions, buviez）。这是双词干动词，nous 形式不能沿用 boiv- 写成 *boivions。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q13",
+          "type": "choice",
+          "prompt": "Complétez : « Je doute que tu ___ prêt à partir. » (être)",
+          "options": [
+            "sois",
+            "es",
+            "seras",
+            "étais"
+          ],
+          "answer": 0,
+          "translation": "我怀疑你准备好出发了。",
+          "explain": "douter que 表怀疑，触发虚拟式。être 的虚拟式现在时是 sois, sois, soit, soyons, soyez, soient；主语 tu 用 sois。es 是直陈式现在时，seras 是将来时，étais 是未完成过去时。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q14",
+          "type": "letters",
+          "prompt": "Complétez : « Nous sommes contents que vous ___ le temps de venir. » (avoir)",
+          "answer": "ayez",
+          "decoys": [
+            "s",
+            "t",
+            "i",
+            "e"
+          ],
+          "translation": "我们很高兴你们有时间来。",
+          "explain": "être content que 表高兴，触发虚拟式。avoir 的虚拟式现在时是 aie, aies, ait, ayons, ayez, aient；主语 vous 用 ayez。不要按直陈式 avez 类推。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q15",
+          "type": "letters",
+          "prompt": "Complétez : « Elle a peur que je ___ la vérité. » (savoir)",
+          "answer": "sache",
+          "decoys": [
+            "s",
+            "t",
+            "i",
+            "e"
+          ],
+          "translation": "她害怕我知道真相。",
+          "explain": "avoir peur que 表害怕，触发虚拟式。savoir 的虚拟式现在时词干是 sach-：sache, saches, sache, sachions, sachiez, sachent；主语 je 用 sache。不能写成 *sais。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q16",
+          "type": "choice",
+          "prompt": "Complétez : « Il faut que tu ___ attention en traversant la rue. » (faire)",
+          "options": [
+            "fasses",
+            "fais",
+            "feras",
+            "faisais"
+          ],
+          "answer": 0,
+          "translation": "过马路时你必须小心。",
+          "explain": "il faut que 是无人称结构，后面的从句用虚拟式。faire 的虚拟式现在时是 fasse, fasses, fasse, fassions, fassiez, fassent；主语 tu 用 fasses。fais 是直陈式或命令式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q17",
+          "type": "choice",
+          "prompt": "Complétez : « Je préfère que vous ___ à pied. » (aller)",
+          "options": [
+            "allez",
+            "irez",
+            "alliez",
+            "allions"
+          ],
+          "answer": 2,
+          "translation": "我更希望你们步行去。",
+          "explain": "préférer que 表意愿，触发虚拟式。aller 的虚拟式现在时是 aille, ailles, aille, allions, alliez, aillent；主语 vous 用 alliez。allez 是直陈式或命令式，irez 是将来时，allions 是 nous 形式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q18",
+          "type": "tiles",
+          "prompt": "Composez une phrase : le directeur / exiger / que / nous / être / à l'heure",
+          "answer": [
+            "Le",
+            "directeur",
+            "exige",
+            "que",
+            "nous",
+            "soyons",
+            "à",
+            "l'heure."
+          ],
+          "bank": [
+            "Le",
+            "directeur",
+            "exige",
+            "que",
+            "nous",
+            "soyons",
+            "à",
+            "l'heure.",
+            "sommes",
+            "serons",
+            "soient",
+            "exigent"
+          ],
+          "translation": "经理要求我们准时。",
+          "explain": "exiger que 表要求，触发虚拟式。être 的 nous 形式是 soyons；主语 nous 用 soyons。sommes 是直陈式，serons 是将来时，soient 是 ils/elles 形式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q19",
+          "type": "letters",
+          "prompt": "Complétez : « Il est nécessaire que les enfants ___ jouer dehors. » (pouvoir)",
+          "answer": "puissent",
+          "decoys": [
+            "e",
+            "s",
+            "t",
+            "a"
+          ],
+          "translation": "孩子们需要能在外面玩。",
+          "explain": "il est nécessaire que 触发虚拟式。pouvoir 的虚拟式现在时是 puisse, puisses, puisse, puissions, puissiez, puissent；主语 les enfants 是第三人称复数，用 puissent。注意词干是 puiss-，双写 s。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q20",
+          "type": "letters",
+          "prompt": "Transformez au subjonctif présent : « nous savons » → « Il est important que nous ___ la vérité. »",
+          "answer": "sachions",
+          "decoys": [
+            "e",
+            "s",
+            "t",
+            "i"
+          ],
+          "translation": "我们知道真相很重要。",
+          "explain": "savoir 的虚拟式现在时词干是 sach-：sache, saches, sache, sachions, sachiez, sachent。这里主语是 nous，用 sachions；不能按直陈式 savons 写成 *savions。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q21",
+          "type": "tiles",
+          "prompt": "Composez une phrase au subjonctif présent : je / être / surpris / que / vous / voir / tout / et / que / vous / être / si calmes",
+          "answer": [
+            "Je",
+            "suis",
+            "surpris",
+            "que",
+            "vous",
+            "voyiez",
+            "tout",
+            "et",
+            "que",
+            "vous",
+            "soyez",
+            "si",
+            "calmes."
+          ],
+          "bank": [
+            "Je",
+            "suis",
+            "surpris",
+            "que",
+            "vous",
+            "que",
+            "voyiez",
+            "tout",
+            "et",
+            "vous",
+            "soyez",
+            "si",
+            "calmes.",
+            "voyez",
+            "voyions",
+            "êtes",
+            "sont",
+            "sois",
+            "voir"
+          ],
+          "translation": "我很惊讶你们什么都看得见，而且这么镇定。",
+          "explain": "主句 être surpris que 表惊讶，触发虚拟式。voir 是双词干动词：nous/vous 用 voy- 加 -iez，得 voyiez；y 后接 i 时保留 y，不写 *voiiez。être 是不规则动词，vous 形式为 soyez。voyez、êtes 都是直陈式，不能用在情感触发的从句里。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q22",
+          "type": "tiles",
+          "prompt": "Transformez au subjonctif présent : « Nous payons le bus et nous allons au parc. » → il faut que ...",
+          "answer": [
+            "Il",
+            "faut",
+            "que",
+            "nous",
+            "payions",
+            "le",
+            "bus",
+            "et",
+            "que",
+            "nous",
+            "allions",
+            "au",
+            "parc."
+          ],
+          "bank": [
+            "Il",
+            "faut",
+            "que",
+            "nous",
+            "que",
+            "payions",
+            "le",
+            "bus",
+            "et",
+            "nous",
+            "allions",
+            "au",
+            "parc.",
+            "payons",
+            "allons",
+            "paierons",
+            "aillions",
+            "irons"
+          ],
+          "translation": "我们必须坐公交车，然后去公园。",
+          "explain": "il faut que 触发虚拟式。payer 是 -yer 动词：nous/vous 形式保留 y 再接 -ions/-iez，得 payions；只有单数在无声的 e 前才把 y 改成 i（je paie）。aller 既是双词干又是不规则动词：nous 用 all- 加 -ions，得 allions，不能按直陈式 allons 或单数词干 aill- 写成 *aillions。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q23",
+          "type": "tiles",
+          "prompt": "Transformez au subjonctif présent : « Les élèves vont en classe et ils font leurs devoirs. » → il faut que ...",
+          "answer": [
+            "Il",
+            "faut",
+            "que",
+            "les",
+            "élèves",
+            "aillent",
+            "en",
+            "classe",
+            "et",
+            "qu'ils",
+            "fassent",
+            "leurs",
+            "devoirs."
+          ],
+          "bank": [
+            "Il",
+            "faut",
+            "que",
+            "les",
+            "élèves",
+            "aillent",
+            "en",
+            "classe",
+            "et",
+            "qu'ils",
+            "fassent",
+            "leurs",
+            "devoirs.",
+            "vont",
+            "font",
+            "feront",
+            "aille",
+            "faisent",
+            "devoir"
+          ],
+          "translation": "学生们必须去上课并做作业。",
+          "explain": "il faut que 后接虚拟式。aller 是双词干的不规则动词：ils 用 aill- 加 -ent，得 aillent，不能按直陈式 vont 类推。faire 是不规则动词，词干 fass-，ils 形式为 fassent，双写 s；font、feront 都是直陈式，faisent 拼写错误。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l1-q24",
+          "type": "letters",
+          "prompt": "Transformez au subjonctif présent : « Vous pouvez rester. » → « Je suis étonné que vous ___ rester. » (pouvoir)",
+          "answer": "puissiez",
+          "decoys": [
+            "s",
+            "t",
+            "e",
+            "r"
+          ],
+          "translation": "我很惊讶你们还能留下来。",
+          "explain": "主句 être étonné que 表惊讶，触发虚拟式。pouvoir 是不规则动词，词干为 puiss-，vous 形式是 puissiez，双写 s；不能按直陈式 pouvez 类推，也不能写成 *puisez。源句 vous pouvez 是直陈式，转换后要用虚拟式。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c19-subjunctive-l2",
+      "title": "虚拟式过去时与现在／过去的选择",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c19-subjunctive-l2-q1",
+          "type": "letters",
+          "prompt": "Complétez au subjonctif passé : « Il faut que tu ___ fini avant midi. » (avoir)",
+          "answer": "aies",
+          "decoys": [
+            "s",
+            "t",
+            "e",
+            "i"
+          ],
+          "translation": "你必须在中午前已经完成。",
+          "explain": "虚拟式过去时由 avoir 或 être 的虚拟式现在时加过去分词构成。这里助动词是 avoir，主语 tu，虚拟式现在时为 aies，后接过去分词 fini。不要写成直陈式 as 或将来时 auras。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l2-q2",
+          "type": "tiles",
+          "prompt": "Composez une phrase au subjonctif passé : je / être / surpris / qu'elle / partir / avant midi",
+          "answer": [
+            "Je",
+            "suis",
+            "surpris",
+            "qu'elle",
+            "soit",
+            "partie",
+            "avant",
+            "midi."
+          ],
+          "bank": [
+            "Je",
+            "suis",
+            "surpris",
+            "qu'elle",
+            "soit",
+            "partie",
+            "avant",
+            "midi.",
+            "est",
+            "parti",
+            "sois",
+            "parties"
+          ],
+          "translation": "我很惊讶她在中午前就走了。",
+          "explain": "partir 用 être 作助动词；虚拟式过去时是 être 的虚拟式现在时（soit）加过去分词 partie。主语 elle 是阴性单数，过去分词与主语配合，写成 partie；que 在 elle 前省音为 qu'elle。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l2-q3",
+          "type": "letters",
+          "prompt": "Complétez : « Je suis content que les filles soient ___ avant nous. » (arriver)",
+          "answer": "arrivées",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "s",
+            "t",
+            "e",
+            "i"
+          ],
+          "translation": "我很高兴女孩们比我们先到。",
+          "explain": "以 être 作助动词的非代词式动词，虚拟式过去时的过去分词要与主语性数配合。主语 les filles 是阴性复数，所以用 arrivées；不能写 arrivé 或 arrivés。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l2-q4",
+          "type": "choice",
+          "prompt": "Complétez : « Il est possible que nous ayons ___ les clés au bureau. » (oublier)",
+          "options": [
+            "oubliés",
+            "oubliée",
+            "oublié",
+            "oubliées"
+          ],
+          "answer": 2,
+          "translation": "我们可能把钥匙忘在办公室了。",
+          "explain": "以 avoir 作助动词时，过去分词通常不与主语配合。主语 nous 不决定 oublié 的形式；只有直接宾语前置时才可能配合，这里 les clés 在动词后，所以用不变形式 oublié。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l2-q5",
+          "type": "choice",
+          "prompt": "Complétez : « Elle est heureuse que mes frères et moi nous ___ pendant les vacances. » (amuser)",
+          "options": [
+            "soyons amusés",
+            "soyons amusé",
+            "sommes amusés",
+            "soyons amusées"
+          ],
+          "answer": 0,
+          "translation": "她很高兴我和兄弟们假期里玩得很开心。",
+          "explain": "s'amuser 是代词式动词，助动词用 être。这里自反代词 nous 是直接宾语，过去分词与主语 nous 配合；主语 mes frères et moi 是阳性复数，所以用 amusés。主句 être heureux que 触发虚拟式，助动词用 soyons，因此是 soyons amusés。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l2-q6",
+          "type": "choice",
+          "prompt": "Transformez au subjonctif passé : « Il est parti. » → « Il est possible qu'il ___ . »",
+          "options": [
+            "est parti",
+            "soit parti",
+            "part",
+            "parte"
+          ],
+          "answer": 1,
+          "translation": "他可能已经走了。",
+          "explain": "虚拟式过去时由助动词的虚拟式现在时加过去分词构成：partir 用 être，第三人称单数为 soit，过去分词 parti。主句 il est possible que 触发虚拟式；这里动作已经完成，所以用过去时。est parti 是直陈式复合过去时，part 是直陈式现在时，parte 是虚拟式现在时。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l2-q7",
+          "type": "choice",
+          "prompt": "Transformez au subjonctif passé : « Il a réussi. » → « Je suis étonné qu'il ___ . »",
+          "options": [
+            "réussisse",
+            "a réussi",
+            "réussira",
+            "ait réussi"
+          ],
+          "answer": 3,
+          "translation": "我很惊讶他成功了。",
+          "explain": "réussir 用 avoir 作助动词；虚拟式过去时为 ait + réussi。主句 je suis étonné que 触发虚拟式；从句动作先于主句的惊讶，所以用过去时。réussisse 是虚拟式现在时，a réussi 和 réussira 都是直陈式形式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l2-q8",
+          "type": "choice",
+          "prompt": "Transformez au subjonctif : « Il était malade hier. » → « Je suis désolé qu'il ___ malade hier. »",
+          "options": [
+            "ait été",
+            "soit",
+            "était",
+            "a été"
+          ],
+          "answer": 0,
+          "translation": "我很遗憾他昨天病了。",
+          "explain": "主句 je suis désolé que 表遗憾，触发虚拟式。从句说 hier，动作在主句参照点之前已经完成，所以用虚拟式过去时 ait été；soit 是虚拟式现在时，était 和 a été 都是直陈式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l2-q9",
+          "type": "tiles",
+          "prompt": "Composez une phrase au subjonctif passé : nous / être / contents / que / les garçons / rentrer / tôt",
+          "answer": [
+            "Nous",
+            "sommes",
+            "contents",
+            "que",
+            "les",
+            "garçons",
+            "soient",
+            "rentrés",
+            "tôt."
+          ],
+          "bank": [
+            "Nous",
+            "sommes",
+            "contents",
+            "que",
+            "les",
+            "garçons",
+            "soient",
+            "rentrés",
+            "tôt.",
+            "sont",
+            "rentré",
+            "soit",
+            "rentrées"
+          ],
+          "translation": "我们很高兴男孩们早回家了。",
+          "explain": "rentrer 用 être 作助动词；虚拟式过去时为 soient 加过去分词。主语 les garçons 是阳性复数，过去分词配合为 rentrés。sont 是直陈式，soit 是单数形式，rentré 和 rentrées 与主语性数不符。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l2-q10",
+          "type": "choice",
+          "prompt": "Complétez : « Il est possible que Marie ___ à Paris en ce moment ; il est aussi possible qu'elle ___ à Lyon hier. »",
+          "options": [
+            "ait été / soit",
+            "soit / ait été",
+            "soit / était",
+            "sera / a été"
+          ],
+          "answer": 1,
+          "translation": "玛丽现在可能在巴黎；她昨天也可能在里昂。",
+          "explain": "两个从句都由 il est possible que 触发虚拟式。第一句 en ce moment 表示同时，用现在时 soit；第二句 hier 表示先于参照点完成，用过去时 ait été。不能因为主句相同就都用现在时。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l2-q11",
+          "type": "tiles",
+          "prompt": "Transformez en une seule phrase avec « je suis content que » : « Marie est là. Elle est arrivée avant nous. » → ...",
+          "answer": [
+            "Je",
+            "suis",
+            "content",
+            "que",
+            "Marie",
+            "soit",
+            "là",
+            "et",
+            "qu'elle",
+            "soit",
+            "arrivée",
+            "avant",
+            "nous."
+          ],
+          "bank": [
+            "Je",
+            "suis",
+            "content",
+            "que",
+            "Marie",
+            "soit",
+            "là",
+            "et",
+            "qu'elle",
+            "soit",
+            "arrivée",
+            "avant",
+            "nous.",
+            "est",
+            "sont",
+            "arrivé",
+            "arrivés",
+            "sois",
+            "a"
+          ],
+          "translation": "我很高兴玛丽在，而且她比我们先到。",
+          "explain": "主句 être content que 触发虚拟式。第一分句说现在的状态，用虚拟式现在时 soit；第二分句说已经完成的动作，用虚拟式过去时 soit 加过去分词。arriver 以 être 为助动词，过去分词与主语 elle 配合，写成 arrivée。est、sont 是直陈式，arrivé 未配合，arrivés 与阴性单数不符。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l2-q12",
+          "type": "tiles",
+          "prompt": "Transformez en une seule phrase avec « je suis surpris que » : « Paul et Marie sont là. Ils ont fini le travail. » → ...",
+          "answer": [
+            "Je",
+            "suis",
+            "surpris",
+            "que",
+            "Paul",
+            "et",
+            "Marie",
+            "soient",
+            "là",
+            "et",
+            "qu'ils",
+            "aient",
+            "fini",
+            "le",
+            "travail."
+          ],
+          "bank": [
+            "Je",
+            "suis",
+            "surpris",
+            "que",
+            "Paul",
+            "et",
+            "Marie",
+            "soient",
+            "là",
+            "et",
+            "qu'ils",
+            "aient",
+            "fini",
+            "le",
+            "travail.",
+            "sont",
+            "ont",
+            "soit",
+            "a",
+            "finis",
+            "finies",
+            "finie",
+            "terminé"
+          ],
+          "translation": "我很惊讶保罗和玛丽在，而且他们已经完成了工作。",
+          "explain": "两个分句都由 être surpris que 触发虚拟式。第一分句是现在的状态，用虚拟式现在时 soient；第二分句的动作已经完成，用虚拟式过去时 aient 加过去分词。finir 以 avoir 为助动词，过去分词不与主语配合，所以写 fini，不写 finis 或 finies；sont、ont 是直陈式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l2-q13",
+          "type": "choice",
+          "prompt": "Complétez : « Elle est heureuse que nous nous ___ et que nous nous ___ longtemps. » (s'amuser / se parler)",
+          "options": [
+            "soyons amusés / soyons parlé",
+            "soyons amusé / soyons parlé",
+            "soyons amusés / soyons parlés",
+            "soyons amusés / ayons parlé"
+          ],
+          "answer": 0,
+          "translation": "她很高兴我们玩得开心，而且聊了很久。",
+          "explain": "s'amuser 和 se parler 都是代词式动词，助动词用 être 的虚拟式现在时 soyons。s'amuser 中 nous 是直接宾语，过去分词与主语 nous 配合，写 amusés；se parler 中 nous 是间接宾语（parler à qn），过去分词不配合，写 parlé。两处不能一律配合，也不能一律不配合。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c19-subjunctive-l3",
+      "title": "触发虚拟式：意志、情感、怀疑与无人称",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c19-subjunctive-l3-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Je veux que tu ___ à la réunion de demain. »",
+          "options": [
+            "viens",
+            "venir",
+            "viennes",
+            "viendras"
+          ],
+          "answer": 2,
+          "translation": "我希望你参加明天的会议。",
+          "explain": "vouloir que 引导的从句用虚拟式；主句主语 je 与从句主语 tu 不同，不能省成不定式。venir 的虚拟式现在时第二人称单数为 viennes（词干 vienn-），不能用直陈式 viens，也不能用不定式 venir。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q2",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "J'espère que tu viens ce soir.",
+            "J'espère que tu viennes ce soir.",
+            "J'espère que tu venir ce soir.",
+            "J'espère que tu sois là ce soir."
+          ],
+          "answer": 0,
+          "translation": "我希望你今晚来。",
+          "explain": "espérer que 虽然表达愿望，但肯定句中通常接直陈式：J'espère que tu viens. 它不触发虚拟式，所以 viennes、sois 都不对；que 从句里必须有变位动词，不能用不定式 venir。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q3",
+          "type": "letters",
+          "prompt": "Complétez : « Le professeur demande que les élèves ___ attentifs. » (être)",
+          "answer": "soient",
+          "decoys": [
+            "a",
+            "r",
+            "u",
+            "v"
+          ],
+          "translation": "老师要求学生们专心。",
+          "explain": "demander que 表示要求，从句用虚拟式；主句主语 le professeur 与从句主语 les élèves 不同。être 的虚拟式现在时第三人称复数为 soient，不能用直陈式 sont。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q4",
+          "type": "tiles",
+          "prompt": "Transformez avec « vouloir que » : « Tu pars tôt. » (Je...) → ___",
+          "answer": [
+            "Je",
+            "veux",
+            "que",
+            "tu",
+            "partes",
+            "tôt."
+          ],
+          "bank": [
+            "Je",
+            "veux",
+            "que",
+            "tu",
+            "partes",
+            "tôt.",
+            "veut",
+            "pars",
+            "part",
+            "partent",
+            "de",
+            "vite"
+          ],
+          "translation": "我希望你早点出发。",
+          "explain": "vouloir que 后接虚拟式；主句主语 je 与从句主语 tu 不同，所以不能写成 Je veux partir（那是「我想出发」）。partir 的第二人称单数虚拟式为 partes，不是直陈式 pars。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q5",
+          "type": "choice",
+          "prompt": "Complétez : « Elle est contente que son frère ___ enfin chez elle. »",
+          "options": [
+            "vient",
+            "venir",
+            "est venu",
+            "vienne"
+          ],
+          "answer": 3,
+          "translation": "她很高兴弟弟终于来她家了。",
+          "explain": "être content que 表达情感，从句用虚拟式；主句主语 elle 与从句主语 son frère 不同。venir 的虚拟式现在时第三人称单数为 vienne。vient、est venu 是直陈式，venir 是不定式，都不能作这里的变位谓语。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q6",
+          "type": "choice",
+          "prompt": "Complétez les deux phrases : « Elle a peur que son fils ___ » / « Elle a peur de ___ . »",
+          "options": [
+            "tombe / tomber",
+            "tombe / tombe",
+            "tomber / tomber",
+            "tomber / tombe"
+          ],
+          "answer": 0,
+          "translation": "她怕儿子摔倒。／她怕摔倒。",
+          "explain": "第一句主句主语 elle 与从句主语 son fils 不同，用 que + 虚拟式：qu'il tombe。第二句主语相同（都是 elle），用 de + 不定式：de tomber。两种结构不能混用。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q7",
+          "type": "letters",
+          "prompt": "Complétez : « Je suis étonné que tu ___ tant d'efforts. » (faire)",
+          "answer": "fasses",
+          "decoys": [
+            "i",
+            "t",
+            "r",
+            "u"
+          ],
+          "translation": "我很惊讶你付出这么多努力。",
+          "explain": "être étonné que 表达情感，从句用虚拟式；faire 的虚拟式现在时第二人称单数为 fasses（词干 fass-），不能写成直陈式 fais。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q8",
+          "type": "tiles",
+          "prompt": "Transformez avec « regretter que » : « Vous partez déjà. » (Je...) → ___",
+          "answer": [
+            "Je",
+            "regrette",
+            "que",
+            "vous",
+            "partiez",
+            "déjà."
+          ],
+          "bank": [
+            "Je",
+            "regrette",
+            "que",
+            "vous",
+            "partiez",
+            "déjà.",
+            "regrettes",
+            "partez",
+            "partir",
+            "partent",
+            "de",
+            "vite"
+          ],
+          "translation": "我很遗憾你们已经要走了。",
+          "explain": "regretter que 后接虚拟式；主句主语 je 与从句主语 vous 不同。partir 的第二人称复数虚拟式为 partiez，不是直陈式 partez。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q9",
+          "type": "choice",
+          "prompt": "Complétez : « Je doute que cette solution ___ la bonne. »",
+          "options": [
+            "est",
+            "soit",
+            "être",
+            "sera"
+          ],
+          "answer": 1,
+          "translation": "我怀疑这个办法是对的。",
+          "explain": "douter que 表达怀疑，从句用虚拟式；être 的虚拟式现在时第三人称单数为 soit。est 和 sera 是直陈式，être 是不定式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q10",
+          "type": "choice",
+          "prompt": "Complétez : « Je doute que ce ___ vrai, mais je suis sûr que tu ___ la réponse. »",
+          "options": [
+            "soit / aies",
+            "est / as",
+            "soit / as",
+            "est / aies"
+          ],
+          "answer": 2,
+          "translation": "我怀疑这是真的，但我确信你知道答案。",
+          "explain": "douter que 用虚拟式（soit）；être sûr que 表达肯定确信，用直陈式（as）。两句话的谓语态度不同，语气也随之不同。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q11",
+          "type": "letters",
+          "prompt": "Complétez : « Il est possible que nous ___ en retard. » (être)",
+          "answer": "soyons",
+          "decoys": [
+            "a",
+            "i",
+            "t",
+            "u"
+          ],
+          "translation": "我们可能会迟到。",
+          "explain": "il est possible que 表示可能性，从句用虚拟式；être 的第一人称复数虚拟式为 soyons。注意 il est probable que 表示「很可能」，通常接直陈式，两者不要混。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q12",
+          "type": "choice",
+          "prompt": "Complétez : « Il faut que tu ___ ce document avant midi. »",
+          "options": [
+            "lis",
+            "lire",
+            "liras",
+            "lises"
+          ],
+          "answer": 3,
+          "translation": "你必须在中午之前读完这份文件。",
+          "explain": "il faut que 后接虚拟式；lire 的第二人称单数虚拟式为 lises。lis 是直陈式，lire 是不定式，liras 是将来时，都不能用在 il faut que 的从句里。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q13",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Il faut que nous partions tout de suite.",
+            "Il faut que nous partons tout de suite.",
+            "Il faut que nous partir tout de suite.",
+            "Il faut partir que nous tout de suite."
+          ],
+          "answer": 0,
+          "translation": "我们必须马上出发。",
+          "explain": "il faut que 引导的从句用虚拟式，partir 的第一人称复数虚拟式为 partions。partons 是直陈式，partir 是不定式，都不能作从句谓语；最后一句语序也不成立。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q14",
+          "type": "letters",
+          "prompt": "Complétez : « Il est important que vous ___ la consigne. » (comprendre)",
+          "answer": "compreniez",
+          "decoys": [
+            "a",
+            "s",
+            "t",
+            "u"
+          ],
+          "translation": "重要的是你们要理解这条要求。",
+          "explain": "il est important que 后接虚拟式；comprendre 的第二人称复数虚拟式为 compreniez，词干是 compren-，不是直陈式的 comprenez。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q15",
+          "type": "choice",
+          "prompt": "Complétez : « Elle veut ___ avant la fin du mois. »",
+          "options": [
+            "qu'elle parte elle-même",
+            "parte",
+            "partir",
+            "de partir"
+          ],
+          "answer": 2,
+          "translation": "她想在月底前离开。",
+          "explain": "vouloir 的主语 elle 与「离开」的主语相同，直接用不定式 partir，不加 de，也不用 que 从句。elle-même 明确表示离开的人就是主句主语，所以 *Elle veut qu'elle parte elle-même 不成立；parte 缺少 que 和主语；de partir 不符合 vouloir 的搭配。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q16",
+          "type": "letters",
+          "prompt": "Complétez : « Je souhaite que tu ___ la vérité. » (savoir)",
+          "answer": "saches",
+          "decoys": [
+            "i",
+            "t",
+            "u",
+            "r"
+          ],
+          "translation": "我希望你知道真相。",
+          "explain": "souhaiter que 表达愿望，从句用虚拟式；savoir 的第二人称单数虚拟式为 saches（词干 sach-），不是直陈式 sais。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q17",
+          "type": "tiles",
+          "prompt": "Composez une phrase : la direction / exiger / que / les employés / être / à l'heure.",
+          "answer": [
+            "La",
+            "direction",
+            "exige",
+            "que",
+            "les",
+            "employés",
+            "soient",
+            "à",
+            "l'heure."
+          ],
+          "bank": [
+            "La",
+            "direction",
+            "exige",
+            "que",
+            "les",
+            "employés",
+            "soient",
+            "à",
+            "l'heure.",
+            "exigent",
+            "soit",
+            "sont",
+            "de",
+            "employé",
+            "heure"
+          ],
+          "translation": "管理层要求员工准时。",
+          "explain": "exiger que 后接虚拟式；主语 la direction 是第三人称单数，用 exige。être 的第三人称复数虚拟式为 soient；sont 是直陈式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q18",
+          "type": "letters",
+          "prompt": "Complétez : « Je suis surpris que vous ___ cette décision si vite. » (prendre)",
+          "answer": "preniez",
+          "decoys": [
+            "a",
+            "s",
+            "t",
+            "u"
+          ],
+          "translation": "我很惊讶你们这么快就做出这个决定。",
+          "explain": "être surpris que 表达情感，从句用虚拟式。prendre 的 nous/vous 形式换用 pren- 词干：que vous preniez；不能把单数词干 prenn- 搬到这里，也不能用直陈式 prenez。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q19",
+          "type": "choice",
+          "prompt": "Complétez : « Nous sommes heureux que vous ___ nous rendre visite. »",
+          "options": [
+            "pouvez",
+            "puissiez",
+            "pouvoir",
+            "puissez"
+          ],
+          "answer": 1,
+          "translation": "我们很高兴你们能来看我们。",
+          "explain": "être heureux que 表达情感，从句用虚拟式；pouvoir 的第二人称复数虚拟式为 puissiez（词干 puiss-），不是直陈式 pouvez，也不是只有一个 s 的 *puissez。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q20",
+          "type": "letters",
+          "prompt": "Complétez : « Je suis heureux que nous ___ enfin ce jardin ensemble. » (nettoyer)",
+          "answer": "nettoyions",
+          "decoys": [
+            "a",
+            "r",
+            "u",
+            "v"
+          ],
+          "translation": "我很高兴我们一起打扫这个花园。",
+          "explain": "être heureux que 后接虚拟式；nettoyer 的第一人称复数虚拟式为 nettoyions：nous/vous 形式保留 y，再接 -ions/-iez；单数才在无声的 e 前把 y 改成 i（je nettoie, tu nettoies）。不能写成直陈式 nettoyons，也不能丢掉 y 写成 *nettoiions。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q21",
+          "type": "tiles",
+          "prompt": "Composez une phrase : elle / être / contente / que / nous / venir / et / que / nous / pouvoir / rester",
+          "answer": [
+            "Elle",
+            "est",
+            "contente",
+            "que",
+            "nous",
+            "venions",
+            "et",
+            "que",
+            "nous",
+            "puissions",
+            "rester."
+          ],
+          "bank": [
+            "Elle",
+            "est",
+            "contente",
+            "que",
+            "nous",
+            "que",
+            "venions",
+            "et",
+            "nous",
+            "puissions",
+            "rester.",
+            "venons",
+            "viennions",
+            "pouvons",
+            "puisse",
+            "venir"
+          ],
+          "translation": "她很高兴我们来，而且能留下来。",
+          "explain": "être contente que 表情感，触发虚拟式。venir 是双词干动词：nous 用 ven- 加 -ions，得 venions，不能把单数词干 vienn- 搬过来写成 *viennions。pouvoir 是不规则动词，词干 puiss-，nous 形式为 puissions；venons、pouvons 都是直陈式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q22",
+          "type": "tiles",
+          "prompt": "Composez une phrase : le directeur / vouloir / que / nous / aller / au bureau",
+          "answer": [
+            "Le",
+            "directeur",
+            "veut",
+            "que",
+            "nous",
+            "allions",
+            "au",
+            "bureau."
+          ],
+          "bank": [
+            "Le",
+            "directeur",
+            "veut",
+            "que",
+            "nous",
+            "allions",
+            "au",
+            "bureau.",
+            "veux",
+            "allons",
+            "irons",
+            "aillions",
+            "vouloir"
+          ],
+          "translation": "经理想让我们去办公室。",
+          "explain": "vouloir que 表愿望，触发虚拟式。aller 既是双词干又是不规则动词：nous/vous 用 all- 加 -ions/-iez，得 allions；不能按直陈式 allons 写，也不能用单数词干 aill- 写成 *aillions。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q23",
+          "type": "letters",
+          "prompt": "Complétez : « Elle exige que vous ___ la voir. » (aller)",
+          "answer": "alliez",
+          "decoys": [
+            "e",
+            "s",
+            "t",
+            "r"
+          ],
+          "translation": "她要求你们去看她。",
+          "explain": "exiger que 表要求，触发虚拟式。aller 是不规则的双词干动词：vous 用 all- 加 -iez，得 alliez；不能写成直陈式 allez，也不能用单数词干 aill- 写成 *ailliez。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q24",
+          "type": "tiles",
+          "prompt": "Composez une phrase : je / douter / que / tu / savoir / la vérité",
+          "answer": [
+            "Je",
+            "doute",
+            "que",
+            "tu",
+            "saches",
+            "la",
+            "vérité."
+          ],
+          "bank": [
+            "Je",
+            "doute",
+            "que",
+            "tu",
+            "saches",
+            "la",
+            "vérité.",
+            "sais",
+            "savez",
+            "sache",
+            "savoir",
+            "doutes"
+          ],
+          "translation": "我怀疑你知道真相。",
+          "explain": "douter que 表怀疑，触发虚拟式。savoir 是不规则动词，词干 sach-，tu 形式为 saches；sais 是直陈式，sache 是 je 形式，savez 是 vous 形式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q25",
+          "type": "tiles",
+          "prompt": "Composez une phrase : je / être / surpris / que / tu / pouvoir / venir / si tôt",
+          "answer": [
+            "Je",
+            "suis",
+            "surpris",
+            "que",
+            "tu",
+            "puisses",
+            "venir",
+            "si",
+            "tôt."
+          ],
+          "bank": [
+            "Je",
+            "suis",
+            "surpris",
+            "que",
+            "tu",
+            "puisses",
+            "venir",
+            "si",
+            "tôt.",
+            "peux",
+            "pouvez",
+            "puisse",
+            "pourras",
+            "sois"
+          ],
+          "translation": "我很惊讶你能这么早来。",
+          "explain": "être surpris que 表惊讶，触发虚拟式。pouvoir 是不规则动词，词干 puiss-，tu 形式为 puisses，双写 s；peux 是直陈式，puisse 是 je/il 形式，pourras 是将来时。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l3-q26",
+          "type": "choice",
+          "prompt": "Complétez : « Je ne pense pas que tu ___ venir avec nous. » (vouloir)",
+          "options": [
+            "veux",
+            "veuilles",
+            "veut",
+            "voudras"
+          ],
+          "answer": 1,
+          "translation": "我不认为你愿意和我们一起来。",
+          "explain": "ne pas penser que 表否定判断，触发虚拟式；vouloir 是不规则动词，tu 形式为 veuilles，单数词干 veuill- 双写 l。veux 是直陈式，veut 是第三人称单数，voudras 是将来时。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c19-subjunctive-l4",
+      "title": "直陈式对照、同主语不定式与第三人称命令",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c19-subjunctive-l4-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Je pense que cette idée ___ intéressante en ce moment. »",
+          "options": [
+            "soit",
+            "est",
+            "être",
+            "sois"
+          ],
+          "answer": 1,
+          "translation": "我认为这个想法现在很有意思。",
+          "explain": "penser que 在肯定句中表达肯定判断，从句用直陈式 est；en ce moment 也限定为现在。soit 和 sois 是虚拟式，通常出现在否定或疑问的 penser que 之后；être 是不定式，不能作从句谓语。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l4-q2",
+          "type": "choice",
+          "prompt": "Complétez : « Elle croit que nous ___ prêts, mais elle doute que nous ___ le temps de finir. »",
+          "options": [
+            "sommes / ayons",
+            "soyons / avons",
+            "sommes / avons",
+            "soyons / ayons"
+          ],
+          "answer": 0,
+          "translation": "她相信我们准备好了，但她怀疑我们有时间完成。",
+          "explain": "croire que 在肯定句中表示确信，用直陈式 sommes；douter que 表示怀疑，用虚拟式 ayons。语气由主句谓语的态度决定，与从句内容是否有利无关。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l4-q3",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative : « Je crois qu'il vient. » → ___",
+          "answer": [
+            "Je",
+            "ne",
+            "crois",
+            "pas",
+            "qu'il",
+            "vienne."
+          ],
+          "bank": [
+            "Je",
+            "ne",
+            "crois",
+            "pas",
+            "qu'il",
+            "vienne.",
+            "croit",
+            "vient",
+            "viendra",
+            "que",
+            "il"
+          ],
+          "translation": "我不认为他会来。",
+          "explain": "否定主句谓语后，croire que 的从句改用虚拟式：qu'il vienne。否定用 ne...pas 夹住变位动词 crois；que 与 il 省音为 qu'il。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l4-q4",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Il est évident qu'il a raison.",
+            "Il est évident qu'il ait raison.",
+            "Il est évident qu'il avoir raison.",
+            "Il est évident que il a raison."
+          ],
+          "answer": 0,
+          "translation": "很明显他是有道理的。",
+          "explain": "il est évident que 表示明显事实，从句用直陈式 a。ait 是虚拟式，不用于这种肯定判断；avoir 是不定式；que 与 il 必须省音为 qu'il。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l4-q5",
+          "type": "choice",
+          "prompt": "Complétez : « Nous espérons ___ le musée avant midi. »",
+          "options": [
+            "que nous visitions",
+            "de visiter",
+            "visiter",
+            "visitions"
+          ],
+          "answer": 2,
+          "translation": "我们希望在中午之前参观博物馆。",
+          "explain": "espérer 的主语 nous 与参观的主语相同，直接接不定式 visiter，不加 de 也不用 que 从句。que nous visitions 不但多用了虚拟式，espérer que 在肯定句中还要求直陈式；de visiter 不符合 espérer 的搭配。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l4-q6",
+          "type": "tiles",
+          "prompt": "Reformulez avec le même sujet : « Je regrette que je sois en retard. » → ___",
+          "answer": [
+            "Je",
+            "regrette",
+            "d'être",
+            "en",
+            "retard."
+          ],
+          "bank": [
+            "Je",
+            "regrette",
+            "d'être",
+            "en",
+            "retard.",
+            "que",
+            "je",
+            "sois",
+            "être",
+            "de",
+            "suis"
+          ],
+          "translation": "我很遗憾我迟到了。",
+          "explain": "regretter 的主语与从句主语相同（都是 je），标准做法是改用 de + 不定式：regretter d'être en retard。de 与 être 相接省音为 d'être；que je sois 在这里既累赘又不符合同主语结构的习惯。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l4-q7",
+          "type": "choice",
+          "prompt": "Laquelle des phrases indique que le sujet veut faire l'action lui-même ?",
+          "options": [
+            "Elle souhaite que son amie fasse le voyage.",
+            "Elle souhaite faire le voyage.",
+            "Elle souhaite qu'elle fasse le voyage.",
+            "Elle souhaite que nous fassions le voyage."
+          ],
+          "answer": 1,
+          "translation": "她希望自己去做这次旅行。",
+          "explain": "主语相同（elle 既是 souhaiter 的主语，也是 faire le voyage 的主语）时用不定式：Elle souhaite faire le voyage。其余三句都用 que + 虚拟式，表示由另一个人去旅行；其中 qu'elle 指代不明，通常也理解为另一个人。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l4-q8",
+          "type": "choice",
+          "prompt": "Complétez : « Je suis désolé ___ partir si tôt. »",
+          "options": [
+            "que je doive",
+            "de dois",
+            "que je dois",
+            "de devoir"
+          ],
+          "answer": 3,
+          "translation": "很抱歉我得这么早走。",
+          "explain": "être désolé 的主语 je 与 partir 的主语相同，用 de + 不定式：désolé de devoir partir。devoir 保持不定式形式；que je doive 是 que + 虚拟式，用于主语不同的情况；de dois 和 que je dois 结构都不成立。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l4-q9",
+          "type": "choice",
+          "prompt": "Quelle phrase est une consigne adressée à « il » ?",
+          "options": [
+            "Il entre.",
+            "Entre.",
+            "Qu'il entre.",
+            "Entrez."
+          ],
+          "answer": 2,
+          "translation": "让他进来。",
+          "explain": "对 il/elle/ils/elles 下命令或表达愿望，用 que + 虚拟式现在时：Qu'il entre ! Il entre 是陈述句，Entre 是对 tu 的命令，Entrez 是对 vous 的命令。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l4-q10",
+          "type": "tiles",
+          "prompt": "Transformez en une seule phrase : « Il est malade. Il a de la fièvre. » → « je crois ... mais je ne crois pas ... »",
+          "answer": [
+            "Je",
+            "crois",
+            "qu'il",
+            "est",
+            "malade",
+            "mais",
+            "je",
+            "ne",
+            "crois",
+            "pas",
+            "qu'il",
+            "ait",
+            "de",
+            "la",
+            "fièvre."
+          ],
+          "bank": [
+            "Je",
+            "crois",
+            "qu'il",
+            "est",
+            "malade",
+            "mais",
+            "je",
+            "ne",
+            "crois",
+            "pas",
+            "qu'il",
+            "ait",
+            "de",
+            "la",
+            "fièvre.",
+            "soit",
+            "a",
+            "croit",
+            "ai",
+            "qu'elle"
+          ],
+          "translation": "我相信他病了，但我不认为他发烧。",
+          "explain": "肯定主句 je crois que 把内容当作事实，从句用直陈式 est；否定主句 je ne crois pas que 表不确信，从句改用虚拟式 ait（avoir 的 il 形式）。同一个动词因肯定或否定而要求不同语气。soit 是 être 的虚拟式，与 avoir 不符；a 是直陈式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l4-q11",
+          "type": "tiles",
+          "prompt": "Réunissez les deux phrases en gardant le même sujet : « Elle est contente. Elle a trouvé un appartement. » → ...",
+          "answer": [
+            "Elle",
+            "est",
+            "contente",
+            "d'avoir",
+            "trouvé",
+            "un",
+            "appartement."
+          ],
+          "bank": [
+            "Elle",
+            "est",
+            "contente",
+            "d'avoir",
+            "trouvé",
+            "un",
+            "appartement.",
+            "de",
+            "avoir",
+            "trouvée",
+            "a",
+            "qu'elle",
+            "soit",
+            "que"
+          ],
+          "translation": "她很高兴找到了一套公寓。",
+          "explain": "être content 的主语 elle 与「找到公寓」的主语相同，用 de 加不定式，不用 que 从句：contente d'avoir trouvé un appartement。de 与 avoir 省音为 d'avoir；avoir 加过去分词表示动作先完成。de avoir 不省音、que elle soit 用从句，都不成立。"
+        },
+        {
+          "id": "pub-c19-subjunctive-l4-q12",
+          "type": "tiles",
+          "prompt": "Transformez en une seule phrase : « Tu as raison. Tu ne connais pas toute l'histoire. » → « Je pense ... mais je doute ... »",
+          "answer": [
+            "Je",
+            "pense",
+            "que",
+            "tu",
+            "as",
+            "raison",
+            "mais",
+            "je",
+            "doute",
+            "que",
+            "tu",
+            "connaisses",
+            "toute",
+            "l'histoire."
+          ],
+          "bank": [
+            "Je",
+            "pense",
+            "que",
+            "tu",
+            "as",
+            "raison",
+            "mais",
+            "je",
+            "doute",
+            "que",
+            "tu",
+            "connaisses",
+            "toute",
+            "l'histoire.",
+            "pensons",
+            "sois",
+            "connais",
+            "saches",
+            "doutes",
+            "qu'il",
+            "connaîtra"
+          ],
+          "translation": "我认为你有道理，但我怀疑你是否了解事情的全貌。",
+          "explain": "肯定主句 je pense que 把内容当作事实，从句用直陈式 as；douter que 表示怀疑，即使主句是肯定形式也要求虚拟式，所以用 connaisses（connaître 的 tu 形式，双写 s）。同一个句子里两种语气形成对比：相信的部分用直陈式，怀疑的部分用虚拟式。"
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "pub-c19-subjunctive-x1",
+      "title": "虚拟式综合：触发、词干与时态",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c19-subjunctive-x1-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Je suis surpris que vous ___ toute la vérité. » (savoir)",
+          "options": [
+            "savez",
+            "sachions",
+            "sachiez",
+            "saviez"
+          ],
+          "answer": 2,
+          "translation": "我很惊讶你们知道全部真相。",
+          "explain": "être surpris que 表惊讶，属于情感触发，从句必须用虚拟式。savoir 的虚拟式词干是 sach-，vous 形式为 sachiez。savez 是直陈式现在时，saviez 是直陈式未完成过去时；sachions 是 nous 形式，与主语 vous 不一致。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x1-q2",
+          "type": "letters",
+          "prompt": "Complétez avec le subjonctif présent : « Je veux que nous ___ ensemble ce soir. » (manger)",
+          "answer": "mangions",
+          "decoys": [
+            "e",
+            "t",
+            "r"
+          ],
+          "translation": "我希望我们今晚一起吃饭。",
+          "explain": "vouloir que 表愿望，触发虚拟式。manger 是 -ger 动词：在 a、o 前保留 e（直陈式 nous mangeons），但在 i 前 g 已发软音，不需要 e，所以虚拟式 nous 形式是 mangions，词尾 -ions 也标明 nous。不能照直陈式 mangeons 类推。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x1-q3",
+          "type": "choice",
+          "prompt": "Complétez : « Je doute que vous ___ la différence. » (voir)",
+          "options": [
+            "voyez",
+            "voyiez",
+            "verrez",
+            "voyions"
+          ],
+          "answer": 1,
+          "translation": "我怀疑你们看不出区别。",
+          "explain": "douter que 表怀疑，触发虚拟式。voir 是双词干动词：单数和第三人称复数用 voi-（voie、voies、voie、voient），nous/vous 用 voy-，所以 vous voyiez。voyez 是直陈式现在时，voyions 是 nous 形式，verrez 是将来时直陈式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x1-q4",
+          "type": "letters",
+          "prompt": "Complétez : « Il faut que tu ___ attention en traversant la rue. » (faire)",
+          "answer": "fasses",
+          "decoys": [
+            "i",
+            "n",
+            "t"
+          ],
+          "translation": "过马路时你得小心。",
+          "explain": "il faut que 是无人称触发结构，从句用虚拟式。faire 的虚拟式词干是 fass-，tu 形式为 fasses。fais 是直陈式现在时；fasses 的双 s 不能省。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x1-q5",
+          "type": "tiles",
+          "prompt": "Complétez avec le subjonctif passé : « Je suis étonné que les enfants ___ ___ avant notre retour. » (partir)",
+          "answer": [
+            "soient",
+            "partis"
+          ],
+          "bank": [
+            "soient",
+            "partis",
+            "soit",
+            "parti",
+            "parties",
+            "sont",
+            "partait",
+            "partir"
+          ],
+          "translation": "我很惊讶孩子们在我们回来之前就走了。",
+          "explain": "être étonné que 表惊讶，从句用虚拟式；动作在「我们回来」之前已经完成，所以用虚拟式过去时。partir 以 être 为助动词：助动词用虚拟式现在时 soient，过去分词 partis 与主语 les enfants（阳性复数）配合。soit 是单数，parti 未配合，parties 是阴性复数；sont 是直陈式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x1-q6",
+          "type": "choice",
+          "prompt": "Complétez : « Je suis content que tu ___ ton examen la semaine dernière. » (réussir)",
+          "options": [
+            "réussisses",
+            "as réussi",
+            "avais réussi",
+            "aies réussi"
+          ],
+          "answer": 3,
+          "translation": "我很高兴你上周通过了考试。",
+          "explain": "être content que 表情感，触发虚拟式；la semaine dernière 表明考试已在主句参照点之前完成，所以用虚拟式过去时，不能因为主句是现在时就用现在时。réussir 以 avoir 为助动词：que tu aies réussi。réussisses 是虚拟式现在时；as réussi 是直陈式复合过去时，avais réussi 是直陈式愈过去时。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x1-q7",
+          "type": "tiles",
+          "prompt": "Complétez avec le subjonctif passé : « Je ne crois pas que Marie et Julie ___ ___ à la fête. » (venir)",
+          "answer": [
+            "soient",
+            "venues"
+          ],
+          "bank": [
+            "soient",
+            "venues",
+            "soit",
+            "venu",
+            "venus",
+            "sont",
+            "venaient",
+            "venir"
+          ],
+          "translation": "我不相信玛丽和朱莉来参加了聚会。",
+          "explain": "croire 在否定句中表示不相信，触发虚拟式；动作已经发生，用虚拟式过去时。venir 以 être 为助动词：soient + 过去分词；主语 Marie et Julie 是阴性复数，过去分词配合为 venues。soit 是单数，venu/venus 性数不符，sont 是直陈式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x1-q8",
+          "type": "letters",
+          "prompt": "Complétez : « Le professeur veut que nous ___ le train de huit heures. » (prendre)",
+          "answer": "prenions",
+          "decoys": [
+            "n",
+            "t",
+            "e"
+          ],
+          "translation": "老师希望我们坐八点的火车。",
+          "explain": "vouloir que 表愿望，触发虚拟式。prendre 是双词干动词：单数和第三人称复数用 prenn-（prenne、prennent），nous/vous 用 pren-，所以 nous prenions。不能按直陈式 prenons 或单数词干 prennions 类推。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x1-q9",
+          "type": "choice",
+          "prompt": "Complétez : « Il est peu probable que nous ___ partir avant midi. » (pouvoir)",
+          "options": [
+            "puissions",
+            "pouvons",
+            "puissiez",
+            "pourrons"
+          ],
+          "answer": 0,
+          "translation": "我们不太可能在中午前出发。",
+          "explain": "il est peu probable que 表示可能性很低，属于无人称触发，从句用虚拟式。pouvoir 的虚拟式词干是 puiss-，nous 形式为 puissions。pouvons 是直陈式现在时，puissiez 是 vous 形式，pourrons 是将来时直陈式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x1-q10",
+          "type": "letters",
+          "prompt": "Complétez : « Je doute que nous ___ ce travail avant vendredi. » (commencer)",
+          "answer": "commencions",
+          "decoys": [
+            "ç",
+            "t",
+            "r"
+          ],
+          "translation": "我怀疑我们在周五前开始这项工作。",
+          "explain": "douter que 表怀疑，触发虚拟式。commencer 是 -cer 动词：在 a、o 前要把 c 写成 ç（commençons），但在 i 前 c 已发 [s]，保持 c，所以 nous commencions，不能写 commençions。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x1-q11",
+          "type": "letters",
+          "prompt": "Complétez : « Il est important que vous ___ ce chapitre avant l'examen. » (étudier)",
+          "answer": "étudiiez",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "s",
+            "t",
+            "r"
+          ],
+          "translation": "重要的是你们要在考试前学习这一章。",
+          "explain": "il est important que 是无人称评价结构，从句用虚拟式。étudier 是 -ier 动词：nous/vous 形式保留词干末尾的 i，再接 -ions/-iez，所以 vous étudiiez 有两个 i。不能按直陈式 vous étudiez 只写一个 i。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x1-q12",
+          "type": "tiles",
+          "prompt": "Complétez avec le subjonctif passé : « Je suis surpris que vous ___ ___ ce travail si vite. » (finir)",
+          "answer": [
+            "ayez",
+            "fini"
+          ],
+          "bank": [
+            "ayez",
+            "fini",
+            "avez",
+            "aurez",
+            "ayiez",
+            "finis",
+            "terminez",
+            "eu"
+          ],
+          "translation": "我很惊讶你们这么快就完成了这项工作。",
+          "explain": "être surpris que 触发虚拟式；si vite 表明动作已经完成，用虚拟式过去时。finir 以 avoir 为助动词：助动词用虚拟式现在时 ayez，后接过去分词 fini；以 avoir 为助动词时，过去分词不与主语配合，所以不写 finis。avez 是直陈式，aurez 是将来时，ayiez 不是正确形式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x1-q13",
+          "type": "choice",
+          "prompt": "Complétez : « Hier, à ce moment-là, j'étais content que tu ___ à la réunion. » (être)",
+          "options": [
+            "es",
+            "sois",
+            "étais",
+            "soit"
+          ],
+          "answer": 1,
+          "translation": "昨天那个时候，我很高兴你在会上。",
+          "explain": "主句 j'étais 是过去时，但从句表示与主句同时的状态（你在会上），并没有先完成，所以仍用虚拟式现在时，而不是虚拟式过去时。être 的 tu 形式是 sois。es 是直陈式现在时，étais 是直陈式未完成过去时，soit 是第三人称单数。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c19-subjunctive-x2",
+      "title": "触发与语气综合：直陈、虚拟与替代",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c19-subjunctive-x2-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Je pense qu'il ___ raison, mais je ne pense pas qu'il ___ toutes les solutions. » (avoir)",
+          "options": [
+            "a / ait",
+            "ait / a",
+            "a / a",
+            "ait / ait"
+          ],
+          "answer": 0,
+          "translation": "我认为他有道理，但我不认为他有所有解决办法。",
+          "explain": "penser que 在肯定句中表肯定判断，从句用直陈式：il a raison。否定 je ne pense pas que 表不确信，触发虚拟式：qu'il ait toutes les solutions。同一个动词因肯定/否定而要求不同语气，两个空不能填同一种形式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x2-q2",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Je suis content que je parte en vacances et je suis content que mes parents sont là.",
+            "Je suis content de partir en vacances et je suis content de mes parents soient là.",
+            "Je suis content de partir en vacances et je suis content que mes parents soient là.",
+            "Je suis content que je parte en vacances et je suis content que mes parents soient là."
+          ],
+          "answer": 2,
+          "translation": "我很高兴去度假，也很高兴父母在身边。",
+          "explain": "第一分句里，主句主语和不定式 partir 的执行者都是 je：同主语时用 de + 不定式，不用 que + 虚拟式。第二分句的从句主语是 mes parents，与主句主语不同，要用 que + 虚拟式；être 的第三人称复数虚拟式是 soient，不是直陈式 sont。把同主语写成 que je parte 的选项，以及把不同主语的从句写成 de... 的选项，都不成立。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x2-q3",
+          "type": "choice",
+          "prompt": "Quelle phrase exprime un ordre ou un souhait adressé à « ils » ?",
+          "options": [
+            "Qu'ils font leurs devoirs avant de sortir.",
+            "Ils font leurs devoirs avant de sortir.",
+            "Qu'il fasse leurs devoirs avant de sortir.",
+            "Qu'ils fassent leurs devoirs avant de sortir."
+          ],
+          "answer": 3,
+          "translation": "让他们做完作业再出去。",
+          "explain": "对 il/elle/ils/elles 的命令或愿望用 que + 虚拟式现在时：Qu'ils fassent...。faire 的第三人称复数虚拟式是 fassent，不是直陈式 font；主语 ils 也要与 fassent 一致。Qu'il fasse 是单数命令，与 ils 不符；Ils font 只是陈述，不是命令。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x2-q4",
+          "type": "choice",
+          "prompt": "Complétez : « J'espère que tu ___ bien arrivé hier. » (être)",
+          "options": [
+            "sois",
+            "es",
+            "sera",
+            "soit"
+          ],
+          "answer": 1,
+          "translation": "我希望你昨天平安到达了。",
+          "explain": "espérer que 虽然表示愿望，但在肯定句中通常接直陈式，不触发虚拟式。hier 说明动作已经完成，用复合过去时 es + arrivé。sois 和 soit 是虚拟式，sera 是将来时，都与 hier 的时间关系不符。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x2-q5",
+          "type": "tiles",
+          "prompt": "Réunissez les deux phrases en gardant le même sujet : « Je souhaite. Je trouve un stage. » → ___",
+          "answer": [
+            "Je",
+            "souhaite",
+            "trouver",
+            "un",
+            "stage."
+          ],
+          "bank": [
+            "Je",
+            "souhaite",
+            "trouver",
+            "un",
+            "stage.",
+            "que",
+            "trouve",
+            "souhaites",
+            "souhaitait",
+            "à",
+            "de",
+            "mon"
+          ],
+          "translation": "我希望找到一个实习。",
+          "explain": "souhaiter 是愿望触发词，但这里主句和从句的主语都是 je。法语在同主语时优先用不定式补语：Je souhaite trouver un stage，不用 que je trouve。只有主语不同时才需要 que + 虚拟式，例如 Je souhaite que mon frère trouve un stage。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x2-q6",
+          "type": "choice",
+          "prompt": "Complétez : « Il est évident qu'il ___ raison, mais il est possible qu'il ___ une erreur. » (avoir / faire)",
+          "options": [
+            "ait / fait",
+            "a / fasse",
+            "a / fait",
+            "ait / fasse"
+          ],
+          "answer": 1,
+          "translation": "很明显他有道理，但他可能犯错。",
+          "explain": "il est évident que 表确信，从句用直陈式：il a raison；il est possible que 表可能性，从句用虚拟式：qu'il fasse une erreur。两个都是无人称结构，但语义不同，语气也不同。faire 的虚拟式词干是 fass-，il 形式为 fasse。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x2-q7",
+          "type": "letters",
+          "prompt": "Complétez : « Il faut que nous ___ sur ce bouton pour ouvrir la porte. » (appuyer)",
+          "answer": "appuyions",
+          "decoys": [
+            "e",
+            "s",
+            "t"
+          ],
+          "translation": "我们必须按这个按钮才能开门。",
+          "explain": "il faut que 是无人称触发结构，从句用虚拟式。appuyer 是 -yer 动词：nous/vous 形式保留 y，再接 -ions，所以 nous appuyions。直陈式 nous appuyons 没有 i；也不能丢掉 y 写成 appuions。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x2-q8",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative : « Je crois qu'il a dit la vérité. » → ___",
+          "answer": [
+            "Je",
+            "ne",
+            "crois",
+            "pas",
+            "qu'il",
+            "ait",
+            "dit",
+            "la",
+            "vérité."
+          ],
+          "bank": [
+            "Je",
+            "ne",
+            "crois",
+            "pas",
+            "qu'il",
+            "ait",
+            "dit",
+            "la",
+            "vérité.",
+            "croyais",
+            "a",
+            "soit",
+            "dise",
+            "dites",
+            "qu'elle",
+            "dira",
+            "dite"
+          ],
+          "translation": "我不相信他说了实话。",
+          "explain": "croire 的肯定句用直陈式；否定 je ne crois pas que 表不相信，从句改用虚拟式。动作已经发生，用虚拟式过去时：ait dit。dire 的过去分词是 dit；以 avoir 为助动词，过去分词不与主语配合。ne 放在 crois 前，pas 放在 crois 后。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x2-q9",
+          "type": "letters",
+          "prompt": "Complétez : « Il est rare que nous ___ de ses nouvelles. » (recevoir)",
+          "answer": "recevions",
+          "decoys": [
+            "z",
+            "t",
+            "e"
+          ],
+          "translation": "我们很少收到他的消息。",
+          "explain": "il est rare que 表示可能性很低，属于无人称触发，从句用虚拟式。recevoir 是双词干动词：单数和第三人称复数用 reçoiv-（reçoive、reçoivent），nous/vous 用 recev-，所以 nous recevions。recevons 是直陈式现在时，receviez 是 vous 形式。"
+        },
+        {
+          "id": "pub-c19-subjunctive-x2-q10",
+          "type": "tiles",
+          "prompt": "Complétez avec le subjonctif passé : « Il est dommage que tu ___ cette exposition. » (ne pas voir)",
+          "answer": [
+            "n'aies",
+            "pas",
+            "vu"
+          ],
+          "bank": [
+            "n'aies",
+            "pas",
+            "vu",
+            "n'as",
+            "aies",
+            "vue",
+            "n'aie",
+            "verras",
+            "vois",
+            "n'ait",
+            "voir"
+          ],
+          "translation": "很遗憾你没看过这个展览。",
+          "explain": "il est dommage que 表遗憾，是无人称情感触发，从句用虚拟式；动作已经发生，用虚拟式过去时。否定 ne pas 夹住助动词：que tu n'aies pas vu。voir 的过去分词是 vu；以 avoir 为助动词，过去分词不与主语配合，所以不写 vue。n'as 是直陈式，n'aie 是 je 形式。"
+        }
+      ]
+    }
+  ]
+}

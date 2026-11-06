@@ -20,10 +20,11 @@
     "chapters/pub-c16-time-space-prepositions.json",
     "chapters/pub-c17-passive-voice.json",
     "chapters/pub-c18-verb-complements.json",
+    "chapters/pub-c19-subjunctive.json",
     "chapters/pub-predication.json",
     "chapters/pub-articles.json",
     "chapters/pub-agreement.json"
   ],
-  "expectedChapterCount": 21,
-  "expectedQuestionCount": 3254
+  "expectedChapterCount": 22,
+  "expectedQuestionCount": 3352
 }

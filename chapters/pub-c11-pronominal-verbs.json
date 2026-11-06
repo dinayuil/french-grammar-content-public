@@ -146,7 +146,7 @@
     {
       "id": "pub-c11-pronominal-verbs-card-u7-1",
       "title": "介词后指人：保留介词，用重读代词",
-      "body": "重读代词有独立的重音形式：moi、toi、lui、elle、nous、vous、eux、elles。它们在介词后指人时使用，介词必须保留；这与直接/间接宾语代词（me、te、le、la、les、lui、leur）的位置和形式都不同。\n\n- Tu viens avec nous ?（你跟我们来吗？）\n- Il habite chez ses parents ? — Oui, il habite chez eux.（他住父母家吗？——是的，他住他们那儿。）\n- Ce cadeau est pour elle.（这份礼物是给她的。）\n- Nous avons parlé devant eux.（我们在他们面前谈了话。）\n- Elle est assise à côté de moi.（她坐在我旁边。）\n\n要点：\n- avec、chez、pour、sans、devant、derrière、à côté de 等介词后，指人一律用重读代词。\n- 介词不能丢：不说 *Je pense elle，也不说 *Il habite chez ils。\n- 形式按所指人物的性、数选择：lui/elle 为单数，eux/elles 为复数；nous/vous 形式不变。\n\n边界：parler à qn、téléphoner à qn 这类动词把 à + 人整体代词化为 lui/leur，不属于本条；penser à + 人与 de + 人另有专门规则，见后两张卡。"
+      "body": "重读代词有独立的重音形式：moi、toi、lui、elle、nous、vous、eux、elles。它们在介词后指人时使用，介词必须保留；这与直接/间接宾语代词（me、te、le、la、les、lui、leur）的位置和形式都不同。\n\n- Tu viens avec nous ?（你跟我们来吗？）\n- Il habite chez ses parents ? — Oui, il habite chez eux.（他住父母家吗？——是的，他住他们那儿。）\n- Ce cadeau est pour elle.（这份礼物是给她的。）\n- Nous avons parlé devant eux.（我们在他们面前谈了话。）\n- Elle est assise à côté de moi.（她坐在我旁边。）\n\n要点：\n- avec、chez、pour、sans、devant、derrière、à côté de 等介词后，指人一律用重读代词。\n- 介词不能丢：不说 *Je pense elle，也不说 *Il habite chez ils。\n- 形式按所指人物的性、数选择：lui/elle 为单数，eux/elles 为复数；nous/vous 形式不变。\n\n重要限制：me/te/se/nous/vous 永远不能与 lui/leur 连用。当直接宾语是第一组代词、间接宾语是第三人称时，必须保留介词并用重读代词：\n- Il me présente à elle.（他把我介绍给她。）——不是 *Il me lui présente\n- Présentez-vous à lui !（你们向他自我介绍吧！）——不是 *Présentez-vous-lui !\n- 对比：Il me la présente.（他把她介绍给我。）——me + le/la/les 可以连用\n\n边界：parler à qn、téléphoner à qn 这类动词把 à + 人整体代词化为 lui/leur，不属于本条；penser à + 人与 de + 人另有专门规则，见后两张卡。"
     },
     {
       "id": "pub-c11-pronominal-verbs-card-u7-2",
@@ -1698,12 +1698,35 @@
           "options": [
             "Présentez-lui-vous !",
             "Présentez-vous-lui !",
-            "Présentez-vous lui !",
+            "Présentez-vous à lui !",
             "Vous présentez-lui !"
           ],
-          "answer": 1,
+          "answer": 2,
           "translation": "你们向他自我介绍吧！",
-          "explain": "肯定命令式中代词后置，顺序为动词 + 直接宾语 + 间接宾语：Présentez-vous-lui !。vous 是自反直接宾语，lui 是间接宾语（présenter qn à qn），不能颠倒顺序，也不能保留主语 vous 在动词前。"
+          "explain": "第一组代词 me/te/se/nous/vous 不能与 lui/leur 连用。本句中直接宾语是 vous（自反代词），间接宾语是 à + 第三人称（à Paul），必须保留介词并使用重读代词：Présentez-vous à lui !。不能说 *Présentez-vous-lui !，也不能颠倒顺序或保留主语 vous 在动词前。"
+        },
+        {
+          "id": "pub-c11-pronominal-verbs-l5-q10",
+          "type": "tiles",
+          "prompt": "Transformez à l'impératif affirmatif : « Vous vous présentez à Paul. » → ___",
+          "answer": [
+            "Présentez-vous",
+            "à",
+            "lui."
+          ],
+          "bank": [
+            "Présentez-vous",
+            "à",
+            "lui.",
+            "lui",
+            "vous",
+            "Présentez",
+            "Présentez-lui",
+            "Présentez-vous-lui.",
+            "à lui"
+          ],
+          "translation": "您向保罗自我介绍。→ 向他自我介绍吧！",
+          "explain": "肯定命令式中自反代词后置，与动词用连字符连接：Présentez-vous；这里 vous 是自反直接宾语，保持 vous 的形式。à Paul 是 à + 人，但当直接宾语为 me/te/se/nous/vous 时，不能与 lui/leur 组合成 « vous lui »，须保留介词并用重读代词 lui，所以写 à lui。全句为 Présentez-vous à lui !"
         }
       ]
     },

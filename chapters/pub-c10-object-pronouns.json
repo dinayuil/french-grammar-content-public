@@ -116,7 +116,7 @@
     {
       "id": "pub-c10-object-pronouns-card-u5-1",
       "title": "双代词顺序（陈述句）：me → le → lui → y → en",
-      "body": "陈述句和否定句中，两个宾语代词都放在变位动词（或助动词）之前，顺序固定为：\n\nme / te / nous / vous → le / la / les → lui / leur → y → en\n\n例：\n- Il me le donne.（他把它给我。）\n- Je te la prête.（我把它借给你。）\n- Elle nous les montre.（她把它们给我们看。）\n- Je le lui donne.（我把它给他。）\n- Nous les leur montrons.（我们把它们给他们看。）\n- Il nous en parle.（他和我们谈这件事。）\n- Elle m'en a parlé.（她跟我谈过这件事。）\n- Il y en a beaucoup.（那里有很多。）\n- Il les y emmène.（他带它们去那里。）\n\n要点：\n- 第一槽位是 me/te/nous/vous；第二槽位是 le/la/les；第三槽位是 lui/leur。不要按「人在前、物在后」的直觉排。\n- le/la/les 永远在 lui/leur 之前：Je le lui donne，不是 Je lui le donne。\n- y 在 en 之前：il y en a。\n- 代词组合整体放在变位动词前；复合时态放在助动词前。\n\n边界：肯定命令式顺序不同，见 U6；否定命令式仍按本条顺序。"
+      "body": "陈述句和否定句中，两个宾语代词都放在变位动词（或助动词）之前，顺序固定为：\n\nme / te / nous / vous → le / la / les → lui / leur → y → en\n\n例：\n- Il me le donne.（他把它给我。）\n- Je te la prête.（我把它借给你。）\n- Elle nous les montre.（她把它们给我们看。）\n- Je le lui donne.（我把它给他。）\n- Nous les leur montrons.（我们把它们给他们看。）\n- Il nous en parle.（他和我们谈这件事。）\n- Elle m'en a parlé.（她跟我谈过这件事。）\n- Il y en a beaucoup.（那里有很多。）\n- Il les y emmène.（他带它们去那里。）\n\n要点：\n- 第一槽位是 me/te/nous/vous；第二槽位是 le/la/les；第三槽位是 lui/leur。不要按「人在前、物在后」的直觉排。\n- le/la/les 永远在 lui/leur 之前：Je le lui donne，不是 Je lui le donne。\n- y 在 en 之前：il y en a。\n- 代词组合整体放在变位动词前；复合时态放在助动词前。\n\n重要限制：第一槽位的 me/te/se/nous/vous 不能与 lui/leur 连用，这类组合不存在。此时必须保留介词 à，并用重读代词 lui/elle/eux/elles：\n- Il me présente à elle.（他把我介绍给她。）——不是 *Il me lui présente\n- Elle nous recommande à eux.（她向他们推荐我们。）——不是 *Elle nous leur recommande\n- 对比：Il me la présente.（他把她介绍给我。）——me + le/la/les 可以连用\n\n边界：肯定命令式顺序不同，见 U6；否定命令式仍按本条顺序。"
     },
     {
       "id": "pub-c10-object-pronouns-card-u5-2",
@@ -6056,6 +6056,59 @@
           ],
           "translation": "我们要点一份披萨。→ 我们要点一份。",
           "explain": "une pizza 用 en 替代，数量词 une 留在不定式后；en 放在不定式 commander 前：nous allons en commander une。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l5-q74",
+          "type": "tiles",
+          "prompt": "Transformez avec deux pronoms : « Il va montrer cette photo à Paul et à moi. » → ___",
+          "answer": [
+            "Il",
+            "va",
+            "nous",
+            "la",
+            "montrer."
+          ],
+          "bank": [
+            "Il",
+            "va",
+            "nous",
+            "la",
+            "montrer.",
+            "leur",
+            "le",
+            "montre",
+            "montrée",
+            "la nous"
+          ],
+          "translation": "他要把这张照片给保罗和我看。→ 他要把这张照片给我们看。",
+          "explain": "cette photo 是阴性单数直接宾语，用 la；à Paul et à moi 合起来指第一人称复数，用间接宾语代词 nous。两个代词都放在不定式 montrer 前，顺序为 nous → la：Il va nous la montrer。不能写成 Il va la nous montrer，也不能把代词放到变位动词 va 前。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l5-q75",
+          "type": "tiles",
+          "prompt": "Transformez avec deux pronoms : « Le professeur doit expliquer ces exercices à Paul et à toi. » → ___",
+          "answer": [
+            "Le",
+            "professeur",
+            "doit",
+            "vous",
+            "les",
+            "expliquer."
+          ],
+          "bank": [
+            "Le",
+            "professeur",
+            "doit",
+            "vous",
+            "les",
+            "expliquer.",
+            "leur",
+            "le",
+            "explique",
+            "les vous"
+          ],
+          "translation": "老师必须向保罗和你解释这些练习。→ 老师必须给你们解释这些练习。",
+          "explain": "ces exercices 是阳性复数直接宾语，用 les；à Paul et à toi 合起来指第二人称复数，用间接宾语代词 vous。me/te/nous/vous 不能与 lui/leur 连用，所以这里第二个代词用 les。两个代词都放在不定式 expliquer 前，顺序为 vous → les：Le professeur doit vous les expliquer。不能写成 vous leur 或 les vous，也不能把代词放到变位动词 doit 前。"
         }
       ]
     },

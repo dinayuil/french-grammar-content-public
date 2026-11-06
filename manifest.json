@@ -21,10 +21,11 @@
     "chapters/pub-c17-passive-voice.json",
     "chapters/pub-c18-verb-complements.json",
     "chapters/pub-c19-subjunctive.json",
+    "chapters/pub-c20-complex-sentences.json",
     "chapters/pub-predication.json",
     "chapters/pub-articles.json",
     "chapters/pub-agreement.json"
   ],
-  "expectedChapterCount": 22,
-  "expectedQuestionCount": 3352
+  "expectedChapterCount": 23,
+  "expectedQuestionCount": 3464
 }

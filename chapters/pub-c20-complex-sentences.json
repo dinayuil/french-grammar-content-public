@@ -1,0 +1,2594 @@
+{
+  "id": "pub-c20-complex-sentences",
+  "title": "复句的时间与逻辑关系",
+  "titleFr": "Le temps et la logique dans les phrases complexes",
+  "cards": [
+    {
+      "id": "pub-c20-complex-sentences-card-u1-1",
+      "title": "et：追加信息与承接动作",
+      "body": "et 是并列连词（连接同级成分的连词），可连接名词、形容词、动词或整个分句，核心功能是追加信息，把两个成分放在同一层级。\n\n- Il achète du pain et du fromage.（他买面包和奶酪。）——连接两个名词。\n- Elle est intelligente et travailleuse.（她聪明又勤奋。）——连接两个形容词。\n- Il ouvre la porte et entre dans le salon.（他打开门，走进客厅。）——连接两个先后相承的动词；主语相同时，第二个动词不必重复主语。\n\n在语境中，et 还可以读作结果或轻微转折，但这不是它的固定义：\n- Il a plu toute la nuit, et les routes sont inondées.（雨下了一整夜，道路被淹了。）——结果。\n- Il est jeune, et il a déjà beaucoup d'expérience.（他很年轻，却已经很有经验。）——轻微转折。\n\net 不表原因。想表达「因为」时要用 parce que 等因果连词，不能靠 et：Il est absent parce qu'il est malade.（他缺席是因为生病。）\n\n并列两个由同一主句引导的 que 从句时，第二个 que 通常要重复，让第二个从句的起止更清楚：Je pense qu'il viendra et qu'il sera à l'heure.（我认为他会来，而且会准时。）\n\n注意：et 只能连接同级成分，不能把一个名词和一个完整从句硬连在一起；判断是「结果」还是「追加」要看上下文，不要给 et 硬套一个固定义。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u1-2",
+      "title": "ou：二选一与列举可能",
+      "body": "ou 是并列连词，连接两个可选择的对象、两种可能或两个问句，表示二选一或列举可能。\n\n- Tu veux du thé ou du café ?（你要茶还是咖啡？）——二选一。\n- On peut y aller à pied, en bus ou en métro.（可以走路、坐公交或坐地铁去。）——列举几种可能。\n- Tu viens avec nous ou tu restes à la maison ?（你和我们一起去，还是留在家里？）——连接两个完整疑问分句。\n\nou 与 et 的意思不同：Je prends le train ou le bus 是「两者选一」，Je prends le train et le bus 是「两个都坐」。ou 也不表因果。\n\n拼写要区分同音的 ou 和 où：连词 ou 不带重音；où 带重音符，是关系副词或疑问副词，表示地点。\n- La ville où j'habite est petite.（我住的城市很小。）\n- Où vas-tu ?（你去哪儿？）\n\n注意：ou bien 可以加强选择的语气，但仍然是二选一，不表示两个都要；不要把 ou 和 où 混写。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u1-3",
+      "title": "soit...soit 与 tantôt...tantôt（识别）",
+      "body": "关联结构指成对使用的连词，两部分互相呼应，不能只保留一半。\n\nsoit...soit 表示二选一或两种可能，相当于「要么……要么……」：\n- Soit tu viens avec nous, soit tu restes ici.（要么你和我们一起去，要么你留在这里。）\n- Il veut soit une voiture, soit une moto.（他要么想要汽车，要么想要摩托车。）\n\ntantôt...tantôt 表示两种情况交替出现，相当于「时而……时而……」：\n- Tantôt il rit, tantôt il pleure.（他时而笑，时而哭。）\n- Tantôt il fait beau, tantôt il pleut.（天气时好时坏。）\n\n两者的区别在语义：soit...soit 是「在两者中选一个」，tantôt...tantôt 是「两种情况轮流出现」，不能混用。两组结构都必须成对出现。\n\n注意：soit 在这里是连词，不是动词 être 的虚拟式形式；不要按动词变位去理解它。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u1-4",
+      "title": "连词连接什么：同级成分与从句范围",
+      "body": "连词连接的是同级单位：名词和名词、动词和动词、分句和分句。层级不同时，句子就会失衡。\n\n- 正确：Il est malade et il reste à la maison.（他病了，待在家里。）——两个完整分句。\n- 正确：Je pense qu'il est malade et qu'il reste à la maison.（我认为他病了，而且待在家里。）——两个 que 从句。\n- 不正确：*Il est malade et qu'il reste à la maison.——et 后没有与 que 从句平行的结构。\n\n并列两个 que 从句时，第二个 que 通常重复：Elle explique que le projet est difficile et qu'il faut du temps.（她解释说项目很难，而且需要时间。）重复的 que 让读者知道第二个从句从哪里开始。\n\n主语相同时，第二个分句可以省略主语；主语不同则必须各自出现：\n- Elle ouvre la porte et entre.（她打开门，走进来。）\n- Elle ouvre la porte et son frère entre.（她打开门，她弟弟走进来。）\n\n并列连词本身不决定从句语气；que 从句用直陈式还是虚拟式，由主句的谓语或结构决定。\n\n注意：汉语的「和、或」同样受并列层级限制；不要把法语的名词、短语和完整从句混在同一个并列结构里，判断时先看两边是否属于同一层级。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u2-1",
+      "title": "时间连词：一次、重复、持续还是起点",
+      "body": "时间连词的选择取决于动作是一次性的、重复的、持续的，还是表示起点，不能只按汉语释义决定。\n\n- quand / lorsque：当……时，可指一次，也可指习惯。Quand il rentre, il se repose.（他回家就休息。）\n- dès que / aussitôt que：一……就……，强调两个动作紧接。Dès qu'il rentre, il se repose.（他一回家就休息。）\n- depuis que：自从……以来，强调起点并延续到现在。Depuis qu'il travaille ici, il a beaucoup appris.（自从他在这里工作，他学到了很多。）\n- pendant que：在……期间，强调两个动作同时持续。Pendant que je lis, elle écoute de la musique.（我读书时，她在听音乐。）\n- chaque fois que：每次……，强调重复。Chaque fois qu'il vient, il apporte des fleurs.（他每次来都带花。）\n\n这些连词引导直陈式（indicatif，把动作作为事实陈述的语气）从句，不要求虚拟式。时态按时间轴配合：现在、过去或将来各自成体系。\n\n同一个中文「当……的时候」可以对应 quand、lorsque、pendant que 等不同结构：前两者多指时间点，pendant que 强调同时持续，不能一律套用同一个连词。\n\n注意：要求虚拟式（subjonctif，表达愿望、情感、怀疑等态度的语气）的时间连词（如 avant que、jusqu'à ce que）不在此列，见第 5 单元；不要把所有时间从句都当成同一语气。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u2-2",
+      "title": "主句为现在或将来：从句按时态先后各选各的（识别）",
+      "body": "主句用现在时或将来时，从句不需要整体「后移」，而是按动作相对主句是先完成、同时还是后来，各选各的时态。\n\n- 同时：用现在时。Quand il pleut, je reste à la maison.（下雨时，我待在家里。）\n- 先完成：用复合过去时（passé composé，由助动词加过去分词构成的过去时态）。Quand il a fini son travail, il sort.（他做完工作就出去。）\n- 将来先完成：用先将来时（futur antérieur，表示将来某一参照点之前已完成的时态）。Quand il aura fini son travail, il sortira.（他做完工作后会出去。）\n\n这里没有「时态后移」：参照点在现在或将来，动作该用什么时态就用什么时态。\n\n对比：主句改成过去时后，同时关系通常改用未完成过去时，先完成关系改用愈过去时，见本单元第 3、4 张。\n\n注意：主句是将来时，不等于从句也要用简单将来时；从句动作若先完成，要用先将来时 aura fini，而不是 finira。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u2-3",
+      "title": "时间从句表先完成：复合过去时、愈过去时还是先将来时",
+      "body": "先时性（antériorité）指一个动作在参照点之前已经完成。时间从句表先完成时，要根据参照时间选时态，而不是一律用愈过去时。\n\n- 参照点是现在 → 复合过去时：Quand il a fini, il sort.（他做完就出去。）\n- 参照点是将来的某一刻 → 先将来时：Quand il aura fini, il sortira.（他做完后会出去。）\n- 参照点是过去 → 愈过去时：Quand je suis arrivé, le film avait commencé.（我到的时候，电影已经开始了。）\n\n先将来时由助动词的简单将来时加过去分词构成：aura fini、sera parti、auront terminé。使用时不能用简单将来时代替。\n\n- Dès qu'elle aura reçu la lettre, elle nous préviendra.（她一收到信就会通知我们。）\n- Après qu'il avait terminé son travail, il est rentré.（他完成工作后回了家。）\n\n注意：主句是现在时或简单将来时时，从句常用复合过去时或先将来时；不要把「先完成」一律写成愈过去时。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u2-4",
+      "title": "主句为过去时：先完成的动作用愈过去时",
+      "body": "主句改成过去时后，原本先于主句完成的动作要用愈过去时（plus-que-parfait，表示在另一个过去动作之前已完成的时态）：助动词的未完成过去时加过去分词。\n\n- Quand nous sommes arrivés, le train était déjà parti.（我们到的时候，火车已经开走了。）\n- Elle avait déjà mangé quand je l'ai appelée.（我打电话给她时，她已经吃过饭了。）\n- Les enfants s'étaient déjà levés quand le professeur est entré.（老师进来时，孩子们已经站起来了。）\n\n愈过去时表示「在另一个过去动作之前已经完成」，它本身就是先时性的形式，不需要再往后移一层。\n- 正确：Il avait fini quand je suis arrivé.（我到的时候他已经完成了。）\n- 不需要：*Il avait eu fini...\n\n注意：先时性由意义和时间标志（déjà、avant、quand 引出的过去参照）判断，不能只看主句时态。两个连续事件都用复合过去时也很常见：Quand il a fini, il est sorti.（他做完就出去了。）只有确实「在参照点之前已完成」时才用愈过去时。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u2-5",
+      "title": "主句为过去时：同时关系用未完成过去时",
+      "body": "主句改成过去时后，原本与主句同时的现在时通常转为未完成过去时（imparfait，表示过去持续、重复或背景的时态）。\n\n- Pendant que je lis, elle écoute de la musique.（现在）→ Pendant que je lisais, elle écoutait de la musique.（过去）\n- Quand il pleut, je reste à la maison. → Quand il pleuvait, je restais à la maison.\n\n近将来和最近过去的助动词也要随过去视角变形：\n- 近将来 aller + 不定式 → aller 的未完成过去时 + 不定式：Elle va partir. → Elle allait partir.（她当时正要走。）\n- 最近过去 venir de + 不定式 → venir 的未完成过去时 + de + 不定式：Il vient de sortir. → Il venait de sortir.（他当时刚出去。）\n\n未完成过去时和复合过去时的分工：未完成过去时是背景、状态、习惯；复合过去时是单一完成事件。\n- Pendant que je lisais, il est entré.（我正在读书时，他进来了。）\n\n注意：同时关系也要看意义和上下文，不能只凭「主句是过去时」就把所有从句都改成未完成过去时；单一事件仍用复合过去时。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u2-6",
+      "title": "同主语：avant de 与 après + 不定式",
+      "body": "同一主语的前后两个动作，可以用介词加不定式（infinitif，动词原形，不按人称变位）合并，避免重复主语。\n\n- avant de + 不定式：在……之前。Elle prend son manteau avant de sortir.（她出门前穿上外套。）\n- après + 不定式过去时：在……之后。Après avoir fini son travail, il est rentré.（完成工作后，他回家了。）\n\n不定式过去时由助动词的不定式加过去分词构成：avoir fini、être parti。助动词的选择与复合过去时一致。\n- Après être arrivée, elle a téléphoné à sa mère.（到了之后，她给母亲打了电话。）——arriver 用 être，过去分词与 elle 配合。\n\n主语不同时，不能这样合并，要改用完整从句。\n\n注意：après 后不要一律用 avoir；以 être 作助动词的动词要用 être，并注意过去分词配合；avant de 和 après 后面的动作必须与主句同主语。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u2-7",
+      "title": "判断顺序：时间从句的时态与结构",
+      "body": "遇到时间从句的时态题，可以按下面的顺序判断：\n1. 找参照时间：主句是现在／将来，还是过去？\n2. 判断从句动作与参照点的关系：先完成、同时，还是在其后？\n3. 看主语：主句与从句主语相同吗？相同可考虑 avant de / après + 不定式。\n4. 选连词：动作是一次、重复、持续、起点，还是紧接？连词选错，时态再对也不自然。\n\n对照两组：\n- 现在参照：Quand il a fini, il sort.（先完成，复合过去时）／Quand il pleut, je reste.（同时，现在时）\n- 过去参照：Quand il avait fini, il sortait.（先完成，愈过去时）／Quand il pleuvait, je restais.（同时，未完成过去时）\n\n同一个中文逻辑关系可以对应不同法语结构：「当……的时候」可能是 quand、lorsque、pendant que；「在……之前」可能是 avant de + 不定式（同主语），也可能是 avant que + 从句（不同主语）。选择结构时要同时看主语是否一致、动作先后和参照时间，不能只按汉语逐字翻译，也不能给所有时间从句套同一个语气。\n\n注意：这些时间连词大多引导直陈式；要求虚拟式的时间连词要单独判断，见第 5 单元。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u3-1",
+      "title": "parce que：最常用的原因从句",
+      "body": "原因从句（proposition causale）是用一个完整从句说明主句动作的原因。parce que 是最常用的原因连词，直接回答「为什么」，也可以进入强调结构 c'est parce que... que。\n\n- Il ne vient pas parce qu'il est malade.（他不来，因为他病了。）\n- Elle a pris le bus parce que sa voiture était en panne.（她坐公交，因为她的车坏了。）\n- C'est parce qu'il pleuvait que nous sommes restés.（是因为下雨我们才留下的。）\n\nparce que 后面必须接完整从句（主语＋变位动词），不能直接跟名词：*parce que la pluie 不成立，应说 parce que la pluie tombe 或 à cause de la pluie。\n\n同一主句后并列多个原因时，后面的原因可以重复 que，使并列关系清楚：\n\n- Il reste à la maison parce qu'il pleut et qu'il est fatigué.（他待在家里，因为下雨，也因为他累了。）\n- Nous annulons la sortie parce que le musée est fermé et que les enfants sont malades.（我们取消外出，因为博物馆关门，孩子们也病了。）\n\n重复的 que 只起并列连接作用，不是疑问词；每个从句仍要有自己的主语和变位动词。口语中也可以省略重复的 que，正式书面表达通常保留。\n\n注意：parce que 回答「为什么」，信息重点在原因上；如果要先说结果、再补充说明原因，car 更常见（见下一张）。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u3-2",
+      "title": "car：结果在前、原因在后",
+      "body": "car 引出说明前一分句的原因，结构是「结果在前，原因在后」。它常用于书面语，语气比 parce que 更偏解释和补充说明。\n\n- Il n'est pas venu, car il était souffrant.（他没来，因为他当时身体不舒服。）\n- Le musée est fermé, car nous sommes lundi.（博物馆关门，因为今天是星期一。）\n- Elle a refusé l'invitation, car elle avait déjà un engagement.（她拒绝了邀请，因为她已有约在先。）\n\ncar 后面接完整分句，不能直接接名词短语：*car sa maladie 不成立，应说 car il est malade 或 à cause de sa maladie。\n\nparce que 和 car 都能引出原因，但功能不同：parce que 可以回答 pourquoi 的提问，也可以进入 c'est parce que... que 强调结构；car 引出的是后置说明，通常不单独回答直接提问。因此：\n\n- Pourquoi tu pars ? — Parce que j'ai un train.（你为什么走？——因为我要赶火车。）\n- Je pars, car j'ai un train.（我走了，因为我要赶火车。）\n\n注意：car 不是「因为」的唯一译法；选择哪个连词要看信息结构：回答提问、提供新信息用 parce que，补充说明理由用 car。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u3-3",
+      "title": "puisque 与 comme：已知或显而易见的原因",
+      "body": "puisque 和 comme 也引出原因从句，但它们预设原因对说话双方来说已经知道，或从情境中显而易见，而不是提供全新信息。\n\n- Puisque tu es libre ce soir, viens dîner avec nous.（既然你今晚有空，就来和我们吃晚饭吧。）——对方有空是双方已知的前提。\n- Puisque tout le monde est d'accord, nous pouvons commencer.（既然大家都同意，我们可以开始了。）\n- Comme il pleuvait, nous avons annulé le pique-nique.（因为下雨，我们取消了野餐。）——原因是当时显而易见的情况。\n- Comme elle connaît bien la ville, elle nous a servi de guide.（因为她很熟悉这座城市，她给我们当了向导。）\n\ncomme 作原因连词时，从句通常放在主句之前，用逗号与主句隔开。comme 还可表示比较（「像」），要看后面接什么判断：接完整从句并说明原因时是原因连词；接名词或形容词时多是比较。\n\n- Comme il pleuvait, nous sommes restés.（因为下雨，我们留下了。）——原因。\n- Il court comme un champion.（他跑得像冠军一样。）——比较。\n\npuisque 的「既然」意味较强；如果只是回答「为什么」、提供对方不知道的新原因，用 parce que 更自然。\n\n- Pourquoi tu ne viens pas ? — Parce que je travaille.（你为什么不来？——因为我要工作。）\n- Puisque tu travailles, je ne te dérange plus.（既然你要工作，我就不打扰你了。）\n\n注意：comme 的具体含义要看后面接什么：接完整从句且说明原因时是原因连词，接名词或形容词时多是比较。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u3-4",
+      "title": "à cause de 与 grâce à：名词短语表原因",
+      "body": "原因也可以用一个名词短语来表达，这时用介词短语，而不是完整从句。最常见的是 à cause de（因为，常带消极、不利色彩）和 grâce à（多亏，带积极、有利色彩）。\n\n- Le match a été annulé à cause de la pluie.（比赛因下雨取消了。）——不利原因。\n- Nous avons dû faire un détour à cause des travaux.（因为施工，我们不得不绕路。）——des = de + les。\n- Il a eu son permis grâce à son professeur.（多亏他的老师，他拿到了驾照。）——有利原因。\n- Grâce aux conseils de sa sœur, elle a trouvé un logement.（多亏姐姐的建议，她找到了住处。）——aux = à + les。\n\nà cause de 和 grâce à 后面都只能接名词或名词短语，不能接完整从句：*à cause qu'il pleut 不成立，应说 parce qu'il pleut 或 à cause de la pluie。\n\n冠词要随名词变化：de + le → du，de + les → des；de + la 不变，de + l' 不变。\n\n- à cause du bruit（因为噪音）\n- à cause de la neige（因为雪）\n- à cause des embouteillages（因为交通堵塞）\n- à cause de l'orage（因为暴风雨）\n\n注意：à cause de 与 grâce à 的褒贬色彩是使用习惯，不是绝对规则；不要用 grâce à 引出明显的坏结果。若原因中性或需要完整说明，用 parce que 更稳妥。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u3-5",
+      "title": "pour + 不定式：同主语的目的",
+      "body": "目的（but）指一个动作想要达到的结果。主句主语和目的动作的主语相同时，用 pour + 不定式（动词原形，不按人称变位）。\n\n- Je révise pour réussir l'examen.（我复习是为了通过考试。）——je 复习，je 通过，同一主语。\n- Elle économise pour acheter une voiture.（她攒钱是为了买车。）\n- Nous partons tôt pour éviter les embouteillages.（我们早出发是为了避开交通堵塞。）\n\n否定目的用 pour ne pas + 不定式，ne pas 要整体放在不定式前：\n\n- Il se dépêche pour ne pas rater le train.（他加快速度，以免错过火车。）\n- Elle parle doucement pour ne pas réveiller le bébé.（她轻声说话，以免吵醒婴儿。）\n\n不能写成 *pour ne rater pas 或 *pour pas rater。\n\n注意：主语不同时不能再用 pour + 不定式，要改用 pour que + 虚拟式（见下一张）。比较：Je travaille pour réussir（同一主语）／Je travaille pour que tu réussisses（不同主语）。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u3-6",
+      "title": "pour que + 虚拟式：不同主语的目的",
+      "body": "主句主语和目的从句主语不同时，用 pour que + 虚拟式（subjonctif，表示愿望、目的等非事实语气的动词形式）。\n\n- Je t'explique la règle pour que tu la comprennes.（我给你解释这条规则，是为了让你理解。）——je 解释，tu 理解，主语不同。\n- Le professeur parle lentement pour que les élèves puissent noter.（老师讲得慢，好让学生记笔记。）\n- Nous avons préparé un gâteau pour que les enfants soient contents.（我们做了蛋糕，好让孩子们高兴。）\n\n目的通常指向尚未实现的事，所以常用虚拟式现在时。如果句子的参照点在过去，而目的被看成在参照点之前已经实现，也可以用虚拟式过去时（助动词的虚拟式现在时 + 过去分词）：\n\n- Elle avait tout organisé pour que la fête ait eu lieu avant son départ.（她事先安排好一切，好让聚会在她离开之前举行。）——聚会在「她离开」这个参照点之前已经举行，用 ait eu lieu。\n\n注意：pour que 后不能用直陈式代替虚拟式；主语相同时优先用 pour + 不定式，避免不必要的 pour que。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u3-7",
+      "title": "donc：引出结果与结论",
+      "body": "donc 是结果连词（conjonction de conséquence），用来引出从前文推得的结果或结论，相当于「所以、因此」。\n\n- Il pleut, donc nous restons à la maison.（下雨了，所以我们待在家里。）\n- Le train est annulé ; nous devons donc prendre le bus.（火车取消了，所以我们得坐公交。）\n- Elle a beaucoup travaillé ; elle a donc réussi.（她学习很努力，所以成功了。）——donc 插在助动词 a 与过去分词 réussi 之间。\n\n位置：donc 可放在变位动词前，也可放在句首（口语中），还可以插在助动词与过去分词之间。位置变化带来语体和强调的差别，不能一律放句首。\n\n- Nous devons donc partir.（所以我们必须走。）\n- Donc, nous partons.（那么，我们走吧。）——口语，承接前面的话。\n- Il a donc oublié notre rendez-vous.（他因此忘了我们的约会。）\n\n注意：donc 引出结果，不引出原因；不要把它与 parce que 的方向混淆。donc 也不能直接接名词短语。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u3-8",
+      "title": "c'est pourquoi：书面色彩的结果表达（识别）",
+      "body": "c'est pourquoi 也引出前句造成的结果，意思接近「这就是为什么……」，语体比 donc 更书面。它后面接一个完整分句。\n\n- Le musée était fermé, c'est pourquoi nous sommes revenus le lendemain.（博物馆关门了，所以我们第二天又来了。）\n- Elle connaît bien la région, c'est pourquoi elle nous accompagne.（她很熟悉这一带，所以陪我们去。）\n- Il n'avait pas réservé, c'est pourquoi il n'a pas trouvé de place.（他没有预订，所以没找到位子。）\n\n与 donc 的区别主要在结构和语体：donc 是连词，可放在分句内部；c'est pourquoi 是固定表达，通常放在两个分句之间或句首，后面接完整分句，不能接名词短语。\n\n- Il pleut, donc nous restons.（自然）\n- Il pleut, c'est pourquoi nous restons.（更书面）\n\n注意：c'est pourquoi 中的 c' 指代前文整件事，不是某个具体名词；学习阶段先能识别它的「结果」作用即可，写作时优先用 donc。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u3-9",
+      "title": "tant de / tellement de + 名词 + que：数量造成的结果",
+      "body": "表达「如此多的……以至于……」时，用 tant de 或 tellement de + 名词 + que + 结果从句（proposition consécutive，说明前句造成的结果）。\n\n- Il y avait tant de monde que nous n'avons pas pu entrer.（人太多了，我们没能进去。）\n- Elle a tellement de travail qu'elle rentre tard.（她工作太多，很晚才回家。）\n- Nous avons reçu tant de messages que nous n'avons pas eu le temps de répondre.（我们收到太多信息，没时间回复。）\n\n名词前用 de，不用 du/des：tant de monde、tellement de travail、tant de messages。即使名词是复数或不可数，也用 de。\n\n- *tant du monde、*tellement des problèmes 都不对。\n\n如果名词本身带有定冠词、指示形容词或主有形容词等限定结构，de 后保留限定词：\n\n- Elle a passé tellement de son temps à lire qu'elle a oublié le rendez-vous.（她花了太多时间读书，以至于忘了约会。）\n\ntant 和 tellement 在这里可互换，意义基本相同。\n\n注意：不要把 tant de + 名词与「动词 + tant」结构混淆（见下一张）；si 只能修饰形容词或副词。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u3-10",
+      "title": "动词 + tant / tellement + que：动作强度造成的结果",
+      "body": "表达「做某事做得如此多／如此厉害，以至于……」时，用动词 + tant 或 tellement + que + 结果从句。\n\n- Il travaille tellement qu'il est épuisé le soir.（他工作如此之多，晚上筋疲力尽。）\n- Elle a tellement couru qu'elle a du mal à respirer.（她跑得太厉害，呼吸都困难了。）\n- Ils ont tant ri qu'ils en ont pleuré.（他们笑得那么厉害，都笑出眼泪了。）\n\ntant 和 tellement 在这里都修饰动词，通常放在动词之后；在复合时态中，放在助动词与过去分词之间：\n\n- Elle a tellement couru qu'elle est essoufflée.（她跑得太厉害了，气喘吁吁。）\n- Il a tant travaillé qu'il a réussi.（他工作如此努力，所以成功了。）——tant 在 a 与 travaillé 之间。\n\n注意：tant 修饰动词时不直接接名词；如果要接名词，用 tant de + 名词。tellement 还可以修饰形容词或副词，位置随被修饰成分变化。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u3-11",
+      "title": "si / tellement + 形容词或副词 + que：程度造成的结果",
+      "body": "表达「如此……以至于……」时，用 si 或 tellement + 形容词／副词 + que + 结果从句。\n\n- La route était si glissante que nous sommes rentrés à pied.（路面太滑，我们步行回家了。）\n- Il parle si vite que personne ne le comprend.（他说得太快，没人听得懂。）\n- Elle était tellement fatiguée qu'elle s'est endormie tout de suite.（她太累了，立刻就睡着了。）\n- Il conduit tellement prudemment que tout le monde le félicite.（他开车非常谨慎，大家都称赞他。）\n\nsi 只能修饰形容词或副词，不能直接修饰名词：*si monde 不成立；名词的数量程度用 tant de / tellement de。tellement 可修饰形容词或副词，也可修饰动词，位置随被修饰成分变化。\n\n- si + 形容词：si grand\n- si + 副词：si vite\n- tellement + 形容词／副词：tellement grand, tellement vite\n\n注意：si 在这里不是「如果」，而是程度副词；判断依据是后面接形容词或副词，并跟 que 结果从句。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u3-12",
+      "title": "原因、目的、结果：先看关系和主语",
+      "body": "同一个中文逻辑关系可以对应不同的法语结构，选择时要同时看三点：逻辑关系、主语是否一致、后面接从句还是名词短语。\n\n1. 原因：回答「为什么」，用 parce que + 从句；已知或显而易见的原因用 puisque / comme；后置补充说明用 car；接名词短语用 à cause de（多消极）或 grâce à（多积极）。\n2. 目的：主语相同用 pour + 不定式；主语不同用 pour que + 虚拟式；否定目的用 pour ne pas + 不定式。\n3. 结果：用 donc 或 c'est pourquoi 引出结果；数量用 tant de / tellement de + 名词 + que；动作强度用动词 + tant / tellement + que；形容词或副词的程度用 si / tellement + 形容词或副词 + que。\n\n判断顺序：\n\n- 先判断是原因、目的还是结果：原因回答「为什么」，目的回答「为了什么」，结果回答「因此发生了什么」。\n- 再看后面是完整从句还是名词短语：介词短语只能接名词，连词接从句。\n- 最后看主语：目的结构中主语相同用不定式，不同用 pour que + 虚拟式。\n\n例：\n\n- Il est absent parce qu'il est malade.（原因从句）\n- Il est absent à cause de sa maladie.（原因名词短语）\n- Il travaille pour réussir.（目的，同一主语）\n- Il travaille pour que sa famille vive mieux.（目的，不同主语）\n- Il travaille tellement qu'il est épuisé.（结果，动作强度）\n\n注意：不要按中文「因为／为了／所以」逐字选词；先确定句子关系，再检查主语和后面的成分类型。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u4-1",
+      "title": "bien que + 虚拟式：让步从句",
+      "body": "让步（concession）指先承认一个可能阻碍主句动作的事实，然后主句仍然成立，相当于「虽然、尽管」。bien que 是最常用的让步连词，后面必须用虚拟式。\n\n- Bien qu'il soit fatigué, il continue à travailler.（虽然他累了，他仍继续工作。）\n- Bien que la route soit longue, nous partons tôt.（虽然路很远，我们还是早出发。）\n- Bien qu'elle ait peu d'expérience, elle fait très bien son travail.（虽然她经验很少，她工作做得很好。）\n\n如果让步的动作已经完成，用虚拟式过去时（助动词的虚拟式现在时 + 过去分词）：\n\n- Bien qu'il ait terminé son travail, il reste au bureau.（虽然他完成了工作，他仍留在办公室。）\n- Bien qu'elle soit arrivée en retard, elle a pu entrer.（虽然她迟到了，她还是进去了。）——arrivée 与 elle 配合。\n\nbien que 后面不能接直陈式：*Bien qu'il est fatigué 不对，应为 Bien qu'il soit fatigué。\n\n注意：让步与原因方向相反：原因说明「为什么发生」，让步说明「尽管有阻碍仍然发生」。不要把 bien que 与 parce que 混用。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u4-2",
+      "title": "mais：最典型的转折连词",
+      "body": "转折（opposition）指两个分句意义相反、相对，或后一分句与前一分句的预期不符。mais 是最典型的转折连词，放在两个分句之间。\n\n- Il est fatigué, mais il continue.（他累了，但仍继续。）\n- Elle voulait sortir, mais il pleuvait.（她想出去，但当时在下雨。）\n- Le chemin est court, mais il est difficile.（路很短，但很难走。）\n\nmais 连接的是两个分句或两个同类成分，位置固定在它们之间，不能像副词那样自由移动：\n\n- Il est jeune, mais il est très expérimenté.（他年轻，但很有经验。）\n- *Il est mais jeune, il est très expérimenté. 不是标准结构。\n\nmais 的核心是转折，不是追加信息。单纯追加用 et：\n\n- Elle parle français et allemand.（她说法语和德语。）——追加，不用 mais。\n- Elle parle français, mais elle ne parle pas allemand.（她说法语，但不会说德语。）——转折。\n\n注意：mais 也可在口语中加强语气（Mais oui ! 当然啦！），这不是分句间的转折；判断时看它是否连接两个意义相对的分句。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u4-3",
+      "title": "让步与转折：先看结构和语气",
+      "body": "bien que 和 mais 都能表达「虽然、但是」的意思，但结构不同：\n\n- bien que 是连词，引导一个让步从句，从句用虚拟式，可放在主句前或后。\n- mais 是并列连词，连接两个地位平等的分句，用直陈式。\n\n比较：\n\n- Bien qu'il soit malade, il travaille.（虽然他病了，他仍工作。）——从句用虚拟式，突出让步。\n- Il est malade, mais il travaille.（他病了，但他仍工作。）——两个分句并列，突出转折。\n\n选择时看句子结构：如果要把一个分句降为「虽然」的从属成分，用 bien que + 虚拟式；如果两个分句并列、用「但是」连接，用 mais。\n\n注意：不要在同一句里把两种结构混在一起：*Bien qu'il est malade, mais il travaille 既缺虚拟式，又重复连接。应说 Bien qu'il soit malade, il travaille 或 Il est malade, mais il travaille。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u5-1",
+      "title": "sans + 不定式：把否定从句合并成介词短语",
+      "body": "sans 后接不定式（动词原形，不按人称变位），表示主句动作发生时，另一个动作没有发生，或主句动作没有伴随某个动作。汉语常译成「没有……就……」或「不……」。例如：\n\n- Il est parti sans dire au revoir.（他没说再见就走了。）\n- Elle a traversé la rue sans regarder.（她过马路时没有看。）\n- Nous avons continué sans attendre.（我们没有等就继续了。）\n\n把否定从句合并成 sans 短语，前提是两个动作的主语相同：\n\n- Il est sorti. Il n'a pas éteint la lumière. → Il est sorti sans éteindre la lumière.（他出去时没有关灯。）\n- Elle a répondu. Elle n'a pas hésité. → Elle a répondu sans hésiter.（她毫不犹豫地回答了。）\n\n如果主语不同，就不能这样合并，只能保留原来的否定从句：Il est sorti ; je n'ai pas éteint la lumière. 不能写成 *Il est sorti sans j'éteindre la lumière.\n\nsans 本身已经包含否定意义，所以短语里不再保留 ne...pas：\n\n- *Il est parti sans ne pas dire au revoir. → Il est parti sans dire au revoir.\n- *Elle a répondu sans ne pas hésiter. → Elle a répondu sans hésiter.\n\n如果「没有做的动作」先于主句动作完成，用不定式过去时：sans avoir + 过去分词（动词的非变位形式，如 fini、parti）；代词式动词（带 se 的动词，如 se lever、s'excuser）用 sans s'être + 过去分词。被动意义可用 sans être + 过去分词：\n\n- Il a quitté la réunion sans avoir prévenu personne.（他没通知任何人就离开了会议。）\n- Elle est sortie sans s'être excusée.（她没道歉就出去了。）\n- Il est parti sans être vu.（他未被看见就离开了。）\n\n注意：sans 后的动词用不定式，不按主语变位；不要保留 ne...pas；主语不同时不能强行合并。汉语的「没……」在法语里也可能用完整的否定从句或其他介词结构，要看主语是否一致、动作先后和句子结构，不能一律套 sans。"
+    },
+    {
+      "id": "pub-c20-complex-sentences-card-u5-2",
+      "title": "avant que 与 jusqu'à ce que：虚拟式与赘词 ne",
+      "body": "avant que（在……之前）和 jusqu'à ce que（直到……为止）引出指向未来、尚未实现的时间界限，从句要用虚拟式（subjonctif，表示动作没有被当作已实现事实的语气）。\n\n- Je partirai avant qu'il ne rentre.（我会在他回来之前出发。）\n- Nous devons finir avant que le magasin ne ferme.（我们必须在商店关门前完成。）\n- Attends jusqu'à ce que je revienne.（等我回来。）\n- Il a travaillé jusqu'à ce qu'il soit fatigué.（他一直工作到累了。）\n\n并非所有时间从句都用虚拟式：quand、dès que、pendant que 等把动作当作事实，用直陈式（把动作作为事实陈述的语气）；在时间从句里，只有 avant que、jusqu'à ce que 这类指向尚未实现界限的连词，才要求虚拟式。\n\navant que 后面的 ne 常常是赘词 ne（不表示否定的 ne），多见于书面或较正式的表达，去掉后意思不变：\n\n- Pars avant qu'il ne soit trop tard. = Pars avant qu'il soit trop tard.（趁还不太晚，走吧。）\n\n这里的 ne 不表示「不」，不能把句子理解成「在他不迟之前」。真正的否定要用 ne...pas，但 avant que 后的赘词 ne 与否定无关，不能据此把句意理解成否定。\n\n主语相同时，avant que 常改用 avant de + 不定式（见第 2 单元）：\n\n- Je partirai avant de finir mon rapport.（我会在写完报告前出发。）——两个动作的主语都是 je。\n- Je partirai avant qu'il finisse son rapport.（我会在他写完报告前出发。）——从句主语是 il，与主句主语不同，用 avant que + 虚拟式。\n\njusqu'à ce que 没有「jusqu'à de + 不定式」这种对应形式；本单元表示「直到某个动作发生」时，用 jusqu'à ce que + 从句。\n\n注意：avant que 和 jusqu'à ce que 后的从句不能用直陈式替换；avant que 的赘词 ne 不是否定词；jusqu'à ce que 不能写成 jusqu'à que。若从句动作已经完成，虚拟式要用过去时（助动词的虚拟式现在时加过去分词，如 avant qu'il ait fini），但判断顺序仍是先语气、后时间。"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pub-c20-complex-sentences-l1",
+      "title": "并列、关联与 que 从句",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c20-complex-sentences-l1-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Pour ce voyage, il faut prendre le passeport ___ le visa : les deux documents sont obligatoires. »",
+          "options": [
+            "ou",
+            "mais",
+            "et",
+            "donc"
+          ],
+          "answer": 2,
+          "translation": "这次旅行必须带护照和签证：两份文件都是必需的。",
+          "explain": "两个成分都要带上，是追加关系，用 et。ou 表二选一，与「两份都必需」矛盾；mais 表转折；donc 表结果，都不能连接两个并列名词。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l1-q2",
+          "type": "choice",
+          "prompt": "Complétez : « Vous pouvez venir le samedi ___ le dimanche, mais pas les deux jours. »",
+          "options": [
+            "et",
+            "car",
+            "puis",
+            "ou"
+          ],
+          "answer": 3,
+          "translation": "您可以周六或周日来，但不能两天都来。",
+          "explain": "后半句说「不能两天都来」，说明只能在两者中选一个，用 ou 表选择。et 会把两天都包括进来，与后半句矛盾；car 表原因；puis 表接着发生，都不能连接两个择一的时间。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l1-q3",
+          "type": "tiles",
+          "prompt": "Composez une phrase avec et : elle / ouvrir / la porte / entrer / dans / le salon",
+          "answer": [
+            "Elle",
+            "ouvre",
+            "la",
+            "porte",
+            "et",
+            "entre",
+            "dans",
+            "le",
+            "salon."
+          ],
+          "bank": [
+            "Elle",
+            "ouvre",
+            "la",
+            "porte",
+            "et",
+            "entre",
+            "dans",
+            "le",
+            "salon.",
+            "ouvrir",
+            "ouvrira",
+            "ou",
+            "entrera"
+          ],
+          "translation": "她打开门，走进客厅。",
+          "explain": "et 连接两个先后相承、主语相同的动作，第二个动词不必重复主语：elle ouvre... et entre...。两个动词都按现在时变位。ou 会变成选择，ouvrir 是不定式，ouvrira 和 entrera 是将来时，都不符合句子结构。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l1-q4",
+          "type": "choice",
+          "prompt": "Réunissez les deux phrases avec et : « Nous avons visité le musée. Nous avons visité la cathédrale. »",
+          "options": [
+            "Nous avons visité le musée ou la cathédrale.",
+            "Nous avons visité le musée et la cathédrale.",
+            "Nous avons visité le musée, mais la cathédrale.",
+            "Nous avons visité le musée donc la cathédrale."
+          ],
+          "answer": 1,
+          "translation": "我们参观了博物馆和大教堂。",
+          "explain": "两个句子只有宾语不同，用 et 连接两个名词短语即可，第二个 avons visité 不必重复。ou 表二选一；mais 表转折；donc 表结果，都不能表达「两个都参观」。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l1-q5",
+          "type": "choice",
+          "prompt": "Dans « Il a plu toute la nuit, et les routes sont inondées », que exprime et ?",
+          "options": [
+            "une conséquence",
+            "une cause",
+            "un choix",
+            "une opposition"
+          ],
+          "answer": 0,
+          "translation": "雨下了一整夜，道路被淹了。",
+          "explain": "et 的核心功能是追加信息；这里后一分句是前一分句造成的自然结果，所以在语境中读作结果。它并不改变 et 的并列本质，也不能因此把 et 当作 parce que 或 donc 使用。选择读法需要两个可选项，转折读法则要求语义相反。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l1-q6",
+          "type": "letters",
+          "prompt": "Complétez : « Tu préfères le thé ___ le café ? »",
+          "answer": "ou",
+          "decoys": [
+            "ù",
+            "e",
+            "t",
+            "s"
+          ],
+          "translation": "你喜欢茶还是咖啡？",
+          "explain": "这里连接两个供选择的名词，是连词 ou，不加重音。où 带重音符，是关系副词或疑问副词，表示地点，例如 la ville où je suis né（我出生的城市）。两个词读音相同，只能靠句法作用区分。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l1-q7",
+          "type": "tiles",
+          "prompt": "Composez une phrase avec ou : tu / pouvoir / prendre / le train / l'avion",
+          "answer": [
+            "Tu",
+            "peux",
+            "prendre",
+            "le",
+            "train",
+            "ou",
+            "l'avion."
+          ],
+          "bank": [
+            "Tu",
+            "peux",
+            "prendre",
+            "le",
+            "train",
+            "ou",
+            "l'avion.",
+            "et",
+            "où",
+            "prends",
+            "avions",
+            "pourras"
+          ],
+          "translation": "你可以坐火车或坐飞机。",
+          "explain": "两个可能里选一个，用 ou 连接两个不定式短语；第二个 prendre 可以省略，避免重复。et 会表示两个都选；où 是地点副词；prends 是变位形式，不能跟在 peux 后作不定式。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l1-q8",
+          "type": "choice",
+          "prompt": "Transformez les deux questions en une seule avec ou : « Tu viens avec nous ? Tu restes à la maison ? »",
+          "options": [
+            "Tu viens avec nous ou tu restes à la maison ?",
+            "Tu viens avec nous et tu restes à la maison ?",
+            "Tu viens avec nous, ou bien tu restes à la maison.",
+            "Tu viens avec nous ou rester à la maison ?"
+          ],
+          "answer": 0,
+          "translation": "你是跟我们一起来，还是留在家里？",
+          "explain": "ou 可以连接两个完整的疑问分句，构成选择疑问句，两个分句都保留主语和变位动词。et 会把两个问题变成并列；第三项少了问号，是陈述句；第四项在 ou 后接不定式 rester，与前面的变位动词 viens 不平行，结构不成立。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l1-q9",
+          "type": "choice",
+          "prompt": "Quelle phrase exprime une alternance, c'est-à-dire deux situations qui reviennent tour à tour ?",
+          "options": [
+            "Soit il travaille, soit il se repose.",
+            "Il travaille et il se repose.",
+            "Il travaille, donc il se repose.",
+            "Tantôt il travaille, tantôt il se repose."
+          ],
+          "answer": 3,
+          "translation": "他时而工作，时而休息。",
+          "explain": "tantôt...tantôt 表示两种情况交替出现，相当于「时而……时而……」。soit...soit 表示在两者中选一个，不是交替；et 只是追加信息；donc 引出结果。判断时要看两种情况是「轮流出现」还是「二选一」。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c20-complex-sentences-l2",
+      "title": "时间从句与先时关系",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c20-complex-sentences-l2-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Quand tu ___ tes devoirs, nous irons au cinéma. » (finir)",
+          "options": [
+            "finis",
+            "avais fini",
+            "auras fini",
+            "finiras"
+          ],
+          "answer": 2,
+          "translation": "你完成作业后，我们就去看电影。",
+          "explain": "主句用简单将来时 irons，从句动作在主句之前完成，要用先将来时（futur antérieur）：avoir 的简单将来时 auras 加过去分词 fini。finis 是现在时，avais fini 是愈过去时，finiras 是简单将来时，都不能表示「先完成」，不符合这里的时间关系。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q2",
+          "type": "tiles",
+          "prompt": "Transformez au futur : « Dès qu'elle reçoit la lettre, elle nous prévient. » → ... (futur antérieur dans la subordonnée)",
+          "answer": [
+            "Dès",
+            "qu'elle",
+            "aura",
+            "reçu",
+            "la",
+            "lettre,",
+            "elle",
+            "nous",
+            "préviendra."
+          ],
+          "bank": [
+            "Dès",
+            "qu'elle",
+            "aura",
+            "reçu",
+            "la",
+            "lettre,",
+            "elle",
+            "nous",
+            "préviendra.",
+            "a",
+            "recevra",
+            "prévenu",
+            "prévenait",
+            "qu'il"
+          ],
+          "translation": "她一收到信就会通知我们。",
+          "explain": "dès que 引出将来时间从句；从句动作先于主句完成，用先将来时 aura reçu（avoir 的简单将来时 aura 加过去分词 reçu）。主句用简单将来时 préviendra。不能用复合过去时 a reçu 或简单将来时 recevra 代替先将来时。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q3",
+          "type": "choice",
+          "prompt": "Complétez : « Quand je suis arrivé au cinéma, le film ___ . » (commencer)",
+          "options": [
+            "a commencé",
+            "commençait",
+            "commencera",
+            "avait commencé"
+          ],
+          "answer": 3,
+          "translation": "我到电影院时，电影已经开始了。",
+          "explain": "主句 suis arrivé 是过去时；电影开始发生在这个过去参照点之前，已经完成，用愈过去时 avait commencé。a commencé 会把开始说成与到达同时或在其后；commençait 强调当时正在进行；commencera 是将来时。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q4",
+          "type": "letters",
+          "prompt": "Complétez : « Les filles étaient ___ avant la fin du film. » (partir)",
+          "answer": "parties",
+          "decoys": [
+            "e",
+            "s",
+            "i",
+            "t"
+          ],
+          "translation": "女孩们在电影结束前就走了。",
+          "explain": "愈过去时由助动词的未完成过去时加过去分词构成。partir 用 être 作助动词，主语 les filles 是阴性复数，过去分词要与主语配合，写 parties；不能写 parti、partie 或 partis。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q5",
+          "type": "choice",
+          "prompt": "Complétez : « Hier, quand Paul ___ dans la salle de réunion, la réunion avait déjà commencé. » (entrer)",
+          "options": [
+            "est entré",
+            "était entré",
+            "entrait",
+            "entrera"
+          ],
+          "answer": 0,
+          "translation": "昨天保罗走进会议室时，会议已经开始了。",
+          "explain": "会议开始先于保罗进来，所以用愈过去时 avait commencé；保罗进来是过去时间轴上的参照事件，本身用复合过去时 est entré，不需要再往前移成愈过去时。若用 était entré，会把「进来」也放到另一个隐含参照点之前，与「会议已开始」的对照关系就模糊了。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q6",
+          "type": "choice",
+          "prompt": "Complétez : « ___ il avait terminé son travail, il est rentré chez lui. »",
+          "options": [
+            "Avant que",
+            "Après que",
+            "Pendant que",
+            "Dès que"
+          ],
+          "answer": 1,
+          "translation": "他完成工作后回了家。",
+          "explain": "主句是过去时，从句动作更早完成，用愈过去时 avait terminé；这里需要表示「在……之后」的连词，après que 合适。avant que 表「在……之前」，方向相反，且要求虚拟式；pendant que 表同时持续；dès que 表一……就……，与愈过去时的「已完成」不搭配。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q7",
+          "type": "choice",
+          "prompt": "Complétez : « ___ nous marchions dans la forêt, il a commencé à pleuvoir. »",
+          "options": [
+            "Dès que",
+            "Depuis que",
+            "Pendant que",
+            "Chaque fois que"
+          ],
+          "answer": 2,
+          "translation": "我们在森林里散步时，开始下雨了。",
+          "explain": "两个动作在时间上重叠，散步是持续的背景，用 pendant que 最合适，从句用未完成过去时 marchions。dès que 强调紧接发生；depuis que 强调从某时起的延续；chaque fois que 强调重复，都不符合这里「同时持续」的关系。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q8",
+          "type": "tiles",
+          "prompt": "Transformez au passé à l'imparfait (habitude) : « Chaque fois qu'elle vient, elle apporte un gâteau. » → ...",
+          "answer": [
+            "Chaque",
+            "fois",
+            "qu'elle",
+            "venait,",
+            "elle",
+            "apportait",
+            "un",
+            "gâteau."
+          ],
+          "bank": [
+            "Chaque",
+            "fois",
+            "qu'elle",
+            "venait,",
+            "elle",
+            "apportait",
+            "un",
+            "gâteau.",
+            "vient",
+            "apporte",
+            "est venue",
+            "a apporté",
+            "qu'il"
+          ],
+          "translation": "她每次来都会带一个蛋糕。",
+          "explain": "题目要求保留过去的习惯，所以主句与从句都用未完成过去时：venait、apportait。复合过去时 est venue / a apporté 可以描述过去发生的事，但会把每次来访说成单次完成事件，不能体现题目要求的习惯读法。que 在 elle 前省音为 qu'elle。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q9",
+          "type": "choice",
+          "prompt": "Choisissez la phrase la plus naturelle : « ___ il a arrêté de fumer, il se sent beaucoup mieux. »",
+          "options": [
+            "Pendant que",
+            "Dès que",
+            "Chaque fois que",
+            "Depuis que"
+          ],
+          "answer": 3,
+          "translation": "自从他戒烟以来，他感觉好多了。",
+          "explain": "depuis que 表示从过去某一刻开始并延续到现在，主句用现在时 se sent；从句用复合过去时 a arrêté 指出起点事件。dès que 语法上也能成立，但只强调「一……就」，不能表达延续到现在的状态；pendant que 表同时持续；chaque fois que 表重复。这里最自然的是 depuis que。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q10",
+          "type": "tiles",
+          "prompt": "Transformez au passé en gardant la simultanéité (imparfait) : « Pendant que je travaille, mon frère regarde la télévision. » → ...",
+          "answer": [
+            "Pendant",
+            "que",
+            "je",
+            "travaillais,",
+            "mon",
+            "frère",
+            "regardait",
+            "la",
+            "télévision."
+          ],
+          "bank": [
+            "Pendant",
+            "que",
+            "je",
+            "travaillais,",
+            "mon",
+            "frère",
+            "regardait",
+            "la",
+            "télévision.",
+            "travaille",
+            "regarde",
+            "ai travaillé",
+            "a regardé",
+            "travailler"
+          ],
+          "translation": "我工作的时候，弟弟在看电视。",
+          "explain": "题目要求保留同时持续，两个动作在过去同时进行，主句和从句都用未完成过去时：travaillais、regardait。pendant que 强调同时持续；若把其中一个改成复合过去时，会把它变成打断背景的单一事件，不符合题目要求。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q11",
+          "type": "letters",
+          "prompt": "Complétez : « Quand je suis arrivé, elle ___ déjà partie. » (être)",
+          "answer": "était",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "s",
+            "a",
+            "i",
+            "t"
+          ],
+          "translation": "我到的时候，她已经走了。",
+          "explain": "主句 suis arrivé 是过去时，她离开发生在这个参照点之前，用愈过去时：être 的未完成过去时 était 加过去分词 partie。不要用直陈式复合过去时的 est（elle est déjà partie 会把她离开说成与「我到」同一层级），也不要用 étaient（主语是 elle，单数）。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q12",
+          "type": "choice",
+          "prompt": "Quelle phrase indique que le travail de sa femme était terminé avant son retour ?",
+          "options": [
+            "Quand il est rentré, sa femme a fini son travail.",
+            "Quand il est rentré, sa femme finissait son travail.",
+            "Quand il est rentré, sa femme avait fini son travail.",
+            "Quand il rentre, sa femme finit son travail."
+          ],
+          "answer": 2,
+          "translation": "他回家时，妻子已经完成了工作。",
+          "explain": "愈过去时 avait fini 表示动作在另一个过去动作（est rentré）之前已经完成，正是「先完成」的关系。a fini 把完成说成发生在他回来之后或同一层级；finissait 表示当时正在进行、尚未完成；最后一句是现在时，时间轴不符。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q13",
+          "type": "choice",
+          "prompt": "Transformez au passé : « Pendant que je lis, elle écoute de la musique. » → « Pendant que je ___ , elle écoutait de la musique. »",
+          "options": [
+            "lisais",
+            "lis",
+            "lirai",
+            "ai lu"
+          ],
+          "answer": 0,
+          "translation": "我读书的时候，她在听音乐。",
+          "explain": "主句改成过去时后，同时进行的动作要用未完成过去时；从句与主句同时持续，所以 lis 变 lisais。主句 écoutait 已经给出，两个未完成过去时共同构成过去的同时背景。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q14",
+          "type": "letters",
+          "prompt": "Complétez : « Quand nous sommes arrivés, elle ___ partir. » (aller)",
+          "answer": "allait",
+          "decoys": [
+            "s",
+            "e",
+            "t",
+            "i"
+          ],
+          "translation": "我们到的时候，她正要走。",
+          "explain": "近将来（aller + 不定式）在过去视角下，要把 aller 变成未完成过去时：allait + partir。这里表示在过去某一刻「正要离开」。不要写 va（现在时）或 est allée（复合过去时，意为「已经去了」）。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q15",
+          "type": "choice",
+          "prompt": "Transformez au passé : « Il vient de sortir. » → « Il ___ de sortir quand je suis arrivé. »",
+          "options": [
+            "vient",
+            "est venu",
+            "venais",
+            "venait"
+          ],
+          "answer": 3,
+          "translation": "我到的时候，他刚出去。",
+          "explain": "最近过去（venir de + 不定式）在过去视角下要把 venir 变成未完成过去时：venait de sortir。不能保留现在时 vient；est venu de sortir 结构不成立；venais 是 je/tu 的形式，与主语 il 不配合。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q16",
+          "type": "choice",
+          "prompt": "Quelle phrase présente une action de fond à l'imparfait et un événement ponctuel au passé composé ?",
+          "options": [
+            "Pendant que j'ai lu, il entrait.",
+            "Pendant que je lisais, il est entré.",
+            "Pendant que je lisais, il entrait.",
+            "Quand j'ai lu, il est entré."
+          ],
+          "answer": 1,
+          "translation": "我正在读书时，他进来了。",
+          "explain": "未完成过去时 lisais 描述正在进行的背景，复合过去时 est entré 表示打断背景的单一事件，二者配合。第一句时态分工颠倒；第三句两个都是未完成过去时，没有单一事件；第四句两个都是复合过去时，变成先后发生的两个事件。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q17",
+          "type": "choice",
+          "prompt": "Transformez avec avant de : « Elle prend son manteau. Elle sort. »",
+          "options": [
+            "Avant de prendre son manteau, elle sort.",
+            "Avant de sortir, elle prend son manteau.",
+            "Avant qu'elle sort, elle prend son manteau.",
+            "Après avoir sorti, elle prend son manteau."
+          ],
+          "answer": 1,
+          "translation": "出门前，她穿上外套。",
+          "explain": "两个动作的主语都是 elle，本题要求用 avant de + 不定式，避免 avant que + 从句。原句顺序是先穿外套、再出门，所以 avant de sortir 放在主句前，主句说 prend son manteau。第一项颠倒了先后；第三项 avant que 后用了直陈式 sort，应改为虚拟式 sorte；第四项 après 方向相反，sortir 也没有这样用的及物过去分词。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q18",
+          "type": "tiles",
+          "prompt": "Composez une phrase avec après + infinitif passé : il / finir / son travail / rentrer / chez lui",
+          "answer": [
+            "Après",
+            "avoir",
+            "fini",
+            "son",
+            "travail,",
+            "il",
+            "est",
+            "rentré",
+            "chez",
+            "lui."
+          ],
+          "bank": [
+            "Après",
+            "avoir",
+            "fini",
+            "son",
+            "travail,",
+            "il",
+            "est",
+            "rentré",
+            "chez",
+            "lui.",
+            "être",
+            "finissait",
+            "rentre",
+            "a",
+            "parti"
+          ],
+          "translation": "完成工作后，他回家了。",
+          "explain": "两个动作的主语都是 il，可以用 après + 不定式过去时。finir 用 avoir 作助动词，构成 avoir fini；主句 rentrer 用 être 作助动词，复合过去时为 est rentré。不能写 après être fini（finir 不是被动，也不以 être 作助动词）。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q19",
+          "type": "tiles",
+          "prompt": "Composez une phrase au passé : quand / le professeur / entrer / les élèves / déjà / se lever",
+          "answer": [
+            "Quand",
+            "le",
+            "professeur",
+            "est",
+            "entré,",
+            "les",
+            "élèves",
+            "s'étaient",
+            "déjà",
+            "levés."
+          ],
+          "bank": [
+            "Quand",
+            "le",
+            "professeur",
+            "est",
+            "entré,",
+            "les",
+            "élèves",
+            "s'étaient",
+            "déjà",
+            "levés.",
+            "entrait,",
+            "se sont",
+            "levé",
+            "levées",
+            "était",
+            "s'était"
+          ],
+          "translation": "老师进来时，学生们已经站起来了。",
+          "explain": "老师进来是过去参照事件，用复合过去时 est entré；学生站起来在这个参照点之前已完成，用愈过去时 s'étaient levés。se lever 是代词式动词，助动词用 être；主语 les élèves 是复数，过去分词写 levés。entrait 也可成立，表示老师正进来时学生已经站好；但作为过去参照事件，est entré 更常见。不能写 se sont levés（复合过去时，会变成同时或之后发生）。",
+          "alternatives": [
+            [
+              "Quand",
+              "le",
+              "professeur",
+              "entrait,",
+              "les",
+              "élèves",
+              "s'étaient",
+              "déjà",
+              "levés."
+            ]
+          ]
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q20",
+          "type": "choice",
+          "prompt": "Transformez au passé en gardant l'antériorité : « Les filles partent. Le film commence. » → « Les filles ___ quand le film a commencé. »",
+          "options": [
+            "étaient parties",
+            "sont parties",
+            "était partie",
+            "étaient parti"
+          ],
+          "answer": 0,
+          "translation": "电影开始时，女孩们已经走了。",
+          "explain": "partir 发生在 film a commencé 这一过去参照点之前，已经完成，用愈过去时 étaient parties。partir 以 être 为助动词，主语 les filles 是阴性复数，过去分词写 parties；sont parties 是复合过去时，会表示她们在电影开始时才走；était partie 是单数配合，étaient parti 缺阴性复数配合。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q21",
+          "type": "choice",
+          "prompt": "Transformez au passé en gardant la simultanéité : « Les fenêtres sont ouvertes et les enfants jouent dans le jardin. »",
+          "options": [
+            "Les fenêtres ont été ouvertes et les enfants ont joué dans le jardin.",
+            "Les fenêtres étaient ouvertes et les enfants jouaient dans le jardin.",
+            "Les fenêtres étaient ouverte et les enfants jouaient dans le jardin.",
+            "Les fenêtres étaient ouvert et les enfants jouaient dans le jardin."
+          ],
+          "answer": 1,
+          "translation": "窗户开着，孩子们在花园里玩。",
+          "explain": "现在时描述同时存在的状态和背景，改为过去视角时用未完成过去时：étaient、jouaient。ouvertes 是形容词性过去分词，要与阴性复数主语 les fenêtres 配合。复合过去时 ont été ouvertes / ont joué 会把窗户被打开和孩子玩耍说成先后完成的单一事件，失去同时背景；ouverte 和 ouvert 分别是单数阴性、单数阳性形式，配合错误。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q22",
+          "type": "choice",
+          "prompt": "Transformez au futur : « Quand il finit son travail, il sort. »",
+          "options": [
+            "Quand il finira son travail, il sortira.",
+            "Quand il a fini son travail, il sortira.",
+            "Quand il aura fini son travail, il sortira.",
+            "Quand il avait fini son travail, il sortira."
+          ],
+          "answer": 2,
+          "translation": "他完成工作后会出去。",
+          "explain": "主句改为简单将来时 sortira；从句动作在主句之前完成，要用先将来时 aura fini（avoir 的简单将来时 aura 加过去分词 fini）。finira 把从句写成简单将来时，a fini 是复合过去时，avait fini 是愈过去时，都不能表示将来参照点之前的完成。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q23",
+          "type": "choice",
+          "prompt": "Transformez au futur : « Lorsqu'il termine ses études, il cherche un travail. »",
+          "options": [
+            "Lorsqu'il terminera ses études, il cherchera un travail.",
+            "Lorsqu'il a terminé ses études, il cherchera un travail.",
+            "Lorsqu'il avait terminé ses études, il cherchera un travail.",
+            "Lorsqu'il aura terminé ses études, il cherchera un travail."
+          ],
+          "answer": 3,
+          "translation": "他完成学业后会找工作。",
+          "explain": "主句用简单将来时 cherchera；从句动作先于主句完成，用先将来时 aura terminé。terminera 是简单将来时，a terminé 是复合过去时，avait terminé 是愈过去时，都不能表示将来某一刻之前已经完成。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l2-q24",
+          "type": "choice",
+          "prompt": "Dans « Quand il a fini son travail, il sort », pourquoi le passé composé a fini est-il possible alors que la phrase est au présent ?",
+          "options": [
+            "Parce que le passé composé remplace toujours le présent dans une proposition temporelle.",
+            "Parce que l'action de finir est déjà accomplie au moment où il sort : le présent de la principale ne déplace pas le passé de la subordonnée.",
+            "Parce que quand exige le passé composé après un verbe au présent.",
+            "Parce que le passé composé exprime ici une action future."
+          ],
+          "answer": 1,
+          "translation": "他完成工作后就出去。",
+          "explain": "主句现在时 il sort 把参照点放在现在；从句动作「完成工作」先于这个参照点，已经完成，所以用复合过去时 a fini。时态不是整体后移，也不是 quand 的固定要求；这里更不能用复合过去时表示将来。理解关键是动作相对参照点的先后，而不是主句时态机械决定一切。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c20-complex-sentences-l3",
+      "title": "原因、目的与结果",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c20-complex-sentences-l3-q1",
+          "type": "choice",
+          "prompt": "Choisissez la réponse naturelle : « Pourquoi est-ce que tu ne viens pas au cinéma ? — ___ je dois finir mon rapport. »",
+          "options": [
+            "Parce que",
+            "Puisque",
+            "Pour que",
+            "À cause de"
+          ],
+          "answer": 0,
+          "translation": "——你为什么不来看电影？——因为我得完成报告。",
+          "explain": "回答 pourquoi 的提问、提供对方不知道的新原因，用 parce que + 完整从句。puisque 表示双方已知的原因；pour que 表目的；à cause de 后面只能接名词短语，不能接 je dois... 这样的完整从句。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q2",
+          "type": "tiles",
+          "prompt": "Transformez en une seule phrase avec « parce que » : Paul est malade. Paul ne vient pas.",
+          "answer": [
+            "Paul",
+            "ne",
+            "vient",
+            "pas",
+            "parce",
+            "qu'il",
+            "est",
+            "malade."
+          ],
+          "bank": [
+            "Paul",
+            "ne",
+            "vient",
+            "pas",
+            "parce",
+            "qu'il",
+            "est",
+            "malade.",
+            "car",
+            "il",
+            "puisque",
+            "à cause de",
+            "maladie"
+          ],
+          "translation": "保罗没来，因为他病了。",
+          "explain": "合并时用 parce que 引出原因从句；从句主语 Paul 用代词 il 指代，避免重复，parce que 在 il 前省音为 parce qu'il。car 也能引出原因，但题目要求 parce que；à cause de 只能接名词。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q3",
+          "type": "choice",
+          "prompt": "Quelle phrase combine correctement les deux idées ? « Elle a pris le métro. Elle avait peur d'être en retard. »",
+          "options": [
+            "Elle a pris le métro pour qu'elle avait peur d'être en retard.",
+            "Elle a pris le métro à cause d'elle avait peur d'être en retard.",
+            "Elle a pris le métro parce qu'elle avait peur d'être en retard.",
+            "Elle a pris le métro car d'avoir peur d'être en retard."
+          ],
+          "answer": 2,
+          "translation": "她坐地铁，因为她怕迟到。",
+          "explain": "parce que 引出原因从句，后面接完整从句 elle avait peur...；parce que 在 elle 前省音为 parce qu'elle。pour que 表目的且要求虚拟式；à cause de 只能接名词短语；car 不能接不定式。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q4",
+          "type": "tiles",
+          "prompt": "Composez une phrase en exprimant deux causes avec « parce que » : il / rester / à la maison / pleuvoir / être fatigué",
+          "answer": [
+            "Il",
+            "reste",
+            "à",
+            "la",
+            "maison",
+            "parce",
+            "qu'il",
+            "pleut",
+            "et",
+            "qu'il",
+            "est",
+            "fatigué."
+          ],
+          "bank": [
+            "Il",
+            "reste",
+            "à",
+            "la",
+            "maison",
+            "parce",
+            "qu'il",
+            "pleut",
+            "et",
+            "qu'il",
+            "est",
+            "fatigué.",
+            "car",
+            "puisque",
+            "pour",
+            "mais",
+            "fatigué"
+          ],
+          "translation": "他待在家里，因为下雨，也因为他累了。",
+          "explain": "同一主句后并列两个原因，第一个用 parce que，第二个用 et que 重复 que，避免重复整个连词；两个从句各有主语 il。口语可省略第二个 que，但正式书面表达通常保留。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q5",
+          "type": "choice",
+          "prompt": "Choisissez la phrase la plus naturelle : « ___ tu connais déjà la ville, tu peux nous servir de guide. »",
+          "options": [
+            "Parce que",
+            "Pour que",
+            "À cause de",
+            "Puisque"
+          ],
+          "answer": 3,
+          "translation": "既然你已经熟悉这座城市，你可以给我们当向导。",
+          "explain": "原因对听话人来说是已知前提，用 puisque（既然）最自然。parce que 语法上也成立，但通常把原因当作新信息来回答 pourquoi；pour que 表目的；à cause de 后接名词短语。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q6",
+          "type": "choice",
+          "prompt": "Complétez : « Le match a été annulé ___ travaux dans le stade. »",
+          "options": [
+            "à cause des",
+            "à cause du",
+            "grâce aux",
+            "parce que les"
+          ],
+          "answer": 0,
+          "translation": "比赛因体育场施工取消了。",
+          "explain": "travaux 是阳性复数，à cause de + les 缩合为 des；比赛取消是不利结果，用 à cause de 而非 grâce à；parce que 后接完整从句，不能只接名词短语。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q7",
+          "type": "choice",
+          "prompt": "Complétez : « Nous sommes arrivés en retard ___ embouteillages. »",
+          "options": [
+            "à cause du",
+            "à cause de la",
+            "à cause des",
+            "à cause de l'"
+          ],
+          "answer": 2,
+          "translation": "我们因为交通堵塞迟到了。",
+          "explain": "embouteillages 是阳性复数；de + les 缩合为 des。du 用于阳性单数，de la 用于阴性单数，de l' 用于元音开头的单数名词。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q8",
+          "type": "choice",
+          "prompt": "Complétez ce petit dialogue : « Tu ne sors pas ce soir ? — Non, je reste à la maison ___ je dois réviser. »",
+          "options": [
+            "car",
+            "pour que",
+            "à cause de",
+            "donc"
+          ],
+          "answer": 0,
+          "translation": "——你今晚不出去吗？——不出去，我待在家里，因为我得复习。",
+          "explain": "前一分句给出结果（我待在家里），后面补充原因，用 car 引出后置说明。pour que 表目的并接虚拟式；à cause de 后接名词；donc 引出结果，方向相反。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q9",
+          "type": "tiles",
+          "prompt": "Transformez en une seule phrase avec « car » : Il n'est pas venu. Il était souffrant.",
+          "answer": [
+            "Il",
+            "n'est",
+            "pas",
+            "venu,",
+            "car",
+            "il",
+            "était",
+            "souffrant."
+          ],
+          "bank": [
+            "Il",
+            "n'est",
+            "pas",
+            "venu,",
+            "car",
+            "il",
+            "était",
+            "souffrant.",
+            "parce que",
+            "puisque",
+            "donc",
+            "mais",
+            "souffrant"
+          ],
+          "translation": "他没来，因为他当时身体不舒服。",
+          "explain": "car 引出后置原因，结构为结果在前、原因在后。原句的过去时 était 保留；car 后接完整分句。这里不用 parce que，因为题目要求 car，且后置说明正是 car 的典型用法。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q10",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Il est rentré tôt car sa fatigue.",
+            "Il est rentré tôt car il était fatigué.",
+            "Il est rentré tôt car d'être fatigué.",
+            "Il est rentré tôt car parce qu'il était fatigué."
+          ],
+          "answer": 1,
+          "translation": "他早早回家了，因为他当时很累。",
+          "explain": "car 后面必须接完整分句（主语＋变位动词），不能接名词短语或不定式，也不能与 parce que 叠加。只有第二句符合这一结构。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q11",
+          "type": "choice",
+          "prompt": "Complétez : « Je révise tous les soirs ___ réussir mon examen. »",
+          "options": [
+            "pour que",
+            "parce que",
+            "donc",
+            "pour"
+          ],
+          "answer": 3,
+          "translation": "我每天晚上复习，为了通过考试。",
+          "explain": "主句主语 je 与 réussir 的主语相同，用 pour + 不定式。pour que 要求不同主语并接虚拟式；parce que 表原因；donc 表结果。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q12",
+          "type": "tiles",
+          "prompt": "Transformez avec « pour ne pas » : Elle se lève tôt. Elle ne veut pas rater le train.",
+          "answer": [
+            "Elle",
+            "se",
+            "lève",
+            "tôt",
+            "pour",
+            "ne",
+            "pas",
+            "rater",
+            "le",
+            "train."
+          ],
+          "bank": [
+            "Elle",
+            "se",
+            "lève",
+            "tôt",
+            "pour",
+            "ne",
+            "pas",
+            "rater",
+            "le",
+            "train.",
+            "pour que",
+            "ne rater pas",
+            "train",
+            "éviter"
+          ],
+          "translation": "她起得很早，以免错过火车。",
+          "explain": "两个动作的主语都是 elle，用 pour + 不定式；否定词 ne pas 整体放在不定式前，写成 pour ne pas rater。pour que 需要不同主语和虚拟式。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q13",
+          "type": "choice",
+          "prompt": "Complétez : « Le professeur explique lentement ___ les élèves comprennent. »",
+          "options": [
+            "pour",
+            "parce que",
+            "pour que",
+            "à cause de"
+          ],
+          "answer": 2,
+          "translation": "老师讲得慢，是为了让学生听懂。",
+          "explain": "主句主语 le professeur 与从句主语 les élèves 不同，用 pour que + 虚拟式；comprennent 在这里是虚拟式现在时（与直陈式同形）。pour + 不定式要求同一主语；parce que 表原因；à cause de 接名词。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q14",
+          "type": "tiles",
+          "prompt": "Transformez avec « pour que » : Je te prête mon livre. Tu peux le lire ce week-end.",
+          "answer": [
+            "Je",
+            "te",
+            "prête",
+            "mon",
+            "livre",
+            "pour",
+            "que",
+            "tu",
+            "puisses",
+            "le",
+            "lire",
+            "ce",
+            "week-end."
+          ],
+          "bank": [
+            "Je",
+            "te",
+            "prête",
+            "mon",
+            "livre",
+            "pour",
+            "que",
+            "tu",
+            "puisses",
+            "le",
+            "lire",
+            "ce",
+            "week-end.",
+            "peux",
+            "pourra",
+            "lise"
+          ],
+          "translation": "我把我的书借给你，好让你周末能读。",
+          "explain": "主句主语 je 与从句主语 tu 不同，用 pour que + 虚拟式。pouvoir 的虚拟式现在时 tu 形式是 puisses；不能保留直陈式 peux。le 指代 mon livre。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q15",
+          "type": "choice",
+          "prompt": "Complétez ce petit échange : « Le dernier bus est parti. — ___ nous devons rentrer à pied. »",
+          "options": [
+            "Parce que",
+            "Pour que",
+            "Car",
+            "Donc"
+          ],
+          "answer": 3,
+          "translation": "——末班公交已经走了。——所以我们得步行回家。",
+          "explain": "前句是前提，后句是推出的结果，用 donc。parce que 和 car 引出原因，方向相反；pour que 表目的并接虚拟式。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q16",
+          "type": "tiles",
+          "prompt": "Transformez en une phrase avec « donc » : Elle a beaucoup travaillé. Elle a réussi.",
+          "answer": [
+            "Elle",
+            "a",
+            "beaucoup",
+            "travaillé",
+            "et",
+            "a",
+            "donc",
+            "réussi."
+          ],
+          "bank": [
+            "Elle",
+            "a",
+            "beaucoup",
+            "travaillé",
+            "et",
+            "a",
+            "donc",
+            "réussi.",
+            "parce que",
+            "car",
+            "pourtant",
+            "réussi"
+          ],
+          "translation": "她学习很努力，因此成功了。",
+          "explain": "donc 可插在助动词与过去分词之间：a donc réussi；也可说 et donc a réussi，两种语序都成立。它引出结果；两个完成动作共享主语 elle，第二个助动词 a 前省略主语。",
+          "alternatives": [
+            [
+              "Elle",
+              "a",
+              "beaucoup",
+              "travaillé",
+              "et",
+              "donc",
+              "a",
+              "réussi."
+            ]
+          ]
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q17",
+          "type": "choice",
+          "prompt": "Quelle phrase exprime correctement une conséquence ?",
+          "options": [
+            "Il pleut, donc nous restons à la maison.",
+            "Il pleut, donc parce que nous restons à la maison.",
+            "Il pleut, donc à cause de nous restons à la maison.",
+            "Il pleut, donc pour que nous restons à la maison."
+          ],
+          "answer": 0,
+          "translation": "下雨了，所以我们待在家里。",
+          "explain": "donc 后直接接完整分句，不能再叠加 parce que、à cause de 或 pour que；pour que 还要求虚拟式。第一句结构完整，方向也正确。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q18",
+          "type": "choice",
+          "prompt": "Complétez : « Il y avait ___ monde sur la plage que nous sommes partis. »",
+          "options": [
+            "tant",
+            "si",
+            "tant de",
+            "tellement"
+          ],
+          "answer": 2,
+          "translation": "海滩上人太多了，所以我们离开了。",
+          "explain": "monde 是名词，数量程度用 tant de + 名词 + que。tant 单独修饰动词，si 修饰形容词或副词，tellement 单独修饰动词或形容词/副词；都不能直接接名词。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q19",
+          "type": "tiles",
+          "prompt": "Transformez avec « tellement de » : Elle a du travail. Elle rentre tard.",
+          "answer": [
+            "Elle",
+            "a",
+            "tellement",
+            "de",
+            "travail",
+            "qu'elle",
+            "rentre",
+            "tard."
+          ],
+          "bank": [
+            "Elle",
+            "a",
+            "tellement",
+            "de",
+            "travail",
+            "qu'elle",
+            "rentre",
+            "tard.",
+            "trop",
+            "du",
+            "car",
+            "donc"
+          ],
+          "translation": "她工作太多，很晚才回家。",
+          "explain": "tellement de + 名词 + que 引出结果；名词 travail 前用 de，不用 du。qu'elle 是 que + elle 的省音。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q20",
+          "type": "tiles",
+          "prompt": "Composez une phrase avec « tellement... que » : il / travailler / être / épuisé",
+          "answer": [
+            "Il",
+            "travaille",
+            "tellement",
+            "qu'il",
+            "est",
+            "épuisé."
+          ],
+          "bank": [
+            "Il",
+            "travaille",
+            "tellement",
+            "qu'il",
+            "est",
+            "épuisé.",
+            "trop",
+            "de",
+            "si",
+            "fatigué"
+          ],
+          "translation": "他工作如此之多，以至于筋疲力尽。",
+          "explain": "tellement 修饰动词 travaille，放在动词后；que 引出结果从句。tellement 不能直接接名词（tellement de + 名词），也不用 si（si 修饰形容词或副词）。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q21",
+          "type": "choice",
+          "prompt": "Après sa course, elle est essoufflée. Choisissez la phrase qui explique correctement la scène.",
+          "options": [
+            "Elle a tellement de couru qu'elle est essoufflée.",
+            "Elle a tellement couru qu'elle est essoufflée.",
+            "Elle a si couru qu'elle est essoufflée.",
+            "Elle a tant de couru qu'elle est essoufflée."
+          ],
+          "answer": 1,
+          "translation": "她跑得太厉害，气喘吁吁。",
+          "explain": "tellement 修饰动词 couru，在复合时态中位于助动词 a 与过去分词之间。tellement de / tant de 后接名词，si 不能直接修饰动词，因此其余三句都不成立。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q22",
+          "type": "tiles",
+          "prompt": "Transformez avec « tellement... que » : Il a mangé. Il est malade.",
+          "answer": [
+            "Il",
+            "a",
+            "tellement",
+            "mangé",
+            "qu'il",
+            "est",
+            "malade."
+          ],
+          "bank": [
+            "Il",
+            "a",
+            "tellement",
+            "mangé",
+            "qu'il",
+            "est",
+            "malade.",
+            "trop",
+            "de",
+            "si",
+            "beaucoup"
+          ],
+          "translation": "他吃得太多，病了。",
+          "explain": "tellement 修饰动词 mangé，在复合时态中放在助动词 a 与过去分词之间；que 引出结果。tant 也可修饰动词，但本题要求 tellement；不能加 de（tellement de 后接名词）。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q23",
+          "type": "choice",
+          "prompt": "Complétez : « Après la pluie, la route était ___ glissante que nous avons fait demi-tour. »",
+          "options": [
+            "tant",
+            "si",
+            "tant de",
+            "tellement de"
+          ],
+          "answer": 1,
+          "translation": "雨后路面太滑，我们掉头回去了。",
+          "explain": "glissante 是形容词，程度用 si + 形容词 + que。tant 修饰动词，tant de / tellement de 后接名词；tellement 也可修饰形容词，但选项里只有 tellement de，不能接形容词。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q24",
+          "type": "tiles",
+          "prompt": "Transformez avec « tellement... que » : Il conduit prudemment. Tout le monde le félicite.",
+          "answer": [
+            "Il",
+            "conduit",
+            "tellement",
+            "prudemment",
+            "que",
+            "tout",
+            "le",
+            "monde",
+            "le",
+            "félicite."
+          ],
+          "bank": [
+            "Il",
+            "conduit",
+            "tellement",
+            "prudemment",
+            "que",
+            "tout",
+            "le",
+            "monde",
+            "le",
+            "félicite.",
+            "trop",
+            "tant",
+            "tellement de",
+            "félicitent"
+          ],
+          "translation": "他开车如此谨慎，以至于大家都称赞他。",
+          "explain": "tellement 修饰副词 prudemment，放在副词前；que 引出结果从句。si 也可修饰副词，但题目要求 tellement；tout le monde 作主语时动词用单数 félicite。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q25",
+          "type": "letters",
+          "prompt": "Complétez : « Je te donne la recette pour que tu ___ ce gâteau toi-même. » (faire)",
+          "answer": "fasses",
+          "decoys": [
+            "s",
+            "t",
+            "e",
+            "a"
+          ],
+          "translation": "我把食谱给你，好让你自己做这个蛋糕。",
+          "explain": "pour que 后接虚拟式；faire 的虚拟式现在时 tu 形式为 fasses（双写 s），不能写直陈式的 fais。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q26",
+          "type": "choice",
+          "prompt": "Complétez : « Elle a trouvé un stage ___ son professeur. »",
+          "options": [
+            "grâce à",
+            "à cause de",
+            "parce que",
+            "pour que"
+          ],
+          "answer": 0,
+          "translation": "多亏她的老师，她找到了实习。",
+          "explain": "找到实习是积极结果，原因被视为有利，用 grâce à。à cause de 多带消极色彩；parce que 后接完整从句；pour que 表目的并接虚拟式，都不能直接接名词短语。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q27",
+          "type": "tiles",
+          "prompt": "Composez une phrase avec « comme » : il / pleuvoir / nous / rester / à la maison",
+          "answer": [
+            "Comme",
+            "il",
+            "pleuvait",
+            "nous",
+            "sommes",
+            "restés",
+            "à",
+            "la",
+            "maison."
+          ],
+          "bank": [
+            "Comme",
+            "il",
+            "pleuvait",
+            "nous",
+            "sommes",
+            "restés",
+            "à",
+            "la",
+            "maison.",
+            "parce que",
+            "puisque",
+            "car",
+            "restons"
+          ],
+          "translation": "因为下雨，我们待在家里。",
+          "explain": "comme 作原因连词时从句常放句首，用逗号与主句隔开；il pleuvait 是未完成过去时，描述当时背景，主句用复合过去时。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q28",
+          "type": "choice",
+          "prompt": "Complétez : « S'il est parti si tôt, c'est ___ il devait prendre un train. »",
+          "options": [
+            "car",
+            "parce que",
+            "puisque",
+            "pour que"
+          ],
+          "answer": 1,
+          "translation": "如果他这么早走，那是因为他要赶火车。",
+          "explain": "在 c'est 后引出原因用 parce que（c'est parce que...）；car 不能紧跟在 c'est 后，puisque 也不行；pour que 表目的，且要求虚拟式。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q29",
+          "type": "tiles",
+          "prompt": "Composez une phrase avec « si... que » : le film / être / long / nous / partir / avant la fin",
+          "answer": [
+            "Le",
+            "film",
+            "était",
+            "si",
+            "long",
+            "que",
+            "nous",
+            "sommes",
+            "partis",
+            "avant",
+            "la",
+            "fin."
+          ],
+          "bank": [
+            "Le",
+            "film",
+            "était",
+            "si",
+            "long",
+            "que",
+            "nous",
+            "sommes",
+            "partis",
+            "avant",
+            "la",
+            "fin.",
+            "trop",
+            "tant",
+            "longtemps",
+            "partons"
+          ],
+          "translation": "电影太长，我们没看完就走了。",
+          "explain": "long 是形容词，用 si + 形容词 + que 引出结果；从句用复合过去时表示已完成的动作。tellement 也可修饰形容词，但题目要求 si；tant 修饰动词，tant de 后接名词。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q30",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Je travaille pour que je réussis.",
+            "Je travaille pour que réussir.",
+            "Je travaille pour réussir.",
+            "Je travaille pour réussir que."
+          ],
+          "answer": 2,
+          "translation": "我努力工作是为了成功。",
+          "explain": "主句主语 je 与 réussir 的主语相同，最自然的是 pour + 不定式。pour que 后必须用虚拟式，pour que je réussis 是直陈式，不成立；同主语时也更自然用 pour + 不定式，避免重复主语。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q31",
+          "type": "tiles",
+          "prompt": "Composez une phrase avec « parce que » et « donc » : il / être / absent / malade / nous / annuler / la réunion",
+          "answer": [
+            "Il",
+            "est",
+            "absent",
+            "parce",
+            "qu'il",
+            "est",
+            "malade,",
+            "donc",
+            "nous",
+            "annulons",
+            "la",
+            "réunion."
+          ],
+          "bank": [
+            "Il",
+            "est",
+            "absent",
+            "parce",
+            "qu'il",
+            "est",
+            "malade,",
+            "donc",
+            "nous",
+            "annulons",
+            "la",
+            "réunion.",
+            "car",
+            "à cause de",
+            "pour que",
+            "annuler"
+          ],
+          "translation": "他因病缺席，所以我们取消会议。",
+          "explain": "parce que 引出原因，donc 引出结果；两个连接词方向相反。malade 后的逗号把结果分句分开；donc 可放在主语 nous 前，也可插在变位动词前作 nous annulons donc，两种语序都成立。",
+          "alternatives": [
+            [
+              "Il",
+              "est",
+              "absent",
+              "parce",
+              "qu'il",
+              "est",
+              "malade,",
+              "nous",
+              "annulons",
+              "donc",
+              "la",
+              "réunion."
+            ]
+          ]
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q32",
+          "type": "choice",
+          "prompt": "Complétez : « Il a ___ mangé qu'il ne peut plus bouger. »",
+          "options": [
+            "tant de",
+            "si",
+            "tellement de",
+            "tant"
+          ],
+          "answer": 3,
+          "translation": "他吃了那么多，以至于动不了了。",
+          "explain": "mangé 是过去分词，前面是助动词 a；修饰动词用 tant，不能加 de。tant 在复合时态中放在助动词与过去分词之间。tant de / tellement de 后接名词，si 修饰形容词或副词。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q33",
+          "type": "choice",
+          "prompt": "Transformez en une seule phrase avec « car » : « Elle est restée à la maison. Elle était malade. »",
+          "options": [
+            "Car elle était malade, elle est restée à la maison.",
+            "Elle est restée à la maison parce qu'elle était malade.",
+            "Elle est restée à la maison car elle était malade.",
+            "Elle est restée car à la maison elle était malade."
+          ],
+          "answer": 2,
+          "translation": "她待在家里，因为她病了。",
+          "explain": "car 是并列连词，引出后置的原因说明：先给结果 elle est restée à la maison，再用 car 接完整分句 elle était malade。它通常不像 parce que 那样放在主句前；第一项把 car 前置，第二项用了 parce que，不符合题目要求的 car，第四项语序混乱。第三项才是标准结构。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q34",
+          "type": "choice",
+          "prompt": "Complétez : « ___ l'orage, les enfants sont rentrés ___ leurs parapluies : ils les avaient oubliés à l'école. »",
+          "options": [
+            "À cause de / sans",
+            "Grâce à / avec",
+            "Parce que / sans",
+            "À cause de / avec"
+          ],
+          "answer": 0,
+          "translation": "因为暴风雨，孩子们没带伞就回家了：他们把伞忘在学校了。",
+          "explain": "暴风雨是不利原因，用 à cause de + 名词 l'orage；后文说伞忘在学校，说明孩子们「没有带」伞，用 sans + 名词 leurs parapluies。grâce à 引积极原因；parce que 后必须接完整从句，不能直接接名词；avec 与「伞忘在学校」矛盾。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q35",
+          "type": "choice",
+          "prompt": "Que exprime « c'est pourquoi » dans « Le musée était fermé, c'est pourquoi nous sommes revenus le lendemain » ?",
+          "options": [
+            "une cause",
+            "une conséquence",
+            "un but",
+            "une concession"
+          ],
+          "answer": 1,
+          "translation": "博物馆关门了，所以我们第二天又来了。",
+          "explain": "c'est pourquoi 引出前句造成的结果，相当于「这就是为什么」，后接完整分句。它和 donc 一样表结果，但语体更书面。parce que 表原因，pour que 表目的，bien que 表让步，方向都不同。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q36",
+          "type": "choice",
+          "prompt": "Complétez : « Je te donne l'adresse pour que tu ___ chez elle. » (aller)",
+          "options": [
+            "vas",
+            "iras",
+            "ailles",
+            "allais"
+          ],
+          "answer": 2,
+          "translation": "我把地址给你，好让你去她家。",
+          "explain": "pour que 后必须用虚拟式；aller 的虚拟式现在时 tu 形式为 ailles。vas 是直陈式现在时，iras 是简单将来时，allais 是未完成过去时，都不能用在 pour que 后。这里 ailles 与直陈式 vas 形式不同，能直接检验语气选择。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q37",
+          "type": "tiles",
+          "prompt": "Composez une phrase avec « à cause de » et « sans » : les passagers / voyager / sans / leurs valises / à cause de / la grève",
+          "answer": [
+            "Les",
+            "passagers",
+            "ont",
+            "voyagé",
+            "sans",
+            "leurs",
+            "valises",
+            "à",
+            "cause",
+            "de",
+            "la",
+            "grève."
+          ],
+          "bank": [
+            "Les",
+            "passagers",
+            "ont",
+            "voyagé",
+            "sans",
+            "leurs",
+            "valises",
+            "à",
+            "cause",
+            "de",
+            "la",
+            "grève.",
+            "grâce",
+            "du",
+            "avec",
+            "voyagent",
+            "ses"
+          ],
+          "translation": "由于罢工，乘客们没带行李就出行了。",
+          "explain": "la grève 是不利原因，用 à cause de + 名词；de + la 保持不变。乘客没有行李，用 sans + 名词 leurs valises；sans 后不能接完整从句。grâce à 引积极原因，avec 与「没带行李」矛盾。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l3-q38",
+          "type": "tiles",
+          "prompt": "Transformez avec « en » et « donc » : Elle voulait faire un gâteau. Elle n'avait plus de sucre. (elle / emprunter / du sucre / à sa voisine)",
+          "answer": [
+            "Elle",
+            "voulait",
+            "faire",
+            "un",
+            "gâteau.",
+            "Elle",
+            "n'en",
+            "avait",
+            "plus,",
+            "donc",
+            "elle",
+            "en",
+            "a",
+            "emprunté",
+            "à",
+            "sa",
+            "voisine."
+          ],
+          "bank": [
+            "Elle",
+            "voulait",
+            "faire",
+            "un",
+            "gâteau.",
+            "Elle",
+            "n'en",
+            "avait",
+            "plus,",
+            "donc",
+            "elle",
+            "en",
+            "a",
+            "emprunté",
+            "à",
+            "sa",
+            "voisine.",
+            "le",
+            "la",
+            "y",
+            "a acheté",
+            "achetait",
+            "mais",
+            "car",
+            "du",
+            "beaucoup"
+          ],
+          "translation": "她想做蛋糕。她没有糖了，所以向邻居借了一些。",
+          "explain": "en 替代 du sucre（部分冠词 + 名词），避免重复；n'en avait plus 中 en 指糖。donc 引出结果，放在结果分句 elle en a emprunté 前；第二个 en 仍回指 du sucre。le/la 不能替代 du sucre，y 只指地点；car 表原因，与「所以」方向相反。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c20-complex-sentences-l4",
+      "title": "让步与对照",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c20-complex-sentences-l4-q1",
+          "type": "choice",
+          "prompt": "Complétez : « ___ il soit très occupé, il répond toujours aux messages de ses étudiants. »",
+          "options": [
+            "Parce qu'",
+            "Puisqu'",
+            "Bien qu'",
+            "Pour qu'"
+          ],
+          "answer": 2,
+          "translation": "虽然他非常忙，他总是回复学生的信息。",
+          "explain": "主句「仍然回复」与「非常忙」构成让步，用 bien que + 虚拟式；soit 是 être 的虚拟式现在时。parce que / puisque 引出原因，用直陈式；pour que 表目的，语义不符。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l4-q2",
+          "type": "tiles",
+          "prompt": "Transformez avec « bien que » : Il est fatigué. Il continue à travailler.",
+          "answer": [
+            "Bien",
+            "qu'il",
+            "soit",
+            "fatigué,",
+            "il",
+            "continue",
+            "à",
+            "travailler."
+          ],
+          "bank": [
+            "Bien",
+            "qu'il",
+            "soit",
+            "fatigué,",
+            "il",
+            "continue",
+            "à",
+            "travailler.",
+            "est",
+            "fatigue",
+            "mais",
+            "pourtant",
+            "continue"
+          ],
+          "translation": "虽然他累了，他仍继续工作。",
+          "explain": "bien que 引导让步从句，从句用虚拟式：il est → qu'il soit。主句用直陈式。bien que 在 il 前省音为 bien qu'il。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l4-q3",
+          "type": "letters",
+          "prompt": "Complétez : « Bien que nous ___ très fatigués, nous finissons le travail. » (être)",
+          "answer": "soyons",
+          "decoys": [
+            "s",
+            "t",
+            "e",
+            "i"
+          ],
+          "translation": "虽然我们很累，我们还是把工作做完。",
+          "explain": "bien que 要求虚拟式；être 的虚拟式现在时 nous 形式为 soyons，不能写直陈式的 sommes。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l4-q4",
+          "type": "tiles",
+          "prompt": "Transformez avec « bien que » au passé : Elle est arrivée en retard. Elle a pu entrer.",
+          "answer": [
+            "Bien",
+            "qu'elle",
+            "soit",
+            "arrivée",
+            "en",
+            "retard,",
+            "elle",
+            "a",
+            "pu",
+            "entrer."
+          ],
+          "bank": [
+            "Bien",
+            "qu'elle",
+            "soit",
+            "arrivée",
+            "en",
+            "retard,",
+            "elle",
+            "a",
+            "pu",
+            "entrer.",
+            "est",
+            "arrivé",
+            "a été",
+            "puisse"
+          ],
+          "translation": "虽然她迟到了，她还是进去了。",
+          "explain": "让步动作「到达」先于主句「能进去」并已完成，用虚拟式过去时：soit + arrivée。以 être 为助动词，过去分词与主语 elle 配合，用 arrivée；不能写 bien qu'elle est arrivée（直陈式）或 soit arrivé（缺配合）。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l4-q5",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Bien qu'elle ait fini, elle reste au bureau.",
+            "Bien qu'elle a fini, elle reste au bureau.",
+            "Bien qu'elle ait finie, elle reste au bureau.",
+            "Bien qu'elle soit fini, elle reste au bureau."
+          ],
+          "answer": 0,
+          "translation": "虽然她完成了工作，她仍留在办公室。",
+          "explain": "finir 以 avoir 为助动词，虚拟式过去时为 ait fini；过去分词 fini 不与主语 elle 配合。a fini 是直陈式；ait finie 错在配合；soit fini 错在助动词。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l4-q6",
+          "type": "choice",
+          "prompt": "Quelle phrase combine correctement les deux idées avec « mais » ? « Le chemin est court. Il est difficile. »",
+          "options": [
+            "Le chemin est court, mais d'être difficile.",
+            "Le chemin est court, mais il est difficile.",
+            "Le chemin est court, il est mais difficile.",
+            "Le chemin est court, mais difficile est-il."
+          ],
+          "answer": 1,
+          "translation": "路很短，但很难走。",
+          "explain": "mais 连接两个意义相对的分句，放在它们之间，后面接完整分句 il est difficile。它不能直接接不定式，也不能像副词一样插在分句内部。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l4-q7",
+          "type": "tiles",
+          "prompt": "Transformez avec « mais » : Elle voulait sortir. Il pleuvait.",
+          "answer": [
+            "Elle",
+            "voulait",
+            "sortir,",
+            "mais",
+            "il",
+            "pleuvait."
+          ],
+          "bank": [
+            "Elle",
+            "voulait",
+            "sortir,",
+            "mais",
+            "il",
+            "pleuvait.",
+            "et",
+            "donc",
+            "sortie",
+            "pleuvoir"
+          ],
+          "translation": "她想出去，但当时在下雨。",
+          "explain": "两个分句意义相对，用 mais 连接；mais 位于两个分句之间，后面用直陈式。et 只是追加，donc 表结果，都不符合前后意义相对的关系。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l4-q8",
+          "type": "choice",
+          "prompt": "Choisissez la phrase qui exprime un vrai contraste.",
+          "options": [
+            "Elle parle français et allemand.",
+            "Elle parle français, mais elle ne parle pas allemand.",
+            "Elle parle français, donc elle parle allemand.",
+            "Elle parle français parce qu'elle parle allemand."
+          ],
+          "answer": 1,
+          "translation": "她说法语，但不会说德语。",
+          "explain": "第二句前后意义相对（会法语但不会德语），是转折。第一句只是追加；第三句是结果；第四句是原因，而且语义不合逻辑。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l4-q9",
+          "type": "tiles",
+          "prompt": "Transformez avec « mais » et le pronom « en » : Il voulait encore du café. Il n'y avait plus de café.",
+          "answer": [
+            "Il",
+            "voulait",
+            "encore",
+            "du",
+            "café,",
+            "mais",
+            "il",
+            "n'y",
+            "en",
+            "avait",
+            "plus."
+          ],
+          "bank": [
+            "Il",
+            "voulait",
+            "encore",
+            "du",
+            "café,",
+            "mais",
+            "il",
+            "n'y",
+            "en",
+            "avait",
+            "plus.",
+            "le",
+            "la",
+            "y",
+            "beaucoup"
+          ],
+          "translation": "他还想再喝点咖啡，但那里已经没有咖啡了。",
+          "explain": "mais 连接两个相对分句；en 替代 du café（部分冠词 + 名词），避免重复。n'y en avait plus 中 y 指地点，en 是部分冠词代词；le/la 不能替代 du café。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l4-q10",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Bien qu'il est malade, il travaille.",
+            "Bien qu'il soit malade, mais il travaille.",
+            "Bien qu'il soit malade, il travaille mais.",
+            "Bien qu'il soit malade, il travaille."
+          ],
+          "answer": 3,
+          "translation": "虽然他病了，他仍工作。",
+          "explain": "bien que 后接虚拟式 soit；主句不能再加 mais，否则同一让步关系重复表达。最后一句结构完整，主句用直陈式。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l4-q11",
+          "type": "tiles",
+          "prompt": "Transformez avec « mais » et le pronom « en » : Elle cherchait des timbres. Elle n'avait plus de timbres. Elle a trouvé des timbres au bureau de poste.",
+          "answer": [
+            "Elle",
+            "cherchait",
+            "des",
+            "timbres.",
+            "Elle",
+            "n'en",
+            "avait",
+            "plus,",
+            "mais",
+            "elle",
+            "en",
+            "a",
+            "trouvé",
+            "au",
+            "bureau",
+            "de",
+            "poste."
+          ],
+          "bank": [
+            "Elle",
+            "cherchait",
+            "des",
+            "timbres.",
+            "Elle",
+            "n'en",
+            "avait",
+            "plus,",
+            "mais",
+            "elle",
+            "en",
+            "a",
+            "trouvé",
+            "au",
+            "bureau",
+            "de",
+            "poste.",
+            "les",
+            "le",
+            "y",
+            "a cherché",
+            "trouvait",
+            "du",
+            "car"
+          ],
+          "translation": "她当时在找邮票。她的邮票用完了，不过她在邮局买到了一些。",
+          "explain": "mais 连接两个相对分句；en 替代 de + 名词（des timbres），避免重复。n'en avait plus 中 en 是部分冠词代词；elle en a trouvé 中 en 同样回指 des timbres。le/les 不能替代由部分冠词或 de + 名词表示的数量；y 指地点，不指物。两个 en 分别放在助动词 avait 和 a 前。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l4-q12",
+          "type": "tiles",
+          "prompt": "Transformez avec « en » et « donc » : Il voulait encore du café. Il n'y avait plus de café. Il est sorti acheter du café.",
+          "answer": [
+            "Il",
+            "voulait",
+            "encore",
+            "du",
+            "café.",
+            "Il",
+            "n'y",
+            "en",
+            "avait",
+            "plus,",
+            "donc",
+            "il",
+            "est",
+            "sorti",
+            "en",
+            "acheter."
+          ],
+          "bank": [
+            "Il",
+            "voulait",
+            "encore",
+            "du",
+            "café.",
+            "Il",
+            "n'y",
+            "en",
+            "avait",
+            "plus,",
+            "donc",
+            "il",
+            "est",
+            "sorti",
+            "en",
+            "acheter.",
+            "le",
+            "la",
+            "y",
+            "a acheté",
+            "achetait",
+            "mais",
+            "car",
+            "beaucoup"
+          ],
+          "translation": "他还想喝咖啡。可是已经没有咖啡了，所以他出去买了一些。",
+          "explain": "en 替代 du café（部分冠词 + 名词），避免重复；n'y en avait plus 中 y 指当时所在的地方，en 指咖啡。donc 引出结果，放在结果分句 il est sorti 前；en acheter 中的 en 仍回指 du café。le/la 不能替代 du café；y 只指地点，不能单独替代咖啡。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c20-complex-sentences-l5",
+      "title": "sans 结构与时间虚拟式",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c20-complex-sentences-l5-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Je te prêterai ce roman avant que tu ___ en vacances. » (partir)",
+          "options": [
+            "pars",
+            "partes",
+            "partiras",
+            "partais"
+          ],
+          "answer": 1,
+          "translation": "我会在你出发度假前把这部小说借给你。",
+          "explain": "avant que 引出指向未来、尚未实现的时间界限，从句要用虚拟式。partir 的 tu 形式为 partes；pars 是直陈式现在时或命令式，partiras 是简单将来时，partais 是未完成过去时，都不能用在 avant que 后。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l5-q2",
+          "type": "letters",
+          "prompt": "Complétez : « Nous resterons ici jusqu'à ce que le médecin ___ . » (revenir)",
+          "answer": "revienne",
+          "decoys": [
+            "s",
+            "t",
+            "a",
+            "i"
+          ],
+          "translation": "我们会留在这里直到医生回来。",
+          "explain": "jusqu'à ce que 指向尚未实现的时间界限，从句用虚拟式。revenir 的虚拟式现在时词干为 revienn-：que je revienne, que tu reviennes, qu'il revienne；主语 le médecin 是第三人称单数，用 revienne。不要按直陈式 revient 写。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l5-q3",
+          "type": "choice",
+          "prompt": "Complétez : « Dépêche-toi, avant qu'il ___ trop tard. » (être)",
+          "options": [
+            "n'est",
+            "ne sera",
+            "ne soit",
+            "ne fasse"
+          ],
+          "answer": 2,
+          "translation": "快点，趁时间还不太晚。",
+          "explain": "avant que 后要用虚拟式；être 的第三人称单数虚拟式为 soit。这里 ne 是赘词 ne，不表示否定，只让书面表达更正式，所以 ne soit 正确，句意不是「在它不晚之前」。n'est 是直陈式，ne sera 是将来时，ne fasse 是 faire 的虚拟式，都不是 être 的形式。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l5-q4",
+          "type": "tiles",
+          "prompt": "Réunissez les deux phrases avec sans : « Nous avons continué. Nous n'avons pas attendu. » → ___",
+          "answer": [
+            "Nous",
+            "avons",
+            "continué",
+            "sans",
+            "attendre."
+          ],
+          "bank": [
+            "Nous",
+            "avons",
+            "continué",
+            "sans",
+            "attendre.",
+            "n'avons",
+            "pas",
+            "attendu",
+            "ne",
+            "que",
+            "attendant"
+          ],
+          "translation": "我们没有等就继续了。",
+          "explain": "两个动作的主语都是 nous，可以把否定从句压成 sans + 不定式。sans 本身已含否定意义，所以去掉 ne...pas，写成 sans attendre；不能写 *sans ne pas attendre，也不能用现在分词 attendant。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l5-q5",
+          "type": "choice",
+          "prompt": "Transformez : « Elle est sortie. Elle n'a pas éteint la lumière. » → « Elle est sortie sans ___ la lumière. » (éteindre)",
+          "options": [
+            "éteint",
+            "ne pas éteindre",
+            "qu'elle éteigne",
+            "éteindre"
+          ],
+          "answer": 3,
+          "translation": "她出去时没有关灯。",
+          "explain": "两个动作的主语都是 elle，用 sans + 不定式合并；sans 已含否定意义，不能再保留 ne pas。éteindre 是不定式；éteint 是过去分词，ne pas éteindre 保留了否定词，qu'elle éteigne 是虚拟式从句，都不符合 sans 的结构。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l5-q6",
+          "type": "choice",
+          "prompt": "Complétez : « Je vais préparer le dîner avant ___ . » / « Je vais préparer le dîner avant que tu ___ . » (partir / arriver)",
+          "options": [
+            "de partir / arrives",
+            "pour partir / arrives",
+            "de partir / arriveras",
+            "à partir / arrives"
+          ],
+          "answer": 0,
+          "translation": "我打算在出发前准备晚饭。／我打算在你到达前准备晚饭。",
+          "explain": "第一句两个动作的主语都是 je，用 avant de + 不定式；不能用 pour 或 à。第二句从句主语 tu 与主句主语 je 不同，用 avant que + 虚拟式；arriver 的 tu 形式为 arrives，arriveras 是简单将来时。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-l5-q7",
+          "type": "tiles",
+          "prompt": "Composez une phrase : Il / faut / attendre / jusqu'à ce que / la pluie / s'arrêter.",
+          "answer": [
+            "Il",
+            "faut",
+            "attendre",
+            "jusqu'à",
+            "ce que",
+            "la",
+            "pluie",
+            "s'arrête."
+          ],
+          "bank": [
+            "Il",
+            "faut",
+            "attendre",
+            "jusqu'à",
+            "ce que",
+            "la",
+            "pluie",
+            "s'arrête.",
+            "s'arrêter",
+            "s'arrêtait",
+            "arrête",
+            "qu'il",
+            "ne"
+          ],
+          "translation": "必须等到雨停。",
+          "explain": "jusqu'à ce que 指向尚未实现的界限，从句用虚拟式。s'arrêter 的第三人称单数虚拟式为 s'arrête；s'arrêter 是不定式，s'arrêtait 是未完成过去时。jusqu'à ce que 分成 jusqu'à 和 ce que 两个词块，不能写成 jusqu'à que。"
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "pub-c20-complex-sentences-x1",
+      "title": "时间与逻辑综合",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c20-complex-sentences-x1-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Ce matin-là, il a manqué son train parce qu'il ___ trop tard la veille et qu'il ___ de mettre son réveil. » (se coucher / oublier)",
+          "options": [
+            "s'est couché / a oublié",
+            "se couchait / oubliait",
+            "s'était couché / avait oublié",
+            "s'était couché / oubliait"
+          ],
+          "answer": 2,
+          "translation": "那天早上，他错过了火车，因为他前一天睡得太晚，而且忘了定闹钟。",
+          "explain": "parce que 引出原因；同一主句并列两个原因时，第二个原因重复 que。两个动作都先于「错过火车」完成，也就是具有先时性（从句动作先于主句参照点完成），主句又是过去时，所以用愈过去时（助动词的未完成过去时加过去分词）：s'était couché、avait oublié。s'est couché / a oublié 是复合过去时，未体现先时性；se couchait / oubliait 是未完成过去时（表示过去持续或习惯的时态）；s'était couché / oubliait 时态不一致。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x1-q2",
+          "type": "choice",
+          "prompt": "Complétez : « Bien qu'elle ___ son travail avant midi, elle est restée au bureau pendant que ses collègues ___ le rapport. » (finir / terminer)",
+          "options": [
+            "avait fini / terminaient",
+            "ait fini / ont terminé",
+            "a fini / terminaient",
+            "ait fini / terminaient"
+          ],
+          "answer": 3,
+          "translation": "尽管她在中午前就完成了工作，她还是在办公室待着，而同事们则在完成报告。",
+          "explain": "bien que 引导让步从句（表示「虽然、尽管」），必须用虚拟式；工作完成先于主句的过去参照点，用虚拟式过去时（助动词的虚拟式现在时加过去分词）ait fini。pendant que 表示同时持续；主句是过去时，从句用未完成过去时 terminaient。avait fini / a fini 是直陈式，ont terminé 是复合过去时，都不能表示当时正在持续的动作。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x1-q3",
+          "type": "choice",
+          "prompt": "Complétez : « Comme il ___ déjà dîné dans ce restaurant, il a proposé une autre adresse, mais ses amis ___ y aller quand même. » (dîner / vouloir)",
+          "options": [
+            "a déjà dîné / veulent",
+            "dînait déjà / voulaient",
+            "avait déjà dîné / ont voulu",
+            "avait déjà dîné / voulaient"
+          ],
+          "answer": 3,
+          "translation": "因为他已经在这家餐厅吃过饭，他提议换个地方，但朋友们还是想去那里。",
+          "explain": "comme 引出双方已知或显而易见的原因，从句常放在主句前；dîner 发生在提议之前，用愈过去时 avait déjà dîné。mais 引出转折；朋友们的意愿与主句同时，是过去持续的状态，用未完成过去时 voulaient。a déjà dîné 是复合过去时，未体现先时性；veulent 是现在时；dînait 表示过去正在吃或习惯；ont voulu 是复合过去时，强调一次完成的动作。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x1-q4",
+          "type": "tiles",
+          "prompt": "Composez une phrase au passé : Elle / avoir / oublier / son / parapluie, / donc / elle / être / rentrer / trempé.",
+          "answer": [
+            "Elle",
+            "avait",
+            "oublié",
+            "son",
+            "parapluie,",
+            "donc",
+            "elle",
+            "est",
+            "rentrée",
+            "trempée."
+          ],
+          "bank": [
+            "Elle",
+            "avait",
+            "oublié",
+            "son",
+            "parapluie,",
+            "donc",
+            "elle",
+            "est",
+            "rentrée",
+            "trempée.",
+            "a",
+            "oubliait",
+            "rentre",
+            "trempé",
+            "mais",
+            "parapluies"
+          ],
+          "translation": "她忘了带伞，所以回来时全身湿透了。",
+          "explain": "donc 引出结果；oublier 先于 rentrer，用愈过去时 avait oublié；rentrer 以 être 为助动词，复合过去时 est rentrée，过去分词与 elle 配合；形容词 trempée 也与 elle 配合。a oublié 是复合过去时，未体现先时性；rentre 是现在时；trempé 未与阴性主语配合。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x1-q5",
+          "type": "choice",
+          "prompt": "Complétez : « Elle avait préparé un dossier pour que nous ___ toutes les informations, mais le directeur ___ déjà la réunion. » (avoir / annuler)",
+          "options": [
+            "avons / avait annulé",
+            "ayons / a annulé",
+            "ayons / avait annulé",
+            "aurons / annulait"
+          ],
+          "answer": 2,
+          "translation": "她准备了一份材料，以便我们掌握所有信息，但经理已经取消了会议。",
+          "explain": "pour que 引导目的从句，主语不同（elle / nous），要用虚拟式；avoir 的 nous 虚拟式现在时为 ayons。mais 引出转折；取消会议发生在「准备材料」这一过去参照点之前，用愈过去时 avait annulé。avons 是直陈式；a annulé 是复合过去时，未体现先时性；aurons 是将来时；annulait 是未完成过去时。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x1-q6",
+          "type": "choice",
+          "prompt": "Complétez : « Il avait si peu dormi qu'il ___ au volant, et il ___ l'accident de justesse. » (s'endormir / éviter)",
+          "options": [
+            "s'endormait / évitait",
+            "s'est endormi / a évité",
+            "s'endorme / évite",
+            "s'était endormi / avait évité"
+          ],
+          "answer": 1,
+          "translation": "他睡得那么少，以至于开车时睡着了，不过他侥幸避开了事故。",
+          "explain": "si + 副词（peu）+ que 引出程度结果；结果用直陈式。s'endormir 是过去的一次性动作，用复合过去时 s'est endormi；éviter 也是过去的一次性动作，用复合过去时 a évité。s'endormait / évitait 是未完成过去时，表示持续或习惯；s'endorme / évite 是虚拟式；s'était endormi / avait évité 是愈过去时，表示更早完成，与这里的连续事件不符。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x1-q7",
+          "type": "choice",
+          "prompt": "Complétez : « Quand tu ___ ton travail, tu pourras sortir ou ___ à la maison. » (finir / rester)",
+          "options": [
+            "as fini / rester",
+            "auras fini / restes",
+            "finiras / rester",
+            "auras fini / rester"
+          ],
+          "answer": 3,
+          "translation": "你完成工作后，可以出去，也可以待在家里。",
+          "explain": "quand 引出时间从句；主句用简单将来时 pourras，从句动作先于主句完成，要用先将来时（简单将来时的助动词加过去分词）auras fini。ou 连接两个并列选择，sortir 和 rester 都是 tu pourras 后面的不定式。as fini 是复合过去时，finiras 是简单将来时，restes 是变位形式，不能与 sortir 并列。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x1-q8",
+          "type": "letters",
+          "prompt": "Complétez : « Puisque tu ___ déjà vu ce film, tu peux nous raconter la fin. » (avoir)",
+          "answer": "as",
+          "decoys": [
+            "i",
+            "e",
+            "a",
+            "v"
+          ],
+          "translation": "既然你已经看过这部电影，你可以给我们讲讲结局。",
+          "explain": "puisque 引出说话双方已经知道的原因，从句用直陈式。主句是现在时，从句动作先于现在完成，用复合过去时；avoir 的 tu 形式为 as。不能用虚拟式 aies，也不能用过去参照的 avais。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x1-q9",
+          "type": "choice",
+          "prompt": "Complétez : « La route était bloquée ___ la neige, donc nous ___ à pied. » (devoir partir)",
+          "options": [
+            "grâce à / avons dû partir",
+            "à cause de / devrons partir",
+            "à cause de / avons dû partir",
+            "à cause / avons dû partir"
+          ],
+          "answer": 2,
+          "translation": "因为下雪，道路被堵住了，所以我们不得不步行出发。",
+          "explain": "à cause de 引出消极原因，后接名词 la neige；不能省略 de，也不能用表积极原因的 grâce à。donc 引出结果；出发是过去一次完成的必要动作，用复合过去时 avons dû partir，devrons 是将来时。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x1-q10",
+          "type": "tiles",
+          "prompt": "Composez une phrase au passé : à cette époque / je / prendre le bus / ou / aller à pied.",
+          "answer": [
+            "À",
+            "cette",
+            "époque,",
+            "je",
+            "prenais",
+            "le",
+            "bus",
+            "ou",
+            "j'allais",
+            "à",
+            "pied."
+          ],
+          "bank": [
+            "À",
+            "cette",
+            "époque,",
+            "je",
+            "prenais",
+            "le",
+            "bus",
+            "ou",
+            "j'allais",
+            "à",
+            "pied.",
+            "prends",
+            "prendrai",
+            "et",
+            "vais",
+            "en",
+            "voiture"
+          ],
+          "translation": "那时候，我坐公交车或者步行。",
+          "explain": "ou 连接两个并列选择：prendre le bus 和 aller à pied。主句用未完成过去时（表示过去持续或习惯的时态）prenais，第二个选择也用未完成过去时 j'allais，与「à cette époque」的过去习惯框架一致。prends 是现在时，prendrai 是将来时，et 表示追加而不是选择。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x1-q11",
+          "type": "choice",
+          "prompt": "Complétez : « Après ___ son rapport, elle est partie, mais elle ___ son portable sur le bureau. » (finir / laisser)",
+          "options": [
+            "être finie / a laissé",
+            "avoir fini / a laissé",
+            "avoir fini / laissait",
+            "finir / a laissé"
+          ],
+          "answer": 1,
+          "translation": "写完报告后，她离开了，但她把手机落在了办公桌上。",
+          "explain": "après 后接不定式过去时（avoir 或 être 的不定式加过去分词）表示先完成的动作；finir 以 avoir 为助动词，且与主句主语 elle 相同，所以用 après avoir fini。mais 引出转折；laisser 是过去一次完成的动作，用复合过去时 a laissé。être finie 误用了 être 和配合；laissait 是未完成过去时，表示持续或习惯；finir 是现在不定式，不能表示先完成。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x1-q12",
+          "type": "letters",
+          "prompt": "Complétez : « Il n'est pas venu à la réunion, car il s'___ blessé la veille. » (se blesser)",
+          "answer": "était",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "e",
+            "s",
+            "t",
+            "a"
+          ],
+          "translation": "他没来开会，因为前一天受伤了。",
+          "explain": "car 引出后置原因，结构是结果在前、原因在后。la veille 表明受伤发生在开会之前，要用愈过去时；se blesser 以 être 为助动词，il 的形式为 s'était blessé。s'est blessé 是复合过去时，未体现先于开会的先后关系；s'a blessé 则助动词用错。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c20-complex-sentences-x2",
+      "title": "语气与时态综合",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c20-complex-sentences-x2-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Nous devons ranger la salle avant ___ , mais le gardien attendra que tout le monde ___ . » (partir / sortir)",
+          "options": [
+            "pour partir / est sorti",
+            "de partir / sortira",
+            "de partir / soit sorti",
+            "à partir / soit sorti"
+          ],
+          "answer": 2,
+          "translation": "我们必须在离开前把房间收拾好，但门卫会等到所有人都出去。",
+          "explain": "第一句主句主语 nous 与 partir 的主语相同，用 avant de + 不定式；不能用 pour 或 à。第二句 attendre que 引出等待的界限，从句用虚拟式；sortir 以 être 为助动词，这里表示「已经出去」，用虚拟式过去时 soit sorti，并与 tout le monde（第三人称单数）配合。est sorti 是直陈式，sortira 是将来时，都不能用在 attendre que 后。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x2-q2",
+          "type": "tiles",
+          "prompt": "Composez une phrase : il / entrer / sans / frapper, / donc / personne / ne / l' / avoir / entendu.",
+          "answer": [
+            "Il",
+            "est",
+            "entré",
+            "sans",
+            "frapper,",
+            "donc",
+            "personne",
+            "ne",
+            "l'a",
+            "entendu."
+          ],
+          "bank": [
+            "Il",
+            "est",
+            "entré",
+            "sans",
+            "frapper,",
+            "donc",
+            "personne",
+            "ne",
+            "l'a",
+            "entendu.",
+            "frappé",
+            "frappe",
+            "sans que",
+            "a",
+            "entendait",
+            "mais",
+            "qu'il"
+          ],
+          "translation": "他进来时没有敲门，所以没有人听见他。",
+          "explain": "主句和 sans 后的动作主语都是 il，用 sans + 不定式 frapper；sans 已含否定意义，不能再加 ne...pas。donc 引出结果；personne 作主语时与 ne 连用，复合过去时用 l'a entendu。frapper 是不定式，frappé 是过去分词，sans que 会改变结构，都不符合这里的主语一致条件。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x2-q3",
+          "type": "choice",
+          "prompt": "Complétez : « Bien que la route ___ , il est parti tôt, mais il est arrivé en retard ___ la neige. » (être dangereuse)",
+          "options": [
+            "soit dangereuse / à cause de",
+            "est dangereuse / à cause de",
+            "soit dangereuse / grâce à",
+            "était dangereuse / à cause"
+          ],
+          "answer": 0,
+          "translation": "尽管道路很危险，他还是早早出发了，但因为下雪，他迟到了。",
+          "explain": "bien que 引导让步从句，用虚拟式；être 的第三人称单数为 soit，dangereuse 与 la route 配合。mais 引出转折；à cause de 引出消极原因，后接名词 la neige，不能省略 de，也不能用表积极原因的 grâce à。est / était 是直陈式；à cause 缺少 de。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x2-q4",
+          "type": "choice",
+          "prompt": "Complétez de façon idiomatique : « Elle travaille le soir ___ de l'argent, mais elle économise ___ que ses enfants puissent étudier à l'étranger. » (gagner)",
+          "options": [
+            "pour qu'elle gagne / pour",
+            "pour gagner / parce",
+            "pour gagner / bien",
+            "pour gagner / pour"
+          ],
+          "answer": 3,
+          "translation": "她晚上工作挣钱，但她存钱是为了让孩子们能出国留学。",
+          "explain": "第一句主句主语 elle 与 gagner 的主语相同，用 pour + 不定式；pour qu'elle gagne 重复主语，不够自然。第二句 économiser 的主语 elle 与 étudier 的主语 ses enfants 不同，用 pour que + 虚拟式；puissent 是 pouvoir 的虚拟式现在时。parce que 表原因，bien que 表让步，都不表目的。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x2-q5",
+          "type": "choice",
+          "prompt": "Complétez : « Dès que tu ___ ton travail, tu pourras partir, bien que la journée ___ longue. » (finir / être)",
+          "options": [
+            "as fini / soit",
+            "auras fini / soit",
+            "auras fini / est",
+            "finiras / soit"
+          ],
+          "answer": 1,
+          "translation": "你完成工作后就可以走了，尽管这一天很漫长。",
+          "explain": "dès que 引出紧接发生的时间从句；主句用简单将来时 pourras，从句动作先于主句完成，用先将来时 auras fini。bien que 引导让步从句，用虚拟式；être 的第三人称单数为 soit。as fini 是复合过去时，finiras 是简单将来时，都不能表示将来之前的完成；est 是直陈式。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x2-q6",
+          "type": "tiles",
+          "prompt": "Composez une phrase : il / attendre / jusqu'à ce que / le médecin / partir, / sans / se / plaindre.",
+          "answer": [
+            "Il",
+            "a",
+            "attendu",
+            "jusqu'à",
+            "ce que",
+            "le",
+            "médecin",
+            "parte,",
+            "sans",
+            "se",
+            "plaindre."
+          ],
+          "bank": [
+            "Il",
+            "a",
+            "attendu",
+            "jusqu'à",
+            "ce que",
+            "le",
+            "médecin",
+            "parte,",
+            "sans",
+            "se",
+            "plaindre.",
+            "part",
+            "partait",
+            "partir",
+            "plaint",
+            "plaindra",
+            "ne",
+            "mais"
+          ],
+          "translation": "他一直等到医生离开，没有抱怨。",
+          "explain": "jusqu'à ce que 指向尚未实现的界限，从句用虚拟式；partir 的第三人称单数为 parte。sans 后的动作与主句主语 il 相同，用 sans + 不定式 se plaindre；sans 已含否定意义，不能加 ne...pas。part 是直陈式，partait 是未完成过去时，partir 是不定式，都不能作 jusqu'à ce que 的谓语。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x2-q7",
+          "type": "choice",
+          "prompt": "Complétez : « Bien qu'elle ___ son travail, elle est partie sans ___ son collègue. » (finir / prévenir)",
+          "options": [
+            "avait fini / avoir prévenu",
+            "ait fini / prévenu",
+            "ait fini / avoir prévenu",
+            "a fini / avoir prévenu"
+          ],
+          "answer": 2,
+          "translation": "尽管她完成了工作，她还是没有通知同事就离开了。",
+          "explain": "bien que 后用虚拟式；工作完成先于离开，用虚拟式过去时 ait fini。sans 后的动作也先于离开，用不定式过去时 avoir prévenu；sans 已含否定意义，不能再加 ne...pas。avait fini / a fini 是直陈式；单独一个过去分词 prévenu 不能跟在 sans 后表示这里主动完成的动作。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x2-q8",
+          "type": "tiles",
+          "prompt": "Composez une phrase : tu / pouvoir / partir / tout de suite / ou / attendre / jusqu'à ce que / je / revenir.",
+          "answer": [
+            "Tu",
+            "peux",
+            "partir",
+            "tout",
+            "de",
+            "suite",
+            "ou",
+            "attendre",
+            "jusqu'à",
+            "ce que",
+            "je",
+            "revienne."
+          ],
+          "bank": [
+            "Tu",
+            "peux",
+            "partir",
+            "tout",
+            "de",
+            "suite",
+            "ou",
+            "attendre",
+            "jusqu'à",
+            "ce que",
+            "je",
+            "revienne.",
+            "revenir",
+            "revient",
+            "reviendra",
+            "part",
+            "attends",
+            "et",
+            "qu'il"
+          ],
+          "translation": "你可以马上走，或者等到我回来。",
+          "explain": "ou 连接两个并列选择：partir 和 attendre。jusqu'à ce que 指向尚未实现的界限，从句用虚拟式；revenir 的第一人称单数为 revienne（词干 revienn-）。revenir 是不定式，revient 是直陈式，reviendra 是将来时，都不能用在 jusqu'à ce que 后。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x2-q9",
+          "type": "choice",
+          "prompt": "Complétez : « Il y avait tellement de bruit que nous ne ___ pas entendre le guide, bien que nous ___ au premier rang. » (pouvoir / être)",
+          "options": [
+            "pouvions / soyons",
+            "pouvons / soyons",
+            "pouvions / sommes",
+            "pourrons / soyons"
+          ],
+          "answer": 0,
+          "translation": "噪音太大，我们听不见导游说话，尽管我们坐在第一排。",
+          "explain": "tellement de + 名词 + que 引出结果；主句 il y avait 是过去时，结果也用未完成过去时 pouvions。bien que 后用虚拟式；主语 nous，être 的虚拟式现在时为 soyons。pouvons 是现在时；sommes 是直陈式；pourrons 是将来时。"
+        },
+        {
+          "id": "pub-c20-complex-sentences-x2-q10",
+          "type": "letters",
+          "prompt": "Complétez : « Il faudra attendre jusqu'à ce que nous ___ partir. » (pouvoir)",
+          "answer": "puissions",
+          "decoys": [
+            "s",
+            "t",
+            "e",
+            "a"
+          ],
+          "translation": "必须等到我们能出发。",
+          "explain": "jusqu'à ce que 指向尚未实现的界限，从句用虚拟式。pouvoir 的虚拟式词干为 puiss-，nous 形式为 puissions，双写 s；不能按直陈式 pouvons 写。"
+        }
+      ]
+    }
+  ]
+}

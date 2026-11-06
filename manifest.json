@@ -18,10 +18,11 @@
     "chapters/pub-c14-relative-clauses.json",
     "chapters/pub-c15-comparison-adverbs.json",
     "chapters/pub-c16-time-space-prepositions.json",
+    "chapters/pub-c17-passive-voice.json",
     "chapters/pub-predication.json",
     "chapters/pub-articles.json",
     "chapters/pub-agreement.json"
   ],
-  "expectedChapterCount": 19,
-  "expectedQuestionCount": 2979
+  "expectedChapterCount": 20,
+  "expectedQuestionCount": 3071
 }

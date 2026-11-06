@@ -111,8 +111,8 @@
   ],
   "lessons": [
     {
-      "id": "pub-c17-passive-voice-l1",
-      "title": "被动语态的构成与主动/被动转换",
+      "id": "pub-c17-passive-voice-l1-1",
+      "title": "被动语态的构成与主动/被动转换（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -255,7 +255,15 @@
           "answer": 3,
           "translation": "墙壁被工人们重新粉刷了。",
           "explain": "主语 les murs 是阳性复数，助动词用 ont，过去分词 repeints 加 -s。repeintes 是阴性复数，与 murs 不符；a 是单数；repeint 没有配合。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c17-passive-voice-l1-2",
+      "title": "被动语态的构成与主动/被动转换（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c17-passive-voice-l1-q9",
           "type": "letters",
@@ -384,7 +392,15 @@
           ],
           "translation": "信件由秘书寄出了。",
           "explain": "直接宾语 les lettres 变成主语，阴性复数；复合过去时被动用 ont été + envoyées。原主语 la secrétaire 用 par 引出，放在分词后。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c17-passive-voice-l1-3",
+      "title": "被动语态的构成与主动/被动转换（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c17-passive-voice-l1-q16",
           "type": "choice",
@@ -501,8 +517,8 @@
       ]
     },
     {
-      "id": "pub-c17-passive-voice-l2",
-      "title": "被动句的时态、否定、倒装与不定式",
+      "id": "pub-c17-passive-voice-l2-1",
+      "title": "被动句的时态、否定、倒装与不定式（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -641,7 +657,15 @@
           ],
           "translation": "会议即将被取消。",
           "explain": "近将来时的被动是 aller 的现在时 + être + 过去分词。主语 la réunion 是阴性单数，aller 用 va，分词用 annulée；être 保持不定式。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c17-passive-voice-l2-2",
+      "title": "被动句的时态、否定、倒装与不定式（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c17-passive-voice-l2-q9",
           "type": "choice",
@@ -766,7 +790,15 @@
           "answer": 0,
           "translation": "这些信没有被寄出吗？",
           "explain": "复合被动的否定倒装要同时满足两点：否定 ne … pas 夹住变位助动词 avoir，倒装也以 avoir 为准。正确形式是 n'ont-elles pas été envoyées：n' + ont-elles + pas + été + 过去分词。选项 1 把助动词换成 être，选项 2 缺少 été，选项 3 把倒装加在 été 上。envoyées 仍与主语 les lettres 配合。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c17-passive-voice-l2-3",
+      "title": "被动句的时态、否定、倒装与不定式（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c17-passive-voice-l2-q17",
           "type": "tiles",
@@ -1004,8 +1036,8 @@
       ]
     },
     {
-      "id": "pub-c17-passive-voice-l3",
-      "title": "施动者：par、de 与省略",
+      "id": "pub-c17-passive-voice-l3-1",
+      "title": "施动者：par、de 与省略（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1184,7 +1216,15 @@
           "answer": 2,
           "translation": "这座桥建于 1998 年。",
           "explain": "on 作主动主语时，转成被动一般不再保留，不能写成 par on；施动者不明时直接省略。因此只有 « Le pont a été construit en 1998. » 正确。de on 形式错误，par quelqu'un on 重复。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c17-passive-voice-l3-2",
+      "title": "施动者：par、de 与省略（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c17-passive-voice-l3-q10",
           "type": "choice",
@@ -1494,8 +1534,8 @@
   ],
   "challenges": [
     {
-      "id": "pub-c17-passive-voice-x1",
-      "title": "被动综合：形式、施动者与识别",
+      "id": "pub-c17-passive-voice-x1-1",
+      "title": "被动综合：形式、施动者与识别（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1616,7 +1656,15 @@
           "answer": 3,
           "translation": "哪一句中的「être + 过去分词」表示状态（动作的结果），而不是被动动作？",
           "explain": "la porte est fermée depuis hier soir 描述门处于「关着」的状态，强调动作结果持续，不强调谁关门。est fermée par le gardien 有施动者，是被动动作；a été écrite 是复合过去时被动；les enfants sont partis 是 partir 的主动复合过去时，partis 不表示被动。判断时要看有没有施动者、时间意义是动作还是结果。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c17-passive-voice-x1-2",
+      "title": "被动综合：形式、施动者与识别（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c17-passive-voice-x1-q8",
           "type": "tiles",

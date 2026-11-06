@@ -141,8 +141,8 @@
   ],
   "lessons": [
     {
-      "id": "pub-c15-comparison-adverbs-l1",
-      "title": "副词的构成",
+      "id": "pub-c15-comparison-adverbs-l1-1",
+      "title": "副词的构成（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -263,7 +263,15 @@
           ],
           "translation": "他准确地解释了游戏规则。",
           "explain": "précis 的副词是 précisément：词干里保留 é，-ment 前也是 é。不能按读音写成 precisement，也不要写成 précissement。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-l1-2",
+      "title": "副词的构成（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c15-comparison-adverbs-l1-q9",
           "type": "choice",
@@ -441,8 +449,8 @@
       ]
     },
     {
-      "id": "pub-c15-comparison-adverbs-l2",
-      "title": "比较级：同等与不等",
+      "id": "pub-c15-comparison-adverbs-l2-1",
+      "title": "比较级：同等与不等（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -568,7 +576,15 @@
           "answer": 2,
           "translation": "这部电影和我想的一样有趣，不多也不少。",
           "explain": "ni plus ni moins（不多也不少）说明两者程度相同，用 aussi ... que。plus 表示更高程度，moins 表示更低程度，都与该短语矛盾；autant 不能直接修饰形容词 intéressant。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-l2-2",
+      "title": "比较级：同等与不等（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c15-comparison-adverbs-l2-q9",
           "type": "choice",
@@ -713,7 +729,15 @@
           ],
           "translation": "这本书没有这部电影有趣。",
           "explain": "比较对象 ce film 在 que 后，用 moins ... que 表示「不如……有趣」。结构是 moins + 形容词 + que + 名词，形容词 intéressant 修饰阳性名词 livre，保持阳性单数。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-l2-3",
+      "title": "比较级：同等与不等（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c15-comparison-adverbs-l2-q17",
           "type": "choice",
@@ -825,7 +849,15 @@
           "answer": 0,
           "translation": "她对这些讲解的理解比我好得多。",
           "explain": "comprendre 是动词，用副词 mieux；beaucoup 放在 mieux 前说明差距大。meilleur 是形容词；mieux beaucoup 语序错误。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-l2-4",
+      "title": "比较级：同等与不等（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c15-comparison-adverbs-l2-q25",
           "type": "choice",
@@ -1078,8 +1110,8 @@
       ]
     },
     {
-      "id": "pub-c15-comparison-adverbs-l4",
-      "title": "不规则比较、数量、第二成分、关联与同一",
+      "id": "pub-c15-comparison-adverbs-l4-1",
+      "title": "不规则比较、数量、第二成分、关联与同一（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1222,7 +1254,15 @@
           "answer": 0,
           "translation": "她工作得和同事一样好，但挣得更少。",
           "explain": "修饰动词 travaille 要用副词 bien，构成 aussi bien que。bonne 是形容词，不能修饰动词；autant 用于数量比较，不能直接修饰副词 bien；bien aussi 语序不对。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-l4-2",
+      "title": "不规则比较、数量、第二成分、关联与同一（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c15-comparison-adverbs-l4-q10",
           "type": "choice",
@@ -1337,7 +1377,15 @@
           "answer": 1,
           "translation": "在「你的成绩比我的好」中，les miennes 指什么？",
           "explain": "主有代词 les miennes 代替 mes notes，阴性复数，与第一项 tes notes 相对。les tiens/les tiennes 才指「你的」；其余选项性数或语义不符。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-l4-3",
+      "title": "不规则比较、数量、第二成分、关联与同一（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c15-comparison-adverbs-l4-q18",
           "type": "choice",
@@ -1468,7 +1516,15 @@
           "answer": 3,
           "translation": "她们的想法和我们一样。",
           "explain": "同一性比较中，定冠词和 même 都要与名词配合：idées 是阴性复数，用 les mêmes。les même 缺复数 -s；les mêmes de 不能引出比较对象；le même 是阳性单数。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-l4-4",
+      "title": "不规则比较、数量、第二成分、关联与同一（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c15-comparison-adverbs-l4-q26",
           "type": "choice",
@@ -1808,8 +1864,8 @@
   ],
   "challenges": [
     {
-      "id": "pub-c15-comparison-adverbs-x1",
-      "title": "比较综合：程度、数量与不规则形式",
+      "id": "pub-c15-comparison-adverbs-x1-1",
+      "title": "比较综合：程度、数量与不规则形式（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1917,7 +1973,15 @@
           ],
           "translation": "这个学生是班里最用功的。",
           "explain": "形容词最高级由定冠词 + plus/moins + 形容词构成。élève 是阴性单数，定冠词用 la；范围由 de 引出：de la classe，不用 dans la classe。travailleuse 是阴性形式。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-x1-2",
+      "title": "比较综合：程度、数量与不规则形式（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c15-comparison-adverbs-x1-q7",
           "type": "choice",

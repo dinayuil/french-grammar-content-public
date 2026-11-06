@@ -111,8 +111,8 @@
   ],
   "lessons": [
     {
-      "id": "pub-c08-imperative-emphasis-l1",
-      "title": "命令式的基本构成、去 s 与不规则形式",
+      "id": "pub-c08-imperative-emphasis-l1-1",
+      "title": "命令式的基本构成、去 s 与不规则形式（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -276,7 +276,15 @@
           ],
           "translation": "天气很好，去市场吧！",
           "explain": "aller 的 tu 现在时是 vas，命令式去 s 写 va；aller 虽属第三组，tu 形式仍按去 s 处理。不要写 vas。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-l1-2",
+      "title": "命令式的基本构成、去 s 与不规则形式（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c08-imperative-emphasis-l1-q11",
           "type": "choice",
@@ -420,7 +428,15 @@
           "answer": 0,
           "translation": "耐心点，一切都会顺利的。",
           "explain": "être 的命令式是 sois / soyons / soyez，与现在时 es / sommes / êtes 不同；tu 形式用 Sois。Soit 是第三人称虚拟式形式，Soyez 是 vous 命令式。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-l1-3",
+      "title": "命令式的基本构成、去 s 与不规则形式（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c08-imperative-emphasis-l1-q20",
           "type": "letters",
@@ -730,8 +746,8 @@
       ]
     },
     {
-      "id": "pub-c08-imperative-emphasis-l3",
-      "title": "c'est / ce sont 与 il est 的分工",
+      "id": "pub-c08-imperative-emphasis-l3-1",
+      "title": "c'est / ce sont 与 il est 的分工（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -855,7 +871,15 @@
           ],
           "translation": "——今晚谁来？——是我们。",
           "explain": "第一人称复数重读代词 nous 前仍用 c'est，不用 ce sont；c' 是 ce 的省音形式，后面接 être 的第三人称单数 est。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-l3-2",
+      "title": "c'est / ce sont 与 il est 的分工（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c08-imperative-emphasis-l3-q8",
           "type": "choice",
@@ -1131,8 +1155,8 @@
       ]
     },
     {
-      "id": "pub-c08-imperative-emphasis-l5",
-      "title": "感叹与口语/标准句式转换",
+      "id": "pub-c08-imperative-emphasis-l5-1",
+      "title": "感叹与口语/标准句式转换（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1245,7 +1269,15 @@
           ],
           "translation": "火车什么时候出发？",
           "explain": "疑问词 quand 前置，后接 est-ce que + 陈述词序 le train part。est-ce que 后不再倒装，所以不用 part-il / part-t-il；名词主语 le train 保持在动词前。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-l5-2",
+      "title": "感叹与口语/标准句式转换（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c08-imperative-emphasis-l5-q8",
           "type": "choice",
@@ -1372,8 +1404,8 @@
   ],
   "challenges": [
     {
-      "id": "pub-c08-imperative-emphasis-x1",
-      "title": "综合：命令式的形式、去 s 与否定",
+      "id": "pub-c08-imperative-emphasis-x1-1",
+      "title": "综合：命令式的形式、去 s 与否定（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1458,7 +1490,15 @@
           ],
           "translation": "穿上外套，天冷。",
           "explain": "prendre 的 tu 现在时是 prends，命令式保留词尾 s，因为 prendre 不属于第一组动词，不适用去 s 规则。不能写成 prent 或 pren。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c08-imperative-emphasis-x1-2",
+      "title": "综合：命令式的形式、去 s 与否定（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c08-imperative-emphasis-x1-q7",
           "type": "letters",

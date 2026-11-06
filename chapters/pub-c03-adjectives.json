@@ -456,8 +456,8 @@
       ]
     },
     {
-      "id": "pub-c03-adjectives-l4",
-      "title": "-f、-eux 与 -eur 的阴性",
+      "id": "pub-c03-adjectives-l4-1",
+      "title": "-f、-eux 与 -eur 的阴性（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -508,7 +508,15 @@
           "answer": "griève",
           "translation": "严重的；令人痛苦的（阴性单数）。",
           "explain": "grief 属于 -f 类词干例外：grief → griève，-f 变 -ve 的同时 e 变 è；不能写成 griefe 或 grieve。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c03-adjectives-l4-2",
+      "title": "-f、-eux 与 -eur 的阴性（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c03-adjectives-l4-q7",
           "type": "choice",
@@ -576,8 +584,8 @@
       ]
     },
     {
-      "id": "pub-c03-adjectives-l5",
-      "title": "阴性词形：双写与 -s/-x 词尾",
+      "id": "pub-c03-adjectives-l5-1",
+      "title": "阴性词形：双写与 -s/-x 词尾（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -628,7 +636,15 @@
           "translation": "柔和的声音。",
           "explain": "doux → douce，-x 改为 -ce。与 faux → fausse 的 -sse 区分；同样是 -x 结尾，不能统一处理。",
           "id": "pub-c03-adjectives-l5-q6"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c03-adjectives-l5-2",
+      "title": "阴性词形：双写与 -s/-x 词尾（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "type": "letters",
           "prompt": "Complétez avec « faux » au féminin singulier : une ___ nouvelle.",
@@ -720,8 +736,8 @@
       ]
     },
     {
-      "id": "pub-c03-adjectives-l6",
-      "title": "形容词的规则复数",
+      "id": "pub-c03-adjectives-l6-1",
+      "title": "形容词的规则复数（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -777,7 +793,15 @@
           "translation": "分数更好。",
           "explain": "meilleur → meilleure（-eur → -eure，不是 -euse）→ meilleures（加 -s）。不要写成 meilleuses。",
           "id": "pub-c03-adjectives-l6-q6"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c03-adjectives-l6-2",
+      "title": "形容词的规则复数（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "type": "letters",
           "prompt": "Complétez avec « heureux » au féminin pluriel : des femmes ___.",
@@ -831,8 +855,8 @@
       ]
     },
     {
-      "id": "pub-c03-adjectives-l7",
-      "title": "阳性复数不变与复数综合",
+      "id": "pub-c03-adjectives-l7-1",
+      "title": "阳性复数不变与复数综合（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -939,7 +963,15 @@
           "translation": "工人们很勤劳，女工们也很勤劳，男孩们很幸福，女孩们也很幸福。",
           "explain": "travailleur → travailleuse → travailleuses（-eur → -euse）；heureux → heureuse → heureuses（-eux → -euse）。阳性复数分别 travailleurs、heureux（heureux 以 -x 结尾不变）。",
           "id": "pub-c03-adjectives-l7-q8"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c03-adjectives-l7-2",
+      "title": "阳性复数不变与复数综合（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "type": "choice",
           "prompt": "Transformez « heureux » et choisissez la phrase correctement ordonnée. Groupes : les filles (f. pl.), les garçons (m. pl.).",

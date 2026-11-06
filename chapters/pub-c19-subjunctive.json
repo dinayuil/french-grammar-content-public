@@ -106,8 +106,8 @@
   ],
   "lessons": [
     {
-      "id": "pub-c19-subjunctive-l1",
-      "title": "虚拟式现在时：规则、双词干、不规则与拼写",
+      "id": "pub-c19-subjunctive-l1-1",
+      "title": "虚拟式现在时：规则、双词干、不规则与拼写（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -239,7 +239,15 @@
           "answer": 2,
           "translation": "她很高兴我们今晚终于看她的电影。",
           "explain": "voir 的虚拟式现在时词干在 nous/vous 中为 voy-：que nous voyions, que vous voyiez；单数则是 voie, voies, voie。这里从句用虚拟式，主语 nous，所以是 voyions；y 与词尾 i 相连，不写成 *voiyons。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c19-subjunctive-l1-2",
+      "title": "虚拟式现在时：规则、双词干、不规则与拼写（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c19-subjunctive-l1-q9",
           "type": "tiles",
@@ -368,7 +376,15 @@
           "answer": 0,
           "translation": "过马路时你必须小心。",
           "explain": "il faut que 是无人称结构，后面的从句用虚拟式。faire 的虚拟式现在时是 fasse, fasses, fasse, fassions, fassiez, fassent；主语 tu 用 fasses。fais 是直陈式或命令式。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c19-subjunctive-l1-3",
+      "title": "虚拟式现在时：规则、双词干、不规则与拼写（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c19-subjunctive-l1-q17",
           "type": "choice",
@@ -587,8 +603,8 @@
       ]
     },
     {
-      "id": "pub-c19-subjunctive-l2",
-      "title": "虚拟式过去时与现在／过去的选择",
+      "id": "pub-c19-subjunctive-l2-1",
+      "title": "虚拟式过去时与现在／过去的选择（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -709,7 +725,15 @@
           "answer": 3,
           "translation": "我很惊讶他成功了。",
           "explain": "réussir 用 avoir 作助动词；虚拟式过去时为 ait + réussi。主句 je suis étonné que 触发虚拟式；从句动作先于主句的惊讶，所以用过去时。réussisse 是虚拟式现在时，a réussi 和 réussira 都是直陈式形式。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c19-subjunctive-l2-2",
+      "title": "虚拟式过去时与现在／过去的选择（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c19-subjunctive-l2-q8",
           "type": "choice",
@@ -880,8 +904,8 @@
       ]
     },
     {
-      "id": "pub-c19-subjunctive-l3",
-      "title": "触发虚拟式：意志、情感、怀疑与无人称",
+      "id": "pub-c19-subjunctive-l3-1",
+      "title": "触发虚拟式：意志、情感、怀疑与无人称（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1040,7 +1064,15 @@
           "answer": 1,
           "translation": "我怀疑这个办法是对的。",
           "explain": "douter que 表达怀疑，从句用虚拟式；être 的虚拟式现在时第三人称单数为 soit。est 和 sera 是直陈式，être 是不定式。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c19-subjunctive-l3-2",
+      "title": "触发虚拟式：意志、情感、怀疑与无人称（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c19-subjunctive-l3-q10",
           "type": "choice",
@@ -1187,7 +1219,15 @@
           ],
           "translation": "我很惊讶你们这么快就做出这个决定。",
           "explain": "être surpris que 表达情感，从句用虚拟式。prendre 的 nous/vous 形式换用 pren- 词干：que vous preniez；不能把单数词干 prenn- 搬到这里，也不能用直陈式 prenez。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c19-subjunctive-l3-3",
+      "title": "触发虚拟式：意志、情感、怀疑与无人称（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c19-subjunctive-l3-q19",
           "type": "choice",
@@ -1381,8 +1421,8 @@
       ]
     },
     {
-      "id": "pub-c19-subjunctive-l4",
-      "title": "直陈式对照、同主语不定式与第三人称命令",
+      "id": "pub-c19-subjunctive-l4-1",
+      "title": "直陈式对照、同主语不定式与第三人称命令（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1496,7 +1536,15 @@
           ],
           "translation": "我很遗憾我迟到了。",
           "explain": "regretter 的主语与从句主语相同（都是 je），标准做法是改用 de + 不定式：regretter d'être en retard。de 与 être 相接省音为 d'être；que je sois 在这里既累赘又不符合同主语结构的习惯。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c19-subjunctive-l4-2",
+      "title": "直陈式对照、同主语不定式与第三人称命令（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c19-subjunctive-l4-q7",
           "type": "choice",
@@ -1668,8 +1716,8 @@
   ],
   "challenges": [
     {
-      "id": "pub-c19-subjunctive-x1",
-      "title": "虚拟式综合：触发、词干与时态",
+      "id": "pub-c19-subjunctive-x1-1",
+      "title": "虚拟式综合：触发、词干与时态（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1782,7 +1830,15 @@
           ],
           "translation": "我不相信玛丽和朱莉来参加了聚会。",
           "explain": "croire 在否定句中表示不相信，触发虚拟式；动作已经发生，用虚拟式过去时。venir 以 être 为助动词：soient + 过去分词；主语 Marie et Julie 是阴性复数，过去分词配合为 venues。soit 是单数，venu/venus 性数不符，sont 是直陈式。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c19-subjunctive-x1-2",
+      "title": "虚拟式综合：触发、词干与时态（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c19-subjunctive-x1-q8",
           "type": "letters",

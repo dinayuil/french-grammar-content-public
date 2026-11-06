@@ -156,8 +156,8 @@
   ],
   "lessons": [
     {
-      "id": "pub-c13-future-conditional-l1",
-      "title": "最近将来与最近过去",
+      "id": "pub-c13-future-conditional-l1-1",
+      "title": "最近将来与最近过去（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -333,7 +333,15 @@
           "answer": 1,
           "translation": "昨天我给他打电话时，他刚吃完午饭。",
           "explain": "过去的参照点要求用 venir 的未完成过去时：il venait de déjeuner。vient 是现在时；allait de déjeuner 不成立；était 不能构成最近过去时。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l1-2",
+      "title": "最近将来与最近过去（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c13-future-conditional-l1-q11",
           "type": "choice",
@@ -516,8 +524,8 @@
       ]
     },
     {
-      "id": "pub-c13-future-conditional-l2",
-      "title": "简单将来与不规则词干",
+      "id": "pub-c13-future-conditional-l2-1",
+      "title": "简单将来与不规则词干（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -710,7 +718,15 @@
           "answer": 3,
           "translation": "明年夏天我们会给朋友打电话，并去旅行。",
           "explain": "两个动作都在将来：appeler 是第一组动词，将来时双写 l 并加 -ons：nous appellerons；faire 用不规则词干 fer-：nous ferons。现在时 appelons/faisons 在口语中也可表示已安排的将来计划，但本题要求简单将来时；ferions 是条件式，时态不符。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l2-2",
+      "title": "简单将来与不规则词干（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c13-future-conditional-l2-q11",
           "type": "letters",
@@ -872,7 +888,15 @@
           ],
           "translation": "我五分钟后准备好。",
           "explain": "être 的将来时词干是 ser-，主语 je 加 -ai：serai。不要写成 serais（条件式）或 étais（未完成过去时）。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l2-3",
+      "title": "简单将来与不规则词干（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c13-future-conditional-l2-q21",
           "type": "tiles",
@@ -1018,7 +1042,15 @@
           ],
           "translation": "你明天就会知道答案。",
           "explain": "savoir 的将来时词干是 saur-，tu 加 -as：sauras。不要写成 sais（现在时）或 saurais（条件式）。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l2-4",
+      "title": "简单将来与不规则词干（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c13-future-conditional-l2-q30",
           "type": "choice",
@@ -1174,7 +1206,15 @@
           ],
           "translation": "他们回答问题。→ 他们将回答问题。",
           "explain": "répondre 去掉词尾 e 得 répondr-，ils 加 -ont：répondront。répondent 是现在时，répondrons 是 nous 的形式，réponderont 多了一个 e。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l2-5",
+      "title": "简单将来与不规则词干（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c13-future-conditional-l2-q39",
           "type": "letters",
@@ -1382,8 +1422,8 @@
       ]
     },
     {
-      "id": "pub-c13-future-conditional-l3",
-      "title": "将来时的意义与转换",
+      "id": "pub-c13-future-conditional-l3-1",
+      "title": "将来时的意义与转换（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1522,7 +1562,15 @@
           "answer": 2,
           "translation": "你会很谨慎。→ 小心点。",
           "explain": "être 的 tu 命令式是 sois，属于不规则形式。Seras 仍是将来时，Soyez 是 vous 的形式，Es 不是命令式。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l3-2",
+      "title": "将来时的意义与转换（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c13-future-conditional-l3-q9",
           "type": "tiles",
@@ -1650,7 +1698,15 @@
           "answer": 3,
           "translation": "你会保持冷静。→ 你要保持冷静。",
           "explain": "savoir 的 tu 命令式是不规则的 sache。Sauras 仍是将来时，Sais 是现在时陈述，Sachez 是 vous 的形式。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l3-3",
+      "title": "将来时的意义与转换（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c13-future-conditional-l3-q16",
           "type": "choice",
@@ -1766,8 +1822,8 @@
       ]
     },
     {
-      "id": "pub-c13-future-conditional-l4",
-      "title": "条件式现在时：形式与礼貌、建议、愿望、想象（含 第 7 单元 过去将来时预练）",
+      "id": "pub-c13-future-conditional-l4-1",
+      "title": "条件式现在时：形式与礼貌、建议、愿望、想象（含 第 7 单元 过去将来时预练）（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1900,7 +1956,15 @@
           ],
           "translation": "我想要一杯柠檬茶，谢谢。",
           "explain": "vouloir 的条件式词干是 voudr-，je 加 -ais：je voudrais。这里用条件式使点单更礼貌；现在时 veux 语法上成立，但语气更直接，将来时 voudrai 也不合。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l4-2",
+      "title": "条件式现在时：形式与礼貌、建议、愿望、想象（含 第 7 单元 过去将来时预练）（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c13-future-conditional-l4-q9",
           "type": "choice",
@@ -2148,8 +2212,8 @@
       ]
     },
     {
-      "id": "pub-c13-future-conditional-l6",
-      "title": "si 条件结构：三类假设与段落时态",
+      "id": "pub-c13-future-conditional-l6-1",
+      "title": "si 条件结构：三类假设与段落时态（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -2248,7 +2312,15 @@
           "answer": 1,
           "translation": "如果我有时间，我就会来。",
           "explain": "si 从句不能用条件式，所以第一句错；si + 未完成过去时要求主句用条件式现在时，所以第三句的 viendrai 错；第四句在 si 从句误用简单将来时，且主句时态不配。只有第二句正确。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l6-2",
+      "title": "si 条件结构：三类假设与段落时态（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c13-future-conditional-l6-q7",
           "type": "choice",
@@ -2371,8 +2443,8 @@
       ]
     },
     {
-      "id": "pub-c13-future-conditional-l7",
-      "title": "过去将来时与过去最近将来",
+      "id": "pub-c13-future-conditional-l7-1",
+      "title": "过去将来时与过去最近将来（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -2512,7 +2584,15 @@
           "answer": 0,
           "translation": "我走进大厅时，会议刚开始，已经来不及提问了。",
           "explain": "venir 的未完成过去时 venait + de + 不定式表示在过去参照时刻刚刚发生；il 指当时的情况，用 être 的未完成过去时 était 描写状态。allait 会构成“正要开始”，与 de 不搭配；est 是现在时；sera 是将来时，都不能描写过去背景。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-l7-2",
+      "title": "过去将来时与过去最近将来（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c13-future-conditional-l7-q8",
           "type": "choice",
@@ -2648,8 +2728,8 @@
   ],
   "challenges": [
     {
-      "id": "pub-c13-future-conditional-x1",
-      "title": "将来与条件式综合",
+      "id": "pub-c13-future-conditional-x1-1",
+      "title": "将来与条件式综合（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -2785,7 +2865,15 @@
           "answer": 1,
           "translation": "您能告诉我去火车站的路吗？",
           "explain": "题干要求礼貌公式，条件式现在时 pourriez 用来软化请求，语气比直陈式 pouvez 更委婉；pouvoir 的条件式词干是 pourr-。Pourrez 也可用于礼貌请求，但本题要求条件式，且它问的是将来的能力；Pourrions 是第一人称复数，与 vous 不一致；Puissiez 是虚拟式，不能用于这种独立疑问。倒装时保留连字符：Pourriez-vous。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-x1-2",
+      "title": "将来与条件式综合（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c13-future-conditional-x1-q7",
           "type": "choice",
@@ -2887,8 +2975,8 @@
       ]
     },
     {
-      "id": "pub-c13-future-conditional-x2",
-      "title": "假设与时间参照综合",
+      "id": "pub-c13-future-conditional-x2-1",
+      "title": "假设与时间参照综合（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -2973,7 +3061,15 @@
           ],
           "translation": "他答应过第二天回来。",
           "explain": "主句 a promis 是复合过去时，从句用条件式现在时表示过去视角中的将来。revenir 的条件式词干是 reviendr-，加第三人称单数词尾 -ait：reviendrait。不能保留简单将来时 reviendra；le lendemain 也说明时间参照在过去。词尾 -ait 不要写成 -ais。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c13-future-conditional-x2-2",
+      "title": "假设与时间参照综合（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c13-future-conditional-x2-q7",
           "type": "tiles",

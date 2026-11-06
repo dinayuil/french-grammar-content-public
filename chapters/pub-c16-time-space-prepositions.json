@@ -171,8 +171,8 @@
   ],
   "lessons": [
     {
-      "id": "pub-c16-time-space-prepositions-l1",
-      "title": "空间关系与方向",
+      "id": "pub-c16-time-space-prepositions-l1-1",
+      "title": "空间关系与方向（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -338,7 +338,15 @@
           "answer": 0,
           "translation": "她在家，今天不出门。",
           "explain": "à la maison 是固定短语，表示「在家」。en 不能直接接 la maison；chez 后面要接人；sur 表示在表面上。dans la maison 表示「在房子内部」，与固定短语「在家」的用法不同。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c16-time-space-prepositions-l1-2",
+      "title": "空间关系与方向（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c16-time-space-prepositions-l1-q10",
           "type": "choice",
@@ -486,7 +494,15 @@
           "answer": 0,
           "translation": "孩子们在花园里。",
           "explain": "主语 les enfants 是第三人称复数，être 用 sont。est 是第三人称单数，sommes 对应 nous，êtes 对应 vous。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c16-time-space-prepositions-l1-3",
+      "title": "空间关系与方向（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c16-time-space-prepositions-l1-q18",
           "type": "choice",
@@ -646,8 +662,8 @@
       ]
     },
     {
-      "id": "pub-c16-time-space-prepositions-l2",
-      "title": "城市、国家、地区与岛屿",
+      "id": "pub-c16-time-space-prepositions-l2-1",
+      "title": "城市、国家、地区与岛屿（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -792,7 +808,15 @@
           "answer": 1,
           "translation": "她来自葡萄牙。",
           "explain": "Portugal 是辅音开头的阳性单数国名，来源用 de + le，缩合为 du Portugal。de 不缩合只用于阴性国名或元音开头的阳性国名；au 表示去往，des 用于复数。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c16-time-space-prepositions-l2-2",
+      "title": "城市、国家、地区与岛屿（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c16-time-space-prepositions-l2-q10",
           "type": "choice",
@@ -1071,8 +1095,8 @@
       ]
     },
     {
-      "id": "pub-c16-time-space-prepositions-l4",
-      "title": "持续、起点、终点与期限",
+      "id": "pub-c16-time-space-prepositions-l4-1",
+      "title": "持续、起点、终点与期限（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1228,7 +1252,15 @@
           ],
           "translation": "医生二十分钟后给您看诊。",
           "explain": "recevra 表示将来，vingt minutes 从现在起算的延后时间，用 dans。il y a 表过去，depuis 要与现在延续，pendant 表持续时长。答案是一个词，不要加空格。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c16-time-space-prepositions-l4-2",
+      "title": "持续、起点、终点与期限（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c16-time-space-prepositions-l4-q11",
           "type": "choice",
@@ -1389,7 +1421,15 @@
           "answer": 3,
           "translation": "你学钢琴多久了？——三年了。",
           "explain": "回答 depuis trois ans 是「从起点延续至今的时长」，用 Depuis combien de temps。Depuis quand 期待一个具体时间点，Jusqu'à quand 问终点，Dans combien de temps 问将来多久以后。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c16-time-space-prepositions-l4-3",
+      "title": "持续、起点、终点与期限（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c16-time-space-prepositions-l4-q20",
           "type": "tiles",
@@ -1595,8 +1635,8 @@
       ]
     },
     {
-      "id": "pub-c16-time-space-prepositions-l5",
-      "title": "交通、材料、方式、分配与比例",
+      "id": "pub-c16-time-space-prepositions-l5-1",
+      "title": "交通、材料、方式、分配与比例（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1698,7 +1738,15 @@
           "answer": 1,
           "translation": "百分之三十的居民投了票。",
           "explain": "百分比固定用 pour cent：trente pour cent。par 表逐次分配，en 和 de 不能构成百分比表达。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c16-time-space-prepositions-l5-2",
+      "title": "交通、材料、方式、分配与比例（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c16-time-space-prepositions-l5-q7",
           "type": "choice",
@@ -1873,8 +1921,8 @@
   ],
   "challenges": [
     {
-      "id": "pub-c16-time-space-prepositions-x1",
-      "title": "空间介词综合：城市、国家、机构与方位",
+      "id": "pub-c16-time-space-prepositions-x1-1",
+      "title": "空间介词综合：城市、国家、机构与方位（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1982,7 +2030,15 @@
           "answer": 2,
           "translation": "药店在银行和面包店之间，就在广场对面。",
           "explain": "entre 接两个并列对象，用 et 连接：entre la banque et la boulangerie。en face de 是复合方位短语，后面要接 de + 名词：en face de la place。parmi 用于群体，不用于两个并列对象；devant de 不是正确组合；au milieu 和 en face 后面都必须加 de。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c16-time-space-prepositions-x1-2",
+      "title": "空间介词综合：城市、国家、机构与方位（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c16-time-space-prepositions-x1-q7",
           "type": "choice",
@@ -2092,8 +2148,8 @@
       ]
     },
     {
-      "id": "pub-c16-time-space-prepositions-x2",
-      "title": "时间介词综合：钟点、持续与范围",
+      "id": "pub-c16-time-space-prepositions-x2-1",
+      "title": "时间介词综合：钟点、持续与范围（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -2180,7 +2236,15 @@
           "answer": 2,
           "translation": "游泳池从九点开到十九点；星期一闭馆。",
           "explain": "钟点范围用 de ... à ...，不能用 du ... au ...，因为 du / au 是 de + le / à + le 的缩合，后面要接带冠词的名词，而 9 heures 前没有冠词。星期前表示惯常的「每星期一」用 le：le lundi。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c16-time-space-prepositions-x2-2",
+      "title": "时间介词综合：钟点、持续与范围（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c16-time-space-prepositions-x2-q7",
           "type": "choice",

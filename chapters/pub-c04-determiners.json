@@ -126,8 +126,8 @@
   ],
   "lessons": [
     {
-      "id": "pub-c04-determiners-l1",
-      "title": "指示限定词 ce、cette、ces 与 cet",
+      "id": "pub-c04-determiners-l1-1",
+      "title": "指示限定词 ce、cette、ces 与 cet（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -213,7 +213,15 @@
           ],
           "translation": "这家酒店→这些酒店。",
           "explain": "源短语 cet hôtel 是阳性单数，hôtel 以哑音 h 开头所以用 cet；变复数后指示限定词一律 ces，名词加 -s 成 hôtels。ce、cette 是单数形式，cet 只用于阳性单数。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c04-determiners-l1-2",
+      "title": "指示限定词 ce、cette、ces 与 cet（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c04-determiners-l1-q7",
           "type": "tiles",
@@ -463,8 +471,8 @@
       ]
     },
     {
-      "id": "pub-c04-determiners-l4",
-      "title": "复数主有者与元音阴性",
+      "id": "pub-c04-determiners-l4-1",
+      "title": "复数主有者与元音阴性（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -556,7 +564,15 @@
           "answer": 2,
           "translation": "我丈夫和我很喜欢我们的乡间别墅。",
           "explain": "主有者包含说话人，相当于 nous；maison 是阴性单数，所以用 notre。nos 只能配复数名词；votre 指对话者，leur 指第三方。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c04-determiners-l4-2",
+      "title": "复数主有者与元音阴性（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c04-determiners-l4-q7",
           "type": "choice",
@@ -797,8 +813,8 @@
       ]
     },
     {
-      "id": "pub-c04-determiners-l6",
-      "title": "chaque、plusieurs 与 quelque(s)",
+      "id": "pub-c04-determiners-l6-1",
+      "title": "chaque、plusieurs 与 quelque(s)（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -887,7 +903,15 @@
           "answer": 0,
           "translation": "这是好几张照片。",
           "explain": "plusieurs 只修饰复数名词，photo 要变 photos；plusieurs 本身不变，不能写成 plusieures，也不能加定冠词 les。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c04-determiners-l6-2",
+      "title": "chaque、plusieurs 与 quelque(s)（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c04-determiners-l6-q7",
           "type": "choice",
@@ -1056,8 +1080,8 @@
       ]
     },
     {
-      "id": "pub-c04-determiners-l8",
-      "title": "tout、même、autre 与不定冠词强调",
+      "id": "pub-c04-determiners-l8-1",
+      "title": "tout、même、autre 与不定冠词强调（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1150,7 +1174,15 @@
           "answer": 2,
           "translation": "我们有同样的答案。",
           "explain": "réponses 是阴性复数，定冠词用 les，même 加 -s 成 mêmes，保留 ê。la même 是阴性单数，les même 漏了复数 -s。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c04-determiners-l8-2",
+      "title": "tout、même、autre 与不定冠词强调（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c04-determiners-l8-q7",
           "type": "letters",

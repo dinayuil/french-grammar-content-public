@@ -166,8 +166,8 @@
   ],
   "lessons": [
     {
-      "id": "pub-c18-verb-complements-l1",
-      "title": "直接宾语、à／de 补语与双宾语结构",
+      "id": "pub-c18-verb-complements-l1-1",
+      "title": "直接宾语、à／de 补语与双宾语结构（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -321,7 +321,15 @@
           "answer": 3,
           "translation": "她说服弟弟跟她一起去。",
           "explain": "convaincre qn de faire qch：直接宾语是指人的 son frère，de 引出说服的内容；不能用 à、pour 或 contre，也不能省略 de。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-l1-2",
+      "title": "直接宾语、à／de 补语与双宾语结构（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-l1-q10",
           "type": "tiles",
@@ -528,7 +536,15 @@
           ],
           "translation": "管理层给客户寄了一封信。",
           "explain": "envoyer qch à qn：直接宾语 une lettre 在前，aux clients 在后；à + les = aux。复合过去时用 a envoyé，主语 la direction 是单数。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-l1-3",
+      "title": "直接宾语、à／de 补语与双宾语结构（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-l1-q19",
           "type": "letters",
@@ -775,7 +791,15 @@
           ],
           "translation": "校长把决定告知家长们。",
           "explain": "annoncer qch à qn 用 à 引出接受者；换成 informer qn de qch 后，人作直接宾语 les parents，内容由 de 引出。de + les décisions 缩合为 des décisions；主语单数，动词用 informe。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-l1-4",
+      "title": "直接宾语、à／de 补语与双宾语结构（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-l1-q28",
           "type": "tiles",
@@ -1090,8 +1114,8 @@
       ]
     },
     {
-      "id": "pub-c18-verb-complements-l2",
-      "title": "动词介词支配、多义动词与形容词搭配",
+      "id": "pub-c18-verb-complements-l2-1",
+      "title": "动词介词支配、多义动词与形容词搭配（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1236,7 +1260,15 @@
           ],
           "translation": "保罗很想念这座城市。",
           "explain": "manquer à qn 表示「被某人想念」；à Paul 用间接代词 lui 替换，放在变位动词 manque 前。主语 cette ville 是单数，动词用 manque。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-l2-2",
+      "title": "动词介词支配、多义动词与形容词搭配（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-l2-q9",
           "type": "choice",
@@ -1362,7 +1394,15 @@
           ],
           "translation": "她们对自己的选择感到满意。",
           "explain": "être heureux de qch 用 de 引出原因或对象；主语 elles 是阴性复数，heureux 变为 heureuses。拼写是 h-e-u-r-e-u-s-e-s。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-l2-3",
+      "title": "动词介词支配、多义动词与形容词搭配（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-l2-q17",
           "type": "tiles",
@@ -1561,7 +1601,15 @@
           ],
           "translation": "她在回复什么？",
           "explain": "aux lettres 是 à + les lettres 的缩合；被提问的是事物，还原介词后用 à quoi。倒装时 répond 与 elle 用连字符连接，写成 répond-elle。de qui 问人，不能保留 aux 的形式。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-l2-4",
+      "title": "动词介词支配、多义动词与形容词搭配（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-l2-q25",
           "type": "tiles",
@@ -1754,8 +1802,8 @@
       ]
     },
     {
-      "id": "pub-c18-verb-complements-l3",
-      "title": "动词、名词、形容词＋不定式",
+      "id": "pub-c18-verb-complements-l3-1",
+      "title": "动词、名词、形容词＋不定式（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1932,7 +1980,15 @@
           "answer": 2,
           "translation": "她说服了父母。",
           "explain": "réussir à + 不定式表示「成功做到某事」，à 后必须用原形 convaincre。réussir de 和零介词都不成立；选项 1 的 convainc 是变位形式，不能放在 à 后。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-l3-2",
+      "title": "动词、名词、形容词＋不定式（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-l3-q10",
           "type": "tiles",
@@ -2103,7 +2159,15 @@
           "answer": 1,
           "translation": "我想学弹钢琴。",
           "explain": "这句同时用了两个框架：avoir envie de + 不定式，以及 apprendre à + 不定式。de 在元音开头的 apprendre 前省音为 d'，所以是 d'apprendre à jouer。少一个介词或把 apprendre 的 à 换成 de 都不对。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-l3-3",
+      "title": "动词、名词、形容词＋不定式（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-l3-q19",
           "type": "tiles",
@@ -2347,7 +2411,15 @@
           ],
           "translation": "老师要求学生们不要离开教室。",
           "explain": "否定不定式用 ne pas + 不定式，ne pas 放在 de 后、quitter 前，不夹住变位动词 demande。demander à qn de faire 中 à + les élèves 缩合为 aux élèves；de 不能省。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-l3-4",
+      "title": "动词、名词、形容词＋不定式（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-l3-q28",
           "type": "choice",
@@ -2547,7 +2619,15 @@
           ],
           "translation": "医生要求病人休息。",
           "explain": "demander à qn de faire qch 表示要求某人做某事：demander au patient de se reposer。à + le patient 缩合为 au patient；de 引出不定式补语；dire 的变位 dit 要换成 demande。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-l3-5",
+      "title": "动词、名词、形容词＋不定式（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-l3-q37",
           "type": "tiles",
@@ -2809,7 +2889,15 @@
           ],
           "translation": "我们想试试这家餐馆。",
           "explain": "vouloir 直接接不定式；换成 avoir envie de + 不定式后，要用 avoir 的变位 + 名词 envie + de。主语 nous 的 avoir 是 avons；de 在元音开头的 essayer 前省音为 d'。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-l3-6",
+      "title": "动词、名词、形容词＋不定式（6）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-l3-q46",
           "type": "tiles",
@@ -3030,8 +3118,8 @@
       ]
     },
     {
-      "id": "pub-c18-verb-complements-l4",
-      "title": "faire／laisser、感知动词与位移动词",
+      "id": "pub-c18-verb-complements-l4-1",
+      "title": "faire／laisser、感知动词与位移动词（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -3151,7 +3239,15 @@
           "answer": 0,
           "translation": "是的，我让人建了三栋。",
           "explain": "en 代替 des maisons，放在助动词 ai 前：j'en ai fait construire trois。faire 的过去分词 fait 后接不定式时不变，不跟 en 后的名词配合，所以既不是 faits，也不是 construites。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-l4-2",
+      "title": "faire／laisser、感知动词与位移动词（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-l4-q8",
           "type": "tiles",
@@ -3294,7 +3390,15 @@
           ],
           "translation": "我们上去看风景。",
           "explain": "位移动词 monter 后直接加不定式 voir 表示目的，不需要 à 或 de。复合过去时用 être 作助动词，过去分词 montés 与主语 nous 配合；voir 保持不定式，不能变成变位形式 voyons。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-l4-3",
+      "title": "faire／laisser、感知动词与位移动词（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-l4-q15",
           "type": "choice",
@@ -3459,8 +3563,8 @@
       ]
     },
     {
-      "id": "pub-c18-verb-complements-l5",
-      "title": "il faut、il vaut mieux 与 il est + 形容词",
+      "id": "pub-c18-verb-complements-l5-1",
+      "title": "il faut、il vaut mieux 与 il est + 形容词（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -3598,7 +3702,15 @@
           ],
           "translation": "必须现在做这件事。",
           "explain": "il faut 直接接不定式 faire，代词 le 放在不定式前：Il faut le faire maintenant。il faut 后不能加 de；le 是直接宾语代词，指代前面提到的事物；lui 是间接宾语代词，用在这里不合句意。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-l5-2",
+      "title": "il faut、il vaut mieux 与 il est + 形容词（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-l5-q10",
           "type": "choice",
@@ -3797,8 +3909,8 @@
   ],
   "challenges": [
     {
-      "id": "pub-c18-verb-complements-x1",
-      "title": "补语框架综合：à／de、双宾语与不定式",
+      "id": "pub-c18-verb-complements-x1-1",
+      "title": "补语框架综合：à／de、双宾语与不定式（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -3897,7 +4009,15 @@
           "answer": 2,
           "translation": "她开始明白，并决定留下。",
           "explain": "commencer 用 à 引出不定式：commencer à comprendre；décider 用 de 引出不定式：décider de rester。两个动词的介词不能互换，也不能省略。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-x1-2",
+      "title": "补语框架综合：à／de、双宾语与不定式（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-x1-q7",
           "type": "tiles",
@@ -4022,8 +4142,8 @@
       ]
     },
     {
-      "id": "pub-c18-verb-complements-x2",
-      "title": "使役与代词综合：faire／laisser、感知与无人称",
+      "id": "pub-c18-verb-complements-x2-1",
+      "title": "使役与代词综合：faire／laisser、感知与无人称（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -4146,7 +4266,15 @@
           "answer": 2,
           "translation": "必须让人把它修好。",
           "explain": "il faut 直接接不定式 faire，不加 de；使役结构 faire réparer 的直接宾语代词 le 放在 faire 前：Il faut le faire réparer。faire le réparer 把代词放到了不定式前；il faut de 多加了介词；句末的 de 也是多余的。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c18-verb-complements-x2-2",
+      "title": "使役与代词综合：faire／laisser、感知与无人称（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c18-verb-complements-x2-q7",
           "type": "choice",

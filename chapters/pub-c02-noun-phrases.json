@@ -257,8 +257,8 @@
       ]
     },
     {
-      "id": "pub-c02-noun-phrases-l2",
-      "title": "阴性词形：加 -e、-er/-ier、鼻音双 n、-t 双写",
+      "id": "pub-c02-noun-phrases-l2-1",
+      "title": "阴性词形：加 -e、-er/-ier、鼻音双 n、-t 双写（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -321,7 +321,15 @@
           "accentKeys": [
             "è"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l2-2",
+      "title": "阴性词形：加 -e、-er/-ier、鼻音双 n、-t 双写（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c02-noun-phrases-l2-q7",
           "type": "letters",
@@ -401,8 +409,8 @@
       ]
     },
     {
-      "id": "pub-c02-noun-phrases-l3",
-      "title": "阴性词尾 -esse、-eur 的两条路径与词尾判性",
+      "id": "pub-c02-noun-phrases-l3-1",
+      "title": "阴性词尾 -esse、-eur 的两条路径与词尾判性（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -525,7 +533,15 @@
           "answer": 2,
           "translation": "「地址和财富」：选择正确的单数名词短语组合。",
           "explain": "adresse 和 richesse 都是以 -esse 结尾的阴性名词；adresse 以元音开头，用 l'adresse，richesse 以辅音 r 开头，用 la richesse。La adresse 未省音，le richesse 误作阳性，复数选项不符合单数要求。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l3-2",
+      "title": "阴性词尾 -esse、-eur 的两条路径与词尾判性（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c02-noun-phrases-l3-q10",
           "type": "choice",
@@ -659,8 +675,8 @@
       ]
     },
     {
-      "id": "pub-c02-noun-phrases-l4",
-      "title": "同形、不规则、复合名词与词条性例外",
+      "id": "pub-c02-noun-phrases-l4-1",
+      "title": "同形、不规则、复合名词与词条性例外（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -747,7 +763,15 @@
           "answer": "acteur",
           "translation": "男演员。",
           "explain": "acteur 是阳性 -eur 名词；它的阴性是 actrice，说明 -eur 的阴性可能走 -euse 或 -rice，不能只凭阳性词尾判断。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l4-2",
+      "title": "同形、不规则、复合名词与词条性例外（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c02-noun-phrases-l4-q7",
           "type": "letters",
@@ -829,8 +853,8 @@
       ]
     },
     {
-      "id": "pub-c02-noun-phrases-l5",
-      "title": "复数规则与例外",
+      "id": "pub-c02-noun-phrases-l5-1",
+      "title": "复数规则与例外（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -921,7 +945,15 @@
           ],
           "translation": "那个男孩的朋友（单数短语改为复数短语）",
           "explain": "l'ami 变为 les amis，冠词随复数变 les；du garçon 中的 du 是 de + le，改为复数后 de + les 缩合成 des，得到 les amis des garçons。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l5-2",
+      "title": "复数规则与例外（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c02-noun-phrases-l5-q9",
           "type": "tiles",
@@ -1224,8 +1256,8 @@
       ]
     },
     {
-      "id": "pub-c02-noun-phrases-l6",
-      "title": "冠词：不定、定指与部分",
+      "id": "pub-c02-noun-phrases-l6-1",
+      "title": "冠词：不定、定指与部分（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1312,7 +1344,15 @@
           "answer": 1,
           "translation": "盘子里还剩一些汤。",
           "explain": "soupe 是阴性不可数名词，表示“一些汤”用部分冠词 de la；du 用于阳性，des 用于复数，la 是定冠词，都不符合这里的“一些”。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l6-2",
+      "title": "冠词：不定、定指与部分（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c02-noun-phrases-l6-q7",
           "type": "choice",
@@ -1532,8 +1572,8 @@
       ]
     },
     {
-      "id": "pub-c02-noun-phrases-l8",
-      "title": "名词补语与身体部位",
+      "id": "pub-c02-noun-phrases-l8-1",
+      "title": "名词补语与身体部位（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1643,7 +1683,15 @@
           "answer": 1,
           "translation": "一位音乐老师到了；这位音乐老师来自里昂。",
           "explain": "首次提到用不定冠词 un，再次提到用定冠词 le（professeur 阳性）。de musique 是职业类别补语，不带冠词；de la musique 会读成特定音乐的所属，不符合这里的职业类别语义。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l8-2",
+      "title": "名词补语与身体部位（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c02-noun-phrases-l8-q8",
           "type": "tiles",
@@ -1775,8 +1823,8 @@
       ]
     },
     {
-      "id": "pub-c02-noun-phrases-l9",
-      "title": "名词短语单复数转换",
+      "id": "pub-c02-noun-phrases-l9-1",
+      "title": "名词短语单复数转换（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1920,7 +1968,15 @@
           "answer": 0,
           "translation": "这些画/黑板；这些窗户。",
           "explain": "le/la→les；tableau 以 -eau 结尾加 -x 成 tableaux；fenêtre 一般加 -s 成 fenêtres。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l9-2",
+      "title": "名词短语单复数转换（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c02-noun-phrases-l9-q9",
           "type": "choice",

@@ -429,8 +429,8 @@
       ]
     },
     {
-      "id": "pub-c12-demonstrative-possessive-indefinite-l3",
-      "title": "autre、l'autre 与 l'un...l'autre",
+      "id": "pub-c12-demonstrative-possessive-indefinite-l3-1",
+      "title": "autre、l'autre 与 l'un...l'autre（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -602,7 +602,15 @@
           ],
           "translation": "其余的人已经走了。",
           "explain": "定指复数用 les autres，autre 要加 -s；主语是复数，助动词 sont 与过去分词 partis 也都是复数。不能写成单数 autre。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c12-demonstrative-possessive-indefinite-l3-2",
+      "title": "autre、l'autre 与 l'un...l'autre（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q10",
           "type": "tiles",
@@ -795,8 +803,8 @@
       ]
     },
     {
-      "id": "pub-c12-demonstrative-possessive-indefinite-l4",
-      "title": "不定代词与泛指词：chacun、quelqu'un、quelques-uns",
+      "id": "pub-c12-demonstrative-possessive-indefinite-l4-1",
+      "title": "不定代词与泛指词：chacun、quelqu'un、quelques-uns（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -921,7 +929,15 @@
           ],
           "translation": "所有客人都收到了一份礼物。→ 客人们每人收到了一份礼物。",
           "explain": "源句已用复数主语 tous les invités 和复数谓语 ont reçu；把代词 chacun 作同位语插在助动词与过去分词之间（或过去分词后），谓语仍与 les invités 一致，保持复数。所指包含男女，用 chacun 而非 chacune；chaque 是形容词，不能这样单独作同位语。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c12-demonstrative-possessive-indefinite-l4-2",
+      "title": "不定代词与泛指词：chacun、quelqu'un、quelques-uns（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q8",
           "type": "choice",
@@ -1030,7 +1046,15 @@
           "answer": 0,
           "translation": "她给我们讲了一件令人惊讶的事。",
           "explain": "quelque chose 是阳性单数代词，de 后的形容词用阳性单数 surprenant。它不随说话人或被讲述内容的实际性别变化，也不能用复数形式。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c12-demonstrative-possessive-indefinite-l4-3",
+      "title": "不定代词与泛指词：chacun、quelqu'un、quelques-uns（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q15",
           "type": "letters",
@@ -1167,8 +1191,8 @@
       ]
     },
     {
-      "id": "pub-c12-demonstrative-possessive-indefinite-l5",
-      "title": "否定代词与部分否定：personne、rien、pas grand-chose",
+      "id": "pub-c12-demonstrative-possessive-indefinite-l5-1",
+      "title": "否定代词与部分否定：personne、rien、pas grand-chose（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1320,7 +1344,15 @@
           ],
           "translation": "我没有别的要补充了。",
           "explain": "rien d'autre 表示「没有别的东西」；rien 作 avoir 的宾语，放在变位动词 ai 之后，d'autre 紧跟在 rien 后。不能用指人的 personne，也不能写 de autre。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c12-demonstrative-possessive-indefinite-l5-2",
+      "title": "否定代词与部分否定：personne、rien、pas grand-chose（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q9",
           "type": "choice",
@@ -1465,7 +1497,15 @@
           "answer": 3,
           "translation": "在「Je n'ai rien vu」中，rien 位于助动词和过去分词之间。",
           "explain": "rien 作宾语时放在变位动词后；复合时态中变位动词是助动词 ai，所以 rien 位于 ai 与过去分词 vu 之间。对比 personne 作宾语时要放在过去分词之后：Je n'ai vu personne。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c12-demonstrative-possessive-indefinite-l5-3",
+      "title": "否定代词与部分否定：personne、rien、pas grand-chose（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q17",
           "type": "choice",
@@ -1869,8 +1909,8 @@
       ]
     },
     {
-      "id": "pub-c12-demonstrative-possessive-indefinite-x2",
-      "title": "不定/否定代词与中性指代综合",
+      "id": "pub-c12-demonstrative-possessive-indefinite-x2-1",
+      "title": "不定/否定代词与中性指代综合（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1982,7 +2022,15 @@
           ],
           "translation": "她们互相帮助。",
           "explain": "主语 elles 全为女性，相互结构用 l'une...l'autre；动词 aider 直接带宾语，不加介词，所以写成 l'une l'autre。l'un 是阳性，les unes 是复数分组形式，都不能用于这个成对结构。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c12-demonstrative-possessive-indefinite-x2-2",
+      "title": "不定/否定代词与中性指代综合（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x2-q7",
           "type": "choice",

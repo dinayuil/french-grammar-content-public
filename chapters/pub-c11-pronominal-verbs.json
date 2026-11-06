@@ -206,8 +206,8 @@
   ],
   "lessons": [
     {
-      "id": "pub-c11-pronominal-verbs-l1",
-      "title": "代词式动词的构成、自反代词变位与意义",
+      "id": "pub-c11-pronominal-verbs-l1-1",
+      "title": "代词式动词的构成、自反代词变位与意义（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -348,7 +348,15 @@
           ],
           "translation": "我们处理这个问题。",
           "explain": "s'occuper de 是词汇性代词式动词；主语 nous，自反代词用 nous，occuper 的现在时第一人称复数为 occupons。不要写成 occupe 或 occupont。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l1-2",
+      "title": "代词式动词的构成、自反代词变位与意义（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c11-pronominal-verbs-l1-q10",
           "type": "tiles",
@@ -525,7 +533,15 @@
           ],
           "translation": "她们在聚会上相遇了。",
           "explain": "se rencontrer 表示相互意义，se 是直接宾语（rencontrer qn）；复合过去时用 être，过去分词与主语 elles 配合，加 -es 成 rencontrées。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l1-3",
+      "title": "代词式动词的构成、自反代词变位与意义（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c11-pronominal-verbs-l1-q19",
           "type": "choice",
@@ -685,8 +701,8 @@
       ]
     },
     {
-      "id": "pub-c11-pronominal-verbs-l2",
-      "title": "简单时态、否定、疑问与倒装",
+      "id": "pub-c11-pronominal-verbs-l2-1",
+      "title": "简单时态、否定、疑问与倒装（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -830,7 +846,15 @@
           "answer": 1,
           "translation": "小时候我八点睡觉。",
           "explain": "未完成过去时第一人称单数词尾是 -ais：je me couchais。me couche 是现在时，me couchait 是第三人称单数，me coucherai 是将来时。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l2-2",
+      "title": "简单时态、否定、疑问与倒装（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c11-pronominal-verbs-l2-q11",
           "type": "letters",
@@ -1001,8 +1025,8 @@
       ]
     },
     {
-      "id": "pub-c11-pronominal-verbs-l3",
-      "title": "复合时态（复合过去时与愈过去时）",
+      "id": "pub-c11-pronominal-verbs-l3-1",
+      "title": "复合时态（复合过去时与愈过去时）（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1123,7 +1147,15 @@
           ],
           "translation": "她记得自己的童年吗？",
           "explain": "复合时态倒装以助动词 est 为操作对象，写成 S'est-elle；自反代词 s' 留在助动词前，过去分词 souvenue 与主语 elle 配合且位置不变。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l3-2",
+      "title": "复合时态（复合过去时与愈过去时）（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c11-pronominal-verbs-l3-q8",
           "type": "tiles",
@@ -1274,8 +1306,8 @@
       ]
     },
     {
-      "id": "pub-c11-pronominal-verbs-l4",
-      "title": "过去分词配合",
+      "id": "pub-c11-pronominal-verbs-l4-1",
+      "title": "过去分词配合（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1392,7 +1424,15 @@
           ],
           "translation": "他们想起了自己的承诺。",
           "explain": "se souvenir 按主语配合；主语 ils 是阳性复数，过去分词加 -s，写 souvenus。不要因为后面有 de + 名词就误判为间接宾语而不配合。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l4-2",
+      "title": "过去分词配合（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c11-pronominal-verbs-l4-q9",
           "type": "choice",
@@ -1731,8 +1771,8 @@
       ]
     },
     {
-      "id": "pub-c11-pronominal-verbs-l6",
-      "title": "自反代词作直接/间接宾语",
+      "id": "pub-c11-pronominal-verbs-l6-1",
+      "title": "自反代词作直接/间接宾语（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1877,7 +1917,15 @@
           ],
           "translation": "他们昨天见了面。",
           "explain": "se rencontrer 是直接相互意义，se 作直接宾语；复合过去时与阳性复数主语 ils 配合，写 rencontrés。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l6-2",
+      "title": "自反代词作直接/间接宾语（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c11-pronominal-verbs-l6-q11",
           "type": "tiles",
@@ -2060,8 +2108,8 @@
       ]
     },
     {
-      "id": "pub-c11-pronominal-verbs-l7",
-      "title": "第 7 单元 重读代词：介词后、强调与识别",
+      "id": "pub-c11-pronominal-verbs-l7-1",
+      "title": "第 7 单元 重读代词：介词后、强调与识别（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -2200,7 +2248,15 @@
           "answer": 1,
           "translation": "我明天去我的表兄弟家。",
           "explain": "chez 是介词，后接指人的重读代词；mes cousins 是阳性复数，用 eux。ils 是主语代词，不能作介词补语；leur/les 是宾语代词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l7-2",
+      "title": "第 7 单元 重读代词：介词后、强调与识别（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c11-pronominal-verbs-l7-q9",
           "type": "tiles",
@@ -2335,7 +2391,15 @@
           "answer": 2,
           "translation": "谁打的电话？——是他。",
           "explain": "c'est 后指人做识别时用重读代词；Paul 是男性单数，用 lui。il 是主语代词，不能直接放在 c'est 后；le 是直接宾语代词。此用法只要求识别。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l7-3",
+      "title": "第 7 单元 重读代词：介词后、强调与识别（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c11-pronominal-verbs-l7-q17",
           "type": "choice",
@@ -2470,8 +2534,8 @@
       ]
     },
     {
-      "id": "pub-c11-pronominal-verbs-l8",
-      "title": "第 8 单元 on、tout le monde 与代词 tout",
+      "id": "pub-c11-pronominal-verbs-l8-1",
+      "title": "第 8 单元 on、tout le monde 与代词 tout（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -2632,7 +2696,15 @@
           ],
           "translation": "大家对这个消息都很高兴。",
           "explain": "tout le monde 是单数主语，être 用第三人称单数 est。sont 对应 ils/elles，es 对应 tu，êtes 对应 vous。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l8-2",
+      "title": "第 8 单元 on、tout le monde 与代词 tout（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c11-pronominal-verbs-l8-q11",
           "type": "tiles",
@@ -2788,7 +2860,15 @@
           "answer": 2,
           "translation": "保罗和玛丽到了。→ 他们到了。",
           "explain": "Paul et Marie 是混合性别复数，按规则用 ils。elles 只用于全为女性；eux 是重读代词，不能作主语；les 是直接宾语代词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l8-3",
+      "title": "第 8 单元 on、tout le monde 与代词 tout（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c11-pronominal-verbs-l8-q21",
           "type": "choice",
@@ -2943,7 +3023,15 @@
           "answer": 2,
           "translation": "大家都很高兴。",
           "explain": "tout le monde 是固定单数形式：tout 不变，le monde 用单数，动词用 est，表语形容词也用单数 content。不能写成 tous le monde，也不能用复数动词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-l8-4",
+      "title": "第 8 单元 on、tout le monde 与代词 tout（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c11-pronominal-verbs-l8-q31",
           "type": "letters",
@@ -3132,8 +3220,8 @@
   ],
   "challenges": [
     {
-      "id": "pub-c11-pronominal-verbs-x1",
-      "title": "代词式动词综合",
+      "id": "pub-c11-pronominal-verbs-x1-1",
+      "title": "代词式动词综合（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -3269,7 +3357,15 @@
           ],
           "translation": "我到的时候，她们上床睡了。→ 我到的时候，她们已经上床睡了。",
           "explain": "愈过去时由自反代词 + être 的未完成过去时 + 过去分词构成：elles s'étaient couchées。se coucher 的自反代词作直接宾语，分词与阴性复数主语配合；不能用复合过去时 se sont couchées。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-x1-2",
+      "title": "代词式动词综合（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c11-pronominal-verbs-x1-q9",
           "type": "choice",
@@ -3403,8 +3499,8 @@
       ]
     },
     {
-      "id": "pub-c11-pronominal-verbs-x2",
-      "title": "人称指代综合",
+      "id": "pub-c11-pronominal-verbs-x2-1",
+      "title": "人称指代综合（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -3491,7 +3587,15 @@
           "answer": 1,
           "translation": "这位女士是谁？——是她，我的新邻居。",
           "explain": "c'est 后指人做识别用重读代词；cette dame 是女性单数，用 elle。lui 指男性；la 是直接宾语代词；se 是自反代词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c11-pronominal-verbs-x2-2",
+      "title": "人称指代综合（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c11-pronominal-verbs-x2-q7",
           "type": "choice",

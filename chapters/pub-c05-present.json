@@ -156,8 +156,8 @@
   ],
   "lessons": [
     {
-      "id": "pub-c05-present-l1",
-      "title": "être 与 avoir 的现在时",
+      "id": "pub-c05-present-l1-1",
+      "title": "être 与 avoir 的现在时（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -268,7 +268,15 @@
           "answer": 3,
           "translation": "« avez » 对应的主语代词是哪一个？",
           "explain": "avez 是 avoir 的第二人称复数形式，主语只能是 vous。nous 对应 avons，ils/elles 对应 ont，tu 对应 as。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l1-2",
+      "title": "être 与 avoir 的现在时（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c05-present-l1-q8",
           "type": "letters",
@@ -372,7 +380,15 @@
           "answer": 3,
           "translation": "桌上有三本书。",
           "explain": "表示「桌上有三本书」用存在句 il y a，动词是 avoir 的 a。il est 后接表语，不表示存在；il a 表示「他有」；il y ont 中 ont 与无人称的 il 不搭配。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l1-3",
+      "title": "être 与 avoir 的现在时（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c05-present-l1-q15",
           "type": "letters",
@@ -566,8 +582,8 @@
       ]
     },
     {
-      "id": "pub-c05-present-l2",
-      "title": "第一组规则词尾与词干",
+      "id": "pub-c05-present-l2-1",
+      "title": "第一组规则词尾与词干（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -704,7 +720,15 @@
           "answer": 2,
           "translation": "哪个形式的主语可以是 « je » 或 « il »？",
           "explain": "词尾 -e 可对应 je、il、elle、on 四个主语，单凭词尾不能确定唯一主语；-es 只对应 tu，-ez 只对应 vous，-ons 只对应 nous。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l2-2",
+      "title": "第一组规则词尾与词干（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c05-present-l2-q10",
           "type": "choice",
@@ -840,7 +864,15 @@
           "answer": 3,
           "translation": "您/你们说得太快了。",
           "explain": "主语 vous，parler 用 -ez：vous parlez。parlons 对应 nous，parlent 对应 ils/elles，parle 对应 je/il/elle/on。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l2-3",
+      "title": "第一组规则词尾与词干（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c05-present-l2-q19",
           "type": "letters",
@@ -980,7 +1012,15 @@
           ],
           "translation": "孩子在花园里玩。→ 孩子们在花园里玩。",
           "explain": "源句主语 l'enfant 是单数，变复数后冠词变 les，名词 enfants 加 -s，动词 jouer 用 -ent：jouent。dans le jardin 不变。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l2-4",
+      "title": "第一组规则词尾与词干（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c05-present-l2-q27",
           "type": "tiles",
@@ -1105,7 +1145,15 @@
           "answer": 3,
           "translation": "哪一组现在时形式完全正确？",
           "explain": "正确的一组是 nous parlons, vous parlez, ils parlent：-ons 配 nous，-ez 配 vous，-ent 配 ils。其余选项都把主语和词尾配错。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l2-5",
+      "title": "第一组规则词尾与词干（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c05-present-l2-q35",
           "type": "tiles",
@@ -1323,8 +1371,8 @@
       ]
     },
     {
-      "id": "pub-c05-present-l3",
-      "title": "第一组拼写调整：-cer、-ger、-yer 与辅音双写",
+      "id": "pub-c05-present-l3-1",
+      "title": "第一组拼写调整：-cer、-ger、-yer 与辅音双写（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1456,7 +1504,15 @@
           "answer": 1,
           "translation": "他们寄信。",
           "explain": "envoyer 属 -oyer 动词，ils 形式把 y 改成 i：ils envoient。envoyent 不是标准形式；envoie 是单数；envoyons 对应 nous。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l3-2",
+      "title": "第一组拼写调整：-cer、-ger、-yer 与辅音双写（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c05-present-l3-q10",
           "type": "letters",
@@ -1817,8 +1873,8 @@
       ]
     },
     {
-      "id": "pub-c05-present-l5",
-      "title": "主谓一致：找对主语，选对词尾",
+      "id": "pub-c05-present-l5-1",
+      "title": "主谓一致：找对主语，选对词尾（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1912,7 +1968,15 @@
           "answer": "lancent",
           "translation": "他们把球扔得太用力。",
           "explain": "lancer 的 ils 形式是 lancent：词干 lanc- 加 -ent。软音符只出现在 nous 形式 lançons（c→ç），ils 形式不改变 c。不能写成 lançent。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l5-2",
+      "title": "主谓一致：找对主语，选对词尾（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c05-present-l5-q9",
           "type": "letters",
@@ -2012,7 +2076,15 @@
           "answer": "payons",
           "translation": "我们用银行卡付款。",
           "explain": "payer 属于 -yer 类；nous 形式保留 y，写成 payons。单数及第三人称复数才把 y 改为 i（je paie、ils paient）；nous/vous 保留 y。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-l5-3",
+      "title": "主谓一致：找对主语，选对词尾（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c05-present-l5-q17",
           "type": "tiles",
@@ -2589,8 +2661,8 @@
   ],
   "challenges": [
     {
-      "id": "pub-c05-present-x1",
-      "title": "综合：变位与一致",
+      "id": "pub-c05-present-x1-1",
+      "title": "综合：变位与一致（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -2702,7 +2774,15 @@
           "answer": 3,
           "translation": "哪个主语组合能正确填入：« ___ sommes prêts et ___ avez raison. »？",
           "explain": "sommes 只对应 nous，avez 只对应 vous；两个空都要由动词词尾反推主语，不能凭语序猜。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c05-present-x1-2",
+      "title": "综合：变位与一致（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c05-present-x1-q7",
           "type": "letters",

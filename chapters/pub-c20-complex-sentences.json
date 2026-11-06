@@ -315,8 +315,8 @@
       ]
     },
     {
-      "id": "pub-c20-complex-sentences-l2",
-      "title": "时间从句与先时关系",
+      "id": "pub-c20-complex-sentences-l2-1",
+      "title": "时间从句与先时关系（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -469,7 +469,15 @@
           ],
           "translation": "她每次来都会带一个蛋糕。",
           "explain": "题目要求保留过去的习惯，所以主句与从句都用未完成过去时：venait、apportait。复合过去时 est venue / a apporté 可以描述过去发生的事，但会把每次来访说成单次完成事件，不能体现题目要求的习惯读法。que 在 elle 前省音为 qu'elle。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c20-complex-sentences-l2-2",
+      "title": "时间从句与先时关系（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c20-complex-sentences-l2-q9",
           "type": "choice",
@@ -604,7 +612,15 @@
           "answer": 1,
           "translation": "我正在读书时，他进来了。",
           "explain": "未完成过去时 lisais 描述正在进行的背景，复合过去时 est entré 表示打断背景的单一事件，二者配合。第一句时态分工颠倒；第三句两个都是未完成过去时，没有单一事件；第四句两个都是复合过去时，变成先后发生的两个事件。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c20-complex-sentences-l2-3",
+      "title": "时间从句与先时关系（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c20-complex-sentences-l2-q17",
           "type": "choice",
@@ -778,8 +794,8 @@
       ]
     },
     {
-      "id": "pub-c20-complex-sentences-l3",
-      "title": "原因、目的与结果",
+      "id": "pub-c20-complex-sentences-l3-1",
+      "title": "原因、目的与结果（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -984,7 +1000,15 @@
           "answer": 1,
           "translation": "他早早回家了，因为他当时很累。",
           "explain": "car 后面必须接完整分句（主语＋变位动词），不能接名词短语或不定式，也不能与 parce que 叠加。只有第二句符合这一结构。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c20-complex-sentences-l3-2",
+      "title": "原因、目的与结果（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c20-complex-sentences-l3-q11",
           "type": "choice",
@@ -1230,7 +1254,15 @@
           ],
           "translation": "他工作如此之多，以至于筋疲力尽。",
           "explain": "tellement 修饰动词 travaille，放在动词后；que 引出结果从句。tellement 不能直接接名词（tellement de + 名词），也不用 si（si 修饰形容词或副词）。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c20-complex-sentences-l3-3",
+      "title": "原因、目的与结果（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c20-complex-sentences-l3-q21",
           "type": "choice",
@@ -1436,7 +1468,15 @@
           ],
           "translation": "电影太长，我们没看完就走了。",
           "explain": "long 是形容词，用 si + 形容词 + que 引出结果；从句用复合过去时表示已完成的动作。tellement 也可修饰形容词，但题目要求 si；tant 修饰动词，tant de 后接名词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c20-complex-sentences-l3-4",
+      "title": "原因、目的与结果（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c20-complex-sentences-l3-q30",
           "type": "choice",
@@ -1673,8 +1713,8 @@
       ]
     },
     {
-      "id": "pub-c20-complex-sentences-l4",
-      "title": "让步与对照",
+      "id": "pub-c20-complex-sentences-l4-1",
+      "title": "让步与对照（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1800,7 +1840,15 @@
           "answer": 1,
           "translation": "路很短，但很难走。",
           "explain": "mais 连接两个意义相对的分句，放在它们之间，后面接完整分句 il est difficile。它不能直接接不定式，也不能像副词一样插在分句内部。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c20-complex-sentences-l4-2",
+      "title": "让步与对照（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c20-complex-sentences-l4-q7",
           "type": "tiles",
@@ -2138,8 +2186,8 @@
   ],
   "challenges": [
     {
-      "id": "pub-c20-complex-sentences-x1",
-      "title": "时间与逻辑综合",
+      "id": "pub-c20-complex-sentences-x1-1",
+      "title": "时间与逻辑综合（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -2249,7 +2297,15 @@
           "answer": 1,
           "translation": "他睡得那么少，以至于开车时睡着了，不过他侥幸避开了事故。",
           "explain": "si + 副词（peu）+ que 引出程度结果；结果用直陈式。s'endormir 是过去的一次性动作，用复合过去时 s'est endormi；éviter 也是过去的一次性动作，用复合过去时 a évité。s'endormait / évitait 是未完成过去时，表示持续或习惯；s'endorme / évite 是虚拟式；s'était endormi / avait évité 是愈过去时，表示更早完成，与这里的连续事件不符。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c20-complex-sentences-x1-2",
+      "title": "时间与逻辑综合（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c20-complex-sentences-x1-q7",
           "type": "choice",

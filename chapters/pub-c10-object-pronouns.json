@@ -211,8 +211,8 @@
   ],
   "lessons": [
     {
-      "id": "pub-c10-object-pronouns-l1",
-      "title": "直接/间接宾语与代词选择",
+      "id": "pub-c10-object-pronouns-l1-1",
+      "title": "直接/间接宾语与代词选择（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -355,7 +355,15 @@
           "answer": 1,
           "translation": "我们给女校长写信。",
           "explain": "écrire à qn 是间接宾语，单数人用 lui。la 是直接宾语代词；leur 用于复数人。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-2",
+      "title": "直接/间接宾语与代词选择（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q11",
           "type": "choice",
@@ -495,7 +503,15 @@
           "answer": 3,
           "translation": "我们跟邻居们说话。",
           "explain": "parler à qn 是间接宾语；aux voisins 是复数人，用 leur。lui 只用于单数，les 是直接宾语代词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-3",
+      "title": "直接/间接宾语与代词选择（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q21",
           "type": "choice",
@@ -635,7 +651,15 @@
           "answer": 1,
           "translation": "他在车站前等我们。",
           "explain": "attendre qn 直接带宾语，nous 作直接宾语形式不变。vous 会改变所指对象，les 是第三人称，leur 是间接宾语。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-4",
+      "title": "直接/间接宾语与代词选择（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q31",
           "type": "choice",
@@ -775,7 +799,15 @@
           "answer": 3,
           "translation": "我们邀请他们。",
           "explain": "inviter qn 直接带宾语，用 les，并放在变位动词 invitons 前。leur 是间接宾语代词，不能与 inviter qn 搭配；代词也不能后置。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-5",
+      "title": "直接/间接宾语与代词选择（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q41",
           "type": "letters",
@@ -905,7 +937,15 @@
           ],
           "translation": "他们帮助他们的邻居吗？——是的，他们帮助邻居们。",
           "explain": "aider qn 直接带宾语，leurs voisins 是复数，用 les；不要因为「给邻居帮忙」而误用 leur。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-6",
+      "title": "直接/间接宾语与代词选择（6）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q51",
           "type": "letters",
@@ -1035,7 +1075,15 @@
           ],
           "translation": "她很了解你。",
           "explain": "connaître qn 直接带宾语，第二人称单数用 te；connaît 以辅音开头，所以不省音。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-7",
+      "title": "直接/间接宾语与代词选择（7）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q61",
           "type": "letters",
@@ -1165,7 +1213,15 @@
           ],
           "translation": "我们在看这张照片吗？——是的，我们在看。",
           "explain": "cette photo 是阴性单数直接宾语，用 la；regardons 以辅音开头，不省音。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-8",
+      "title": "直接/间接宾语与代词选择（8）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q71",
           "type": "tiles",
@@ -1385,7 +1441,15 @@
           ],
           "translation": "你们读报纸。",
           "explain": "les journaux 是复数直接宾语，用 les。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-9",
+      "title": "直接/间接宾语与代词选择（9）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q81",
           "type": "tiles",
@@ -1608,7 +1672,15 @@
           ],
           "translation": "她不跟她弟弟说话。",
           "explain": "parler à qn 是间接宾语，单数人用 lui；否定结构为 ne + 代词 + 动词 + pas。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-10",
+      "title": "直接/间接宾语与代词选择（10）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q91",
           "type": "tiles",
@@ -1859,8 +1931,8 @@
       ]
     },
     {
-      "id": "pub-c10-object-pronouns-l2",
-      "title": "en 的用法",
+      "id": "pub-c10-object-pronouns-l2-1",
+      "title": "en 的用法（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1989,7 +2061,15 @@
           "answer": 0,
           "translation": "你有兄弟吗？——是的，有一个。",
           "explain": "un + 名词用 en 替代名词，肯定句中把数量词 un 留在句末。le 是定指直接宾语代词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l2-2",
+      "title": "en 的用法（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l2-q10",
           "type": "choice",
@@ -2115,7 +2195,15 @@
           "answer": 1,
           "translation": "他买了两本书。",
           "explain": "en 替代数量补语中的名词，数词 deux 保留在句末；en 放在助动词 a 前。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l2-3",
+      "title": "en 的用法（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l2-q19",
           "type": "choice",
@@ -2241,7 +2329,15 @@
           "answer": 2,
           "translation": "我们从车站来。",
           "explain": "venir de + 地点是来源补语，用 en；替代后不保留 de la。y 用于目的地。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l2-4",
+      "title": "en 的用法（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l2-q28",
           "type": "choice",
@@ -2361,7 +2457,15 @@
           ],
           "translation": "他害怕这次考试；他害怕它。",
           "explain": "avoir peur de + 事物用 en 替代 de 补语：il en a peur。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l2-5",
+      "title": "en 的用法（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l2-q37",
           "type": "letters",
@@ -2478,7 +2582,15 @@
           ],
           "translation": "她有多少姐妹？——她一个也没有。",
           "explain": "否定数量用 n'en ... aucune，与所指阴性名词配合；aucune 通常保持单数。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l2-6",
+      "title": "en 的用法（6）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l2-q46",
           "type": "letters",
@@ -2630,7 +2742,15 @@
           ],
           "translation": "我们买水果。",
           "explain": "des + 不定复数名词用 en 替代，替代后不保留 des。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l2-7",
+      "title": "en 的用法（7）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l2-q55",
           "type": "tiles",
@@ -2837,7 +2957,15 @@
           ],
           "translation": "他在这里有几个朋友。",
           "explain": "quelques + 名词用 en 替代名词，保留 quelques-uns，并与阳性复数 amis 配合。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l2-8",
+      "title": "en 的用法（8）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l2-q64",
           "type": "tiles",
@@ -3051,8 +3179,8 @@
       ]
     },
     {
-      "id": "pub-c10-object-pronouns-l3",
-      "title": "y 的用法",
+      "id": "pub-c10-object-pronouns-l3-1",
+      "title": "y 的用法（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -3167,7 +3295,15 @@
           "answer": 3,
           "translation": "他在他的房间里。",
           "explain": "地点补语 dans sa chambre 用 y；y 在变位动词 est 前。là 是副词，不是代词替换。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l3-2",
+      "title": "y 的用法（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l3-q9",
           "type": "choice",
@@ -3299,7 +3435,15 @@
           ],
           "translation": "我们去巴黎。",
           "explain": "地点补语 à Paris 用 y；替代后不保留 à。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l3-3",
+      "title": "y 的用法（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l3-q17",
           "type": "tiles",
@@ -3484,7 +3628,15 @@
           ],
           "translation": "她每年参加这个会议。",
           "explain": "participer à + 事物用 y；y 放在变位动词 participe 前。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l3-4",
+      "title": "y 的用法（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l3-q25",
           "type": "tiles",
@@ -3663,8 +3815,8 @@
       ]
     },
     {
-      "id": "pub-c10-object-pronouns-l4",
-      "title": "单代词的位置与省音",
+      "id": "pub-c10-object-pronouns-l4-1",
+      "title": "单代词的位置与省音（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -3807,7 +3959,15 @@
           ],
           "answer": 2,
           "translation": "她犹豫要不要谈她的计划。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l4-2",
+      "title": "单代词的位置与省音（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l4-q11",
           "type": "choice",
@@ -3944,7 +4104,15 @@
             "é"
           ],
           "translation": "我们听这首歌已经一个小时了。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l4-3",
+      "title": "单代词的位置与省音（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l4-q21",
           "type": "letters",
@@ -4113,7 +4281,15 @@
           ],
           "translation": "我想看这部电影。",
           "explain": "代词属于不定式 voir，放在 voir 前，而不是放在变位动词 veux 前。le film 已被 le 替代，不再保留。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l4-4",
+      "title": "单代词的位置与省音（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l4-q31",
           "type": "tiles",
@@ -4344,7 +4520,15 @@
           ],
           "translation": "你们要陪玛丽和我。→ 你们要陪我们。",
           "explain": "Marie et moi 合起来用第一人称复数 nous；nous 是 accompagner 的直接宾语，放在不定式 accompagner 前，不能放在 aller 前或不定式后。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l4-5",
+      "title": "单代词的位置与省音（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l4-q41",
           "type": "tiles",
@@ -4554,8 +4738,8 @@
       ]
     },
     {
-      "id": "pub-c10-object-pronouns-l5",
-      "title": "双代词顺序：陈述句与不定式",
+      "id": "pub-c10-object-pronouns-l5-1",
+      "title": "双代词顺序：陈述句与不定式（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -4698,7 +4882,15 @@
           ],
           "answer": 1,
           "translation": "得跟他们谈谈这个问题。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l5-2",
+      "title": "双代词顺序：陈述句与不定式（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l5-q11",
           "type": "choice",
@@ -4834,7 +5026,15 @@
             "t"
           ],
           "translation": "他送给她们一些。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l5-3",
+      "title": "双代词顺序：陈述句与不定式（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l5-q21",
           "type": "letters",
@@ -5024,7 +5224,15 @@
           ],
           "translation": "你把真相告诉妈妈。",
           "explain": "la 指 la vérité，lui 替代 à ta mère；顺序 la → lui，放在变位动词 dis 前。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l5-4",
+      "title": "双代词顺序：陈述句与不定式（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l5-q31",
           "type": "tiles",
@@ -5249,7 +5457,15 @@
           ],
           "translation": "她给学生们解释了这个问题。",
           "explain": "le 指 le problème，leur 替代 aux étudiants；顺序 le → leur，放在助动词 a 前。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l5-5",
+      "title": "双代词顺序：陈述句与不定式（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l5-q40",
           "type": "tiles",
@@ -5478,7 +5694,15 @@
           ],
           "translation": "他想买一辆车。",
           "explain": "une voiture 用 en 替代，数量词 une 留在不定式后；en 放在不定式 acheter 前：il veut en acheter une。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l5-6",
+      "title": "双代词顺序：陈述句与不定式（6）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l5-q49",
           "type": "tiles",
@@ -5704,7 +5928,15 @@
           ],
           "translation": "你送了我们一件礼物。→ 你送了我们一件。",
           "explain": "un cadeau 用 en 替代，阳性单数数量词 un 保留在句末；nous 是间接宾语。顺序 nous → en → as，过去分词不配合，写 offert。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l5-7",
+      "title": "双代词顺序：陈述句与不定式（7）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l5-q58",
           "type": "tiles",
@@ -5906,7 +6138,15 @@
           ],
           "translation": "导游给我们讲解了规则。→ 导游给我们讲解了它们。",
           "explain": "les règles 是阴性复数直接宾语，用 les；nous 是间接宾语。顺序 nous → les → a，过去分词与 les 配合写 expliquées。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l5-8",
+      "title": "双代词顺序：陈述句与不定式（8）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l5-q67",
           "type": "tiles",
@@ -6113,8 +6353,8 @@
       ]
     },
     {
-      "id": "pub-c10-object-pronouns-l6",
-      "title": "命令式中的宾语代词",
+      "id": "pub-c10-object-pronouns-l6-1",
+      "title": "命令式中的宾语代词（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -6283,7 +6523,15 @@
           ],
           "answer": 2,
           "translation": "关上它！"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l6-2",
+      "title": "命令式中的宾语代词（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l6-q11",
           "type": "choice",
@@ -6444,7 +6692,15 @@
           ],
           "translation": "给你父母写信。",
           "explain": "à tes parents 是复数间接宾语，用 leur；tu 命令式 écris 以 -s 结尾，保留 -s，后接 leur。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l6-3",
+      "title": "命令式中的宾语代词（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l6-q21",
           "type": "choice",
@@ -6594,7 +6850,15 @@
           ],
           "answer": 3,
           "translation": "哪一句是错的？"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l6-4",
+      "title": "命令式中的宾语代词（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l6-q31",
           "type": "tiles",
@@ -6786,7 +7050,15 @@
           ],
           "translation": "别把书给我。",
           "explain": "否定命令式中 moi 恢复为 me，并回到动词前：ne me donne pas le livre。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l6-5",
+      "title": "命令式中的宾语代词（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l6-q41",
           "type": "tiles",
@@ -6981,7 +7253,15 @@
           ],
           "answer": 2,
           "translation": "把词典给他。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l6-6",
+      "title": "命令式中的宾语代词（6）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l6-q51",
           "type": "choice",
@@ -7170,7 +7450,15 @@
           ],
           "translation": "带我们去公园。",
           "explain": "nous 指直接宾语，au parc 用 y；肯定命令式中顺序 nous → y。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l6-7",
+      "title": "命令式中的宾语代词（7）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l6-q61",
           "type": "tiles",
@@ -7357,7 +7645,15 @@
           ],
           "answer": 0,
           "translation": "哪一句是错的？"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l6-8",
+      "title": "命令式中的宾语代词（8）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l6-q71",
           "type": "choice",
@@ -7497,7 +7793,15 @@
           "answer": 1,
           "translation": "谈谈这件事！",
           "explain": "tu 命令式 parle 以 -e 结尾，接 en 时加增音 -s：parles-en。不能写 parle-en，也不能保留 de。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l6-9",
+      "title": "命令式中的宾语代词（9）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l6-q81",
           "type": "choice",
@@ -7637,7 +7941,15 @@
           ],
           "answer": 3,
           "translation": "哪一句体现了肯定命令式中代词的位置？"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l6-10",
+      "title": "命令式中的宾语代词（10）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l6-q91",
           "type": "choice",
@@ -7834,7 +8146,15 @@
           ],
           "answer": 2,
           "translation": "别把这些书给他。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l6-11",
+      "title": "命令式中的宾语代词（11）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l6-q101",
           "type": "choice",
@@ -7974,7 +8294,15 @@
           "answer": 3,
           "translation": "把这些照片给我，好吗？得把它们给他看。",
           "explain": "肯定命令式中 me 变 moi：donne-moi。Il faut 后是不定式 montrer，两个代词放在不定式前，顺序 les → lui：il faut les lui montrer。veux-tu 是主语代词后置的疑问倒装。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l6-12",
+      "title": "命令式中的宾语代词（12）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l6-q111",
           "type": "choice",
@@ -8113,8 +8441,8 @@
       ]
     },
     {
-      "id": "pub-c10-object-pronouns-l7",
-      "title": "前置直接宾语与过去分词配合",
+      "id": "pub-c10-object-pronouns-l7-1",
+      "title": "前置直接宾语与过去分词配合（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -8257,7 +8585,15 @@
           "answer": 0,
           "translation": "花？我在花园里采了一些。",
           "explain": "en 替代 des fleurs，位置在助动词 ai 之前，过去分词 cueilli 不配合；因此只有第一句正确。cueillies 误加阴性复数配合，cueilli 前缺 les 且分词未配合，J'ai en cueilli 把 en 放到了助动词后。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l7-2",
+      "title": "前置直接宾语与过去分词配合（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l7-q11",
           "type": "choice",
@@ -8397,7 +8733,15 @@
           "answer": 3,
           "translation": "哪一句的过去分词不配合？",
           "explain": "en 前置时过去分词不配合，所以 J'en ai coupé 中的 coupé 保持中性形式。其余三句的前置宾语都是直接宾语：les fleurs 用 coupées，la fleur 用 coupée，关系代词 que 也按 les fleurs 配合。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l7-3",
+      "title": "前置直接宾语与过去分词配合（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l7-q21",
           "type": "letters",
@@ -8524,7 +8868,15 @@
           ],
           "translation": "蘑菇？我在树林里采了一些。",
           "explain": "en 回指 des champignons，虽然指代直接宾语，但 en 前置时过去分词不配合，保持 ramassé。不要写 ramassés 或 ramassées。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l7-4",
+      "title": "前置直接宾语与过去分词配合（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l7-q30",
           "type": "letters",
@@ -8661,7 +9013,15 @@
           ],
           "translation": "行李箱？她们把它们搬了。",
           "explain": "les 替代 les valises，是阴性复数直接宾语，位于助动词 ont 之前，所以 porté 加 -es，写 portées。不要写 porté 或 portés。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l7-5",
+      "title": "前置直接宾语与过去分词配合（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l7-q39",
           "type": "letters",
@@ -8867,7 +9227,15 @@
           ],
           "translation": "你们等了我的父母吗？→ 你们等了他们吗？",
           "explain": "mes parents 是阳性复数直接宾语，用 les；les 放在助动词 avez 之前，attendu 加 -s，写 attendus。leur 是间接宾语代词，不能用于 attendre qn 的直接宾语。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l7-6",
+      "title": "前置直接宾语与过去分词配合（6）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l7-q48",
           "type": "tiles",
@@ -9085,7 +9453,15 @@
           ],
           "translation": "我看见了那些女孩。→ 我没看见她们。",
           "explain": "les filles 是阴性复数直接宾语，用 les；否定结构为 ne + 代词 + 助动词 + pas + 过去分词，所以写 Je ne les ai pas vues。ne 在辅音 l 前不省音，不能用 n'。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l7-7",
+      "title": "前置直接宾语与过去分词配合（7）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l7-q57",
           "type": "tiles",
@@ -9222,7 +9598,15 @@
           ],
           "translation": "汤？她喝了一些。",
           "explain": "en 替代 de la soupe（部分冠词宾语），放在助动词 a 前；en 前置时过去分词不配合，写 pris。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l7-8",
+      "title": "前置直接宾语与过去分词配合（8）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l7-q66",
           "type": "letters",
@@ -9394,8 +9778,8 @@
       ]
     },
     {
-      "id": "pub-c10-object-pronouns-l8",
-      "title": "复合过去时中的宾语代词",
+      "id": "pub-c10-object-pronouns-l8-1",
+      "title": "复合过去时中的宾语代词（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -9543,7 +9927,15 @@
           ],
           "translation": "她拍了那些照片。→ 她没拍那些照片。",
           "explain": "les photos 是阴性复数直接宾语，用 les；否定结构为 ne + 代词 + 助动词 + pas + 过去分词，写 Elle ne les a pas prises。prises 与 les 配合。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l8-2",
+      "title": "复合过去时中的宾语代词（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l8-q10",
           "type": "tiles",
@@ -9711,7 +10103,15 @@
           "answer": 3,
           "translation": "钥匙？他把它们弄丢了；她回来了吗？",
           "explain": "les 替代 les clés，是前置直接宾语，分词配阴性复数写 perdues；est-elle rentrée 中 rentrer 用 être，分词与主语 elle 配合写 rentrée，est-elle 是主语代词倒装。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l8-3",
+      "title": "复合过去时中的宾语代词（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l8-q19",
           "type": "tiles",
@@ -9868,8 +10268,8 @@
   ],
   "challenges": [
     {
-      "id": "pub-c10-object-pronouns-x1",
-      "title": "代词综合：选择、位置与双代词",
+      "id": "pub-c10-object-pronouns-x1-1",
+      "title": "代词综合：选择、位置与双代词（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -9977,7 +10377,15 @@
           ],
           "translation": "你把钥匙给保罗了吗？——是的，我把它们给他了。",
           "explain": "les clés 是阴性复数直接宾语，用 les；à Paul 是单数间接宾语，用 lui。顺序是 les 在 lui 前，写 je les lui ai données；données 与 les clés 配合。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-x1-2",
+      "title": "代词综合：选择、位置与双代词（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-x1-q8",
           "type": "tiles",
@@ -10105,8 +10513,8 @@
       ]
     },
     {
-      "id": "pub-c10-object-pronouns-x2",
-      "title": "双代词与命令式综合",
+      "id": "pub-c10-object-pronouns-x2-1",
+      "title": "双代词与命令式综合（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -10228,7 +10636,15 @@
           ],
           "translation": "我把钥匙给了保罗。→ 我把它们给了他。",
           "explain": "les clés 是阴性复数直接宾语，用 les；à Paul 是单数间接宾语，用 lui。陈述句顺序为 les 在 lui 前，写 Je les lui ai données；données 与 les clés 配合。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-x2-2",
+      "title": "双代词与命令式综合（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-x2-q8",
           "type": "tiles",

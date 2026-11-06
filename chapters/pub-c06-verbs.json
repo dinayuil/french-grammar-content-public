@@ -196,8 +196,8 @@
   ],
   "lessons": [
     {
-      "id": "pub-c06-verbs-l1",
-      "title": "高频不规则动词（一）：aller、venir、pouvoir、vouloir、savoir、devoir、faire、dire",
+      "id": "pub-c06-verbs-l1-1",
+      "title": "高频不规则动词（一）：aller、venir、pouvoir、vouloir、savoir、devoir、faire、dire（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -353,7 +353,15 @@
           "answer": 3,
           "translation": "每个星期天，他们来我们家，而且他们饿了。",
           "explain": "主语 ils 要求 venir 用 viennent；avoir faim 是固定搭配「饿」，主语 ils 用 ont。sont 是 être 的形式，不能构成 avoir faim。两个动词都按同一主语 ils 变位。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l1-2",
+      "title": "高频不规则动词（一）：aller、venir、pouvoir、vouloir、savoir、devoir、faire、dire（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l1-q10",
           "type": "tiles",
@@ -523,7 +531,15 @@
           ],
           "translation": "他们必须早点出发。",
           "explain": "devoir 的第三人称复数用 doiv- 词干加 -ent，写成 doivent；不能按单数的 dois-/doit- 直接加 -ent，也不能用 dev- 词干造 doivent。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l1-3",
+      "title": "高频不规则动词（一）：aller、venir、pouvoir、vouloir、savoir、devoir、faire、dire（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l1-q19",
           "type": "tiles",
@@ -701,7 +717,15 @@
           "answer": 1,
           "translation": "他说再见，然后中午离开。",
           "explain": "dire 的第三人称单数用 dit，partir 的第三人称单数用 part；两个动词都按 il 变位。dis/pars 对应 je 或 tu，不能与 il 搭配。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l1-4",
+      "title": "高频不规则动词（一）：aller、venir、pouvoir、vouloir、savoir、devoir、faire、dire（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l1-q28",
           "type": "letters",
@@ -904,8 +928,8 @@
       ]
     },
     {
-      "id": "pub-c06-verbs-l2",
-      "title": "高频不规则动词（二）：prendre、mettre、ouvrir、conduire、écrire、lire",
+      "id": "pub-c06-verbs-l2-1",
+      "title": "高频不规则动词（二）：prendre、mettre、ouvrir、conduire、écrire、lire（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1101,7 +1125,15 @@
           ],
           "translation": "他们把书放在桌上。",
           "explain": "mettre 的第三人称复数用 mett- 加 -ent，写成 mettent；nous 用 mettons，vous 用 mettez。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l2-2",
+      "title": "高频不规则动词（二）：prendre、mettre、ouvrir、conduire、écrire、lire（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l2-q11",
           "type": "choice",
@@ -1276,7 +1308,15 @@
           "answer": 1,
           "translation": "他开自己的车，八点出发。",
           "explain": "conduire 的第三人称单数用 conduit；partir 用短词干 part。conduis/pars 对应 je/tu，conduisent/partent 对应 ils/elles。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l2-3",
+      "title": "高频不规则动词（二）：prendre、mettre、ouvrir、conduire、écrire、lire（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l2-q21",
           "type": "choice",
@@ -1450,7 +1490,15 @@
           ],
           "translation": "每天早上，我乘火车。→ 每天早上，他们乘火车。",
           "explain": "主语 je 改 ils 后，prendre 用 prenn- 加 -ent，写成 prennent；chaque matin 表示习惯，时间状语不变。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l2-4",
+      "title": "高频不规则动词（二）：prendre、mettre、ouvrir、conduire、écrire、lire（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l2-q31",
           "type": "tiles",
@@ -1813,7 +1861,15 @@
           "answer": 0,
           "translation": "她们开父亲的汽车，中午出发。",
           "explain": "主语 elles 是第三人称复数：conduire 用 conduisent，partir 用 partent。conduit/part 是单数，conduisons/partons 是 nous 形式。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l2-5",
+      "title": "高频不规则动词（二）：prendre、mettre、ouvrir、conduire、écrire、lire（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l2-q41",
           "type": "choice",
@@ -2072,8 +2128,8 @@
       ]
     },
     {
-      "id": "pub-c06-verbs-l3",
-      "title": "高频不规则动词（三）：connaître、-dre 类、voir/croire",
+      "id": "pub-c06-verbs-l3-1",
+      "title": "高频不规则动词（三）：connaître、-dre 类、voir/croire（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -2258,7 +2314,15 @@
           ],
           "translation": "我很熟悉这座城市；他住在这里。→ 我们很熟悉这座城市；他住在这里。",
           "explain": "主句主语 je 改 nous 后，connaître 用 connaissons；分号连接两个独立分句，从句主语 il 不变，vivre 仍用 il vit。主句和从句各按自己的主语变位。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l3-2",
+      "title": "高频不规则动词（三）：connaître、-dre 类、voir/croire（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l3-q11",
           "type": "choice",
@@ -2410,7 +2474,15 @@
           "answer": 0,
           "translation": "她与朋友见面，等公交车，而且熟悉这座城市。",
           "explain": "主语都是 elle：retrouver 属第一组，用 retrouve；attendre 属 -dre 类，第三人称单数用 attend；connaître 用 connaît。三个动词都按 elle 变位。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l3-3",
+      "title": "高频不规则动词（三）：connaître、-dre 类、voir/croire（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l3-q20",
           "type": "choice",
@@ -2606,7 +2678,15 @@
           ],
           "translation": "每天早上，她知道自己的日程，等公交车，而且学法语。",
           "explain": "三个动词的主语都是 elle：connaître 用 connaît（短词干加 -t），attendre 用 attend（第三人称单数不加词尾），étudier 用 étudie。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l3-4",
+      "title": "高频不规则动词（三）：connaître、-dre 类、voir/croire（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l3-q29",
           "type": "letters",
@@ -2894,8 +2974,8 @@
       ]
     },
     {
-      "id": "pub-c06-verbs-l4",
-      "title": "plaire、courir、craindre 等不规则动词",
+      "id": "pub-c06-verbs-l4-1",
+      "title": "plaire、courir、craindre 等不规则动词（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -3067,7 +3147,15 @@
           ],
           "translation": "我关掉电视。",
           "explain": "éteindre 的第一人称单数是 éteins；je 在元音 é 前省音，写作 j'éteins。éteint 是第三人称单数，不能用于 j'。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l4-2",
+      "title": "plaire、courir、craindre 等不规则动词（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l4-q10",
           "type": "choice",
@@ -3257,7 +3345,15 @@
           ],
           "translation": "我收到一个包裹。→ 我们收到一个包裹。",
           "explain": "源句 je reçois 变 nous 后，词干回到 recev-，c 后接 e 不写软音符，词尾 -ons：nous recevons。不要保留 je 形式的 ç。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l4-3",
+      "title": "plaire、courir、craindre 等不规则动词（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l4-q19",
           "type": "tiles",
@@ -3431,7 +3527,15 @@
           ],
           "translation": "我喝一杯茶。→ 您/你们喝一杯茶。",
           "explain": "主语 je 改为 vous 后，boire 用 buvez；un thé 保持不变。bois / boit 是单数，buvons 是 nous 形式，boivent 是第三人称复数。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l4-4",
+      "title": "plaire、courir、craindre 等不规则动词（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l4-q28",
           "type": "choice",
@@ -3658,7 +3762,15 @@
           ],
           "translation": "我喝咖啡，并且准备早餐。→ 我们喝咖啡，并且准备早餐。",
           "explain": "boire 的 nous 形式用 buv- 加 -ons，写成 buvons；préparer 是第一组规则动词，nous 形式加 -ons，写成 préparons。源句的两个 je 都改为 nous。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l4-5",
+      "title": "plaire、courir、craindre 等不规则动词（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l4-q36",
           "type": "tiles",
@@ -3856,8 +3968,8 @@
       ]
     },
     {
-      "id": "pub-c06-verbs-l5",
-      "title": "être 系表结构与职业表语",
+      "id": "pub-c06-verbs-l5-1",
+      "title": "être 系表结构与职业表语（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -3971,7 +4083,15 @@
           ],
           "translation": "她们是法国人。",
           "explain": "主语 elles 是第三人称复数，être 用 sont。françaises 是形容词表语，与阴性复数主语配合；职业、国籍表语不加冠词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l5-2",
+      "title": "être 系表结构与职业表语（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l5-q7",
           "type": "choice",
@@ -4089,8 +4209,8 @@
       ]
     },
     {
-      "id": "pub-c06-verbs-l6",
-      "title": "avoir 的拥有、年龄与数量",
+      "id": "pub-c06-verbs-l6-1",
+      "title": "avoir 的拥有、年龄与数量（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -4201,7 +4321,15 @@
           ],
           "translation": "我们有一双棕色的眼睛。",
           "explain": "主语 nous，avoir 用 avons。les yeux 前用定冠词表示身体部位；marron 作颜色形容词不变形。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l6-2",
+      "title": "avoir 的拥有、年龄与数量（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l6-q7",
           "type": "choice",
@@ -4495,8 +4623,8 @@
       ]
     },
     {
-      "id": "pub-c06-verbs-l8",
-      "title": "être 还是 avoir：按句子功能选择",
+      "id": "pub-c06-verbs-l8-1",
+      "title": "être 还是 avoir：按句子功能选择（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -4662,7 +4790,15 @@
           ],
           "translation": "她有一双蓝眼睛，她个子很高。",
           "explain": "身体特征用 avoir + 定冠词 + 名词：elle a les yeux bleus，bleus 与阳性复数 yeux 配合；状态用 être：elle est grande，grande 与阴性单数 elle 配合。同一主语下两个动词分别按功能选择。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-l8-2",
+      "title": "être 还是 avoir：按句子功能选择（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-l8-q10",
           "type": "choice",
@@ -4979,8 +5115,8 @@
   ],
   "challenges": [
     {
-      "id": "pub-c06-verbs-x1",
-      "title": "综合：动词族与核心句型",
+      "id": "pub-c06-verbs-x1-1",
+      "title": "综合：动词族与核心句型（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -5087,7 +5223,15 @@
           ],
           "translation": "我们先摆桌子，然后打开窗户。",
           "explain": "mettre 的 nous 形式用单 t 词干 mett- 加 -ons：mettons；ouvrir 虽以 -ir 结尾，却用第一组 -er 词尾：nous ouvrons，不加 -iss-。puis 表示先后顺序，两个动词的主语都是 nous。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-x1-2",
+      "title": "综合：动词族与核心句型（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-x1-q7",
           "type": "tiles",
@@ -5221,8 +5365,8 @@
       ]
     },
     {
-      "id": "pub-c06-verbs-x2",
-      "title": "综合：être/avoir 与存在/归属",
+      "id": "pub-c06-verbs-x2-1",
+      "title": "综合：être/avoir 与存在/归属（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -5350,7 +5494,15 @@
           "answer": 1,
           "translation": "我母亲四十岁，她是老师。",
           "explain": "年龄用 avoir：elle a quarante ans；身份、职业用 être：elle est professeur，职业表语前不用不定冠词。est/a 顺序颠倒、两个都用 a、ont 与单数主语不符，均不正确。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c06-verbs-x2-2",
+      "title": "综合：être/avoir 与存在/归属（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c06-verbs-x2-q7",
           "type": "choice",

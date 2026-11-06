@@ -181,8 +181,8 @@
   ],
   "lessons": [
     {
-      "id": "pub-c07-negation-questions-l1",
-      "title": "ne...pas 的基本位置与不定式否定",
+      "id": "pub-c07-negation-questions-l1-1",
+      "title": "ne...pas 的基本位置与不定式否定（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -325,7 +325,15 @@
           "answer": 3,
           "translation": "她十岁，个子不太高。",
           "explain": "年龄用 avoir（elle a dix ans），描述身高状态用 être（elle n'est pas très grande）。两个动词各按主语 elle 变位，否定词分别夹住各自的变位动词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l1-2",
+      "title": "ne...pas 的基本位置与不定式否定（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c07-negation-questions-l1-q11",
           "type": "choice",
@@ -483,7 +491,15 @@
           ],
           "translation": "她很喜欢咖啡。→ 她不太喜欢咖啡。",
           "explain": "否定词夹住变位动词 aime；程度副词 beaucoup 位于 pas 后；直接宾语前的定冠词 le 在否定中保留，不改为 de。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l1-3",
+      "title": "ne...pas 的基本位置与不定式否定（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c07-negation-questions-l1-q21",
           "type": "tiles",
@@ -741,8 +757,8 @@
       ]
     },
     {
-      "id": "pub-c07-negation-questions-l2",
-      "title": "否定限定词、否定代词与保留限定词",
+      "id": "pub-c07-negation-questions-l2-1",
+      "title": "否定限定词、否定代词与保留限定词（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -883,7 +899,15 @@
           "answer": 3,
           "translation": "为什么「Je ne regarde pas le film」中的冠词「le」保留？",
           "explain": "否定句中定冠词 le/la/les 保持不变；只有不定冠词和部分冠词在绝对否定直接宾语时改为 de。选项 0 的说法正好相反：定冠词并不会因为否定就变成 de；否定范围也不是这里的原因。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l2-2",
+      "title": "否定限定词、否定代词与保留限定词（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c07-negation-questions-l2-q10",
           "type": "choice",
@@ -1085,8 +1109,8 @@
       ]
     },
     {
-      "id": "pub-c07-negation-questions-l3",
-      "title": "绝对否定、表语与 ni...ni / ne...que",
+      "id": "pub-c07-negation-questions-l3-1",
+      "title": "绝对否定、表语与 ni...ni / ne...que（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1201,7 +1225,15 @@
           "answer": 2,
           "translation": "这只是一个开始。",
           "explain": "ne...que 中 que 在元音前省音为 qu'：ce n'est qu'un début。这里表示限制「只是」，不是否定。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l3-2",
+      "title": "绝对否定、表语与 ni...ni / ne...que（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c07-negation-questions-l3-q9",
           "type": "choice",
@@ -1400,7 +1432,15 @@
           ],
           "translation": "这既是问题又是紧急情况。→ 这既不是问题也不是紧急情况。",
           "explain": "problème 和 urgence 在 c'est 后作表语，表语名词的冠词保留：ni un problème ni une urgence。ne...ni...ni 取代 pas。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l3-3",
+      "title": "绝对否定、表语与 ni...ni / ne...que（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c07-negation-questions-l3-q17",
           "type": "tiles",
@@ -1641,8 +1681,8 @@
       ]
     },
     {
-      "id": "pub-c07-negation-questions-l4",
-      "title": "一般疑问句的三种构成与倒装",
+      "id": "pub-c07-negation-questions-l4-1",
+      "title": "一般疑问句的三种构成与倒装（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1813,7 +1853,15 @@
           "answer": 1,
           "translation": "玛丽今晚来吗？",
           "explain": "名词主语 Marie 留在句中，动词后用阴性单数代词 elle 复指：Marie vient-elle ce soir ? 不能加连字符把名词直接粘在动词后（Vient-Marie）；若直接后置应写 Vient Marie ?（无连字符），但本题要求代词复指。也不能重复主语而不加连字符。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l4-2",
+      "title": "一般疑问句的三种构成与倒装（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c07-negation-questions-l4-q11",
           "type": "tiles",
@@ -1985,7 +2033,15 @@
           "answer": 3,
           "translation": "哪一句不正确？",
           "explain": "est-ce que 是固定组合，que 不能省略：Est-ce que tu viens ? 选项 3 缺 que，错误。其余三种分别是 est-ce que 式、倒装式、语调式，都成立。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l4-3",
+      "title": "一般疑问句的三种构成与倒装（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c07-negation-questions-l4-q20",
           "type": "tiles",
@@ -2156,8 +2212,8 @@
       ]
     },
     {
-      "id": "pub-c07-negation-questions-l5",
-      "title": "疑问副词、疑问形容词与介词后疑问代词",
+      "id": "pub-c07-negation-questions-l5-1",
+      "title": "疑问副词、疑问形容词与介词后疑问代词（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -2343,7 +2399,15 @@
           "answer": 0,
           "translation": "你更喜欢哪条裙子？",
           "explain": "robe 是阴性单数名词，疑问形容词用 quelle。quel 用于阳性单数，quels 阳性复数，quelles 阴性复数。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l5-2",
+      "title": "疑问副词、疑问形容词与介词后疑问代词（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c07-negation-questions-l5-q11",
           "type": "choice",
@@ -2479,7 +2543,15 @@
           "answer": 0,
           "translation": "你们在谈论什么？——谈论我们的旅行。",
           "explain": "parler de 保留介词 de；回答 de notre voyage 指物，介词后问物用 quoi：De quoi parlez-vous ? 指人才用 de qui；que 不能直接放在介词后。lequel 是复合疑问代词，也不能直接放在 de 后；de + lequel 应缩合为 duquel。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l5-3",
+      "title": "疑问副词、疑问形容词与介词后疑问代词（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c07-negation-questions-l5-q20",
           "type": "tiles",
@@ -2635,8 +2707,8 @@
       ]
     },
     {
-      "id": "pub-c07-negation-questions-l6",
-      "title": "「qui est-ce qui」与「qui est-ce que」：主语疑问和宾语疑问",
+      "id": "pub-c07-negation-questions-l6-1",
+      "title": "「qui est-ce qui」与「qui est-ce que」：主语疑问和宾语疑问（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -2833,7 +2905,15 @@
           ],
           "translation": "你在看这部电影。→ 你在看什么？",
           "explain": "问直接宾语且指物用 qu'est-ce que，后面保持陈述词序 tu regardes；原宾语 ce film 被疑问短语替代。不能写成 Qu'est-ce qui tu regardes。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c07-negation-questions-l6-2",
+      "title": "「qui est-ce qui」与「qui est-ce que」：主语疑问和宾语疑问（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c07-negation-questions-l6-q11",
           "type": "tiles",

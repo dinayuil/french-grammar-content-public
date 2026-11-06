@@ -251,8 +251,8 @@
   ],
   "lessons": [
     {
-      "id": "pub-c09-past-tenses-l1",
-      "title": "过去分词的形式：-é、-i、-u 与不规则词尾",
+      "id": "pub-c09-past-tenses-l1-1",
+      "title": "过去分词的形式：-é、-i、-u 与不规则词尾（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -412,7 +412,15 @@
           ],
           "translation": "她们在这里工作过。",
           "explain": "travailler 虽表示持续活动，但它是普通不及物动词，用 avoir 而非 être。助动词随 elles 变位为 ont，过去分词 travaillé 不与主语配合。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l1-2",
+      "title": "过去分词的形式：-é、-i、-u 与不规则词尾（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l1-q10",
           "type": "choice",
@@ -556,7 +564,15 @@
           ],
           "translation": "我们做完了练习。",
           "explain": "finir 用 avoir 作助动词，nous 对应 avons；过去分词 fini 不变。finissons 是现在时词干形式，不能代替过去分词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l1-3",
+      "title": "过去分词的形式：-é、-i、-u 与不规则词尾（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l1-q19",
           "type": "tiles",
@@ -703,7 +719,15 @@
           ],
           "translation": "他做完了作业。",
           "explain": "faire 的过去分词是 fait；助动词 avoir 随 il 变位为 a。faits 是配合形式，但 avoir 后不与主语配合，所以用 fait。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l1-4",
+      "title": "过去分词的形式：-é、-i、-u 与不规则词尾（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l1-q28",
           "type": "tiles",
@@ -848,7 +872,15 @@
           ],
           "translation": "我们知道了真相。",
           "explain": "connaître 的过去分词是 connu，以 -u 结尾，词干中的 î 不再保留。不要按不定式写成 connaître。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l1-5",
+      "title": "过去分词的形式：-é、-i、-u 与不规则词尾（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l1-q37",
           "type": "tiles",
@@ -1006,7 +1038,15 @@
           ],
           "translation": "服务员上了晚餐。",
           "explain": "servir 的过去分词是 servi，以 -i 结尾。不要写成 servit（简单过去时）或 servie（配合形式）。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l1-6",
+      "title": "过去分词的形式：-é、-i、-u 与不规则词尾（6）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l1-q46",
           "type": "tiles",
@@ -1178,7 +1218,15 @@
           ],
           "translation": "我们打开了窗户。",
           "explain": "ouvrir 的过去分词是 ouvert；助动词 avoir 随 nous 变位为 avons。ouverte 是配合形式，但 avoir 后不用。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l1-7",
+      "title": "过去分词的形式：-é、-i、-u 与不规则词尾（7）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l1-q55",
           "type": "tiles",
@@ -1338,8 +1386,8 @@
       ]
     },
     {
-      "id": "pub-c09-past-tenses-l2",
-      "title": "助动词选择与 être 后的主语配合",
+      "id": "pub-c09-past-tenses-l2-1",
+      "title": "助动词选择与 être 后的主语配合（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1513,7 +1561,15 @@
           ],
           "translation": "她找了她的猫。",
           "explain": "chercher 是及物动词，用 avoir；主语 elle 对应 a，过去分词 cherché 不因阴性主语加 -e。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l2-2",
+      "title": "助动词选择与 être 后的主语配合（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l2-q11",
           "type": "choice",
@@ -1678,7 +1734,15 @@
           "answer": 3,
           "translation": "哪个动词不用 être 作助动词？",
           "explain": "travailler 是普通不及物动词，用 avoir：J'ai travaillé。naître、mourir、rester 都属于 être 助动词组。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l2-3",
+      "title": "助动词选择与 être 后的主语配合（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l2-q21",
           "type": "letters",
@@ -1838,7 +1902,15 @@
           ],
           "translation": "他来了聚会。",
           "explain": "venir 的过去分词是 venu；主语 il 为阳性单数，分词保持 venu。venir 用 être 作助动词，不要写成 est venu 之外的 avoir 结构。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l2-4",
+      "title": "助动词选择与 être 后的主语配合（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l2-q30",
           "type": "tiles",
@@ -1991,7 +2063,15 @@
           ],
           "translation": "我父母昨天回来了。",
           "explain": "revenir 的过去分词是 revenu；主语 mes parents 为复数，加 -s 写 revenus。revenir 用 être。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l2-5",
+      "title": "助动词选择与 être 后的主语配合（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l2-q39",
           "type": "letters",
@@ -2164,7 +2244,15 @@
           "answer": 1,
           "translation": "用 être 时，过去分词遵循什么规则？",
           "explain": "être 助动词下，过去分词与主语性数配合：elle est partie，ils sont partis。它不随直接宾语变化，也不会无条件变成阴性。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l2-6",
+      "title": "助动词选择与 être 后的主语配合（6）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l2-q48",
           "type": "letters",
@@ -2285,7 +2373,15 @@
           ],
           "translation": "他们半夜回来了。",
           "explain": "rentrer 在这里表示位移、不带直接宾语，用 être；主语 ils 为阳性复数，分词加 -s 写 rentrés。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l2-7",
+      "title": "助动词选择与 être 后的主语配合（7）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l2-q57",
           "type": "tiles",
@@ -2460,7 +2556,15 @@
           "answer": 0,
           "translation": "信昨天到了。",
           "explain": "arriver 用 être；主语 la lettre 为阴性单数，分词加 -e 写 arrivée。arrivés 是阳性复数，arrivées 是阴性复数。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l2-8",
+      "title": "助动词选择与 être 后的主语配合（8）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l2-q66",
           "type": "letters",
@@ -2631,7 +2735,15 @@
           "answer": 1,
           "translation": "窗户是开着的。",
           "explain": "这里的 ouvert 作形容词，与阴性名词 la fenêtre 配合，写 ouverte。它不是复合过去时的分词，而是描述状态的过去分词形容词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l2-9",
+      "title": "助动词选择与 être 后的主语配合（9）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l2-q75",
           "type": "choice",
@@ -2757,7 +2869,15 @@
           "answer": 2,
           "translation": "哪一句正确？",
           "explain": "aller 用 être，主语 elle 为阴性单数，过去分词加 -e 写 allée：Elle est allée。用 avoir 或写 allé 都错。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l2-10",
+      "title": "助动词选择与 être 后的主语配合（10）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l2-q84",
           "type": "choice",
@@ -2924,8 +3044,8 @@
       ]
     },
     {
-      "id": "pub-c09-past-tenses-l3",
-      "title": "复合过去时的构成、否定、疑问与副词位置",
+      "id": "pub-c09-past-tenses-l3-1",
+      "title": "复合过去时的构成、否定、疑问与副词位置（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -3088,7 +3208,15 @@
           ],
           "translation": "我们去了巴黎。",
           "explain": "aller 用 être 作助动词，nous 对应 sommes；过去分词 allés 与复数主语配合。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l3-2",
+      "title": "复合过去时的构成、否定、疑问与副词位置（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l3-q11",
           "type": "tiles",
@@ -3286,7 +3414,15 @@
           ],
           "translation": "我们待在家里了。",
           "explain": "rester 用 être，nous 对应 sommes；过去分词 restés 与复数主语配合。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l3-3",
+      "title": "复合过去时的构成、否定、疑问与副词位置（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l3-q21",
           "type": "choice",
@@ -3448,7 +3584,15 @@
           ],
           "translation": "我们没有走。",
           "explain": "否定词夹住助动词 sommes：ne sommes pas partis。partir 用 être，分词 partis 与复数主语配合。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l3-4",
+      "title": "复合过去时的构成、否定、疑问与副词位置（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l3-q31",
           "type": "tiles",
@@ -3637,7 +3781,15 @@
           "answer": 3,
           "translation": "我们还没完成。",
           "explain": "pas encore 整体位于助动词与过去分词之间：Nous n'avons pas encore fini。词序不能颠倒成 encore pas。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l3-5",
+      "title": "复合过去时的构成、否定、疑问与副词位置（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l3-q41",
           "type": "choice",
@@ -3785,7 +3937,15 @@
           ],
           "translation": "她走了吗？",
           "explain": "être 的第三人称单数 est 与 elle 倒装写 Est-elle；est 已以 t 结尾，不再插入 -t-。过去分词 partie 保持阴性配合。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l3-6",
+      "title": "复合过去时的构成、否定、疑问与副词位置（6）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l3-q51",
           "type": "tiles",
@@ -3954,7 +4114,15 @@
           "answer": 1,
           "translation": "我已经看过这部电影。",
           "explain": "déjà 表示「已经」，位于助动词 ai 与过去分词 vu 之间：J'ai déjà vu。pas、jamais、plus 都会改变句子的肯定意义。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l3-7",
+      "title": "复合过去时的构成、否定、疑问与副词位置（7）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l3-q61",
           "type": "choice",
@@ -4131,7 +4299,15 @@
           ],
           "translation": "你吃了很多。",
           "explain": "beaucoup 位于助动词 as 与过去分词 mangé 之间：Tu as beaucoup mangé。不能放在分词后，也不能用 trop de 修饰动词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l3-8",
+      "title": "复合过去时的构成、否定、疑问与副词位置（8）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l3-q71",
           "type": "tiles",
@@ -4266,7 +4442,15 @@
           "answer": 3,
           "translation": "哪一句正确？",
           "explain": "partir 用 être，主语 elle 为阴性单数，分词加 -e 写 partie；否定结构是 ne + est + pas + partie。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l3-9",
+      "title": "复合过去时的构成、否定、疑问与副词位置（9）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l3-q80",
           "type": "letters",
@@ -4431,7 +4615,15 @@
           "answer": 2,
           "translation": "哪一句正确地把 être 助动词和否定结合起来？",
           "explain": "venir 用 être；主语 elles 为阴性复数，过去分词加 -es 写 venues。否定结构为 ne + sont + pas + venues，所以选 Elles ne sont pas venues。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l3-10",
+      "title": "复合过去时的构成、否定、疑问与副词位置（10）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l3-q89",
           "type": "choice",
@@ -4557,7 +4749,15 @@
           "answer": 3,
           "translation": "我们没有打开窗户。",
           "explain": "ouvrir 用 avoir 作助动词，过去分词为 ouvert；否定结构是 ne + 助动词 + pas + 过去分词：n'avons pas ouvert。ouvri 是错误类推；ouvrir 不是 être 助动词的位移动词，ne sommes pas ouverts 不成立；pas 必须紧跟在助动词后，不能放到分词后。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l3-11",
+      "title": "复合过去时的构成、否定、疑问与副词位置（11）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l3-q98",
           "type": "choice",
@@ -4695,7 +4895,15 @@
           ],
           "translation": "他总是在讲些什么。→ 他从来没有讲过任何事。",
           "explain": "raconter 是及物动词，用 avoir 作助动词；否定由 ne（元音前省音为 n'）置于助动词前，jamais 和 rien 依次位于助动词与过去分词之间：Il n'a jamais rien raconté。过去分词 raconté 以 -é 结尾，不随主语变化；pas 不能与 jamais、rien 叠加，分词也不能写成现在时 raconte 或阴性 racontée。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l3-12",
+      "title": "复合过去时的构成、否定、疑问与副词位置（12）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l3-q107",
           "type": "choice",
@@ -4825,8 +5033,8 @@
       ]
     },
     {
-      "id": "pub-c09-past-tenses-l4",
-      "title": "现在分词与副动词",
+      "id": "pub-c09-past-tenses-l4-1",
+      "title": "现在分词与副动词（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -4913,7 +5121,15 @@
           "answer": 2,
           "translation": "在 « Convainquant son auditoire, il a gagné le débat. » 中，convainquant 是……",
           "explain": "convainquant 带直接宾语 son auditoire，表示动作，形式不随 il 变化，是现在分词。动词形容词写作 convaincant，且要与名词配合；gérondif 需要 en；这里也不是名词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l4-2",
+      "title": "现在分词与副动词（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l4-q7",
           "type": "choice",
@@ -4987,8 +5203,8 @@
       ]
     },
     {
-      "id": "pub-c09-past-tenses-l5",
-      "title": "未完成过去时的形式与拼写",
+      "id": "pub-c09-past-tenses-l5-1",
+      "title": "未完成过去时的形式与拼写（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -5151,7 +5367,15 @@
           ],
           "translation": "昨天下午我们在海滩上。",
           "explain": "être 用词干 ét-；nous 用 -ions，写 étions。不能按现在时 sommes 推导，也不能写 étiez（vous）。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l5-2",
+      "title": "未完成过去时的形式与拼写（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l5-q11",
           "type": "tiles",
@@ -5311,7 +5535,15 @@
           ],
           "translation": "我以前每天晚上六点开始做作业。",
           "explain": "commencer 的词干在 a 前写 commenç-：je commençais。词尾是 -ais；不要写 commencais，也不要写 commençait（il/elle）。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l5-3",
+      "title": "未完成过去时的形式与拼写（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l5-q21",
           "type": "choice",
@@ -5458,7 +5690,15 @@
           ],
           "translation": "我当时在喊他的名字。",
           "explain": "crier 的词干是 cri-；je 用 -ais，写 criais，单数不双写 i。不要写 criiais，也不要写 criait（il/elle）。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l5-4",
+      "title": "未完成过去时的形式与拼写（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l5-q31",
           "type": "tiles",
@@ -5627,7 +5867,15 @@
           ],
           "translation": "我们当时很熟悉这座城市。",
           "explain": "connaître 的词干是 connaiss-；nous 用 -ions，写 connaissions。原句 connaissons 是现在时；connaissaient 是 ils/elles。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l5-5",
+      "title": "未完成过去时的形式与拼写（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l5-q41",
           "type": "choice",
@@ -5783,7 +6031,15 @@
           "answer": 3,
           "translation": "昨晚很冷。",
           "explain": "天气表达用无人称 il；faire 的词干是 fais-，第三人称单数用 -ait，写 il faisait。不能用复数 faisaient，也不能用现在时 fait。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l5-6",
+      "title": "未完成过去时的形式与拼写（6）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l5-q51",
           "type": "letters",
@@ -5944,8 +6200,8 @@
       ]
     },
     {
-      "id": "pub-c09-past-tenses-l6",
-      "title": "未完成过去时的用法",
+      "id": "pub-c09-past-tenses-l6-1",
+      "title": "未完成过去时的用法（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -6113,7 +6369,15 @@
           "answer": 3,
           "translation": "电话响的时候我正在看书。",
           "explain": "电话响是插入的完成事件（a sonné），正在进行的动作用未完成过去时 lisais。ai lu 把看书也变成完成事件；lis 是现在时；lirai 是将来时。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l6-2",
+      "title": "未完成过去时的用法（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l6-q10",
           "type": "choice",
@@ -6290,8 +6554,8 @@
       ]
     },
     {
-      "id": "pub-c09-past-tenses-l7",
-      "title": "愈过去时：构成、配合、否定与先完成",
+      "id": "pub-c09-past-tenses-l7-1",
+      "title": "愈过去时：构成、配合、否定与先完成（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -6453,7 +6717,15 @@
           ],
           "translation": "她已经看过这部电影。→ 她那时还没有看过这部电影。",
           "explain": "肯定句中的 déjà 在否定中改为 pas encore；愈过去时否定为 ne + 助动词 + pas + 副词 + 过去分词。ne 在 avait 前省音为 n'avait，pas encore 位于助动词与 vu 之间。不能保留 déjà 直接写成 n'avait pas déjà vu，因为本题要求的是自然的否定转换。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-l7-2",
+      "title": "愈过去时：构成、配合、否定与先完成（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-l7-q9",
           "type": "letters",
@@ -6752,8 +7024,8 @@
   ],
   "challenges": [
     {
-      "id": "pub-c09-past-tenses-x1",
-      "title": "综合：复合过去时的助动词、分词与句式",
+      "id": "pub-c09-past-tenses-x1-1",
+      "title": "综合：复合过去时的助动词、分词与句式（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -6869,7 +7141,15 @@
           ],
           "translation": "你看过这部电影。→ 你看过这部电影吗？",
           "explain": "复合过去时倒装时，主语人称代词移到助动词后：As-tu；过去分词 vu 位置不变。as 与 tu 倒装直接加连字符，不需要增音 -t-（增音只用于第三人称单数 il / elle / on）。不能写 A-tu 或 As tu。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-x1-2",
+      "title": "综合：复合过去时的助动词、分词与句式（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-x1-q7",
           "type": "choice",
@@ -6980,8 +7260,8 @@
       ]
     },
     {
-      "id": "pub-c09-past-tenses-x2",
-      "title": "综合：过去时叙事中的背景、事件与先完成",
+      "id": "pub-c09-past-tenses-x2-1",
+      "title": "综合：过去时叙事中的背景、事件与先完成（1）",
       "kind": "challenge",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -7096,7 +7376,15 @@
           "answer": 0,
           "translation": "她们去了市场，买了花。",
           "explain": "aller 用 être 作助动词，过去分词与主语 elles 阴性复数配合，写 allées；acheter 用 avoir 作助动词，过去分词不随主语变化，写 acheté。因此只有第一句两处都正确。第二句漏了 être 配合，第三句多加了 avoir 分词的配合，第四句把两个助动词都用反了。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c09-past-tenses-x2-2",
+      "title": "综合：过去时叙事中的背景、事件与先完成（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c09-past-tenses-x2-q7",
           "type": "choice",

@@ -397,46 +397,18 @@
           "answer": 2
         },
         {
-          "id": "pub-articles-l4-q4",
-          "prompt": "Nous allons ___ Lyon en train.",
-          "translation": "我们坐火车去里昂。",
-          "explain": "城市名前用 à，不加冠词；au/aux 是缩合冠词，à la 用于阴性普通名词。",
-          "type": "choice",
-          "options": [
-            "au",
-            "à la",
-            "à",
-            "aux"
-          ],
-          "answer": 2
-        },
-        {
-          "id": "pub-articles-l4-q5",
-          "prompt": "Elle habite ___ France.",
-          "translation": "她住在法国。",
-          "explain": "阴性国家名前用 en，且不加冠词；阳性国家如 le Portugal 用 au。",
-          "type": "choice",
-          "options": [
-            "à la",
-            "en",
-            "au",
-            "aux"
-          ],
-          "answer": 1
-        },
-        {
           "id": "pub-articles-l4-q6",
           "prompt": "J'aime ___ musique classique.（泛指这一类音乐）",
           "translation": "我喜欢古典音乐。",
           "explain": "表达整体喜好用定冠词 la；une 指一部作品，de la 表示“一些”，语境不同。",
           "type": "choice",
           "options": [
-            "de la",
             "une",
             "la",
+            "de la",
             "des"
           ],
-          "answer": 2
+          "answer": 1
         },
         {
           "id": "pub-articles-l4-q7",
@@ -470,12 +442,12 @@
           "explain": "语言名称作主语用定冠词 le；du 是部分冠词，不能用来指整门语言。",
           "type": "choice",
           "options": [
-            "Des",
             "Un",
-            "Le",
-            "Du"
+            "Des",
+            "Du",
+            "Le"
           ],
-          "answer": 2
+          "answer": 3
         }
       ]
     }

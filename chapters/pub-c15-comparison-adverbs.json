@@ -1,0 +1,2210 @@
+{
+  "id": "pub-c15-comparison-adverbs",
+  "title": "比较、程度与副词",
+  "titleFr": "La comparaison, le degré et les adverbes",
+  "cards": [
+    {
+      "id": "pub-c15-comparison-adverbs-card-u1-1",
+      "title": "副词构成：阴性词干 + -ment",
+      "body": "副词修饰动词、形容词或另一个副词，本身没有性数变化。例如 parler lentement（慢慢地说话）、très gentil（非常和善）、vraiment bien（确实很好）。\n\n许多方式副词（说明动作如何进行的副词）由形容词加 -ment 构成，最常见的方法是取形容词的阴性单数作词干：\n- lent → lente → lentement（慢慢地）\n- doux → douce → doucement（轻轻地）\n- heureux → heureuse → heureusement（幸好；幸福地）\n- naturel → naturelle → naturellement（自然地）\n\n以 -e 结尾的形容词，阳性和阴性同形，直接加 -ment：facile → facilement（容易地）、rapide → rapidement（迅速地）、calme → calmement（平静地）。\n\n以 -er 结尾的形容词，阴性词干末尾的 e 要加降音符：premier → première → premièrement（首先）；léger → légère → légèrement（轻轻地）。\n\n注意：并非所有副词都由形容词派生。vite、bien、mal、souvent、tôt、tard 等是原生副词，不能套用 -ment 规则；反过来，也不是每个形容词都有对应的 -ment 副词。个别词形要以词典为准，例如 gentil → gentiment。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u1-2",
+      "title": "-amment 与 -emment：-ant / -ent 形容词",
+      "body": "以 -ant 结尾的形容词，把 -ant 换成 -amment；以 -ent 结尾的形容词，把 -ent 换成 -emment。两类词尾都读 [amɑ̃]，听起来一样，差别只在拼写。\n\n- courant → couramment（流利地）\n- méchant → méchamment（恶意地）\n- patient → patiemment（耐心地）\n- prudent → prudemment（谨慎地）\n- récent → récemment（最近）\n- violent → violemment（猛烈地）\n\n判断步骤：先看形容词阳性单数的结尾是 -ant 还是 -ent，再决定双写 m 后用 a 还是 e。不要保留 -ant/-ent 再直接加 -ment：*courament、*prudentement 都不对。\n\n注意：读音相同，所以不能靠听写区分，要回到形容词词尾记拼写。apparent → apparemment（表面上）也属 -ent 类。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u1-3",
+      "title": "-ément：词干中带 é 的副词",
+      "body": "有些形容词构成 -ment 副词时，词干里要写 é，形成 -ément 结尾。这类词形要逐词确认，不能只按读音推断。\n\n- précis → précise → précisément（确切地）\n- profond → profonde → profondément（深深地）\n- énorme → énormément（极大地；非常多）\n- intense → intensément（强烈地）\n- conforme → conformément（依照）\n- aveugle → aveuglément（盲目地）\n\n这些词在 -ment 前读 [e]，拼写用 é，而不是 e 或 è。例如 précisément 不能写成 *precisement，profondément 不能写成 *profondement。\n\n注意：这类 é 不是所有 -ment 副词都有。lentement、facilement、rapidement 的词干里就没有 é；遇到新词时查词典确认，不要一律加 é。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u1-4",
+      "title": "元音结尾的形容词：直接加 -ment",
+      "body": "形容词阳性单数以元音结尾（-e 除外）时，直接在这个阳性形式后加 -ment，不需要先变阴性。\n\n- vrai → vraiment（确实；真正地）\n- poli → poliment（有礼貌地）\n- joli → joliment（漂亮地）\n- absolu → absolument（绝对地）\n- résolu → résolument（坚决地）\n\n对比：vrai 加 -ment 写成 vraiment，不能写成 *vraiement；poli 加 -ment 写成 poliment，不需要先变成 polie。\n\n以 -e 结尾的形容词也直接加 -ment，但理由不同：它们的阳性与阴性同形，如 facile → facilement、calme → calmement。两类都不要多写一个 e。\n\n注意：grand → grandement、lent → lentement 走的是阴性词干路线，不要和元音结尾的词干混用。个别词有额外拼写调整，需按词条确认。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u1-5",
+      "title": "形容词作副词：形式不变",
+      "body": "有些形容词的阳性单数可以直接修饰动词，充当副词，形式不随主语变化。常见于花费、努力、声音、天气、气味、重量等语义场。\n\n- coûter cher：Ces livres coûtent cher.（这些书很贵。）\n- peser lourd：Ces valises pèsent lourd.（这些行李箱很重。）\n- parler fort：Elle parle fort.（她说话声音很大。）\n- travailler dur：Ils travaillent dur.（他们努力工作。）\n- chanter juste：Cette chanteuse chante juste.（这位女歌手音唱得准。）\n- sentir bon：Les fleurs sentent bon.（花很香。）\n- voler bas：L'avion vole bas.（飞机飞得低。）\n\n对比：\n- Elle parle fort.（副词，形式不变）／ une voix forte（形容词，要与名词配合）\n- Ces livres coûtent cher.（副词）／ des livres chers（形容词，阳性复数加 -s）\n\n判断方法：看这个词修饰的是动词还是名词。修饰动词时它是副词，保持阳性单数形式；修饰名词时它是形容词，要性数配合。\n\n注意：能这样用的形容词有限，不能把所有形容词都直接当副词。遇到固定搭配要整体记住，如 s'arrêter net（突然停住）、voir clair（看明白）。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u2-1",
+      "title": "同等比较：aussi ... que",
+      "body": "比较级用来比较两个对象在某一性质上的程度。表示「和……一样」用 aussi + 形容词或副词 + que。\n\n- Elle est aussi grande que sa sœur.（她和她的姐妹一样高。）\n- Ce film est aussi intéressant que l'autre.（这部电影和另一部一样有趣。）\n- Il court aussi vite que moi.（他跑得和我一样快。）\n\n要点：\n- 形容词要与被修饰的名词性数一致：Elles sont aussi grandes que nous.\n- 副词不变形：aussi vite、aussi bien、aussi souvent。\n- que 在元音或哑音 h 前省音为 qu'：aussi aimable qu'avant（和以前一样和蔼）。\n- 否定句仍可用 aussi ... que，表示「不如……」：Ce film n'est pas aussi intéressant que je pensais.（这部电影没有我想的那么有趣。）口语中也常说 pas si ... que。\n\n注意：que 后面接人称代词时要用重读形式 moi、toi、lui、elle、nous、vous、eux、elles，不能说 *que je、*que il。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u2-2",
+      "title": "不等比较：plus / moins ... que",
+      "body": "表示程度较高用 plus + 形容词或副词 + que，表示程度较低用 moins + 形容词或副词 + que。\n\n- Ce livre est plus intéressant que l'autre.（这本书比另一本更有趣。）\n- Elle travaille moins vite que nous.（她工作得比我们慢。）\n- Les chambres sont plus grandes qu'avant.（房间比以前大。）\n\n要点：\n- 形容词与相关名词配合：plus grandes（阴性复数）；副词不变：plus vite、moins bien。\n- que 在元音或哑音 h 前省音：plus difficile qu'avant。\n- 第二比较项可以是名词、重读代词、副词、介词短语或从句：plus grand que Paul / que lui / qu'avant / que dans mon souvenir / que je pensais。\n- 比较对象要完整，避免歧义；上下文清楚时可以省略第二项。\n\n注意：plus 和 moins 本身不表示数量多少。比较名词数量时要在比较词后加 de，再接名词，结构不同，不要混用。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u2-3",
+      "title": "比较级的程度修饰：beaucoup plus、un peu moins",
+      "body": "程度副词是表示程度轻重的词，如 beaucoup、un peu、bien、encore、légèrement。要说明比较差距的大小，可在 plus / moins 前加程度副词：beaucoup（……得多）、un peu（稍微）、bien（相当）、encore（更）、légèrement（略微）。\n\n- Ce film est beaucoup plus intéressant que l'autre.（这部电影比另一部有趣得多。）\n- Elle parle un peu moins vite que son frère.（她说得比她的兄弟稍微慢一点。）\n- Ce modèle est bien plus cher que celui-là.（这个型号比那个贵不少。）\n- Les chambres sont encore plus grandes que sur la photo.（房间比照片上还大。）\n\n位置固定：程度副词放在 plus / moins 之前，不能放在后面。*plus beaucoup intéressant 不对。\n\n不规则比较级前也可以加：bien meilleur（好得多）、beaucoup mieux（好得多）。程度副词只调整差距，不改变形容词的性数配合：des chambres beaucoup plus grandes。\n\n注意：très 不能直接修饰比较级。*très plus grand、*très meilleur 都不对；要用 beaucoup plus grand、bien meilleur。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u2-4",
+      "title": "bon 的比较级：meilleur",
+      "body": "形容词 bon（好）的比较级是不规则形式 meilleur，最高级（表示在某一范围内程度最高）是 le meilleur。meilleur 是形容词，要与名词性数配合。\n\n- Ce gâteau est meilleur que celui d'hier.（这个蛋糕比昨天那个好吃。）\n- Ces pommes sont meilleures que les autres.（这些苹果比别的苹果好。）\n- C'est la meilleure solution.（这是最好的办法。）\n- Les meilleurs élèves seront récompensés.（最好的学生将受到奖励。）\n\n要点：\n- 比较质量时用 meilleur，不按规则说 *plus bon que。\n- meilleur 修饰名词；修饰动词要用副词 mieux（见下一张）。\n- 最高级中的定冠词随名词变化：le meilleur、la meilleure、les meilleurs、les meilleures。\n- 比较对象用 que 引出：meilleur que celui-ci；范围用 de：le meilleur de la classe。\n\n注意：meilleur 只用于形容词 bon 的比较；bien 的比较级是 mieux，两者不能互换。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u2-5",
+      "title": "meilleur 还是 mieux：看修饰名词还是动词",
+      "body": "meilleur 和 mieux 都表示「更好」，但词性不同，选择取决于它所修饰的中心词。\n\n- meilleur 是形容词，修饰名词，要与名词性数配合：Ce vin est meilleur que l'autre.（这葡萄酒比另一瓶好。）／ Ces vins sont meilleurs.\n- mieux 是副词，修饰动词，形式不变：Elle cuisine mieux que son frère.（她做饭比她的兄弟好。）／ Ils travaillent mieux qu'avant.\n\n判断方法：找到「更好」所说明的对象。说明名词（酒、菜、成绩、办法）用 meilleur；说明动作（做饭、工作、唱歌、睡觉）用 mieux。\n\n对比：\n- C'est meilleur.（这更好吃／质量更好）——评价食物或事物的性质。\n- C'est mieux.（这样更好）——评价做法、安排或情况。\n- le meilleur（最好的事物／人，形容词性）／ le mieux（最好地，副词性）\n\n注意：bien 的比较级是 mieux，不是 *plus bien；bon 的比较级是 meilleur，不是 *plus bon。不要按主语性别选，而要看被修饰的词。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u3-1",
+      "title": "形容词最高级：le / la / les + plus / moins",
+      "body": "最高级表示在某一范围内程度最高或最低。形容词最高级由定冠词 + plus / moins + 形容词构成，定冠词与名词性数一致。\n\n- C'est la plus belle ville de la région.（这是本地区最美丽的城市。）\n- C'est le film le plus intéressant de l'année.（这是今年最有趣的电影。）\n- Les exercices les plus difficiles sont à la fin.（最难的练习在最后。）\n- Elle est la moins rapide de sa classe.（她是班里最慢的。）\n\n位置：\n- 形容词放在名词前时，用定冠词 + plus/moins + 形容词 + 名词：la plus belle ville。\n- 形容词放在名词后时，名词前用定冠词，形容词前再重复定冠词：le film le plus intéressant、les exercices les plus difficiles。\n\n比较范围用 de 引出：de la classe、de l'année、de tous。范围也可以不出现，但最高级前的定冠词不能省：C'est la plus belle.（这是最漂亮的。）\n\n注意：最高级中的 le/la/les 跟名词走，不跟主语走；不要因为主语是 elle 就把 le 改成 la，除非它修饰的是阴性名词。副词最高级用 le plus + 副词，le 不变，那是另一条规则。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u3-2",
+      "title": "「最……之一」：un / une des + plus / moins（识别）",
+      "body": "要表达「最……之一」，用不定冠词 + des + plus / moins + 形容词 + 复数名词：\n\n- C'est une des plus belles villes de France.（这是法国最美丽的城市之一。）\n- Il fait partie des meilleurs étudiants de sa promotion.（他属于他那一届最好的学生之一。）\n- Elle est l'une des plus jeunes enseignantes du lycée.（她是这所高中最年轻的教师之一。）\n\n结构要点：\n- des 后面必须是复数名词：des plus belles villes，不能说 *des plus belle ville。\n- 不定冠词 un / une 的性取决于 des 后面的复数名词，而不是主语：une des plus belles villes（villes 是阴性，用 une）；un des meilleurs étudiants（étudiants 是阳性，用 un）。\n- 形容词要与后面的复数名词配合：des plus belles villes（阴性复数）、des meilleurs étudiants（阳性复数）。\n- 更正式的说法可用 l'un / l'une des：l'une des plus belles villes。\n\n识别方法：看到「不定冠词 + des + 比较词 + 形容词 + 复数名词」，就知道是「最……之一」；它与用定冠词的普通最高级不同：la plus belle ville 是「最美丽的城市」，une des plus belles villes 是「最美丽的城市之一」。\n\n注意：des 不能换成 les；「最……之一」的重点是「其中之一」，不是唯一的最高者。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u4-1",
+      "title": "mieux：bien 的比较级",
+      "body": "比较级用来比较两个对象在性质或程度上的高低；最高级表示在一组对象中程度最高。bien 是副词，它的比较级是不规则的 mieux，最高级是 le mieux。mieux 修饰动词，形式不随主语变化。\n\n- Elle chante mieux que sa sœur.（她唱得比她的姐妹好。）\n- Il travaille mieux le matin.（他早上工作得更好。）\n- C'est elle qui parle le mieux français dans le groupe.（她是组里法语说得最好的人。）\n\n要点：\n- mieux 是副词，不能修饰名词；本章重点掌握它修饰动词的用法。\n- 最高级 le mieux 中的 le 固定不变，不随主语性数变化。\n- 不要按规则写成 *plus bien。\n\n注意：meilleur 是形容词 bon 的比较级，修饰名词；mieux 是副词 bien 的比较级，修饰动词。两者的区别见第 2 单元。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u4-2",
+      "title": "mal、pire、moindre：需要认得的不规则级",
+      "body": "有些形容词和副词的不规则比较级不能按 plus + 原级类推，需要作为词条认得。\n\n方式副词 mal（差、不好）的较高程度用 plus mal...que，最高程度用 le plus mal，也可用较文雅的 le pis。\n- Il chante plus mal qu'avant.（他唱得比以前差。）\n- C'est lui qui travaille le plus mal.（他是工作得最差的人。）\n\n形容词 mauvais（坏的）可用不规则比较级 pire，最高级 le pire；规则形式 plus mauvais / le plus mauvais 也可能出现。\n- Ce film est pire que l'autre.（这部电影比那部更糟。）\n- C'est la pire solution.（这是最糟的解决方案。）\n\n形容词 petit 在抽象意义可用 moindre，表示「较小的、最轻微的」；具体大小仍用 plus petit。\n- C'est un moindre mal.（这还算较小的坏事。）\n- Le moindre bruit le réveille.（最轻微的声音也会吵醒他。）\n\n注意：这些形式只需能认出，不要类推成 *plus pire 或 *plus bien。mal 是方式副词，不属于数量副词；数量副词的不规则级见下一张。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u4-3",
+      "title": "beaucoup 与 peu 的不规则级",
+      "body": "数量副词表示数量多少，常见的有 beaucoup（多）、peu（少）。它们的比较级和最高级不按普通副词规则构成：\n\n- beaucoup：较高程度 plus，同等程度 autant，最高程度 le plus。\n- peu：较低程度 moins，同等程度 aussi peu，最高程度 le moins。\n\n这些形式通常和 de + 名词 连用：\n- Elle lit plus de romans que moi.（她读的小说比我多。）\n- Il a autant de patience que toi.（他和你一样有耐心。）\n- C'est elle qui a le moins de temps.（她时间最少。）\n- Il travaille aussi peu que son frère.（他和他的兄弟一样不怎么工作。）\n\n注意：beaucoup 的较高程度直接用 plus，不能说 *plus beaucoup；在名词数量比较中，autant 后面要接 de + 名词。mal 是方式副词，它的 plus mal 不属于这里。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u4-4",
+      "title": "名词数量比较：plus de / autant de / moins de",
+      "body": "比较两个对象的名词数量，用 plus de、autant de 或 moins de 加名词，再用 que 引出第二项。这里的 de 不表示所属，而是数量结构的一部分。\n\n- J'ai plus de livres que toi.（我的书比你多。）\n- Elle a autant d'énergie que son frère.（她和她的兄弟一样有精力。）\n- Nous avons moins de temps qu'hier.（我们今天的时间比昨天少。）\n\n要点：\n- 名词前一般不用定冠词：plus de livres，不说 *plus des livres。\n- de 遇元音或哑音 h 开头的名词要省音：d'énergie、d'habitants。\n- 形容词或副词的比较不带 de + 名词：Il est plus grand que moi，不说 *plus de grand。\n\n注意：数量比较问「多少」，性质比较问「多……」，两套结构不要混用。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u4-5",
+      "title": "数量比较中的程度修饰",
+      "body": "程度副词表示程度高低，如 beaucoup（多得多）、un peu（稍微）、bien（很）。在数量比较中，程度副词放在 plus de 或 moins de 之前，用来调整数量差距。\n\n- Il y a beaucoup plus de touristes cette année.（今年游客多得多。）\n- Elle a un peu moins de travail ce mois-ci.（她这个月工作少一点。）\n- Nous avons bien plus d'idées qu'avant.（我们的想法比以前多得多。）\n\n要点：\n- 位置固定在 plus / moins 之前：beaucoup plus de，不说 *plus beaucoup de。\n- de 必须保留：beaucoup plus de temps，不能因为插入程度词就删掉 de。\n- 不能说 *très plus de；très 修饰形容词或副词，不修饰 plus de 结构。\n\n注意：程度副词调的是差距大小，不改变名词前的 de，也不改变比较词的选择。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u4-6",
+      "title": "第二比较项的形式",
+      "body": "que 后面承接第二比较项。第二项不一定和第一项同形，可以是名词短语，也可以根据上下文换成代词、副词或介词短语。\n\n常见形式：\n- 重读人称代词：moi、toi、lui、elle、nous、vous、eux、elles。\n  - Elle est plus âgée que moi.（她比我年长。）\n- 主有代词：le mien、la tienne、les siens 等，代替「我的/你的/他的 + 名词」。\n  - Mon vélo est plus rapide que le tien.（我的自行车比你的快。）\n- 指示代词：celui、celle、ceux、celles，常带 de 补语或 -ci/-là。\n  - Ces gâteaux sont meilleurs que ceux de la boulangerie.（这些蛋糕比面包店的那些好吃。）\n- 副词或介词短语：avant、d'habitude、en été 等。\n  - Il travaille mieux qu'avant.（他比以前工作得好。）\n- 从句：que 后接完整分句。\n  - Il est plus grand que je croyais.（他比我想的要高。）\n\n要点：\n- 人称代词作第二项要用重读形式：que moi，不说 *que je。\n- que 遇元音开头的词要省音：qu'elle、qu'il、qu'on。\n- 第二项可以省略，当上下文已经明确时：Il travaille plus.（他工作得更多。）\n\n注意：不要把第二项的形式和第一项强行对齐；比较的是语义上的程度，不是语法成分的类别。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u4-7",
+      "title": "关联比较：plus...plus、plus...moins",
+      "body": "关联比较用两组比较词前后呼应，表示两种变化同向或反向。常见组合有 plus...plus（越……越……）、moins...moins（越不……越不……）、plus...moins（越……越不……）、moins...plus，以及 plus...mieux（越……越好……）。\n\n- Plus on lit, plus on apprend.（读得越多，学得越多。）\n- Moins il dort, moins il est concentré.（他睡得越少，越不专注。）\n- Plus le temps passe, moins j'ai envie de sortir.（时间越久，我越不想出门。）\n- Plus on lit, mieux on apprend.（读得越多，学得越好。）\n\n要点：\n- 两个分句各要有一个比较词，不能只在前半句用 plus。\n- 前后是 plus 还是 moins 由逻辑关系决定：同向用 plus...plus 或 moins...moins，反向用 plus...moins 或 moins...plus。\n- 后一分句也可以用 mieux（bien 的比较级），构成 plus...mieux，表示「越……越好……」：Plus on lit, mieux on apprend。\n- 这种结构不同于 de plus en plus：后者只表示一个对象自身逐步变化，不需要两个分句。\n\n注意：两个分句的比较词都不能省略；只写一个 plus 或 moins 不能构成完整的关联比较。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u4-8",
+      "title": "渐进比较：de plus en plus / de moins en moins",
+      "body": "渐进比较表示某性质、动作或数量逐步上升或下降，相当于汉语的「越来越……」「越来越不……」。\n\n- 修饰形容词或副词：de plus en plus + 形容词/副词。\n  - Il fait de plus en plus chaud.（天气越来越热。）\n  - Elle parle de moins en moins vite.（她说话越来越慢。）\n- 修饰动词：de plus en plus / de moins en moins 放在动词后或句末。\n  - Il travaille de plus en plus.（他工作越来越多。）\n  - Elle sort de moins en moins.（她越来越少出门。）\n- 直接修饰名词：de plus en plus de / de moins en moins de + 名词。\n  - Il y a de plus en plus de voitures.（车越来越多。）\n  - J'ai de moins en moins de temps.（我的时间越来越少。）\n\nmieux（bien 的比较级）也可以构成渐进比较：de mieux en mieux 表示「越来越好」。\n- Son français va de mieux en mieux.（他的法语越来越好。）\n- Elle parle de mieux en mieux.（她说得越来越好。）\n\n注意：直接修饰名词时，最后一个 de 不能丢：de plus en plus de voitures，不说 *de plus en plus voitures。这与前后分句呼应的关联比较不同。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u4-9",
+      "title": "同一性比较：le même...que",
+      "body": "同一性比较表示两个对象是同一个或同款，结构是定冠词 + même + 名词 + que + 第二项。定冠词随名词的性和数变化，même 只在复数时加 -s。\n\n- J'ai le même vélo que toi.（我和你有同款自行车。）\n- Elle porte la même robe que sa sœur.（她和她的姐妹穿同款裙子。）\n- Nous avons les mêmes horaires qu'avant.（我们的时间安排和以前一样。）\n\n要点：\n- même 作形容词时，复数要加 -s：les mêmes idées，不说 *les même idées。\n- 第二项用 que 引出，不用 comme：le même livre que toi。\n- 名词在上下文中明确时可以省略，但第一次出现时通常保留名词。\n\n注意：同一性比较强调「同一个/同款」，与「相似」不同；不要把 même 与表示「甚至」的副词 même 混淆。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u5-1",
+      "title": "简单时态里副词的位置",
+      "body": "副词（adverbe）用来修饰动词、形容词或另一个副词，本身没有性数变化。简单时态里，副词修饰动词时，一般放在变位动词之后。\n\n- Elle travaille beaucoup.（她工作很努力。）\n- Il répond lentement.（他回答得很慢。）\n- Nous visitons souvent ce musée.（我们常参观这家博物馆。）\n\n否定句中的频率副词（表示动作发生频率的词，如 souvent、toujours、jamais）通常放在 pas 之后，但 jamais 的搭配不同：它直接与 ne 连用，句中不再出现 pas。\n- Il ne lit pas souvent le soir.（他晚上不常看书。）\n- Elle n'est jamais en retard.（她从不迟到。）\n\n在 avoir besoin de 这类「变位动词 + 名词补语」的结构中，副词可以插在变位动词和名词补语之间：\n- J'ai vraiment besoin de ton aide.（我真的需要你的帮助。）\n- Nous avons encore besoin de temps.（我们还需要时间。）\n\n注意：时间状语的位置比较灵活，可以放在句末或句首；「pas 之后」这条主要适用于频率副词，不要推广到所有状语。修饰形容词或另一个副词时，位置不同，见下一张。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u5-2",
+      "title": "修饰形容词或副词的副词位置",
+      "body": "程度副词（表示程度强弱的副词，如 très、trop、assez、tout à fait）修饰形容词或另一个副词时，放在被修饰词之前。\n\n- Elle est très attentive.（她非常专注。）\n- Ce café est trop chaud.（这杯咖啡太烫了。）\n- Il conduit assez prudemment.（他开车相当谨慎。）\n- Ce film est tout à fait intéressant.（这部电影非常有意思。）\n\n由多个词组成的副词短语要整体前移，不能拆开：\n- Elle parle vraiment très bien français.（她法语说得真的很好。）——vraiment 修饰 très bien，très 修饰 bien，整块都放在被修饰成分前。\n- Il est tout à fait d'accord.（他完全同意。）\n\n对比：修饰动词时，副词多放在变位动词之后（见上一张）；修饰形容词或副词时则前置。同一个副词的位置取决于它修饰什么。\n\n注意：多词副词短语不能拆散后分别放置；不要把修饰形容词的 très 放到形容词后面。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u5-3",
+      "title": "复合时态中副词的位置（识别）",
+      "body": "复合时态（由助动词 + 过去分词构成的时态，如 passé composé）中，较短的副词常插在助动词和过去分词之间。\n\n- Elle a déjà fini.（她已经完成了。）\n- J'ai souvent visité ce quartier.（我常来这个街区。）\n- Nous avons bien compris la consigne.（我们完全明白了要求。）\n- Il a mal dormi.（他睡得不好。）\n\n较长的副词或副词短语多放在过去分词之后或句末：\n- Elle a répondu avec beaucoup de patience.（她非常耐心地回答了。）\n- Ils ont téléphoné hier matin.（他们昨天早上打了电话。）\n\n识别要点：先看副词的长度和性质，再看它在句中的位置；短副词可以在助动词与过去分词之间，长副词和副词短语一般后置。\n\n注意：并非所有副词都能插在助动词和过去分词之间；具体位置还受长度、语义和语体制约，不能把「短副词」的规则套到所有副词上。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u5-4",
+      "title": "副词最高级（识别）",
+      "body": "最高级（表示在某一范围内程度最高的形式）用于副词时，结构是 le + plus / moins + 副词。这里的 le 固定不变，不随主语变化。\n\n- C'est elle qui court le plus vite.（她跑得最快。）\n- Il travaille le moins soigneusement de tous.（他在所有人中做得最不仔细。）\n- Elles chantent le mieux.（她们唱得最好。）\n\n对比形容词最高级：形容词最高级的定冠词要跟名词的性数变化（la plus rapide、les plus rapides），而副词最高级一律用 le。\n- Léa est la plus rapide.（莱娅是最快的。）——形容词，与 Léa 阴性单数配合。\n- Léa court le plus vite.（莱娅跑得最快。）——副词，le 不变。\n\n注意：不要因为主语是阴性或复数就把副词最高级的 le 改成 la 或 les；识别时先判断被修饰的是名词还是动词。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u5-5",
+      "title": "副词 tout 表示「完全」",
+      "body": "副词 tout 修饰形容词或另一个副词，表示「完全、非常」。它通常不变，但在辅音或嘘音 h（发音的 h）开头的阴性形容词前，可以跟形容词配合为 toute / toutes，也可以保持 tout，两种写法都正确；在元音或哑音 h（不发音的 h）开头的阴性形容词前只能用 tout。\n\n- Elle est toute contente.（她非常高兴。）——contente 以辅音 c 开头，阴性单数，tout 配合为 toute。\n- Elles sont toutes contentes.（她们非常高兴。）——阴性复数，配合为 toutes。\n- Elle est tout étonnée.（她非常惊讶。）——étonnée 以元音开头，tout 不变。\n- Les feuilles sont tout humides.（树叶全湿了。）——humides 以哑音 h 开头，tout 不变。\n\n要点：先确认 tout 修饰的是阴性形容词，再看形容词开头的音；阳性形容词前一律用 tout。\n\n注意：不要把副词 tout 与形容词 tout（tout le monde、tout le livre）或代词 tout 混淆；配合只发生在辅音或嘘音 h 开头的阴性形容词前。"
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-card-u5-6",
+      "title": "复合时态中 tant / tellement 的位置",
+      "body": "程度副词 tant 和 tellement 修饰动词时，在复合时态中放在助动词和过去分词之间，常表示「如此……以至于」，后面接 que 从句；tellement 也可以不接 que，单独表示强烈的程度或感叹。\n\n- Il a tant travaillé qu'il est épuisé.（他工作得如此努力，以至于累坏了。）\n- Elle a tellement couru qu'elle a soif.（她跑得太厉害，口渴了。）\n- Nous avons tellement ri !（我们笑得太厉害了！）\n\n最后一句没有 que，tellement 只表示强烈的感叹，不构成结果从句。\n\n对比：tant de / tellement de 后面接名词，不能插在助动词和过去分词之间。\n- Il a tant de travail qu'il rentre tard.（他工作那么多，所以很晚回家。）\n- Elle a tellement de patience avec les enfants.（她对孩子非常有耐心。）\n\n注意：插入 tant / tellement 不改变助动词和过去分词的先后顺序；tant de / tellement de 后必须接名词。"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pub-c15-comparison-adverbs-l1",
+      "title": "副词的构成",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Elle a répondu ___ à toutes les questions. » (lent)",
+          "options": [
+            "lent",
+            "lente",
+            "lentement",
+            "lentes"
+          ],
+          "answer": 2,
+          "translation": "她慢慢地回答了所有问题。",
+          "explain": "这里缺的是修饰动词 répondre 的副词，不能填形容词。lent 是阳性单数形容词，lente 和 lentes 也都是形容词形式，不能修饰动词；只有 lentement 是方式副词，形式不变。构成方式：阴性 lente 加 -ment，写成 lentement。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q2",
+          "type": "letters",
+          "prompt": "Complétez : « Il avance ___ dans la rue. » (lent)",
+          "answer": "lentement",
+          "decoys": [
+            "a",
+            "s",
+            "r",
+            "i"
+          ],
+          "translation": "他在街上慢慢地走。",
+          "explain": "句子需要修饰动词 avancer 的副词。lent 的阴性是 lente，加 -ment 时写成 lentement，只保留一个 e。不能直接用形容词 lent。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q3",
+          "type": "choice",
+          "prompt": "Quel adverbe est correctement formé à partir de « prudent » ?",
+          "options": [
+            "prudentement",
+            "prudemment",
+            "prudamment",
+            "prudement"
+          ],
+          "answer": 1,
+          "translation": "由 « prudent » 正确构成的副词是哪一个？",
+          "explain": "prudent 以 -ent 结尾，按规则把 -ent 换成 -emment：prudemment。prudentement 保留了 -ent，prudamment 用了 -ant 的词尾，prudement 少了双写 m，都不对。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q4",
+          "type": "letters",
+          "prompt": "Complétez : « Elle a ___ terminé son travail. » (récent)",
+          "answer": "récemment",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "a",
+            "i",
+            "s",
+            "t"
+          ],
+          "translation": "她最近完成了工作。",
+          "explain": "récent 以 -ent 结尾，把 -ent 换成 -emment：récemment。词干里的 é 要保留，不能写成 recamment 或 récentement。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q5",
+          "type": "letters",
+          "prompt": "Complétez : « Il parle ___ trois langues. » (courant)",
+          "answer": "couramment",
+          "decoys": [
+            "e",
+            "i",
+            "s",
+            "t"
+          ],
+          "translation": "他能流利地说三种语言。",
+          "explain": "courant 以 -ant 结尾，把 -ant 换成 -amment：couramment，字母 m 要双写。不能写成 courament 或 courantement。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q6",
+          "type": "letters",
+          "prompt": "Complétez : « Elle a ___ compris la leçon. » (vrai)",
+          "answer": "vraiment",
+          "decoys": [
+            "e",
+            "s",
+            "t",
+            "a"
+          ],
+          "translation": "她确实明白了这一课。",
+          "explain": "vrai 的阳性以元音 -ai 结尾，直接在阳性形式后加 -ment：vraiment。不需要先变阴性，也不要写成 vraiement。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q7",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Elle chante joliment.",
+            "Elle chante jolieument.",
+            "Elle chante jolimente.",
+            "Elle chante jolie ment."
+          ],
+          "answer": 0,
+          "translation": "她唱得很好听。",
+          "explain": "joli 以元音 -i 结尾，直接加 -ment：joliment，只有一个 l、一个 m。jolieument 多写 e，jolimente 多写 e，jolie ment 把词拆开了。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q8",
+          "type": "letters",
+          "prompt": "Complétez : « Il a expliqué ___ les règles du jeu. » (précis)",
+          "answer": "précisément",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "a",
+            "i",
+            "t",
+            "n"
+          ],
+          "translation": "他准确地解释了游戏规则。",
+          "explain": "précis 的副词是 précisément：词干里保留 é，-ment 前也是 é。不能按读音写成 precisement，也不要写成 précissement。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q9",
+          "type": "choice",
+          "prompt": "Quelle est l'orthographe correcte de l'adverbe formé sur « profond » ?",
+          "options": [
+            "profondement",
+            "profondèment",
+            "profondémment",
+            "profondément"
+          ],
+          "answer": 3,
+          "translation": "由 « profond » 构成的副词，哪种拼写正确？",
+          "explain": "profond 的副词是 profondément，-ment 前的 e 要写成 é。profondement 少了重音，profondèment 用了 è，profondémment 多写了一个 m。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q10",
+          "type": "letters",
+          "prompt": "Complétez : « Elle travaille ___ sur ce projet. » (énorme)",
+          "answer": "énormément",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "a",
+            "i",
+            "s",
+            "t"
+          ],
+          "translation": "她在这个项目上投入了大量精力。",
+          "explain": "énorme 的副词是 énormément：词干中的 é 保留，词尾 -e 去掉后加 -ment。不要写成 enormement（少重音）或 énormement（第二个 é 丢了）。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q11",
+          "type": "tiles",
+          "prompt": "Transformez avec des adverbes en -ment, en employant d'abord « patient » puis « clair » : « Le guide répond. » → ___",
+          "answer": [
+            "Le",
+            "guide",
+            "répond",
+            "patiemment",
+            "et",
+            "clairement"
+          ],
+          "bank": [
+            "Le",
+            "guide",
+            "répond",
+            "patiemment",
+            "et",
+            "clairement",
+            "patientement",
+            "clairément",
+            "patience",
+            "claires"
+          ],
+          "translation": "向导耐心而清楚地回答。",
+          "explain": "patient 以 -ent 结尾，把 -ent 换成 -emment，得到 patiemment；clair 的阴性是 claire，加 -ment 得到 clairement。两个副词都修饰 répond，形式不变，由 et 连接。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q12",
+          "type": "tiles",
+          "prompt": "Transformez avec des adverbes en -ment : « Elle parle. (vrai / courant) » → ___",
+          "answer": [
+            "Elle",
+            "parle",
+            "vraiment",
+            "couramment"
+          ],
+          "bank": [
+            "Elle",
+            "parle",
+            "vraiment",
+            "couramment",
+            "vraiement",
+            "courrament",
+            "courament",
+            "vrai"
+          ],
+          "translation": "她说得确实很流利。",
+          "explain": "vrai 以元音结尾，直接加 -ment，得到 vraiment；courant 以 -ant 结尾，换成 -amment，得到 couramment。vraiment 修饰 couramment，放在它前面；两个副词都不随主语变化。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q13",
+          "type": "tiles",
+          "prompt": "Transformez avec des adverbes en -ment, en employant d'abord « précis » puis « calme » : « Il a répondu. » → ___",
+          "answer": [
+            "Il",
+            "a",
+            "répondu",
+            "précisément",
+            "et",
+            "calmement"
+          ],
+          "bank": [
+            "Il",
+            "a",
+            "répondu",
+            "précisément",
+            "et",
+            "calmement",
+            "précisement",
+            "calmément",
+            "calme",
+            "précise"
+          ],
+          "translation": "他准确而平静地回答了。",
+          "explain": "précis 的副词是 précisément，词干带 é；calme 的阳性以 -e 结尾，直接加 -ment，得到 calmement。两个副词由 et 连接，都修饰 a répondu，形式不变。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q14",
+          "type": "choice",
+          "prompt": "Complétez : « Ces livres coûtent ___. »",
+          "options": [
+            "chers",
+            "cher",
+            "chères",
+            "chère"
+          ],
+          "answer": 1,
+          "translation": "这些书很贵。",
+          "explain": "coûter cher 是固定搭配，cher 在这里是副词，修饰动词 coûter，表示「贵」，不随主语 les livres 变为复数或阴性。chers、chères、chère 都是形容词的配合形式，不能用于这个结构。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q15",
+          "type": "tiles",
+          "prompt": "Transformez avec des adverbes en -ment : « Elle parle. (courant / doux) » → ___",
+          "answer": [
+            "Elle",
+            "parle",
+            "couramment",
+            "et",
+            "doucement"
+          ],
+          "bank": [
+            "Elle",
+            "parle",
+            "couramment",
+            "et",
+            "doucement",
+            "courrament",
+            "courament",
+            "douce",
+            "doucément",
+            "courant"
+          ],
+          "translation": "她说得流利而轻柔。",
+          "explain": "courant 以 -ant 结尾，把 -ant 换成 -amment，得到 couramment；doux 的阴性是 douce，取阴性词干加 -ment，得到 doucement。两个副词都修饰 parle，形式不变，由 et 连接。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l1-q16",
+          "type": "tiles",
+          "prompt": "Transformez avec des adverbes en -ment : « Il répond. (poli / méchant) » → ___",
+          "answer": [
+            "Il",
+            "répond",
+            "poliment",
+            "et",
+            "méchamment"
+          ],
+          "bank": [
+            "Il",
+            "répond",
+            "poliment",
+            "et",
+            "méchamment",
+            "poli",
+            "polie",
+            "méchantement",
+            "méchament",
+            "méchante"
+          ],
+          "translation": "他有礼貌又刻薄地回答。",
+          "explain": "poli 的阳性以元音 -i 结尾，直接加 -ment，得到 poliment；méchant 以 -ant 结尾，把 -ant 换成 -amment，得到 méchamment，注意保留 é 并双写 m。两个副词都修饰 répond，形式不变。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-l2",
+      "title": "比较级：同等与不等",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Marie est aussi ___ que sa sœur. »",
+          "options": [
+            "grand",
+            "grande",
+            "grands",
+            "grandes"
+          ],
+          "answer": 1,
+          "translation": "玛丽和她的姐妹一样高。",
+          "explain": "形容词 grand 要与主语 Marie（阴性单数）配合，用 grande。grand 是阳性单数，grands 是阳性复数，grandes 是阴性复数，都不符合。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q2",
+          "type": "letters",
+          "prompt": "Complétez : « Il est ___ grand que son père. » (égalité)",
+          "answer": "aussi",
+          "decoys": [
+            "e",
+            "t",
+            "r",
+            "n"
+          ],
+          "translation": "他和父亲一样高。",
+          "explain": "同等比较用 aussi + 形容词 + que。这里需要 aussi，字母 s 要双写；autant 用于数量或动词比较，不能直接修饰形容词 grand。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q3",
+          "type": "choice",
+          "prompt": "Quelle phrase exprime une comparaison d'égalité ?",
+          "options": [
+            "Il est plus grand que moi.",
+            "Il est moins grand que moi.",
+            "Il est aussi grand que moi.",
+            "Il est le plus grand de la classe."
+          ],
+          "answer": 2,
+          "translation": "哪一句表达同等比较？",
+          "explain": "aussi ... que 表示同等；plus ... que 表示较高，moins ... que 表示较低，le plus ... de 是最高级。只有第三句是同等比较。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q4",
+          "type": "choice",
+          "prompt": "Complétez : « Ce problème est ___ difficile que le précédent : je ne vois aucune différence. »",
+          "options": [
+            "aussi",
+            "plus",
+            "moins",
+            "autant"
+          ],
+          "answer": 0,
+          "translation": "这道题和上一道一样难：我看不出任何差别。",
+          "explain": "后半句「我看不出任何差别」说明两者程度相同，用 aussi ... que。plus 表示前者更高，moins 表示前者更低，autant 不能直接修饰形容词 difficile。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q5",
+          "type": "letters",
+          "prompt": "Complétez : « Ses cheveux sont aussi ___ que ceux de sa mère. » (long)",
+          "answer": "longs",
+          "decoys": [
+            "e",
+            "a",
+            "i",
+            "t"
+          ],
+          "translation": "她的头发和她母亲的一样长。",
+          "explain": "形容词 long 要与主语 ses cheveux（阳性复数）配合，用 longs。long 是阳性单数，longue 是阴性，longues 是阴性复数；句中 ceux 回指阳性复数 cheveux。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q6",
+          "type": "choice",
+          "prompt": "Complétez : « Elle est aussi rapide ___ . » (je)",
+          "options": [
+            "que je",
+            "que me",
+            "qu'elle",
+            "que moi"
+          ],
+          "answer": 3,
+          "translation": "她和我一样快。",
+          "explain": "que 后接重读人称代词。源形式是 je，重读形式为 moi，所以用 que moi；que je 保留了主格，que me 用了宾格，都不符合。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q7",
+          "type": "tiles",
+          "prompt": "Transformez avec une comparaison d'égalité : « Elle est aimable. Elle était aimable avant. » → ___",
+          "answer": [
+            "Elle",
+            "est",
+            "aussi",
+            "aimable",
+            "qu'avant."
+          ],
+          "bank": [
+            "Elle",
+            "est",
+            "aussi",
+            "aimable",
+            "qu'avant.",
+            "que",
+            "plus",
+            "moins",
+            "avant"
+          ],
+          "translation": "她和以前一样和蔼。",
+          "explain": "同等比较用 aussi ... que；que 在 avant 的元音前省音为 qu'，写成 qu'avant。不能保留完整的 que，也不能用 plus 或 moins 改变比较类型。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q8",
+          "type": "choice",
+          "prompt": "Complétez : « Ce film est ___ intéressant que je pensais, ni plus ni moins. »",
+          "options": [
+            "plus",
+            "moins",
+            "aussi",
+            "autant"
+          ],
+          "answer": 2,
+          "translation": "这部电影和我想的一样有趣，不多也不少。",
+          "explain": "ni plus ni moins（不多也不少）说明两者程度相同，用 aussi ... que。plus 表示更高程度，moins 表示更低程度，都与该短语矛盾；autant 不能直接修饰形容词 intéressant。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q9",
+          "type": "choice",
+          "prompt": "Complétez : « Les valises de Julie sont ___ que celles de Paul. »",
+          "options": [
+            "plus lourdes",
+            "plus lourd",
+            "plus lourde",
+            "les plus lourdes"
+          ],
+          "answer": 0,
+          "translation": "朱莉的行李箱比保罗的重。",
+          "explain": "形容词 lourd 要与主语 les valises（阴性复数）配合，用 lourdes；plus 放在形容词前。plus lourd 是阳性单数，plus lourde 是阴性单数，les plus lourdes 是最高级，均不符合。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q10",
+          "type": "letters",
+          "prompt": "Complétez : « Cette conférence est ___ intéressante que la précédente. » (comparatif d'infériorité)",
+          "answer": "moins",
+          "decoys": [
+            "e",
+            "a",
+            "t",
+            "r"
+          ],
+          "translation": "这个讲座没有上一个那么有趣。",
+          "explain": "修饰形容词 intéressante 的比较词是 moins，表示程度较低。句子已给出 que，只需要比较词；moins 的词尾是 -s，不要漏写。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q11",
+          "type": "choice",
+          "prompt": "Complétez : « Elle est plus patiente ___ . »",
+          "options": [
+            "que il",
+            "comme lui",
+            "que lui",
+            "que son"
+          ],
+          "answer": 2,
+          "translation": "她比他更有耐心。",
+          "explain": "que 后接重读人称代词，lui 指男性。que il 没有省音；que son 后面缺名词；comme 表示「像」，不能用于 plus 引出的比较结构。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q12",
+          "type": "tiles",
+          "prompt": "Exprimez l'infériorité : « Marie est rapide. Paul est rapide. » → ___",
+          "answer": [
+            "Marie",
+            "est",
+            "moins",
+            "rapide",
+            "que",
+            "Paul."
+          ],
+          "bank": [
+            "Marie",
+            "est",
+            "moins",
+            "rapide",
+            "que",
+            "Paul.",
+            "plus",
+            "aussi",
+            "comme",
+            "vite"
+          ],
+          "translation": "玛丽没有保罗快。",
+          "explain": "比较对象 Paul 放在 que 后，句子用 moins ... que 表示「不如」。plus 表示相反，aussi 表示同等，comme 不能这样接比较对象。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q13",
+          "type": "choice",
+          "prompt": "Complétez : « Ces élèves sont ___ que ceux de l'autre classe. »",
+          "options": [
+            "moins bavard",
+            "moins bavarde",
+            "le moins bavards",
+            "moins bavards"
+          ],
+          "answer": 3,
+          "translation": "这些学生没有另一个班的学生那么爱说话。",
+          "explain": "形容词 bavard 要与主语 ces élèves（阳性复数）配合，用 bavards；moins 放在形容词前。moins bavard 是阳性单数，moins bavarde 是阴性单数，le moins bavards 冠词和数都不对。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q14",
+          "type": "letters",
+          "prompt": "Complétez : « Elle travaille plus ___ que lui. » (sérieux)",
+          "answer": "sérieusement",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "a",
+            "i",
+            "t",
+            "n"
+          ],
+          "translation": "她比他工作更认真。",
+          "explain": "sérieux 的阴性是 sérieuse，加 -ment 时写成 sérieusement，词干里要保留 é。plus 修饰副词 sérieusement，副词本身不变形。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q15",
+          "type": "choice",
+          "prompt": "Complétez : « Il conduit ___ que son frère. »",
+          "options": [
+            "plus prudent",
+            "plus prudente",
+            "plus prudents",
+            "plus prudemment"
+          ],
+          "answer": 3,
+          "translation": "他开车比他的兄弟更谨慎。",
+          "explain": "修饰动词 conduit 要用副词 prudemment，由 prudent 加 -emment 构成。plus 放在副词前；prudent、prudente、prudents 都是形容词，不能修饰动词。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q16",
+          "type": "tiles",
+          "prompt": "Exprimez l'infériorité : « Ce livre est intéressant. Ce film est très intéressant. » → ___",
+          "answer": [
+            "Ce",
+            "livre",
+            "est",
+            "moins",
+            "intéressant",
+            "que",
+            "ce",
+            "film."
+          ],
+          "bank": [
+            "Ce",
+            "livre",
+            "est",
+            "moins",
+            "intéressant",
+            "que",
+            "ce",
+            "film.",
+            "plus",
+            "aussi",
+            "intéressante",
+            "comme"
+          ],
+          "translation": "这本书没有这部电影有趣。",
+          "explain": "比较对象 ce film 在 que 后，用 moins ... que 表示「不如……有趣」。结构是 moins + 形容词 + que + 名词，形容词 intéressant 修饰阳性名词 livre，保持阳性单数。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q17",
+          "type": "choice",
+          "prompt": "Complétez : « Cette tarte est ___ que celle d'hier, et elle est ___ réussie. »",
+          "options": [
+            "bien meilleur / mieux",
+            "bien meilleure / bien mieux",
+            "mieux / bien meilleure",
+            "meilleure / meilleur"
+          ],
+          "answer": 1,
+          "translation": "这个馅饼比昨天的好得多，也做得更好。",
+          "explain": "tarte 是阴性名词，形容词用 meilleure；réussie 是分词形容词，修饰 tarte，也保持阴性。修饰名词用 meilleure，修饰动词或动作结果用副词 mieux。bien 是程度副词，放在比较词前。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q18",
+          "type": "choice",
+          "prompt": "Quelle paire de phrases est correcte ?",
+          "options": [
+            "Ce fromage est meilleur que l'autre. / Elle cuisine mieux que son frère.",
+            "Ce fromage est mieux que l'autre. / Elle cuisine meilleure que son frère.",
+            "Ce fromage est meilleur que l'autre. / Elle cuisine meilleure que son frère.",
+            "Ce fromage est mieux que l'autre. / Elle cuisine mieux que son frère."
+          ],
+          "answer": 0,
+          "translation": "这奶酪比另一块好。/ 她做饭比她的兄弟好。",
+          "explain": "fromage 是名词，质量比较用形容词 meilleur；cuisiner 是动词，要用副词 mieux。mieux 不能修饰名词，meilleure 不能修饰动词；第四项前半句同样把副词 mieux 用在了名词 fromage 上。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q19",
+          "type": "choice",
+          "prompt": "Complétez : « Vos résultats sont ___ que les miens, mais vous travaillez ___ que l'année dernière. »",
+          "options": [
+            "mieux / meilleurs",
+            "meilleurs / meilleur",
+            "meilleurs / mieux",
+            "mieux / mieux"
+          ],
+          "answer": 2,
+          "translation": "你们的成绩比我的好，但你们比去年工作得更好。",
+          "explain": "résultats 是阳性复数，用形容词 meilleurs；travailler 是动词，用副词 mieux，形式不变。两个词不能互换。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q20",
+          "type": "letters",
+          "prompt": "Complétez : « Ses notes sont bien ___ que celles de son frère. » (bon)",
+          "answer": "meilleures",
+          "decoys": [
+            "a",
+            "i",
+            "t",
+            "x"
+          ],
+          "translation": "她的成绩比她的兄弟的好得多。",
+          "explain": "bon 的比较级是 meilleur；notes 是阴性复数，所以用 meilleures。bien 放在比较级前加强程度；celles 回指 notes，说明比较对象。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q21",
+          "type": "choice",
+          "prompt": "Complétez : « Les photos de Marie sont ___ que celles de Paul. »",
+          "options": [
+            "beaucoup mieux",
+            "beaucoup meilleures",
+            "bien meilleur",
+            "plus bonnes"
+          ],
+          "answer": 1,
+          "translation": "玛丽的照片比保罗的好得多。",
+          "explain": "photos 是阴性复数，用形容词 meilleures；beaucoup 放在比较词前表示差距大。mieux 是副词，不能修饰名词；bien meilleur 性数不对；plus bonnes 不是 bon 的标准比较级。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q22",
+          "type": "letters",
+          "prompt": "Complétez : « Elle danse beaucoup ___ que sa sœur. » (bien)",
+          "answer": "mieux",
+          "decoys": [
+            "s",
+            "a",
+            "e",
+            "x"
+          ],
+          "translation": "她跳舞比她的姐妹好得多。",
+          "explain": "danser 是动词，用副词 mieux；beaucoup 放在 mieux 前表示程度。meilleur 是形容词，不能修饰动词；bien 的比较级不是 plus bien。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q23",
+          "type": "choice",
+          "prompt": "Complétez : « Il parle ___ que son frère : il s'exprime ___ qu'avant. »",
+          "options": [
+            "beaucoup meilleur / bien meilleur",
+            "meilleure / beaucoup mieux",
+            "beaucoup mieux / meilleur",
+            "beaucoup mieux / bien mieux"
+          ],
+          "answer": 3,
+          "translation": "他说话比他的兄弟好得多：他表达得比从前好多了。",
+          "explain": "parler 和 s'exprimer 都是动词，两处都用副词 mieux；beaucoup 和 bien 都是程度副词，放在 mieux 前。meilleur 是形容词，不能修饰动词。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q24",
+          "type": "choice",
+          "prompt": "Complétez : « Elle comprend ___ les explications que moi. »",
+          "options": [
+            "beaucoup mieux",
+            "bien meilleur",
+            "beaucoup meilleur",
+            "mieux beaucoup"
+          ],
+          "answer": 0,
+          "translation": "她对这些讲解的理解比我好得多。",
+          "explain": "comprendre 是动词，用副词 mieux；beaucoup 放在 mieux 前说明差距大。meilleur 是形容词；mieux beaucoup 语序错误。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q25",
+          "type": "choice",
+          "prompt": "Complétez : « Ces oranges sont ___ que celles du marché. »",
+          "options": [
+            "bien meilleures",
+            "bien meilleurs",
+            "mieux",
+            "bien mieux"
+          ],
+          "answer": 0,
+          "translation": "这些橙子比市场上的好得多。",
+          "explain": "oranges 是阴性复数，用形容词 meilleures；bien 放在比较级前加强语气。mieux 是副词，bien meilleurs 是阳性复数，均不符合。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q26",
+          "type": "choice",
+          "prompt": "Complétez : « Maintenant qu'il prend des cours, il parle ___ . »",
+          "options": [
+            "beaucoup meilleur",
+            "beaucoup mieux",
+            "très mieux",
+            "plus bien"
+          ],
+          "answer": 1,
+          "translation": "现在他上课了，他说得好多了。",
+          "explain": "parler 是动词，用副词 mieux；beaucoup 放在前表示「好得多」。très 不能修饰比较级，plus bien 不是 bien 的比较级。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q27",
+          "type": "choice",
+          "prompt": "Complétez : « Il ___ marcher que rester assis. »",
+          "options": [
+            "meilleur",
+            "meilleure",
+            "mieux",
+            "bon"
+          ],
+          "answer": 2,
+          "translation": "与其坐着，不如走路。",
+          "explain": "Il vaut mieux + 动词不定式是固定结构，表示「最好、宁可」；mieux 是副词 bien 的比较级。meilleur / meilleure 是形容词，bon 是原级形容词，都不能构成 il vaut mieux 这一结构。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q28",
+          "type": "tiles",
+          "prompt": "Renforcez la comparaison avec « beaucoup » : « Ce problème est plus difficile que le précédent. » → ___",
+          "answer": [
+            "Ce",
+            "problème",
+            "est",
+            "beaucoup",
+            "plus",
+            "difficile",
+            "que",
+            "le",
+            "précédent."
+          ],
+          "bank": [
+            "Ce",
+            "problème",
+            "est",
+            "beaucoup",
+            "plus",
+            "difficile",
+            "que",
+            "le",
+            "précédent.",
+            "bien",
+            "moins",
+            "très"
+          ],
+          "translation": "这道题比上一道难得多。",
+          "explain": "beaucoup 是程度副词，必须放在 plus 前，修饰整个比较级 plus difficile。不能写成 plus beaucoup difficile，也不能用 très 直接修饰比较级。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q29",
+          "type": "tiles",
+          "prompt": "Réunissez les deux comparaisons : « Elle est rapide. Sa sœur est rapide aussi. Sa sœur travaille mieux qu'elle. » → ___",
+          "answer": [
+            "Elle",
+            "est",
+            "aussi",
+            "rapide",
+            "que",
+            "sa",
+            "sœur,",
+            "mais",
+            "elle",
+            "travaille",
+            "moins",
+            "bien."
+          ],
+          "bank": [
+            "Elle",
+            "est",
+            "aussi",
+            "rapide",
+            "que",
+            "sa",
+            "sœur,",
+            "mais",
+            "elle",
+            "travaille",
+            "moins",
+            "bien.",
+            "plus",
+            "mieux",
+            "comme"
+          ],
+          "translation": "她和她的姐妹一样快，但工作得没她好。",
+          "explain": "前半句同等比较用 aussi ... que；后半句「她的姐妹工作得更好」意味着「她工作得更差」，用 moins bien。两个比较结构不能混用，连词用 mais 表示转折。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q30",
+          "type": "choice",
+          "prompt": "Complétez : « Ce gâteau est aussi ___ que celui de la boulangerie. »",
+          "options": [
+            "meilleur",
+            "bon",
+            "mieux",
+            "bien"
+          ],
+          "answer": 1,
+          "translation": "这个蛋糕和面包店的一样好。",
+          "explain": "同等比较用 aussi + 形容词原级 + que，不能用比较级 meilleur；mieux 是副词，bien 是程度副词，都不能放在 aussi ... que 中修饰名词 gâteau。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l2-q31",
+          "type": "choice",
+          "prompt": "Complétez : « Elle chante beaucoup ___ que moi. »",
+          "options": [
+            "mieux",
+            "meilleur",
+            "meilleure",
+            "bien"
+          ],
+          "answer": 0,
+          "translation": "她唱得比我好得多。",
+          "explain": "chanter 是动词，要用副词 bien 的比较级 mieux；beaucoup 放在 mieux 前表示差距大。第二项 moi 是重读人称代词，代替主格 je。meilleur / meilleure 是形容词，不能修饰动词；bien 是原级，不能这样接 que 构成比较。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-l3",
+      "title": "最高级",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c15-comparison-adverbs-l3-q1",
+          "type": "choice",
+          "prompt": "Complétez : « C'est ___ ville de la région. » (beau, superlatif)",
+          "options": [
+            "le plus belle",
+            "la plus beau",
+            "la plus belles",
+            "la plus belle"
+          ],
+          "answer": 3,
+          "translation": "这是本地区最美丽的城市。",
+          "explain": "最高级是 la + plus + 形容词 + 名词；ville 是阴性单数，冠词用 la，形容词 belle 也是阴性。le plus belle 冠词性数不对，la plus beau 形容词未配合，la plus belles 形容词多了复数 -s。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l3-q2",
+          "type": "choice",
+          "prompt": "Complétez : « Ce sont les exercices ___ de ce chapitre. »",
+          "options": [
+            "le plus difficiles",
+            "les plus difficile",
+            "les plus difficiles",
+            "plus difficiles"
+          ],
+          "answer": 2,
+          "translation": "这些是本章最难的练习。",
+          "explain": "形容词 difficile 修饰 exercices（阳性复数），定冠词用 les，形容词用 difficiles。le plus difficiles 冠词单数，les plus difficile 形容词缺 -s，plus difficiles 缺定冠词。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l3-q3",
+          "type": "letters",
+          "prompt": "Complétez : « Ses notes sont les ___ de la classe. » (bon, superlatif)",
+          "answer": "meilleures",
+          "decoys": [
+            "a",
+            "i",
+            "t",
+            "x"
+          ],
+          "translation": "她的成绩是班里最好的。",
+          "explain": "bon 的最高级是 le meilleur；notes 是阴性复数，定冠词和形容词都要用阴性复数：les meilleures。meilleur 是阳性单数，mieux 是副词，plus bonnes 不是标准最高级形式。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l3-q4",
+          "type": "tiles",
+          "prompt": "Transformez au superlatif : « Ce film est intéressant. C'est le film de l'année. » → ___",
+          "answer": [
+            "C'est",
+            "le",
+            "film",
+            "le",
+            "plus",
+            "intéressant",
+            "de",
+            "l'année."
+          ],
+          "bank": [
+            "C'est",
+            "le",
+            "film",
+            "le",
+            "plus",
+            "intéressant",
+            "de",
+            "l'année.",
+            "la",
+            "les",
+            "intéressante",
+            "moins"
+          ],
+          "translation": "这是今年最有趣的电影。",
+          "explain": "形容词 intéressant 放在名词 film 后，最高级结构是「名词 + 定冠词 + plus + 形容词」：le film le plus intéressant。名词前的定冠词和形容词前的定冠词都要保留，所以句中有两个 le。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l3-q5",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "C'est une des plus belles villes de France.",
+            "C'est une des plus belle ville de France.",
+            "C'est une de plus belles villes de France.",
+            "C'est une des plus belles ville de France."
+          ],
+          "answer": 0,
+          "translation": "这是法国最美丽的城市之一。",
+          "explain": "「最……之一」用 une des + plus + 形容词 + 复数名词。ville 是阴性单数，但 des 后要用复数 villes，形容词 belles 也要阴性复数。其余选项或形容词未配合，或缺少 des。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l3-q6",
+          "type": "choice",
+          "prompt": "Quelle structure correspond à « 最……之一 » ?",
+          "options": [
+            "le / la / les + plus / moins + adjectif",
+            "un / une des + plus / moins + adjectif + nom pluriel",
+            "aussi + adjectif + que",
+            "plus + adjectif + que"
+          ],
+          "answer": 1,
+          "translation": "哪个结构表示「最……之一」？",
+          "explain": "「最……之一」的结构是 un/une des + plus/moins + 形容词 + 复数名词；le/la/les + plus/moins + 形容词是普通最高级；aussi ... que 是同等比较；plus ... que 是不等比较。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-l4",
+      "title": "不规则比较、数量、第二成分、关联与同一",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Ta voiture est ___ que la mienne. »",
+          "options": [
+            "meilleur",
+            "meilleure",
+            "mieux",
+            "meilleures"
+          ],
+          "answer": 1,
+          "translation": "你的车比我的好。",
+          "explain": "meilleur 是形容词 bon 的比较级，修饰主语 ta voiture（阴性单数），所以要配合成 meilleure。mieux 是副词 bien 的比较级，不能修饰名词；meilleur 是阳性单数，meilleures 是阴性复数。第二项 la mienne 是主有代词，指「我的车」。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q2",
+          "type": "choice",
+          "prompt": "Complétez : « Ces gâteaux sont ___ que ceux de la boulangerie. »",
+          "options": [
+            "meilleur",
+            "mieux",
+            "meilleurs",
+            "meilleures"
+          ],
+          "answer": 2,
+          "translation": "这些蛋糕比面包店的那些好吃。",
+          "explain": "主语 ces gâteaux 是阳性复数，形容词 bon 的比较级 meilleur 要配合为 meilleurs。mieux 是副词，不能作表语修饰名词；meilleur 是阳性单数，meilleures 是阴性复数。第二项 ceux de la boulangerie 是指示代词 + de 补语。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q3",
+          "type": "letters",
+          "prompt": "Complétez : « Elle chante ___ que sa sœur. » (bien, comparatif)",
+          "answer": "mieux",
+          "decoys": [
+            "s",
+            "t",
+            "r"
+          ],
+          "translation": "她唱得比她的姐妹好。",
+          "explain": "bien 的比较级是不规则的 mieux，修饰动词 chante，形式不变。不要写成 *plus bien；meilleur 是形容词，不能修饰动词。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q4",
+          "type": "choice",
+          "prompt": "Dans « Mon vélo est plus rapide que le tien », que remplace « le tien » ?",
+          "options": [
+            "ton vélo",
+            "mon vélo",
+            "le vélo de Paul",
+            "ta voiture"
+          ],
+          "answer": 0,
+          "translation": "在「我的自行车比你的快」中，le tien 指什么？",
+          "explain": "主有代词 le tien 代替 ton vélo，阳性单数，与第一项 mon vélo 相对。le mien 才指「我的」；le vélo de Paul 和 ta voiture 与性数或语义不符。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q5",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Il chante meilleur que moi.",
+            "Il chante mieux que moi.",
+            "Il chante plus bien que moi.",
+            "Il chante mieux que je."
+          ],
+          "answer": 1,
+          "translation": "他唱得比我好。",
+          "explain": "修饰动词 chante 要用副词 bien 的比较级 mieux；第二项用重读人称代词 moi，不能用主格 je。meilleur 是形容词，plus bien 不是 bien 的规范比较级。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q6",
+          "type": "choice",
+          "prompt": "Complétez : « Elle va ___ mieux aujourd'hui. »",
+          "options": [
+            "très",
+            "plus",
+            "bien des",
+            "beaucoup"
+          ],
+          "answer": 3,
+          "translation": "今天她好多了。",
+          "explain": "程度副词 beaucoup 可以放在不规则比较级 mieux 前，表示差距大：beaucoup mieux。très 不能修饰比较级，plus mieux 叠用了两个比较词，bien des 后面要接名词。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q7",
+          "type": "tiles",
+          "prompt": "Transformez avec « aussi ... que » : « Ma sœur est grande. Je suis grand. » → ___",
+          "answer": [
+            "Ma",
+            "sœur",
+            "est",
+            "aussi",
+            "grande",
+            "que",
+            "moi."
+          ],
+          "bank": [
+            "Ma",
+            "sœur",
+            "est",
+            "aussi",
+            "grande",
+            "que",
+            "moi.",
+            "comme",
+            "je",
+            "grands",
+            "trop"
+          ],
+          "translation": "我的姐妹和我一样高。",
+          "explain": "同等比较用 aussi + 形容词 + que。形容词 grande 与主语 ma sœur 阴性单数配合；第二项用重读人称代词 moi，不用主格 je。comme 不用于这种比较结构。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q8",
+          "type": "choice",
+          "prompt": "Quelle phrase signifie « 他和我一样高，而不是比我高 » ?",
+          "options": [
+            "Il est plus grand que moi, pas aussi grand que moi.",
+            "Il est aussi grand que je, pas plus grand que je.",
+            "Il est aussi grand que moi, mais pas plus grand que moi.",
+            "Il est autant grand que moi, pas plus grand que moi."
+          ],
+          "answer": 2,
+          "translation": "他和我一样高，但不是比我高。",
+          "explain": "同等比较用 aussi...que，差异比较用 pas plus...que；第二项用重读代词 moi。que je 用主格错误；autant 修饰名词数量，不能直接修饰形容词 grand。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q9",
+          "type": "choice",
+          "prompt": "Complétez : « Elle travaille ___ que son collègue, mais elle gagne moins. »",
+          "options": [
+            "aussi bien",
+            "aussi bonne",
+            "autant bien",
+            "bien aussi"
+          ],
+          "answer": 0,
+          "translation": "她工作得和同事一样好，但挣得更少。",
+          "explain": "修饰动词 travaille 要用副词 bien，构成 aussi bien que。bonne 是形容词，不能修饰动词；autant 用于数量比较，不能直接修饰副词 bien；bien aussi 语序不对。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q10",
+          "type": "choice",
+          "prompt": "Complétez : « Elle a beaucoup plus ___ que son frère. »",
+          "options": [
+            "de énergie",
+            "de l'énergie",
+            "des énergies",
+            "d'énergie"
+          ],
+          "answer": 3,
+          "translation": "她的精力比她的兄弟多得多。",
+          "explain": "数量比较用 plus de + 名词；de 遇元音开头的 énergie 省音为 d'。这里不指特定数量，不用定冠词或部分冠词；beaucoup 放在 plus de 前修饰差距。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q11",
+          "type": "choice",
+          "prompt": "Complétez : « Il y a ___ touristes cette année qu'en 2020. »",
+          "options": [
+            "plus des",
+            "plus de",
+            "plus du",
+            "plus que de"
+          ],
+          "answer": 1,
+          "translation": "今年的游客比 2020 年多。",
+          "explain": "名词数量比较用 plus de + 名词 + que，名词前不用定冠词，所以不是 plus des/du。plus que de 把比较词与 de 的顺序弄乱了。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q12",
+          "type": "choice",
+          "prompt": "Complétez : « Dans ce quartier, il y a ___ habitants, mais il y a ___ commerces qu'il y a dix ans. »",
+          "options": [
+            "de plus en plus d' / moins de",
+            "de plus en plus des / moins des",
+            "plus en plus d' / moins de",
+            "de plus en plus d' / moins d'"
+          ],
+          "answer": 0,
+          "translation": "在这个街区，居民越来越多，但商店比十年前少。",
+          "explain": "渐进比较 de plus en plus 直接修饰名词时要保留 de：de plus en plus d'habitants（元音前省音）。第二空是数量比较 moins de + 名词，commerces 以辅音开头，用 moins de。两个结构都不能丢 de。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q13",
+          "type": "choice",
+          "prompt": "Complétez : « Il y a moins ___ commerces qu'avant. »",
+          "options": [
+            "des",
+            "de",
+            "d'",
+            "du"
+          ],
+          "answer": 1,
+          "translation": "商店比以前少。",
+          "explain": "数量比较用 moins de + 名词 + que，名词前不用定冠词，所以用 de，不用 des/du。d' 只用于元音或哑音 h 开头的名词前，commerces 以辅音开头。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q14",
+          "type": "choice",
+          "prompt": "Complétez : « Nous avons ___ travail que la semaine dernière. »",
+          "options": [
+            "autant du",
+            "aussi de",
+            "autant de",
+            "autant des"
+          ],
+          "answer": 2,
+          "translation": "我们的工作量与上周一样大。",
+          "explain": "数量同等比较用 autant de + 名词 + que；travail 是不可数名词，前面不加定冠词。aussi de 不成立；autant du/des 把 de 与定冠词缩合，结构错误。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q15",
+          "type": "choice",
+          "prompt": "Complétez : « Ma sœur est ___ que moi. »",
+          "options": [
+            "plus grand",
+            "plus grandes",
+            "plus grands",
+            "plus grande"
+          ],
+          "answer": 3,
+          "translation": "我的姐妹比我高。",
+          "explain": "比较级结构是 plus + 形容词 + que；形容词要与主语 ma sœur 阴性单数配合，用 grande。第二项 moi 是重读人称代词。复数形式 grandes/grands 与单数主语不一致。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q16",
+          "type": "letters",
+          "prompt": "Complétez : « Elle est plus ___ que moi. » (âgé, féminin singulier)",
+          "answer": "âgée",
+          "accentKeys": [
+            "â",
+            "é"
+          ],
+          "decoys": [
+            "s",
+            "t",
+            "r"
+          ],
+          "translation": "她比我年长。",
+          "explain": "形容词 âgé 修饰阴性单数主语 elle，要写成 âgée；词尾的 e 不发音但必须写出。重音 â 和 é 都不能省略。第二项 moi 是重读代词。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q17",
+          "type": "choice",
+          "prompt": "Dans « Tes notes sont meilleures que les miennes », que remplace « les miennes » ?",
+          "options": [
+            "tes notes",
+            "mes notes",
+            "les notes de Paul",
+            "ton école"
+          ],
+          "answer": 1,
+          "translation": "在「你的成绩比我的好」中，les miennes 指什么？",
+          "explain": "主有代词 les miennes 代替 mes notes，阴性复数，与第一项 tes notes 相对。les tiens/les tiennes 才指「你的」；其余选项性数或语义不符。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q18",
+          "type": "choice",
+          "prompt": "Complétez : « Paul court plus vite ___. »",
+          "options": [
+            "que moi",
+            "que je",
+            "comme moi",
+            "que me"
+          ],
+          "answer": 0,
+          "translation": "保罗跑得比我快。",
+          "explain": "比较的第二项要用重读人称代词 moi，不能用主格 je 或宾格 me。comme 表示「像」，不用于 plus 引出的比较结构。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q19",
+          "type": "choice",
+          "prompt": "Complétez : « J'ai le même téléphone ___. »",
+          "options": [
+            "que tien",
+            "comme le tien",
+            "que le tien",
+            "que ton"
+          ],
+          "answer": 2,
+          "translation": "我和你的手机是同款。",
+          "explain": "同一性比较用 le même + 名词 + que；第二项用主有代词 le tien 代替 ton téléphone，避免重复名词。que tien 缺少定冠词，不是合法的代词形式；comme 不用于该结构；ton 后面缺名词。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q20",
+          "type": "choice",
+          "prompt": "Complétez : « Elle porte la même robe ___. »",
+          "options": [
+            "comme sa sœur",
+            "de sa sœur",
+            "avec sa sœur",
+            "que sa sœur"
+          ],
+          "answer": 3,
+          "translation": "她和她的姐妹穿同款裙子。",
+          "explain": "同一性比较的结构是定冠词 + même + 名词 + que + 第二项；这里第二项是名词短语 sa sœur。comme 不能替代 que，de 和 avec 也不能引出比较对象。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q21",
+          "type": "tiles",
+          "prompt": "Transformez avec « plus ... plus » et le pronom « en » : « Il y a beaucoup de livres dans cette bibliothèque. Je lis beaucoup de livres. » → ___",
+          "answer": [
+            "Plus",
+            "il",
+            "y",
+            "a",
+            "de",
+            "livres,",
+            "plus",
+            "j'en",
+            "lis."
+          ],
+          "bank": [
+            "Plus",
+            "il",
+            "y",
+            "a",
+            "de",
+            "livres,",
+            "plus",
+            "j'en",
+            "lis.",
+            "des",
+            "je",
+            "les",
+            "beaucoup"
+          ],
+          "translation": "书越多，我读得越多。",
+          "explain": "关联比较用 plus + 分句, plus + 分句。第一分句 il y a de livres 中 de 是数量结构的一部分；第二分句用 en 代替 de livres，避免重复：j'en lis。不能保留 je lis des livres。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q22",
+          "type": "choice",
+          "prompt": "Quelle phrase exprime « 时间越久，我越不想出门 » ?",
+          "options": [
+            "Plus le temps passe, plus j'ai envie de sortir.",
+            "Plus le temps passe, moins j'ai envie de sortir.",
+            "Moins le temps passe, moins j'ai envie de sortir.",
+            "Plus le temps passe, aussi moins j'ai envie de sortir."
+          ],
+          "answer": 1,
+          "translation": "时间越久，我越不想出门。",
+          "explain": "两个分句用比较词前后呼应：plus...moins 表示反向变化，即「越……越不……」。plus...plus 是同向；moins...moins 与时间语义相反；aussi 不能这样与 plus 呼应。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q23",
+          "type": "choice",
+          "prompt": "Complétez : « ___ on lit, ___ on apprend. »",
+          "options": [
+            "Plus / plus",
+            "Plus / meilleur",
+            "Mieux / plus",
+            "Plus / autant"
+          ],
+          "answer": 0,
+          "translation": "读得越多，学得越多。",
+          "explain": "关联比较要求前后两个分句各有一个比较词，并且结构呼应：Plus on lit, plus on apprend。meilleur 是形容词，不能修饰动词 apprendre；autant 用于同等数量比较，不能与 plus 呼应。plus...mieux 虽然也是关联比较，但意思是「越……越好」，与本题「越……越多」不同。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q24",
+          "type": "choice",
+          "prompt": "Complétez : « Il y a ___ voitures dans cette rue. »",
+          "options": [
+            "de plus en plus des",
+            "plus en plus de",
+            "de plus en plus de",
+            "de plus en plus"
+          ],
+          "answer": 2,
+          "translation": "这条街上的车越来越多。",
+          "explain": "渐进比较 de plus en plus 直接修饰名词时，后面必须保留 de：de plus en plus de voitures。缺少第一个 de、把 de 与定冠词缩合、或丢掉名词前的 de 都不对。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q25",
+          "type": "choice",
+          "prompt": "Complétez : « Elles ont ___ idées que nous. »",
+          "options": [
+            "les même",
+            "les mêmes de",
+            "le même",
+            "les mêmes"
+          ],
+          "answer": 3,
+          "translation": "她们的想法和我们一样。",
+          "explain": "同一性比较中，定冠词和 même 都要与名词配合：idées 是阴性复数，用 les mêmes。les même 缺复数 -s；les mêmes de 不能引出比较对象；le même 是阳性单数。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q26",
+          "type": "choice",
+          "prompt": "Complétez : « Il porte ___ veste que son frère. »",
+          "options": [
+            "le même",
+            "la même",
+            "la même de",
+            "les mêmes"
+          ],
+          "answer": 1,
+          "translation": "他和他的兄弟穿同款外套。",
+          "explain": "veste 是阴性单数，定冠词用 la，même 保持单数形式：la même veste que。le même 是阳性，les mêmes 是复数，de 不能引出比较对象。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q27",
+          "type": "letters",
+          "prompt": "Complétez : « Ces notes sont ___ que celles de l'autre classe. » (bon, féminin pluriel)",
+          "answer": "meilleures",
+          "decoys": [
+            "a",
+            "t",
+            "x"
+          ],
+          "translation": "这些成绩比另一个班的好。",
+          "explain": "bon 的比较级是 meilleur；notes 是阴性复数，形容词要配合为 meilleures。第二项 celles de l'autre classe 是指示代词 + de 补语。mieux 是副词，不能修饰名词。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q28",
+          "type": "choice",
+          "prompt": "Quelle phrase signifie « 这部电影比那部更糟 » ?",
+          "options": [
+            "Ce film est pire que l'autre.",
+            "Ce film est plus pire que l'autre.",
+            "Ce film est le pire que l'autre.",
+            "Ce film est plus mal que l'autre."
+          ],
+          "answer": 0,
+          "translation": "这部电影比那部更糟。",
+          "explain": "形容词 mauvais 的不规则比较级是 pire，可直接接 que 引出比较对象。plus pire 重复了比较；le pire 是最高级，不能这样接 que；plus mal 是方式副词 mal 的比较级，不能修饰名词 film。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q29",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Elle lit plus beaucoup de romans que moi.",
+            "Elle lit autant plus de romans que moi.",
+            "Elle lit plus de romans que moi.",
+            "Elle lit beaucoup plus beaucoup de romans que moi."
+          ],
+          "answer": 2,
+          "translation": "她读的小说比我多。",
+          "explain": "beaucoup 的较高程度形式就是 plus，直接构成 plus de + 名词 + que；不能再保留 beaucoup，也不能把 autant 与 plus 叠用。autant de 表示同等数量，moins de 表示更少。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q30",
+          "type": "tiles",
+          "prompt": "Transformez avec « de plus en plus » : « Avant, il y avait peu de voitures dans cette rue. Maintenant, il y en a beaucoup. » → ___",
+          "answer": [
+            "Il",
+            "y",
+            "a",
+            "de",
+            "plus",
+            "en",
+            "plus",
+            "de",
+            "voitures",
+            "dans",
+            "cette",
+            "rue."
+          ],
+          "bank": [
+            "Il",
+            "y",
+            "a",
+            "de",
+            "plus",
+            "en",
+            "plus",
+            "de",
+            "voitures",
+            "dans",
+            "cette",
+            "rue.",
+            "des",
+            "du",
+            "moins",
+            "voiture"
+          ],
+          "translation": "这条街上的车越来越多。",
+          "explain": "渐进比较 de plus en plus 修饰名词时保留 de：de plus en plus de voitures。不能用 des/du，也不能丢掉最后一个 de；voitures 用复数。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q31",
+          "type": "tiles",
+          "prompt": "Exprimez l'identité avec « le même ... que » : « Paul a un sac bleu. J'ai un sac bleu, identique. » → ___",
+          "answer": [
+            "J'ai",
+            "le",
+            "même",
+            "sac",
+            "bleu",
+            "que",
+            "Paul."
+          ],
+          "bank": [
+            "J'ai",
+            "le",
+            "même",
+            "sac",
+            "bleu",
+            "que",
+            "Paul.",
+            "la",
+            "mêmes",
+            "comme",
+            "de"
+          ],
+          "translation": "我和保罗有一样的蓝色包。",
+          "explain": "同一性比较用定冠词 + même + 名词 + que + 第二项。sac 是阳性单数，用 le même；même 不因第二项变化。comme 不能替代 que。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q32",
+          "type": "tiles",
+          "prompt": "Exprimez « 他睡得越少，越不专注 » avec « moins ... moins » : ___",
+          "answer": [
+            "Moins",
+            "il",
+            "dort,",
+            "moins",
+            "il",
+            "est",
+            "concentré."
+          ],
+          "bank": [
+            "Moins",
+            "il",
+            "dort,",
+            "moins",
+            "il",
+            "est",
+            "concentré.",
+            "parfois",
+            "dort",
+            "concentre",
+            "vite"
+          ],
+          "translation": "他睡得越少，越不专注。",
+          "explain": "关联比较 moins...moins 表示两个变化同向下降。两个分句各要有一个 moins；主语 il 在前后分句都保留。concentré 是形容词，与 il 阳性单数配合，重音不能丢。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l4-q33",
+          "type": "choice",
+          "prompt": "Complétez : « Plus on lit de romans policiers, plus on ___ achète. »",
+          "options": [
+            "les",
+            "y",
+            "en",
+            "des"
+          ],
+          "answer": 2,
+          "translation": "侦探小说读得越多，买得也越多。",
+          "explain": "关联比较用 plus...plus 前后呼应。第一分句的 de romans policiers 是数量结构，第二分句用 en 代替它，避免重复：plus on en achète。les 指特定的全部，不能代替这里的部分数量；y 代替 à 引出的地点或事物；des 不能单独作宾语代词。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-l5",
+      "title": "副词位置与程度",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c15-comparison-adverbs-l5-q1",
+          "type": "choice",
+          "prompt": "Quelle phrase place correctement les adverbes ?",
+          "options": [
+            "Elle parle très vraiment bien français.",
+            "Elle parle bien très vraiment français.",
+            "Elle parle vraiment très bien français.",
+            "Elle parle français bien très vraiment."
+          ],
+          "answer": 2,
+          "translation": "她法语说得真的很好。",
+          "explain": "vraiment 修饰 très bien，très 修饰 bien：两个程度副词都在被修饰成分之前，整块 vraiment très bien 放在变位动词 parle 之后。A、B 颠倒了 vraiment 和 très 的顺序，D 把副词堆到句末且顺序错乱。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l5-q2",
+          "type": "tiles",
+          "prompt": "Transformez en renforçant l'adjectif avec « tout à fait » : « Ce projet est réalisable. » → ___",
+          "answer": [
+            "Ce",
+            "projet",
+            "est",
+            "tout",
+            "à",
+            "fait",
+            "réalisable."
+          ],
+          "bank": [
+            "Ce",
+            "projet",
+            "est",
+            "tout",
+            "à",
+            "fait",
+            "réalisable.",
+            "très",
+            "réalisables",
+            "absolument",
+            "projets",
+            "facile"
+          ],
+          "translation": "这个项目完全可行。",
+          "explain": "「tout à fait」是由三个词组成的副词短语，表示「完全」，必须整体放在被修饰的形容词前：tout à fait réalisable。réalisable 与 projet 阳性单数一致，不加 -s；très 和 absolument 意思接近，但题干要求加入 tout à fait，不能替换。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l5-q3",
+          "type": "choice",
+          "prompt": "Quelle paire de phrases est correcte ?",
+          "options": [
+            "Elle est très contente. / Elle travaille beaucoup.",
+            "Elle est contente très. / Elle travaille beaucoup.",
+            "Elle est très contente. / Elle travaille très.",
+            "Elle est beaucoup contente. / Elle travaille beaucoup."
+          ],
+          "answer": 0,
+          "translation": "她非常满意。/ 她工作很努力。",
+          "explain": "très 修饰形容词 contente，放在形容词前；修饰动词 travailler 要用 beaucoup，放在变位动词后。très 不能单独修饰动词，beaucoup 也不能直接放在形容词前。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l5-q4",
+          "type": "choice",
+          "prompt": "Complétez : « Nous ___ à la piscine le samedi matin. » (aller, présent ; souvent)",
+          "options": [
+            "souvent allons",
+            "allons souvent",
+            "allons rarement",
+            "sommes souvent allés"
+          ],
+          "answer": 1,
+          "translation": "我们周六早上常去游泳池。",
+          "explain": "简单时态中，频率副词 souvent 修饰变位动词 allons，放在它后面：allons souvent。souvent allons 不是陈述句的正常语序；rarement 与提示的 souvent 相反；sommes souvent allés 是复合过去时，与现在时不符。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l5-q5",
+          "type": "tiles",
+          "prompt": "Réécrivez en insérant « vraiment » entre le verbe conjugué et son complément : « J'ai besoin de ton aide. » → ___",
+          "answer": [
+            "J'ai",
+            "vraiment",
+            "besoin",
+            "de",
+            "ton",
+            "aide."
+          ],
+          "bank": [
+            "J'ai",
+            "vraiment",
+            "besoin",
+            "de",
+            "ton",
+            "aide.",
+            "vrai",
+            "vraie",
+            "mon",
+            "a",
+            "d'",
+            "aides"
+          ],
+          "translation": "我真的需要你的帮助。",
+          "explain": "avoir besoin de 中，变位动词是 avoir，besoin de ton aide 是名词补语；副词 vraiment 可以插在 j'ai 与 besoin 之间。vrai、vraie 是形容词，不能充当副词；mon 会改变限定词，使 ton aide 变成「我的帮助」。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l5-q6",
+          "type": "choice",
+          "prompt": "Complétez : « Il ne lit ___ le soir, il préfère regarder des films. » (souvent)",
+          "options": [
+            "souvent pas",
+            "pas rarement",
+            "souvent",
+            "pas souvent"
+          ],
+          "answer": 3,
+          "translation": "他晚上不常看书，更喜欢看电影。",
+          "explain": "否定句中频率副词 souvent 位于 pas 之后：ne lit pas souvent。souvent pas 位置错误；pas rarement 构成双重否定，意思变成「并非不常」，与后半句「更喜欢看电影」矛盾；只填 souvent 会使 ne...pas 不完整。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l5-q7",
+          "type": "choice",
+          "prompt": "Complétez : « Elles sont ___ étonnées de la nouvelle. »",
+          "options": [
+            "toute",
+            "tout",
+            "toutes",
+            "tous"
+          ],
+          "answer": 1,
+          "translation": "她们对这个消息非常惊讶。",
+          "explain": "tout 在这里是副词，修饰阴性复数形容词 étonnées。étonnées 以元音 é 开头，按规则 tout 保持原形，不配合。toute 是阴性单数配合形式；toutes 只用于辅音或嘘音 h 开头的阴性形容词前；tous 是阳性复数。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l5-q8",
+          "type": "letters",
+          "prompt": "Complétez avec l'adverbe tout : « Elles sont ___ contentes de leur résultat. »",
+          "answer": "toutes",
+          "decoys": [
+            "s",
+            "e",
+            "t",
+            "a"
+          ],
+          "translation": "她们对自己的成绩非常满意。",
+          "explain": "contente 以辅音 c 开头，阴性复数。传统语法要求副词 tout 配合为 toutes，但现代用法中也可以保持 tout 不变，两种形式都接受。若形容词以元音或哑音 h 开头（如 étonnées、humides），则只能用 tout。答案是一个词，不要加空格。",
+          "alternatives": [
+            "tout"
+          ]
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-l5-q9",
+          "type": "choice",
+          "prompt": "Quelle phrase place correctement l'adverbe dans le passé composé ?",
+          "options": [
+            "Elle a bien compris la consigne.",
+            "Elle a compris bien la consigne.",
+            "Elle bien a compris la consigne.",
+            "Elle a compris la consigne bien."
+          ],
+          "answer": 0,
+          "translation": "她很好地理解了要求。",
+          "explain": "复合时态中，较短的副词 bien 常放在助动词 a 和过去分词 compris 之间：Elle a bien compris。放在过去分词后（a compris bien）不自然，放在助动词前（bien a compris）或句末（a compris la consigne bien）也不符合这里的位置规则。"
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "pub-c15-comparison-adverbs-x1",
+      "title": "比较综合：程度、数量与不规则形式",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c15-comparison-adverbs-x1-q1",
+          "type": "choice",
+          "prompt": "Complétez : « La nouvelle collègue est ___ que la tienne, et elle travaille ___ que je ne le pensais. »",
+          "options": [
+            "plus sérieux / plus sérieusement",
+            "plus sérieuse / plus sérieusement",
+            "plus sérieuse / plus sérieuse",
+            "plus sérieux / plus sérieuse"
+          ],
+          "answer": 1,
+          "translation": "新来的女同事比你那位更认真，而且她工作起来比我以为的更认真。",
+          "explain": "collègue 是阴性单数，形容词比较级用 plus sérieuse；travailler 是动词，要用副词比较级 plus sérieusement，副词不变形。la tienne 替代 ta collègue，作第二比较项。sérieux 是阳性形式，sérieuse 不能修饰动词。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x1-q2",
+          "type": "choice",
+          "prompt": "Complétez : « Ce quartier est ___ que celui de mon enfance, mais les loyers y sont moins élevés. »",
+          "options": [
+            "autant animé",
+            "aussi animés",
+            "aussi animé",
+            "autant animés"
+          ],
+          "answer": 2,
+          "translation": "这个街区和我童年时那个一样热闹，但房租更低。",
+          "explain": "形容词同等比较用 aussi + 形容词 + que；autant 用于动词或数量，不能直接修饰形容词。quartier 是阳性单数，animé 不加 -s。celui 替代 ce quartier，避免重复。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x1-q3",
+          "type": "choice",
+          "prompt": "Complétez : « Cette année, il y a ___ de visiteurs qu'en 2019. »",
+          "options": [
+            "beaucoup plus",
+            "beaucoup de plus",
+            "très plus",
+            "bien de plus"
+          ],
+          "answer": 0,
+          "translation": "今年游客比 2019 年多得多。",
+          "explain": "数量比较的结构是 plus de + 名词 + que；程度副词 beaucoup 放在 plus 之前，de 必须保留，顺序为 beaucoup plus de visiteurs。beaucoup de plus 和 bien de plus 都拆错了结构，très 不能修饰比较级 plus。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x1-q4",
+          "type": "letters",
+          "prompt": "Complétez : « Les tartes de cette boulangerie sont ___ que celles du supermarché. » (bon, comparatif)",
+          "answer": "meilleures",
+          "decoys": [
+            "s",
+            "t",
+            "n",
+            "o"
+          ],
+          "translation": "这家面包店的馅饼比超市的好。",
+          "explain": "表示「更好」时，bon 的比较级通常用 meilleur，最高级用 le meilleur；形容词要与 les tartes 阴性复数配合，写成 meilleures。第二项 celles 替代 les tartes du supermarché。plus bonnes 不是表示质量更好的规范比较级。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x1-q5",
+          "type": "choice",
+          "prompt": "Complétez en renforçant chaque comparatif avec « bien » : « Elle a changé de méthode : elle travaille ___ et ses résultats sont ___ . »",
+          "options": [
+            "bien meilleur / bien mieux",
+            "mieux bien / meilleurs bien",
+            "bien mieux / bien meilleur",
+            "bien mieux / bien meilleurs"
+          ],
+          "answer": 3,
+          "translation": "她换了方法：她工作得好多了，成绩也好多了。",
+          "explain": "travailler 是动词，用副词比较级 mieux；résultats 是阳性复数名词，用形容词比较级 meilleurs，并加 -s 配合。程度副词 bien 放在不规则比较级前：bien mieux、bien meilleurs。bien meilleur 少了复数配合，mieux bien 顺序错误。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x1-q6",
+          "type": "tiles",
+          "prompt": "Transformez avec un superlatif : « Cette élève est travailleuse. (dans la classe) » → ___",
+          "answer": [
+            "Cette",
+            "élève",
+            "est",
+            "la",
+            "plus",
+            "travailleuse",
+            "de",
+            "la",
+            "classe."
+          ],
+          "bank": [
+            "Cette",
+            "élève",
+            "est",
+            "la",
+            "plus",
+            "travailleuse",
+            "de",
+            "la",
+            "classe.",
+            "le",
+            "moins",
+            "travailleur",
+            "du",
+            "dans",
+            "classe"
+          ],
+          "translation": "这个学生是班里最用功的。",
+          "explain": "形容词最高级由定冠词 + plus/moins + 形容词构成。élève 是阴性单数，定冠词用 la；范围由 de 引出：de la classe，不用 dans la classe。travailleuse 是阴性形式。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x1-q7",
+          "type": "choice",
+          "prompt": "Traduisez : « 这是该地区游客最多的城市之一。 »",
+          "options": [
+            "C'est une des ville les plus visitées de la région.",
+            "C'est l'une des villes les plus visitées de la région.",
+            "C'est l'une des villes la plus visitée de la région.",
+            "C'est la une des villes les plus visitées de la région."
+          ],
+          "answer": 1,
+          "translation": "这是该地区游客最多的城市之一。",
+          "explain": "「最……之一」用 l'une des + 复数名词 + 最高级。des 后名词必须是复数 villes；最高级中的形容词要与 villes 阴性复数配合：les plus visitées。la plus visitée 是阴性单数，与复数名词不一致。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x1-q8",
+          "type": "choice",
+          "prompt": "Complétez : « Ces valises pèsent ___ que je ne le pensais. »",
+          "options": [
+            "plus lourdes",
+            "plus lourds",
+            "plus lourd",
+            "plus lourde"
+          ],
+          "answer": 2,
+          "translation": "这些行李箱比我想象的重。",
+          "explain": "peser lourd 中 lourd 是副词，表示「重」，不随主语 valises 变成阴性复数；比较级是 plus + 副词 + que，所以写 plus lourd。若用形容词，则说 Ces valises sont plus lourdes，那是系表结构。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x1-q9",
+          "type": "choice",
+          "prompt": "Complétez : « Ma sœur a choisi ___ que la tienne. »",
+          "options": [
+            "le même robe",
+            "la même robe comme",
+            "même la robe",
+            "la même robe"
+          ],
+          "answer": 3,
+          "translation": "我的姐妹选了一条和你那条一样的裙子。",
+          "explain": "同一性比较用「定冠词 + même + 名词 + que」；robe 是阴性单数，所以用 la même robe。比较用 que，不用 comme。la tienne 替代 ta robe，作第二比较项。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x1-q10",
+          "type": "tiles",
+          "prompt": "Transformez avec « de plus en plus » : « Il y a beaucoup de touristes en été. » → ___",
+          "answer": [
+            "Il",
+            "y",
+            "a",
+            "de",
+            "plus",
+            "en",
+            "plus",
+            "de",
+            "touristes",
+            "en",
+            "été."
+          ],
+          "bank": [
+            "Il",
+            "y",
+            "a",
+            "de",
+            "plus",
+            "en",
+            "plus",
+            "de",
+            "touristes",
+            "en",
+            "été.",
+            "des",
+            "du",
+            "moins",
+            "touriste",
+            "beaucoup"
+          ],
+          "translation": "夏天游客越来越多。",
+          "explain": "de plus en plus 表示「越来越……」，直接修饰名词时 de 不能丢：de plus en plus de touristes。不能写成 des touristes 或 du touristes；原句的 beaucoup 要删去。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x1-q11",
+          "type": "choice",
+          "prompt": "Complétez : « ___ la salle est ___ , ___ on y travaille. »",
+          "options": [
+            "Plus / grande / mieux",
+            "Plus / grand / mieux",
+            "Plus / grande / meilleur",
+            "Aussi / grande / mieux"
+          ],
+          "answer": 0,
+          "translation": "房间越大，我们在里面工作得越好。",
+          "explain": "plus... mieux... 构成关联比较，表示「越……越……」。salle 是阴性单数，形容词 grande 要与它配合；travailler 是动词，用副词 mieux，不能用形容词 meilleur。aussi 用于同等比较，不能与 mieux 构成这种前后呼应。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c15-comparison-adverbs-x2",
+      "title": "副词与程度综合：位置、程度词与副词最高级",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c15-comparison-adverbs-x2-q1",
+          "type": "tiles",
+          "prompt": "Réécrivez en renforçant « travaille » avec « beaucoup » et « vite » avec « trop » : « Elle travaille et parle vite. » → ___",
+          "answer": [
+            "Elle",
+            "travaille",
+            "beaucoup",
+            "et",
+            "parle",
+            "trop",
+            "vite."
+          ],
+          "bank": [
+            "Elle",
+            "travaille",
+            "beaucoup",
+            "et",
+            "parle",
+            "trop",
+            "vite.",
+            "très",
+            "plus",
+            "bien",
+            "parles",
+            "travaillent"
+          ],
+          "translation": "她工作很努力，而且说话太快。",
+          "explain": "beaucoup 修饰动词 travaille，放在变位动词之后；trop 修饰副词 vite，放在 vite 之前。两个程度副词的位置不同，不能写成 travaille très 或 parle vite trop。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x2-q2",
+          "type": "choice",
+          "prompt": "Complétez : « Après la pluie, les rues étaient ___ mouillées et le trottoir restait ___ glissant. »",
+          "options": [
+            "tout / toutes",
+            "toutes / toutes",
+            "toutes / tout",
+            "tout / tout"
+          ],
+          "answer": 2,
+          "translation": "雨后街道全湿了，人行道仍然很滑。",
+          "explain": "mouillées 以辅音 m 开头，阴性复数，副词 tout 可以配合为 toutes，也可以保持不变写 tout；glissant 是阳性单数，tout 只能保持原形。因此「toutes / tout」和「tout / tout」都可接受。",
+          "alternatives": [
+            3
+          ]
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x2-q3",
+          "type": "choice",
+          "prompt": "Complétez : « De tous les élèves, c'est elle qui travaille ___ . » (bien, superlatif)",
+          "options": [
+            "le mieux",
+            "la mieux",
+            "le meilleur",
+            "la meilleure"
+          ],
+          "answer": 0,
+          "translation": "在所有学生中，她工作得最好。",
+          "explain": "bien 是副词，最高级是 le mieux；副词最高级的 le 固定不变，不随 elle 变成 la。travailler 是动词，要用副词，不能用形容词 meilleur / meilleure。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x2-q4",
+          "type": "choice",
+          "prompt": "Complétez : « Il a ___ couru qu'il est arrivé ___ essoufflé. »",
+          "options": [
+            "tellement de / tout",
+            "tant de / tout",
+            "tellement / toute",
+            "tellement / tout"
+          ],
+          "answer": 3,
+          "translation": "他跑得太厉害，到达时完全气喘吁吁。",
+          "explain": "tellement 修饰动词 courir，在复合时态中插在助动词 a 和过去分词 couru 之间；tellement de / tant de 后面必须接名词，不能直接接过去分词。essoufflé 是阳性单数形容词，副词 tout 不配合，写 tout。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x2-q5",
+          "type": "tiles",
+          "prompt": "Renforcez la comparaison avec « bien » : « Ce film est moins intéressant que je ne le pensais. » → ___",
+          "answer": [
+            "Ce",
+            "film",
+            "est",
+            "bien",
+            "moins",
+            "intéressant",
+            "que",
+            "je",
+            "ne",
+            "le",
+            "pensais."
+          ],
+          "bank": [
+            "Ce",
+            "film",
+            "est",
+            "bien",
+            "moins",
+            "intéressant",
+            "que",
+            "je",
+            "ne",
+            "le",
+            "pensais.",
+            "très",
+            "meilleur",
+            "intéressante",
+            "mieux",
+            "plus",
+            "pensait"
+          ],
+          "translation": "这部电影比我想象的无趣得多。",
+          "explain": "bien 是程度副词，放在 moins 之前加强比较级；film 是阳性单数，intéressant 不加 -e。比较级结构 moins...que 要保留，第二项是从句 que je ne le pensais。très 不能修饰 moins。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x2-q6",
+          "type": "choice",
+          "prompt": "Complétez : « Son français s'améliore : elle parle ___ . »",
+          "options": [
+            "de meilleur en meilleur",
+            "de mieux en mieux",
+            "de bien en mieux",
+            "mieux de mieux"
+          ],
+          "answer": 1,
+          "translation": "她的法语在进步：她说得越来越好。",
+          "explain": "渐进比较 de mieux en mieux 表示「越来越好」；mieux 是副词 bien 的比较级，修饰动词 parler，不能换成形容词 meilleur。de...en... 结构要完整，不能写成 mieux de mieux。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x2-q7",
+          "type": "choice",
+          "prompt": "Complétez : « De nous deux, c'est elle qui est ___ . » (rapide, superlatif)",
+          "options": [
+            "le plus rapide",
+            "la plus rapides",
+            "la plus rapide",
+            "la plus vite"
+          ],
+          "answer": 2,
+          "translation": "我们两个中，她是最快的。",
+          "explain": "形容词最高级由定冠词 + plus + 形容词构成；elle 是阴性单数，用 la plus rapide。le plus rapide 是阳性形式；la plus rapides 性数不一致；la plus vite 把副词 vite 当成形容词，不能这样用。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x2-q8",
+          "type": "choice",
+          "prompt": "Complétez : « Il travaille ___ que son frère, mais il est plus heureux. »",
+          "options": [
+            "plus mal",
+            "plus mauvais",
+            "plus mauvaise",
+            "pire"
+          ],
+          "answer": 0,
+          "translation": "他工作得比他的兄弟差，但更快乐。",
+          "explain": "travailler 是动词，要用方式副词 mal 的比较级 plus mal...que；mauvais / mauvaise 是形容词，pire 是形容词「更坏」的不规则比较级，都不能修饰动词。mal 是方式副词，不属于数量副词。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x2-q9",
+          "type": "choice",
+          "prompt": "Complétez : « Il gagne ___ d'argent que son frère : 1 500 € contre 2 500 €, mais il est plus heureux. »",
+          "options": [
+            "plus peu",
+            "moins",
+            "aussi peu",
+            "le moins"
+          ],
+          "answer": 1,
+          "translation": "他挣的钱比他的兄弟少：1 500 欧元对 2 500 欧元，但他更快乐。",
+          "explain": "1 500 € 少于 2 500 €，说明是较低程度，用 peu 的比较级 moins：moins d'argent que。plus peu 不成立；aussi peu 表示「同等少」，与具体数字矛盾；le moins 是最高级，后面不能再接 que 引出比较对象。"
+        },
+        {
+          "id": "pub-c15-comparison-adverbs-x2-q10",
+          "type": "choice",
+          "prompt": "Complétez : « Il travaille ___ que son frère, mais il gagne ___ . »",
+          "options": [
+            "aussi / moins",
+            "autant / plus peu",
+            "aussi / plus peu",
+            "autant / moins"
+          ],
+          "answer": 3,
+          "translation": "他工作和他的兄弟一样多，但挣得更少。",
+          "explain": "修饰动词 travailler 的同等比较用 autant que，不用 aussi que；aussi 修饰形容词或副词。gagner 的较低程度比较用 moins，plus peu 不是规范形式。"
+        }
+      ]
+    }
+  ]
+}

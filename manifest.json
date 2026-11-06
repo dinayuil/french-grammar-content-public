@@ -16,10 +16,11 @@
     "chapters/pub-c12-demonstrative-possessive-indefinite.json",
     "chapters/pub-c13-future-conditional.json",
     "chapters/pub-c14-relative-clauses.json",
+    "chapters/pub-c15-comparison-adverbs.json",
     "chapters/pub-predication.json",
     "chapters/pub-articles.json",
     "chapters/pub-agreement.json"
   ],
-  "expectedChapterCount": 17,
-  "expectedQuestionCount": 2749
+  "expectedChapterCount": 18,
+  "expectedQuestionCount": 2865
 }

@@ -25,10 +25,11 @@
     "chapters/pub-c21-reported-speech.json",
     "chapters/pub-c22-aspect-modality.json",
     "chapters/pub-c23-discourse-markers.json",
+    "chapters/pub-c24-lexical-constructions.json",
     "chapters/pub-predication.json",
     "chapters/pub-articles.json",
     "chapters/pub-agreement.json"
   ],
-  "expectedChapterCount": 26,
-  "expectedQuestionCount": 3803
+  "expectedChapterCount": 27,
+  "expectedQuestionCount": 3875
 }

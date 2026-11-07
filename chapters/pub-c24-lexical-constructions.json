@@ -1,0 +1,1353 @@
+{
+  "id": "pub-c24-lexical-constructions",
+  "title": "词汇构式与表达风格",
+  "titleFr": "Les constructions lexicales et le style",
+  "cards": [
+    {
+      "id": "pub-c24-lexical-constructions-card-u1-1",
+      "title": "否定与反向前缀：in- 系列及其他常见前缀",
+      "body": "<p><strong>否定前缀</strong>（préfixe négatif）和<strong>反向前缀</strong>（préfixe inversif）加在形容词前，可以构成意义相反的形容词。最常见的是 in- 系列：possible → impossible、lisible → illisible、régulier → irrégulier、mobile → immobile。</p><p>in- 的拼写会随后面词首的音发生<strong>同化</strong>（assimilation，前缀的鼻音随后面的辅音改变拼写）：</p><ul><li>在 m、p、b 前写作 im-：immobile、impossible、imbuvable。</li><li>在 l 前写作 il-：illisible、illégal。</li><li>在 r 前写作 ir-：irrégulier、irréel。</li><li>其他情况一般保留 in-：inutile、inconnu、intolérable。</li></ul><p>其他常见前缀有：</p><ul><li>mal-：malheureux（不幸的）、maladroit（笨拙的）、malhonnête（不诚实的）。</li><li>anti-：antiallergique（抗过敏的）、antidémocratique（反民主的）。</li><li>dé-/dés-：désagréable（令人不快的）、désordonné（凌乱的）、désobéissant（不听话的）。</li><li>mé-：mécontent（不满的）、méfiant（多疑的）。</li><li>a-：anormal（不正常的）、asymétrique（不对称的）。</li></ul><p>注意：同化只适用于 in- 系列。mal-、anti-、dé-/dés-、mé-、a- 都按词条本身的拼写，不因为后接辅音而改成 im-、il-、ir-。具体用哪个前缀由词条决定，而且并非每个形容词都能靠前缀构成反义：grand 的反义是 petit，不是 *ingrand；long 的反义是 court，不是 *inlong。</p><p>例句：Ce devoir est impossible à finir ce soir.（这项作业今晚不可能完成。）Une réponse illisible est une réponse inutile.（看不清的答案是无用的答案。）Il est maladroit avec les outils.（他用工具笨手笨脚。）</p>"
+    },
+    {
+      "id": "pub-c24-lexical-constructions-card-u1-2",
+      "title": "词汇反义：不同词根与语义互补",
+      "body": "<p><strong>词汇反义</strong>（antonymie lexicale）指两个形容词意义相反，但并不是在同一个词上加否定前缀构成的。它们靠不同的词根、互补关系或词形上的对立来配对，必须逐词记忆。</p><ul><li>grand / petit：une grande ville / une petite ville（大城市／小城市）</li><li>long / court：un long trajet / un court trajet（长途／短途）</li><li>haut / bas：un mur haut / un mur bas（高墙／矮墙）</li><li>bon / mauvais：un bon repas / un mauvais repas（好饭／糟糕的饭）</li><li>chaud / froid：un café chaud / un café froid（热咖啡／冷咖啡）</li><li>plein / vide：un verre plein / un verre vide（满杯／空杯）</li><li>ouvert / fermé：un magasin ouvert / un magasin fermé（开门的商店／关门的商店）</li><li>lourd / léger：un sac lourd / un sac léger（重包／轻包）</li><li>large / étroit：une rue large / une rue étroite（宽街／窄街）</li><li>jeune / âgé：un homme jeune / un homme âgé（年轻男子／年长男子）</li></ul><p>有些形容词的比较级本身构成对立，如 bon → meilleur、mauvais → pire；有些则是语义互补，如 ouvert / fermé。它们都不是前缀派生，不能按 in- 规则类推：grand 的反义是 petit，不是 *ingrand；long 的反义是 court，不是 *inlong。</p><p>注意：配对与语境、语域（register，正式、口语等使用场合）有关。形容人年纪大时，âgé 是常见的中性说法，vieux 更直接；选择时要看对象和场合。</p>"
+    },
+    {
+      "id": "pub-c24-lexical-constructions-card-u1-3",
+      "title": "副词反义配对与句中位置",
+      "body": "<p><strong>副词反义配对</strong>（paires d'adverbes antonymes）是指意义相反的两个副词。它们可以表示方式、方位、数量、速度、距离、频率、时间或程度。替换时，副词在句中的位置通常保持不变。</p><ul><li>方式：bien / mal、vite / lentement、doucement / fort（小声地／大声地）。</li><li>方位：ici / là、dedans / dehors、dessus / dessous、devant / derrière、près / loin、à gauche / à droite。</li><li>数量与程度：beaucoup / peu、plus / moins。</li><li>速度：vite / lentement、rapidement / lentement。</li><li>距离：près / loin、ici / là-bas。</li><li>频率：toujours / jamais、souvent / rarement。</li><li>时间：tôt / tard、avant / après、maintenant / autrefois、hier / demain。</li></ul><p>例句：Elle travaille bien, mais son frère travaille mal.（她工作好，但她弟弟工作差。）Le musée est ici ; la gare est là-bas.（博物馆在这里；火车站在那边。）Il se lève tôt et se couche tard.（他起得早，睡得晚。）Nous allons souvent au marché ; nous sortons rarement le soir.（我们常去市场；晚上很少出门。）</p><p>替换练习要注意位置：Il parle vite → Il parle lentement（都在动词后）；Il est souvent en retard → Il est rarement en retard（都在 être 后）。不能因为换了副词就把它挪到别的位置。</p><p>许多 -ment 副词由形容词的阴性形式加 -ment 构成：lent → lente → lentement、doux → douce → doucement、heureux → heureuse → heureusement。但反义配对不一定来自同一个形容词：lentement 的反义是 rapidement（由 rapide 构成），也可以说 vite；这些配对要成对记忆。</p><p>有些词还能作介词或形容词，词性由句法决定：devant 在 devant la gare 中是介词，在 Il marche devant 中是副词；fort 在 un homme fort 中是形容词，在 parler fort 中是副词。判断时看它后面有没有宾语、它修饰谁。</p><p>注意：反义关系不一定来自派生。vite 与 rapide 的关系比较特殊，见下一张。</p>"
+    },
+    {
+      "id": "pub-c24-lexical-constructions-card-u1-4",
+      "title": "vite 与 rapide：副词和形容词的不对称",
+      "body": "<p><strong>vite</strong> 是<strong>副词</strong>（adverbe），表示「快速地」，修饰动词，形式不变：Elle court vite.（她跑得快。）Il faut répondre vite.（要赶快回答。）</p><p>现代法语里没有与 vite 同族的常用形容词。要表达「快的」这个性质，用形容词 <strong>rapide</strong>：une voiture rapide（一辆快车）、Elle est rapide.（她很快。）不能说 *une voiture vite，也不能用 *Elle est vite 来表达「她很快」。</p><p>rapide 对应的副词是 <strong>rapidement</strong>：Elle court rapidement.（她快速地跑。）vite 和 rapidement 意思接近，但来源不同：rapidement 由形容词 rapide 加 -ment 构成；vite 本身就是一个副词，不能反过来当作 rapide 的同族形容词。</p><p>识别时可以问两个问题：这个词修饰的是动词还是名词？它能不能像形容词那样有阴性、复数形式？它能不能构成 -ment 副词？vite 修饰动词，不能加阴性、复数词尾；rapide 修饰名词或作<strong>表语</strong>（位于 être 后，说明主语性质），可以随名词变化：une course rapide、des courses rapides。</p><p>注意：vite 还出现在固定短语 au plus vite（尽快）中；这里的 vite 仍是副词。不要把 vite 当作形容词来修饰名词。</p>"
+    },
+    {
+      "id": "pub-c24-lexical-constructions-card-u2-1",
+      "title": "avoir 加名词：生理与心理固定表达",
+      "body": "<p><strong>avoir</strong> 加名词可以构成一批固定的生理或心理表达。这些名词前通常<strong>不加不定冠词</strong>，整个结构表示生理或心理状态：</p><ul><li>avoir faim：J'ai faim.（我饿了。）</li><li>avoir soif：Tu as soif ?（你渴吗？）</li><li>avoir sommeil：Elle a sommeil.（她困了。）</li><li>avoir chaud / froid：Nous avons chaud.（我们觉得热。）/ Ils ont froid.（他们觉得冷。）</li><li>avoir peur (de)：Il a peur du chien.（他怕狗。）</li><li>avoir besoin (de)：Nous avons besoin d'aide.（我们需要帮助。）</li><li>avoir envie (de)：J'ai envie de sortir.（我想出去。）</li></ul><p>avoir 的现在时：j'ai、tu as、il/elle/on a、nous avons、vous avez、ils/elles ont。否定用 ne...pas 夹住 avoir：Je n'ai pas faim.（我不饿。）Elle n'a pas soif.（她不渴。）</p><p>注意区分 avoir chaud / froid 与 être chaud / froid：J'ai chaud 表示「我觉得热」。être chaud/froid 通常描述物体或环境；形容人时，être froid 常指态度冷淡，不说 Je suis froid 表示「我冷」。身体感受用 avoir chaud/froid。</p><p>这些表达里的名词通常不带冠词：J'ai faim，不说 *J'ai une faim。只有固定短语 une faim de loup（饿极了）等保留冠词。avoir besoin de 和 avoir envie de 后面的 de 引出对象：avoir besoin de repos、avoir envie d'un café。</p>"
+    },
+    {
+      "id": "pub-c24-lexical-constructions-card-u2-2",
+      "title": "avoir mal à 与身体部位：au、aux 的缩合",
+      "body": "<p><strong>avoir mal à</strong> 加身体部位，表示「某处疼」。身体部位前用<strong>定冠词</strong>，不用主有形容词：J'ai mal à la tête.（我头疼。）不能说 *J'ai mal à ma tête。</p><p>介词 à 与定冠词的结合分三种情况。<strong>缩合</strong>（contraction，两个词合并成一个形式）只发生在 à + le / les：</p><ul><li>à + le → au：Elle a mal au dos.（她背疼。）</li><li>à + les → aux：Nous avons mal aux dents.（我们牙疼。）</li></ul><p>定冠词在元音或哑音 h 开头的名词前<strong>省音</strong>（élision，词尾元音省略）为 l'，这时 à 保持原形：</p><ul><li>à + l' → à l'：Il a mal à l'épaule.（他肩膀疼。）</li></ul><p>à + la 则<strong>不变</strong>：</p><ul><li>à + la → à la：J'ai mal à la gorge.（我喉咙疼。）</li></ul><p>mal 在这个结构里是名词，形式不变；avoir 随主语变位：Tu as mal aux jambes.（你腿疼。）Ils ont mal à la tête.（他们头疼。）</p><p>否定：Je n'ai pas mal à la tête.（我不头疼。）Elle n'a pas mal aux dents.（她不牙疼。）否定时定冠词保留，不需要改成 de。</p><p>注意：au 和 aux 是 à + le / les 的缩合形式，不能拆开写成 à le、à les；à la 不变，à + l' 只是定冠词的省音形式。身体部位的性和数决定用 au、aux、à la 还是 à l'。</p>"
+    },
+    {
+      "id": "pub-c24-lexical-constructions-card-u2-3",
+      "title": "avoir 加度量：尺寸与重量（识别）",
+      "body": "<p>描述物体的长度、高度、宽度、深度等尺寸时，法语常用 <strong>avoir + 数词 + 度量名词 + de + 说明成分</strong>：</p><ul><li>La table a deux mètres de long.（这张桌子两米长。）</li><li>La tour a cent mètres de haut.（这座塔高一百米。）</li><li>La chambre a quatre mètres de large.（这个房间四米宽。）</li><li>Le puits a dix mètres de profondeur.（这口井十米深。）</li></ul><p>这里的 de 引出具体的尺寸说明（long、haut、large、profondeur 等），不是<strong>部分冠词</strong>（du、de la、des 等，表示不确定的数量）。不能说 *deux mètres du long，也不能省略 de 写成 *deux mètres long。</p><p>重量也可以直接用 avoir 加数词加度量名词：Le bébé a cinq kilos.（这个婴儿重五公斤。）更常见的动词是 peser：Le colis pèse cinq kilos.（这个包裹重五公斤。）</p><p>这个结构用 avoir；不能说 *La table est deux mètres de long。若用 être，应说 La table est longue de deux mètres。要与年龄和普通拥有区分：Elle a vingt ans.（她二十岁。）——年龄；Elle a une table.（她有一张桌子。）——拥有；La table a deux mètres de long.——尺寸。</p><p>识别方法：看到 avoir + 数词 + 度量名词 + de + 说明，就知道它在描述尺寸；不要把它当成「有……的」的普通所属关系，也不要按部分冠词去解释 de。</p>"
+    },
+    {
+      "id": "pub-c24-lexical-constructions-card-u3-1",
+      "title": "词汇化副词短语（1）：举例、偶然、当前、习惯",
+      "body": "<p><strong>词汇化副词短语</strong>（locution adverbiale figée）是由介词和名词或副词凝固而成的固定词组：形式固定，不能随意替换其中的介词或名词；意思也不能按组成词逐字相加，要整块记忆。它整体充当状语或话语标记（discourse marker，用来组织话语、表明说话人态度的小标记）。这类短语常放在句首，用逗号与句子隔开，也可以放在句中或句末。</p><p>常见的四类功能：</p><ul><li><strong>par exemple</strong>（例如）：引出例证，支持前面的判断或建议。Par exemple, certains élèves révisent mieux le matin.（例如，有些学生早上复习效果更好。）</li><li><strong>par hasard</strong>（偶然、碰巧）：说明事情不是计划或特意安排的。J'ai trouvé ce livre par hasard chez un bouquiniste.（我偶然在一家旧书摊找到了这本书。）</li><li><strong>à l'heure actuelle</strong>（目前、当前）：指说话时刻的现状。À l'heure actuelle, elle travaille à Lyon.（目前她在里昂工作。）</li><li><strong>d'habitude</strong>（通常、习惯上）：说明一贯的做法，常与 ce matin、exceptionnellement 等形成对比。D'habitude, je prends le bus ; ce matin, je suis venu à pied.（我通常坐公交车；今天早上我步行来的。）</li></ul><p>注意：à l'heure actuelle 表示「目前」，与表示「准时」的 à l'heure 不同；par exemple 也不必逐字理解为「通过例子」，它的作用就是举例。</p>"
+    },
+    {
+      "id": "pub-c24-lexical-constructions-card-u3-2",
+      "title": "词汇化副词短语（2）：观点、总体、早到、准时、同时",
+      "body": "<p>这一组短语给整句话定调：是谁的观点、总体情况如何、时间早不早、准不准，或者两件事是否同时发生。它们同样是凝固的整体，不能把其中的介词换成别的词。</p><ul><li><strong>à mon avis</strong>（依我看）：引出说话人的判断。À mon avis, ce quartier est le plus agréable de la ville.（依我看，这个街区是城里最舒服的。）</li><li><strong>en général</strong>（总的来说、一般而言）：概括通常情况，允许例外。En général, les magasins ferment à dix-neuf heures.（一般来说，商店十九点关门。）</li><li><strong>de bonne heure</strong>（很早）：强调时间早，不是「好时间」。Nous partons de bonne heure pour éviter les embouteillages.（我们很早出发以避开堵车。）</li><li><strong>à l'heure</strong>（准时）：强调按约定时间，不早也不晚。Le train est arrivé à l'heure.（火车准时到达。）</li><li><strong>en même temps</strong>（同时）：表示两件事在同一时间发生。Elle écoute de la musique en même temps qu'elle travaille.（她一边工作一边听音乐。）</li></ul><p>注意：de bonne heure 说「早」，à l'heure 说「准」，两者不能互换。à l'heure qu'il est（都这时候了）和 tout à l'heure（刚才／待会儿）是另外的固定说法，也不要与 à l'heure 混用。</p>"
+    },
+    {
+      "id": "pub-c24-lexical-constructions-card-u3-3",
+      "title": "词汇化介词状态短语：正反、黑白、明暗",
+      "body": "<p><strong>词汇化介词状态短语</strong>（locution prépositionnelle figée）由介词加名词凝固而成，专门表示某种状态或方式。介词是短语的一部分，不能按空间关系自由替换；整体意思也不能按介词的字面义拆开。</p><ul><li><strong>à l'endroit / à l'envers</strong>（正面／反面、颠倒）：Le texte est à l'envers ; retournez la feuille.（文字颠倒了；把纸翻过来。）</li><li><strong>en couleurs / en noir et blanc</strong>（彩色／黑白）：Un film en noir et blanc peut être très moderne.（黑白电影也可以很现代。）</li><li><strong>au soleil / à l'ombre</strong>（在阳光下／在阴凉处）：Les enfants jouent à l'ombre du chêne.（孩子们在橡树的阴凉处玩。）</li><li><strong>sur la droite / sur la gauche</strong>（在右边／在左边）：La pharmacie se trouve sur la droite.（药店在右边。）</li></ul><p>比较：sous l'arbre（在树下）、sous le parasol（在遮阳伞下）是自由组合的空间短语；à l'ombre（在阴凉处）是凝固的状态短语，不能说 sous l'ombre。dans l'ombre 也可指具体的阴影处；本课要掌握的是固定短语 à l'ombre。表示「在阴凉处」时 à l'ombre 更常用，dans l'ombre 常带「不为人知」的抽象义。</p><p>注意：这些短语的介词通常固定，不随主语变化。选择时先看整体意义，再决定用 à、en、au 还是 sur。</p>"
+    },
+    {
+      "id": "pub-c24-lexical-constructions-card-u3-4",
+      "title": "相互短语：l'un...l'autre 的形式与配合",
+      "body": "<p><strong>相互短语</strong>用 l'un...l'autre 这一对代词把两个主体连起来，表示「彼此、互相」。代词部分随所指对象的性和数调整：两个男性或男女混合的群体用 l'un...l'autre，两个女性用 l'une...l'autre。主语是复数时，动词也用复数。</p><ul><li>Les deux frères s'aident l'un l'autre.（两兄弟互相帮助。）</li><li>Les deux sœurs s'écrivent l'une à l'autre.（两姐妹互相写信。）</li><li>Ces deux collègues dépendent l'un de l'autre.（这两位同事互相依赖。）</li></ul><p>短语里的介词由动词或形容词的搭配决定，不是想加就加：écrire à qn 要求 à，所以是 l'une à l'autre；dépendre de qn 和 avoir besoin de qn 要求 de，所以是 l'un de l'autre。直接及物动词则用不带介词的 l'un l'autre。</p><p>注意：l'un de l'autre 里的 de 不表示「出处」，也不是固定的「从……来」；它只是动词或形容词所要求的介词在短语中的体现。</p>"
+    },
+    {
+      "id": "pub-c24-lexical-constructions-card-u3-5",
+      "title": "选择、双重否定与逐一对应",
+      "body": "<p>同一对代词还能构成另外几种关系，意义完全不同，不能互换。</p><ul><li><strong>l'un ou l'autre</strong>（两者之一）：表示二选一，任选其一。Vous pouvez prendre l'un ou l'autre de ces chemins.（您可以走这两条路中的任意一条。）</li><li><strong>ni l'un ni l'autre</strong>（两者都不）：与 ne 配合否定两个对象。Je n'aime ni l'un ni l'autre.（两个我都不喜欢。）</li><li><strong>d'une...à l'autre</strong>（从一个到另一个、逐一）：表示同类事物之间的逐个对比或变化。D'une région à l'autre, les coutumes changent.（各地风俗不同。）</li></ul><p>l'un ou l'autre 是肯定选择；ni l'un ni l'autre 否定两端；d'une...à l'autre 把一个接一个的对象放在一起比较。三者表达的关系不同，不能因为都含 l'autre 就随意替换。</p><p>注意：ni l'un ni l'autre 已含否定，句中动词前仍要有 ne；代词部分也要配合所指对象，两个女性用 ni l'une ni l'autre。d'une...à l'autre 的第一个成分随名词变化：d'une région à l'autre、d'un village à l'autre；l'autre 不再加性数标记。</p>"
+    },
+    {
+      "id": "pub-c24-lexical-constructions-card-u4-1",
+      "title": "固定比喻：comme + 名词的整体义",
+      "body": "<p><strong>固定比喻</strong>（comparaison figée）是由 comme 加名词构成的熟语性比喻，用来整体说明主语的程度或特征，而不是把两个具体对象放在一起做真实比较。喻体（用来作比的具体事物）是约定俗成的，不能随意换词。</p><ul><li>Après la course, il était rouge comme une tomate.（赛跑之后，他脸红得像番茄。）</li><li>Elle est fière comme un paon.（她像孔雀一样骄傲。）</li><li>Ils sont bavards comme des pies.（他们像喜鹊一样健谈。）</li></ul><p>这类比喻的重点是<strong>程度</strong>或<strong>特征</strong>：rouge comme une tomate 不是把人和番茄逐项比较，而是说「非常红」。因此不能按字面理解成物理上的颜色测量。</p><p>形容词仍要与主语配合：Elle est fière comme un paon ; Elles sont bavardes comme des pies。喻体名词的单复数按固定说法处理，但形容词只随主语变化。</p><p>固定比喻与真实比较不同：Il est fort comme son frère 是同类对象之间的真实比较；Il est fort comme un lion 是固定比喻，整体表示「非常强壮」。</p><p>注意：喻体不能自由替换。表示「强壮」时不能说 fort comme une tortue；要按惯用搭配记忆，不能按现实里动物的特点自由造比喻。</p>"
+    },
+    {
+      "id": "pub-c24-lexical-constructions-card-u4-2",
+      "title": "固定比喻中的形容词选择",
+      "body": "<p>学固定比喻时，重点不是造一个新比喻，而是根据喻体认出它约定的属性，再选出与之匹配的形容词。喻体和属性是成对记忆的。</p><ul><li>lent comme une tortue（像乌龟一样慢）</li><li>bavard comme une pie（像喜鹊一样健谈）</li><li>fier comme un paon（像孔雀一样骄傲）</li><li>rusé comme un renard（像狐狸一样狡猾）</li><li>têtu comme une mule（像骡子一样固执）</li><li>doux comme un agneau（像羔羊一样温顺）</li><li>muet comme une carpe（像鲤鱼一样沉默）</li><li>rapide comme l'éclair（像闪电一样快）</li><li>léger comme une plume（像羽毛一样轻）</li><li>lourd comme du plomb（像铅一样重）</li><li>pâle comme un linge（脸色像布一样苍白）</li><li>rouge comme une tomate（脸红得像番茄）</li><li>blanc comme neige（像雪一样白）</li><li>heureux comme un poisson dans l'eau（像水中鱼一样快乐）</li></ul><p>冠词也属于固定搭配：comme une tortue、comme l'éclair、comme neige，不能按普通名词规则自由增删。</p><p>选择时先看喻体，再看主语：主语是阴性复数，形容词就要用阴性复数形式。例如 Elles sont <strong>lentes</strong> comme des tortues ; Ils sont <strong>rusés</strong> comme des renards。</p><p>同一个形容词可以出现在不止一个固定比喻里，同一个喻体也可能只对应一个最常见属性。判断依据是惯用搭配，不是喻体在现实中的全部特点：renard 可以狡猾，也可以有别的特点，但 rusé comme un renard 是固定说法。</p><p>注意：不要因为主语是人就忽略配合，也不要因为喻体是单数就把形容词写成单数。形容词只与主语一致。</p>"
+    },
+    {
+      "id": "pub-c24-lexical-constructions-card-u4-3",
+      "title": "谚语：按整体比喻义理解",
+      "body": "<p><strong>谚语</strong>（proverbe）是流传固定的整句格言，用具体形象说明一条普遍经验。理解时要抓整句的比喻义，不能把每个词的字面意思相加，也不能按现代语法随意改写。</p><ul><li>Quand le chat n'est pas là, les souris dansent.（猫不在时，老鼠跳舞。）——当权者不在，下面的人就趁机随心所欲。</li><li>Il ne faut pas vendre la peau de l'ours avant de l'avoir tué.（熊还没打死，别先卖熊皮。）——事情尚未成功，不要过早高兴或承诺。</li><li>Petit à petit, l'oiseau fait son nid.（小鸟一点点筑巢。）——积少成多，循序渐进。</li><li>L'habit ne fait pas le moine.（衣服不能造就修士。）——不能以貌取人。</li><li>Après la pluie, le beau temps.（雨过天晴。）——困难之后会有好转。</li><li>Mieux vaut tard que jamais.（迟做总比不做好。）</li><li>On ne fait pas d'omelette sans casser des œufs.（不打碎鸡蛋就做不成煎蛋卷。）——有得必有失，做事要付出代价。</li><li>Tout ce qui brille n'est pas or.（发光的不都是金子。）——外表光鲜不等于真有价值。</li></ul><p>谚语的形式是固定的：时态、人称、冠词和词序通常不能改。Quand le chat n'est pas là, les souris dansent 不能改成 « Quand le chat n'était pas là, les souris ont dansé »；L'habit ne fait pas le moine 也不能把 le moine 换成 un moine 来表示同一条道理。</p><p>使用和识别时，先找句子描述的具体形象，再问它想说明哪条普遍经验。字面画面只是载体，不是要讨论的真实事件。</p><p>注意：谚语的整体意义不能由组成词逐字推导；同一个词在不同谚语里也可能承担不同形象，要按整句记忆。</p>"
+    },
+    {
+      "id": "pub-c24-lexical-constructions-card-u4-4",
+      "title": "指示限定词：指称功能与评价色彩（识别）",
+      "body": "<p><strong>指示限定词</strong>（déterminant démonstratif）是 ce、cet、cette、ces 这一组限定词，用来把名词所指放到具体语境中。它的形式随名词的性、数变化：阳性单数用 ce，后接元音或哑音 h（不发音的 h）时用 cet；阴性单数用 cette，复数用 ces。</p><p>同一个指示限定词可以承担不同的<strong>指称功能</strong>（fonction de référence，即它把名词指向语境中的哪个对象）：</p><ul><li><strong>现场指认</strong>：Regarde cette photo !（看这张照片！）——所指对象就在说话现场。</li><li><strong>回指</strong>：J'ai lu un article passionnant ; cet article m'a donné envie de partir.（我读了一篇精彩的文章；这篇文章让我想出发。）——cet article 指前面已经提到的 article。</li><li><strong>预指</strong>：Ce roman dont je t'ai parlé est enfin traduit.（我跟你提过的那本小说终于翻译出版了。）——所指由后面的关系从句说明。</li><li><strong>临近时间</strong>：Cette semaine, je travaille à la maison.（这周我在家工作。）——指当前或临近的一段时间。</li><li><strong>评价色彩</strong>：Ce voisin est vraiment insupportable !（这个邻居真让人受不了！）——指示限定词把对象拉到说话人的态度里，贬义主要由语境和语调承担。</li></ul><p>识别时不能只看 ce/cette 的词形，要看上下文：前面有没有已经提到的名词？后面有没有从句或说明？所指对象是否在说话现场？句子的褒贬来自哪里？</p><p>注意：评价色彩不是指示限定词本身固定的意义。同一句 Ce voisin est sympathique ! 可以带好感；要结合形容词、语调和情境判断，不能把 ce 一律读成贬义。</p>"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pub-c24-lexical-constructions-l1-1",
+      "title": "派生、反义与词类辨别（1）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c24-lexical-constructions-l1-q1",
+          "type": "letters",
+          "prompt": "Complétez avec l'antonyme de « possible » : « Ce devoir est ___ à finir ce soir. »",
+          "answer": "impossible",
+          "decoys": [
+            "n",
+            "t",
+            "r"
+          ],
+          "translation": "用 « possible » 的反义词填空：「这项作业今晚___完成。」",
+          "explain": "possible 的否定形式是 impossible；in- 在 p 前同化为 im-，所以写 im-，不能写成 *inpossible。possible 中的双 s 保留。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l1-q2",
+          "type": "choice",
+          "prompt": "Quelle série d'adjectifs avec des préfixes négatifs est correctement orthographiée ?",
+          "options": [
+            "inmangeable, illisible, irrégulier, intolérable",
+            "immangeable, illisible, irrégulier, intolérable",
+            "immangeable, ilisible, irrégulier, intolérable",
+            "immangeable, illisible, irrégulier, intollérable"
+          ],
+          "answer": 1,
+          "translation": "哪一组带否定前缀的形容词拼写正确？",
+          "explain": "in- 在 m、p、b 前同化为 im-，所以是 immangeable；在 l 前同化为 il-，所以是 illisible；在 r 前同化为 ir-，所以是 irrégulier；在 t 前保留 in-，所以是 intolérable。inmangeable 没有同化，ilisible 少了一个 l，intollérable 多写了一个 l。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l1-q3",
+          "type": "letters",
+          "prompt": "Complétez avec le contraire de « plein » : « Après le déménagement, la pièce était complètement ___. »",
+          "answer": "vide",
+          "decoys": [
+            "s",
+            "t",
+            "n"
+          ],
+          "translation": "用 « plein » 的反义词填空：「搬完家后，房间完全___。」",
+          "explain": "plein 的反义是 vide，属于不同词根的词汇反义，不能加前缀写成 *invide。pièce 是阴性单数，但 vide 以 -e 结尾，阴阳性同形。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l1-q4",
+          "type": "letters",
+          "prompt": "Complétez avec le contraire de « bon » : « Ce restaurant est vraiment ___ : la cuisine est froide et le service est lent. »",
+          "answer": "mauvais",
+          "decoys": [
+            "t",
+            "n",
+            "r"
+          ],
+          "translation": "用 « bon » 的反义词填空：「这家餐厅真的很___：菜是凉的，服务也慢。」",
+          "explain": "bon 的反义是 mauvais，属于词汇反义，不是 *inbon。restaurant 是阳性单数，mauvais 不加 -e。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l1-q5",
+          "type": "tiles",
+          "prompt": "Complétez avec deux adjectifs de sens contraire : « Ce sac est trop ___ pour moi : je ne peux pas le porter. Prends plutôt le sac ___. »",
+          "answer": [
+            "lourd",
+            "léger"
+          ],
+          "bank": [
+            "lourd",
+            "léger",
+            "lourde",
+            "légère",
+            "lourds",
+            "légers"
+          ],
+          "translation": "用两个意义相反的形容词填空：「这个包对我来说太___了：我拿不动。还是拿那个___的包吧。」",
+          "explain": "sac 是阳性单数，用 lourd 和 léger；「拿不动」说明第一个包太重，所以第一空填 lourd，第二空填 léger。lourde/légère 是阴性，lourds/légers 是复数，都不符合 sac。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l1-q6",
+          "type": "letters",
+          "prompt": "Complétez avec le contraire de « large » : « Cette rue est très ___ ; deux voitures n'y passent pas en même temps. »",
+          "answer": "étroite",
+          "accentKeys": [
+            "é"
+          ],
+          "decoys": [
+            "s",
+            "n",
+            "l"
+          ],
+          "translation": "用 « large » 的反义词填空：「这条街很___；两辆车不能同时通过。」",
+          "explain": "large 的反义是 étroit；rue 是阴性单数，所以用 étroite。词尾 -e 表示阴性，é 要写重音，不能写成 *etroite。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l1-q7",
+          "type": "tiles",
+          "prompt": "Complétez avec les adverbes formés sur les adjectifs entre parenthèses : « Elle conduit ___ (lent) et son mari conduit ___ (rapide). »",
+          "answer": [
+            "lentement",
+            "rapidement"
+          ],
+          "bank": [
+            "lentement",
+            "rapidement",
+            "lent",
+            "lente",
+            "rapide",
+            "rapides",
+            "lentes"
+          ],
+          "translation": "用括号中形容词构成的副词填空：「她开车___（lent），她丈夫开车___（rapide）。」",
+          "explain": "lent 的阴性是 lente，加 -ment 构成 lentement；rapide 直接加 -ment 构成 rapidement。两个词都是方式副词，修饰 conduit，且意义相反。这里不能填形容词 lent/rapide，也不能漏掉 lent 阴性形式中的 e。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c24-lexical-constructions-l1-2",
+      "title": "派生、反义与词类辨别（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c24-lexical-constructions-l1-q8",
+          "type": "choice",
+          "prompt": "Quelle paire d'adverbes est correctement formée et de sens contraire ?",
+          "options": [
+            "heureusement / malheureusement",
+            "heureusment / malheureusement",
+            "heureusement / malheureux",
+            "heureuxement / malheureusement"
+          ],
+          "answer": 0,
+          "translation": "哪一对副词拼写正确且意义相反？",
+          "explain": "heureux 的阴性是 heureuse，加 -ment 写成 heureusement；malheureux 的阴性是 malheureuse，加 -ment 写成 malheureusement。两个都是副词，意义相反。heureusment 少了 e；malheureux 是形容词；heureuxement 既保留了 x 又多写了 e。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l1-q9",
+          "type": "letters",
+          "prompt": "Complétez avec l'adverbe formé sur « doux » : « Elle a répondu ___ à la critique. »",
+          "answer": "doucement",
+          "decoys": [
+            "s",
+            "r",
+            "a"
+          ],
+          "translation": "用 « doux » 构成的副词填空：「她___地回应了批评。」",
+          "explain": "doux 的阴性是 douce，加 -ment 构成 doucement；不能直接用阳性词干写成 *douxment。副词修饰 a répondu，形式不变。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l1-q10",
+          "type": "choice",
+          "prompt": "Dans « Le train est parti rapidement », quel adverbe est le contraire de « rapidement » ?",
+          "options": [
+            "vite",
+            "souvent",
+            "lentement",
+            "tôt"
+          ],
+          "answer": 2,
+          "translation": "在「Le train est parti rapidement」中，哪个副词是 « rapidement » 的反义？",
+          "explain": "rapidement 表示「快速地」，反义是 lentement「缓慢地」；两者都是方式副词，位置都在动词后。vite 是近义词，不是反义；souvent 表频率，tôt 表时间。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l1-q11",
+          "type": "tiles",
+          "prompt": "Complétez avec deux adverbes de sens contraire : « Le magasin ouvre ___ à six heures et ferme ___ à vingt-deux heures. »",
+          "answer": [
+            "tôt",
+            "tard"
+          ],
+          "bank": [
+            "tôt",
+            "tard",
+            "très",
+            "hier"
+          ],
+          "translation": "用两个意义相反的副词填空：「商店___六点开门，___二十二点关门。」",
+          "explain": "tôt 与 tard 是时间副词反义配对；六点开门是早，二十二点关门是晚。两个副词都放在动词后、时间状语前，位置不变。très 是程度副词，hier 是时间副词，但不能与这里的现在时和具体钟点搭配。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l1-q12",
+          "type": "choice",
+          "prompt": "Complétez : « Elle va ___ au cinéma : peut-être deux fois par an. »",
+          "options": [
+            "souvent",
+            "toujours",
+            "déjà",
+            "rarement"
+          ],
+          "answer": 3,
+          "translation": "填空：「她___去电影院：也许一年两次。」",
+          "explain": "一年两次说明频率很低，用 rarement「很少」；它和 souvent「经常」构成频率反义配对。toujours 表示「总是」，与一年两次矛盾；déjà 表示「已经」，不回答频率问题。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l1-q13",
+          "type": "choice",
+          "prompt": "Dans « Elle roule vite », quelle est la nature grammaticale de « vite » ?",
+          "options": [
+            "adjectif",
+            "nom",
+            "adverbe",
+            "préposition"
+          ],
+          "answer": 2,
+          "translation": "在「Elle roule vite」中，vite 是什么词性？",
+          "explain": "vite 修饰动词 roule，说明「怎样开车」，形式不变，是副词；它不是形容词，不能修饰名词，也不是名词或介词。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l1-q14",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Cette voiture est vite.",
+            "Cette voiture est rapide.",
+            "Cette voiture est rapidement.",
+            "Cette voiture est vitemment."
+          ],
+          "answer": 1,
+          "translation": "哪一句正确？",
+          "explain": "voiture 是名词，需要形容词 rapide 作表语；rapide 与 voiture 阴性单数同形。vite 和 rapidement 是副词，不能在这里作表语；vitemment 不是标准形式。要表达「这辆车很快」，只能说 Cette voiture est rapide。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c24-lexical-constructions-l2-1",
+      "title": "avoir 的固定搭配与度量（1）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c24-lexical-constructions-l2-q1",
+          "type": "tiles",
+          "prompt": "Mettez à la forme négative : « J'ai mal aux dents. » → ___",
+          "answer": [
+            "Je",
+            "n'ai",
+            "pas",
+            "mal",
+            "aux",
+            "dents."
+          ],
+          "bank": [
+            "Je",
+            "n'ai",
+            "pas",
+            "mal",
+            "aux",
+            "dents.",
+            "J'ai",
+            "ai",
+            "au",
+            "dent.",
+            "des"
+          ],
+          "translation": "把「我牙疼」改成否定句。",
+          "explain": "否定用 ne...pas 夹住 avoir：J'ai → Je n'ai pas。按最小改动保留 mal aux dents；aux 是 à + les 的缩合，mal 形式不变。不能漏掉 ne，也不要把 aux 拆成 à les。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l2-q2",
+          "type": "letters",
+          "prompt": "Complétez avec la forme correcte d'avoir au présent : « J'___ sommeil après cette longue marche. »",
+          "answer": "ai",
+          "decoys": [
+            "s",
+            "t",
+            "n"
+          ],
+          "translation": "走了这么远，我___困了。",
+          "explain": "主语是 je，avoir 现在时第一人称单数是 ai；avoir sommeil 是固定表达，sommeil 前不加冠词。J' 后接元音开头的 ai。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l2-q3",
+          "type": "choice",
+          "prompt": "Aujourd'hui, nous ___ faim, mais nous ___ à la maison.",
+          "options": [
+            "avons / sommes",
+            "sommes / avons",
+            "avez / êtes",
+            "ont / sont"
+          ],
+          "answer": 0,
+          "translation": "今天我们___饿，但我们___在家里。",
+          "explain": "avoir faim 用 avoir；表示「在家」用 être à la maison。主语 nous 对应 avons 和 sommes。不能把两个动词对调，也不能用第三人称 ont/sont。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l2-q4",
+          "type": "tiles",
+          "prompt": "Mettez au pluriel : « Le garçon a peur et il est dans le jardin. » → ___",
+          "answer": [
+            "Les",
+            "garçons",
+            "ont",
+            "peur",
+            "et",
+            "ils",
+            "sont",
+            "dans",
+            "le",
+            "jardin."
+          ],
+          "bank": [
+            "Les",
+            "garçons",
+            "ont",
+            "peur",
+            "et",
+            "ils",
+            "sont",
+            "dans",
+            "le",
+            "jardin.",
+            "Le",
+            "garçon",
+            "a",
+            "est",
+            "aux"
+          ],
+          "translation": "把「男孩害怕，他在花园里」改成复数。",
+          "explain": "主语变复数：le garçon → les garçons，il → ils；avoir 用 ont，être 用 sont。avoir peur 和 être dans le jardin 的结构不变；dans le 保持原样，不缩合成 au 或 aux。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l2-q5",
+          "type": "choice",
+          "prompt": "Tu ___ peur, mais tu ___ courageux.",
+          "options": [
+            "es / as",
+            "a / est",
+            "as / es",
+            "as / est"
+          ],
+          "answer": 2,
+          "translation": "你___害怕，但你___勇敢。",
+          "explain": "avoir peur 用 avoir；être courageux 用 être。主语 tu 对应 as 和 es。不能把两个动词对调；courageux 已给出，本题只需选对两个动词形式。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l2-q6",
+          "type": "tiles",
+          "prompt": "Mettez au pluriel : « L'enfant a sommeil et il est très calme. » → ___",
+          "answer": [
+            "Les",
+            "enfants",
+            "ont",
+            "sommeil",
+            "et",
+            "ils",
+            "sont",
+            "très",
+            "calmes."
+          ],
+          "bank": [
+            "Les",
+            "enfants",
+            "ont",
+            "sommeil",
+            "et",
+            "ils",
+            "sont",
+            "très",
+            "calmes.",
+            "L'enfant",
+            "a",
+            "est",
+            "calme"
+          ],
+          "translation": "把「孩子困了，他很安静」改成复数。",
+          "explain": "l'enfant → les enfants，il → ils；avoir 用 ont，être 用 sont；形容词 calme 与复数主语配合，加 -s 成为 calmes。sommeil 前不加冠词。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c24-lexical-constructions-l2-2",
+      "title": "avoir 的固定搭配与度量（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c24-lexical-constructions-l2-q7",
+          "type": "tiles",
+          "prompt": "Mettez à la forme négative : « Elle a soif. » → ___",
+          "answer": [
+            "Elle",
+            "n'a",
+            "pas",
+            "soif."
+          ],
+          "bank": [
+            "Elle",
+            "n'a",
+            "pas",
+            "soif.",
+            "a",
+            "faim.",
+            "une"
+          ],
+          "translation": "把「她渴了」改成否定句。",
+          "explain": "ne...pas 夹住 avoir：Elle a → Elle n'a pas；avoir soif 是固定表达，soif 前不加冠词，否定时只加 ne...pas，不要添加冠词。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l2-q8",
+          "type": "letters",
+          "prompt": "Complétez avec la forme correcte d'avoir au présent : « Vous n'___ pas froid ? »",
+          "answer": "avez",
+          "decoys": [
+            "s",
+            "t",
+            "i"
+          ],
+          "translation": "你们不___冷吗？",
+          "explain": "avoir froid 是固定表达，froid 前不加冠词；否定用 ne...pas。n' 是 ne 在元音前的省音形式，主语 vous 的 avoir 现在时是 avez。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l2-q9",
+          "type": "choice",
+          "prompt": "Elle a mal ___ dents depuis hier.",
+          "options": [
+            "au",
+            "à les",
+            "des",
+            "aux"
+          ],
+          "answer": 3,
+          "translation": "她从昨天起牙___疼。",
+          "explain": "dents 是阴性复数，à + les 缩合为 aux；不能拆成 à les，也不能用 au（单数）或 des。avoir mal à 后接身体部位，mal 形式不变。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l2-q10",
+          "type": "choice",
+          "prompt": "Il a mal ___ dos après le déménagement.",
+          "options": [
+            "au",
+            "aux",
+            "à le",
+            "de"
+          ],
+          "answer": 0,
+          "translation": "搬家后他背___疼。",
+          "explain": "dos 是阳性单数，à + le 缩合为 au；aux 用于复数，à le 不缩合，de 不表示疼痛部位。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l2-q11",
+          "type": "choice",
+          "prompt": "Quelle phrase décrit correctement la longueur de la table ?",
+          "options": [
+            "La table est deux mètres de long.",
+            "La table a deux mètres de long.",
+            "La table a deux mètres long.",
+            "La table a long de deux mètres."
+          ],
+          "answer": 1,
+          "translation": "哪一句正确描述桌子的长度？",
+          "explain": "尺寸用 avoir + 数词 + 度量名词 + de + 说明：La table a deux mètres de long。不能用 être 代替 avoir；de long 不能省 de，也不能把 long 放到数词前。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l2-q12",
+          "type": "choice",
+          "prompt": "Dans « La tour a cent mètres de haut », qu'est-ce que « de » introduit ?",
+          "options": [
+            "une quantité partitive",
+            "la provenance",
+            "le moyen",
+            "la dimension mesurée"
+          ],
+          "answer": 3,
+          "translation": "在「La tour a cent mètres de haut」中，de 引出什么？",
+          "explain": "这里的 de 引出被测量的尺寸（haut 表示高度），不是部分冠词，也不表示来源或手段。比较：du pain（部分冠词）、venir de Paris（来源）、voyager en train（手段）。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c24-lexical-constructions-l3-1",
+      "title": "词汇化短语、状态表达与相互对应（1）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c24-lexical-constructions-l3-q1",
+          "type": "choice",
+          "prompt": "Dans « Certains élèves travaillent mieux le matin. Par exemple, Marie révise avant sept heures », quel rôle joue par exemple ?",
+          "options": [
+            "Il marque une opposition avec ce qui précède.",
+            "Il indique la conséquence de ce qui précède.",
+            "Il introduit un exemple qui illustre une idée générale.",
+            "Il situe l'action à un moment précis."
+          ],
+          "answer": 2,
+          "translation": "在「Certains élèves travaillent mieux le matin. Par exemple, Marie révise avant sept heures」这段里，par exemple 起什么作用？",
+          "explain": "par exemple 是词汇化的副词短语，功能是举例：它把后面的 Marie révise avant sept heures 作为前一句一般判断的具体例子。表示与预期相反要用 en revanche、pourtant 等；表示后果要用 donc、par conséquent 等；表示时间位置则要用时间副词或时间短语，如 le matin、avant sept heures。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q2",
+          "type": "choice",
+          "prompt": "Ce matin, exceptionnellement, je suis venu à pied ; ___, je prends le bus de sept heures.",
+          "options": [
+            "par hasard",
+            "d'abord",
+            "en même temps",
+            "d'habitude"
+          ],
+          "answer": 3,
+          "translation": "今天早上我破例步行来了；___，我坐七点的公交车。",
+          "explain": "前半句的 exceptionnellement（破例地）和 ce matin 标出例外，后半句说的是一贯做法，所以用 d'habitude（通常、习惯上）。par hasard 表示偶然，不能概括习惯；d'abord 表示顺序上的「首先」；en même temps 表示两件事同时发生。d'habitude 是 de 加名词 habitude 凝固成的状语，不能按字面拆成「出于习惯」来理解。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q3",
+          "type": "choice",
+          "prompt": "Nous nous levons ___, avant six heures, pour éviter les embouteillages.",
+          "options": [
+            "à l'heure",
+            "de bonne heure",
+            "à l'heure qu'il est",
+            "tout à l'heure"
+          ],
+          "answer": 1,
+          "translation": "我们___起床，六点之前，为了避开堵车。",
+          "explain": "avant six heures 说明起床时间早于通常，de bonne heure 表示「很早」。à l'heure 是「准时」，与「早」不是一回事；à l'heure qu'il est 表示「都这时候了」，常带责备语气；tout à l'heure 表示「刚才」或「待会儿」。这三个都不符合「六点之前起床」的语境。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q4",
+          "type": "choice",
+          "prompt": "Le train est arrivé ___, à huit heures pile, comme prévu.",
+          "options": [
+            "de bonne heure",
+            "à l'heure qu'il est",
+            "en même temps",
+            "à l'heure"
+          ],
+          "answer": 3,
+          "translation": "火车___到达，八点整，和预期一样。",
+          "explain": "à huit heures pile, comme prévu 说明火车按预定时间到达，用 à l'heure（准时）。de bonne heure 表示早于通常时间；à l'heure qu'il est 表示「都这时候了」；en même temps 表示同时发生，都不符合「按预期八点整到达」的意思。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q5",
+          "type": "choice",
+          "prompt": "La photo est ___, dans un cadre ___.",
+          "options": [
+            "à noir et blanc / en bois",
+            "en noir et blanc / à bois",
+            "en noir et blanc / en bois",
+            "dans le noir et blanc / de bois"
+          ],
+          "answer": 2,
+          "translation": "这张照片是___，装在一个___相框里。",
+          "explain": "黑白照片的固定说法是 en noir et blanc，介词 en 后不加冠词；相框的材质用 en bois。à bois 不成短语，dans le noir et blanc 也不是表示黑白影像的固定说法。两个空必须同时成立，所以只有 en noir et blanc / en bois 正确。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q6",
+          "type": "choice",
+          "prompt": "Nous irons à la plage ___, puis nous nous reposerons ___, car il fera très chaud.",
+          "options": [
+            "à vélo / à l'ombre",
+            "en vélo / à l'ombre",
+            "à vélo / sous l'ombre",
+            "par vélo / dans l'ombre"
+          ],
+          "answer": 0,
+          "translation": "我们将___去海滩，然后___休息，因为天气会很热。",
+          "explain": "交通方式用 à vélo（规范书写），步行是 à pied，坐车才用 en voiture、en train；en vélo 是口语中的松散说法，par vélo 更不成立。「在阴凉处」的凝固短语是 à l'ombre，不能按空间关系改成 sous l'ombre；dans l'ombre 虽也可指具体阴影，但常带「不为人知」的抽象义，本题要选固定短语 à l'ombre。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q7",
+          "type": "choice",
+          "prompt": "L'étiquette est collée ___ la boîte : on la voit bien de l'extérieur, mais le texte est ___ ; il faut retourner la boîte pour le lire.",
+          "options": [
+            "dans / à l'envers",
+            "sur / à l'envers",
+            "sur / à l'endroit",
+            "sous / à l'envers"
+          ],
+          "answer": 1,
+          "translation": "标签贴在盒子___：从外面看得很清楚，但文字是___；要把盒子转过来才能读。",
+          "explain": "标签从外面看得见，说明贴在盒子表面，用 sur la boîte；dans 表示在盒子内部，sous 表示在下面，都与「从外面看得见」矛盾。文字需要把盒子转过来才能读，说明是颠倒的，用 à l'envers；à l'endroit 表示正面朝上，正好相反。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q8",
+          "type": "choice",
+          "prompt": "À midi, il vaut mieux rester ___ : le soleil est trop fort.",
+          "options": [
+            "dans l'ombre",
+            "sous l'ombre",
+            "sur l'ombre",
+            "à l'ombre"
+          ],
+          "answer": 3,
+          "translation": "中午最好待在___：太阳太烈了。",
+          "explain": "表示「在阴凉处」的固定短语是 à l'ombre，介词 à 不能换成 sous 或 sur。sous 需要接具体遮挡物，如 sous le parasol；dans l'ombre 多带「不为人知」的抽象义，本题要选固定短语 à l'ombre。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q9",
+          "type": "choice",
+          "prompt": "Le sentier descend ___ la falaise, ___ des pins, jusqu'à la plage.",
+          "options": [
+            "à travers / à l'ombre",
+            "le long de / à l'ombre",
+            "le long de / à l'envers",
+            "le long de / sous l'ombre"
+          ],
+          "answer": 1,
+          "translation": "小路___悬崖，在松树的___里，一直延伸到海滩。",
+          "explain": "descendre le long de la falaise 表示沿着悬崖往下，le long de 是「沿着」；à travers la falaise 会变成穿过岩壁，不合逻辑。「在松树的阴凉处」用凝固短语 à l'ombre des pins；à l'envers 表示「颠倒」，不能接 des pins 表示位置；sous l'ombre 不成短语。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c24-lexical-constructions-l3-2",
+      "title": "词汇化短语、状态表达与相互对应（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c24-lexical-constructions-l3-q10",
+          "type": "choice",
+          "prompt": "Pour rejoindre la plage de l'autre côté, le chemin passe ___ la forêt ; nous marcherons ___ des arbres.",
+          "options": [
+            "au-dessus de / à l'ombre",
+            "au-dessous de / à l'ombre",
+            "à travers / à l'ombre",
+            "à travers / à l'envers"
+          ],
+          "answer": 2,
+          "translation": "为了到对面的海滩，小路___森林；我们将在树荫下行走。",
+          "explain": "de l'autre côté 说明要穿到森林的另一边，路径介词用 à travers（穿过）；au-dessus de 和 au-dessous de 表示垂直的上方或下方，不能描述穿过森林。「在树的阴凉处」用 à l'ombre des arbres，不能换成 à l'envers（颠倒）。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q11",
+          "type": "choice",
+          "prompt": "Cette ancienne photo a été colorisée : elle est désormais ___, alors qu'elle était ___ à l'origine.",
+          "options": [
+            "aux couleurs / en noir et blanc",
+            "en couleurs / dans le noir et blanc",
+            "à couleurs / au noir et blanc",
+            "en couleurs / en noir et blanc"
+          ],
+          "answer": 3,
+          "translation": "这张老照片经过上色：它现在是___，而原来它是___。",
+          "explain": "表示彩色影像常用 en couleurs，表示黑白影像用 en noir et blanc；两者都用 en，后面不加冠词。aux couleurs、à couleurs、au noir et blanc 都破坏了固定介词；dans le noir et blanc 也不是该短语。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q12",
+          "type": "choice",
+          "prompt": "Après avoir retourné la feuille, le texte est enfin ___ : on peut le lire normalement.",
+          "options": [
+            "à l'endroit",
+            "à l'envers",
+            "au soleil",
+            "en couleurs"
+          ],
+          "answer": 0,
+          "translation": "把纸翻过来之后，文字终于___：可以正常阅读了。",
+          "explain": "把纸翻过来后能正常阅读，说明文字现在是正面朝上，用 à l'endroit。à l'envers 表示颠倒、反面朝上，与「翻过来之后」相反；au soleil 和 en couleurs 与纸张方向无关。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q13",
+          "type": "tiles",
+          "prompt": "Remettez les mots en ordre pour exprimer la réciprocité entre les deux sœurs.",
+          "answer": [
+            "Les",
+            "deux",
+            "sœurs",
+            "s'écrivent",
+            "l'une",
+            "à",
+            "l'autre."
+          ],
+          "bank": [
+            "Les",
+            "deux",
+            "sœurs",
+            "s'écrivent",
+            "l'une",
+            "à",
+            "l'autre.",
+            "l'un",
+            "de",
+            "ou"
+          ],
+          "translation": "把词重新排序，表达两姐妹之间的相互性。",
+          "explain": "主语 les deux sœurs 都是女性，相互短语用 l'une...l'autre；动词 écrire 的搭配是 écrire à qn，所以介词用 à，构成 l'une à l'autre。s'écrivent 是复数代词式动词，表示互相写信。l'un 是阳性形式，de 与 écrire 的搭配不符，ou 表示选择而非相互。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q14",
+          "type": "choice",
+          "prompt": "J'ai essayé les deux clés. ___ n'ouvre la porte de la cave.",
+          "options": [
+            "Ni l'une ni l'autre",
+            "Ni l'un ni l'autre",
+            "L'une ou l'autre",
+            "L'une à l'autre"
+          ],
+          "answer": 0,
+          "translation": "我试了两把钥匙。___打不开地下室的门。",
+          "explain": "clé 是阴性名词，指代两把钥匙要用 l'une...l'autre；ne...ni...ni 否定两个对象，动词可以按「分别考虑每一把」用单数 n'ouvre。Ni l'un ni l'autre 是阳性形式；L'une ou l'autre 表示二选一，与「两把都打不开」矛盾；L'une à l'autre 是相互短语，不能作主语。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q15",
+          "type": "choice",
+          "prompt": "Ces deux collègues travaillent ensemble depuis des années : ils ont besoin ___.",
+          "options": [
+            "l'une de l'autre",
+            "l'un de l'autre",
+            "l'un à l'autre",
+            "l'un ou l'autre"
+          ],
+          "answer": 1,
+          "translation": "这两位同事一起工作多年：他们需要___。",
+          "explain": "avoir besoin 的搭配是 avoir besoin de qn/qch，所以相互短语用 de：l'un de l'autre。主语 ils 指两位同事，是阳性复数或混合群体，代词用 l'un；l'une 只用于两个女性。l'un à l'autre 换了介词，l'un ou l'autre 表示二选一，都不表示相互需要。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q16",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Les deux voisins s'aident l'un de l'autre.",
+            "Les deux voisins se téléphonent l'un de l'autre.",
+            "Les deux voisins dépendent l'un de l'autre.",
+            "Les deux voisins se rencontrent l'un de l'autre."
+          ],
+          "answer": 2,
+          "translation": "哪一句是正确的？",
+          "explain": "dépendre 的搭配是 dépendre de qn，所以相互短语是 l'un de l'autre。表示相互帮助时，aider 用直接结构 l'un l'autre；téléphoner 的搭配是 téléphoner à qn，相互形式是 l'un à l'autre；rencontrer 也是直接及物动词，用 l'un l'autre。它们都不能套用 dépendre 的 de，因此另外三句都不成立。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q17",
+          "type": "choice",
+          "prompt": "Vous pouvez emprunter ___ de ces deux chemins : ils mènent tous les deux au village.",
+          "options": [
+            "l'un à l'autre",
+            "ni l'un ni l'autre",
+            "l'un de l'autre",
+            "l'un ou l'autre"
+          ],
+          "answer": 3,
+          "translation": "您可以走这两条路中的___：它们都通向村子。",
+          "explain": "句子说两条路都通向村子，允许在两者中任选一条，用 l'un ou l'autre（两者之一）。ni l'un ni l'autre 否定两者，与 ils mènent tous les deux 矛盾；l'un à l'autre 和 l'un de l'autre 表示相互，不表示选择。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l3-q18",
+          "type": "choice",
+          "prompt": "___, les fêtes traditionnelles changent : chaque région a ses propres coutumes.",
+          "options": [
+            "De l'une à l'autre région",
+            "D'une région à l'autre",
+            "D'une région à autre",
+            "De une région à l'autre"
+          ],
+          "answer": 1,
+          "translation": "___，传统节日各不相同：每个地区都有自己的习俗。",
+          "explain": "固定框架是 d'une...à l'autre：第一个成分的冠词随名词变化，région 是阴性，所以用 d'une région；第二个成分固定为 à l'autre，不再重复名词。De l'une à l'autre région 词序错误，D'une région à autre 缺少 l'，De une 在法语中必须缩合为 d'une。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c24-lexical-constructions-l4-1",
+      "title": "固定比喻、谚语与指示词色彩（1）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c24-lexical-constructions-l4-q1",
+          "type": "choice",
+          "prompt": "Léa n'est jamais pressée : elle est ___ comme une tortue.",
+          "options": [
+            "lente",
+            "rapide",
+            "bavarde",
+            "légère"
+          ],
+          "answer": 0,
+          "translation": "莱娅从不着急：她___得像乌龟。",
+          "explain": "tortue 的固定比喻是 lent（慢）；主语 Léa 是阴性，形容词用 lente。rapide 与「从不着急」矛盾；bavarde 对应 pie，légère 对应 plume，都不是 tortue 的搭配。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l4-q2",
+          "type": "choice",
+          "prompt": "Après sa promotion, il est ___ comme un paon.",
+          "options": [
+            "fort",
+            "muet",
+            "fier",
+            "lent"
+          ],
+          "answer": 2,
+          "translation": "升职后，他___得像孔雀。",
+          "explain": "paon 的固定属性是 fierté，形容词选用 fier；主语 il 是阳性单数，用 fier。fort 对应 lion，muet 对应 carpe，lent 对应 tortue。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l4-q3",
+          "type": "choice",
+          "prompt": "Ce matin, elle est ___ comme un linge.",
+          "options": [
+            "bavarde",
+            "pâle",
+            "rapide",
+            "légère"
+          ],
+          "answer": 1,
+          "translation": "今天早上，她___得像一块白布。",
+          "explain": "linge 的固定比喻表示脸色苍白：pâle comme un linge。bavarde 对应 pie，rapide 对应 éclair，légère 对应 plume，都不符合这个固定搭配。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l4-q4",
+          "type": "choice",
+          "prompt": "Complétez : « Les jumelles sont ___ comme des pies. »",
+          "options": [
+            "bavard",
+            "bavarde",
+            "bavards",
+            "bavardes"
+          ],
+          "answer": 3,
+          "translation": "补全：「这对双胞胎姐妹___得像喜鹊。」",
+          "explain": "形容词 bavard 要与主语 les jumelles（阴性复数）配合，用 bavardes；喻体 des pies 只提供固定形象，不决定形容词的性数。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l4-q5",
+          "type": "choice",
+          "prompt": "Quelle phrase respecte l'accord de l'adjectif dans la comparaison figée ?",
+          "options": [
+            "Ils sont têtu comme des mules.",
+            "Ils sont têtus comme des mules.",
+            "Ils sont têtues comme des mules.",
+            "Ils sont têtu comme une mule."
+          ],
+          "answer": 1,
+          "translation": "哪一句在固定比喻中正确保持了形容词的配合？",
+          "explain": "主语 Ils 是阳性复数，têtu 要变成 têtus；mule 的固定属性是固执。其余选项的形容词分别是单数、阴性复数、单数，都不与主语配合。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l4-q6",
+          "type": "choice",
+          "prompt": "Que signifie « Il est fort comme un lion » ?",
+          "options": [
+            "Sa force est identique à celle d'un lion.",
+            "Il travaille dans un zoo.",
+            "Il est très fort.",
+            "Il a peur des lions."
+          ],
+          "answer": 2,
+          "translation": "「Il est fort comme un lion」是什么意思？",
+          "explain": "这是固定比喻，整体表示「非常强壮」，不是把人和某只狮子做真实比较；因此不能按字面理解。fort comme un lion 的喻体固定，重点在程度。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c24-lexical-constructions-l4-2",
+      "title": "固定比喻、谚语与指示词色彩（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c24-lexical-constructions-l4-q7",
+          "type": "choice",
+          "prompt": "Dans quelle phrase la comparaison est-elle une comparaison figée qui exprime une caractéristique, et non une comparaison réelle entre deux objets ?",
+          "options": [
+            "Le chat est noir comme le chat de ma voisine.",
+            "Mon frère est grand comme mon père.",
+            "Cette valise est lourde comme celle de Paul.",
+            "Après la course, il était rouge comme une tomate."
+          ],
+          "answer": 3,
+          "translation": "哪一句中的比较是表达特征的固定比喻，而不是两个对象之间的真实比较？",
+          "explain": "rouge comme une tomate 是固定比喻，整体表示「非常红」；其余三句都把两个同类对象放在一起做真实比较：猫与邻居的猫、兄弟与父亲、箱子与保罗的箱子。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l4-q8",
+          "type": "choice",
+          "prompt": "Que signifie « Quand le chat n'est pas là, les souris dansent » ?",
+          "options": [
+            "On profite de l'absence d'une autorité pour faire ce qu'on veut.",
+            "Les souris aiment danser quand le chat dort.",
+            "Les chats et les souris peuvent devenir amis.",
+            "Il faut fermer la porte pour empêcher les souris d'entrer."
+          ],
+          "answer": 0,
+          "translation": "「Quand le chat n'est pas là, les souris dansent」是什么意思？",
+          "explain": "谚语按整体比喻义理解：猫代表管束者或权威，老鼠代表被管束者；当权威不在，下面的人就趁机自由行动。字面「老鼠跳舞」只是形象，不是真正讨论老鼠。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l4-q9",
+          "type": "choice",
+          "prompt": "Quel proverbe exprime l'idée qu'il ne faut pas se réjouir avant la réussite ?",
+          "options": [
+            "Petit à petit, l'oiseau fait son nid.",
+            "L'habit ne fait pas le moine.",
+            "Il ne faut pas vendre la peau de l'ours avant de l'avoir tué.",
+            "Après la pluie, le beau temps."
+          ],
+          "answer": 2,
+          "translation": "哪句谚语对应「未成功之前不要先高兴」这个意思？",
+          "explain": "「熊还没打死就卖熊皮」正是说事情尚未成功，不要过早高兴或作出承诺。其余三项分别表示循序渐进、不能以貌取人、困难后会有好转。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l4-q10",
+          "type": "choice",
+          "prompt": "Sophie met un peu d'argent de côté chaque semaine ; au bout de deux ans, elle a assez pour son voyage. Quel proverbe illustre sa méthode ?",
+          "options": [
+            "Il ne faut pas vendre la peau de l'ours avant de l'avoir tué.",
+            "L'habit ne fait pas le moine.",
+            "Petit à petit, l'oiseau fait son nid.",
+            "Mieux vaut tard que jamais."
+          ],
+          "answer": 2,
+          "translation": "索菲每周存一点钱；两年后，她攒够了旅行的钱。哪句谚语说明她的方法？",
+          "explain": "每周存一点，最后攒够旅行费用，正是「小鸟一点点筑巢」所表达的积少成多。其余三项分别讲不要过早高兴、不能以貌取人、迟做总比不做好。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l4-q11",
+          "type": "choice",
+          "prompt": "Dans « J'ai lu un article passionnant ; cet article m'a donné envie de visiter le Japon », que fait le démonstratif « cet » ?",
+          "options": [
+            "Il reprend un article déjà mentionné.",
+            "Il désigne l'article que le locuteur montre du doigt.",
+            "Il annonce un article qui sera précisé plus loin.",
+            "Il exprime une opinion négative sur l'article."
+          ],
+          "answer": 0,
+          "translation": "在「J'ai lu un article passionnant ; cet article m'a donné envie de visiter le Japon」中，指示限定词 « cet » 起什么作用？",
+          "explain": "cet article 回指前文已经提到的 un article，是回指。它不是现场指认，因为文章不在说话现场被指着；也不是预指，因为后面没有关系从句或说明来指定所指；句中也没有评价色彩。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-l4-q12",
+          "type": "choice",
+          "prompt": "Dans « Ce voisin est vraiment insupportable ! », quelle remarque sur le démonstratif « ce » est correcte ?",
+          "options": [
+            "Il exprime à lui seul une attitude négative.",
+            "Il prend une couleur négative sous l'effet du contexte, notamment de l'adjectif et de l'intonation.",
+            "Il renvoie à un voisin déjà mentionné.",
+            "Il annonce une précision qui suit."
+          ],
+          "answer": 1,
+          "translation": "在「Ce voisin est vraiment insupportable !」中，关于指示限定词 « ce » 的哪条说法正确？",
+          "explain": "ce 本身不固定表示贬义；这里的否定色彩来自 insupportable 和感叹语调。句中前面没有已提到的 voisin，后面也没有预指成分，因此回指和预指都不成立。"
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "pub-c24-lexical-constructions-x1",
+      "title": "词汇综合：派生、反义与 avoir 搭配",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c24-lexical-constructions-x1-q1",
+          "type": "letters",
+          "prompt": "Ce blessé est resté ___ pendant des semaines : il ne pouvait pas bouger. (adjectif formé avec un préfixe négatif)",
+          "answer": "immobile",
+          "decoys": [
+            "a",
+            "t",
+            "u"
+          ],
+          "translation": "这名伤员几周里一直___：他不能动。",
+          "explain": "mobile 的否定形式由 in- 构成；因后接 m，in- 同化为 im-，写作 immobile（双 m）。不能写成 inmobile。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x1-q2",
+          "type": "choice",
+          "prompt": "Ce verbe ne suit pas la règle : il est ___.",
+          "options": [
+            "inrégulier",
+            "irrégullier",
+            "irrégulier",
+            "illrégulier"
+          ],
+          "answer": 2,
+          "translation": "这个动词不遵循规则：它是___的。",
+          "explain": "régulier 前加否定前缀 in-，因后接 r 同化为 ir-，写作 irrégulier（双 r）。inrégulier 没有同化；irrégullier 多了一个 l；illrégulier 用错了同化形式。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x1-q3",
+          "type": "choice",
+          "prompt": "Il est ___ : il fait tomber tout ce qu'il touche.",
+          "options": [
+            "maladroit",
+            "maladroi",
+            "inmaladroit",
+            "démaladroit"
+          ],
+          "answer": 0,
+          "translation": "他___：碰到什么就打翻什么。",
+          "explain": "adroit 的反义形容词是 maladroit，用 mal- 前缀；mal- 不参与 in- 系列的同化，也不能换成 in- 或 dé-。拼写结尾是 -t：maladroit。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x1-q4",
+          "type": "choice",
+          "prompt": "La porte est ___ : on peut entrer.",
+          "options": [
+            "fermée",
+            "ouverte",
+            "pleine",
+            "lourde"
+          ],
+          "answer": 1,
+          "translation": "门___：可以进去。",
+          "explain": "ouvert / fermé 是词汇性反义配对，不靠否定前缀构成；porte 是阴性单数，形容词用 ouverte。fermée 与「可以进去」矛盾；pleine 和 lourde 与门的开关状态无关。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x1-q5",
+          "type": "choice",
+          "prompt": "Il travaille ___ : il abat en une journée ce que ses collègues font en trois.",
+          "options": [
+            "peu",
+            "beaucoup",
+            "tard",
+            "loin"
+          ],
+          "answer": 1,
+          "translation": "他工作___：他一天干的活，同事们要三天才做完。",
+          "explain": "beaucoup（多）与 peu（少）是数量副词反义配对；后半句说他一天完成的活相当于同事三天的工作量，说明工作量大。tard 表时间晚，loin 表距离远，都不符合。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x1-q6",
+          "type": "choice",
+          "prompt": "Elle est ___ et elle conduit ___.",
+          "options": [
+            "vite / rapide",
+            "rapide / rapide",
+            "rapide / vite",
+            "vite / vite"
+          ],
+          "answer": 2,
+          "translation": "她___，开起车来也___。",
+          "explain": "elle est 后需要形容词 rapide；conduire 是动词，需要副词 vite。vite 没有同族形容词，不能作表语；rapide 是形容词，不能直接修饰动词 conduire。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x1-q7",
+          "type": "choice",
+          "prompt": "Éteins le chauffage, s'il te plaît : nous avons ___.",
+          "options": [
+            "faim",
+            "soif",
+            "sommeil",
+            "chaud"
+          ],
+          "answer": 3,
+          "translation": "请关掉暖气：我们___。",
+          "explain": "avoir chaud 是固定表达，chaud 前不用冠词；关暖气的请求说明说话人觉得热。faim、soif、sommeil 分别表示饿、渴、困。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x1-q8",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre pour dire que les genoux font mal : mal / Il / a / aux / genoux.",
+          "answer": [
+            "Il",
+            "a",
+            "mal",
+            "aux",
+            "genoux."
+          ],
+          "bank": [
+            "Il",
+            "a",
+            "mal",
+            "aux",
+            "genoux.",
+            "au",
+            "à les",
+            "genou"
+          ],
+          "translation": "把词重新排序，表达「他膝盖疼」。",
+          "explain": "avoir mal à 加身体部位；genoux 是阳性复数，à + les 缩合为 aux。au 是 à + le，只用于阳性单数；à les 不能保留；genou 是单数，与 genoux 不符。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x1-q9",
+          "type": "choice",
+          "prompt": "La chambre a quatre mètres ___.",
+          "options": [
+            "de large",
+            "large",
+            "de larges",
+            "en large"
+          ],
+          "answer": 0,
+          "translation": "这个房间有四米___。",
+          "explain": "avoir + 数词 + 度量名词 + de + 形容词：avoir quatre mètres de large（宽四米）。de 引出尺寸说明，不是部分冠词；large 不随 mètres 变成复数；en large 不是尺寸表达。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x1-q10",
+          "type": "choice",
+          "prompt": "J'ai ___ d'aide pour finir ce travail.",
+          "options": [
+            "envie",
+            "peur",
+            "faim",
+            "besoin"
+          ],
+          "answer": 3,
+          "translation": "要完成这项工作，我___帮助。",
+          "explain": "avoir besoin de 是固定表达，表示需要；这里要完成工作，缺少的是帮助。envie 表愿望，peur 表害怕，faim 表饿，都不符合。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c24-lexical-constructions-x2-1",
+      "title": "搭配与表达风格综合：短语、比喻与谚语（1）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c24-lexical-constructions-x2-q1",
+          "type": "choice",
+          "prompt": "___, la plupart des gens réservent leurs billets en ligne.",
+          "options": [
+            "À l'heure actuelle",
+            "De bonne heure",
+            "Tout à l'heure",
+            "À l'heure"
+          ],
+          "answer": 0,
+          "translation": "___，大多数人都在网上订票。",
+          "explain": "à l'heure actuelle 表示「目前、当前」，指说话时刻的现状。de bonne heure 表示「很早」；tout à l'heure 表示「刚才」或「待会儿」；à l'heure 表示「准时」。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x2-q2",
+          "type": "choice",
+          "prompt": "___, les musées ferment à dix-huit heures ; celui-ci reste ouvert jusqu'à vingt et une heures, exceptionnellement.",
+          "options": [
+            "Par hasard",
+            "De bonne heure",
+            "En général",
+            "À l'heure"
+          ],
+          "answer": 2,
+          "translation": "___，博物馆十八点关门；这一家例外，开到二十一点。",
+          "explain": "en général 概括总体情况，与 exceptionnellement 标出的例外形成对比。par hasard 表偶然；de bonne heure 表很早；à l'heure 表准时，不能概括一般规律。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x2-q3",
+          "type": "choice",
+          "prompt": "Je ne peux pas te parler maintenant ; je t'appelle ___, après le dîner.",
+          "options": [
+            "à l'heure actuelle",
+            "de bonne heure",
+            "à l'heure",
+            "tout à l'heure"
+          ],
+          "answer": 3,
+          "translation": "我现在不能跟你说话；我___给你打电话，晚饭后。",
+          "explain": "tout à l'heure 表示「待会儿」或「刚才」，这里指晚饭后。à l'heure actuelle 是「目前」；de bonne heure 是「很早」；à l'heure 是「准时」。具体指向由时态和语境决定。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x2-q4",
+          "type": "choice",
+          "prompt": "Elle prépare le dîner ___ qu'elle écoute la radio.",
+          "options": [
+            "à l'heure",
+            "par hasard",
+            "en même temps",
+            "de bonne heure"
+          ],
+          "answer": 2,
+          "translation": "她听收音机，___做晚饭。",
+          "explain": "en même temps 表示两件事同时发生，常与 que 连用：en même temps qu'elle écoute la radio。à l'heure 表准时；par hasard 表偶然；de bonne heure 表很早。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x2-q5",
+          "type": "choice",
+          "prompt": "En sortant de la gare, vous verrez la poste ___, juste après la banque.",
+          "options": [
+            "à l'envers",
+            "sur la droite",
+            "au soleil",
+            "en noir et blanc"
+          ],
+          "answer": 1,
+          "translation": "出火车站后，您会看到邮局___，就在银行过去一点。",
+          "explain": "sur la droite 是词汇化状态短语，表示「在右边」。à l'envers 表颠倒；au soleil 表在阳光下；en noir et blanc 表黑白。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x2-q6",
+          "type": "choice",
+          "prompt": "Le temps change beaucoup ___ dans cette région.",
+          "options": [
+            "l'un de l'autre",
+            "d'un jour à l'autre",
+            "l'un ou l'autre",
+            "ni l'un ni l'autre"
+          ],
+          "answer": 1,
+          "translation": "在这个地区，天气___变化很大。",
+          "explain": "d'un...à l'autre 表示同类事物逐一对应或逐日变化；jour 是阳性，用 d'un jour à l'autre。l'un de l'autre 表相互；l'un ou l'autre 表选择；ni l'un ni l'autre 表两者都不。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c24-lexical-constructions-x2-2",
+      "title": "搭配与表达风格综合：短语、比喻与谚语（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c24-lexical-constructions-x2-q7",
+          "type": "choice",
+          "prompt": "J'ai proposé deux projets ; ___ ne convient au directeur.",
+          "options": [
+            "L'un ou l'autre",
+            "L'un à l'autre",
+            "Ni l'un ni l'autre",
+            "Ni l'une ni l'autre"
+          ],
+          "answer": 2,
+          "translation": "我提出了两个项目；___不适合经理。",
+          "explain": "deux projets 是阳性，用 ni l'un ni l'autre；ne...ni...ni 否定两者。ni l'une ni l'autre 是阴性形式；l'un ou l'autre 表二选一；l'un à l'autre 表相互，不能作主语。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x2-q8",
+          "type": "choice",
+          "prompt": "Il est ___ comme un renard.",
+          "options": [
+            "lent",
+            "rusé",
+            "bavard",
+            "fier"
+          ],
+          "answer": 1,
+          "translation": "他___得像狐狸。",
+          "explain": "renard 的固定属性是 ruse（狡猾），形容词用 rusé；tortue 对应 lent，pie 对应 bavard，paon 对应 fier。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x2-q9",
+          "type": "choice",
+          "prompt": "Les deux sœurs sont restées ___ comme des carpes.",
+          "options": [
+            "muet",
+            "muette",
+            "muets",
+            "muettes"
+          ],
+          "answer": 3,
+          "translation": "两姐妹___得像鲤鱼。",
+          "explain": "muet 要与主语 les deux sœurs（阴性复数）配合，用 muettes；carpe 的固定属性是沉默。喻体 des carpes 是复数，但形容词只与主语配合。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x2-q10",
+          "type": "choice",
+          "prompt": "Que signifie « L'habit ne fait pas le moine » ?",
+          "options": [
+            "On ne doit pas juger une personne sur son apparence.",
+            "Il faut porter des vêtements simples pour être respecté.",
+            "Les moines ne portent jamais d'habit.",
+            "L'apparence est plus importante que le caractère."
+          ],
+          "answer": 0,
+          "translation": "「L'habit ne fait pas le moine」是什么意思？",
+          "explain": "字面是「衣服不能造就修士」，整体义是「不能以貌取人」：外表不能说明一个人的真实品格。其余选项分别把谚语理解成穿衣建议、字面陈述或相反的意思。"
+        },
+        {
+          "id": "pub-c24-lexical-constructions-x2-q11",
+          "type": "choice",
+          "prompt": "Dans « Ce matin, j'ai reçu une lettre ; cette lettre venait de mon ancien professeur », que fait « cette » ?",
+          "options": [
+            "Il désigne une lettre que l'on montre du doigt.",
+            "Il annonce une lettre qui sera décrite plus loin.",
+            "Il reprend la lettre déjà mentionnée.",
+            "Il exprime un jugement négatif sur la lettre."
+          ],
+          "answer": 2,
+          "translation": "在「Ce matin, j'ai reçu une lettre ; cette lettre venait de mon ancien professeur」中，指示限定词 « cette » 起什么作用？",
+          "explain": "cette lettre 回指前文已经提到的 une lettre。它不是现场指认，因为信不在说话现场被指着；也不是预指，因为后面没有关系从句或说明来指定所指；句中没有评价色彩。"
+        }
+      ]
+    }
+  ]
+}

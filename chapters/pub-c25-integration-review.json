@@ -565,7 +565,7 @@
             "ceux que / écrits"
           ],
           "answer": 3,
-          "translation": "这位作者的小说比他弟弟写的更有趣。",
+          "translation": "这位作者的小说比他的兄弟写的更有趣。",
           "explain": "比较的第二项用指示代词回指 les romans（阳性复数），所以用 ceux；关系从句 que son frère a écrits 中，关系代词 que 作 écrire 的直接宾语，指 ceux（即 les romans），前置直接宾语要求过去分词配合，写成 écrits。celles 是阴性复数；ceux que / écrit 缺少配合；ce que 不能回指名词短语。"
         }
       ]
@@ -636,7 +636,7 @@
             "son"
           ],
           "translation": "到了之后，她发现自己之前忘了带钥匙。",
-          "explain": "副动词 en arrivant 的逻辑主语要与主句主语一致，都是 elle，表示「到达时」。代词式动词 s'apercevoir 的复合过去时用 être，过去分词与主语 elle 配合，写作 aperçue。发现的内容「忘带钥匙」发生在发现之前，用愈过去时 avait oublié。a oublié 是复合过去时，不能表示相对于 s'est aperçue 的先完成；这里要用 avait oublié。ses 与阴性复数 clés 配合；arrivé 没有构成副动词，aperçu 没有配合，son 与复数 clés 不配合。"
+          "explain": "副动词 en arrivant 的逻辑主语要与主句主语一致，都是 elle，表示「到达时」。代词式动词 s'apercevoir 的复合过去时用 être，过去分词与主语 elle 配合，写作 aperçue。发现的内容「忘带钥匙」发生在发现之前，用愈过去时 avait oublié。复合过去时 a oublié 不能表示相对于 s'est aperçue 的先完成；这里要用 avait oublié。ses 与阴性复数 clés 配合；arrivé 没有构成副动词，aperçu 没有配合，son 与复数 clés 不配合。"
         },
         {
           "id": "pub-c25-integration-review-x2-q4",

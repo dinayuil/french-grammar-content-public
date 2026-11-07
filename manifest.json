@@ -26,10 +26,11 @@
     "chapters/pub-c22-aspect-modality.json",
     "chapters/pub-c23-discourse-markers.json",
     "chapters/pub-c24-lexical-constructions.json",
+    "chapters/pub-c25-integration-review.json",
     "chapters/pub-predication.json",
     "chapters/pub-articles.json",
     "chapters/pub-agreement.json"
   ],
-  "expectedChapterCount": 27,
-  "expectedQuestionCount": 3875
+  "expectedChapterCount": 28,
+  "expectedQuestionCount": 3917
 }

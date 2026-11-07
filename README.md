@@ -1,6 +1,6 @@
 # 公开原创题库
 
-这是应用使用的公开原创题库仓库。当前为 24 章、3586 题，配有讲解卡、练习与综合挑战。第 1–21 章（`pub-c01-boundaries`—`pub-c21-reported-speech`）是新课程，按 5 阶段大纲递进；旧三章 `pub-predication`、`pub-articles`、`pub-agreement` 为既有公开内容，尚未按新课程重组。完整语法覆盖仍在建设中，全部内容尚待人工法语审校。
+这是应用使用的公开原创题库仓库。当前为 25 章、3846 题，配有讲解卡、练习与综合挑战，覆盖完整的 5 阶段大纲（C01—C25）。全部内容尚待人工法语审校。
 
 内容已经过 AI 编写及独立 AI 复核，尚待人工法语审校；技术检查和 AI 复核不构成原创性、版权或教学质量认证。
 
@@ -33,13 +33,13 @@
     "chapters/pub-c18-verb-complements.json",
     "chapters/pub-c19-subjunctive.json",
     "chapters/pub-c20-complex-sentences.json",
-    "chapters/pub-c21-reported-speech.json",
-    "chapters/pub-predication.json",
-    "chapters/pub-articles.json",
-    "chapters/pub-agreement.json"
+    "chapters/pub-c22-aspect-modality.json",
+    "chapters/pub-c23-discourse-markers.json",
+    "chapters/pub-c24-lexical-constructions.json",
+    "chapters/pub-c25-integration-review.json"
   ],
-  "expectedChapterCount": 24,
-  "expectedQuestionCount": 3586
+  "expectedChapterCount": 25,
+  "expectedQuestionCount": 3846
 }
 ```
 

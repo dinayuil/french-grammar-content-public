@@ -23,10 +23,11 @@
     "chapters/pub-c19-subjunctive.json",
     "chapters/pub-c20-complex-sentences.json",
     "chapters/pub-c21-reported-speech.json",
+    "chapters/pub-c22-aspect-modality.json",
     "chapters/pub-predication.json",
     "chapters/pub-articles.json",
     "chapters/pub-agreement.json"
   ],
-  "expectedChapterCount": 24,
-  "expectedQuestionCount": 3586
+  "expectedChapterCount": 25,
+  "expectedQuestionCount": 3701
 }

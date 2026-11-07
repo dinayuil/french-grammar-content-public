@@ -1,0 +1,1998 @@
+{
+  "id": "pub-c23-discourse-markers",
+  "title": "语篇衔接与话语标记",
+  "titleFr": "La cohésion du discours et les marqueurs",
+  "cards": [
+    {
+      "id": "pub-c23-discourse-markers-card-u1-1",
+      "title": "顺序标记：d'abord、ensuite、enfin",
+      "body": "<p><strong>顺序标记</strong>（marqueurs d'ordre）是一组用来说明步骤或叙述阶段先后的副词和副词短语，属于<strong>话语标记</strong>（marqueur du discours，用来组织话语、标明句子之间关系的词或短语）。它们告诉读者「这是第一步」「这是接着的一步」「这是最后一步」，因此不能只看句子内容猜顺序。</p><p>常见的三步组合是：<strong>d'abord</strong>（首先）、<strong>ensuite</strong> 或 <strong>puis</strong>（然后）、<strong>enfin</strong>（最后）。这些标记常放在句首，后面加逗号；puis 也常放在句中，连接两个动作。</p><ul><li>D'abord, lavez les légumes. Ensuite, coupez-les en morceaux. Enfin, faites-les cuire dix minutes.（首先洗蔬菜。然后切成块。最后煮十分钟。）</li><li>Elle a d'abord ouvert les volets, puis elle a préparé le café, et enfin elle est sortie.（她先打开百叶窗，然后煮咖啡，最后出门。）</li></ul><p>在叙述里，顺序标记还可以配合时间推进：D'abord, le guide a présenté le château ; ensuite, il a montré la tour ; enfin, il a répondu aux questions.（导游先介绍城堡，然后带大家看塔楼，最后回答问题。）</p><p>注意：enfin 除了表示「最后一步」，还可以表示「终于」，带有等待之后的松一口气；判断时要看它是否在收束一组步骤。d'abord 和 ensuite 的位置也不能对调，否则步骤顺序会被读反。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u1-2",
+      "title": "soudain：突如其来的事件",
+      "body": "<p><strong>soudain</strong>（突然）是引出突发事件的话语标记：它标出一个出乎意料、打断正在进行的情况的事件。它常居句首，并用逗号与后面的句子隔开。</p><ul><li>La salle était calme. Soudain, une alarme a retenti.（大厅很安静。突然，警报响了。）</li><li>Nous dînions tranquillement quand, soudain, quelqu'un a frappé à la porte.（我们正安静地吃晚饭，突然有人敲门。）</li><li>Tout à coup, la lumière s'est éteinte.（突然间，灯灭了。）</li></ul><p><strong>tout à coup</strong> 与 soudain 意思接近，也常放在句首。</p><p>soudain 只负责「突然、意外」，不表示原因、结果或结论。若后一件事是前一件事的自然结果或下一步，应该用 alors、donc 或 ensuite，而不是 soudain。</p><p>注意：soudain 引出的通常是完成的事件，而不是持续的背景；如果句子里是描写状态，要检查它是否真的表示「突然发生」。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u1-3",
+      "title": "en effet：证实前文",
+      "body": "<p><strong>en effet</strong>（确实、的确）用来证实或解释前一句已经陈述的事实。它把第二句变成对第一句的支持：先给一个判断，再说明为什么这个判断成立。它常居句首，并以逗号隔开。</p><ul><li>La route était fermée. En effet, un arbre était tombé pendant la nuit.（道路封闭了。确实，夜里有一棵树倒了。）</li><li>Le musée est fermé le lundi ; en effet, le gardien m'a confirmé que les portes restaient fermées ce jour-là.（博物馆周一闭馆；守门人确实向我确认了那天门不开。）</li></ul><p>方向很重要：en effet 回指前文，用后句证实前句；<strong>donc</strong> 则相反，它从前文推出后句的结论。比较：Il pleuvait ; donc nous sommes restés.（下雨了，所以我们留下了。）/ Nous sommes restés ; en effet, il pleuvait.（我们留下了；确实，当时在下雨。）</p><p>注意：en effet 不是单纯的原因连词，也不是用来引出新结果的连词。若后句是决定、后果或下一步，应优先考虑 donc、alors 等。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u1-4",
+      "title": "pourtant：与预期相反的转折",
+      "body": "<p><strong>pourtant</strong>（然而、却）表示后文的事实与前文引出的预期相反。它可居句首并用逗号隔开，也可放在句中，常见位置是变位动词后，或助动词与过去分词之间；否定句中常在助动词与 pas 之间。</p><ul><li>Le musée est gratuit aujourd'hui. Pourtant, il y a très peu de visiteurs.（博物馆今天免费。然而参观者很少。）</li><li>La machine est vieille ; elle fonctionne pourtant parfaitement.（机器很旧，却运转得很好。）</li><li>Il avait beaucoup travaillé ; il n'a pourtant pas réussi.（他付出了很多努力，却没有成功。）</li></ul><p>pourtant 是<strong>副词</strong>，不是连词：它不能像 mais 那样不停顿地把两个分句直接粘在一起。书写时要用句号、分号或逗号把两部分隔开，并注意句首的逗号。</p><p>与 <strong>par contre</strong> 相比，pourtant 更强调「与预期相反」；par contre 只是把另一面摆出来对照。与 <strong>donc</strong> 相比，pourtant 的方向正相反：donc 引出结果，pourtant 引出与预期不符的事实。</p><p>注意：如果后句只是前句的自然结果（下雨→带伞），不能用 pourtant；这时应该用 donc、alors 或 c'est pourquoi。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u1-5",
+      "title": "par contre：对照另一面",
+      "body": "<p><strong>par contre</strong>（相反、另一方面）用来引出与前一句相对照的另一面。它常居句首，并以逗号隔开，把两种情况下不同的表现并排放在一起。</p><ul><li>Le centre-ville est très animé le soir. Par contre, les rues sont presque vides le matin.（市中心晚上很热闹。相反，早上街道几乎空无一人。）</li><li>Ce logement est bon marché ; par contre, il est assez loin du centre.（这套住房便宜；不过它离市中心相当远。）</li></ul><p>par contre 表示的是<strong>对照</strong>：前句说一面，后句说另一面。它不表示追加（「也」），也不表示原因或结果。读到 par contre 时，可以先问：前面说的是哪一面？后面换成了哪一面？</p><p>它和 pourtant 都属于转折类表达，但重点不同：pourtant 强调后文与前文预期相反；par contre 更中性，只是把另一面摆出来对照。</p><p>注意：par contre 不是连词，不能不停顿地直接连接两个分句；句首使用时不要漏掉逗号。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u1-6",
+      "title": "alors 与 donc：后果、决定与结论",
+      "body": "<p><strong>alors</strong>（于是、那么）引出后果、决定或叙述的下一步，常居句首；口语中也可用作话语标记。它把前文当作已经成立的前提，然后说出接下来发生的事或作出的选择。</p><ul><li>Il n'y avait plus de bus après vingt-deux heures. Alors, nous avons pris un taxi.（二十二点以后没有公交车了。于是我们打了车。）</li><li>Le conférencier a terminé sa dernière phrase. Alors, le public s'est levé.（演讲者说完最后一句话。于是听众站了起来。）</li><li>Alors, qu'est-ce qu'on fait ce soir ?（那么，今晚我们做什么？）——口语中的话语标记。</li></ul><p><strong>donc</strong>（因此、所以）是结果连词，引出从前文推得的结果或结论，推理色彩更强。它可放在变位动词后（Il accepte donc.，他因此接受），也可放在句首（口语：Donc, nous partons.，那么，我们走吧），还可放在助动词与过去分词之间（Il a donc accepté. / Il a donc dû rentrer.，他因此接受了／他因此不得不回去）。</p><p>两者的侧重点不同：alors 更偏「接下来／因此就这样」，可以只是叙述的下一步；donc 更偏严格的逻辑推断。alors 不强调意外性：突发事件用 soudain 或 tout à coup。</p><p>注意：alors 还可表示「当时」（Il était alors étudiant），那是时间副词用法，不是本卡的后果义；判断时看前文是原因、前提，还是一连串事件中的一步，不要只按中文「然后」机械对应。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u2-1",
+      "title": "d'une part... d'autre part：分层列举",
+      "body": "<p><strong>d'une part... d'autre part</strong>（一方面……另一方面）是一对<strong>分层列举</strong>的关联短语，用来组织两个并列的理由、论点或方面。d'une part 引出第一方面，d'autre part 引出第二方面。</p><ul><li>D'une part, le quartier est calme ; d'autre part, les transports sont proches.（一方面，街区安静；另一方面，交通方便。）</li><li>D'une part, ce poste offre un bon salaire ; d'autre part, il permet de travailler à distance.（一方面，这个职位薪水不错；另一方面，它可以远程工作。）</li></ul><p>两部分通常成对出现：先有 d'une part，再有 d'autre part。第二方面短语不能单独冒充第一方面；如果文章一开头就写 d'autre part，读者会以为前面已经有过第一方面。两部分可以放在同一句里用分号隔开，也可以分两句写。</p><p>注意：这对短语组织的是并列的两方面，不是「与预期相反」的转折。若两部分确实形成反差，可以用 pourtant 或 par contre 另作强调，但 d'une part... d'autre part 本身的功能是先分层、再列举。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u2-2",
+      "title": "aussi：追加前项情况",
+      "body": "<p><strong>aussi</strong>（也、此外）表示前项所说的情况同样适用于新的对象或新增一项。它可放在主语后、动词后，或句末的相关位置；位置变化会带来强调重点的差别。</p><ul><li>Paul parle anglais. Sa sœur parle aussi anglais.（保罗说英语。他妹妹也说英语。）</li><li>Elle chante très bien et elle joue aussi du piano.（她唱歌很好，也弹钢琴。）</li><li>— J'aime beaucoup ce film. — Moi aussi.（——我很喜欢这部电影。——我也是。）</li></ul><p>在<strong>肯定</strong>语境中，追加用 aussi；在<strong>否定</strong>语境中，对应的追加表达是 <strong>non plus</strong>：Je n'aime pas ce film. — Moi non plus.（我不喜欢这部电影。——我也不喜欢。）</p><p>不要把 aussi 与 <strong>aussi... que</strong> 的比较结构混淆：Elle est aussi grande que son frère.（她和她哥哥一样高。）这里的 aussi 表示「同样地」，不是追加一项。</p><p>注意：句首单独使用 Aussi 可以表示「因此」，那是另一种用法；表示「也」时，aussi 通常不放在句首来引出追加。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u3-1",
+      "title": "déjà 与 encore：已经与仍然",
+      "body": "<p>déjà（已经）和 encore（仍然）都从<strong>时间</strong>角度描述动作，但观察方向不同：déjà 说明动作在参照时间之前<strong>已经实现</strong>；encore 说明动作或状态<strong>持续到现在</strong>，尚未结束。</p><ul><li>Il a déjà mangé.（他已经吃过了。）——动作已完成。</li><li>Il mange encore.（他还在吃。）——动作仍在持续。</li><li>Elle est déjà partie.（她已经走了。）/ Elle est encore là.（她还在这里。）</li></ul><p>déjà 常与复合过去时连用，放在助动词与过去分词之间：Il a déjà vu ce film.（他已经看过这部电影。）encore 表示「仍然」时通常放在动词后；在复合过去时中，短副词也放在助动词与分词之间，但此时 encore 常表示「又、再次」，要根据语境判断：Il a encore oublié ses clés.（他又忘了钥匙。）</p><p>注意：déjà 和 encore 的否定并不是简单地在前面加 ne...pas；它们各自有固定的否定对应形式，见下一张。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u3-2",
+      "title": "否定对应：pas encore 与 ne...plus",
+      "body": "<p>déjà 的否定对应是 <strong>ne...pas encore</strong>（尚未、还没有）；encore（仍然）的否定对应是 <strong>ne...plus</strong>（不再）。选择取决于动作是「尚未实现」还是「已经停止持续」。</p><ul><li>Il a déjà fini. → Il n'a pas encore fini.（他已经完成了。→ 他还没有完成。）</li><li>Elle travaille encore ici. → Elle ne travaille plus ici.（她还在这里工作。→ 她不再在这里工作了。）</li><li>Nous avons déjà acheté des billets. → Nous n'avons pas encore acheté de billets.（我们已经买了票。→ 我们还没有买票。）</li><li>Il écrit encore à ses amis. → Il n'écrit plus à ses amis.（他仍然给朋友写信。→ 他不再给朋友写信了。）</li></ul><p>在复合过去时中，ne...pas encore 和 ne...plus 都夹住助动词：je n'ai pas encore fini、après 2015, il n'a plus travaillé ici。encore 在否定中紧跟在 pas 后面，不能写成 ne...encore pas。</p><p>如果动词带有直接宾语，绝对否定还会把不定冠词或部分冠词改成 de：Elle n'a plus d'amis.（她不再有朋友。）/ Nous n'avons pas encore de billets.（我们还没有票。）定冠词和主有形容词则保留：Je n'aime pas le café. / Il n'a pas son parapluie.</p><p>判断顺序：先问动作是否已经发生——没有发生用 pas encore；再问某状态是否仍在持续——不再持续用 plus。pas encore 暗示以后可能发生；plus 暗示此前存在、现在结束。两者不能互换。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u3-3",
+      "title": "频率副词的否定：并非总是与从不",
+      "body": "<p>频率副词（toujours、souvent、parfois 等，表示动作发生频率的词）进入否定时，否定范围会改变意义。最常见的是 toujours 的两条否定路径：</p><ul><li><strong>ne...pas toujours</strong> = 并非总是（部分否定）：Il n'est pas toujours en retard.（他并非总是迟到。）</li><li><strong>ne...jamais</strong> = 从不（绝对否定）：Il n'est jamais en retard.（他从不迟到。）</li></ul><p>souvent 的部分否定是 ne...pas souvent（不常）：Elle ne va pas souvent au cinéma.（她不常去电影院。）若要表达「从不」，则用 ne...jamais，并删去 souvent：Elle ne va jamais au cinéma.（她从不去电影院。）parfois（有时）在否定中通常转为 pas toujours 或 jamais，取决于说话人想否定部分还是全部。</p><p>位置：pas toujours、pas souvent 中，pas 紧接在变位动词后（复合过去时中在助动词后），频率副词在 pas 后：Il ne travaille pas toujours.（他并非总是工作。）/ Il n'a pas toujours travaillé ici.（他并非一直在这里工作。）简单时态中 jamais 占据 pas 的位置；复合过去时中位于助动词后、过去分词前：Il ne travaille jamais.（他从不工作。）/ Il n'a jamais travaillé ici.（他从未在这里工作过。）</p><p>注意：pas toujours 是「并非总是」，不是「仍然不」；后者是 ne...toujours pas，词序不同，见下一张。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u3-4",
+      "title": "ne...toujours pas：持续到现在的否定（识别）",
+      "body": "<p>这种<strong>持续否定</strong>（ne...toujours pas）表示「仍然不、还没有」，否定从过去某时一直持续到现在。这里的 toujours 位于 pas 之前，和 pas toujours（并非总是）词序相反，意义也不同。</p><ul><li>Elle n'est toujours pas arrivée.（她仍然没有到。）——等待持续到现在。</li><li>Il ne travaille toujours pas le samedi.（他星期六仍然不工作。）——这个安排持续到现在。</li><li>Je n'ai toujours pas compris.（我还是没明白。）</li></ul><p>对比：Il ne travaille pas toujours le samedi.（他并非每个星期六都工作。）——只否定频率，不表示「仍然不」。Il ne travaille toujours pas le samedi.（他星期六仍然不工作。）——否定持续。</p><p>识别时看两点：toujours 是在 pas 前还是 pas 后；句子是否强调「从过去持续到现在」。学习时重点是辨认词序和意义，避免与 pas toujours 混淆。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u3-5",
+      "title": "否定附和：non plus 与重读代词",
+      "body": "<p>对否定陈述表示「也不」，用 <strong>non plus</strong>，前面按人称使用<strong>重读代词</strong>（moi、toi、lui、elle、nous、vous、eux、elles）。对肯定陈述表示「也」，才用 aussi。</p><ul><li>— Je n'aime pas ce film. — Moi non plus.（——我不喜欢这部电影。——我也不喜欢。）</li><li>— Nous n'avons pas de voiture. — Eux non plus.（——我们没有车。——他们也没有。）</li><li>Paul n'est pas venu. Son frère n'a pas pu venir. → Lui non plus n'a pas pu venir.（保罗没来。他哥哥也没能来。→ 他也没能来。）</li></ul><p>non plus 可以单独作回答（Moi non plus.），也可以放在重读代词后继续句子，但前面必须已经有一个关于另一个对象的否定：Paul n'a pas de temps. Et son frère ? — Lui non plus n'a pas de temps. 这时后面的否定仍要完整：ne...pas。不要写成 Il non plus（主语代词不能直接接 non plus），也不要写成 Moi pas non plus。</p><p>注意：non plus 本身不是否定副词 ne...pas 的一部分；它只表示「也不」，句中的否定仍由 ne...pas、ne...plus 等承担。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u3-6",
+      "title": "pas du tout 与 plus du tout：一点也不与一点也不再",
+      "body": "<p><strong>pas du tout</strong> 表示完全否定「一点也不」，只强调程度，不涉及此前是否存在；<strong>plus du tout</strong> 表示「一点也不再」，用于此前存在、现在完全消失的状态或动作。</p><ul><li>Je n'aime pas du tout ce film.（我一点也不喜欢这部电影。）——现在完全不喜欢。</li><li>J'aimais ce film, mais je ne l'aime plus du tout.（我以前喜欢这部电影，但现在一点也不喜欢了。）——此前喜欢，现在完全消失。</li><li>Il n'y a pas du tout de bruit.（一点噪音也没有。）</li><li>Avant, il y avait un cinéma ici ; il n'y en a plus du tout.（以前这里有电影院；现在一家也没有了。）</li></ul><p>位置：ne + 动词 + pas du tout / plus du tout。复合过去时中，pas du tout 放在助动词与过去分词之间：Il n'a pas du tout aimé ce film.（他一点也不喜欢这部电影。）plus du tout 常与现在时连用，表示此前存在的状态现已完全消失：Elle n'a plus du tout envie de sortir.（她现在一点也不想出门了。）</p><p>判断：如果句子有「以前有、现在没有」的对比，用 plus du tout；如果只是强调现在完全没有，用 pas du tout。不要把 plus du tout 与表示频率的 pas toujours 混用。</p><p>注意：在本章的结构里，du tout 依附于 pas 或 plus 构成否定，不要把它当作独立的否定词；plus du tout 与 pas du tout 的区别不在程度，而在是否包含「此前存在、现在消失」的时间对比。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u4-1",
+      "title": "副动词的构成与同主语要求",
+      "body": "<p><strong>副动词</strong>（gérondif）由 en 加<strong>现在分词</strong>（participe présent，由动词词干加 -ant 构成、形式不变的非变位形式）构成。它形式不变，但隐含的逻辑主语必须与主句主语一致。</p><p><strong>构成</strong>：取 nous 现在时去掉 -ons，再加 -ant：parler → nous parlons → parlant、arriver → nous arrivons → arrivant、finir → nous finissons → finissant、prendre → nous prenons → prenant、faire → nous faisons → faisant、boire → nous buvons → buvant。以 -ger、-cer 结尾的动词保留拼写变化：manger → nous mangeons → mangeant，commencer → nous commençons → commençant。不规则形式要单独记：être → étant、avoir → ayant、savoir → sachant。</p><ul><li>En arrivant à la gare, elle a cherché le quai.（到达车站时，她找站台。）</li><li>Il a appris le français en regardant des films.（他通过看电影学法语。）</li><li>Elle a évité cette erreur en faisant attention.（她注意细节，避免了那个错误。）</li></ul><p><strong>同主语</strong>：副动词隐含的动作执行者必须就是主句主语。En arrivant à la gare, elle a cherché le quai 中，到达和找站台的都是 elle。不能说 En arrivant à la gare, la pluie s'est mise à tomber，因为下雨的不是「到达车站的人」。遇到这种情况，改用 Quand je suis arrivé à la gare, la pluie... 或 Comme j'arrivais...。</p><p><strong>形式不变</strong>：副动词没有阴性、复数变化，不写 en arrivante、en arrivées；否定时 ne 紧跟在 en 后，pas（或 personne 等否定词）放在分词后：en ne faisant pas attention（不留心）、en ne prévenant personne（不通知任何人）。</p><p><strong>与现在分词区分</strong>：不带 en 的 -ant 形式是现在分词，可构成分词短语：Les enfants, jouant dans le jardin, ont oublié l'heure.（孩子们在花园里玩，忘了时间。）副动词则必须带 en。</p><p>注意：先确认主语能否执行副动词的动作，再检查形式；主语不一致时，改用连词从句。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u4-2",
+      "title": "时间、方式与原因：由语境判断",
+      "body": "<p>副动词可以表达<strong>同时</strong>、<strong>方式/手段</strong>或<strong>原因</strong>；同一个形式在不同语境里可以得到不同解读，判断依据是主句与副动词之间的意义关系。</p><p><strong>同时</strong>：两个动作在同一时间段发生，常可译为「……的时候」。</p><ul><li>En traversant la place, Camille a remarqué une petite librairie.（穿过广场时，卡米耶注意到一家小书店。）</li><li>Il écoute de la musique en travaillant.（他一边工作一边听音乐。）</li></ul><p><strong>方式/手段</strong>：副动词说明主语用什么方法完成主句动作，常可译为「通过……」。</p><ul><li>Elle a obtenu ce poste en préparant soigneusement son entretien.（她通过认真准备面试得到了这个职位。）</li><li>Il a appris le français en regardant des films.（他通过看电影学法语。）</li></ul><p><strong>原因</strong>：副动词交代主句动作的起因，常可译为「因为……」。</p><ul><li>En courant trop vite, il est tombé.（因为跑得太快，他摔倒了。）</li><li>En ne prévenant personne, elle a inquiété toute l'équipe.（因为没通知任何人，她让整个团队担心了。）</li></ul><p>判断顺序：先问副动词是不是主句动作发生的时间背景，再看它是不是说明「怎么做」，最后看它是不是解释「为什么」。如果主句是结果、副动词是起因，就是原因义；如果副动词描述完成主句动作所借助的手段，就是方式义。</p><p>注意：副动词不表示明确的先后完成。要表达「先……然后……」，用 après avoir + 过去分词，或改用连词从句；不要用副动词硬排事件顺序。</p>"
+    },
+    {
+      "id": "pub-c23-discourse-markers-card-u4-3",
+      "title": "条件义：识别「如果」的解读",
+      "body": "<p>副动词在语境支持时可以表达<strong>条件或假设</strong>，功能接近紧缩的 si 从句（由 si 引导的条件从句）。这类用法需要主句给出结果、建议或推断，副动词则提出实现该结果的条件。</p><ul><li>En prenant ce bus, vous arriverez plus tôt.（如果坐这趟公交车，您会更早到。）＝ Si vous prenez ce bus, vous arriverez plus tôt.</li><li>En révisant un peu chaque soir, tu réussiras.（如果每天晚上复习一点，你会成功。）</li><li>En partant plus tôt, nous aurions évité les embouteillages.（如果早点出发，我们本来能避开堵车。）</li></ul><p>识别要点：主句常是将来时、条件式（conditionnel，表示假设结果的动词形式）或祈使句；副动词提出的是一个<strong>尚未实现的条件</strong>，而不是已经发生的时间背景。把它改写成 si + 现在时（或相应时态）后，意思基本不变，就说明是条件义。</p><p>对比：En ouvrant la fenêtre, il a fait entrer un papillon.（他打开窗户时，一只蝴蝶飞了进来。）——动作已经发生，是时间关系，不是「如果打开窗户」。En travaillant un peu chaque jour, tu progresseras.（如果每天努力一点，你会进步。）——结果尚未发生，副动词提出条件。</p><p>注意：条件义不是副动词的默认解读。只有上下文明确支持「如果……」时，才这样理解；不要看到 en + 现在分词就一律判为条件。</p>"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "pub-c23-discourse-markers-l1-1",
+      "title": "顺序、突发、确认、转折与后果（1）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c23-discourse-markers-l1-q1",
+          "type": "choice",
+          "prompt": "Pour préparer cette soupe, ___, lavez les légumes ; ___, coupez-les en morceaux ; ___, faites-les cuire vingt minutes.",
+          "options": [
+            "ensuite / d'abord / enfin",
+            "d'abord / ensuite / enfin",
+            "enfin / ensuite / d'abord",
+            "d'abord / enfin / ensuite"
+          ],
+          "answer": 1,
+          "translation": "做这道汤时，___洗蔬菜；___把它们切块；___煮二十分钟。",
+          "explain": "三个空必须按同一组步骤链填写：d'abord 标第一步，ensuite 标接着的一步，enfin 标最后一步。做汤的实际顺序是洗菜、切块、煮，因此只能是 d'abord / ensuite / enfin。把 enfin 放在第一步会把「最后」读到「首先」的位置；ensuite 也不能出现在 d'abord 之前。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q2",
+          "type": "choice",
+          "prompt": "Le matin, elle a d'abord ouvert les volets, puis elle a préparé le café. ___, elle a pris son manteau et elle est sortie, comme chaque jour.",
+          "options": [
+            "Soudain",
+            "D'abord",
+            "Enfin",
+            "Pourtant"
+          ],
+          "answer": 2,
+          "translation": "早上，她先打开百叶窗，然后煮了咖啡。___，她拿起外套出门了，像每天一样。",
+          "explain": "前文已经用 d'abord... puis... 推出两个步骤，最后一步用 enfin 收束。d'abord 只能标第一步；soudain 要求出乎意料的事件，而 comme chaque jour 说明这是每天固定的收尾；pourtant 要求与预期相反，这里没有反差。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q3",
+          "type": "tiles",
+          "prompt": "Ajoutez les marqueurs d'ordre qui conviennent : lavez les légumes / coupez-les en morceaux / faites-les cuire vingt minutes.",
+          "answer": [
+            "D'abord,",
+            "lavez",
+            "les",
+            "légumes.",
+            "Ensuite,",
+            "coupez-les",
+            "en",
+            "morceaux.",
+            "Enfin,",
+            "faites-les",
+            "cuire",
+            "vingt",
+            "minutes."
+          ],
+          "bank": [
+            "D'abord,",
+            "lavez",
+            "les",
+            "légumes.",
+            "Ensuite,",
+            "coupez-les",
+            "en",
+            "morceaux.",
+            "Enfin,",
+            "faites-les",
+            "cuire",
+            "vingt",
+            "minutes.",
+            "Soudain,",
+            "Pourtant,",
+            "cru."
+          ],
+          "translation": "给下列步骤加上合适的顺序标记：洗蔬菜／切成块／煮二十分钟。",
+          "explain": "步骤顺序是洗菜、切块、煮，所以第一步用 D'abord，第二步用 Ensuite，最后用 Enfin；每个标记后面紧跟逗号。顺序标记本身决定步骤，不能按词块在词库中的排列位置来排。Soudain 和 Pourtant 分别表示突发和转折，不能标记步骤；cru 是形容词，不能替代动词 cuire。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q4",
+          "type": "choice",
+          "prompt": "Quelle phrase emploie correctement par contre pour opposer deux aspects ?",
+          "options": [
+            "Il pleuvait ; par contre, nous avons pris un parapluie.",
+            "Le film a été primé ; par contre, il a été tourné en France.",
+            "Le loyer est raisonnable ; par contre, l'appartement est très éloigné du centre.",
+            "Il a beaucoup travaillé ; par contre, il a réussi."
+          ],
+          "answer": 2,
+          "translation": "哪一句正确使用 par contre 来对照两个方面？",
+          "explain": "第三项中租金合理与离市中心远构成一利一弊的对照，par contre 引出另一面。第一项把后果当成对照；第二项只是追加信息，两方面并不相反；第四项把因果/结果当成对照。par contre 只是把另一面摆出来，不强调「与预期相反」，后者更常用 pourtant。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q5",
+          "type": "choice",
+          "prompt": "La salle était calme et les élèves écoutaient attentivement. ___, une alarme a retenti ; ___, tout le monde s'est levé.",
+          "options": [
+            "En effet / donc",
+            "Soudain / alors",
+            "Pourtant / en effet",
+            "D'abord / enfin"
+          ],
+          "answer": 1,
+          "translation": "大厅很安静，学生们在认真听。___，警报响了；___，所有人都站了起来。",
+          "explain": "警报突然响起，是打断安静场面的意外事件，用 Soudain；随后大家站起来是这一事件引起的反应和下一步，用 alors。En effet 只能证实前文，donc 只引出后果，都不能标出意外事件；Pourtant 表转折，D'abord/Enfin 表步骤，也都不符合。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q6",
+          "type": "choice",
+          "prompt": "Dans quel passage soudain introduit-il un événement vraiment imprévu ?",
+          "options": [
+            "Il avait faim. Soudain, il a ouvert le réfrigérateur et il a pris une pomme.",
+            "Il pleuvait à verse. Soudain, nous avons annulé la promenade.",
+            "Le train roulait tranquillement. Soudain, un bruit sec a retenti sous le wagon.",
+            "Soudain, comme prévu, la réunion a commencé à neuf heures."
+          ],
+          "answer": 2,
+          "translation": "哪一段中的 soudain 引出了真正意料之外的事件？",
+          "explain": "正确选项里火车平稳行驶，车下突然传来响声，soudain 标出打断平静的意外事件。第一段只是接着发生的日常动作，没有意外性；第二段是下雨后作出的决定，应该用 alors 或 donc；第四段 comme prévu（如预料）与「突然、意外」自相矛盾。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q7",
+          "type": "choice",
+          "prompt": "La route était fermée. ___, un arbre était tombé pendant la nuit.",
+          "options": [
+            "Pourtant",
+            "Donc",
+            "Ensuite",
+            "En effet"
+          ],
+          "answer": 3,
+          "translation": "道路封闭了。___，夜里有一棵树倒了。",
+          "explain": "第二句解释第一句：树倒了，所以路封闭。en effet 回指前文，用后句证实前句陈述的事实，常居句首并以逗号隔开。pourtant 表转折；donc 从前文推出后句的结论，方向和 en effet 相反；ensuite 只表示时间上的下一步。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q8",
+          "type": "choice",
+          "prompt": "Dans quelle phrase en effet confirme-t-il une information déjà donnée ?",
+          "options": [
+            "Le musée est fermé ; en effet, nous avons décidé d'aller au parc.",
+            "Le musée est fermé le lundi ; en effet, le gardien m'a confirmé que les portes restaient fermées ce jour-là.",
+            "Le musée est fermé ; en effet, il était ouvert la semaine dernière.",
+            "Le musée est fermé ; en effet, nous sommes arrivés à midi."
+          ],
+          "answer": 1,
+          "translation": "哪一句中的 en effet 证实了已经给出的信息？",
+          "explain": "第二项先陈述博物馆周一闭馆，再用 en effet 引出守门人的确认，功能是证实前文。第一项后面是决定去公园，应该用 alors 或 donc；第三项说上周还开着，是转折，应该用 pourtant 或 par contre；第四项只说我们中午到了，并没有证实闭馆这件事。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q9",
+          "type": "tiles",
+          "prompt": "Reliez les deux phrases en exprimant que la seconde confirme la première : il n'est pas venu. / il était malade.",
+          "answer": [
+            "Il",
+            "n'est",
+            "pas",
+            "venu.",
+            "En effet,",
+            "il",
+            "était",
+            "malade."
+          ],
+          "bank": [
+            "Il",
+            "n'est",
+            "pas",
+            "venu.",
+            "En effet,",
+            "il",
+            "était",
+            "malade.",
+            "Pourtant,",
+            "Donc,",
+            "allait"
+          ],
+          "translation": "他没来。___，他病了。",
+          "explain": "两句的关系是：第二句说明第一句的原因，证实「他没来」这个事实，用 En effet 引出，句首加逗号。Pourtant 会变成「然而他病了」，与「没来」构不成让步；Donc 会变成从「没来」推出「他病了」，方向相反；allait 是未完成过去时，不能替代表示状态的 était。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q10",
+          "type": "choice",
+          "prompt": "Le soleil brillait et la terrasse était agréable. ___, personne n'est venu déjeuner.",
+          "options": [
+            "Donc",
+            "En effet",
+            "Pourtant",
+            "D'abord"
+          ],
+          "answer": 2,
+          "translation": "阳光明媚，露台很舒服。___，没有人来吃午饭。",
+          "explain": "前面说天气好、露台舒服，按预期大家应该出去吃饭；后面说没有人来吃，与这个预期相反，用 pourtant。donc 引出结果，方向不符；en effet 用来证实前文；d'abord 只标第一步。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c23-discourse-markers-l1-2",
+      "title": "顺序、突发、确认、转折与后果（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c23-discourse-markers-l1-q11",
+          "type": "choice",
+          "prompt": "La machine est vieille ; elle fonctionne ___ parfaitement.",
+          "options": [
+            "pourtant",
+            "donc",
+            "en effet",
+            "d'abord"
+          ],
+          "answer": 0,
+          "translation": "这台机器很旧；它___运转得很好。",
+          "explain": "机器很旧，按预期容易出故障，实际却运转得很好；pourtant 表与预期相反，可放在动词后。donc 会引出结果，en effet 会证实前文，d'abord 标顺序，都不能表示这种转折。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q12",
+          "type": "choice",
+          "prompt": "Dans quelle phrase pourtant exprime-t-il un contraste avec une attente ?",
+          "options": [
+            "Il pleut depuis ce matin. Pourtant, je prends mon parapluie.",
+            "Il est midi. Pourtant, nous allons déjeuner.",
+            "Elle est malade. Pourtant, elle reste au lit.",
+            "Le musée est gratuit aujourd'hui. Pourtant, il y a très peu de visiteurs."
+          ],
+          "answer": 3,
+          "translation": "哪一句中的 pourtant 表达了与预期的对比？",
+          "explain": "最后一项里博物馆免费，按预期应该有很多参观者，实际却很少，形成反差。其余三项的第二句都是顺着第一句的自然结果或下一步：下雨带伞、中午吃饭、生病卧床，应该用 donc、alors 或 c'est pourquoi，而不是 pourtant。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q13",
+          "type": "choice",
+          "prompt": "Le centre-ville est très animé le soir. ___, les rues sont presque vides le matin.",
+          "options": [
+            "En effet",
+            "Par contre",
+            "Donc",
+            "D'abord"
+          ],
+          "answer": 1,
+          "translation": "市中心晚上很热闹。___，早上街道几乎空无一人。",
+          "explain": "这里把同一座城市在两个时段的相反情况并排对照：晚上热闹，早上冷清。par contre 引出与前句相对照的另一面，常居句首并以逗号隔开。en effet 会变成证实前文，donc 会引出结果，d'abord 只标叙述的第一步。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q14",
+          "type": "choice",
+          "prompt": "Il n'y avait plus de bus après vingt-deux heures. ___, nous avons pris un taxi.",
+          "options": [
+            "Alors",
+            "Soudain",
+            "Pourtant",
+            "En effet"
+          ],
+          "answer": 0,
+          "translation": "二十二点以后没有公交车了。___，我们打了出租车。",
+          "explain": "没有公交车是原因，打车是随之作出的决定；alors 引出后果或决定，常居句首。soudain 要求突发事件；pourtant 要求与预期相反；en effet 用来证实前文，而这里并不是在证实「没有公交车」。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q15",
+          "type": "choice",
+          "prompt": "Tous les magasins sont fermés, les rues sont vides et les bus ne circulent pas. ___, c'est un jour férié.",
+          "options": [
+            "Donc",
+            "Pourtant",
+            "Soudain",
+            "Ensuite"
+          ],
+          "answer": 0,
+          "translation": "所有商店都关门，街上空无一人，公交车也不运行。___，今天是公共假日。",
+          "explain": "前文列出观察到的现象：商店关门、街道空、公交停运；后文「今天是公共假日」是由这些现象推出的结论，用 donc。donc 引出从前文推得的结果或结论，可居句首。pourtant 表转折，soudain 表突发，ensuite 表时间顺序，都不能引出这个推断。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q16",
+          "type": "choice",
+          "prompt": "Le conférencier a terminé sa dernière phrase. ___, le public s'est levé et a commencé à applaudir.",
+          "options": [
+            "Pourtant",
+            "En effet",
+            "D'abord",
+            "Alors"
+          ],
+          "answer": 3,
+          "translation": "演讲者说完最后一句话。___，听众站起来开始鼓掌。",
+          "explain": "演讲者说完最后一句，听众起立鼓掌，是叙述的下一步，也是自然的后果，用 alors 连接。pourtant 要求与预期相反；en effet 用来证实前文，而鼓掌并不是对「演讲结束」的证实；d'abord 只能标第一步。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q17",
+          "type": "tiles",
+          "prompt": "Exprimez la conséquence en plaçant donc entre l'auxiliaire et le participe passé : le magasin était fermé. / nous sommes rentrés.",
+          "answer": [
+            "Le",
+            "magasin",
+            "était",
+            "fermé.",
+            "Nous",
+            "sommes",
+            "donc",
+            "rentrés."
+          ],
+          "bank": [
+            "Le",
+            "magasin",
+            "était",
+            "fermé.",
+            "Nous",
+            "sommes",
+            "donc",
+            "rentrés.",
+            "Alors,",
+            "Pourtant,",
+            "rentré.",
+            "rentrées."
+          ],
+          "translation": "商店关门了。我们回家了。",
+          "explain": "商店关门是前提，我们回家是由此产生的后果；donc 是结果连词，在复合过去时中放在助动词 sommes 与过去分词 rentrés 之间：Nous sommes donc rentrés。Alors 也能引出后果，但通常放在句首，不符合本题「放在助动词与过去分词之间」的要求；Pourtant 表转折；rentré 和 rentrées 与主语 nous 的性数配合不符。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q18",
+          "type": "choice",
+          "prompt": "Le guide a d'abord expliqué l'histoire du château ; ensuite, il nous a montré la tour. ___, une chauve-souris a traversé la salle et tout le monde a sursauté.",
+          "options": [
+            "Enfin",
+            "Soudain",
+            "Donc",
+            "En effet"
+          ],
+          "answer": 1,
+          "translation": "导游先讲了城堡的历史，然后带我们看了塔楼。___，一只蝙蝠飞过大厅，所有人都吓了一跳。",
+          "explain": "前文用 d'abord、ensuite 推进参观步骤；蝙蝠飞过大厅、众人受惊，是打断叙述的意外事件，用 soudain。enfin 会把它变成安排好的最后一步；donc 引出结论；en effet 证实前文，都不符合突发事件。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q19",
+          "type": "choice",
+          "prompt": "Le musée annonçait une grande exposition de photos. ___, la salle principale était fermée : ___, l'exposition avait été déplacée au sous-sol.",
+          "options": [
+            "En effet / pourtant",
+            "Donc / soudain",
+            "Pourtant / en effet",
+            "D'abord / enfin"
+          ],
+          "answer": 2,
+          "translation": "博物馆宣布了一个大型摄影展。___，主展厅关着：___，展览已被移到地下室。",
+          "explain": "第一空：博物馆宣布展览，按预期主展厅应该开放，实际却关着，用 pourtant 表与预期相反。第二空：后面解释主展厅关着的原因——展览被移到地下室，这是对前文的证实和说明，用 en effet。反过来 en effet / pourtant 会让第一句变成证实、第二句变成转折，逻辑颠倒；donc / soudain 和 d'abord / enfin 也不符合这两层关系。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l1-q20",
+          "type": "letters",
+          "prompt": "Le chemin était court et bien indiqué ; nous nous sommes ___ perdus. (adverbe de contraste)",
+          "answer": "pourtant",
+          "decoys": [
+            "e",
+            "s",
+            "i"
+          ],
+          "translation": "路又短、标识又清楚；我们___迷路了。",
+          "explain": "路很短而且标识清楚，按预期不该迷路，实际却迷路了；这里需要表「与预期相反」的转折副词 pourtant。它放在助动词 sommes 与过去分词 perdus 之间。pourtant 不是连词，不能不停顿地直接粘合两个分句。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c23-discourse-markers-l2",
+      "title": "分层列举与附加",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c23-discourse-markers-l2-q1",
+          "type": "choice",
+          "prompt": "D'une part, le télétravail fait gagner du temps ; ___, il isole certains employés.",
+          "options": [
+            "d'une part",
+            "en effet",
+            "d'autre part",
+            "pourtant"
+          ],
+          "answer": 2,
+          "translation": "一方面，远程办公节省时间；___，它让一些员工感到孤立。",
+          "explain": "句子已经用 d'une part 引出第一方面，第二方面必须用配对的 d'autre part。两个标记通常成对出现，不能重复用 d'une part；en effet 用来证实前文，pourtant 表与预期相反，都不是分层列举的第二部分。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l2-q2",
+          "type": "choice",
+          "prompt": "Quelle phrase organise correctement deux aspects en deux parties ?",
+          "options": [
+            "D'autre part, le quartier est calme ; d'autre part, les transports sont proches.",
+            "D'une part, le quartier est calme ; d'une part, les transports sont proches.",
+            "D'une part, le quartier est calme ; en effet, les transports sont proches.",
+            "D'une part, le quartier est calme ; d'autre part, les transports sont proches."
+          ],
+          "answer": 3,
+          "translation": "哪一句正确地用两个部分组织两个方面？",
+          "explain": "最后一句把 d'une part 与 d'autre part 配成一对：前者引出第一方面，后者引出第二方面。前两句重复同一个标记，构不成两部分；第三句用 en effet，功能是证实前文，不是列举第二方面。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l2-q3",
+          "type": "tiles",
+          "prompt": "Composez une phrase qui répartit deux aspects en deux parties, dans cet ordre, avec les marqueurs adaptés : le logement est bon marché. / il est proche du centre.",
+          "answer": [
+            "D'une",
+            "part,",
+            "le",
+            "logement",
+            "est",
+            "bon",
+            "marché.",
+            "D'autre",
+            "part,",
+            "il",
+            "est",
+            "proche",
+            "du",
+            "centre."
+          ],
+          "bank": [
+            "D'une",
+            "part,",
+            "le",
+            "logement",
+            "est",
+            "bon",
+            "marché.",
+            "D'autre",
+            "part,",
+            "il",
+            "est",
+            "proche",
+            "du",
+            "centre.",
+            "Pourtant,",
+            "Donc,",
+            "cher."
+          ],
+          "translation": "住房便宜。它离市中心很近。",
+          "explain": "第一方面用 D'une part 引出，第二方面用配对的 D'autre part 引出；两部分按「第一方面—第二方面」成对出现。Pourtant 表转折，Donc 表结论，都不能充当分层列举的第二部分；cher 与 bon marché 意义相反，放进去会破坏两方面的并列。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l2-q4",
+          "type": "choice",
+          "prompt": "— J'aime beaucoup les films policiers. — Moi ___ ; j'en regarde chaque semaine.",
+          "options": [
+            "non plus",
+            "aussi",
+            "pourtant",
+            "d'abord"
+          ],
+          "answer": 1,
+          "translation": "——我很喜欢警匪片。——我___；我每周都看。",
+          "explain": "对方说的是肯定陈述，表示「我也是」用 moi aussi；aussi 追加前面提到的相同情况。non plus 用于否定语境，表示「我也不」；pourtant 表转折；d'abord 标第一步。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l2-q5",
+          "type": "choice",
+          "prompt": "Ce quartier est agréable : il y a un marché, des cafés et ___ une petite bibliothèque.",
+          "options": [
+            "aussi",
+            "pourtant",
+            "donc",
+            "ensuite"
+          ],
+          "answer": 0,
+          "translation": "这个街区很舒服：有一个市场、几家咖啡馆，___一个小图书馆。",
+          "explain": "句子在列举街区的好处，最后一项是对前面项目的追加，用 aussi。pourtant 表转折；donc 表结论；ensuite 只表示时间或列举的下一步，不能表示「此外还有」的追加。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l2-q6",
+          "type": "choice",
+          "prompt": "Dans quelle phrase aussi ajoute-t-il une information à ce qui vient d'être dit ?",
+          "options": [
+            "Il est très occupé ; aussi, il a refusé de nous recevoir.",
+            "Elle est aussi grande que son frère.",
+            "Paul parle anglais ; sa sœur parle aussi italien.",
+            "Aussi étrange que cela paraisse, il est parti sans rien dire."
+          ],
+          "answer": 2,
+          "translation": "哪一句中的 aussi 给前面所说的内容追加了一条信息？",
+          "explain": "正确项的 aussi 表示「也」：保罗说英语，他妹妹也说意大利语，是把同一类情况追加到另一个人身上。第一项句首的 aussi 表示「因此」，引出结论；第二项是 aussi... que 的比较结构；第四项是 aussi... que 引出的让步，都不表示追加。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l2-q7",
+          "type": "letters",
+          "prompt": "Complétez avec l'adverbe d'addition : « Elle chante très bien et elle joue ___ du piano. »",
+          "answer": "aussi",
+          "decoys": [
+            "t",
+            "n",
+            "r"
+          ],
+          "translation": "她唱歌很好，她___弹钢琴。",
+          "explain": "这里要把「弹钢琴」追加到前面「唱歌好」的情况上，用 aussi，放在动词 joue 之后。aussi 表示「也、此外」，不是转折；否定语境才用 non plus。拼写为 a-u-s-s-i，注意双 s。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l2-q8",
+          "type": "choice",
+          "prompt": "Le musée est gratuit le premier dimanche du mois. Les enfants ___ ont droit à une visite guidée gratuite.",
+          "options": [
+            "aussi",
+            "pourtant",
+            "donc",
+            "ensuite"
+          ],
+          "answer": 0,
+          "translation": "博物馆每月第一个周日免费。孩子们___可以参加免费的导览。",
+          "explain": "前句说博物馆免费，后句把同一类优惠追加到孩子身上：孩子们「也」可以参加免费导览，用 aussi。这里 aussi 放在主语 Les enfants 之后、助动词 ont 之前。pourtant 表转折；donc 引出结论；ensuite 只表示接着发生，不能表示追加。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c23-discourse-markers-l3-1",
+      "title": "否定细节：déjà 与 encore、toujours pas、non plus、pas du tout（1）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c23-discourse-markers-l3-q1",
+          "type": "choice",
+          "prompt": "— Tu as déjà terminé ton rapport ? — Non, je ___ ; il me reste encore deux pages.",
+          "options": [
+            "n'ai plus fini",
+            "n'ai pas encore fini",
+            "ne finis pas encore",
+            "ne finirai jamais"
+          ],
+          "answer": 1,
+          "translation": "——你已经写完报告了吗？——没有，我___；我还剩两页。",
+          "explain": "问句用 déjà 问「是否已经完成」，回答「还没有」要用 ne...pas encore。复合过去时的否定把 ne...pas 夹在助动词周围：je n'ai pas encore fini。n'ai plus fini 表示「不再完成」，与「还剩两页」矛盾；ne finis pas encore 是现在时，不能表示到现在为止尚未完成；ne finirai jamais 变成「永远不会完成」，过度绝对。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q2",
+          "type": "choice",
+          "prompt": "Camille a arrêté le piano l'année dernière, mais elle ___ de la guitare.",
+          "options": [
+            "ne joue plus",
+            "a déjà joué",
+            "joue encore",
+            "ne joue pas encore"
+          ],
+          "answer": 2,
+          "translation": "卡米耶去年起不再弹钢琴，但她___吉他。",
+          "explain": "mais 引出与「不再弹钢琴」相反的持续情况：她「仍然」弹吉他，用 encore。ne...plus 表示「不再」，会与 mais 的转折矛盾；ne...pas encore 表示「还没有」，暗示尚未开始，也与「去年以来继续」不符；a déjà joué 是「已经弹过」，不能表示现在的持续习惯。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q3",
+          "type": "tiles",
+          "prompt": "Mettez à la forme négative en gardant le sens de « encore » : Il travaille encore dans cette librairie.",
+          "answer": [
+            "Il",
+            "ne",
+            "travaille",
+            "plus",
+            "dans",
+            "cette",
+            "librairie."
+          ],
+          "bank": [
+            "Il",
+            "ne",
+            "travaille",
+            "plus",
+            "dans",
+            "cette",
+            "librairie.",
+            "pas",
+            "encore",
+            "travaillait"
+          ],
+          "translation": "他仍在这家书店工作。",
+          "explain": "encore 表示「仍然」，其否定对应是 ne...plus（不再）：Il ne travaille plus dans cette librairie。ne...pas encore 是「还没有」，会改变时间意义；只加 pas 不构成「不再」；travaillait 是未完成过去时，改变了时态。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q4",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative en gardant le sens de « déjà » : Elle est déjà rentrée chez elle.",
+          "answer": [
+            "Elle",
+            "n'est",
+            "pas",
+            "encore",
+            "rentrée",
+            "chez",
+            "elle."
+          ],
+          "bank": [
+            "Elle",
+            "n'est",
+            "pas",
+            "encore",
+            "rentrée",
+            "chez",
+            "elle.",
+            "ne",
+            "est",
+            "plus"
+          ],
+          "translation": "她已经回家了。",
+          "explain": "déjà 表示「已经」，其否定对应是 ne...pas encore（尚未）：Elle n'est pas encore rentrée chez elle。复合过去时用 être 作助动词，ne...pas 夹住助动词 est，过去分词 rentrée 留在后面并与 elle 配合；n'est plus rentrée 会表示「此后不再回家」，不是「尚未回家」；ne 和 est 不能拆成两个独立词块。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q5",
+          "type": "choice",
+          "prompt": "Le chat dormait dans le jardin il y a une heure. Quand nous sommes sortis, il ___ là.",
+          "options": [
+            "n'était plus",
+            "n'était pas encore",
+            "n'était jamais",
+            "n'était pas toujours"
+          ],
+          "answer": 0,
+          "translation": "一小时前，猫还在花园里睡觉。我们出去时，它___在那里了。",
+          "explain": "一小时前它在，随后不在了：过去的「不再」用 ne...plus 的未完成过去时 n'était plus。n'était pas encore 表示「那时还没有在」，与「一小时前在」的时间线相反；n'était jamais 表示「从不在」，过于绝对；n'était pas toujours 表示「并非总在」，不表示这次已经离开。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q6",
+          "type": "letters",
+          "prompt": "Je n'ai pas ___ lu ce roman ; je le commence ce soir. (négation de « déjà »)",
+          "answer": "encore",
+          "decoys": [
+            "s",
+            "t",
+            "a"
+          ],
+          "translation": "我___读过这本小说；我今晚开始读。",
+          "explain": "déjà 的否定对应是 ne...pas encore：Je n'ai pas encore lu ce roman。encore 放在 pas 之后，不能写成 ne...encore pas。题目限定了「déjà 的否定」，答案因此是 pas encore；单看句子，ne...jamais 也能成句，但那是绝对否定，不是 déjà 的否定对应。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q7",
+          "type": "choice",
+          "prompt": "— Ton frère est toujours en retard ? — Non, ___ : hier, il est même arrivé avant tout le monde.",
+          "options": [
+            "toujours pas",
+            "plus jamais",
+            "pas encore",
+            "pas toujours"
+          ],
+          "answer": 3,
+          "translation": "——你弟弟总是迟到吗？——不，___：昨天他甚至比所有人都先到。",
+          "explain": "toujours 的否定若只否定频率的一部分，用 ne...pas toujours（并非总是）：Il n'est pas toujours en retard。toujours pas 是「仍然不」，与「昨天早到」的对比不符；plus jamais 是「再也不」，过于绝对；pas encore 是「还没有」，不能回答「是否总是」。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q8",
+          "type": "choice",
+          "prompt": "Elle ___ de viande : elle est végétarienne depuis l'enfance.",
+          "options": [
+            "ne mange pas toujours",
+            "ne mange jamais",
+            "mange encore",
+            "ne mange pas encore"
+          ],
+          "answer": 1,
+          "translation": "她___肉：她从小就是素食者。",
+          "explain": "「从小就是素食者」意味着从来没有吃肉的习惯，用绝对否定 ne...jamais：Elle ne mange jamais de viande。ne...pas toujours 只是「并非总是」，暗示有时会吃；mange encore 是肯定「还在吃」；ne...pas encore 是「还没有开始吃」，与「从小」矛盾。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q9",
+          "type": "choice",
+          "prompt": "Il a promis de ne ___ mentir à ses parents.",
+          "options": [
+            "pas encore",
+            "non plus",
+            "plus jamais",
+            "plus tard"
+          ],
+          "answer": 2,
+          "translation": "他答应___对父母撒谎。",
+          "explain": "「再也不」用 ne...plus jamais，词序固定为 plus 在前、jamais 在后：ne plus jamais mentir。non plus 表示「也不」，不能直接放在 ne 与动词之间构成否定；pas encore 是「还没有」；plus tard 是「更晚」，不能构成否定。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q10",
+          "type": "letters",
+          "prompt": "Il n'est pas ___ de bonne humeur : il l'est presque chaque jour, mais il a ses mauvais moments.",
+          "answer": "toujours",
+          "decoys": [
+            "s",
+            "a",
+            "i"
+          ],
+          "translation": "他并非___心情好：他几乎每天都心情好，但也有情绪不好的时候。",
+          "explain": "部分否定「并非总是」是 ne...pas toujours，toujours 放在 pas 后。后半句「几乎每天都心情好」说明不是「不常」，而是「并非总是」；若写成 toujours pas，意思变成「仍然不」，与后半句矛盾。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c23-discourse-markers-l3-2",
+      "title": "否定细节：déjà 与 encore、toujours pas、non plus、pas du tout（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c23-discourse-markers-l3-q11",
+          "type": "choice",
+          "prompt": "Choisissez la reformulation qui garde le sens de : « Elle n'est toujours pas arrivée. »",
+          "options": [
+            "Elle n'est pas encore arrivée, et l'attente dure.",
+            "Elle n'arrive pas toujours à l'heure.",
+            "Elle n'arrivera plus jamais.",
+            "Elle est arrivée, mais pas à l'heure."
+          ],
+          "answer": 0,
+          "translation": "选择与「Elle n'est toujours pas arrivée」意义相同的改写。",
+          "explain": "ne...toujours pas 表示否定持续到现在：「仍然没有到」，与 pas encore 的「尚未」相近，但更强调等待一直在持续。pas toujours 是「并非总是」，词序与意义都不同；ne...plus jamais 是「再也不」；最后一项肯定「已经到了」，与否定相反。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q12",
+          "type": "choice",
+          "prompt": "Dans quelle phrase « toujours » exprime-t-il une négation partielle ?",
+          "options": [
+            "Il ne travaille toujours pas le samedi.",
+            "Il ne travaille pas toujours le samedi.",
+            "Il travaille toujours le samedi.",
+            "Il ne travaille jamais le samedi."
+          ],
+          "answer": 1,
+          "translation": "哪一句中的 « toujours » 表示部分否定？",
+          "explain": "ne...pas toujours 中，pas 在变位动词后，toujours 在 pas 后，否定的是频率：「并非总是」。ne...toujours pas 中，toujours 在 pas 前，否定持续：「仍然不」。第三句是肯定「总是」；第四句用 jamais，是绝对否定「从不」。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q13",
+          "type": "choice",
+          "prompt": "— Je n'ai pas de monnaie sur moi. — ___, j'ai oublié mon portefeuille.",
+          "options": [
+            "Moi aussi",
+            "Moi pas non plus",
+            "Moi non",
+            "Moi non plus"
+          ],
+          "answer": 3,
+          "translation": "——我身上没带零钱。——___，我忘了带钱包。",
+          "explain": "对否定陈述表示「我也不」，用重读代词 + non plus：Moi non plus。Moi aussi 用于肯定附和；Moi pas non plus 是错误叠加；Moi non 不能表示「我也不」。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q14",
+          "type": "choice",
+          "prompt": "Paul n'a pas de voiture. Et son frère ? — ___ non plus, il prend le bus tous les matins.",
+          "options": [
+            "Il",
+            "Le",
+            "Lui",
+            "Son"
+          ],
+          "answer": 2,
+          "translation": "保罗没有车。那他哥哥呢？——___也没有，他每天早上坐公交。",
+          "explain": "non plus 前要用重读代词，指代 son frère（阳性单数）用 Lui；前面 Paul n'a pas de voiture 提供了另一个主语的否定，non plus 才能表示「也不」。Il 是主语代词，不能直接与 non plus 搭配；Le 是宾语代词；Son 是主有形容词。完整结构是 Lui non plus, il prend...。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q15",
+          "type": "tiles",
+          "prompt": "Répondez par une phrase commençant par « Moi » : — Je ne suis pas d'accord avec cette décision.",
+          "answer": [
+            "Moi",
+            "non",
+            "plus."
+          ],
+          "bank": [
+            "Moi",
+            "non",
+            "plus.",
+            "aussi",
+            "pas",
+            "Toi"
+          ],
+          "translation": "——我不同意这个决定。",
+          "explain": "对否定陈述作第一人称附和，用 Moi non plus。aussi 只用于肯定附和；pas 不能代替 non；Toi 是第二人称重读代词，与说话人「我」不符。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q16",
+          "type": "tiles",
+          "prompt": "Paul n'a pas de temps. Transformez la phrase « Son frère n'a pas de temps » en remplaçant « Son frère » par « Lui » et en ajoutant « non plus ».",
+          "answer": [
+            "Lui",
+            "non",
+            "plus",
+            "n'a",
+            "pas",
+            "de",
+            "temps."
+          ],
+          "bank": [
+            "Lui",
+            "non",
+            "plus",
+            "n'a",
+            "pas",
+            "de",
+            "temps.",
+            "Il",
+            "aussi",
+            "ne",
+            "des"
+          ],
+          "translation": "保罗没有时间。他哥哥也没有时间。",
+          "explain": "前一句 Paul n'a pas de temps 是否定，non plus 表示「另一个主体也不」，因此把 Son frère n'a pas de temps 改写成 Lui non plus n'a pas de temps。non plus 放在重读代词后；否定仍是 n'a pas；直接宾语在绝对否定中用 de，不用 des；Il 是主语代词，不能作 non plus 的前项；aussi 用于肯定附和。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q17",
+          "type": "choice",
+          "prompt": "— Nous n'avons pas vu ce film. — Eux ___ : ils sont arrivés après la séance.",
+          "options": [
+            "non plus",
+            "aussi",
+            "également",
+            "pas"
+          ],
+          "answer": 0,
+          "translation": "——我们没看这部电影。——他们___：他们散场后才到。",
+          "explain": "前句是否定，表示「他们也没有」要用 non plus。aussi 和 également 只用于肯定附和；pas 需要与 ne 构成否定句，不能单独表示「也不」。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q18",
+          "type": "choice",
+          "prompt": "— Tu aimes les films d'horreur ? — Non, ___ : je ne supporte même pas les bandes-annonces.",
+          "options": [
+            "plus du tout",
+            "pas du tout",
+            "pas toujours",
+            "non plus"
+          ],
+          "answer": 1,
+          "translation": "——你喜欢恐怖片吗？——不，___：我连预告片都受不了。",
+          "explain": "「一点也不」用 pas du tout，表示完全的否定程度。plus du tout 表示「一点也不再」，需要此前喜欢过的背景；这里没有这种背景。pas toujours 是「并非总是」，程度不足；non plus 表示「也不」，不能单独回答喜好。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q19",
+          "type": "choice",
+          "prompt": "Elle adorait ce chanteur quand elle était lycéenne, mais aujourd'hui elle ___.",
+          "options": [
+            "ne l'aimait plus du tout",
+            "ne l'aime pas encore",
+            "ne l'aime plus jamais",
+            "ne l'aime plus du tout"
+          ],
+          "answer": 3,
+          "translation": "她高中时很喜欢这位歌手，但今天她___。",
+          "explain": "过去喜欢、现在完全不喜欢，用 ne...plus du tout（一点也不再）。ne l'aimait plus du tout 是未完成过去时，与 aujourd'hui 的现在时间冲突；ne...pas encore 是「还没有」；ne...plus jamais 是「再也不」，通常指将来不再发生，与现在持续的状态不完全对应。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q20",
+          "type": "choice",
+          "prompt": "Avant, il y avait un cinéma dans notre rue. Il a fermé il y a deux ans ; depuis, il n'y a ___ de cinéma.",
+          "options": [
+            "souvent",
+            "pas toujours",
+            "plus du tout",
+            "non plus"
+          ],
+          "answer": 2,
+          "translation": "以前我们街上有一家电影院。它两年前关门了；从那以后，这里___电影院。",
+          "explain": "souvent 不能单独构成否定；此处表达「以前有、现在完全没有了」，用 ne...plus du tout。pas toujours 是部分否定；non plus 表「也不」，不能修饰「有」。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c23-discourse-markers-l3-3",
+      "title": "否定细节：déjà 与 encore、toujours pas、non plus、pas du tout（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c23-discourse-markers-l3-q21",
+          "type": "choice",
+          "prompt": "Ce roman n'est ___ intéressant : les personnages sont plats et l'intrigue ne mène nulle part.",
+          "options": [
+            "pas du tout",
+            "plus du tout",
+            "pas toujours",
+            "non plus"
+          ],
+          "answer": 0,
+          "translation": "这本小说___有趣：人物扁平，情节毫无进展。",
+          "explain": "说话人给出两个理由，对「有趣」作完全否定：「一点也不」用 pas du tout。plus du tout 需要「以前有趣、现在不再」的背景；pas toujours 只是「并非总是」；non plus 表示「也不」，不能单独作程度否定。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q22",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative en gardant le sens de « encore » : Elle a encore des amis dans ce quartier.",
+          "answer": [
+            "Elle",
+            "n'a",
+            "plus",
+            "d'amis",
+            "dans",
+            "ce",
+            "quartier."
+          ],
+          "bank": [
+            "Elle",
+            "n'a",
+            "plus",
+            "d'amis",
+            "dans",
+            "ce",
+            "quartier.",
+            "pas",
+            "encore",
+            "des",
+            "ne"
+          ],
+          "translation": "她在这个街区还有朋友。",
+          "explain": "encore（还有）的否定对应是 ne...plus（不再有）：Elle n'a plus d'amis...。绝对否定中，直接宾语的不定冠词 des 要变成 de，遇元音开头的 amis 省音为 d'。ne...pas encore 是「还没有」，改变意义；des 应变为 d'；ne 与 n'a 不能同时使用。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q23",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative en gardant le sens de « déjà » : Nous avons déjà acheté des billets pour le concert.",
+          "answer": [
+            "Nous",
+            "n'avons",
+            "pas",
+            "encore",
+            "acheté",
+            "de",
+            "billets",
+            "pour",
+            "le",
+            "concert."
+          ],
+          "bank": [
+            "Nous",
+            "n'avons",
+            "pas",
+            "encore",
+            "acheté",
+            "de",
+            "billets",
+            "pour",
+            "le",
+            "concert.",
+            "déjà",
+            "des",
+            "ne",
+            "plus"
+          ],
+          "translation": "我们已经买了音乐会的票。",
+          "explain": "déjà 的否定对应是 ne...pas encore；绝对否定中 des billets 变成 de billets。复合过去时的 ne...pas 夹住助动词：n'avons pas encore acheté。用 ne...plus 会变成「不再买」，与 déjà 的对应不符；des 应改为 de；ne 与 n'avons 不能并用。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q24",
+          "type": "tiles",
+          "prompt": "Transformez pour exprimer « plus jamais » : Autrefois, il écrivait souvent des lettres à ses amis.",
+          "answer": [
+            "Désormais,",
+            "il",
+            "n'écrit",
+            "plus",
+            "jamais",
+            "de",
+            "lettres",
+            "à",
+            "ses",
+            "amis."
+          ],
+          "bank": [
+            "Désormais,",
+            "il",
+            "n'écrit",
+            "plus",
+            "jamais",
+            "de",
+            "lettres",
+            "à",
+            "ses",
+            "amis.",
+            "souvent",
+            "des",
+            "ne",
+            "écrit"
+          ],
+          "translation": "以前他常给朋友写信。",
+          "explain": "「不再、再也不」用 ne...plus jamais：n'écrit plus jamais。绝对否定中 des lettres 变为 de lettres。souvent 是肯定频率，不能保留在否定中；des 应改为 de；ne 与 n'écrit 不能分列；écrit 缺少否定搭配。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q25",
+          "type": "choice",
+          "prompt": "Je n'aime pas ___ café : je préfère le thé.",
+          "options": [
+            "du",
+            "le",
+            "un",
+            "de"
+          ],
+          "answer": 1,
+          "translation": "我___咖啡：我更喜欢茶。",
+          "explain": "否定的是「喜欢咖啡」这件事，café 是类指，定冠词 le 要保留：Je n'aime pas le café。绝对否定只把不定冠词或部分冠词改成 de；这里不是「一点咖啡」的数量否定，所以不用 du、un 或 de。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q26",
+          "type": "choice",
+          "prompt": "Avant, elle avait du temps pour ses amis. Depuis son déménagement, elle a complètement cessé de les voir : elle ___ temps pour eux.",
+          "options": [
+            "n'a pas encore de",
+            "n'a jamais de",
+            "n'a plus de",
+            "n'a pas toujours de"
+          ],
+          "answer": 2,
+          "translation": "以前她有时间和朋友们见面。自从搬家后，她完全不再见他们了：她___时间见他们。",
+          "explain": "「以前有时间、现在完全没有」用 ne...plus de；complètement cessé 排除了 jamais（从没有）与 pas encore（还没有）。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q27",
+          "type": "choice",
+          "prompt": "Il n'a pas ___ parapluie ; il l'a prêté à sa sœur.",
+          "options": [
+            "de",
+            "un",
+            "le",
+            "son"
+          ],
+          "answer": 3,
+          "translation": "他没有___雨伞；他把它借给了妹妹。",
+          "explain": "否定句中主有形容词保留：Il n'a pas son parapluie。后半句 il l'a prêté 的 l' 必须回指一个确定的伞，所以用 son；de 只用于否定中的不可数/不定冠词替换（Il n'a pas de parapluie），与 l' 的确定指称冲突；un、le 不能表示所属或与 l' 的指称不一致。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q28",
+          "type": "tiles",
+          "prompt": "Complétez la réponse de Paul avec la négation qui convient : — Je n'ai pas de voiture. — Et Paul ? — Lui non plus, il ___ de voiture.",
+          "answer": [
+            "n'a",
+            "pas"
+          ],
+          "bank": [
+            "n'a",
+            "pas",
+            "ne",
+            "a",
+            "plus",
+            "de"
+          ],
+          "translation": "——我没有车。——那保罗呢？——他也没有，他___车。",
+          "explain": "前句 Je n'ai pas de voiture 是否定，问句把话题转到 Paul；non plus 表示「Paul 也不」，完整否定是 il n'a pas de voiture。plus 会变成「不再有」，与「也没有」的附和不同；ne 和 a 不能分开；de 已在题干中。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q29",
+          "type": "choice",
+          "prompt": "Autrefois, elle invitait souvent des collègues. Aujourd'hui, elle n'invite ___.",
+          "options": [
+            "plus jamais de collègues",
+            "plus jamais des collègues",
+            "pas encore de collègues",
+            "jamais plus de collègues"
+          ],
+          "answer": 0,
+          "translation": "以前她常邀请同事。今天，她___。",
+          "explain": "「不再、再也不」是 ne...plus jamais，且绝对否定中 des 要变成 de：elle n'invite plus jamais de collègues。plus jamais des 没有把 des 改成 de；pas encore 是「还没有」，与「以前常邀请」的时间线矛盾；jamais plus 词序错误。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q30",
+          "type": "tiles",
+          "prompt": "Transformez pour exprimer « plus jamais » : Il va souvent au marché le samedi.",
+          "answer": [
+            "Il",
+            "ne",
+            "va",
+            "plus",
+            "jamais",
+            "au",
+            "marché",
+            "le",
+            "samedi."
+          ],
+          "bank": [
+            "Il",
+            "ne",
+            "va",
+            "plus",
+            "jamais",
+            "au",
+            "marché",
+            "le",
+            "samedi.",
+            "souvent",
+            "pas",
+            "allait",
+            "du"
+          ],
+          "translation": "他周六常去市场。",
+          "explain": "souvent 是肯定频率，改成「再也不」要用 ne...plus jamais，并删去 souvent：Il ne va plus jamais au marché。plus 和 jamais 的先后顺序固定；pas 只构成一般否定；allait 改变时态；du 与 aller au marché 的固定搭配不符。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c23-discourse-markers-l3-4",
+      "title": "否定细节：déjà 与 encore、toujours pas、non plus、pas du tout（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c23-discourse-markers-l3-q31",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative en niant seulement la fréquence : Elle est toujours de bonne humeur.",
+          "answer": [
+            "Elle",
+            "n'est",
+            "pas",
+            "toujours",
+            "de",
+            "bonne",
+            "humeur."
+          ],
+          "bank": [
+            "Elle",
+            "n'est",
+            "pas",
+            "toujours",
+            "de",
+            "bonne",
+            "humeur.",
+            "ne",
+            "est",
+            "jamais",
+            "plus"
+          ],
+          "translation": "她总是心情很好。",
+          "explain": "只否定频率的一部分，用 ne...pas toujours：Elle n'est pas toujours de bonne humeur。toujours 放在 pas 后。若用 jamais，是绝对否定「从不」；若写成 toujours pas，是「仍然不」，否定范围不同；ne 与 est 不能拆开。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q32",
+          "type": "choice",
+          "prompt": "— Il travaille souvent le dimanche ? — Non, ___ : environ une fois par mois.",
+          "options": [
+            "jamais",
+            "pas souvent",
+            "toujours pas",
+            "plus jamais"
+          ],
+          "answer": 1,
+          "translation": "——他周日经常工作吗？——不，___：大约每月一次。",
+          "explain": "「每月一次」说明不是「经常」，但也并非完全没有：部分否定用 pas souvent。jamais 是「从不」，与每月一次矛盾；toujours pas 是「仍然不」，不回答频率高低；plus jamais 是「再也不」，同样过于绝对。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q33",
+          "type": "letters",
+          "prompt": "Complétez avec une négation absolue : Elle ne boit ___ de café après seize heures : sinon, elle ne dort pas.",
+          "answer": "jamais",
+          "decoys": [
+            "s",
+            "t",
+            "p"
+          ],
+          "translation": "她下午四点以后___喝咖啡：否则她睡不着。",
+          "explain": "题目要求绝对否定「从不」，用 ne...jamais；jamais 直接放在动词后，替代 pas 的位置。答案依赖这一指令：单看句子，ne...pas 也能成句，但只是一般否定；若用 parfois 或 souvent，则需要肯定结构，与 ne 冲突。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q34",
+          "type": "tiles",
+          "prompt": "Réunissez les deux phrases avec « mais » et « ne...plus du tout » : Il a déjà vu ce film. / Il ne veut plus le revoir.",
+          "answer": [
+            "Il",
+            "a",
+            "déjà",
+            "vu",
+            "ce",
+            "film,",
+            "mais",
+            "il",
+            "ne",
+            "veut",
+            "plus",
+            "du",
+            "tout",
+            "le",
+            "revoir."
+          ],
+          "bank": [
+            "Il",
+            "a",
+            "déjà",
+            "vu",
+            "ce",
+            "film,",
+            "mais",
+            "il",
+            "ne",
+            "veut",
+            "plus",
+            "du",
+            "tout",
+            "le",
+            "revoir.",
+            "souvent",
+            "encore",
+            "jamais"
+          ],
+          "translation": "他已经看过这部电影。他不想再看它了。",
+          "explain": "déjà 保留在第一个分句；第二个分句用 ne...plus du tout 表示「完全不再想」。plus du tout 的词序是 plus + du tout；pas du tout 只强调程度，不表示「不再」；encore 与 déjà 对应但会改变意义；jamais 过于绝对且不是原句的「不再」。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q35",
+          "type": "choice",
+          "prompt": "— Tu as aimé ce restaurant ? — Au début, oui, mais depuis le changement de chef, je ___.",
+          "options": [
+            "n'aime pas non plus",
+            "n'aime pas encore",
+            "n'aime plus du tout",
+            "n'aime plus jamais"
+          ],
+          "answer": 2,
+          "translation": "——你喜欢这家餐厅吗？——一开始喜欢，但自从换主厨后，我___。",
+          "explain": "「一开始喜欢、现在完全不喜欢」用 ne...plus du tout。ne...pas non plus 表示「也不」，前面必须有一个否定，本句没有；ne...pas encore 是「还没有」；ne...plus jamais 通常指将来「再也不」，与现在持续的状态不完全对应。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q36",
+          "type": "tiles",
+          "prompt": "Réunissez avec « non plus » en remplaçant la répétition par « Elle » : Je n'aime pas le bruit. Ma sœur n'aime pas le bruit.",
+          "answer": [
+            "Elle",
+            "non",
+            "plus",
+            "n'aime",
+            "pas",
+            "le",
+            "bruit."
+          ],
+          "bank": [
+            "Elle",
+            "non",
+            "plus",
+            "n'aime",
+            "pas",
+            "le",
+            "bruit.",
+            "aussi",
+            "ne",
+            "aime",
+            "du"
+          ],
+          "translation": "我不喜欢噪音。我妹妹也不喜欢噪音。",
+          "explain": "用 Elle non plus 把两个否定合并：Elle non plus n'aime pas le bruit。non plus 前用重读代词 Elle；否定仍是 n'aime pas；bruit 是类指，定冠词 le 保留，不能改成 du；aussi 只用于肯定附和。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q37",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "Léa n'a pas de vélo, et lui aussi.",
+            "Léa n'a pas de vélo, et lui pas non plus.",
+            "Léa n'a pas de vélo, et il non plus.",
+            "Léa n'a pas de vélo, et lui non plus."
+          ],
+          "answer": 3,
+          "translation": "哪一句是正确的？",
+          "explain": "否定附和用重读代词 + non plus：lui non plus。lui aussi 用于肯定附和；pas non plus 是错误叠加；il 是主语代词，不能直接放在 non plus 前。直接宾语 vélo 在绝对否定中已正确改为 de。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q38",
+          "type": "choice",
+          "prompt": "Quelle phrase signifie « 她以前很喜欢他，现在一点也不喜欢了 » ?",
+          "options": [
+            "Elle l'adorait avant, mais elle ne l'aime plus du tout.",
+            "Elle l'adorait avant, mais elle ne l'aime pas encore.",
+            "Elle l'aime encore, mais elle ne l'aime pas toujours.",
+            "Elle l'adorait avant, mais elle ne l'aime plus jamais."
+          ],
+          "answer": 0,
+          "translation": "哪一句表示「她以前很喜欢他，现在一点也不喜欢了」？",
+          "explain": "「以前喜欢、现在完全不喜欢」需要 plus du tout：elle ne l'aime plus du tout。pas encore 是「还没有」，与「以前很喜欢」相矛盾；第三项自相矛盾；plus jamais 通常指将来「再也不」，不能准确表达现在持续的状态。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q39",
+          "type": "choice",
+          "prompt": "Nous avons déjà réservé l'hôtel, mais nous ___ billets pour le train.",
+          "options": [
+            "n'avons plus de",
+            "n'avons jamais de",
+            "n'avons pas toujours de",
+            "n'avons pas encore de"
+          ],
+          "answer": 3,
+          "translation": "我们已经订了酒店，但我们___火车票。",
+          "explain": "déjà 用于酒店，说明一部分安排已完成；火车票尚未买，用 ne...pas encore de：nous n'avons pas encore de billets。绝对否定中 des billets 变成 de billets。n'avons plus de 表示「不再有」，暗示以前有；jamais 过于绝对；pas toujours 是频率部分否定。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l3-q40",
+          "type": "tiles",
+          "prompt": "Transformez à la forme négative en gardant le sens de « encore » : Nous cherchons encore des solutions à ce problème.",
+          "answer": [
+            "Nous",
+            "ne",
+            "cherchons",
+            "plus",
+            "de",
+            "solutions",
+            "à",
+            "ce",
+            "problème."
+          ],
+          "bank": [
+            "Nous",
+            "ne",
+            "cherchons",
+            "plus",
+            "de",
+            "solutions",
+            "à",
+            "ce",
+            "problème.",
+            "pas",
+            "encore",
+            "des",
+            "cherchions"
+          ],
+          "translation": "我们还在寻找这个问题的解决办法。",
+          "explain": "encore（还在）的否定对应是 ne...plus（不再）：ne cherchons plus。绝对否定中 des solutions 变成 de solutions。ne...pas encore 是「还没有」，与「还在寻找」的持续意义相反；des 应改为 de；cherchions 改变时态。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c23-discourse-markers-l4-1",
+      "title": "副动词的时间、方式、原因与条件（1）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c23-discourse-markers-l4-q1",
+          "type": "choice",
+          "prompt": "Quelle phrase respecte la règle du même sujet pour le gérondif ?",
+          "options": [
+            "En sortant de la gare, la pluie s'est mise à tomber.",
+            "En sortant de la gare, le soleil brillait déjà.",
+            "En sortant de la gare, j'ai aperçu un vieil ami.",
+            "En sortant de la gare, il a commencé à pleuvoir."
+          ],
+          "answer": 2,
+          "translation": "哪一句遵守了副动词与主句同主语的要求？",
+          "explain": "副动词隐含的执行者必须与主句主语一致。只有 j'ai aperçu 那一项中，sortir 和 apercevoir 的主语都是 je；其余三项的主句主语分别是 la pluie、le soleil 和无人称 il，都不能执行 sortir de la gare。遇到这种情况应改用连词从句，例如 Quand je suis sorti de la gare, la pluie s'est mise à tomber。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l4-q2",
+          "type": "tiles",
+          "prompt": "Réunissez les deux phrases en mettant la première au gérondif, en tête de phrase : « Elle a pris son parapluie. Elle est sortie. »",
+          "answer": [
+            "En",
+            "prenant",
+            "son",
+            "parapluie,",
+            "elle",
+            "est",
+            "sortie."
+          ],
+          "bank": [
+            "En",
+            "prenant",
+            "son",
+            "parapluie,",
+            "elle",
+            "est",
+            "sortie.",
+            "a",
+            "pris",
+            "sorti",
+            "prend",
+            "prenante",
+            "sortait"
+          ],
+          "translation": "把两句合并，把第一句改成副动词并放在句首：她拿了伞。她出门了。",
+          "explain": "prendre 的现在分词是 prenant（nous prenons 去掉 -ons 加 -ant），副动词写作 en prenant，不随主语变化，不能写 prenante。第一句的主语 elle 与第二句相同；sortir 的复合过去时用 être，过去分词 sortie 与 elle 阴性单数配合。合并后 en prenant 表示伴随动作或方式。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l4-q3",
+          "type": "letters",
+          "prompt": "Elle a réussi en ___ attention aux détails. (faire)",
+          "answer": "faisant",
+          "decoys": [
+            "e",
+            "s",
+            "t"
+          ],
+          "translation": "她通过___注意细节而取得了成功。",
+          "explain": "faire 的现在分词是 faisant（nous faisons 去掉 -ons 加 -ant）；副动词 en faisant 表示方式或手段，形式不变，不写 faisante。主语 elle 同时是 réussir 和 faire attention 的执行者。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l4-q4",
+          "type": "choice",
+          "prompt": "Dans quelle phrase la forme en -ant n'est-elle pas un gérondif ?",
+          "options": [
+            "Les enfants, jouant dans le jardin, ont oublié l'heure.",
+            "Elle a répondu en souriant.",
+            "En arrivant, il a vu Marie.",
+            "Il a appris en écoutant la radio."
+          ],
+          "answer": 0,
+          "translation": "哪一句中的 -ant 形式不是副动词？",
+          "explain": "第一项没有 en，jouant 是现在分词，构成分词短语说明 les enfants；其余三项都是 en + 现在分词，属于副动词。副动词必须带 en；不带 en 的 -ant 形式是现在分词，可构成分词短语。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l4-q5",
+          "type": "choice",
+          "prompt": "Dans « En sortant du bureau, Léa a entendu son téléphone sonner », le gérondif exprime :",
+          "options": [
+            "la cause",
+            "la manière",
+            "la condition",
+            "la simultanéité"
+          ],
+          "answer": 3,
+          "translation": "在「En sortant du bureau, Léa a entendu son téléphone sonner」中，副动词表达什么？",
+          "explain": "离开办公室与听到手机响在同一时间段发生，副动词提供主句动作的时间背景，是同时关系。它不是说明「怎么听」的方式，也不是原因或假设。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l4-q6",
+          "type": "choice",
+          "prompt": "Dans « Il a obtenu une réduction en présentant sa carte d'étudiant », le gérondif exprime plutôt :",
+          "options": [
+            "la simultanéité",
+            "le moyen / la manière",
+            "la condition",
+            "l'opposition"
+          ],
+          "answer": 1,
+          "translation": "在「Il a obtenu une réduction en présentant sa carte d'étudiant」中，副动词更接近表达什么？",
+          "explain": "他通过出示学生证获得了折扣；副动词说明达到结果所借助的手段。出示学生证发生在获得折扣之前，因此不是单纯的同时关系，也不是条件或对立。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c23-discourse-markers-l4-2",
+      "title": "副动词的时间、方式、原因与条件（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c23-discourse-markers-l4-q7",
+          "type": "tiles",
+          "prompt": "Transformez avec en + participe présent, en mettant le gérondif en tête de phrase : « Comme elle marchait trop vite, elle est tombée. »",
+          "answer": [
+            "En",
+            "marchant",
+            "trop",
+            "vite,",
+            "elle",
+            "est",
+            "tombée."
+          ],
+          "bank": [
+            "En",
+            "marchant",
+            "trop",
+            "vite,",
+            "elle",
+            "est",
+            "tombée.",
+            "a",
+            "marchait",
+            "marché",
+            "tomber",
+            "tombait"
+          ],
+          "translation": "用 en + 现在分词改写，并把副动词放在句首：她因为走得太快，摔倒了。",
+          "explain": "marcher 的现在分词是 marchant（nous marchons 去掉 -ons 加 -ant）；en marchant 在此说明摔倒的原因，主语 elle 同时是 marcher 和 tomber 的执行者。tomber 的复合过去时用 être，分词 tombée 与 elle 阴性单数一致。不能写 en marchait 或 en marché。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l4-q8",
+          "type": "letters",
+          "prompt": "Il ne dort pas bien en ___ trop de café. (boire)",
+          "answer": "buvant",
+          "decoys": [
+            "e",
+            "s",
+            "t"
+          ],
+          "translation": "他因为___太多咖啡，所以睡不好。",
+          "explain": "boire 的现在分词是 buvant（nous buvons 去掉 -ons 加 -ant）；en buvant 在这里说明睡不好的原因，主语 il 同时是 boire 和 dormir 的执行者；副动词形式不变。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l4-q9",
+          "type": "choice",
+          "prompt": "Dans « En prenant le train de six heures, nous serions arrivés avant midi », le gérondif exprime :",
+          "options": [
+            "une condition",
+            "une cause",
+            "une manière",
+            "une simultanéité"
+          ],
+          "answer": 0,
+          "translation": "在「En prenant le train de six heures, nous serions arrivés avant midi」中，副动词表达什么？",
+          "explain": "主句是条件式过去时，副动词提出一个与现实相反的假设「如果坐六点的火车」，相当于 Si nous avions pris le train de six heures, nous serions arrivés avant midi。这里不是已经发生的原因，也不是同时发生的动作。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l4-q10",
+          "type": "choice",
+          "prompt": "Quel énoncé présente un gérondif de condition, et non de simultanéité ?",
+          "options": [
+            "En ouvrant la porte, elle a trouvé une lettre.",
+            "En marchant, il écoutait de la musique.",
+            "En riant, elle a répondu à la question.",
+            "En suivant ce chemin, vous arriverez plus vite."
+          ],
+          "answer": 3,
+          "translation": "哪一句中的副动词表示条件，而不是同时？",
+          "explain": "最后一句的主句用将来时，副动词提出条件「如果走这条路」，相当于 Si vous suivez ce chemin, vous arriverez plus vite；前三句的副动词都描述与主句同时发生的动作。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l4-q11",
+          "type": "tiles",
+          "prompt": "Réunissez les deux phrases en mettant la première au gérondif, en tête de phrase, pour exprimer la cause : « Il ne connaissait pas la route. Il a consulté une carte. »",
+          "answer": [
+            "En",
+            "ne",
+            "connaissant",
+            "pas",
+            "la",
+            "route,",
+            "il",
+            "a",
+            "consulté",
+            "une",
+            "carte."
+          ],
+          "bank": [
+            "En",
+            "ne",
+            "connaissant",
+            "pas",
+            "la",
+            "route,",
+            "il",
+            "a",
+            "consulté",
+            "une",
+            "carte.",
+            "connaissait",
+            "connaître",
+            "savait"
+          ],
+          "translation": "把两句合并，把第一句改成副动词并放在句首，以表达原因：他不认识路。他查了地图。",
+          "explain": "connaître 的现在分词是 connaissant（nous connaissons 去掉 -ons 加 -ant）；否定时 ne 紧跟 en，pas 放在分词后：en ne connaissant pas。副动词说明查地图的原因，主语 il 与主句一致。不能写 en ne connaissait pas。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-l4-q12",
+          "type": "choice",
+          "prompt": "Dans « En ne fermant pas la porte, elle a laissé entrer le chat », le gérondif exprime :",
+          "options": [
+            "la condition",
+            "la cause",
+            "la simultanéité",
+            "la manière"
+          ],
+          "answer": 1,
+          "translation": "在「En ne fermant pas la porte, elle a laissé entrer le chat」中，副动词表达什么？",
+          "explain": "她没有关门，猫因此进来了；副动词交代主句结果的原因，是原因义。这里不是「如果」的条件，也不是单纯同时；用「方式」理解会把猫进来当成她有意采用的手段，不符合 a laissé entrer 的结果义。否定形式 en ne fermant pas 中 ne 紧跟 en，pas 放在分词后。"
+        }
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "id": "pub-c23-discourse-markers-x1-1",
+      "title": "衔接综合：追加、转折、顺序与后果（1）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c23-discourse-markers-x1-q1",
+          "type": "choice",
+          "prompt": "Le conférencier était très attendu. ___, il est arrivé avec vingt minutes de retard : ___, aucun train n'était passé ce matin-là.",
+          "options": [
+            "En effet / pourtant",
+            "Alors / par contre",
+            "Pourtant / en effet",
+            "D'une part / d'autre part"
+          ],
+          "answer": 2,
+          "translation": "这位演讲者备受期待。___，他迟到了二十分钟：___，那天早上没有一列火车经过。",
+          "explain": "第一空：备受期待却迟到，前后相反于预期，用 pourtant；第二空：用 en effet 证实并解释迟到的事实（没有火车）。en effet 不表转折，不能放第一空；alors 表后果，这里不是后果；d'une part...d'autre part 要成对列举两个方面。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x1-q2",
+          "type": "choice",
+          "prompt": "___, lavez les légumes ; ___, coupez-les en petits morceaux ; ___, faites-les revenir dans l'huile.",
+          "options": [
+            "Enfin / d'abord / ensuite",
+            "D'abord / ensuite / enfin",
+            "Soudain / puis / pourtant",
+            "Par contre / ensuite / en effet"
+          ],
+          "answer": 1,
+          "translation": "___，洗净蔬菜；___，把它们切成小块；___，把它们放进油里翻炒。",
+          "explain": "三步按操作顺序排列：d'abord 引出首步，ensuite 引出次步，enfin 引出末步。soudain 表突发，pourtant 表转折，par contre 表对照，en effet 表确认，都不能标记步骤顺序。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x1-q3",
+          "type": "choice",
+          "prompt": "Le village était silencieux. ___, un cri a déchiré la nuit.",
+          "options": [
+            "Alors",
+            "Pourtant",
+            "En effet",
+            "Soudain"
+          ],
+          "answer": 3,
+          "translation": "村子里一片寂静。___，一声尖叫划破了夜空。",
+          "explain": "un cri a déchiré la nuit 是突然、出乎意料的事件，用 soudain，句首用逗号隔开。alors 只表顺承或后果，不强调意外；pourtant 表转折；en effet 表确认。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x1-q4",
+          "type": "choice",
+          "prompt": "Dans « Le quartier est très animé le soir. Par contre, les loyers y sont moins élevés que dans le centre », que fait « par contre » ?",
+          "options": [
+            "Il ajoute un argument dans le même sens.",
+            "Il introduit une face opposée à ce qui précède.",
+            "Il confirme le fait précédent.",
+            "Il marque une conséquence."
+          ],
+          "answer": 1,
+          "translation": "在「Le quartier est très animé le soir. Par contre, les loyers y sont moins élevés que dans le centre」中，par contre 起什么作用？",
+          "explain": "前句说晚上很热闹，后句说租金反而比市中心低，引出与前句相对照的另一面；par contre 常居句首并用逗号隔开。它不是追加、确认或后果。注意它也不是连词，不能不停顿地直接粘合两个分句。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x1-q5",
+          "type": "choice",
+          "prompt": "Dans « Elle parle anglais ; elle parle aussi allemand. Alors, elle peut travailler dans les deux pays », que marquent « aussi » et « Alors » ?",
+          "options": [
+            "aussi introduit un contraste ; Alors confirme un fait.",
+            "aussi confirme une explication ; Alors marque une rupture.",
+            "aussi ajoute une information ; Alors introduit une conséquence.",
+            "aussi marque une conséquence ; Alors ajoute une information."
+          ],
+          "answer": 2,
+          "translation": "在「Elle parle anglais ; elle parle aussi allemand. Alors, elle peut travailler dans les deux pays」中，aussi 和 Alors 各起什么作用？",
+          "explain": "aussi 把「会德语」追加到「会英语」上；Alors 引出由双语能力得出的结果「能在两国工作」。aussi 不表转折或后果；Alors 不是确认或追加。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x1-q6",
+          "type": "letters",
+          "prompt": "Le musée devait être ouvert à dix heures ; ___, à dix heures et demie, les portes restaient fermées.",
+          "answer": "pourtant",
+          "decoys": [
+            "s",
+            "d",
+            "e"
+          ],
+          "translation": "博物馆本应十点开门；___，十点半时门仍然关着。",
+          "explain": "预期「十点开门」与现实「十点半仍关着」相反，句首用 pourtant，并用逗号隔开；它表示与预期相反，不是后果或确认。注意拼写：p-o-u-r-t-a-n-t。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c23-discourse-markers-x1-2",
+      "title": "衔接综合：追加、转折、顺序与后果（2）",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c23-discourse-markers-x1-q7",
+          "type": "choice",
+          "prompt": "Le train est annulé. ___, nous devrons prendre le bus.",
+          "options": [
+            "En effet",
+            "Alors",
+            "Pourtant",
+            "Par contre"
+          ],
+          "answer": 1,
+          "translation": "火车取消了。___，我们得坐公交车了。",
+          "explain": "前句提供情况，后句是由此作出的决定或后果，用 alors 引出。en effet 是证实前句；pourtant 和 par contre 都表转折或对照，这里不是相反关系。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x1-q8",
+          "type": "choice",
+          "prompt": "D'une part, l'appartement est loin du centre ; d'autre part, le loyer est élevé. ___, je vais signer le bail.",
+          "options": [
+            "En effet",
+            "Alors",
+            "D'abord",
+            "Pourtant"
+          ],
+          "answer": 3,
+          "translation": "一方面，公寓离市中心远；另一方面，租金高。___，我还是要签租约。",
+          "explain": "前文用 d'une part...d'autre part 列举两个不利方面；结论「还是要签」与这些不利条件相反，用 pourtant。en effet 只确认前文，alors 表顺承后果（与「仍然要签」不符），d'abord 是顺序标记。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x1-q9",
+          "type": "tiles",
+          "prompt": "Remettez les mots dans l'ordre pour raconter les étapes successives.",
+          "answer": [
+            "D'abord,",
+            "il",
+            "a",
+            "frappé,",
+            "puis",
+            "il",
+            "a",
+            "ouvert",
+            "la",
+            "porte,",
+            "enfin",
+            "il",
+            "est",
+            "entré."
+          ],
+          "bank": [
+            "D'abord,",
+            "il",
+            "a",
+            "frappé,",
+            "puis",
+            "il",
+            "a",
+            "ouvert",
+            "la",
+            "porte,",
+            "enfin",
+            "il",
+            "est",
+            "entré.",
+            "Soudain,",
+            "pourtant",
+            "frappait",
+            "ouvrait"
+          ],
+          "translation": "把词语重新排序，按先后顺序叙述步骤。",
+          "explain": "d'abord 引出第一步「敲门」，puis 引出第二步「开门」，enfin 引出末步「走进去」；叙事顺序决定词语顺序。soudain 表突发，pourtant 表转折，frappait 和 ouvrait 是未完成过去时，都不符合这里的连续完成事件。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x1-q10",
+          "type": "letters",
+          "prompt": "La rue était déserte ; ___, une voiture a surgi au coin de la rue.",
+          "answer": "soudain",
+          "decoys": [
+            "t",
+            "e",
+            "r"
+          ],
+          "translation": "街道空无一人；___，一辆汽车从街角出现。",
+          "explain": "前后是静止场景与突发事件的对比，用 soudain 引出出乎意料的事件；句首用逗号隔开。注意拼写：s-o-u-d-a-i-n。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x1-q11",
+          "type": "choice",
+          "prompt": "Il pleuvait à verse. ___, nous avons annulé le pique-nique.",
+          "options": [
+            "Pourtant",
+            "Soudain",
+            "Alors",
+            "En effet"
+          ],
+          "answer": 2,
+          "translation": "大雨倾盆。___，我们取消了野餐。",
+          "explain": "取消野餐是由大雨导致的决定或后果，用 alors。soudain 只强调突发，不表因果；pourtant 表转折；en effet 表确认。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x1-q12",
+          "type": "choice",
+          "prompt": "D'une part, le musée ferme à dix-sept heures ; d'autre part, la dernière entrée est à seize heures trente. ___, nous devons arriver avant seize heures.",
+          "options": [
+            "Alors",
+            "Pourtant",
+            "En effet",
+            "Soudain"
+          ],
+          "answer": 0,
+          "translation": "一方面，博物馆十七点关门；另一方面，最后入场时间是十六点三十分。___，我们必须十六点前到。",
+          "explain": "前文用 d'une part...d'autre part 列出两个相关事实，后句是由此得出的实际结论，用 alors。pourtant 表转折，en effet 表确认，soudain 表突发。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c23-discourse-markers-x2",
+      "title": "否定与副动词综合：范围、对应与同主语",
+      "kind": "challenge",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c23-discourse-markers-x2-q1",
+          "type": "choice",
+          "prompt": "En ne ___ pas quoi dire, elle a gardé le silence.",
+          "options": [
+            "savoir",
+            "sachant",
+            "savait",
+            "su"
+          ],
+          "answer": 1,
+          "translation": "由于___该说什么，她保持了沉默。",
+          "explain": "副动词由 en + 现在分词构成；savoir 的现在分词是不规则的 sachant（不是 savant）。否定时 ne 紧跟 en，pas 放在分词后：en ne sachant pas。副动词的主语 elle 与主句主语一致。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x2-q2",
+          "type": "choice",
+          "prompt": "En ne ___ plus de café, il dort mieux.",
+          "options": [
+            "buvant",
+            "boit",
+            "bu",
+            "bue"
+          ],
+          "answer": 0,
+          "translation": "由于不再___咖啡，他睡得更好。",
+          "explain": "副动词用 en + 现在分词；boire 的现在分词是 buvant（nous buvons 去掉 -ons 加 -ant）。ne...plus 表示「不再」，否定后泛指的部分冠词 du 变 de：plus de café。主语 il 同时是 boire 和 dormir 的执行者。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x2-q3",
+          "type": "choice",
+          "prompt": "Que signifie « En ne comprenant toujours pas la consigne, il a demandé de l'aide » ?",
+          "options": [
+            "Comme il ne comprenait pas toujours la consigne, il a demandé de l'aide.",
+            "Comme il ne comprenait plus la consigne, il a demandé de l'aide.",
+            "Comme il ne la comprenait toujours pas, il a demandé de l'aide.",
+            "Comme il ne la comprenait jamais, il a demandé de l'aide."
+          ],
+          "answer": 2,
+          "translation": "「En ne comprenant toujours pas la consigne, il a demandé de l'aide」是什么意思？",
+          "explain": "ne...toujours pas 表示「仍然不」，否定持续到参照时刻；pas toujours 才是「并非总是」，词序不同，意义也不同。这里副动词说明求助的原因：他仍然没弄懂要求。ne...plus 是「不再」，ne...jamais 是「从不」，都不符合语境。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x2-q4",
+          "type": "tiles",
+          "prompt": "Répondez à la négative en reprenant le sujet par un pronom tonique : « — Je n'aime pas ce film. — Et ton frère ? »",
+          "answer": [
+            "Lui",
+            "non",
+            "plus."
+          ],
+          "bank": [
+            "Lui",
+            "non",
+            "plus.",
+            "aussi",
+            "pas",
+            "du",
+            "tout",
+            "Elle"
+          ],
+          "translation": "用否定方式回答，并用重读代词重复主语：「——我不喜欢这部电影。——你弟弟呢？」",
+          "explain": "对否定陈述表示「也不」用 non plus，不能用 aussi；ton frère 是第三人称阳性单数，重读代词用 lui，所以回答 Lui non plus。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x2-q5",
+          "type": "choice",
+          "prompt": "Que signifie « En ne buvant plus du tout de café, il dort mieux » ?",
+          "options": [
+            "Il n'a jamais bu de café et dort mieux.",
+            "Il n'en boit pas toujours et dort mieux.",
+            "Il en boit encore un peu et dort mieux.",
+            "Il a cessé d'en boire et dort mieux."
+          ],
+          "answer": 3,
+          "translation": "「En ne buvant plus du tout de café, il dort mieux」是什么意思？",
+          "explain": "plus du tout 表示此前存在、现在已经完全消失的情况，相当于「一点也不再」；这里说明他以前喝咖啡，现在完全停了，正是「他不再喝咖啡，睡得更好」。第一项用 jamais（从不），否认他曾经喝咖啡；第二项 pas toujours 是「并非总是」；toujours pas 才是「仍然不」，词序不同，意义也不同；第三项说他还喝一点，与 ne...plus du tout 相反。副动词 en ne buvant 说明睡得更好了的原因。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x2-q6",
+          "type": "choice",
+          "prompt": "En ne mangeant jamais ___ viande, elle doit trouver d'autres sources de protéines.",
+          "options": [
+            "de la",
+            "de",
+            "la",
+            "une"
+          ],
+          "answer": 1,
+          "translation": "由于从不吃___肉，她必须寻找其他蛋白质来源。",
+          "explain": "ne...jamais 是否定结构，泛指的直接宾语前，部分冠词 de la 要变为 de：ne mange jamais de viande。若指的是特定的那部分肉（例如前文已提到），才保留 la。副动词的 ne 紧跟 en，jamais 放在分词后。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x2-q7",
+          "type": "choice",
+          "prompt": "En ne lisant pas ___ livres que je lui avais prêtés, il n'a pas compris le cours.",
+          "options": [
+            "les",
+            "de",
+            "des",
+            "du"
+          ],
+          "answer": 0,
+          "translation": "由于没有读我借给他的___书，他没听懂课。",
+          "explain": "关系从句 que je lui avais prêtés 限定「我借给他的那些书」，是特定的一批，否定不改变确指限定词，保留 les。只有泛指的 un/une/des 或部分冠词 du/de la 在否定中变 de。副动词的主语 il 与主句主语一致。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x2-q8",
+          "type": "letters",
+          "prompt": "Elle habitait encore à Lyon il y a deux ans, mais elle n'y habite ___ depuis.",
+          "answer": "plus",
+          "decoys": [
+            "t",
+            "e",
+            "s"
+          ],
+          "translation": "两年前她还住在里昂，但此后就___住在那儿了。",
+          "explain": "肯定句中的 encore 表示「仍然」，其否定对应是 ne...plus「不再」；déjà「已经」的否定对应才是 ne...pas encore「尚未」。时间线 il y a deux ans 说明当时仍住，depuis 说明这个状态现在已经结束。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x2-q9",
+          "type": "choice",
+          "prompt": "En regardant ce film, je ne me suis ___ amusé : je l'ai trouvé insupportable.",
+          "options": [
+            "plus du tout",
+            "pas encore",
+            "pas du tout",
+            "non plus"
+          ],
+          "answer": 2,
+          "translation": "看这部电影时，我___觉得有趣：我觉得它难以忍受。",
+          "explain": "这里只是对这部电影作完全否定「一点也不」，此前没有「曾经觉得有趣」的前提，用 pas du tout。plus du tout 需要「此前存在、现已完全消失」；pas encore 是「尚未」；non plus 用于对否定陈述表示「也不」。副动词 en regardant 的主语是 je，与主句一致。"
+        },
+        {
+          "id": "pub-c23-discourse-markers-x2-q10",
+          "type": "choice",
+          "prompt": "En n'achetant plus ___ journaux (il en achetait quelques-uns chaque semaine) et en ne lisant pas ___ livres que je lui avais prêtés, il n'a ___ compris l'affaire.",
+          "options": [
+            "de / les / jamais",
+            "des / les / toujours",
+            "de / aucun / jamais",
+            "des / les / jamais"
+          ],
+          "answer": 0,
+          "translation": "由于不再买___报纸（他以前每周都买几份），也不读我借给他的___书，他___弄明白这件事。",
+          "explain": "第一空：括号里的 il en achetait quelques-uns 说明原句是不定的 quelques journaux，ne...plus 否定后按规则变为 de journaux。否定中不定冠词 des 要变成 de，所以 des 不成立；les 表泛指定冠词，与「不再买报」的否定对象不符。第二空：livres 有 que je lui avais prêtés 限定，是特定的一批，保留 les。第三空：ne...jamais 表示「从未」，jamais 放在助动词后、过去分词前。两个副动词的主语都是 il，与主句主语一致。"
+        }
+      ]
+    }
+  ]
+}

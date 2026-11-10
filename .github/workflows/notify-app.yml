@@ -1,0 +1,29 @@
+name: Notify app of content update
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  dispatch:
+    name: Dispatch content-updated
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Dispatch to app
+        env:
+          GH_TOKEN: ${{ secrets.APP_DISPATCH_TOKEN }}
+        run: |
+          set -euo pipefail
+          jq -n --arg sha "$GITHUB_SHA" \
+            '{event_type: "content-updated", client_payload: {sha: $sha}}' \
+            | gh api \
+                --method POST \
+                -H "Accept: application/vnd.github+json" \
+                -H "X-GitHub-Api-Version: 2022-11-28" \
+                repos/dinayuil/french-grammar-app/dispatches \
+                --input -

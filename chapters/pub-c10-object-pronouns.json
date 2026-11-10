@@ -217,7 +217,7 @@
   "lessons": [
     {
       "id": "pub-c10-object-pronouns-l1-1",
-      "title": "直接/间接宾语与代词选择（1）",
+      "title": "代词选择混合（1）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -236,6 +236,73 @@
           "explain": "téléphoner à qn 通过介词 à 引出补语，是间接宾语；à + 单数人用 lui，不随性别变化。la/le 是直接宾语代词，不能与 téléphoner à 搭配。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Tu as besoin de ce livre ? — Oui, j'___ ai besoin. »",
+          "options": [
+            "en",
+            "y",
+            "le",
+            "lui"
+          ],
+          "answer": 0,
+          "translation": "你需要这本书吗？——是的，我需要。",
+          "explain": "avoir besoin de + 事物用 en 替代整个 de + 名词；en 放在助动词 ai 前。y 代替 à + 事物，le 是直接宾语代词。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l1-q6",
+          "type": "choice",
+          "prompt": "Complétez : « Je pense à Marie. » → « Je pense ___ . »",
+          "options": [
+            "y",
+            "à elle",
+            "lui",
+            "la"
+          ],
+          "answer": 1,
+          "translation": "我在想玛丽。",
+          "explain": "penser à + 人不用 lui/leur，而用重读代词 elle；介词 à 保留在重读代词前。y 只代替 à + 事物。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l1-q99",
+          "type": "tiles",
+          "prompt": "Répondez avec un pronom : « Il m'a parlé hier ? » → ___",
+          "answer": [
+            "Oui,",
+            "il",
+            "t'a",
+            "parlé",
+            "hier."
+          ],
+          "bank": [
+            "Oui,",
+            "il",
+            "t'a",
+            "parlé",
+            "hier.",
+            "m'a",
+            "te",
+            "parles",
+            "aujourd'hui."
+          ],
+          "translation": "他昨天跟我说话了吗？——是的，他昨天跟你说话了。",
+          "explain": "问句的 m' 指说话人，回答时指对方，换成 t'；复合过去时中代词放在助动词 a 前。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q1",
+          "type": "choice",
+          "prompt": "Complétez : « Tu penses à ce projet ? — Oui, j'___ pense. »",
+          "options": [
+            "y",
+            "en",
+            "le",
+            "lui"
+          ],
+          "answer": 0,
+          "translation": "你在想这个项目吗？——是的，我在想。",
+          "explain": "penser à + 事物用 y；y 放在变位动词 pense 前。en 代替 de + 事物，le 是直接宾语代词。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q2",
           "type": "choice",
           "prompt": "Complétez : « J'aide Marie. » → « Je ___ aide. »",
@@ -248,6 +315,19 @@
           "answer": 1,
           "translation": "我帮助玛丽。",
           "explain": "aider qn 直接带宾语，是直接宾语，用 la；la 在元音 aide 前省音为 l'。lui/leur 只用于 à + 人的间接宾语。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q39",
+          "type": "letters",
+          "prompt": "Complétez : « Tu bois combien de café ? — J'en bois ___ . »（很多）",
+          "answer": "beaucoup",
+          "decoys": [
+            "s",
+            "t",
+            "x"
+          ],
+          "translation": "你喝多少咖啡？——我喝很多。",
+          "explain": "beaucoup de + 名词用 en 替代名词后，保留副词 beaucoup；不再保留 de。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q3",
@@ -276,7 +356,15 @@
           "answer": 3,
           "translation": "她在等弟弟。",
           "explain": "attendre qn 直接带宾语，son frère 是阳性单数，用 le；le 在元音 attend 前省音为 l'。lui 是间接宾语代词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-2",
+      "title": "代词选择混合（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q5",
           "type": "choice",
@@ -292,18 +380,18 @@
           "explain": "parler à qn 是间接宾语；单数人用 lui，虽然 la voisine 是阴性，但 lui 不分性别。la 是直接宾语代词。"
         },
         {
-          "id": "pub-c10-object-pronouns-l1-q6",
+          "id": "pub-c10-object-pronouns-l2-q2",
           "type": "choice",
-          "prompt": "Complétez : « Je pense à Marie. » → « Je pense ___ . »",
+          "prompt": "Complétez : « Elle a peur des araignées. » → « Elle ___ a peur. »",
           "options": [
-            "y",
-            "à elle",
-            "lui",
-            "la"
+            "leur",
+            "en",
+            "les",
+            "y"
           ],
           "answer": 1,
-          "translation": "我在想玛丽。",
-          "explain": "penser à + 人不用 lui/leur，而用重读代词 elle；介词 à 保留在重读代词前。y 只代替 à + 事物。"
+          "translation": "她怕蜘蛛。",
+          "explain": "avoir peur de + 事物是 de 补语，用 en。les 是直接宾语代词，y 代替 à + 事物，leur 是间接宾语。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q7",
@@ -320,18 +408,32 @@
           "explain": "plaire à qn 是间接宾语；aux étudiants 是复数人，用 leur。les 是直接宾语代词，y 代替 à + 事物。"
         },
         {
-          "id": "pub-c10-object-pronouns-l1-q8",
+          "id": "pub-c10-object-pronouns-l1-q16",
           "type": "choice",
-          "prompt": "Complétez : « Il obéit à son père. » → « Il ___ obéit. »",
+          "prompt": "Complétez : « Il écoute la radio ? — Oui, il ___ écoute. »",
           "options": [
+            "la",
             "le",
-            "l'",
-            "leur",
-            "lui"
+            "les",
+            "l'"
           ],
           "answer": 3,
-          "translation": "他听从父亲。",
-          "explain": "obéir à qn 是间接宾语，单数人用 lui。le 是直接宾语代词，不能与 obéir à 搭配。"
+          "translation": "他听收音机吗？——是的，他听。",
+          "explain": "la radio 是阴性单数直接宾语，用 la；la 在元音 écoute 前省音为 l'。写 la écoute 不符合省音规则。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q2",
+          "type": "choice",
+          "prompt": "Complétez : « Il répond à la question ? — Oui, il ___ répond. »",
+          "options": [
+            "lui",
+            "y",
+            "en",
+            "la"
+          ],
+          "answer": 1,
+          "translation": "他回答这个问题吗？——是的，他回答。",
+          "explain": "répondre à + 事物用 y；la 是直接宾语代词，lui 用于 à + 人。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q9",
@@ -348,6 +450,20 @@
           "explain": "ressembler à qn 是间接宾语，单数人用 lui；虽然 sa mère 是阴性，lui 仍不变。la 是直接宾语代词。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q3",
+          "type": "choice",
+          "prompt": "Complétez : « Nous sommes fiers de notre travail. » → « Nous ___ sommes fiers. »",
+          "options": [
+            "le",
+            "lui",
+            "en",
+            "y"
+          ],
+          "answer": 2,
+          "translation": "我们为自己的工作感到自豪。",
+          "explain": "être fier de + 事物用 en 替代 de + 名词；形容词 fiers 仍与主语 nous 配合。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q10",
           "type": "choice",
           "prompt": "Complétez : « Nous écrivons à la directrice. » → « Nous ___ écrivons. »",
@@ -360,15 +476,7 @@
           "answer": 1,
           "translation": "我们给女校长写信。",
           "explain": "écrire à qn 是间接宾语，单数人用 lui。la 是直接宾语代词；leur 用于复数人。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l1-2",
-      "title": "直接/间接宾语与代词选择（2）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
+        },
         {
           "id": "pub-c10-object-pronouns-l1-q11",
           "type": "choice",
@@ -382,7 +490,15 @@
           "answer": 2,
           "translation": "你开车吗？——是的，我开。",
           "explain": "la voiture 是阴性单数直接宾语，用 la。prends 以辅音开头，不需要省音。lui 是间接宾语代词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-3",
+      "title": "代词选择混合（3）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q12",
           "type": "choice",
@@ -396,6 +512,20 @@
           "answer": 3,
           "translation": "你们读报纸吗？——是的，我们读。",
           "explain": "les journaux 是复数直接宾语，用 les。leur 是间接宾语代词，不能替代 les journaux。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q4",
+          "type": "choice",
+          "prompt": "Complétez : « Il parle souvent de son voyage. » → « Il ___ parle souvent. »",
+          "options": [
+            "y",
+            "le",
+            "lui",
+            "en"
+          ],
+          "answer": 3,
+          "translation": "他常谈起他的旅行。",
+          "explain": "parler de + 事物用 en；en 放在变位动词 parle 前。y 代替 à + 事物，不能与 parler de 搭配。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q13",
@@ -426,6 +556,20 @@
           "explain": "Paul et Marie 是复数直接宾语，用 les。leur 只用于 à + 复数人的间接宾语。"
         },
         {
+          "id": "pub-c10-object-pronouns-l3-q3",
+          "type": "choice",
+          "prompt": "Complétez : « Elle participe à la réunion ? — Oui, elle ___ participe. »",
+          "options": [
+            "la",
+            "lui",
+            "y",
+            "en"
+          ],
+          "answer": 2,
+          "translation": "她参加这个会议吗？——是的，她参加。",
+          "explain": "participer à + 事物用 y；y 放在变位动词 participe 前。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q15",
           "type": "choice",
           "prompt": "Complétez : « J'aime ces fleurs ; je ___ achète souvent. »",
@@ -440,18 +584,32 @@
           "explain": "ces fleurs 是定指的复数直接宾语，用 les。en 替代的是 des fleurs 这类不定数量；leur 是间接宾语。"
         },
         {
-          "id": "pub-c10-object-pronouns-l1-q16",
+          "id": "pub-c10-object-pronouns-l2-q5",
           "type": "choice",
-          "prompt": "Complétez : « Il écoute la radio ? — Oui, il ___ écoute. »",
+          "prompt": "Complétez : « J'ai envie de vacances. » → « J'___ ai envie. »",
           "options": [
-            "la",
-            "le",
+            "en",
+            "y",
             "les",
-            "l'"
+            "la"
+          ],
+          "answer": 0,
+          "translation": "我想去度假。",
+          "explain": "avoir envie de + 事物用 en 替代 de + 名词；en 放在助动词 ai 前。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l1-q8",
+          "type": "choice",
+          "prompt": "Complétez : « Il obéit à son père. » → « Il ___ obéit. »",
+          "options": [
+            "le",
+            "l'",
+            "leur",
+            "lui"
           ],
           "answer": 3,
-          "translation": "他听收音机吗？——是的，他听。",
-          "explain": "la radio 是阴性单数直接宾语，用 la；la 在元音 écoute 前省音为 l'。写 la écoute 不符合省音规则。"
+          "translation": "他听从父亲。",
+          "explain": "obéir à qn 是间接宾语，单数人用 lui。le 是直接宾语代词，不能与 obéir à 搭配。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q17",
@@ -466,7 +624,15 @@
           "answer": 0,
           "translation": "我们邀请索菲吗？——是的，我们邀请她。",
           "explain": "inviter qn 直接带宾语，Sophie 是阴性单数，用 la；la 在元音 invitons 前省音为 l'。lui 是间接宾语代词。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-4",
+      "title": "代词选择混合（4）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q18",
           "type": "choice",
@@ -480,6 +646,20 @@
           "answer": 1,
           "translation": "这些是你的书吗？——是的，我在读它们。",
           "explain": "tes livres 是复数直接宾语，用 les。leur 是间接宾语代词，不能替代 livres。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q6",
+          "type": "choice",
+          "prompt": "Complétez : « Tu achètes des fruits ? — Oui, j'___ achète. »",
+          "options": [
+            "y",
+            "en",
+            "les",
+            "des"
+          ],
+          "answer": 1,
+          "translation": "你买水果吗？——是的，我买。",
+          "explain": "des + 不定复数名词用 en 替代，替代后不再保留 des。les 只能替代定指宾语。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q19",
@@ -508,15 +688,21 @@
           "answer": 3,
           "translation": "我们跟邻居们说话。",
           "explain": "parler à qn 是间接宾语；aux voisins 是复数人，用 leur。lui 只用于单数，les 是直接宾语代词。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l1-3",
-      "title": "直接/间接宾语与代词选择（3）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q4",
+          "type": "choice",
+          "prompt": "Complétez : « Nous réfléchissons à cette offre. » → « Nous ___ réfléchissons. »",
+          "options": [
+            "en",
+            "la",
+            "lui",
+            "y"
+          ],
+          "answer": 3,
+          "translation": "我们在考虑这个报价。",
+          "explain": "réfléchir à + 事物用 y；en 代替 de + 事物，不能与 réfléchir à 搭配。"
+        },
         {
           "id": "pub-c10-object-pronouns-l1-q21",
           "type": "choice",
@@ -532,18 +718,31 @@
           "explain": "téléphoner à qn 是间接宾语，用 lui；复合过去时中代词放在助动词 ai 前，而不是过去分词后。le 是直接宾语代词。"
         },
         {
-          "id": "pub-c10-object-pronouns-l1-q22",
+          "id": "pub-c10-object-pronouns-l2-q7",
           "type": "choice",
-          "prompt": "Complétez : « Elle ne ___ parle plus. » (à son frère)",
+          "prompt": "Complétez : « Elle a des amis à Paris. » → « Elle ___ a à Paris. »",
           "options": [
+            "y",
             "leur",
-            "lui",
-            "le",
-            "la"
+            "en",
+            "les"
           ],
-          "answer": 1,
-          "translation": "她不再跟她弟弟说话了。",
-          "explain": "parler à qn 是间接宾语，单数人用 lui；否定结构中代词放在变位动词 parle 前。le/la 是直接宾语代词。"
+          "answer": 2,
+          "translation": "她在巴黎有朋友。",
+          "explain": "des amis 是不定复数直接宾语，用 en；les 会变成「那些朋友」，与 des 不符。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l1-q49",
+          "type": "letters",
+          "prompt": "Complétez : « Vous cherchez ce facteur ? — Oui, nous ___ cherchons. »",
+          "answer": "le",
+          "decoys": [
+            "a",
+            "s",
+            "i"
+          ],
+          "translation": "你们在找这位邮递员吗？——是的，我们在找他。",
+          "explain": "chercher qn 直接带宾语，ce facteur 是阳性单数，用 le。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q23",
@@ -558,7 +757,15 @@
           "answer": 2,
           "translation": "这双鞋很讨朱莉喜欢。",
           "explain": "plaire à qn 是间接宾语，Julie 是单数人，用 lui。les/la 是直接宾语代词，不能与 plaire à 搭配。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-5",
+      "title": "代词选择混合（5）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q24",
           "type": "choice",
@@ -572,6 +779,20 @@
           "answer": 3,
           "translation": "老师给学生们解释规则。",
           "explain": "expliquer qch à qn 中 à + 人是间接宾语；aux étudiants 是复数，用 leur。les 是直接宾语代词。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q8",
+          "type": "choice",
+          "prompt": "Quelle phrase est correcte ?",
+          "options": [
+            "J'en achète des.",
+            "J'achète en.",
+            "Je les achète des.",
+            "J'en achète."
+          ],
+          "answer": 3,
+          "translation": "我买一些。",
+          "explain": "en 已包含 des + 名词，替代后不能再保留 des；代词也不能放在动词后。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q25",
@@ -602,6 +823,20 @@
           "explain": "对方用 me 指自己，回答时说话人指对方，人称要换成 te。me 会变成「我认识我自己」，不合对话逻辑。"
         },
         {
+          "id": "pub-c10-object-pronouns-l3-q5",
+          "type": "choice",
+          "prompt": "Complétez : « Il tient à ce souvenir. » → « Il ___ tient. »",
+          "options": [
+            "y",
+            "en",
+            "le",
+            "lui"
+          ],
+          "answer": 0,
+          "translation": "他珍视这段回忆。",
+          "explain": "tenir à + 事物用 y；y 在变位动词 tient 前。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q27",
           "type": "choice",
           "prompt": "Complétez : « Marie vous invite ? — Oui, elle ___ invite. »",
@@ -614,6 +849,20 @@
           "answer": 2,
           "translation": "玛丽邀请你们吗？——是的，她邀请我们。",
           "explain": "问句中的 vous 指听话的一方；回答者代表这个群体说话，要把 vous 换成 nous。vous 会变成「邀请你们自己」。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q9",
+          "type": "choice",
+          "prompt": "Complétez : « Tu as un frère ? — Oui, j'___ ai un. »",
+          "options": [
+            "en",
+            "y",
+            "le",
+            "lui"
+          ],
+          "answer": 0,
+          "translation": "你有兄弟吗？——是的，有一个。",
+          "explain": "un + 名词用 en 替代名词，肯定句中把数量词 un 留在句末。le 是定指直接宾语代词。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q28",
@@ -632,7 +881,7 @@
         {
           "id": "pub-c10-object-pronouns-l1-q29",
           "type": "choice",
-          "prompt": "Complétez : « Elle ___ appelle tous les jours. » (me)",
+          "prompt": "Complétez : « Elle ___ appelle tous les jours. »（我）",
           "options": [
             "m'",
             "me",
@@ -642,11 +891,19 @@
           "answer": 0,
           "translation": "她每天给我打电话。",
           "explain": "直接宾语 me 在元音 appelle 前省音为 m'。me appelle 不符合省音规则；moi 是重读代词，不能作前置宾语。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-6",
+      "title": "代词选择混合（6）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q30",
           "type": "choice",
-          "prompt": "Complétez : « Il ___ attend devant la gare. » (nous)",
+          "prompt": "Complétez : « Il ___ attend devant la gare. »（我们）",
           "options": [
             "leur",
             "nous",
@@ -656,19 +913,25 @@
           "answer": 1,
           "translation": "他在车站前等我们。",
           "explain": "attendre qn 直接带宾语，nous 作直接宾语形式不变。vous 会改变所指对象，les 是第三人称，leur 是间接宾语。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l1-4",
-      "title": "直接/间接宾语与代词选择（4）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q10",
+          "type": "choice",
+          "prompt": "Complétez : « Elle veut une robe ? — Oui, elle ___ veut une. »",
+          "options": [
+            "lui",
+            "en",
+            "la",
+            "y"
+          ],
+          "answer": 1,
+          "translation": "她想要一条裙子吗？——是的，她想要一条。",
+          "explain": "une + 名词用 en 替代名词，肯定句中保留 une 在句末。la 是定指直接宾语代词。"
+        },
         {
           "id": "pub-c10-object-pronouns-l1-q31",
           "type": "choice",
-          "prompt": "Complétez : « Je ___ écoute attentivement. » (vous)",
+          "prompt": "Complétez : « Je ___ écoute attentivement. »（您）",
           "options": [
             "nous",
             "les",
@@ -682,7 +945,7 @@
         {
           "id": "pub-c10-object-pronouns-l1-q32",
           "type": "choice",
-          "prompt": "Complétez : « Tu ___ regardes ? » (me)",
+          "prompt": "Complétez : « Tu ___ regardes ? »（我）",
           "options": [
             "te",
             "moi",
@@ -694,9 +957,23 @@
           "explain": "regarder qn 直接带宾语，me 放在变位动词 regardes 前。regardes 以辅音开头，不省音；moi 是重读代词。"
         },
         {
+          "id": "pub-c10-object-pronouns-l3-q6",
+          "type": "choice",
+          "prompt": "Complétez : « Nous allons à Paris. » → « Nous ___ allons. »",
+          "options": [
+            "le",
+            "y",
+            "en",
+            "à"
+          ],
+          "answer": 1,
+          "translation": "我们去巴黎。",
+          "explain": "地点补语 à Paris 用 y；y 放在变位动词 allons 前。en 用于 de + 来源。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q33",
           "type": "choice",
-          "prompt": "Complétez : « Elle ne ___ voit pas. » (me)",
+          "prompt": "Complétez : « Elle ne ___ voit pas. »（我）",
           "options": [
             "me",
             "m'",
@@ -708,9 +985,23 @@
           "explain": "否定结构中代词放在变位动词前：ne + me + voit + pas。voit 以辅音开头，不省音，所以不用 m'。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q11",
+          "type": "choice",
+          "prompt": "Complétez : « Il cherche un appartement. » → « Il ___ cherche un. »",
+          "options": [
+            "y",
+            "lui",
+            "en",
+            "le"
+          ],
+          "answer": 2,
+          "translation": "他在找一套公寓。",
+          "explain": "un appartement 是不定指直接宾语，用 en 替代名词并保留 un。le 会指「那套公寓」，意义不同。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q34",
           "type": "choice",
-          "prompt": "Complétez : « Le professeur ___ explique la leçon. » (à nous)",
+          "prompt": "Complétez : « Le professeur ___ explique la leçon. »（对我们）",
           "options": [
             "leur",
             "nous",
@@ -724,7 +1015,7 @@
         {
           "id": "pub-c10-object-pronouns-l1-q35",
           "type": "choice",
-          "prompt": "Complétez : « Tu ___ téléphones souvent ? » (à moi)",
+          "prompt": "Complétez : « Tu ___ téléphones souvent ? »（对我）",
           "options": [
             "moi",
             "lui",
@@ -734,11 +1025,19 @@
           "answer": 2,
           "translation": "你常给我打电话吗？",
           "explain": "téléphoner à qn 是间接宾语，第一人称单数用 me，放在动词前。moi 只在重读位置或肯定命令式中使用。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-7",
+      "title": "代词选择混合（7）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q36",
           "type": "choice",
-          "prompt": "Complétez : « Elle ___ téléphone souvent. » (à toi)",
+          "prompt": "Complétez : « Elle ___ téléphone souvent. »（对你）",
           "options": [
             "me",
             "toi",
@@ -750,9 +1049,23 @@
           "explain": "téléphoner à qn 是间接宾语，第二人称单数用 te，放在动词前；te 在辅音开头的 téléphone 前不省音。toi 是重读代词，不能直接前置。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q12",
+          "type": "choice",
+          "prompt": "Complétez : « Je n'ai pas de voiture. » → « Je n'___ ai pas. »",
+          "options": [
+            "y",
+            "une",
+            "la",
+            "en"
+          ],
+          "answer": 3,
+          "translation": "我没有车。",
+          "explain": "否定句中 de + 名词仍用 en，且不保留 une；不能说 « je n'en ai pas une »。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q37",
           "type": "choice",
-          "prompt": "Complétez : « Il ___ a parlé hier. » (à nous)",
+          "prompt": "Complétez : « Il ___ a parlé hier. »（对我们）",
           "options": [
             "nous",
             "vous",
@@ -764,9 +1077,23 @@
           "explain": "parler à qn 是间接宾语，à nous 用 nous；复合过去时中代词放在助动词 a 前。les 是直接宾语代词。"
         },
         {
+          "id": "pub-c10-object-pronouns-l3-q7",
+          "type": "choice",
+          "prompt": "Complétez : « Elle habite à Lyon. » → « Elle ___ habite. »",
+          "options": [
+            "à",
+            "la",
+            "y",
+            "en"
+          ],
+          "answer": 2,
+          "translation": "她住在里昂。",
+          "explain": "habiter à + 地点用 y；替代后不保留介词 à。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q38",
           "type": "choice",
-          "prompt": "Complétez : « Je ___ demande un service. » (à vous)",
+          "prompt": "Complétez : « Je ___ demande un service. »（对您）",
           "options": [
             "leur",
             "vous",
@@ -776,6 +1103,20 @@
           "answer": 1,
           "translation": "我请您帮个忙。",
           "explain": "demander qch à qn 中 à vous 用 vous，放在变位动词 demande 前。nous 会改变所指对象，leur 是第三人称复数。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q13",
+          "type": "choice",
+          "prompt": "Complétez : « Tu veux du café ? — Oui, j'___ veux. »",
+          "options": [
+            "en",
+            "le",
+            "y",
+            "la"
+          ],
+          "answer": 0,
+          "translation": "你要咖啡吗？——是的，我要。",
+          "explain": "du café 是部分冠词宾语，用 en 替代，替代后不保留 du。le 会指确定的「那杯咖啡」。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q39",
@@ -790,6 +1131,20 @@
           "answer": 2,
           "translation": "我常跟他说话。",
           "explain": "间接宾语代词 lui 必须放在变位动词 parler 前；不能说 « parler lui »。parler à qn 只有一个宾语补语，不需要再加 le。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q14",
+          "type": "choice",
+          "prompt": "Complétez : « Il mange de la soupe. » → « Il ___ mange. »",
+          "options": [
+            "lui",
+            "en",
+            "la",
+            "y"
+          ],
+          "answer": 1,
+          "translation": "他喝汤。",
+          "explain": "de la soupe 是部分冠词宾语，用 en 替代，替代后不保留 de la。la 是定指直接宾语代词。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q40",
@@ -808,8 +1163,8 @@
       ]
     },
     {
-      "id": "pub-c10-object-pronouns-l1-5",
-      "title": "直接/间接宾语与代词选择（5）",
+      "id": "pub-c10-object-pronouns-l1-8",
+      "title": "代词选择混合（8）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -827,6 +1182,20 @@
           "explain": "connaître qn 直接带宾语，Marie 是阴性单数，用 la；connais 以辅音开头，不省音。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q15",
+          "type": "choice",
+          "prompt": "Complétez : « Elle boit de l'eau. » → « Elle ___ boit. »",
+          "options": [
+            "y",
+            "lui",
+            "en",
+            "la"
+          ],
+          "answer": 2,
+          "translation": "她喝水。",
+          "explain": "de l'eau 是部分冠词宾语，用 en；不能保留 de l'，也不能用 la。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q42",
           "type": "letters",
           "prompt": "Complétez : « Tu connais ces enfants ? — Oui, je ___ connais. »",
@@ -838,6 +1207,20 @@
           ],
           "translation": "你认识这些孩子吗？——是的，我认识他们。",
           "explain": "ces enfants 是复数直接宾语，用 les，放在变位动词 connais 前。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q8",
+          "type": "choice",
+          "prompt": "Complétez : « Il est dans sa chambre. » → « Il ___ est. »",
+          "options": [
+            "en",
+            "dans",
+            "là",
+            "y"
+          ],
+          "answer": 3,
+          "translation": "他在他的房间里。",
+          "explain": "地点补语 dans sa chambre 用 y；y 在变位动词 est 前。là 是副词，不是代词替换。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q43",
@@ -853,6 +1236,20 @@
           "explain": "téléphoner à qn 是间接宾语；ses parents 是复数人，用 leur。lui 只用于单数。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q16",
+          "type": "choice",
+          "prompt": "Complétez : « Je ne bois pas de café. » → « Je n'___ bois pas. »",
+          "options": [
+            "y",
+            "le",
+            "du",
+            "en"
+          ],
+          "answer": 3,
+          "translation": "我不喝咖啡。",
+          "explain": "否定句中部分冠词变为 de，但代词仍是 en；否定结构为 ne + en + 动词 + pas。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q44",
           "type": "letters",
           "prompt": "Complétez : « Elle écrit à son oncle ? — Oui, elle ___ écrit. »",
@@ -866,6 +1263,20 @@
           "explain": "écrire à qn 是间接宾语，单数人用 lui；lui 不随性别变化。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q17",
+          "type": "choice",
+          "prompt": "Complétez : « Combien de frères as-tu ? — J'___ ai trois. »",
+          "options": [
+            "en",
+            "y",
+            "les",
+            "de"
+          ],
+          "answer": 0,
+          "translation": "你有几个兄弟？——我有三个。",
+          "explain": "数量补语中的名词用 en 替代，数词 trois 留在句末。les 是定指直接宾语代词，不能保留数量意义。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q45",
           "type": "letters",
           "prompt": "Complétez : « Tu parles à Paul ? — Oui, je ___ parle. »",
@@ -877,7 +1288,15 @@
           ],
           "translation": "你跟保罗说话吗？——是的，我跟他说。",
           "explain": "parler à qn 是间接宾语，Paul 是单数人，用 lui，放在变位动词 parle 前。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l1-9",
+      "title": "代词选择混合（9）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q46",
           "type": "letters",
@@ -890,6 +1309,20 @@
           ],
           "translation": "你认识这位女邻居吗？——是的，我认识她。",
           "explain": "cette voisine 是阴性单数直接宾语，用 la；connais 以辅音开头，所以不写成 l'。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q18",
+          "type": "choice",
+          "prompt": "Complétez : « Il a acheté deux livres. » → « Il ___ a acheté deux. »",
+          "options": [
+            "deux",
+            "en",
+            "les",
+            "y"
+          ],
+          "answer": 1,
+          "translation": "他买了两本书。",
+          "explain": "en 替代数量补语中的名词，数词 deux 保留在句末；en 放在助动词 a 前。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q47",
@@ -905,6 +1338,20 @@
           "explain": "ce bus 是阳性单数直接宾语，用 le，放在变位动词 prend 前。"
         },
         {
+          "id": "pub-c10-object-pronouns-l3-q9",
+          "type": "choice",
+          "prompt": "Complétez : « Tu vas en Italie ? — Oui, j'___ vais. »",
+          "options": [
+            "y",
+            "en",
+            "à",
+            "le"
+          ],
+          "answer": 0,
+          "translation": "你去意大利吗？——是的，我去。",
+          "explain": "地点补语 en Italie 用 y；y 放在变位动词 vais 前。en 用于 de + 来源。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q48",
           "type": "letters",
           "prompt": "Complétez : « Elle regarde ces photos ? — Oui, elle ___ regarde. »",
@@ -918,17 +1365,46 @@
           "explain": "ces photos 是复数直接宾语，用 les；regarde 以辅音开头，不需要省音。"
         },
         {
-          "id": "pub-c10-object-pronouns-l1-q49",
-          "type": "letters",
-          "prompt": "Complétez : « Vous cherchez ce facteur ? — Oui, nous ___ cherchons. »",
-          "answer": "le",
-          "decoys": [
-            "a",
-            "s",
-            "i"
+          "id": "pub-c10-object-pronouns-l2-q19",
+          "type": "choice",
+          "prompt": "Complétez : « Je n'ai aucun frère. » → « Je n'___ ai aucun. »",
+          "options": [
+            "un",
+            "le",
+            "en",
+            "y"
           ],
-          "translation": "你们在找这位邮递员吗？——是的，我们在找他。",
-          "explain": "chercher qn 直接带宾语，ce facteur 是阳性单数，用 le。"
+          "answer": 2,
+          "translation": "我一个兄弟也没有。",
+          "explain": "否定数量用 en 替代名词，aucun 通常保持单数并留在句末；不能说 « je n'en ai pas un » 来表达这个意思。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l1-q22",
+          "type": "choice",
+          "prompt": "Complétez : « Elle ne ___ parle plus. » (à son frère)",
+          "options": [
+            "leur",
+            "lui",
+            "le",
+            "la"
+          ],
+          "answer": 1,
+          "translation": "她不再跟她弟弟说话了。",
+          "explain": "parler à qn 是间接宾语，单数人用 lui；否定结构中代词放在变位动词 parle 前。le/la 是直接宾语代词。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q20",
+          "type": "choice",
+          "prompt": "Complétez : « Tu bois beaucoup de café ? — Oui, j'___ bois beaucoup. »",
+          "options": [
+            "le",
+            "y",
+            "du",
+            "en"
+          ],
+          "answer": 3,
+          "translation": "你喝很多咖啡吗？——是的，我喝很多。",
+          "explain": "beaucoup de + 名词用 en 替代名词，保留副词 beaucoup，并去掉 de + 名词。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q50",
@@ -946,8 +1422,8 @@
       ]
     },
     {
-      "id": "pub-c10-object-pronouns-l1-6",
-      "title": "直接/间接宾语与代词选择（6）",
+      "id": "pub-c10-object-pronouns-l1-10",
+      "title": "代词选择混合（10）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -965,6 +1441,20 @@
           "explain": "répondre à qn 是间接宾语，单数人用 lui；虽然 journaliste 是阴性，lui 不变。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q21",
+          "type": "choice",
+          "prompt": "Complétez : « Elle mange trop de gâteaux. » → « Elle ___ mange trop. »",
+          "options": [
+            "en",
+            "les",
+            "y",
+            "des"
+          ],
+          "answer": 0,
+          "translation": "她吃太多蛋糕。",
+          "explain": "trop de + 名词用 en 替代名词，保留 trop；替代后不保留 des。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q52",
           "type": "letters",
           "prompt": "Complétez : « Elle ressemble à son père ? — Oui, elle ___ ressemble. »",
@@ -976,6 +1466,20 @@
           ],
           "translation": "她像她父亲吗？——是的，她像他。",
           "explain": "ressembler à qn 是间接宾语，单数人用 lui。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q10",
+          "type": "choice",
+          "prompt": "Complétez : « Elle travaille au bureau. » → « Elle ___ travaille. »",
+          "options": [
+            "le",
+            "y",
+            "en",
+            "au"
+          ],
+          "answer": 1,
+          "translation": "她在办公室工作。",
+          "explain": "au bureau 是地点补语，用 y；替代后不保留 au。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q53",
@@ -991,6 +1495,20 @@
           "explain": "parler à qn 是间接宾语，au directeur 是单数人，用 lui。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q22",
+          "type": "choice",
+          "prompt": "Complétez : « Nous avons peu de temps. » → « Nous ___ avons peu. »",
+          "options": [
+            "de",
+            "en",
+            "le",
+            "y"
+          ],
+          "answer": 1,
+          "translation": "我们时间很少。",
+          "explain": "peu de + 名词用 en 替代名词，保留 peu；en 放在助动词 avons 前。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q54",
           "type": "letters",
           "prompt": "Complétez : « Ils téléphonent à des amis ? — Oui, ils ___ téléphonent. »",
@@ -1004,6 +1522,20 @@
           "explain": "téléphoner à qn 是间接宾语，des amis 是复数人，用 leur。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q23",
+          "type": "choice",
+          "prompt": "Complétez : « Il a quelques amis ici. » → « Il ___ a quelques-uns. »",
+          "options": [
+            "y",
+            "des",
+            "en",
+            "les"
+          ],
+          "answer": 2,
+          "translation": "他在这里有几个朋友。",
+          "explain": "quelques + 名词用 en 替代名词，保留 quelques-uns（阳性复数），并与 amis 的性数一致。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q55",
           "type": "letters",
           "prompt": "Complétez : « Tu me téléphones ce soir ? — Oui, je ___ téléphone ce soir. »",
@@ -1015,7 +1547,15 @@
           ],
           "translation": "你今晚给我打电话吗？——是的，我今晚给你打电话。",
           "explain": "对方用 me 指自己，回答时说话人指对方，要换成 te；代词放在变位动词前。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l2-1",
+      "title": "代词选择混合（11）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q56",
           "type": "letters",
@@ -1028,6 +1568,20 @@
           ],
           "translation": "我邀请你们吗？——是的，你邀请我们。",
           "explain": "问句的 vous 指听话的一方，回答者代表这个群体，人称换成 nous。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q24",
+          "type": "choice",
+          "prompt": "Complétez : « Elle a plusieurs projets. » → « Elle ___ a plusieurs. »",
+          "options": [
+            "les",
+            "y",
+            "des",
+            "en"
+          ],
+          "answer": 3,
+          "translation": "她有好几个项目。",
+          "explain": "plusieurs + 名词用 en 替代名词，保留 plusieurs；plusieurs 没有性数变化。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q57",
@@ -1043,6 +1597,34 @@
           "explain": "déranger qn 直接带宾语，对听话人用尊称或复数时是 vous，放在变位动词 dérange 前。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q25",
+          "type": "choice",
+          "prompt": "Complétez : « Il revient de Paris. » → « Il ___ revient. »",
+          "options": [
+            "en",
+            "y",
+            "de",
+            "le"
+          ],
+          "answer": 0,
+          "translation": "他从巴黎回来。",
+          "explain": "de + 地点来源用 en；y 代替目的地 à + 地点，不能用于 venir de。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q11",
+          "type": "choice",
+          "prompt": "Complétez : « Nous sommes allés au musée hier. » → « Nous ___ sommes allés hier. »",
+          "options": [
+            "au",
+            "le",
+            "y",
+            "en"
+          ],
+          "answer": 2,
+          "translation": "我们昨天去了博物馆。",
+          "explain": "地点补语 au musée 用 y；复合过去时中 y 放在助动词 sommes 前，而不是过去分词后。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q58",
           "type": "letters",
           "prompt": "Complétez : « Il ___ regarde ? »（看我）",
@@ -1054,6 +1636,20 @@
           ],
           "translation": "他在看我吗？",
           "explain": "regarder qn 直接带宾语，第一人称单数用 me，放在变位动词 regarde 前。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q26",
+          "type": "choice",
+          "prompt": "Complétez : « Elle rentre du marché. » → « Elle ___ rentre. »",
+          "options": [
+            "lui",
+            "en",
+            "y",
+            "le"
+          ],
+          "answer": 1,
+          "translation": "她从市场回来。",
+          "explain": "du marché = de + le marché，表示来源，用 en。y 表示「去那里」，与此句方向相反。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q59",
@@ -1069,6 +1665,28 @@
           "explain": "accompagner qn 直接带宾语，第一人称复数用 nous，形式不变。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q27",
+          "type": "choice",
+          "prompt": "Complétez : « Nous venons de la gare. » → « Nous ___ venons. »",
+          "options": [
+            "la",
+            "de",
+            "en",
+            "y"
+          ],
+          "answer": 2,
+          "translation": "我们从车站来。",
+          "explain": "venir de + 地点是来源补语，用 en；替代后不保留 de la。y 用于目的地。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l2-2",
+      "title": "代词选择混合（12）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
           "id": "pub-c10-object-pronouns-l1-q60",
           "type": "letters",
           "prompt": "Complétez : « Elle ___ connaît bien. »（认识你）",
@@ -1080,15 +1698,21 @@
           ],
           "translation": "她很了解你。",
           "explain": "connaître qn 直接带宾语，第二人称单数用 te；connaît 以辅音开头，所以不省音。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l1-7",
-      "title": "直接/间接宾语与代词选择（7）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q28",
+          "type": "choice",
+          "prompt": "Complétez : « Il y a du thé ? — Oui, il y ___ a. »",
+          "options": [
+            "le",
+            "des",
+            "un",
+            "en"
+          ],
+          "answer": 3,
+          "translation": "有茶吗？——是的，有。",
+          "explain": "存在句 il y a 中，en 放在 y 与 a 之间：il y en a。不能说 il y le a 或 il y des a。"
+        },
         {
           "id": "pub-c10-object-pronouns-l1-q61",
           "type": "letters",
@@ -1101,6 +1725,40 @@
           ],
           "translation": "我在听您说。",
           "explain": "écouter qn 直接带宾语，对听话人用 vous；vous 在元音前不省音。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q29",
+          "type": "choice",
+          "prompt": "Complétez : « Il n'y a pas de lait. » → « Il n'y ___ a pas. »",
+          "options": [
+            "en",
+            "y",
+            "le",
+            "de"
+          ],
+          "answer": 0,
+          "translation": "没有牛奶。",
+          "explain": "存在句否定中 en 仍在 y 与 a 之间：il n'y en a pas。否定不改变 en 的位置。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q14",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Je pense à ce projet. » → ___",
+          "answer": [
+            "J'y",
+            "pense."
+          ],
+          "bank": [
+            "J'y",
+            "pense.",
+            "J'en",
+            "y",
+            "en",
+            "penses",
+            "projet."
+          ],
+          "translation": "我想这个项目。",
+          "explain": "penser à + 事物用 y；y 在元音前与 je 省音为 j'y。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q62",
@@ -1116,6 +1774,19 @@
           "explain": "expliquer qch à qn 中 à nous 用 nous，形式与直接宾语相同，放在变位动词 explique 前。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q31",
+          "type": "letters",
+          "prompt": "Complétez : « Elle achète du pain ? — Oui, elle ___ achète. »",
+          "answer": "en",
+          "decoys": [
+            "y",
+            "l",
+            "s"
+          ],
+          "translation": "她买面包吗？——是的，她买。",
+          "explain": "du pain 是部分冠词宾语，用 en 替代，替代后不保留 du；en 放在变位动词 achète 前。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q63",
           "type": "letters",
           "prompt": "Complétez : « Elle ___ téléphone. »（给你）",
@@ -1129,6 +1800,27 @@
           "explain": "téléphoner à qn 是间接宾语，第二人称单数用 te，放在变位动词 téléphone 前。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q32",
+          "type": "letters",
+          "prompt": "Complétez : « Il y a des croissants ? — Oui, il y ___ a. »",
+          "answer": "en",
+          "decoys": [
+            "y",
+            "l",
+            "s"
+          ],
+          "translation": "有牛角包吗？——是的，有。",
+          "explain": "存在句 il y a 中，en 代替不定宾语 des croissants，放在 y 与 a 之间：il y en a。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l2-3",
+      "title": "代词选择混合（13）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
           "id": "pub-c10-object-pronouns-l1-q64",
           "type": "letters",
           "prompt": "Complétez : « Tu ___ téléphones souvent ? »（给我）",
@@ -1140,6 +1832,19 @@
           ],
           "translation": "你常给我打电话吗？",
           "explain": "téléphoner à qn 是间接宾语，第一人称单数用 me，放在变位动词前。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q33",
+          "type": "letters",
+          "prompt": "Complétez : « Il n'y a pas de problème. → Il n'y ___ a pas. »",
+          "answer": "en",
+          "decoys": [
+            "y",
+            "l",
+            "s"
+          ],
+          "translation": "没有问题。",
+          "explain": "存在句否定中 en 仍在 y 与 a 之间：il n'y en a pas；否定不改变 en 的位置。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q65",
@@ -1155,6 +1860,27 @@
           "explain": "demander qch à qn 中 à vous 用 vous，放在变位动词 demande 前。"
         },
         {
+          "id": "pub-c10-object-pronouns-l3-q15",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Il répond à la question. » → ___",
+          "answer": [
+            "Il",
+            "y",
+            "répond."
+          ],
+          "bank": [
+            "Il",
+            "y",
+            "répond.",
+            "en",
+            "la",
+            "répondent",
+            "question."
+          ],
+          "translation": "他回答这个问题。",
+          "explain": "répondre à + 事物用 y；y 放在变位动词 répond 前。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q66",
           "type": "letters",
           "prompt": "Complétez : « Il ___ a parlé hier. »（跟我们）",
@@ -1166,6 +1892,19 @@
           ],
           "translation": "他昨天跟我们说话了。",
           "explain": "parler à qn 是间接宾语，à nous 用 nous；复合过去时中代词放在助动词 a 前。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q34",
+          "type": "letters",
+          "prompt": "Complétez : « Ce dictionnaire ? J'en ai ___ . »（需要）",
+          "answer": "besoin",
+          "decoys": [
+            "s",
+            "t",
+            "x"
+          ],
+          "translation": "这本词典？我需要。",
+          "explain": "avoir besoin de + 事物：besoin 是名词，de 引出补语；用 en 替代后得到 j'en ai besoin。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q67",
@@ -1181,6 +1920,54 @@
           "explain": "parler à qn 是间接宾语，第一人称单数用 me；否定结构中代词放在变位动词 parle 前。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q35",
+          "type": "letters",
+          "prompt": "Complétez : « Elle rêve de ce voyage ; elle en a ___ . »（愿望）",
+          "answer": "envie",
+          "decoys": [
+            "s",
+            "t",
+            "a"
+          ],
+          "translation": "她向往这次旅行；她有这个愿望。",
+          "explain": "avoir envie de + 名词，用 en 替代 de ce voyage 后保留名词 envie：elle en a envie。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q12",
+          "type": "choice",
+          "prompt": "Complétez : « Il vient de Paris. » → « Il ___ vient. »",
+          "options": [
+            "y",
+            "de",
+            "le",
+            "en"
+          ],
+          "answer": 3,
+          "translation": "他从巴黎来。",
+          "explain": "de + 地点来源用 en；y 用于目的地，不能与 venir de 搭配。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q36",
+          "type": "letters",
+          "prompt": "Complétez : « Il redoute cet examen ; il en a ___ . »（害怕）",
+          "answer": "peur",
+          "decoys": [
+            "s",
+            "t",
+            "x"
+          ],
+          "translation": "他害怕这次考试；他害怕它。",
+          "explain": "avoir peur de + 事物用 en 替代 de 补语：il en a peur。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l2-4",
+      "title": "代词选择混合（14）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
           "id": "pub-c10-object-pronouns-l1-q68",
           "type": "letters",
           "prompt": "Complétez : « Je ___ réponds tout de suite. »（给你）",
@@ -1192,6 +1979,19 @@
           ],
           "translation": "我马上回复你。",
           "explain": "répondre à qn 是间接宾语，第二人称单数用 te，放在变位动词 réponds 前。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q37",
+          "type": "letters",
+          "prompt": "Complétez : « Il est très content de son travail ; il en est ___ . »（骄傲的，阳性单数）",
+          "answer": "fier",
+          "decoys": [
+            "s",
+            "t",
+            "e"
+          ],
+          "translation": "他对自己的工作很满意，并为此感到自豪。",
+          "explain": "être fier de + 事物用 en 替代 de 补语；fier 是阳性单数形容词，与主语 il 配合。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q69",
@@ -1207,6 +2007,27 @@
           "explain": "téléphoner à qn 是间接宾语，à nous 用 nous；复合过去时中代词放在助动词 ont 前，间接宾语不引起过去分词配合。"
         },
         {
+          "id": "pub-c10-object-pronouns-l3-q16",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Nous allons à Paris. » → ___",
+          "answer": [
+            "Nous",
+            "y",
+            "allons."
+          ],
+          "bank": [
+            "Nous",
+            "y",
+            "allons.",
+            "en",
+            "à",
+            "allez",
+            "Paris."
+          ],
+          "translation": "我们去巴黎。",
+          "explain": "地点补语 à Paris 用 y；替代后不保留 à。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q70",
           "type": "letters",
           "prompt": "Complétez : « Nous regardons cette photo ? — Oui, nous ___ regardons. »",
@@ -1218,15 +2039,20 @@
           ],
           "translation": "我们在看这张照片吗？——是的，我们在看。",
           "explain": "cette photo 是阴性单数直接宾语，用 la；regardons 以辅音开头，不省音。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l1-8",
-      "title": "直接/间接宾语与代词选择（8）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q38",
+          "type": "letters",
+          "prompt": "Complétez : « Nous sommes ravis de notre voyage ; nous en sommes ___ . »（满意的，阳性复数）",
+          "answer": "contents",
+          "decoys": [
+            "e",
+            "s",
+            "x"
+          ],
+          "translation": "我们对旅行很满意，并对此感到满足。",
+          "explain": "être content de + 事物用 en 替代 de 补语；形容词要与主语 nous 配合，用阳性复数 contents。"
+        },
         {
           "id": "pub-c10-object-pronouns-l1-q71",
           "type": "tiles",
@@ -1250,6 +2076,55 @@
           "explain": "téléphoner à qn 是间接宾语，单数人用 lui，放在变位动词 téléphone 前。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q30",
+          "type": "choice",
+          "prompt": "Complétez : « Il parle de sa sœur. » → « Il parle ___ . »",
+          "options": [
+            "la",
+            "d'elle",
+            "en",
+            "d'en"
+          ],
+          "answer": 1,
+          "translation": "他谈到他的姐姐。",
+          "explain": "de + 人不用 en，而用重读代词 elle，并保留介词 de（省音为 d'）。en 只替代 de + 事物。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q13",
+          "type": "choice",
+          "prompt": "Complétez : « Je pense à Marie. » → « Je pense ___ . »",
+          "options": [
+            "à elle",
+            "y",
+            "lui",
+            "la"
+          ],
+          "answer": 0,
+          "translation": "我在想玛丽。",
+          "explain": "penser à + 人用重读代词 elle，并保留介词 à；y 只代替 à + 事物，lui 不能与 penser à 搭配。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q40",
+          "type": "letters",
+          "prompt": "Complétez : « Tu as combien d'argent ? — J'en ai ___ . »（足够）",
+          "answer": "assez",
+          "decoys": [
+            "s",
+            "c",
+            "t"
+          ],
+          "translation": "你有多少钱？——我够了。",
+          "explain": "assez de + 名词用 en 替代名词后，保留副词 assez。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l2-5",
+      "title": "代词选择混合（15）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
           "id": "pub-c10-object-pronouns-l1-q72",
           "type": "tiles",
           "prompt": "Transformez avec un pronom objet : « Nous aidons les enfants. » → ___",
@@ -1270,6 +2145,19 @@
           ],
           "translation": "我们帮助孩子们。",
           "explain": "aider qn 直接带宾语，les enfants 是复数，用 les。leur 是间接宾语代词，不能与 aider qn 搭配。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q41",
+          "type": "letters",
+          "prompt": "Complétez : « Elle mange combien de gâteaux ? — Elle en mange ___ . »（太多）",
+          "answer": "trop",
+          "decoys": [
+            "s",
+            "e",
+            "p"
+          ],
+          "translation": "她吃多少蛋糕？——她吃太多了。",
+          "explain": "trop de + 名词用 en 替代名词后，保留副词 trop。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q73",
@@ -1294,6 +2182,27 @@
           "explain": "écrire à qn 是间接宾语，ses parents 是复数人，用 leur。"
         },
         {
+          "id": "pub-c10-object-pronouns-l3-q17",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Elle habite à Lyon. » → ___",
+          "answer": [
+            "Elle",
+            "y",
+            "habite."
+          ],
+          "bank": [
+            "Elle",
+            "y",
+            "habite.",
+            "en",
+            "à",
+            "habitent",
+            "Lyon."
+          ],
+          "translation": "她住在里昂。",
+          "explain": "habiter à + 地点用 y；y 放在变位动词 habite 前。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q74",
           "type": "tiles",
           "prompt": "Transformez avec un pronom objet : « Il répond à la professeure. » → ___",
@@ -1314,6 +2223,19 @@
           ],
           "translation": "他回答女老师。",
           "explain": "répondre à qn 是间接宾语，单数人用 lui，不因 professeure 是阴性而变 la。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q42",
+          "type": "letters",
+          "prompt": "Complétez : « Vous avez combien de temps ? — Nous en avons ___ . »（很少）",
+          "answer": "peu",
+          "decoys": [
+            "s",
+            "x",
+            "t"
+          ],
+          "translation": "你们有多少时间？——我们很少。",
+          "explain": "peu de + 名词用 en 替代名词后，保留副词 peu；不要保留 de。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q75",
@@ -1338,6 +2260,61 @@
           "explain": "parler à qn 是间接宾语，aux voisins 是复数人，用 leur。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q43",
+          "type": "letters",
+          "prompt": "Complétez : « Il a combien d'amis ici ? — Il en a ___ . »（好几个）",
+          "answer": "plusieurs",
+          "decoys": [
+            "e",
+            "s",
+            "x"
+          ],
+          "translation": "他在这里有多少朋友？——他有好几个。",
+          "explain": "plusieurs + 名词用 en 替代名词后保留 plusieurs；plusieurs 没有性数变化。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q25",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Il vient de Paris. » → ___",
+          "answer": [
+            "Il",
+            "en",
+            "vient."
+          ],
+          "bank": [
+            "Il",
+            "en",
+            "vient.",
+            "y",
+            "de",
+            "viennent",
+            "Paris."
+          ],
+          "translation": "他从巴黎来。",
+          "explain": "de + 地点来源用 en；y 表示目的地，不能与 venir de 搭配。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q44",
+          "type": "letters",
+          "prompt": "Complétez : « Tu as combien de frères ? — Je n'en ai ___ . »（一个也没有，阳性）",
+          "answer": "aucun",
+          "decoys": [
+            "s",
+            "e",
+            "t"
+          ],
+          "translation": "你有多少兄弟？——我一个也没有。",
+          "explain": "否定数量用 n'en ... aucun；aucun 通常保持单数，不随原名词变复数。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l2-6",
+      "title": "代词选择混合（16）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
           "id": "pub-c10-object-pronouns-l1-q76",
           "type": "tiles",
           "prompt": "Transformez avec un pronom objet : « Il obéit à son professeur. » → ___",
@@ -1358,6 +2335,19 @@
           ],
           "translation": "他听从老师。",
           "explain": "obéir à qn 是间接宾语，单数人用 lui。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q45",
+          "type": "letters",
+          "prompt": "Complétez : « Elle a combien de sœurs ? — Elle n'en a ___ . »（一个也没有，阴性）",
+          "answer": "aucune",
+          "decoys": [
+            "s",
+            "e",
+            "t"
+          ],
+          "translation": "她有多少姐妹？——她一个也没有。",
+          "explain": "否定数量用 n'en ... aucune，与所指阴性名词配合；aucune 通常保持单数。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q77",
@@ -1382,6 +2372,28 @@
           "explain": "téléphoner à qn 是间接宾语，leur mère 是单数人，用 lui。"
         },
         {
+          "id": "pub-c10-object-pronouns-l3-q18",
+          "type": "tiles",
+          "prompt": "Répondez avec un pronom : « Tu vas en Italie ? » → ___",
+          "answer": [
+            "Oui,",
+            "j'y",
+            "vais."
+          ],
+          "bank": [
+            "Oui,",
+            "j'y",
+            "vais.",
+            "j'en",
+            "y",
+            "en",
+            "vont",
+            "Italie."
+          ],
+          "translation": "你去意大利吗？——是的，我去。",
+          "explain": "地点补语 en Italie 用 y；y 与 je 省音为 j'y。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q78",
           "type": "tiles",
           "prompt": "Transformez avec un pronom objet : « Elle ressemble à sa sœur. » → ___",
@@ -1402,6 +2414,19 @@
           ],
           "translation": "她像她姐姐。",
           "explain": "ressembler à qn 是间接宾语，单数人用 lui。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q46",
+          "type": "letters",
+          "prompt": "Complétez : « Il est à Paris ; il en ___ demain. » (revenir)",
+          "answer": "revient",
+          "decoys": [
+            "s",
+            "a",
+            "t"
+          ],
+          "translation": "他现在在巴黎；他明天从那里回来。",
+          "explain": "en 替代 de Paris（来源地）；revenir de + 地点用 en。根据提示用 revenir 的第三人称单数现在时 revient。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q79",
@@ -1426,6 +2451,63 @@
           "explain": "la voiture 是阴性单数直接宾语，用 la，放在变位动词 prends 前。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q47",
+          "type": "letters",
+          "prompt": "Complétez : « Elle est au marché ; elle en ___ à midi. »（回家）",
+          "answer": "rentre",
+          "decoys": [
+            "s",
+            "a",
+            "t"
+          ],
+          "translation": "她在市场，中午从那里回家。",
+          "explain": "rentrer de + 地点用 en 替代来源补语；rentre 是 rentrer 的第三人称单数现在时。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q26",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Je pense à Marie. » → ___",
+          "answer": [
+            "Je",
+            "pense",
+            "à",
+            "elle."
+          ],
+          "bank": [
+            "Je",
+            "pense",
+            "à",
+            "elle.",
+            "y",
+            "lui",
+            "la",
+            "Marie."
+          ],
+          "translation": "我在想玛丽。",
+          "explain": "penser à + 人用重读代词 elle，并保留介词 à；y 只代替 à + 事物。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q48",
+          "type": "letters",
+          "prompt": "Complétez : « Tu arrives de Lyon ? — Oui, j'en ___ . »（来/来自）",
+          "answer": "viens",
+          "decoys": [
+            "s",
+            "t",
+            "a"
+          ],
+          "translation": "你从里昂来吗？——是的，我从那里来。",
+          "explain": "回答用 venir de + 地点表示来源，用 en 替代 de + 地点：j'en viens。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l2-7",
+      "title": "代词选择混合（17）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
           "id": "pub-c10-object-pronouns-l1-q80",
           "type": "tiles",
           "prompt": "Transformez avec un pronom objet : « Vous lisez les journaux. » → ___",
@@ -1446,15 +2528,20 @@
           ],
           "translation": "你们读报纸。",
           "explain": "les journaux 是复数直接宾语，用 les。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l1-9",
-      "title": "直接/间接宾语与代词选择（9）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q49",
+          "type": "letters",
+          "prompt": "Complétez : « Vous avez des frères ? — Oui, j'en ai ___ . »（一个）",
+          "answer": "un",
+          "decoys": [
+            "e",
+            "s",
+            "a"
+          ],
+          "translation": "你们有兄弟吗？——是的，我有一个。",
+          "explain": "un + 名词用 en 替代名词后，肯定句中把数量词 un 留在句末。"
+        },
         {
           "id": "pub-c10-object-pronouns-l1-q81",
           "type": "tiles",
@@ -1476,6 +2563,27 @@
           ],
           "translation": "他看这场比赛。",
           "explain": "le match 是阳性单数直接宾语，用 le。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q19",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Il est dans sa chambre. » → ___",
+          "answer": [
+            "Il",
+            "y",
+            "est."
+          ],
+          "bank": [
+            "Il",
+            "y",
+            "est.",
+            "en",
+            "dans",
+            "sont",
+            "chambre."
+          ],
+          "translation": "他在他的房间里。",
+          "explain": "地点补语 dans sa chambre 用 y；替代后不保留 dans。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q82",
@@ -1500,6 +2608,19 @@
           "explain": "inviter qn 直接带宾语，les élèves 是复数，用 les；les 在元音前不省音。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q50",
+          "type": "letters",
+          "prompt": "Complétez : « Elle veut des robes ? — Oui, elle en veut ___ . »（一条）",
+          "answer": "une",
+          "decoys": [
+            "s",
+            "a",
+            "e"
+          ],
+          "translation": "她想要裙子吗？——是的，她想要一条。",
+          "explain": "une + 名词用 en 替代名词后，肯定句中保留数量词 une 在句末。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q83",
           "type": "tiles",
           "prompt": "Transformez avec un pronom objet : « Elle cherche son frère. » → ___",
@@ -1522,6 +2643,78 @@
           "explain": "chercher qn 直接带宾语，son frère 是阳性单数，用 le；cherche 以辅音开头，不省音。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q51",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Je veux du café. » → ___",
+          "answer": [
+            "J'en",
+            "veux."
+          ],
+          "bank": [
+            "J'en",
+            "veux.",
+            "Je",
+            "en",
+            "le",
+            "y",
+            "veut",
+            "café."
+          ],
+          "translation": "我要咖啡。",
+          "explain": "du café 是部分冠词宾语，用 en 替代；en 在元音前与 je 省音为 j'en。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q20",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Elle travaille au bureau. » → ___",
+          "answer": [
+            "Elle",
+            "y",
+            "travaille."
+          ],
+          "bank": [
+            "Elle",
+            "y",
+            "travaille.",
+            "en",
+            "au",
+            "travaillent",
+            "bureau."
+          ],
+          "translation": "她在办公室工作。",
+          "explain": "地点补语 au bureau 用 y；y 放在变位动词 travaille 前。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q52",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Il mange de la soupe. » → ___",
+          "answer": [
+            "Il",
+            "en",
+            "mange."
+          ],
+          "bank": [
+            "Il",
+            "en",
+            "mange.",
+            "le",
+            "la",
+            "mangent",
+            "soupe.",
+            "de"
+          ],
+          "translation": "他喝汤。",
+          "explain": "de la soupe 是部分冠词宾语，用 en 替代，替代后不保留 de la。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l2-8",
+      "title": "代词选择混合（18）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
           "id": "pub-c10-object-pronouns-l1-q84",
           "type": "tiles",
           "prompt": "Transformez avec un pronom objet : « Ils connaissent Paul et Marie. » → ___",
@@ -1542,6 +2735,28 @@
           ],
           "translation": "他们认识保罗和玛丽。",
           "explain": "Paul et Marie 是复数直接宾语，用 les。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q53",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Elle boit de l'eau. » → ___",
+          "answer": [
+            "Elle",
+            "en",
+            "boit."
+          ],
+          "bank": [
+            "Elle",
+            "en",
+            "boit.",
+            "la",
+            "le",
+            "boivent",
+            "eau.",
+            "de"
+          ],
+          "translation": "她喝水。",
+          "explain": "de l'eau 是部分冠词宾语，用 en 替代；不能保留 de l'。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q85",
@@ -1567,6 +2782,31 @@
           "explain": "parler à qn 是间接宾语，用 lui；复合过去时中代词放在助动词 ai 前。"
         },
         {
+          "id": "pub-c10-object-pronouns-l3-q21",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Nous sommes allés au musée hier. » → ___",
+          "answer": [
+            "Nous",
+            "y",
+            "sommes",
+            "allés",
+            "hier."
+          ],
+          "bank": [
+            "Nous",
+            "y",
+            "sommes",
+            "allés",
+            "hier.",
+            "en",
+            "au",
+            "sont",
+            "musée."
+          ],
+          "translation": "我们昨天去了博物馆。",
+          "explain": "地点补语 au musée 用 y；复合过去时中 y 放在助动词 sommes 前。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q86",
           "type": "tiles",
           "prompt": "Transformez avec un pronom objet : « Elle téléphone à sa mère. » → ___",
@@ -1587,6 +2827,28 @@
           ],
           "translation": "她给母亲打电话。",
           "explain": "téléphoner à qn 是间接宾语，sa mère 是单数人，用 lui。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q54",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Nous achetons des fruits. » → ___",
+          "answer": [
+            "Nous",
+            "en",
+            "achetons."
+          ],
+          "bank": [
+            "Nous",
+            "en",
+            "achetons.",
+            "les",
+            "des",
+            "achète",
+            "fruits.",
+            "du"
+          ],
+          "translation": "我们买水果。",
+          "explain": "des + 不定复数名词用 en 替代，替代后不保留 des。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q87",
@@ -1611,6 +2873,84 @@
           "explain": "écrire à qn 是间接宾语，单数人用 lui。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q55",
+          "type": "tiles",
+          "prompt": "Répondez avec un pronom : « Tu as un frère ? » → ___",
+          "answer": [
+            "Oui,",
+            "j'en",
+            "ai",
+            "un."
+          ],
+          "bank": [
+            "Oui,",
+            "j'en",
+            "ai",
+            "un.",
+            "en",
+            "le",
+            "une",
+            "frère."
+          ],
+          "translation": "你有兄弟吗？——是的，有一个。",
+          "explain": "un + 名词用 en 替代名词，肯定句保留数量词 un 在句末。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q22",
+          "type": "tiles",
+          "prompt": "Réécrivez avec un pronom, en gardant la négation : « Je ne pense pas à ce projet. » → ___",
+          "answer": [
+            "Je",
+            "n'y",
+            "pense",
+            "pas."
+          ],
+          "bank": [
+            "Je",
+            "n'y",
+            "pense",
+            "pas.",
+            "ne",
+            "y",
+            "en",
+            "pensé"
+          ],
+          "translation": "我不想这个项目。",
+          "explain": "penser à + 事物用 y；否定结构为 ne + y + 动词 + pas，ne 与 y 省音为 n'y。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q56",
+          "type": "tiles",
+          "prompt": "Répondez avec un pronom : « Elle veut une robe ? » → ___",
+          "answer": [
+            "Oui,",
+            "elle",
+            "en",
+            "veut",
+            "une."
+          ],
+          "bank": [
+            "Oui,",
+            "elle",
+            "en",
+            "veut",
+            "une.",
+            "la",
+            "le",
+            "robe."
+          ],
+          "translation": "她想要一条裙子吗？——是的，她想要一条。",
+          "explain": "une + 名词用 en 替代名词，肯定句保留数量词 une 在句末。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l3-1",
+      "title": "代词选择混合（19）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
           "id": "pub-c10-object-pronouns-l1-q88",
           "type": "tiles",
           "prompt": "Transformez avec un pronom objet : « Ils répondent aux clients. » → ___",
@@ -1631,6 +2971,55 @@
           ],
           "translation": "他们回答客户。",
           "explain": "répondre à qn 是间接宾语，aux clients 是复数人，用 leur。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q57",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « J'ai besoin de ce dictionnaire. » → ___",
+          "answer": [
+            "J'en",
+            "ai",
+            "besoin."
+          ],
+          "bank": [
+            "J'en",
+            "ai",
+            "besoin.",
+            "Je",
+            "en",
+            "le",
+            "y",
+            "dictionnaire."
+          ],
+          "translation": "我需要这本词典。",
+          "explain": "avoir besoin de + 事物用 en 替代 de + 名词；en 放在助动词 ai 前。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q23",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Ils arrivent à la gare à huit heures. » → ___",
+          "answer": [
+            "Ils",
+            "y",
+            "arrivent",
+            "à",
+            "huit",
+            "heures."
+          ],
+          "bank": [
+            "Ils",
+            "y",
+            "arrivent",
+            "à",
+            "huit",
+            "heures.",
+            "en",
+            "au",
+            "arrive",
+            "gare."
+          ],
+          "translation": "他们八点到车站。",
+          "explain": "地点补语 à la gare 用 y；时间状语 à huit heures 保留不变。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q89",
@@ -1655,9 +3044,32 @@
           "explain": "parler à qn 是间接宾语，tes voisins 是复数人，用 leur。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q58",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Nous sommes fiers de notre travail. » → ___",
+          "answer": [
+            "Nous",
+            "en",
+            "sommes",
+            "fiers."
+          ],
+          "bank": [
+            "Nous",
+            "en",
+            "sommes",
+            "fiers.",
+            "les",
+            "y",
+            "fier",
+            "travail."
+          ],
+          "translation": "我们为自己的工作感到自豪。",
+          "explain": "être fier de + 事物用 en 替代 de 补语；形容词 fiers 与主语 nous 配合。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q90",
           "type": "tiles",
-          "prompt": "Réécrivez avec un pronom en gardant la négation : « Elle ne parle pas à son frère. » → ___",
+          "prompt": "Réécrivez avec un pronom, en gardant la négation : « Elle ne parle pas à son frère. » → ___",
           "answer": [
             "Elle",
             "ne",
@@ -1677,12 +3089,83 @@
           ],
           "translation": "她不跟她弟弟说话。",
           "explain": "parler à qn 是间接宾语，单数人用 lui；否定结构为 ne + 代词 + 动词 + pas。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q59",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Il a peur des chiens. » → ___",
+          "answer": [
+            "Il",
+            "en",
+            "a",
+            "peur."
+          ],
+          "bank": [
+            "Il",
+            "en",
+            "a",
+            "peur.",
+            "les",
+            "y",
+            "peurs",
+            "chiens."
+          ],
+          "translation": "他怕狗。",
+          "explain": "avoir peur de + 事物用 en 替代 de 补语；en 放在变位动词 a 前。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q24",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Elle participe à la réunion chaque année. » → ___",
+          "answer": [
+            "Elle",
+            "y",
+            "participe",
+            "chaque",
+            "année."
+          ],
+          "bank": [
+            "Elle",
+            "y",
+            "participe",
+            "chaque",
+            "année.",
+            "en",
+            "à",
+            "participent",
+            "réunion."
+          ],
+          "translation": "她每年参加这个会议。",
+          "explain": "participer à + 事物用 y；y 放在变位动词 participe 前。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q60",
+          "type": "tiles",
+          "prompt": "Répondez avec un pronom : « Tu bois beaucoup de café ? » → ___",
+          "answer": [
+            "Oui,",
+            "j'en",
+            "bois",
+            "beaucoup."
+          ],
+          "bank": [
+            "Oui,",
+            "j'en",
+            "bois",
+            "beaucoup.",
+            "le",
+            "en",
+            "boit",
+            "café."
+          ],
+          "translation": "你喝很多咖啡吗？——是的，我喝很多。",
+          "explain": "beaucoup de + 名词用 en 替代名词并保留 beaucoup；替代后不保留 de。"
         }
       ]
     },
     {
-      "id": "pub-c10-object-pronouns-l1-10",
-      "title": "直接/间接宾语与代词选择（10）",
+      "id": "pub-c10-object-pronouns-l3-2",
+      "title": "代词选择混合（20）",
       "kind": "lesson",
       "source": "原创编写，待人工审校",
       "questions": [
@@ -1710,6 +3193,52 @@
           "explain": "对方用 me 指自己，回答时说话人指对方，要换成 te；代词放在变位动词 connais 前。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q61",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Elle mange trop de gâteaux. » → ___",
+          "answer": [
+            "Elle",
+            "en",
+            "mange",
+            "trop."
+          ],
+          "bank": [
+            "Elle",
+            "en",
+            "mange",
+            "trop.",
+            "les",
+            "des",
+            "mangent",
+            "gâteaux."
+          ],
+          "translation": "她吃太多蛋糕。",
+          "explain": "trop de + 名词用 en 替代名词并保留 trop。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q27",
+          "type": "tiles",
+          "prompt": "Mettez au plus-que-parfait en remplaçant « au musée » par un pronom : « Ils sont allés au musée. » → ___",
+          "answer": [
+            "Ils",
+            "y",
+            "étaient",
+            "allés."
+          ],
+          "bank": [
+            "Ils",
+            "y",
+            "étaient",
+            "allés.",
+            "sont",
+            "allé",
+            "allées",
+            "en"
+          ],
+          "translation": "他们去了博物馆。→ 他们当时已经去过博物馆了。",
+          "explain": "plus-que-parfait 用 être 的未完成过去时 étaient + 过去分词；主语 ils 为阳性复数，分词写 allés。地点 au musée 用 y 替代，放在助动词前：ils y étaient allés。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q92",
           "type": "tiles",
           "prompt": "Répondez avec un pronom : « Vous nous attendez ? » → ___",
@@ -1731,6 +3260,29 @@
           ],
           "translation": "你们在等我们吗？——是的，我们在等你们。",
           "explain": "问句的 nous 指说话一方，回答者从对方角度说话，要换成 vous；nous 作主语保持不变。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q62",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Nous avons peu de temps. » → ___",
+          "answer": [
+            "Nous",
+            "en",
+            "avons",
+            "peu."
+          ],
+          "bank": [
+            "Nous",
+            "en",
+            "avons",
+            "peu.",
+            "le",
+            "de",
+            "avez",
+            "temps."
+          ],
+          "translation": "我们时间很少。",
+          "explain": "peu de + 名词用 en 替代名词并保留 peu；en 放在助动词 avons 前。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q93",
@@ -1755,6 +3307,83 @@
           "translation": "你们邀请我们吗？——是的，我们邀请你们。",
           "explain": "问句的 nous 指说话一方，回答时从对方角度换成 vous；inviter qn 直接带宾语。"
         },
+        {
+          "id": "pub-c10-object-pronouns-l2-q63",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Il a quelques amis ici. » → ___",
+          "answer": [
+            "Il",
+            "en",
+            "a",
+            "quelques-uns."
+          ],
+          "bank": [
+            "Il",
+            "en",
+            "a",
+            "quelques-uns.",
+            "les",
+            "des",
+            "quelques-unes",
+            "amis."
+          ],
+          "translation": "他在这里有几个朋友。",
+          "explain": "quelques + 名词用 en 替代名词，保留 quelques-uns，并与阳性复数 amis 配合。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q28",
+          "type": "tiles",
+          "prompt": "Mettez au plus-que-parfait en remplaçant « à ce résultat » par un pronom : « Ils sont parvenus à ce résultat. » → ___",
+          "answer": [
+            "Ils",
+            "y",
+            "étaient",
+            "parvenus."
+          ],
+          "bank": [
+            "Ils",
+            "y",
+            "étaient",
+            "parvenus.",
+            "sont",
+            "parvenu",
+            "parvenues",
+            "en"
+          ],
+          "translation": "他们达到了这个结果。→ 他们当时已经达到了这个结果。",
+          "explain": "parvenir à qch 用 y 替代 à + 事物；plus-que-parfait 为 étaient + parvenus，主语 ils 阳性复数，分词配合写 -us。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q64",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Elle a plusieurs projets. » → ___",
+          "answer": [
+            "Elle",
+            "en",
+            "a",
+            "plusieurs."
+          ],
+          "bank": [
+            "Elle",
+            "en",
+            "a",
+            "plusieurs.",
+            "les",
+            "des",
+            "plusieur",
+            "projets."
+          ],
+          "translation": "她有好几个项目。",
+          "explain": "plusieurs + 名词用 en 替代名词，保留 plusieurs；plusieurs 无性数变化。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l3-3",
+      "title": "代词选择混合（21）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
         {
           "id": "pub-c10-object-pronouns-l1-q94",
           "type": "tiles",
@@ -1782,6 +3411,51 @@
           "explain": "问句的 te 指对方，回答时说话人指自己，要换成 me；否定结构为 ne + 代词 + 动词 + pas，déranges 以辅音开头不省音。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q65",
+          "type": "tiles",
+          "prompt": "Répondez avec un pronom : « Combien de frères as-tu ? » → ___",
+          "answer": [
+            "J'en",
+            "ai",
+            "trois."
+          ],
+          "bank": [
+            "J'en",
+            "ai",
+            "trois.",
+            "Je",
+            "en",
+            "les",
+            "deux",
+            "frères."
+          ],
+          "translation": "你有几个兄弟？——我有三个。",
+          "explain": "数量补语中的名词用 en 替代，数词 trois 保留在句末。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q29",
+          "type": "tiles",
+          "prompt": "Mettez au plus-que-parfait en remplaçant « à Lyon » par un pronom : « Elles sont retournées à Lyon. » → ___",
+          "answer": [
+            "Elles",
+            "y",
+            "étaient",
+            "retournées."
+          ],
+          "bank": [
+            "Elles",
+            "y",
+            "étaient",
+            "retournées.",
+            "sont",
+            "retournée",
+            "retournés",
+            "en"
+          ],
+          "translation": "她们回到了里昂。→ 她们当时已经回到了里昂。",
+          "explain": "retourner à + 地点用 y 替代；plus-que-parfait 用 étaient + 过去分词，主语 elles 阴性复数，写 retournées。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l1-q95",
           "type": "tiles",
           "prompt": "Répondez avec un pronom : « Tu nous accompagnes ? » → ___",
@@ -1803,6 +3477,27 @@
           ],
           "translation": "你陪我们吗？——是的，我陪你们。",
           "explain": "问句的 nous 指说话一方，回答时从对方角度换成 vous；accompagner qn 直接带宾语。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q66",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Il revient de Paris. » → ___",
+          "answer": [
+            "Il",
+            "en",
+            "revient."
+          ],
+          "bank": [
+            "Il",
+            "en",
+            "revient.",
+            "y",
+            "de",
+            "reviennent",
+            "Paris."
+          ],
+          "translation": "他从巴黎回来。",
+          "explain": "de + 地点来源用 en；y 用于目的地，不能与 revenir de 搭配。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q96",
@@ -1832,6 +3527,83 @@
           "explain": "问句的 vous 指听话一方，回答者代表这个群体，换成 nous；expliquer qch à qn 中 à + 人用间接宾语代词。"
         },
         {
+          "id": "pub-c10-object-pronouns-l2-q67",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Elle rentre du marché. » → ___",
+          "answer": [
+            "Elle",
+            "en",
+            "rentre."
+          ],
+          "bank": [
+            "Elle",
+            "en",
+            "rentre.",
+            "y",
+            "du",
+            "rentrent",
+            "marché."
+          ],
+          "translation": "她从市场回来。",
+          "explain": "du marché 表示来源，de + 地点用 en 替代。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q30",
+          "type": "tiles",
+          "prompt": "Mettez au plus-que-parfait en remplaçant « à la fête » par un pronom : « Elles sont venues à la fête. » → ___",
+          "answer": [
+            "Elles",
+            "y",
+            "étaient",
+            "venues."
+          ],
+          "bank": [
+            "Elles",
+            "y",
+            "étaient",
+            "venues.",
+            "sont",
+            "venu",
+            "venus",
+            "en"
+          ],
+          "translation": "她们来参加聚会了。→ 她们当时已经来参加聚会了。",
+          "explain": "venir à + 地点或活动用 y 替代；plus-que-parfait 用 être 的未完成过去时 étaient + 过去分词，主语 elles 为阴性复数，分词写 venues。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q68",
+          "type": "tiles",
+          "prompt": "Répondez avec un pronom : « Il y a du thé ? » → ___",
+          "answer": [
+            "Oui,",
+            "il",
+            "y",
+            "en",
+            "a."
+          ],
+          "bank": [
+            "Oui,",
+            "il",
+            "y",
+            "en",
+            "a.",
+            "le",
+            "des",
+            "ont",
+            "thé."
+          ],
+          "translation": "有茶吗？——是的，有。",
+          "explain": "存在句中 en 放在 y 与 a 之间：il y en a。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c10-object-pronouns-l3-4",
+      "title": "代词选择混合（22）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
           "id": "pub-c10-object-pronouns-l1-q97",
           "type": "tiles",
           "prompt": "Répondez avec un pronom : « Je te téléphone ce soir ? » → ___",
@@ -1857,6 +3629,56 @@
           ],
           "translation": "我今晚给你打电话吗？——是的，你今晚给我打电话。",
           "explain": "问句的 te 指对方，回答时说话人指自己，换成 me；téléphoner à qn 是间接宾语。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l2-q69",
+          "type": "tiles",
+          "prompt": "Réécrivez avec un pronom, en gardant la négation : « Il n'y a pas de lait. » → ___",
+          "answer": [
+            "Il",
+            "n'y",
+            "en",
+            "a",
+            "pas."
+          ],
+          "bank": [
+            "Il",
+            "n'y",
+            "en",
+            "a",
+            "pas.",
+            "ne",
+            "y",
+            "le",
+            "lait."
+          ],
+          "translation": "没有牛奶。",
+          "explain": "存在句否定中 en 仍在 y 与 a 之间：il n'y en a pas。"
+        },
+        {
+          "id": "pub-c10-object-pronouns-l3-q31",
+          "type": "tiles",
+          "prompt": "Transformez avec un pronom : « Nous sommes très attachés à cette maison. » → ___",
+          "answer": [
+            "Nous",
+            "y",
+            "sommes",
+            "très",
+            "attachés."
+          ],
+          "bank": [
+            "Nous",
+            "y",
+            "sommes",
+            "très",
+            "attachés.",
+            "en",
+            "attaché",
+            "attachées",
+            "la"
+          ],
+          "translation": "我们非常喜欢这座房子。→ 我们对它非常有感情。",
+          "explain": "être attaché à + 事物用 y 替代；y 放在助动词 sommes 前。主语 nous 为阳性复数，过去分词写 attachés。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q98",
@@ -1886,29 +3708,27 @@
           "explain": "问句的 nous 指说话一方，回答时从对方角度换成 vous；demander qch à qn 中 à + 人用间接宾语代词。"
         },
         {
-          "id": "pub-c10-object-pronouns-l1-q99",
+          "id": "pub-c10-object-pronouns-l2-q70",
           "type": "tiles",
-          "prompt": "Répondez avec un pronom : « Il m'a parlé hier ? » → ___",
+          "prompt": "Répondez avec un pronom : « Vous voulez de la salade ? » → ___",
           "answer": [
             "Oui,",
-            "il",
-            "t'a",
-            "parlé",
-            "hier."
+            "nous",
+            "en",
+            "voulons."
           ],
           "bank": [
             "Oui,",
-            "il",
-            "t'a",
-            "parlé",
-            "hier.",
-            "m'a",
-            "te",
-            "parles",
-            "aujourd'hui."
+            "nous",
+            "en",
+            "voulons.",
+            "vous",
+            "les",
+            "voulez",
+            "salade."
           ],
-          "translation": "他昨天跟我说话了吗？——是的，他昨天跟你说话了。",
-          "explain": "问句的 m' 指说话人，回答时指对方，换成 t'；复合过去时中代词放在助动词 a 前。"
+          "translation": "你们要沙拉吗？——是的，我们要。",
+          "explain": "de la salade 是部分冠词宾语，用 en 替代，替代后不保留 de la。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q100",
@@ -1932,1204 +3752,6 @@
           ],
           "translation": "我们去看望祖父母。",
           "explain": "rendre visite à qn 是间接宾语，nos grands-parents 是复数人，用 leur。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l2-1",
-      "title": "en 的用法（1）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-c10-object-pronouns-l2-q1",
-          "type": "choice",
-          "prompt": "Complétez : « Tu as besoin de ce livre ? — Oui, j'___ ai besoin. »",
-          "options": [
-            "en",
-            "y",
-            "le",
-            "lui"
-          ],
-          "answer": 0,
-          "translation": "你需要这本书吗？——是的，我需要。",
-          "explain": "avoir besoin de + 事物用 en 替代整个 de + 名词；en 放在助动词 ai 前。y 代替 à + 事物，le 是直接宾语代词。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q2",
-          "type": "choice",
-          "prompt": "Complétez : « Elle a peur des araignées. » → « Elle ___ a peur. »",
-          "options": [
-            "leur",
-            "en",
-            "les",
-            "y"
-          ],
-          "answer": 1,
-          "translation": "她怕蜘蛛。",
-          "explain": "avoir peur de + 事物是 de 补语，用 en。les 是直接宾语代词，y 代替 à + 事物，leur 是间接宾语。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q3",
-          "type": "choice",
-          "prompt": "Complétez : « Nous sommes fiers de notre travail. » → « Nous ___ sommes fiers. »",
-          "options": [
-            "le",
-            "lui",
-            "en",
-            "y"
-          ],
-          "answer": 2,
-          "translation": "我们为自己的工作感到自豪。",
-          "explain": "être fier de + 事物用 en 替代 de + 名词；形容词 fiers 仍与主语 nous 配合。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q4",
-          "type": "choice",
-          "prompt": "Complétez : « Il parle souvent de son voyage. » → « Il ___ parle souvent. »",
-          "options": [
-            "y",
-            "le",
-            "lui",
-            "en"
-          ],
-          "answer": 3,
-          "translation": "他常谈起他的旅行。",
-          "explain": "parler de + 事物用 en；en 放在变位动词 parle 前。y 代替 à + 事物，不能与 parler de 搭配。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q5",
-          "type": "choice",
-          "prompt": "Complétez : « J'ai envie de vacances. » → « J'___ ai envie. »",
-          "options": [
-            "en",
-            "y",
-            "les",
-            "la"
-          ],
-          "answer": 0,
-          "translation": "我想去度假。",
-          "explain": "avoir envie de + 事物用 en 替代 de + 名词；en 放在助动词 ai 前。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q6",
-          "type": "choice",
-          "prompt": "Complétez : « Tu achètes des fruits ? — Oui, j'___ achète. »",
-          "options": [
-            "y",
-            "en",
-            "les",
-            "des"
-          ],
-          "answer": 1,
-          "translation": "你买水果吗？——是的，我买。",
-          "explain": "des + 不定复数名词用 en 替代，替代后不再保留 des。les 只能替代定指宾语。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q7",
-          "type": "choice",
-          "prompt": "Complétez : « Elle a des amis à Paris. » → « Elle ___ a à Paris. »",
-          "options": [
-            "y",
-            "leur",
-            "en",
-            "les"
-          ],
-          "answer": 2,
-          "translation": "她在巴黎有朋友。",
-          "explain": "des amis 是不定复数直接宾语，用 en；les 会变成「那些朋友」，与 des 不符。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q8",
-          "type": "choice",
-          "prompt": "Quelle phrase est correcte ?",
-          "options": [
-            "J'en achète des.",
-            "J'achète en.",
-            "Je les achète des.",
-            "J'en achète."
-          ],
-          "answer": 3,
-          "translation": "我买一些。",
-          "explain": "en 已包含 des + 名词，替代后不能再保留 des；代词也不能放在动词后。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q9",
-          "type": "choice",
-          "prompt": "Complétez : « Tu as un frère ? — Oui, j'___ ai un. »",
-          "options": [
-            "en",
-            "y",
-            "le",
-            "lui"
-          ],
-          "answer": 0,
-          "translation": "你有兄弟吗？——是的，有一个。",
-          "explain": "un + 名词用 en 替代名词，肯定句中把数量词 un 留在句末。le 是定指直接宾语代词。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l2-2",
-      "title": "en 的用法（2）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-c10-object-pronouns-l2-q10",
-          "type": "choice",
-          "prompt": "Complétez : « Elle veut une robe ? — Oui, elle ___ veut une. »",
-          "options": [
-            "lui",
-            "en",
-            "la",
-            "y"
-          ],
-          "answer": 1,
-          "translation": "她想要一条裙子吗？——是的，她想要一条。",
-          "explain": "une + 名词用 en 替代名词，肯定句中保留 une 在句末。la 是定指直接宾语代词。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q11",
-          "type": "choice",
-          "prompt": "Complétez : « Il cherche un appartement. » → « Il ___ cherche un. »",
-          "options": [
-            "y",
-            "lui",
-            "en",
-            "le"
-          ],
-          "answer": 2,
-          "translation": "他在找一套公寓。",
-          "explain": "un appartement 是不定指直接宾语，用 en 替代名词并保留 un。le 会指「那套公寓」，意义不同。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q12",
-          "type": "choice",
-          "prompt": "Complétez : « Je n'ai pas de voiture. » → « Je n'___ ai pas. »",
-          "options": [
-            "y",
-            "une",
-            "la",
-            "en"
-          ],
-          "answer": 3,
-          "translation": "我没有车。",
-          "explain": "否定句中 de + 名词仍用 en，且不保留 une；不能说 « je n'en ai pas une »。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q13",
-          "type": "choice",
-          "prompt": "Complétez : « Tu veux du café ? — Oui, j'___ veux. »",
-          "options": [
-            "en",
-            "le",
-            "y",
-            "la"
-          ],
-          "answer": 0,
-          "translation": "你要咖啡吗？——是的，我要。",
-          "explain": "du café 是部分冠词宾语，用 en 替代，替代后不保留 du。le 会指确定的「那杯咖啡」。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q14",
-          "type": "choice",
-          "prompt": "Complétez : « Il mange de la soupe. » → « Il ___ mange. »",
-          "options": [
-            "lui",
-            "en",
-            "la",
-            "y"
-          ],
-          "answer": 1,
-          "translation": "他喝汤。",
-          "explain": "de la soupe 是部分冠词宾语，用 en 替代，替代后不保留 de la。la 是定指直接宾语代词。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q15",
-          "type": "choice",
-          "prompt": "Complétez : « Elle boit de l'eau. » → « Elle ___ boit. »",
-          "options": [
-            "y",
-            "lui",
-            "en",
-            "la"
-          ],
-          "answer": 2,
-          "translation": "她喝水。",
-          "explain": "de l'eau 是部分冠词宾语，用 en；不能保留 de l'，也不能用 la。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q16",
-          "type": "choice",
-          "prompt": "Complétez : « Je ne bois pas de café. » → « Je n'___ bois pas. »",
-          "options": [
-            "y",
-            "le",
-            "du",
-            "en"
-          ],
-          "answer": 3,
-          "translation": "我不喝咖啡。",
-          "explain": "否定句中部分冠词变为 de，但代词仍是 en；否定结构为 ne + en + 动词 + pas。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q17",
-          "type": "choice",
-          "prompt": "Complétez : « Combien de frères as-tu ? — J'___ ai trois. »",
-          "options": [
-            "en",
-            "y",
-            "les",
-            "de"
-          ],
-          "answer": 0,
-          "translation": "你有几个兄弟？——我有三个。",
-          "explain": "数量补语中的名词用 en 替代，数词 trois 留在句末。les 是定指直接宾语代词，不能保留数量意义。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q18",
-          "type": "choice",
-          "prompt": "Complétez : « Il a acheté deux livres. » → « Il ___ a acheté deux. »",
-          "options": [
-            "deux",
-            "en",
-            "les",
-            "y"
-          ],
-          "answer": 1,
-          "translation": "他买了两本书。",
-          "explain": "en 替代数量补语中的名词，数词 deux 保留在句末；en 放在助动词 a 前。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l2-3",
-      "title": "en 的用法（3）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-c10-object-pronouns-l2-q19",
-          "type": "choice",
-          "prompt": "Complétez : « Je n'ai aucun frère. » → « Je n'___ ai aucun. »",
-          "options": [
-            "un",
-            "le",
-            "en",
-            "y"
-          ],
-          "answer": 2,
-          "translation": "我一个兄弟也没有。",
-          "explain": "否定数量用 en 替代名词，aucun 通常保持单数并留在句末；不能说 « je n'en ai pas un » 来表达这个意思。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q20",
-          "type": "choice",
-          "prompt": "Complétez : « Tu bois beaucoup de café ? — Oui, j'___ bois beaucoup. »",
-          "options": [
-            "le",
-            "y",
-            "du",
-            "en"
-          ],
-          "answer": 3,
-          "translation": "你喝很多咖啡吗？——是的，我喝很多。",
-          "explain": "beaucoup de + 名词用 en 替代名词，保留副词 beaucoup，并去掉 de + 名词。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q21",
-          "type": "choice",
-          "prompt": "Complétez : « Elle mange trop de gâteaux. » → « Elle ___ mange trop. »",
-          "options": [
-            "en",
-            "les",
-            "y",
-            "des"
-          ],
-          "answer": 0,
-          "translation": "她吃太多蛋糕。",
-          "explain": "trop de + 名词用 en 替代名词，保留 trop；替代后不保留 des。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q22",
-          "type": "choice",
-          "prompt": "Complétez : « Nous avons peu de temps. » → « Nous ___ avons peu. »",
-          "options": [
-            "de",
-            "en",
-            "le",
-            "y"
-          ],
-          "answer": 1,
-          "translation": "我们时间很少。",
-          "explain": "peu de + 名词用 en 替代名词，保留 peu；en 放在助动词 avons 前。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q23",
-          "type": "choice",
-          "prompt": "Complétez : « Il a quelques amis ici. » → « Il ___ a quelques-uns. »",
-          "options": [
-            "y",
-            "des",
-            "en",
-            "les"
-          ],
-          "answer": 2,
-          "translation": "他在这里有几个朋友。",
-          "explain": "quelques + 名词用 en 替代名词，保留 quelques-uns（阳性复数），并与 amis 的性数一致。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q24",
-          "type": "choice",
-          "prompt": "Complétez : « Elle a plusieurs projets. » → « Elle ___ a plusieurs. »",
-          "options": [
-            "les",
-            "y",
-            "des",
-            "en"
-          ],
-          "answer": 3,
-          "translation": "她有好几个项目。",
-          "explain": "plusieurs + 名词用 en 替代名词，保留 plusieurs；plusieurs 没有性数变化。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q25",
-          "type": "choice",
-          "prompt": "Complétez : « Il revient de Paris. » → « Il ___ revient. »",
-          "options": [
-            "en",
-            "y",
-            "de",
-            "le"
-          ],
-          "answer": 0,
-          "translation": "他从巴黎回来。",
-          "explain": "de + 地点来源用 en；y 代替目的地 à + 地点，不能用于 venir de。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q26",
-          "type": "choice",
-          "prompt": "Complétez : « Elle rentre du marché. » → « Elle ___ rentre. »",
-          "options": [
-            "lui",
-            "en",
-            "y",
-            "le"
-          ],
-          "answer": 1,
-          "translation": "她从市场回来。",
-          "explain": "du marché = de + le marché，表示来源，用 en。y 表示「去那里」，与此句方向相反。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q27",
-          "type": "choice",
-          "prompt": "Complétez : « Nous venons de la gare. » → « Nous ___ venons. »",
-          "options": [
-            "la",
-            "de",
-            "en",
-            "y"
-          ],
-          "answer": 2,
-          "translation": "我们从车站来。",
-          "explain": "venir de + 地点是来源补语，用 en；替代后不保留 de la。y 用于目的地。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l2-4",
-      "title": "en 的用法（4）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-c10-object-pronouns-l2-q28",
-          "type": "choice",
-          "prompt": "Complétez : « Il y a du thé ? — Oui, il y ___ a. »",
-          "options": [
-            "le",
-            "des",
-            "un",
-            "en"
-          ],
-          "answer": 3,
-          "translation": "有茶吗？——是的，有。",
-          "explain": "存在句 il y a 中，en 放在 y 与 a 之间：il y en a。不能说 il y le a 或 il y des a。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q29",
-          "type": "choice",
-          "prompt": "Complétez : « Il n'y a pas de lait. » → « Il n'y ___ a pas. »",
-          "options": [
-            "en",
-            "y",
-            "le",
-            "de"
-          ],
-          "answer": 0,
-          "translation": "没有牛奶。",
-          "explain": "存在句否定中 en 仍在 y 与 a 之间：il n'y en a pas。否定不改变 en 的位置。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q30",
-          "type": "choice",
-          "prompt": "Complétez : « Il parle de sa sœur. » → « Il parle ___ . »",
-          "options": [
-            "la",
-            "d'elle",
-            "en",
-            "d'en"
-          ],
-          "answer": 1,
-          "translation": "他谈到他的姐姐。",
-          "explain": "de + 人不用 en，而用重读代词 elle，并保留介词 de（省音为 d'）。en 只替代 de + 事物。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q31",
-          "type": "letters",
-          "prompt": "Complétez : « Elle achète du pain ? — Oui, elle ___ achète. »",
-          "answer": "en",
-          "decoys": [
-            "y",
-            "l",
-            "s"
-          ],
-          "translation": "她买面包吗？——是的，她买。",
-          "explain": "du pain 是部分冠词宾语，用 en 替代，替代后不保留 du；en 放在变位动词 achète 前。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q32",
-          "type": "letters",
-          "prompt": "Complétez : « Il y a des croissants ? — Oui, il y ___ a. »",
-          "answer": "en",
-          "decoys": [
-            "y",
-            "l",
-            "s"
-          ],
-          "translation": "有牛角包吗？——是的，有。",
-          "explain": "存在句 il y a 中，en 代替不定宾语 des croissants，放在 y 与 a 之间：il y en a。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q33",
-          "type": "letters",
-          "prompt": "Complétez : « Il n'y a pas de problème. → Il n'y ___ a pas. »",
-          "answer": "en",
-          "decoys": [
-            "y",
-            "l",
-            "s"
-          ],
-          "translation": "没有问题。",
-          "explain": "存在句否定中 en 仍在 y 与 a 之间：il n'y en a pas；否定不改变 en 的位置。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q34",
-          "type": "letters",
-          "prompt": "Complétez : « Ce dictionnaire ? J'en ai ___ . »（需要）",
-          "answer": "besoin",
-          "decoys": [
-            "s",
-            "t",
-            "x"
-          ],
-          "translation": "这本词典？我需要。",
-          "explain": "avoir besoin de + 事物：besoin 是名词，de 引出补语；用 en 替代后得到 j'en ai besoin。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q35",
-          "type": "letters",
-          "prompt": "Complétez : « Elle rêve de ce voyage ; elle en a ___ . »（愿望）",
-          "answer": "envie",
-          "decoys": [
-            "s",
-            "t",
-            "a"
-          ],
-          "translation": "她向往这次旅行；她有这个愿望。",
-          "explain": "avoir envie de + 名词，用 en 替代 de ce voyage 后保留名词 envie：elle en a envie。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q36",
-          "type": "letters",
-          "prompt": "Complétez : « Il redoute cet examen ; il en a ___ . »（害怕）",
-          "answer": "peur",
-          "decoys": [
-            "s",
-            "t",
-            "x"
-          ],
-          "translation": "他害怕这次考试；他害怕它。",
-          "explain": "avoir peur de + 事物用 en 替代 de 补语：il en a peur。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l2-5",
-      "title": "en 的用法（5）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-c10-object-pronouns-l2-q37",
-          "type": "letters",
-          "prompt": "Complétez : « Il est très content de son travail ; il en est ___ . »（骄傲的，阳性单数）",
-          "answer": "fier",
-          "decoys": [
-            "s",
-            "t",
-            "e"
-          ],
-          "translation": "他对自己的工作很满意，并为此感到自豪。",
-          "explain": "être fier de + 事物用 en 替代 de 补语；fier 是阳性单数形容词，与主语 il 配合。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q38",
-          "type": "letters",
-          "prompt": "Complétez : « Nous sommes ravis de notre voyage ; nous en sommes ___ . »（满意的，阳性复数）",
-          "answer": "contents",
-          "decoys": [
-            "e",
-            "s",
-            "x"
-          ],
-          "translation": "我们对旅行很满意，并对此感到满足。",
-          "explain": "être content de + 事物用 en 替代 de 补语；形容词要与主语 nous 配合，用阳性复数 contents。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q39",
-          "type": "letters",
-          "prompt": "Complétez : « Tu bois combien de café ? — J'en bois ___ . »（很多）",
-          "answer": "beaucoup",
-          "decoys": [
-            "s",
-            "t",
-            "x"
-          ],
-          "translation": "你喝多少咖啡？——我喝很多。",
-          "explain": "beaucoup de + 名词用 en 替代名词后，保留副词 beaucoup；不再保留 de。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q40",
-          "type": "letters",
-          "prompt": "Complétez : « Tu as combien d'argent ? — J'en ai ___ . »（足够）",
-          "answer": "assez",
-          "decoys": [
-            "s",
-            "c",
-            "t"
-          ],
-          "translation": "你有多少钱？——我够了。",
-          "explain": "assez de + 名词用 en 替代名词后，保留副词 assez。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q41",
-          "type": "letters",
-          "prompt": "Complétez : « Elle mange combien de gâteaux ? — Elle en mange ___ . »（太多）",
-          "answer": "trop",
-          "decoys": [
-            "s",
-            "e",
-            "p"
-          ],
-          "translation": "她吃多少蛋糕？——她吃太多了。",
-          "explain": "trop de + 名词用 en 替代名词后，保留副词 trop。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q42",
-          "type": "letters",
-          "prompt": "Complétez : « Vous avez combien de temps ? — Nous en avons ___ . »（很少）",
-          "answer": "peu",
-          "decoys": [
-            "s",
-            "x",
-            "t"
-          ],
-          "translation": "你们有多少时间？——我们很少。",
-          "explain": "peu de + 名词用 en 替代名词后，保留副词 peu；不要保留 de。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q43",
-          "type": "letters",
-          "prompt": "Complétez : « Il a combien d'amis ici ? — Il en a ___ . »（好几个）",
-          "answer": "plusieurs",
-          "decoys": [
-            "e",
-            "s",
-            "x"
-          ],
-          "translation": "他在这里有多少朋友？——他有好几个。",
-          "explain": "plusieurs + 名词用 en 替代名词后保留 plusieurs；plusieurs 没有性数变化。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q44",
-          "type": "letters",
-          "prompt": "Complétez : « Tu as combien de frères ? — Je n'en ai ___ . »（一个也没有，阳性）",
-          "answer": "aucun",
-          "decoys": [
-            "s",
-            "e",
-            "t"
-          ],
-          "translation": "你有多少兄弟？——我一个也没有。",
-          "explain": "否定数量用 n'en ... aucun；aucun 通常保持单数，不随原名词变复数。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q45",
-          "type": "letters",
-          "prompt": "Complétez : « Elle a combien de sœurs ? — Elle n'en a ___ . »（一个也没有，阴性）",
-          "answer": "aucune",
-          "decoys": [
-            "s",
-            "e",
-            "t"
-          ],
-          "translation": "她有多少姐妹？——她一个也没有。",
-          "explain": "否定数量用 n'en ... aucune，与所指阴性名词配合；aucune 通常保持单数。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l2-6",
-      "title": "en 的用法（6）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-c10-object-pronouns-l2-q46",
-          "type": "letters",
-          "prompt": "Complétez : « Il est à Paris ; il en ___ demain. » (revenir)",
-          "answer": "revient",
-          "decoys": [
-            "s",
-            "a",
-            "t"
-          ],
-          "translation": "他现在在巴黎；他明天从那里回来。",
-          "explain": "en 替代 de Paris（来源地）；revenir de + 地点用 en。根据提示用 revenir 的第三人称单数现在时 revient。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q47",
-          "type": "letters",
-          "prompt": "Complétez : « Elle est au marché ; elle en ___ à midi. »（回家）",
-          "answer": "rentre",
-          "decoys": [
-            "s",
-            "a",
-            "t"
-          ],
-          "translation": "她在市场，中午从那里回家。",
-          "explain": "rentrer de + 地点用 en 替代来源补语；rentre 是 rentrer 的第三人称单数现在时。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q48",
-          "type": "letters",
-          "prompt": "Complétez : « Tu arrives de Lyon ? — Oui, j'en ___ . »（来/来自）",
-          "answer": "viens",
-          "decoys": [
-            "s",
-            "t",
-            "a"
-          ],
-          "translation": "你从里昂来吗？——是的，我从那里来。",
-          "explain": "回答用 venir de + 地点表示来源，用 en 替代 de + 地点：j'en viens。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q49",
-          "type": "letters",
-          "prompt": "Complétez : « Vous avez des frères ? — Oui, j'en ai ___ . »（一个）",
-          "answer": "un",
-          "decoys": [
-            "e",
-            "s",
-            "a"
-          ],
-          "translation": "你们有兄弟吗？——是的，我有一个。",
-          "explain": "un + 名词用 en 替代名词后，肯定句中把数量词 un 留在句末。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q50",
-          "type": "letters",
-          "prompt": "Complétez : « Elle veut des robes ? — Oui, elle en veut ___ . »（一条）",
-          "answer": "une",
-          "decoys": [
-            "s",
-            "a",
-            "e"
-          ],
-          "translation": "她想要裙子吗？——是的，她想要一条。",
-          "explain": "une + 名词用 en 替代名词后，肯定句中保留数量词 une 在句末。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q51",
-          "type": "tiles",
-          "prompt": "Transformez avec en : « Je veux du café. » → ___",
-          "answer": [
-            "J'en",
-            "veux."
-          ],
-          "bank": [
-            "J'en",
-            "veux.",
-            "Je",
-            "en",
-            "le",
-            "y",
-            "veut",
-            "café."
-          ],
-          "translation": "我要咖啡。",
-          "explain": "du café 是部分冠词宾语，用 en 替代；en 在元音前与 je 省音为 j'en。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q52",
-          "type": "tiles",
-          "prompt": "Transformez avec en : « Il mange de la soupe. » → ___",
-          "answer": [
-            "Il",
-            "en",
-            "mange."
-          ],
-          "bank": [
-            "Il",
-            "en",
-            "mange.",
-            "le",
-            "la",
-            "mangent",
-            "soupe.",
-            "de"
-          ],
-          "translation": "他喝汤。",
-          "explain": "de la soupe 是部分冠词宾语，用 en 替代，替代后不保留 de la。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q53",
-          "type": "tiles",
-          "prompt": "Transformez avec en : « Elle boit de l'eau. » → ___",
-          "answer": [
-            "Elle",
-            "en",
-            "boit."
-          ],
-          "bank": [
-            "Elle",
-            "en",
-            "boit.",
-            "la",
-            "le",
-            "boivent",
-            "eau.",
-            "de"
-          ],
-          "translation": "她喝水。",
-          "explain": "de l'eau 是部分冠词宾语，用 en 替代；不能保留 de l'。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q54",
-          "type": "tiles",
-          "prompt": "Transformez avec en : « Nous achetons des fruits. » → ___",
-          "answer": [
-            "Nous",
-            "en",
-            "achetons."
-          ],
-          "bank": [
-            "Nous",
-            "en",
-            "achetons.",
-            "les",
-            "des",
-            "achète",
-            "fruits.",
-            "du"
-          ],
-          "translation": "我们买水果。",
-          "explain": "des + 不定复数名词用 en 替代，替代后不保留 des。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l2-7",
-      "title": "en 的用法（7）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-c10-object-pronouns-l2-q55",
-          "type": "tiles",
-          "prompt": "Répondez avec en : « Tu as un frère ? » → ___",
-          "answer": [
-            "Oui,",
-            "j'en",
-            "ai",
-            "un."
-          ],
-          "bank": [
-            "Oui,",
-            "j'en",
-            "ai",
-            "un.",
-            "en",
-            "le",
-            "une",
-            "frère."
-          ],
-          "translation": "你有兄弟吗？——是的，有一个。",
-          "explain": "un + 名词用 en 替代名词，肯定句保留数量词 un 在句末。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q56",
-          "type": "tiles",
-          "prompt": "Répondez avec en : « Elle veut une robe ? » → ___",
-          "answer": [
-            "Oui,",
-            "elle",
-            "en",
-            "veut",
-            "une."
-          ],
-          "bank": [
-            "Oui,",
-            "elle",
-            "en",
-            "veut",
-            "une.",
-            "la",
-            "le",
-            "robe."
-          ],
-          "translation": "她想要一条裙子吗？——是的，她想要一条。",
-          "explain": "une + 名词用 en 替代名词，肯定句保留数量词 une 在句末。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q57",
-          "type": "tiles",
-          "prompt": "Transformez avec en : « J'ai besoin de ce dictionnaire. » → ___",
-          "answer": [
-            "J'en",
-            "ai",
-            "besoin."
-          ],
-          "bank": [
-            "J'en",
-            "ai",
-            "besoin.",
-            "Je",
-            "en",
-            "le",
-            "y",
-            "dictionnaire."
-          ],
-          "translation": "我需要这本词典。",
-          "explain": "avoir besoin de + 事物用 en 替代 de + 名词；en 放在助动词 ai 前。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q58",
-          "type": "tiles",
-          "prompt": "Transformez avec en : « Nous sommes fiers de notre travail. » → ___",
-          "answer": [
-            "Nous",
-            "en",
-            "sommes",
-            "fiers."
-          ],
-          "bank": [
-            "Nous",
-            "en",
-            "sommes",
-            "fiers.",
-            "les",
-            "y",
-            "fier",
-            "travail."
-          ],
-          "translation": "我们为自己的工作感到自豪。",
-          "explain": "être fier de + 事物用 en 替代 de 补语；形容词 fiers 与主语 nous 配合。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q59",
-          "type": "tiles",
-          "prompt": "Transformez avec en : « Il a peur des chiens. » → ___",
-          "answer": [
-            "Il",
-            "en",
-            "a",
-            "peur."
-          ],
-          "bank": [
-            "Il",
-            "en",
-            "a",
-            "peur.",
-            "les",
-            "y",
-            "peurs",
-            "chiens."
-          ],
-          "translation": "他怕狗。",
-          "explain": "avoir peur de + 事物用 en 替代 de 补语；en 放在变位动词 a 前。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q60",
-          "type": "tiles",
-          "prompt": "Répondez avec en : « Tu bois beaucoup de café ? » → ___",
-          "answer": [
-            "Oui,",
-            "j'en",
-            "bois",
-            "beaucoup."
-          ],
-          "bank": [
-            "Oui,",
-            "j'en",
-            "bois",
-            "beaucoup.",
-            "le",
-            "en",
-            "boit",
-            "café."
-          ],
-          "translation": "你喝很多咖啡吗？——是的，我喝很多。",
-          "explain": "beaucoup de + 名词用 en 替代名词并保留 beaucoup；替代后不保留 de。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q61",
-          "type": "tiles",
-          "prompt": "Transformez avec en : « Elle mange trop de gâteaux. » → ___",
-          "answer": [
-            "Elle",
-            "en",
-            "mange",
-            "trop."
-          ],
-          "bank": [
-            "Elle",
-            "en",
-            "mange",
-            "trop.",
-            "les",
-            "des",
-            "mangent",
-            "gâteaux."
-          ],
-          "translation": "她吃太多蛋糕。",
-          "explain": "trop de + 名词用 en 替代名词并保留 trop。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q62",
-          "type": "tiles",
-          "prompt": "Transformez avec en : « Nous avons peu de temps. » → ___",
-          "answer": [
-            "Nous",
-            "en",
-            "avons",
-            "peu."
-          ],
-          "bank": [
-            "Nous",
-            "en",
-            "avons",
-            "peu.",
-            "le",
-            "de",
-            "avez",
-            "temps."
-          ],
-          "translation": "我们时间很少。",
-          "explain": "peu de + 名词用 en 替代名词并保留 peu；en 放在助动词 avons 前。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q63",
-          "type": "tiles",
-          "prompt": "Transformez avec en : « Il a quelques amis ici. » → ___",
-          "answer": [
-            "Il",
-            "en",
-            "a",
-            "quelques-uns."
-          ],
-          "bank": [
-            "Il",
-            "en",
-            "a",
-            "quelques-uns.",
-            "les",
-            "des",
-            "quelques-unes",
-            "amis."
-          ],
-          "translation": "他在这里有几个朋友。",
-          "explain": "quelques + 名词用 en 替代名词，保留 quelques-uns，并与阳性复数 amis 配合。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l2-8",
-      "title": "en 的用法（8）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-c10-object-pronouns-l2-q64",
-          "type": "tiles",
-          "prompt": "Transformez avec en : « Elle a plusieurs projets. » → ___",
-          "answer": [
-            "Elle",
-            "en",
-            "a",
-            "plusieurs."
-          ],
-          "bank": [
-            "Elle",
-            "en",
-            "a",
-            "plusieurs.",
-            "les",
-            "des",
-            "plusieur",
-            "projets."
-          ],
-          "translation": "她有好几个项目。",
-          "explain": "plusieurs + 名词用 en 替代名词，保留 plusieurs；plusieurs 无性数变化。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q65",
-          "type": "tiles",
-          "prompt": "Répondez avec en : « Combien de frères as-tu ? » → ___",
-          "answer": [
-            "J'en",
-            "ai",
-            "trois."
-          ],
-          "bank": [
-            "J'en",
-            "ai",
-            "trois.",
-            "Je",
-            "en",
-            "les",
-            "deux",
-            "frères."
-          ],
-          "translation": "你有几个兄弟？——我有三个。",
-          "explain": "数量补语中的名词用 en 替代，数词 trois 保留在句末。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q66",
-          "type": "tiles",
-          "prompt": "Transformez avec en : « Il revient de Paris. » → ___",
-          "answer": [
-            "Il",
-            "en",
-            "revient."
-          ],
-          "bank": [
-            "Il",
-            "en",
-            "revient.",
-            "y",
-            "de",
-            "reviennent",
-            "Paris."
-          ],
-          "translation": "他从巴黎回来。",
-          "explain": "de + 地点来源用 en；y 用于目的地，不能与 revenir de 搭配。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q67",
-          "type": "tiles",
-          "prompt": "Transformez avec en : « Elle rentre du marché. » → ___",
-          "answer": [
-            "Elle",
-            "en",
-            "rentre."
-          ],
-          "bank": [
-            "Elle",
-            "en",
-            "rentre.",
-            "y",
-            "du",
-            "rentrent",
-            "marché."
-          ],
-          "translation": "她从市场回来。",
-          "explain": "du marché 表示来源，de + 地点用 en 替代。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q68",
-          "type": "tiles",
-          "prompt": "Répondez avec en : « Il y a du thé ? » → ___",
-          "answer": [
-            "Oui,",
-            "il",
-            "y",
-            "en",
-            "a."
-          ],
-          "bank": [
-            "Oui,",
-            "il",
-            "y",
-            "en",
-            "a.",
-            "le",
-            "des",
-            "ont",
-            "thé."
-          ],
-          "translation": "有茶吗？——是的，有。",
-          "explain": "存在句中 en 放在 y 与 a 之间：il y en a。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q69",
-          "type": "tiles",
-          "prompt": "Réécrivez avec le pronom en, en gardant la négation : « Il n'y a pas de lait. » → ___",
-          "answer": [
-            "Il",
-            "n'y",
-            "en",
-            "a",
-            "pas."
-          ],
-          "bank": [
-            "Il",
-            "n'y",
-            "en",
-            "a",
-            "pas.",
-            "ne",
-            "y",
-            "le",
-            "lait."
-          ],
-          "translation": "没有牛奶。",
-          "explain": "存在句否定中 en 仍在 y 与 a 之间：il n'y en a pas。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l2-q70",
-          "type": "tiles",
-          "prompt": "Répondez avec en : « Vous voulez de la salade ? » → ___",
-          "answer": [
-            "Oui,",
-            "nous",
-            "en",
-            "voulons."
-          ],
-          "bank": [
-            "Oui,",
-            "nous",
-            "en",
-            "voulons.",
-            "vous",
-            "les",
-            "voulez",
-            "salade."
-          ],
-          "translation": "你们要沙拉吗？——是的，我们要。",
-          "explain": "de la salade 是部分冠词宾语，用 en 替代，替代后不保留 de la。"
         },
         {
           "id": "pub-c10-object-pronouns-l2-q71",
@@ -3157,6 +3779,20 @@
           "explain": "回答数量时用 en 替代 des livres，数词 trois 留在句末；存在句 il y a 中顺序固定为 y → en → a，写成 il y en a trois。"
         },
         {
+          "id": "pub-c10-object-pronouns-l3-q32",
+          "type": "choice",
+          "prompt": "Complétez : « Vous êtes arrivés au stade à midi ; vous ___ . »",
+          "options": [
+            "y êtes arrivés",
+            "y êtes arrivé",
+            "en êtes arrivés",
+            "y avez arrivés"
+          ],
+          "answer": 0,
+          "translation": "你们中午到了体育场；你们到了那里。",
+          "explain": "au stade 是地点补语，用 y 替代，放在助动词 êtes 前；主语 vous 为复数，过去分词写 arrivés。en 用于来源地 de，不用于 à 引出的地点。"
+        },
+        {
           "id": "pub-c10-object-pronouns-l2-q72",
           "type": "tiles",
           "prompt": "Répondez avec deux pronoms : « Il y a trop de bruit dans la rue ? » → ___",
@@ -3180,642 +3816,6 @@
           ],
           "translation": "街上有太多噪音吗？——是的，太多了。",
           "explain": "en 替代 de bruit，数量副词 trop 保留在句末；il y a 中 y 在 en 前，写成 il y en a trop。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l3-1",
-      "title": "y 的用法（1）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-c10-object-pronouns-l3-q1",
-          "type": "choice",
-          "prompt": "Complétez : « Tu penses à ce projet ? — Oui, j'___ pense. »",
-          "options": [
-            "y",
-            "en",
-            "le",
-            "lui"
-          ],
-          "answer": 0,
-          "translation": "你在想这个项目吗？——是的，我在想。",
-          "explain": "penser à + 事物用 y；y 放在变位动词 pense 前。en 代替 de + 事物，le 是直接宾语代词。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q2",
-          "type": "choice",
-          "prompt": "Complétez : « Il répond à la question ? — Oui, il ___ répond. »",
-          "options": [
-            "lui",
-            "y",
-            "en",
-            "la"
-          ],
-          "answer": 1,
-          "translation": "他回答这个问题吗？——是的，他回答。",
-          "explain": "répondre à + 事物用 y；la 是直接宾语代词，lui 用于 à + 人。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q3",
-          "type": "choice",
-          "prompt": "Complétez : « Elle participe à la réunion ? — Oui, elle ___ participe. »",
-          "options": [
-            "la",
-            "lui",
-            "y",
-            "en"
-          ],
-          "answer": 2,
-          "translation": "她参加这个会议吗？——是的，她参加。",
-          "explain": "participer à + 事物用 y；y 放在变位动词 participe 前。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q4",
-          "type": "choice",
-          "prompt": "Complétez : « Nous réfléchissons à cette offre. » → « Nous ___ réfléchissons. »",
-          "options": [
-            "en",
-            "la",
-            "lui",
-            "y"
-          ],
-          "answer": 3,
-          "translation": "我们在考虑这个报价。",
-          "explain": "réfléchir à + 事物用 y；en 代替 de + 事物，不能与 réfléchir à 搭配。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q5",
-          "type": "choice",
-          "prompt": "Complétez : « Il tient à ce souvenir. » → « Il ___ tient. »",
-          "options": [
-            "y",
-            "en",
-            "le",
-            "lui"
-          ],
-          "answer": 0,
-          "translation": "他珍视这段回忆。",
-          "explain": "tenir à + 事物用 y；y 在变位动词 tient 前。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q6",
-          "type": "choice",
-          "prompt": "Complétez : « Nous allons à Paris. » → « Nous ___ allons. »",
-          "options": [
-            "le",
-            "y",
-            "en",
-            "à"
-          ],
-          "answer": 1,
-          "translation": "我们去巴黎。",
-          "explain": "地点补语 à Paris 用 y；y 放在变位动词 allons 前。en 用于 de + 来源。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q7",
-          "type": "choice",
-          "prompt": "Complétez : « Elle habite à Lyon. » → « Elle ___ habite. »",
-          "options": [
-            "à",
-            "la",
-            "y",
-            "en"
-          ],
-          "answer": 2,
-          "translation": "她住在里昂。",
-          "explain": "habiter à + 地点用 y；替代后不保留介词 à。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q8",
-          "type": "choice",
-          "prompt": "Complétez : « Il est dans sa chambre. » → « Il ___ est. »",
-          "options": [
-            "en",
-            "dans",
-            "là",
-            "y"
-          ],
-          "answer": 3,
-          "translation": "他在他的房间里。",
-          "explain": "地点补语 dans sa chambre 用 y；y 在变位动词 est 前。là 是副词，不是代词替换。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l3-2",
-      "title": "y 的用法（2）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-c10-object-pronouns-l3-q9",
-          "type": "choice",
-          "prompt": "Complétez : « Tu vas en Italie ? — Oui, j'___ vais. »",
-          "options": [
-            "y",
-            "en",
-            "à",
-            "le"
-          ],
-          "answer": 0,
-          "translation": "你去意大利吗？——是的，我去。",
-          "explain": "地点补语 en Italie 用 y；y 放在变位动词 vais 前。en 用于 de + 来源。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q10",
-          "type": "choice",
-          "prompt": "Complétez : « Elle travaille au bureau. » → « Elle ___ travaille. »",
-          "options": [
-            "le",
-            "y",
-            "en",
-            "au"
-          ],
-          "answer": 1,
-          "translation": "她在办公室工作。",
-          "explain": "au bureau 是地点补语，用 y；替代后不保留 au。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q11",
-          "type": "choice",
-          "prompt": "Complétez : « Nous sommes allés au musée hier. » → « Nous ___ sommes allés hier. »",
-          "options": [
-            "au",
-            "le",
-            "y",
-            "en"
-          ],
-          "answer": 2,
-          "translation": "我们昨天去了博物馆。",
-          "explain": "地点补语 au musée 用 y；复合过去时中 y 放在助动词 sommes 前，而不是过去分词后。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q12",
-          "type": "choice",
-          "prompt": "Complétez : « Il vient de Paris. » → « Il ___ vient. »",
-          "options": [
-            "y",
-            "de",
-            "le",
-            "en"
-          ],
-          "answer": 3,
-          "translation": "他从巴黎来。",
-          "explain": "de + 地点来源用 en；y 用于目的地，不能与 venir de 搭配。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q13",
-          "type": "choice",
-          "prompt": "Complétez : « Je pense à Marie. » → « Je pense ___ . »",
-          "options": [
-            "à elle",
-            "y",
-            "lui",
-            "la"
-          ],
-          "answer": 0,
-          "translation": "我在想玛丽。",
-          "explain": "penser à + 人用重读代词 elle，并保留介词 à；y 只代替 à + 事物，lui 不能与 penser à 搭配。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q14",
-          "type": "tiles",
-          "prompt": "Transformez avec y : « Je pense à ce projet. » → ___",
-          "answer": [
-            "J'y",
-            "pense."
-          ],
-          "bank": [
-            "J'y",
-            "pense.",
-            "J'en",
-            "y",
-            "en",
-            "penses",
-            "projet."
-          ],
-          "translation": "我想这个项目。",
-          "explain": "penser à + 事物用 y；y 在元音前与 je 省音为 j'y。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q15",
-          "type": "tiles",
-          "prompt": "Transformez avec y : « Il répond à la question. » → ___",
-          "answer": [
-            "Il",
-            "y",
-            "répond."
-          ],
-          "bank": [
-            "Il",
-            "y",
-            "répond.",
-            "en",
-            "la",
-            "répondent",
-            "question."
-          ],
-          "translation": "他回答这个问题。",
-          "explain": "répondre à + 事物用 y；y 放在变位动词 répond 前。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q16",
-          "type": "tiles",
-          "prompt": "Transformez avec y : « Nous allons à Paris. » → ___",
-          "answer": [
-            "Nous",
-            "y",
-            "allons."
-          ],
-          "bank": [
-            "Nous",
-            "y",
-            "allons.",
-            "en",
-            "à",
-            "allez",
-            "Paris."
-          ],
-          "translation": "我们去巴黎。",
-          "explain": "地点补语 à Paris 用 y；替代后不保留 à。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l3-3",
-      "title": "y 的用法（3）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-c10-object-pronouns-l3-q17",
-          "type": "tiles",
-          "prompt": "Transformez avec y : « Elle habite à Lyon. » → ___",
-          "answer": [
-            "Elle",
-            "y",
-            "habite."
-          ],
-          "bank": [
-            "Elle",
-            "y",
-            "habite.",
-            "en",
-            "à",
-            "habitent",
-            "Lyon."
-          ],
-          "translation": "她住在里昂。",
-          "explain": "habiter à + 地点用 y；y 放在变位动词 habite 前。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q18",
-          "type": "tiles",
-          "prompt": "Répondez avec y : « Tu vas en Italie ? » → ___",
-          "answer": [
-            "Oui,",
-            "j'y",
-            "vais."
-          ],
-          "bank": [
-            "Oui,",
-            "j'y",
-            "vais.",
-            "j'en",
-            "y",
-            "en",
-            "vont",
-            "Italie."
-          ],
-          "translation": "你去意大利吗？——是的，我去。",
-          "explain": "地点补语 en Italie 用 y；y 与 je 省音为 j'y。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q19",
-          "type": "tiles",
-          "prompt": "Transformez avec y : « Il est dans sa chambre. » → ___",
-          "answer": [
-            "Il",
-            "y",
-            "est."
-          ],
-          "bank": [
-            "Il",
-            "y",
-            "est.",
-            "en",
-            "dans",
-            "sont",
-            "chambre."
-          ],
-          "translation": "他在他的房间里。",
-          "explain": "地点补语 dans sa chambre 用 y；替代后不保留 dans。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q20",
-          "type": "tiles",
-          "prompt": "Transformez avec y : « Elle travaille au bureau. » → ___",
-          "answer": [
-            "Elle",
-            "y",
-            "travaille."
-          ],
-          "bank": [
-            "Elle",
-            "y",
-            "travaille.",
-            "en",
-            "au",
-            "travaillent",
-            "bureau."
-          ],
-          "translation": "她在办公室工作。",
-          "explain": "地点补语 au bureau 用 y；y 放在变位动词 travaille 前。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q21",
-          "type": "tiles",
-          "prompt": "Transformez avec y : « Nous sommes allés au musée hier. » → ___",
-          "answer": [
-            "Nous",
-            "y",
-            "sommes",
-            "allés",
-            "hier."
-          ],
-          "bank": [
-            "Nous",
-            "y",
-            "sommes",
-            "allés",
-            "hier.",
-            "en",
-            "au",
-            "sont",
-            "musée."
-          ],
-          "translation": "我们昨天去了博物馆。",
-          "explain": "地点补语 au musée 用 y；复合过去时中 y 放在助动词 sommes 前。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q22",
-          "type": "tiles",
-          "prompt": "Réécrivez avec y en gardant la négation : « Je ne pense pas à ce projet. » → ___",
-          "answer": [
-            "Je",
-            "n'y",
-            "pense",
-            "pas."
-          ],
-          "bank": [
-            "Je",
-            "n'y",
-            "pense",
-            "pas.",
-            "ne",
-            "y",
-            "en",
-            "pensé"
-          ],
-          "translation": "我不想这个项目。",
-          "explain": "penser à + 事物用 y；否定结构为 ne + y + 动词 + pas，ne 与 y 省音为 n'y。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q23",
-          "type": "tiles",
-          "prompt": "Transformez avec y : « Ils arrivent à la gare à huit heures. » → ___",
-          "answer": [
-            "Ils",
-            "y",
-            "arrivent",
-            "à",
-            "huit",
-            "heures."
-          ],
-          "bank": [
-            "Ils",
-            "y",
-            "arrivent",
-            "à",
-            "huit",
-            "heures.",
-            "en",
-            "au",
-            "arrive",
-            "gare."
-          ],
-          "translation": "他们八点到车站。",
-          "explain": "地点补语 à la gare 用 y；时间状语 à huit heures 保留不变。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q24",
-          "type": "tiles",
-          "prompt": "Transformez avec y : « Elle participe à la réunion chaque année. » → ___",
-          "answer": [
-            "Elle",
-            "y",
-            "participe",
-            "chaque",
-            "année."
-          ],
-          "bank": [
-            "Elle",
-            "y",
-            "participe",
-            "chaque",
-            "année.",
-            "en",
-            "à",
-            "participent",
-            "réunion."
-          ],
-          "translation": "她每年参加这个会议。",
-          "explain": "participer à + 事物用 y；y 放在变位动词 participe 前。"
-        }
-      ]
-    },
-    {
-      "id": "pub-c10-object-pronouns-l3-4",
-      "title": "y 的用法（4）",
-      "kind": "lesson",
-      "source": "原创编写，待人工审校",
-      "questions": [
-        {
-          "id": "pub-c10-object-pronouns-l3-q25",
-          "type": "tiles",
-          "prompt": "Transformez avec en : « Il vient de Paris. » → ___",
-          "answer": [
-            "Il",
-            "en",
-            "vient."
-          ],
-          "bank": [
-            "Il",
-            "en",
-            "vient.",
-            "y",
-            "de",
-            "viennent",
-            "Paris."
-          ],
-          "translation": "他从巴黎来。",
-          "explain": "de + 地点来源用 en；y 表示目的地，不能与 venir de 搭配。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q26",
-          "type": "tiles",
-          "prompt": "Transformez avec un pronom : « Je pense à Marie. » → ___",
-          "answer": [
-            "Je",
-            "pense",
-            "à",
-            "elle."
-          ],
-          "bank": [
-            "Je",
-            "pense",
-            "à",
-            "elle.",
-            "y",
-            "lui",
-            "la",
-            "Marie."
-          ],
-          "translation": "我在想玛丽。",
-          "explain": "penser à + 人用重读代词 elle，并保留介词 à；y 只代替 à + 事物。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q27",
-          "type": "tiles",
-          "prompt": "Mettez au plus-que-parfait en remplaçant « au musée » par y : « Ils sont allés au musée. » → ___",
-          "answer": [
-            "Ils",
-            "y",
-            "étaient",
-            "allés."
-          ],
-          "bank": [
-            "Ils",
-            "y",
-            "étaient",
-            "allés.",
-            "sont",
-            "allé",
-            "allées",
-            "en"
-          ],
-          "translation": "他们去了博物馆。→ 他们当时已经去过博物馆了。",
-          "explain": "plus-que-parfait 用 être 的未完成过去时 étaient + 过去分词；主语 ils 为阳性复数，分词写 allés。地点 au musée 用 y 替代，放在助动词前：ils y étaient allés。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q28",
-          "type": "tiles",
-          "prompt": "Mettez au plus-que-parfait en remplaçant « à ce résultat » par y : « Ils sont parvenus à ce résultat. » → ___",
-          "answer": [
-            "Ils",
-            "y",
-            "étaient",
-            "parvenus."
-          ],
-          "bank": [
-            "Ils",
-            "y",
-            "étaient",
-            "parvenus.",
-            "sont",
-            "parvenu",
-            "parvenues",
-            "en"
-          ],
-          "translation": "他们达到了这个结果。→ 他们当时已经达到了这个结果。",
-          "explain": "parvenir à qch 用 y 替代 à + 事物；plus-que-parfait 为 étaient + parvenus，主语 ils 阳性复数，分词配合写 -us。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q29",
-          "type": "tiles",
-          "prompt": "Mettez au plus-que-parfait en remplaçant « à Lyon » par y : « Elles sont retournées à Lyon. » → ___",
-          "answer": [
-            "Elles",
-            "y",
-            "étaient",
-            "retournées."
-          ],
-          "bank": [
-            "Elles",
-            "y",
-            "étaient",
-            "retournées.",
-            "sont",
-            "retournée",
-            "retournés",
-            "en"
-          ],
-          "translation": "她们回到了里昂。→ 她们当时已经回到了里昂。",
-          "explain": "retourner à + 地点用 y 替代；plus-que-parfait 用 étaient + 过去分词，主语 elles 阴性复数，写 retournées。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q30",
-          "type": "tiles",
-          "prompt": "Mettez au plus-que-parfait en remplaçant « à la fête » par y : « Elles sont venues à la fête. » → ___",
-          "answer": [
-            "Elles",
-            "y",
-            "étaient",
-            "venues."
-          ],
-          "bank": [
-            "Elles",
-            "y",
-            "étaient",
-            "venues.",
-            "sont",
-            "venu",
-            "venus",
-            "en"
-          ],
-          "translation": "她们来参加聚会了。→ 她们当时已经来参加聚会了。",
-          "explain": "venir à + 地点或活动用 y 替代；plus-que-parfait 用 être 的未完成过去时 étaient + 过去分词，主语 elles 为阴性复数，分词写 venues。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q31",
-          "type": "tiles",
-          "prompt": "Transformez avec y : « Nous sommes très attachés à cette maison. » → ___",
-          "answer": [
-            "Nous",
-            "y",
-            "sommes",
-            "très",
-            "attachés."
-          ],
-          "bank": [
-            "Nous",
-            "y",
-            "sommes",
-            "très",
-            "attachés.",
-            "en",
-            "attaché",
-            "attachées",
-            "la"
-          ],
-          "translation": "我们非常喜欢这座房子。→ 我们对它非常有感情。",
-          "explain": "être attaché à + 事物用 y 替代；y 放在助动词 sommes 前。主语 nous 为阳性复数，过去分词写 attachés。"
-        },
-        {
-          "id": "pub-c10-object-pronouns-l3-q32",
-          "type": "choice",
-          "prompt": "Complétez : « Vous êtes arrivés au stade à midi ; vous ___ . »",
-          "options": [
-            "y êtes arrivés",
-            "y êtes arrivé",
-            "en êtes arrivés",
-            "y avez arrivés"
-          ],
-          "answer": 0,
-          "translation": "你们中午到了体育场；你们到了那里。",
-          "explain": "au stade 是地点补语，用 y 替代，放在助动词 êtes 前；主语 vous 为复数，过去分词写 arrivés。en 用于来源地 de，不用于 à 引出的地点。"
         }
       ]
     },
@@ -4018,7 +4018,7 @@
         {
           "id": "pub-c10-object-pronouns-l4-q14",
           "type": "choice",
-          "prompt": "Complétez : « Le professeur ___ connaît bien. » (nous)",
+          "prompt": "Complétez : « Le professeur ___ connaît bien. »（我们）",
           "explain": "nous 是第一人称复数直接宾语代词，放在变位动词 connaît 前。notre/nos 是限定词，nous-mêmes 是重读强调形式，都不能单独作宾语代词。",
           "options": [
             "nous-mêmes",
@@ -4058,7 +4058,7 @@
         {
           "id": "pub-c10-object-pronouns-l4-q17",
           "type": "letters",
-          "prompt": "Un homme raconte : « Il ___ attendu pendant une heure. » (avoir ; 指 moi)",
+          "prompt": "Un homme raconte : « Il ___ attendu pendant une heure. »（avoir；指我）",
           "answer": "m'a",
           "explain": "me 指男性说话人，遇助动词 a 省音为 m'，放在助动词前：Il m'a attendu。直接宾语 me 前置，过去分词 attendu 为阳性单数。",
           "decoys": [
@@ -4071,7 +4071,7 @@
         {
           "id": "pub-c10-object-pronouns-l4-q18",
           "type": "letters",
-          "prompt": "Un homme raconte à un ami : « Je ___ attendu devant la gare. » (avoir ; 指 toi)",
+          "prompt": "Un homme raconte à un ami : « Je ___ attendu devant la gare. »（avoir；指你）",
           "answer": "t'ai",
           "explain": "te 指男性对话者，遇助动词 ai 省音为 t'；代词放在助动词前，不放在过去分词后。直接宾语 te 前置，过去分词保持阳性单数 attendu。",
           "decoys": [
@@ -4581,7 +4581,7 @@
         {
           "id": "pub-c10-object-pronouns-l4-q43",
           "type": "tiles",
-          "prompt": "Transformez avec y : « Il faut penser à ce problème. » → ___",
+          "prompt": "Transformez avec un pronom : « Il faut penser à ce problème. » → ___",
           "answer": [
             "Il",
             "faut",
@@ -4604,7 +4604,7 @@
         {
           "id": "pub-c10-object-pronouns-l4-q44",
           "type": "tiles",
-          "prompt": "Transformez avec y : « Nous devons réfléchir à cette offre. » → ___",
+          "prompt": "Transformez avec un pronom : « Nous devons réfléchir à cette offre. » → ___",
           "answer": [
             "Nous",
             "devons",
@@ -4670,7 +4670,7 @@
         {
           "id": "pub-c10-object-pronouns-l4-q47",
           "type": "tiles",
-          "prompt": "Transformez avec y : « Elle a décidé de renoncer à ce projet. » → ___",
+          "prompt": "Transformez avec un pronom : « Elle a décidé de renoncer à ce projet. » → ___",
           "answer": [
             "Elle",
             "a",
@@ -4695,7 +4695,7 @@
         {
           "id": "pub-c10-object-pronouns-l4-q48",
           "type": "tiles",
-          "prompt": "Transformez avec y : « Il hésite à répondre à cette question. » → ___",
+          "prompt": "Transformez avec un pronom : « Il hésite à répondre à cette question. » → ___",
           "answer": [
             "Il",
             "hésite",
@@ -4720,7 +4720,7 @@
         {
           "id": "pub-c10-object-pronouns-l4-q49",
           "type": "tiles",
-          "prompt": "Transformez avec y : « Il compte rentrer à Paris. » → ___",
+          "prompt": "Transformez avec un pronom : « Il compte rentrer à Paris. » → ___",
           "answer": [
             "Il",
             "compte",
@@ -4751,7 +4751,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q1",
           "type": "choice",
-          "prompt": "Complétez : « Il ___ donne. » (me + le livre)",
+          "prompt": "Complétez : « Il ___ donne. »（我 + 这本书）",
           "explain": "双代词顺序是 me → le；me 是第一槽位，le 指 le livre，是第二槽位。两个代词都在变位动词 donne 前。",
           "options": [
             "me le",
@@ -4765,7 +4765,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q2",
           "type": "choice",
-          "prompt": "Complétez : « Je ___ prête. » (te + la voiture)",
+          "prompt": "Complétez : « Je ___ prête. »（你 + 这辆车）",
           "explain": "te 是第一槽位，la 指 la voiture，是第二槽位；顺序 te → la，不能按「物在前」写成 la te。",
           "options": [
             "la te",
@@ -4779,7 +4779,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q3",
           "type": "choice",
-          "prompt": "Complétez : « Elle ___ montre. » (nous + les photos)",
+          "prompt": "Complétez : « Elle ___ montre. »（我们 + 这些照片）",
           "explain": "nous 是第一槽位，les 指 les photos，是第二槽位；顺序 nous → les。",
           "options": [
             "les nous",
@@ -4793,7 +4793,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q4",
           "type": "choice",
-          "prompt": "Complétez : « Je ___ donne. » (le livre à Paul)",
+          "prompt": "Complétez : « Je ___ donne. »（这本书给保罗）",
           "explain": "le 指 le livre，是直接宾语；lui 替代 à Paul，是间接宾语。顺序是 le → lui，不能颠倒。",
           "options": [
             "lui le",
@@ -4807,7 +4807,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q5",
           "type": "choice",
-          "prompt": "Complétez : « Je ___ montre. » (les photos à mes amis)",
+          "prompt": "Complétez : « Je ___ montre. »（这些照片给我的朋友们）",
           "explain": "les 指 les photos，是直接宾语；leur 替代 à mes amis，是复数间接宾语。顺序 les → leur。",
           "options": [
             "les leur",
@@ -4821,7 +4821,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q6",
           "type": "choice",
-          "prompt": "Complétez : « Il ___ parle. » (de ce projet à nous)",
+          "prompt": "Complétez : « Il ___ parle. »（这个计划，对我们）",
           "explain": "nous 是间接宾语，en 替代 de ce projet；顺序 nous → en，en 在最后。",
           "options": [
             "en nous",
@@ -4835,7 +4835,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q7",
           "type": "choice",
-          "prompt": "Complétez : « Elle ___ a parlé. » (de son voyage à moi)",
+          "prompt": "Complétez : « Elle ___ a parlé. »（他的旅行，对我）",
           "explain": "me 遇 en 省音为 m'，顺序 me → en；整个组合放在助动词 a 前。不能写 me en 或 en m'。",
           "options": [
             "en m'",
@@ -4849,7 +4849,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q8",
           "type": "choice",
-          "prompt": "Complétez : « Il ___ a beaucoup. » (des livres, 存在句)",
+          "prompt": "Complétez : « Il ___ a beaucoup. »（书，存在句）",
           "explain": "存在句 il y a 中，en 替代 des livres，放在 y 与 avoir 之间：il y en a。顺序是 y → en。",
           "options": [
             "en y",
@@ -4863,7 +4863,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q9",
           "type": "choice",
-          "prompt": "Complétez : « Je vais ___ dire. » (le secret à elle)",
+          "prompt": "Complétez : « Je vais ___ dire. »（这个秘密，告诉她）",
           "explain": "不定式前双代词顺序与限定动词前相同：le 指 le secret，lui 替代 à elle；顺序 le → lui，放在 dire 前。",
           "options": [
             "le lui",
@@ -4877,7 +4877,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q10",
           "type": "choice",
-          "prompt": "Complétez : « Il faut ___ parler. » (de ce problème à eux)",
+          "prompt": "Complétez : « Il faut ___ parler. »（这个问题，对他们）",
           "explain": "leur 替代 à eux，en 替代 de ce problème；顺序 leur → en，放在不定式 parler 前。",
           "options": [
             "en leur",
@@ -4941,7 +4941,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q14",
           "type": "choice",
-          "prompt": "Complétez : « Il ___ donne. » (des bonbons aux enfants)",
+          "prompt": "Complétez : « Il ___ donne. »（糖果，给孩子们）",
           "explain": "à + 人复数用 leur；des bonbons 用 en 替代。顺序 leur → en，都在变位动词 donne 前。",
           "options": [
             "en leur",
@@ -4955,7 +4955,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q15",
           "type": "choice",
-          "prompt": "Complétez : « Ne ___ dites pas ! » (le à elle)",
+          "prompt": "Complétez : « Ne ___ dites pas ! »（它，对她）",
           "explain": "否定命令式用陈述句顺序：le → lui，全部放在动词 dites 前；ne 在最前，pas 在动词后。",
           "options": [
             "lui le",
@@ -4983,7 +4983,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q17",
           "type": "letters",
-          "prompt": "Complétez : « Il ___ parle. » (de son travail à moi)",
+          "prompt": "Complétez : « Il ___ parle. »（他的工作，对我）",
           "answer": "m'en",
           "explain": "me 与 en 组合时省音为 m'，顺序 me → en，放在变位动词 parle 前。",
           "decoys": [
@@ -4996,7 +4996,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q18",
           "type": "letters",
-          "prompt": "Complétez : « Je ___ prie. » (de cela à toi)",
+          "prompt": "Complétez : « Je ___ prie. »（这件事，对你）",
           "answer": "t'en",
           "explain": "te 与 en 组合时省音为 t'，顺序 te → en，放在变位动词 prie 前。",
           "decoys": [
@@ -5009,7 +5009,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q19",
           "type": "letters",
-          "prompt": "Complétez : « Il ___ emmène. » (à cet endroit, 指 moi)",
+          "prompt": "Complétez : « Il ___ emmène. »（那个地方，指我）",
           "answer": "m'y",
           "explain": "me 与 y 组合时省音为 m'，顺序 me → y，放在变位动词 emmène 前。",
           "decoys": [
@@ -5022,7 +5022,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q20",
           "type": "letters",
-          "prompt": "Complétez : « Il ___ en a offert. » (à elles)",
+          "prompt": "Complétez : « Il ___ en a offert. »（对她们）",
           "answer": "leur",
           "explain": "à elles 是复数间接宾语，用 leur；leur 在 en 前，整体放在助动词 a 前。",
           "decoys": [
@@ -5043,7 +5043,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q21",
           "type": "letters",
-          "prompt": "Complétez : « Elle ___ en a parlé. » (à mon frère et à moi)",
+          "prompt": "Complétez : « Elle ___ en a parlé. »（对我哥哥和我）",
           "answer": "nous",
           "explain": "à mon frère et à moi 对应第一人称复数 nous；nous 是第一槽位，在 en 前。",
           "decoys": [
@@ -5069,7 +5069,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q23",
           "type": "letters",
-          "prompt": "Complétez : « Il ___ l'a montré. » (à moi)",
+          "prompt": "Complétez : « Il ___ l'a montré. »（对我）",
           "answer": "me",
           "explain": "à moi 对应第一人称单数 me；me 在 l' 前，顺序 me → le，放在助动词 a 前。",
           "decoys": [
@@ -5082,7 +5082,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q24",
           "type": "letters",
-          "prompt": "Complétez : « Je ___ emmène. » (à cet endroit, 指 toi)",
+          "prompt": "Complétez : « Je ___ emmène. »（那个地方，指你）",
           "answer": "t'y",
           "explain": "te 与 y 组合时省音为 t'，顺序 te → y，放在变位动词 emmène 前。",
           "decoys": [
@@ -6243,7 +6243,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q71",
           "type": "choice",
-          "prompt": "Complétez : « Cette adresse ? Je ___ ai envoyés hier. » (les documents)",
+          "prompt": "Complétez : « Cette adresse ? Je ___ ai envoyés hier. »（这些文件）",
           "options": [
             "y les",
             "leur y",
@@ -6257,7 +6257,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q72",
           "type": "tiles",
-          "prompt": "Transformez avec en : « Elle espère trouver des places. » → ___",
+          "prompt": "Transformez avec un pronom : « Elle espère trouver des places. » → ___",
           "answer": [
             "Elle",
             "espère",
@@ -6280,7 +6280,7 @@
         {
           "id": "pub-c10-object-pronouns-l5-q73",
           "type": "tiles",
-          "prompt": "Transformez avec en : « Nous allons commander une pizza. » → ___",
+          "prompt": "Transformez avec un pronom : « Nous allons commander une pizza. » → ___",
           "answer": [
             "Nous",
             "allons",
@@ -6540,7 +6540,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q11",
           "type": "choice",
-          "prompt": "Complétez : « ___ ! » (aider + nous)",
+          "prompt": "Complétez : « ___ ! »（aider + 我们）",
           "explain": "nous 是直接宾语，放在命令式 aide 后并用连字符连接；接 nous 时不加 -s。",
           "options": [
             "Aide nous",
@@ -6709,7 +6709,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q21",
           "type": "choice",
-          "prompt": "Complétez : « ___ , s'il te plaît. » (expliquer à nous)",
+          "prompt": "Complétez : « ___ , s'il te plaît. »（expliquer + 对我们）",
           "explain": "à nous 用 nous；肯定命令式中 nous 放在 explique 后并用连字符。接 nous 时不加 -s，所以不写 Expliques-nous。",
           "options": [
             "Explique nous",
@@ -6916,7 +6916,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q34",
           "type": "choice",
-          "prompt": "Complétez : « ___ ! » (ne pas aller + y)",
+          "prompt": "Complétez : « ___ ! »（不去那里）",
           "explain": "否定命令式中 y 放在动词前；aller 的 tu 命令式用 va，否定句中不加增音 -s，所以写 n'y va pas。",
           "options": [
             "Ne vas-y pas",
@@ -7092,7 +7092,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q42",
           "type": "choice",
-          "prompt": "Complétez : « ___ . » (ne pas dire + le + à elle)",
+          "prompt": "Complétez : « ___ . »（ne pas dire + 它 + 对她）",
           "explain": "否定命令式用陈述句顺序 le → lui，两个代词都在动词前；结构为 ne + le + lui + dis + pas。",
           "options": [
             "Ne le lui dis pas",
@@ -7106,7 +7106,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q43",
           "type": "choice",
-          "prompt": "Complétez : « ___ . » (ne pas montrer + les photos + à nous)",
+          "prompt": "Complétez : « ___ . »（ne pas montrer + 这些照片 + 给我们）",
           "explain": "否定命令式顺序为 nous → les；动词 montre 是 tu 命令式，否定句中不加 -s，不能写 montres。",
           "options": [
             "Ne les nous montre pas",
@@ -7234,7 +7234,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q49",
           "type": "choice",
-          "prompt": "Complétez : « ___ . » (montrer + les photos + à nous)",
+          "prompt": "Complétez : « ___ . »（montrer + 这些照片 + 给我们）",
           "explain": "les → nous 是正确顺序：直接宾语 les 在前，间接宾语 nous 在后。",
           "options": [
             "Montre-nous-les",
@@ -7424,7 +7424,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q59",
           "type": "choice",
-          "prompt": "Complétez : « ___ . » (emmener + nous + à la piscine)",
+          "prompt": "Complétez : « ___ . »（emmener + 我们 + 去游泳池）",
           "explain": "nous 是直接宾语，y 替代 à la piscine；肯定命令式中顺序 nous → y，放在动词后。",
           "options": [
             "Emmène-y-nous",
@@ -7549,7 +7549,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q65",
           "type": "choice",
-          "prompt": "Complétez : « ___ . » (donner + des bonbons + à moi)",
+          "prompt": "Complétez : « ___ . »（donner + 糖果 + 给我）",
           "explain": "me 在肯定命令式中变 moi，但 moi 直接接 en 时省音为 m'，写 Donne-m'en。",
           "options": [
             "Donne-moi-en",
@@ -7563,7 +7563,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q66",
           "type": "choice",
-          "prompt": "Complétez : « ___ . » (parler + de cela + à lui)",
+          "prompt": "Complétez : « ___ . »（parler + 这件事 + 对他）",
           "explain": "lui 是间接宾语，en 替代 de cela；顺序 lui → en，en 在最后。",
           "options": [
             "Parle-en-lui",
@@ -7690,7 +7690,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q73",
           "type": "choice",
-          "prompt": "Complétez : « ___ ! » (aller + y)",
+          "prompt": "Complétez : « ___ ! »（去那里）",
           "explain": "aller 的 tu 命令式 va 以元音结尾，接 y 时加增音 -s：Vas-y。不能写 Va-y。",
           "options": [
             "Va-y",
@@ -7852,7 +7852,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q84",
           "type": "choice",
-          "prompt": "Complétez : « ___ chercher. » (aller + en, en 属于不定式 chercher)",
+          "prompt": "Complétez : « ___ chercher. »（aller + 一些东西，代词属于不定式 chercher）",
           "explain": "en 属于后面的不定式 chercher，不直接依附命令式 va，所以不加增音 -s，也不用连字符：Va en chercher。",
           "options": [
             "Va en",
@@ -8127,7 +8127,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q99",
           "type": "choice",
-          "prompt": "Complétez : « ___ . » (expliquer + la règle + à nous)",
+          "prompt": "Complétez : « ___ . »（expliquer + 这条规则 + 给我们）",
           "explain": "la 指 la règle，nous 是间接宾语；肯定命令式顺序 la → nous，应写 Explique-la-nous。",
           "options": [
             "Explique-nous-la",
@@ -8177,7 +8177,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q102",
           "type": "choice",
-          "prompt": "Complétez : « Penses-y, mais ne ___ associe pas. » (nous + à ce projet)",
+          "prompt": "Complétez : « Penses-y, mais ne ___ associe pas. »（我们 + 对这个计划）",
           "options": [
             "y nous",
             "nous y",
@@ -8275,7 +8275,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q109",
           "type": "choice",
-          "prompt": "Complétez : « Penses-y et ___ . » (associer + nous + à ce projet)",
+          "prompt": "Complétez : « Penses-y et ___ . »（associer + 我们 + 对这个计划）",
           "options": [
             "associes-nous-y",
             "associe-nous-y",
@@ -8311,7 +8311,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q111",
           "type": "choice",
-          "prompt": "Complétez : « ___ , mais ne ___ pas. » (penser à ce problème ; mêler les enfants à cette affaire)",
+          "prompt": "Complétez : « ___ , mais ne ___ pas. »（想这个问题；把孩子们牵扯进这件事）",
           "options": [
             "Penses-y / les y mêle",
             "Pense-y / les y mêles",
@@ -8418,7 +8418,7 @@
         {
           "id": "pub-c10-object-pronouns-l6-q118",
           "type": "choice",
-          "prompt": "Complétez : « ___ , et ___ . » (penser à cette réunion ; emmener les enfants à cette réunion)",
+          "prompt": "Complétez : « ___ , et ___ . »（想这个会议；带孩子们去这个会议）",
           "options": [
             "Penses-y / emmène-y-les",
             "Penses-y / emmènes-les-y",
@@ -9410,7 +9410,7 @@
         {
           "id": "pub-c10-object-pronouns-l7-q55",
           "type": "tiles",
-          "prompt": "Remplacez le complément par y : « Nous avons répondu à la question. » → ___",
+          "prompt": "Remplacez le complément par un pronom : « Nous avons répondu à la question. » → ___",
           "answer": [
             "Nous",
             "y",
@@ -9470,7 +9470,7 @@
         {
           "id": "pub-c10-object-pronouns-l7-q57",
           "type": "tiles",
-          "prompt": "Remplacez le COD par en : « J'ai mangé des gâteaux. » → ___",
+          "prompt": "Remplacez le COD par un pronom : « J'ai mangé des gâteaux. » → ___",
           "answer": [
             "J'en",
             "ai",
@@ -9641,7 +9641,7 @@
         {
           "id": "pub-c10-object-pronouns-l7-q68",
           "type": "tiles",
-          "prompt": "Transformez avec en : « Il a lu plusieurs livres. » → ___",
+          "prompt": "Transformez avec un pronom : « Il a lu plusieurs livres. » → ___",
           "answer": [
             "Il",
             "en",
@@ -9693,7 +9693,7 @@
         {
           "id": "pub-c10-object-pronouns-l7-q71",
           "type": "tiles",
-          "prompt": "Transformez avec en : « Nous avons pris quelques photos. » → ___",
+          "prompt": "Transformez avec un pronom : « Nous avons pris quelques photos. » → ___",
           "answer": [
             "Nous",
             "en",
@@ -9718,7 +9718,7 @@
         {
           "id": "pub-c10-object-pronouns-l7-q72",
           "type": "tiles",
-          "prompt": "Transformez avec en : « Ils ont mangé du poisson. » → ___",
+          "prompt": "Transformez avec un pronom : « Ils ont mangé du poisson. » → ___",
           "answer": [
             "Ils",
             "en",
@@ -9758,7 +9758,7 @@
         {
           "id": "pub-c10-object-pronouns-l7-q74",
           "type": "tiles",
-          "prompt": "Transformez avec en : « Elle a invité plusieurs amies. » → ___",
+          "prompt": "Transformez avec un pronom : « Elle a invité plusieurs amies. » → ___",
           "answer": [
             "Elle",
             "en",
@@ -9847,7 +9847,7 @@
         {
           "id": "pub-c10-object-pronouns-l8-q5",
           "type": "letters",
-          "prompt": "Complétez : « Ce roman, je ___ lu en deux jours. » (le)",
+          "prompt": "Complétez : « Ce roman, je ___ lu en deux jours. »（它）",
           "answer": "l'ai",
           "decoys": [
             "a",
@@ -9873,7 +9873,7 @@
         {
           "id": "pub-c10-object-pronouns-l8-q7",
           "type": "letters",
-          "prompt": "Une femme raconte : « Il ne ___ pas reconnue. » (me)",
+          "prompt": "Une femme raconte : « Il ne ___ pas reconnue. »（我）",
           "answer": "m'a",
           "decoys": [
             "e",
@@ -10034,7 +10034,7 @@
         {
           "id": "pub-c10-object-pronouns-l8-q15",
           "type": "tiles",
-          "prompt": "Mettez au plus-que-parfait avec en : « Elles sont revenues de Paris. » → ___",
+          "prompt": "Mettez au plus-que-parfait avec un pronom : « Elles sont revenues de Paris. » → ___",
           "answer": [
             "Elles",
             "en",
@@ -10057,7 +10057,7 @@
         {
           "id": "pub-c10-object-pronouns-l8-q16",
           "type": "tiles",
-          "prompt": "Transformez avec en : « Elles sont revenues de Paris. » → ___",
+          "prompt": "Transformez avec un pronom : « Elles sont revenues de Paris. » → ___",
           "answer": [
             "Elles",
             "en",
@@ -10179,7 +10179,7 @@
         {
           "id": "pub-c10-object-pronouns-l8-q22",
           "type": "tiles",
-          "prompt": "Mettez au plus-que-parfait avec en : « Elle est revenue de vacances. » → ___",
+          "prompt": "Mettez au plus-que-parfait avec un pronom : « Elle est revenue de vacances. » → ___",
           "answer": [
             "Elle",
             "en",
@@ -10350,7 +10350,7 @@
         {
           "id": "pub-c10-object-pronouns-x1-q6",
           "type": "letters",
-          "prompt": "Complétez : « Mes parents ? Je ___ ai téléphoné hier soir. » (à eux)",
+          "prompt": "Complétez : « Mes parents ? Je ___ ai téléphoné hier soir. »（对他们）",
           "answer": "leur",
           "decoys": [
             "s",
@@ -10417,7 +10417,7 @@
         {
           "id": "pub-c10-object-pronouns-x1-q9",
           "type": "tiles",
-          "prompt": "Mettez à la forme négative en remplaçant le complément par y : « Nous pensons à ce voyage. » → ___",
+          "prompt": "Mettez à la forme négative en remplaçant le complément par un pronom : « Nous pensons à ce voyage. » → ___",
           "answer": [
             "Nous",
             "n'y",
@@ -10440,7 +10440,7 @@
         {
           "id": "pub-c10-object-pronouns-x1-q10",
           "type": "tiles",
-          "prompt": "Réécrivez avec en : « Elle a acheté beaucoup de fleurs. » → ___",
+          "prompt": "Réécrivez avec un pronom : « Elle a acheté beaucoup de fleurs. » → ___",
           "answer": [
             "Elle",
             "en",
@@ -10582,7 +10582,7 @@
         {
           "id": "pub-c10-object-pronouns-x2-q5",
           "type": "letters",
-          "prompt": "Complétez : « Tu me prêtes ton livre ? — Oui, prête-___ . » (à moi)",
+          "prompt": "Complétez : « Tu me prêtes ton livre ? — Oui, prête-___ . »（对我）",
           "answer": "le-moi",
           "decoys": [
             "s",

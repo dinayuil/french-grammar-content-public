@@ -319,15 +319,15 @@
         {
           "id": "pub-c10-object-pronouns-l2-q39",
           "type": "letters",
-          "prompt": "Complétez : « Tu bois combien de café ? — J'en bois ___ . »（很多）",
-          "answer": "beaucoup",
+          "prompt": "Complétez : « Tu bois combien de café ? — J'___ bois beaucoup. »",
+          "answer": "en",
           "decoys": [
             "s",
             "t",
             "x"
           ],
           "translation": "你喝多少咖啡？——我喝很多。",
-          "explain": "beaucoup de + 名词用 en 替代名词后，保留副词 beaucoup；不再保留 de。"
+          "explain": "combien de + 名词问数量；答句用 en 替代 de + café，数量副词 beaucoup 保留在动词后。je 在元音 en 前省音为 j'，写作 J'en bois beaucoup。"
         },
         {
           "id": "pub-c10-object-pronouns-l1-q3",

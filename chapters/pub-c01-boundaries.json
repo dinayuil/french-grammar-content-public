@@ -1,47 +1,67 @@
 {
   "id": "pub-c01-boundaries",
-  "title": "冠词形式与词间拼写",
-  "titleFr": "Articles et frontières des mots",
+  "title": "冠词与基本拼写规则",
+  "titleFr": "Articles et règles de base de l'écriture",
   "cards": [
     {
+      "id": "pub-c01-boundaries-card-gender-number",
+      "title": "名词的性与数：先记住词条",
+      "body": "<p>法语名词有语法性：阳性或阴性。物品名词的语法性不取决于物品的现实属性，通常要把词条和冠词一起记：livre（书，阳性）、table（桌子，阴性）、arbre（树，阳性）、école（学校，阴性）。人和动物名词的阴性构成在下一章展开。</p><p>名词还有语法数。可数名词单数通常表示一个，复数表示多个：livre / livres（书，单数 / 复数）、table / tables（桌子，单数 / 复数）。不可数名词也有语法性数，例如 pain（面包，阳性单数）、soupe（汤，阴性单数）。</p><p>冠词放在名词前，表示所指和性数；下一张正式介绍不定冠词。</p>"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u6-1",
+      "title": "不定冠词 un/une/des",
+      "body": "<p>不定冠词按名词的性与数选择：阳性单数 un livre（一本书），阴性单数 une fleur（一朵花），复数 des livres（一些书）/ des fleurs（一些花）。</p><p>它用于首次提及或泛指“一个/一些”对象，不指特定的那个或那些：J'achète une robe.（我买一条连衣裙。）Il y a des enfants dans le jardin.（花园里有一些孩子。）</p>"
+    },
+    {
       "id": "pub-c01-boundaries-card-1",
-      "title": "定冠词 le/la/les：先看性数",
-      "body": "<p>定冠词跟随名词的性与数：阳性单数 le，阴性单数 la，复数 les。确指、上文已提到或双方明确的对象用定冠词。例：le livre（这本书）、la table（这张桌子）、les enfants（孩子们）。题干会给最小性数提示；不要靠词尾猜性别。</p><p>注意：元音或哑音 h 前的 le/la 要省音，见下一张。</p>"
+      "title": "定冠词 le/la/les：按性数选形式",
+      "body": "<p>定冠词跟随名词的性与数：阳性单数 le，阴性单数 la，复数 les。例：le livre（这本书）、la table（这张桌子）、les enfants（孩子们）。</p><p>定冠词用于上下文中能够识别的对象：上文已经提到、双方能明确所指，或情境足以确定是哪一个或哪些。说话人心里想着某个对象但听者无法识别时，仍可能用不定冠词；定冠词的条件是所指在语境中可识别。不定冠词与定冠词的语义对照见后文。</p><p>注意：元音或哑音 h 开头的名词前，le/la 要省音为 l'，见后文「冠词省音」。</p>"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u6-2",
+      "title": "定冠词：统指、独一无二与回指",
+      "body": "<p>定冠词 le/la/les 不只用于回指上文。它可以统指一类事物：J'aime la musique classique.（我喜欢古典音乐。）Les livres sont utiles.（书是有用的。）也可以指独一无二的对象：La lune est pleine ce soir.（今晚是满月。）</p><p>首次提到通常用不定冠词：J'ai vu un chat dans le jardin.（我在花园里看见一只猫。）再次回指同一只猫时才用定冠词：Le chat était noir.（那只猫是黑色的。）不要把“首次出现”当成定冠词的唯一条件；统指和独一无二都不要求上文已经提到。</p>"
+    },
+    {
+      "id": "pub-c02-noun-phrases-card-u6-3",
+      "title": "部分冠词 du/de la/de l'",
+      "body": "<p>不可数名词或只取用不确定数量的一部分时，用部分冠词：阳性单数 du，阴性单数 de la，元音或哑音 h 开头 de l'。例：Je bois du café.（我喝一些咖啡。）Il reste de la soupe.（还剩一些汤。）Je bois de l'eau.（我喝一些水。）</p><p>复数可数名词用不定冠词 des：J'achète des pommes.（我买一些苹果。）这里 des pommes 中的 des 是不定冠词，不能把 des 一律叫部分冠词；某些整体与部分的对比语境另有部分性用法。des 还可以是 de + les 的缩合，见后文「du/des 辨义」。本章的基础形式是 du/de la/de l' 三种。</p><p>泛指喜欢某类事物用定冠词：J'aime le café.（我喜欢咖啡。）表示取用一部分用部分冠词：Je bois du café.（我喝一些咖啡。）判断依据是语义，不是名词本身。</p>"
     },
     {
       "id": "pub-c01-boundaries-card-2",
-      "title": "省音 l'：元音与哑音 h",
-      "body": "<p>le/la 遇元音或哑音 h 开头的名词，省音为 l'，并与名词连写：l'école（f.）、l'arbre（m.）、l'hôtel（m.，哑音 h）。嘘音 h 前不省音：le héros（m.）。例：l'ami / le héros。</p><p>注意：不能只看字母 h；h 的词汇性质决定是否省音。les 不省音。省音不改变名词的性数，但会改变拼写和读音。</p>"
+      "title": "冠词省音 l'：元音与哑音 h",
+      "body": "<p>le/la 遇元音或哑音 h 开头的名词，省音为 l'，并与名词连写：l'école（学校，阴性）、l'arbre（树，阳性）、l'hôtel（旅馆，阳性，哑音 h）。</p><p>嘘音 h 前不省音：le héros（主人公，阳性）。例：l'ami（朋友，阳性）/ le héros（主人公，阳性）。</p><p>les 不省音：les écoles（学校，复数）、les héros（主人公，复数）。省音只改变书写和读音，不改变名词的性数；不能只看字母 h，要看 h 是哑音还是嘘音。</p>"
     },
     {
       "id": "pub-c01-boundaries-card-3",
       "title": "à + le/les → au/aux",
-      "body": "<p>介词 à 与定冠词缩合：à + le → au，à + les → aux。例：au marché（去市场）、aux enfants（给孩子们）。à + la 和 à + l' 不缩合，保持分写：à la gare、à l'école。à 本身在元音前也不省音。</p><p>注意：不要把 à l' 写成 al'；也不要把 à la 写成 au。</p>"
+      "body": "<p>介词 à 与定冠词缩合：à + le → au，à + les → aux。例：Je vais au marché.（我去市场。）Je parle aux enfants.（我和孩子们说话。）</p><p>à + la 和 à + l' 不缩合，保持分写：à la gare（去火车站）、à l'école（去学校）。à 本身在元音前也不省音。</p><p>注意：不要把 à l' 写成 al'；也不要把 à la 写成 au。</p>"
     },
     {
       "id": "pub-c01-boundaries-card-4",
       "title": "de + le/les → du/des",
-      "body": "<p>介词 de 与定冠词缩合：de + le → du，de + les → des。例：du jardin（花园的）、des voisins（邻居们的）。de + la 和 de + l' 不缩合：de la maison、de l'hôtel。</p><p>注意：de l' 是“介词 de + 省音冠词”，不是缩合；de + la 不能写成 du。</p>"
+      "body": "<p>介词 de 与定冠词缩合：de + le → du，de + les → des。例：la porte du garage（车库的门）、les maisons des voisins（邻居们的房子）。</p><p>de + la 和 de + l' 不缩合：la couleur de la mer（大海的颜色）、le nom de l'école（学校的名字）。</p><p>注意：de l' 是“介词 de + 省音冠词”，不是缩合；de + la 不能写成 du。</p>"
+    },
+    {
+      "id": "pub-c01-boundaries-card-du-des",
+      "title": "du/des 辨义：缩合、不定复数与部分冠词",
+      "body": "<p>同样的 du/des 在不同语境中功能不同，功能由它后面名词的所指和句子关系决定。</p><p>缩合：du = de + le。Je reviens du marché.（我从市场回来。）这里的 du 是 de + le marché，表示来源，不是部分冠词。des = de + les。Les toits des maisons sont rouges.（这些房子的屋顶是红色的。）这里的 des 是 de + les maisons，表示所属，不是不定冠词。</p><p>不定复数：J'achète des pommes.（我买一些苹果。）这里的 des 是复数不定冠词，指不特定的一些苹果。</p><p>部分冠词：Je mange du pain.（我吃一些面包。）这里的 du 是部分冠词，表示不确定数量的一部分。Il reste de la soupe.（还剩一些汤。）de la 是阴性部分冠词；对比 la couleur de la mer（大海的颜色），那里的 de la 是介词 de + 定冠词 la。</p><p>这些例子说明：同一个 du 或 des 可以承担不同功能，判断依据是它在句中的来源、所属或数量关系，而不是词形本身；形式相同不等于功能相同。</p>"
     },
     {
       "id": "pub-c01-boundaries-card-5",
       "title": "省音与缩合：两种机制",
-      "body": "<p>省音是词与词相接时去掉元音字母并写撇号：le/la → l'，de → d'（在元音或哑音 h 前）。缩合是介词与定冠词合并成新词：à + le → au，à + les → aux，de + le → du，de + les → des。对照：à l'école / au marché；de l'hôtel / du jardin。</p><p>注意：à 不省音；à la、de la 不缩合；de + un/une 写作 d'un/d'une，这是 de 的省音，不是定冠词缩合。</p>"
+      "body": "<p>省音和缩合都会改变词界，但机制不同。</p><p>省音是定冠词 le/la 遇元音或哑音 h 时去掉元音字母，写成 l'，并与名词连写：le + arbre → l'arbre（树）、la + école → l'école（学校）。</p><p>缩合是介词 à/de 与定冠词 le/les 合并成一个词：à + le → au（au marché，去市场）、à + les → aux（aux enfants，对孩子们）、de + le → du（du jardin，花园的）、de + les → des（des voisins，邻居们的）。</p><p>对照：à l'école（去学校）与 au marché（去市场）；de l'hôtel（旅馆的）与 du jardin（花园的）。à 本身不省音；à la、de la 不缩合，保持分写：à la gare（去火车站）、de la maison（房子的）。</p><p>介词 de 在元音前也会省音：de + un ami → d'un ami（一个朋友的；也可理解为“来自一位朋友”，按语境取自然释义）、de + une amie → d'une amie。这里是 de 的省音，不是定冠词缩合。</p>"
     },
     {
       "id": "pub-c01-boundaries-card-6",
       "title": "主语 je 的省音",
-      "body": "<p>je 后面的动词以元音或哑音 h 开头时，je 省音为 j'，与动词连写：j'écoute、j'habite、j'aime。动词以辅音开头则保留 je：je parle、je lis。例：J'écoute la radio. / Je regarde le film.</p><p>注意：嘘音 h 前仍保留 je。</p>"
+      "body": "<p>je 后面的动词以元音或哑音 h 开头时，je 省音为 j'，与动词连写：j'écoute（我听）、j'habite（我住）、j'aime（我喜欢）。动词以辅音开头则保留 je：je parle（我说）、je lis（我读）。</p><p>例：J'écoute la radio.（我听收音机。）Je regarde le film.（我看电影。）</p><p>注意：嘘音 h 前仍保留 je：je hurle（我大喊）。</p>"
     },
     {
       "id": "pub-c01-boundaries-card-7",
       "title": "de 在不定式前的省音",
-      "body": "<p>介词 de 后接以元音或哑音 h 开头的不定式时，de 省音为 d'：d'attendre、d'écouter、d'habiter。不定式以辅音开头则保留 de：de parler、de finir。嘘音 h 前也保留 de：de hurler。例：Il est difficile d'attendre. / Il est facile de lire.</p>"
-    },
-    {
-      "id": "pub-c01-boundaries-card-8",
-      "title": "局部综合：看词界，辨机制",
-      "body": "<p>检查顺序：1）定冠词是否按性数选对（le/la/les）；2）元音或哑音 h 前是否省音（l'）；3）à/de 遇 le/les 是否缩合（au/aux、du/des）；4）à/de 遇 la/l' 是否保持分写；5）je、de 在元音前是否写 j'、d'。例：À l'école, je parle au directeur. / Je reviens du marché.</p><p>注意：缩合与省音是两种机制；不要用“看到元音就省音”一条规则套所有词。</p>"
+      "body": "<p>介词 de 后接以元音或哑音 h 开头的不定式时，de 省音为 d'：d'attendre（等待）、d'écouter（听）、d'habiter（住）。不定式以辅音开头则保留 de：de parler（说）、de finir（完成）。嘘音 h 前也保留 de：de hurler（大喊）。</p><p>例：Il est difficile d'attendre.（等待很难。）Il est facile de lire ce livre.（读这本书很容易。）</p>"
     }
   ],
   "lessons": [
@@ -489,6 +509,190 @@
           "answer": "d'une",
           "explain": "de 在元音前省音为 d'，与 une 连写为 d'une。这里只作 de + un/une 的桥接。",
           "translation": "改正：她谈起一座城市。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l6-1",
+      "title": "冠词：不定、定指与部分（1）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c02-noun-phrases-l6-q1",
+          "type": "choice",
+          "prompt": "选择正确的不定冠词组合：『她买一条连衣裙和一些书。』",
+          "options": [
+            "un robe ; des livres",
+            "une robe ; les livres",
+            "une robe ; des livres",
+            "des robe ; des livres"
+          ],
+          "answer": 2,
+          "translation": "她买一条连衣裙和一些书。",
+          "explain": "robe 是阴性单数，用 une；livres 是复数，首次提及“一些书”用 des。因此是 une robe ; des livres。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q2",
+          "type": "choice",
+          "prompt": "选择正确形式：『今晚是满月。』___ lune est pleine ce soir.",
+          "options": [
+            "la",
+            "le",
+            "une",
+            "des"
+          ],
+          "answer": 0,
+          "translation": "今晚是满月。",
+          "explain": "La lune est pleine ce soir. 表示“今晚是满月”；月亮是独一无二的对象，用定冠词 la；lune 是阴性单数。不能用 le（阳性）或 une（一个）。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q3",
+          "type": "choice",
+          "prompt": "选择正确形式：『书（这一类）是有用的；她买了一本书。』（第一处统指书籍类别，第二处首次提及一本）",
+          "options": [
+            "Des livres ; un livre",
+            "Les livres ; le livre",
+            "Des livres ; le livre",
+            "Les livres ; un livre"
+          ],
+          "answer": 3,
+          "translation": "书（这一类）是有用的；她买了一本书。",
+          "explain": "第一处统指“书”这一类，用复数定冠词 Les livres；第二处首次提及一本具体的书，用不定冠词 un livre。因此是 Les livres ; un livre。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q4",
+          "type": "choice",
+          "prompt": "选择正确形式：『我看见一只狗。那只狗很大。』（第一次提到，随后回指）",
+          "options": [
+            "le chien ; Un chien",
+            "un chien ; Le chien",
+            "un chien ; Un chien",
+            "le chien ; Le chien"
+          ],
+          "answer": 1,
+          "translation": "我看见一只狗。那只狗很大。",
+          "explain": "第一次提到用不定冠词 un chien；后句回指同一只狗，用定冠词 Le chien。因此是 un chien ; Le chien。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q5",
+          "type": "choice",
+          "prompt": "选择正确形式：『我喜欢咖啡（泛指这一类）；早上我会喝一点咖啡。』",
+          "options": [
+            "du café ; le café",
+            "un café ; le café",
+            "le café ; du café",
+            "le café ; un café"
+          ],
+          "answer": 2,
+          "translation": "我喜欢咖啡；早上我会喝一点咖啡。",
+          "explain": "表示喜好、泛指咖啡这一类用定冠词 le café；表示喝一部分、不确定数量用部分冠词 du café。因此是 le café ; du café。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q6",
+          "type": "choice",
+          "prompt": "选择正确形式：『盘子里还剩一些汤。』Il reste ___ soupe dans l'assiette.",
+          "options": [
+            "du",
+            "de la",
+            "des",
+            "la"
+          ],
+          "answer": 1,
+          "translation": "盘子里还剩一些汤。",
+          "explain": "soupe 是阴性不可数名词，表示“一些汤”用部分冠词 de la；du 用于阳性，des 用于复数，la 是定冠词，都不符合这里的“一些”。"
+        }
+      ]
+    },
+    {
+      "id": "pub-c02-noun-phrases-l6-2",
+      "title": "冠词：不定、定指与部分（2）",
+      "kind": "lesson",
+      "source": "原创编写，待人工审校",
+      "questions": [
+        {
+          "id": "pub-c02-noun-phrases-l6-q7",
+          "type": "choice",
+          "prompt": "选择正确形式：『运动后我喝一些水。』Je bois ___ eau après le sport.",
+          "options": [
+            "du",
+            "de la",
+            "la",
+            "de l'"
+          ],
+          "answer": 3,
+          "translation": "运动后我喝一些水。",
+          "explain": "eau 以元音开头，阴性部分冠词 de la 要省音为 de l'，所以是 de l'eau；du 用于阳性名词，de la 不能直接接元音开头的 eau。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q8",
+          "type": "choice",
+          "prompt": "选择唯一正确的句子：『我喝一些水，然后去市场。』",
+          "options": [
+            "Je bois du eau et je vais au marché.",
+            "Je bois de l'eau et je vais à le marché.",
+            "Je bois de l'eau et je vais au marché.",
+            "Je bois de la eau et je vais du marché."
+          ],
+          "answer": 2,
+          "translation": "我喝一些水，然后去市场。",
+          "explain": "eau 以元音开头，部分冠词用 de l'；aller 的目的地“市场”要用 à + le 缩合成 au marché。因此只有 Je bois de l'eau et je vais au marché. 同时满足省音和缩合。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q9",
+          "type": "choice",
+          "prompt": "选择正确形式：『我去市场买一些面包。』",
+          "options": [
+            "au marché ; du pain",
+            "du marché ; au pain",
+            "à le marché ; du pain",
+            "au marché ; de le pain"
+          ],
+          "answer": 0,
+          "translation": "我去市场买一些面包。",
+          "explain": "去市场是 aller au marché，à + le 缩合为 au；买一些面包用部分冠词 du pain。因此是 au marché ; du pain。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q10",
+          "type": "choice",
+          "prompt": "选择正确形式：『院子里有一些孩子和一位女老师。』",
+          "options": [
+            "les enfants ; une maîtresse",
+            "des enfants ; une maîtresse",
+            "des enfants ; un maîtresse",
+            "un enfants ; des maîtresse"
+          ],
+          "answer": 1,
+          "translation": "院子里有一些孩子和一位女老师。",
+          "explain": "enfants 是复数，泛指“一些孩子”用 des；maîtresse 是阴性单数，用 une。因此是 des enfants ; une maîtresse。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q11",
+          "type": "choice",
+          "prompt": "选择正确形式：『她找一套公寓。这套公寓靠近车站。』（首次提及，随后回指）",
+          "options": [
+            "un appartement ; L'appartement",
+            "le appartement ; Un appartement",
+            "un appartement ; Un appartement",
+            "l'appartement ; Le appartement"
+          ],
+          "answer": 0,
+          "translation": "她找一套公寓。这套公寓靠近车站。",
+          "explain": "首次提及一套公寓用 un appartement；后句回指同一套公寓用定冠词，appartement 以元音开头，le 省音为 L'appartement。因此是 un appartement ; L'appartement。"
+        },
+        {
+          "id": "pub-c02-noun-phrases-l6-q12",
+          "type": "choice",
+          "prompt": "选择正确形式：『孩子们喜欢蛋糕（泛指）；晚饭后他们只吃一点蛋糕。』",
+          "options": [
+            "du gâteau ; le gâteau",
+            "un gâteau ; le gâteau",
+            "le gâteau ; des gâteaux",
+            "le gâteau ; du gâteau"
+          ],
+          "answer": 3,
+          "translation": "孩子们喜欢蛋糕；晚饭后他们只吃一点蛋糕。",
+          "explain": "表示喜欢蛋糕这一类用定冠词 le gâteau；表示吃一部分、不确定数量用部分冠词 du gâteau。因此是 le gâteau ; du gâteau。"
         }
       ]
     },

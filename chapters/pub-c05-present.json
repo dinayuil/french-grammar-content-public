@@ -1,8 +1,28 @@
 {
   "id": "pub-c05-present",
-  "title": "现在时的规则与主谓一致",
+  "title": "直陈式现在时：规则与主谓一致",
   "titleFr": "Le présent de l'indicatif : règles et accord sujet-verbe",
   "cards": [
+    {
+      "id": "pub-c05-present-card-overview-mode-tense",
+      "title": "语式与时态：两个不同维度",
+      "body": "<p>语式（mode）说明说话人如何呈现动作：作为陈述、愿望或必要、命令等，也涉及从句所处的句法环境。时态（temps）说明动作的时间定位和呈现方式，例如正在进行、已经完成、将来发生。</p><p>同一个动词可以只换时态、不换语式：Je parle français.（我说法语。）Je parlais français.（我以前说法语。）Je parlerai français.（我将会说法语。）三句都是直陈式，区别在时间定位。</p><p>时态标签不等同于现实中的钟表时间。现在时可以指将来或过去（如历史现在时），复合过去时也常表示与现在有关的结果。判断时要看形式和语境，不能只按时间词对号入座。</p><p>本章只系统学习直陈式现在时：形式、拼写调整和主谓一致。其他语式和时态先建立名称与功能的框架，后续章节再展开。</p>"
+    },
+    {
+      "id": "pub-c05-present-card-overview-modes",
+      "title": "主要语式与非限定形式",
+      "body": "<p>常见语法框架把人称语式分为三种：直陈式、虚拟式、命令式；不定式和分词属于非人称语式。不同教材对条件式和副动词的处理不同。</p><p>直陈式（indicatif）把动作作为陈述或提问呈现，是日常表达中最常用的语式。它表示说话人这样断言，不保证内容客观真实。例：Il viendra demain.（他明天会来。）</p><p>虚拟式（subjonctif）常用于特定从句环境，表达意愿、必要、情感、评价或怀疑等；它不表示“虚假”。例：Je veux qu'il vienne.（我希望他来。）</p><p>命令式（impératif）用于命令、请求或建议。例：Viens ici !（到这里来！）</p><p>条件式现在时和条件式过去时表示假设结果、礼貌、推测等。传统语法常把条件式单列为一种语式，现代语法多把它看作直陈式的时态；两种说法都常见。例：Si j'avais le temps, je viendrais.（如果我有时间，我会来。）</p><p>不定式和分词不按人称变位：parler（说）、parlant（说着）。副动词是 en + 现在分词的状语用法（en parlant，在说的时候），不必另立一个语式。</p><p>不必死记语式的固定数目；先分清人称语式与非人称形式，以及条件式在传统/现代体系中的位置即可。</p>"
+    },
+    {
+      "id": "pub-c05-present-card-overview-indicative",
+      "title": "直陈式的时态地图",
+      "body": "<p>直陈式时态分简单形式和复合形式。简单形式由动词本身变位构成；复合形式由助动词 avoir 或 être 的简单形式加过去分词构成。复合形式不只表示“完成”，还常带结果、先时等意义。</p><p>传统语法常把直陈式的 8 个基本时态按简单/复合配对列出；这里的“8 个”不含条件式现在时和条件式过去时。</p><ul><li>présent（现在时）：当前、习惯或普遍情况；passé composé（复合过去时）：主要叙述过去发生并整体看待的事件，也可表达与现在有关的结果。</li><li>imparfait（未完成过去时）：过去的背景、持续或习惯；plus-que-parfait（愈过去时）：过去之前已完成。</li><li>passé simple（简单过去时）：文学、历史叙述中的过去事件；passé antérieur（先过去时）：更书面、少用，表示过去之前已完成。</li><li>futur simple（简单将来时）：将来发生；futur antérieur（先将来时）：将来某时之前已完成。</li></ul><p>条件式现在时和条件式过去时另列：传统语法常把它们与直陈式并列，现代语法多归入直陈式（见上一张）；上面“8 个基本时态”的口径不含这两个形式。</p><p>aller + 不定式（最近将来时）和 venir de + 不定式（最近过去时）是常用结构，不机械算入传统直陈式八时态。本章只学 présent 的形式和用法。</p>"
+    },
+    {
+      "id": "pub-c05-present-card-overview-other-tenses",
+      "title": "其他语式与非限定形式的时态",
+      "body": "<p>语式不只有一种时态。下面只要求识别名称和基本时间关系，不要求现在就会变位。非限定形式的时间通常相对于主句动作，不是绝对的现在/过去。</p><ul><li>虚拟式：subjonctif présent（虚拟式现在时）常表示与主句同时或之后；subjonctif passé（虚拟式过去时）常表示先于主句。subjonctif imparfait 和 subjonctif plus-que-parfait 多见于文学、书面语。</li><li>命令式：impératif présent（命令式现在时）最常用；impératif passé（命令式过去时）很少用，要求在将来的某个期限前完成某事，如 Aie fini avant midi.（中午前完成。）</li><li>条件式：conditionnel présent（条件式现在时）可表示假设结果、礼貌、推测；conditionnel passé（条件式过去时）可表示过去未实现的结果或遗憾。它们不与“现在/过去”的时间一一对应。</li><li>不定式：infinitif présent（不定式现在时）的时间取决于语境，可与主句同时或后于主句；infinitif passé（不定式过去时，助动词不定式 + 过去分词，如 avoir parlé、être parti）表示先于主句动作。</li><li>分词：participe présent（现在分词）通常与主句动作同时；participe passé（过去分词）用于复合时态、被动结构，也可作形容词；分词的复合形式（ayant parlé、étant parti）表达先于另一动作。</li><li>副动词：gérondif présent（en + 现在分词）表示同时、方式或条件；gérondif passé（en ayant / en étant + 过去分词）表示先完成，较少用。</li></ul><p>不同教材对名称和用法的归类可能略有差异；先按常见名称识别，不背完整变位表。其他语式的正式变位和用法在后续章节学习。</p>"
+    },
     {
       "id": "pub-c05-present-card-u1-1",
       "title": "être 的现在时：六个形式整体记忆",

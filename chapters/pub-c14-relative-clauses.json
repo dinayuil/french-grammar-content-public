@@ -6,107 +6,233 @@
     {
       "id": "pub-c14-relative-clauses-card-u1-1",
       "title": "qui：关系从句的主语",
-      "body": "<p>qui 在关系从句中作主语，把先行词和谓语连接起来。先行词可以指人，也可以指物；qui 本身没有性数变化，但后面动词的人称和数要跟先行词一致。</p><ul><li>La fille qui parle est ma sœur.（正在说话的女孩是我姐姐。）</li><li>Le train qui arrive vient de Lyon.（进站的火车来自里昂。）</li><li>Les enfants qui jouent dans la cour sont mes voisins.（在院子里玩的孩子们是我的邻居。）</li></ul><p>判断要点：</p><ul><li>从句缺主语时用 qui：qui 后直接跟动词，不能再出现另一个主语。</li><li>动词配合看先行词：les enfants qui jouent（复数）；c'est moi qui ai（第一人称单数）。</li><li>qui 不能省音：元音前仍是 qui，不能说 *qu'arrive。</li></ul><p>注意：qui 也可以作疑问代词（Qui est là ?），那不是关系从句；关系从句里的 qui 不能换成 que，除非从句缺的是直接宾语而不是主语。</p>"
+      "body": "<p>qui 在关系从句中作主语，把先行词和谓语连接起来。先行词可以指人，也可以指物；qui 本身没有性数变化，但后面动词的人称和数要跟先行词一致。</p><ul><li>La fille qui parle est ma sœur.（正在说话的女孩是我姐姐。）</li><li>Le train qui arrive vient de Lyon.（进站的火车来自里昂。）</li><li>Les enfants qui jouent dans la cour sont mes voisins.（在院子里玩的孩子们是我的邻居。）</li></ul><p>判断要点：</p><ul><li>从句缺主语时用 qui：qui 后直接跟动词，不能再出现另一个主语。</li><li>动词配合看先行词：les enfants qui jouent（复数）；c'est moi qui ai（第一人称单数）。</li><li>qui 不能省音：元音前仍是 qui，不能说 *qu'arrive。</li></ul><p>注意：qui 也可以作疑问代词（Qui est là ?），那不是关系从句；关系从句里的 qui 不能换成 que，除非从句缺的是直接宾语而不是主语。</p>",
+      "locales": {
+        "fr": {
+          "title": "qui : sujet de la proposition relative",
+          "body": "<p>qui est sujet dans la proposition relative et relie l'antécédent au prédicat. L'antécédent peut désigner une personne ou une chose ; qui ne varie ni en genre ni en nombre, mais le verbe qui suit s'accorde en personne et en nombre avec l'antécédent.</p><ul><li>La fille qui parle est ma sœur.</li><li>Le train qui arrive vient de Lyon.</li><li>Les enfants qui jouent dans la cour sont mes voisins.</li></ul><p>Points de repère :</p><ul><li>On emploie qui quand la relative manque de sujet : qui est suivi directement du verbe, et aucun autre sujet ne peut apparaître.</li><li>L'accord du verbe se fait avec l'antécédent : les enfants qui jouent (pluriel) ; c'est moi qui ai (première personne du singulier).</li><li>qui ne s'élide pas : devant une voyelle, on garde qui, et *qu'arrive est fautif.</li></ul><p>Attention : qui peut aussi être pronom interrogatif (Qui est là ?), ce n'est pas une relative ; dans une relative, on ne remplace pas qui par que, sauf si la relative manque d'un complément d'objet direct et non du sujet.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u1-2",
       "title": "que：关系从句的直接宾语与省音",
-      "body": "<p>que 在关系从句中作直接宾语，先行词可以指人，也可以指物。它后面直接跟从句主语和谓语，从句里不能再保留这个直接宾语。que 在元音或哑音 h 前省音为 qu'。</p><ul><li>Le livre que je lis est passionnant.（我正在读的这本书很精彩。）</li><li>La personne que tu cherches est partie.（你找的那个人走了。）</li><li>Le film qu'il a choisi est un classique.（他选的那部电影是一部经典。）</li></ul><p>复合时态中的配合：</p><ul><li>当 que 所指的先行词是从句动词的直接宾语，并且位于 avoir 助动词之前时，过去分词要与先行词性数一致：Les photos que j'ai prises.（我拍的那些照片。）</li><li>没有前置直接宾语时不配合：J'ai pris des photos.</li></ul><p>注意：从句已有直接宾语就不能再用 que；que 与连词 que（Je pense que...）书写相同，但句法角色不同。que 在元音前必须写成 qu'，不能保留 e。</p>"
+      "body": "<p>que 在关系从句中作直接宾语，先行词可以指人，也可以指物。它后面直接跟从句主语和谓语，从句里不能再保留这个直接宾语。que 在元音或哑音 h 前省音为 qu'。</p><ul><li>Le livre que je lis est passionnant.（我正在读的这本书很精彩。）</li><li>La personne que tu cherches est partie.（你找的那个人走了。）</li><li>Le film qu'il a choisi est un classique.（他选的那部电影是一部经典。）</li></ul><p>复合时态中的配合：</p><ul><li>当 que 所指的先行词是从句动词的直接宾语，并且位于 avoir 助动词之前时，过去分词要与先行词性数一致：Les photos que j'ai prises.（我拍的那些照片。）</li><li>没有前置直接宾语时不配合：J'ai pris des photos.</li></ul><p>注意：从句已有直接宾语就不能再用 que；que 与连词 que（Je pense que...）书写相同，但句法角色不同。que 在元音前必须写成 qu'，不能保留 e。</p>",
+      "locales": {
+        "fr": {
+          "title": "que : complément d'objet direct de la relative et élision",
+          "body": "<p>que est complément d'objet direct dans la proposition relative ; l'antécédent peut désigner une personne ou une chose. Il est suivi directement du sujet et du verbe de la relative, et l'objet direct ne doit pas être répété dans celle-ci. « que » s'élide en qu' devant une voyelle ou un h muet.</p><ul><li>Le livre que je lis est passionnant.</li><li>La personne que tu cherches est partie.</li><li>Le film qu'il a choisi est un classique.</li></ul><p>Accord dans les temps composés :</p><ul><li>Quand l'antécédent de que est le complément d'objet direct du verbe de la relative et qu'il est placé avant l'auxiliaire avoir, le participe passé s'accorde en genre et en nombre avec lui : Les photos que j'ai prises.</li><li>Sans complément d'objet direct antéposé, pas d'accord : J'ai pris des photos.</li></ul><p>Attention : si la relative a déjà un complément d'objet direct, on ne peut plus employer que ; que relatif et la conjonction que (Je pense que...) s'écrivent pareil mais n'ont pas le même rôle syntaxique. Devant une voyelle, que s'écrit obligatoirement qu' ; le e ne subsiste pas.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u1-3",
       "title": "qui 与 que 的判断：看从句缺什么成分",
-      "body": "<p>判断用 qui 还是 que，最可靠的方法是看关系从句缺什么成分，而不是看先行词指人还是指物。</p><ul><li>缺主语 → qui：La machine qui produit ces pièces est neuve.（生产这些零件的机器是新的。）</li><li>缺直接宾语 → que：La machine que nous utilisons est neuve.（我们用的那台机器是新的。）</li></ul><p>把两个句子合并时，先找两句共同的那个名词，再看第二个句子少了什么：</p><ul><li>J'ai un ami. Cet ami travaille à Paris. → J'ai un ami qui travaille à Paris.</li><li>J'ai acheté un livre. Tout le monde lit ce livre. → J'ai acheté un livre que tout le monde lit.</li></ul><p>常见错误：</p><ul><li>从句已经有主语，仍用 qui：*Le livre qui je lis（错），应为 que je lis。</li><li>从句缺主语却用 que：*La fille que parle（错），应为 qui parle。</li><li>que 在元音前不省音：*que il aime（错），应为 qu'il aime。</li></ul><p>强调结构中的 qui/que：</p><ul><li>C'est Paul qui a téléphoné.（打电话的是保罗。）——强调主语，用 qui。</li><li>C'est cette lettre qu'il a écrite.（他写的是这封信。）——强调直接宾语，用 que，元音前省音为 qu'。</li><li>判断方法不变：看 qui/que 在从句中作主语还是直接宾语。</li></ul><p>注意：qui/que 的选择只看句法成分；先行词指人还是指物不影响选择。</p>"
+      "body": "<p>判断用 qui 还是 que，最可靠的方法是看关系从句缺什么成分，而不是看先行词指人还是指物。</p><ul><li>缺主语 → qui：La machine qui produit ces pièces est neuve.（生产这些零件的机器是新的。）</li><li>缺直接宾语 → que：La machine que nous utilisons est neuve.（我们用的那台机器是新的。）</li></ul><p>把两个句子合并时，先找两句共同的那个名词，再看第二个句子少了什么：</p><ul><li>J'ai un ami. Cet ami travaille à Paris. → J'ai un ami qui travaille à Paris.</li><li>J'ai acheté un livre. Tout le monde lit ce livre. → J'ai acheté un livre que tout le monde lit.</li></ul><p>常见错误：</p><ul><li>从句已经有主语，仍用 qui：*Le livre qui je lis（错），应为 que je lis。</li><li>从句缺主语却用 que：*La fille que parle（错），应为 qui parle。</li><li>que 在元音前不省音：*que il aime（错），应为 qu'il aime。</li></ul><p>强调结构中的 qui/que：</p><ul><li>C'est Paul qui a téléphoné.（打电话的是保罗。）——强调主语，用 qui。</li><li>C'est cette lettre qu'il a écrite.（他写的是这封信。）——强调直接宾语，用 que，元音前省音为 qu'。</li><li>判断方法不变：看 qui/que 在从句中作主语还是直接宾语。</li></ul><p>注意：qui/que 的选择只看句法成分；先行词指人还是指物不影响选择。</p>",
+      "locales": {
+        "fr": {
+          "title": "Choisir entre qui et que : regarder ce qui manque dans la relative",
+          "body": "<p>Pour choisir entre qui et que, la méthode la plus fiable est de regarder ce qui manque dans la proposition relative, non de regarder si l'antécédent désigne une personne ou une chose.</p><ul><li>Sujet manquant → qui : La machine qui produit ces pièces est neuve.</li><li>Complément d'objet direct manquant → que : La machine que nous utilisons est neuve.</li></ul><p>Pour réunir deux phrases, cherchez d'abord le nom commun aux deux, puis voyez ce qui manque dans la seconde :</p><ul><li>J'ai un ami. Cet ami travaille à Paris. → J'ai un ami qui travaille à Paris.</li><li>J'ai acheté un livre. Tout le monde lit ce livre. → J'ai acheté un livre que tout le monde lit.</li></ul><p>Erreurs fréquentes :</p><ul><li>La relative a déjà un sujet et l'on emploie quand même qui : *Le livre qui je lis est fautif, il faut que je lis.</li><li>La relative manque de sujet et l'on emploie que : *La fille que parle est fautif, il faut qui parle.</li><li>que ne s'élide pas devant une voyelle : *que il aime est fautif, il faut qu'il aime.</li></ul><p>qui/que dans les structures d'insistance :</p><ul><li>C'est Paul qui a téléphoné. — on met le sujet en relief avec qui.</li><li>C'est cette lettre qu'il a écrite. — on met le complément d'objet direct en relief avec que, élidé en qu' devant une voyelle.</li><li>La méthode ne change pas : regardez si qui/que est sujet ou complément d'objet direct dans la relative.</li></ul><p>Attention : le choix qui/que dépend uniquement de la fonction syntaxique ; que l'antécédent désigne une personne ou une chose ne change rien.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u2-1",
       "title": "où：地点状语的关系代词",
-      "body": "<p>où 在关系从句中作地点状语，先行词可以是地点名词、地名或地点副词。它替代整个地点补语，从句里不能再重复该地点。</p><ul><li>La maison où j'habite est ancienne.（我住的房子很旧。）</li><li>Voici la ville où nous nous sommes rencontrés.（这就是我们相遇的城市。）</li><li>Le parc où les enfants jouent est fermé le lundi.（孩子们玩耍的公园周一关闭。）</li></ul><p>与 que 的区别：</p><ul><li>从句缺地点状语 → où：La salle où nous travaillons.（我们工作的房间。）</li><li>从句缺直接宾语 → que：La salle que nous visitons.（我们参观的房间。）</li></ul><p>要点：</p><ul><li>où 本身已包含「在……」，从句中不能再出现 y 或相应的地点补语：*la ville où j'y habite 错。</li><li>où 可以指真实地点，也可以指抽象「场合、领域」：le domaine où il excelle（他擅长的领域）。</li></ul><p>注意：où 还表示时间，见下一张；de + où 缩合为 d'où，表示来源，见第 8 张。</p>"
+      "body": "<p>où 在关系从句中作地点状语，先行词可以是地点名词、地名或地点副词。它替代整个地点补语，从句里不能再重复该地点。</p><ul><li>La maison où j'habite est ancienne.（我住的房子很旧。）</li><li>Voici la ville où nous nous sommes rencontrés.（这就是我们相遇的城市。）</li><li>Le parc où les enfants jouent est fermé le lundi.（孩子们玩耍的公园周一关闭。）</li></ul><p>与 que 的区别：</p><ul><li>从句缺地点状语 → où：La salle où nous travaillons.（我们工作的房间。）</li><li>从句缺直接宾语 → que：La salle que nous visitons.（我们参观的房间。）</li></ul><p>要点：</p><ul><li>où 本身已包含「在……」，从句中不能再出现 y 或相应的地点补语：*la ville où j'y habite 错。</li><li>où 可以指真实地点，也可以指抽象「场合、领域」：le domaine où il excelle（他擅长的领域）。</li></ul><p>注意：où 还表示时间，见下一张；de + où 缩合为 d'où，表示来源，见第 8 张。</p>",
+      "locales": {
+        "fr": {
+          "title": "où : pronom relatif de complément de lieu",
+          "body": "<p>où est complément de lieu dans la proposition relative ; l'antécédent peut être un nom de lieu, un toponyme ou un adverbe de lieu. Il remplace tout le complément de lieu, qui ne doit pas être répété dans la relative.</p><ul><li>La maison où j'habite est ancienne.</li><li>Voici la ville où nous nous sommes rencontrés.</li><li>Le parc où les enfants jouent est fermé le lundi.</li></ul><p>Différence avec que :</p><ul><li>La relative manque d'un complément de lieu → où : La salle où nous travaillons.</li><li>La relative manque d'un complément d'objet direct → que : La salle que nous visitons.</li></ul><p>Points essentiels :</p><ul><li>où contient déjà l'idée de « dans », et la relative ne doit plus contenir y ni le complément de lieu correspondant : *la ville où j'y habite est fautif.</li><li>où peut désigner un lieu réel ou un domaine abstrait : le domaine où il excelle.</li></ul><p>Attention : où exprime aussi le temps, voir la carte suivante ; de + où se contracte en d'où, pour la provenance, voir la carte 8.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u2-2",
       "title": "où：时间状语的关系代词",
-      "body": "<p>où 也可以替代时间名词或时间状语，在关系从句中作时间状语。常见先行词有 le jour、l'année、le moment、l'époque、l'heure 等。</p><ul><li>Le jour où nous nous sommes rencontrés, il pleuvait.（我们相遇那天，天在下雨。）</li><li>C'est l'année où elle a publié son premier roman.（那是她出版第一部小说的那年。）</li><li>Au moment où il est entré, tout le monde s'est tu.（他进来的那一刻，大家都安静了。）</li></ul><p>判断要点：</p><ul><li>从句缺时间状语，且先行词提供时间参照 → où。</li><li>不要因为汉语说「……的时候」就用 que：*le jour que nous nous sommes rencontrés 不符合规范，应用 où。</li><li>où 在这里不表示地点，但形式不变。</li></ul><p>注意：时间 où 与地点 où 形式相同，要靠先行词和从句判断。</p>"
+      "body": "<p>où 也可以替代时间名词或时间状语，在关系从句中作时间状语。常见先行词有 le jour、l'année、le moment、l'époque、l'heure 等。</p><ul><li>Le jour où nous nous sommes rencontrés, il pleuvait.（我们相遇那天，天在下雨。）</li><li>C'est l'année où elle a publié son premier roman.（那是她出版第一部小说的那年。）</li><li>Au moment où il est entré, tout le monde s'est tu.（他进来的那一刻，大家都安静了。）</li></ul><p>判断要点：</p><ul><li>从句缺时间状语，且先行词提供时间参照 → où。</li><li>不要因为汉语说「……的时候」就用 que：*le jour que nous nous sommes rencontrés 不符合规范，应用 où。</li><li>où 在这里不表示地点，但形式不变。</li></ul><p>注意：时间 où 与地点 où 形式相同，要靠先行词和从句判断。</p>",
+      "locales": {
+        "fr": {
+          "title": "où : pronom relatif de complément de temps",
+          "body": "<p>où peut aussi remplacer un nom ou un complément de temps et être complément de temps dans la relative. Les antécédents fréquents sont le jour, l'année, le moment, l'époque, l'heure, etc.</p><ul><li>Le jour où nous nous sommes rencontrés, il pleuvait.</li><li>C'est l'année où elle a publié son premier roman.</li><li>Au moment où il est entré, tout le monde s'est tu.</li></ul><p>Points de repère :</p><ul><li>La relative manque d'un complément de temps et l'antécédent fournit le repère temporel → où.</li><li>Ne mettez pas que sous prétexte qu'en chinois on dit « le jour où » : *le jour que nous nous sommes rencontrés n'est pas conforme, il faut où.</li><li>où ne marque pas ici le lieu, mais sa forme ne change pas.</li></ul><p>Attention : le où temporel et le où locatif ont la même forme ; c'est l'antécédent et la relative qui permettent de décider.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u2-3",
       "title": "dont：替代 de 引导的名词补语",
-      "body": "<p>dont 可以替代由 de 引导的名词补语，在关系从句中修饰另一个名词。dont 后直接接被修饰名词及其限定词。</p><ul><li>Voici l'auteur dont le premier roman a reçu un prix.（这就是第一部小说获奖的那位作者。）</li><li>J'ai rencontré une étudiante dont le père est médecin.（我遇到一位父亲是医生的女学生。）</li><li>C'est une région dont les paysages sont magnifiques.（这是一个风景优美的地区。）</li></ul><p>限定词的变化：</p><ul><li>原句用主有限定词回指先行词时，合并后改为定冠词：Je connais un écrivain. Son dernier livre a gagné un prix. → Je connais un écrivain dont le dernier livre a gagné un prix.</li><li>被修饰名词的性数不变：son père → dont le père；ses enfants → dont les enfants。</li></ul><p>注意：dont 已包含 de，不能保留原 de 补语或主有限定词：*dont son roman、*dont du roman 都错。只有限定词回指同一先行词时才能这样转换。</p>"
+      "body": "<p>dont 可以替代由 de 引导的名词补语，在关系从句中修饰另一个名词。dont 后直接接被修饰名词及其限定词。</p><ul><li>Voici l'auteur dont le premier roman a reçu un prix.（这就是第一部小说获奖的那位作者。）</li><li>J'ai rencontré une étudiante dont le père est médecin.（我遇到一位父亲是医生的女学生。）</li><li>C'est une région dont les paysages sont magnifiques.（这是一个风景优美的地区。）</li></ul><p>限定词的变化：</p><ul><li>原句用主有限定词回指先行词时，合并后改为定冠词：Je connais un écrivain. Son dernier livre a gagné un prix. → Je connais un écrivain dont le dernier livre a gagné un prix.</li><li>被修饰名词的性数不变：son père → dont le père；ses enfants → dont les enfants。</li></ul><p>注意：dont 已包含 de，不能保留原 de 补语或主有限定词：*dont son roman、*dont du roman 都错。只有限定词回指同一先行词时才能这样转换。</p>",
+      "locales": {
+        "fr": {
+          "title": "dont : remplacer un complément du nom introduit par de",
+          "body": "<p>dont peut remplacer un complément du nom introduit par de et déterminer un autre nom dans la relative. « dont » est suivi directement du nom déterminé et de son déterminant.</p><ul><li>Voici l'auteur dont le premier roman a reçu un prix.</li><li>J'ai rencontré une étudiante dont le père est médecin.</li><li>C'est une région dont les paysages sont magnifiques.</li></ul><p>Changement de déterminant :</p><ul><li>Quand la phrase source reprend l'antécédent avec un possessif, on le remplace par l'article défini après la réunion : Je connais un écrivain. Son dernier livre a gagné un prix. → Je connais un écrivain dont le dernier livre a gagné un prix.</li><li>Le genre et le nombre du nom déterminé ne changent pas : son père → dont le père ; ses enfants → dont les enfants.</li></ul><p>Attention : dont contient déjà de ; on ne garde ni le complément en de ni le possessif d'origine : *dont son roman et *dont du roman sont fautifs. Cette transformation ne vaut que si le déterminant reprend le même antécédent.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u2-4",
       "title": "dont：动词间接宾语与形容词补语",
-      "body": "<p>dont 还替代由 de 引导的动词间接宾语或形容词补语。判断关键是动词或形容词的固定搭配里有没有 de。</p><p>常见搭配：</p><ul><li>parler de → Le film dont je parle.（我谈的那部电影。）</li><li>avoir besoin de → L'outil dont j'ai besoin.（我需要的工具。）</li><li>s'occuper de → L'enfant dont elle s'occupe.（她照顾的孩子。）</li><li>être fier de → Le résultat dont il est fier.（他引以为豪的结果。）</li><li>être satisfait de → Le travail dont nous sommes satisfaits.（我们满意的工作。）</li></ul><p>例：</p><ul><li>Voici le sujet dont nous discutons.（这就是我们讨论的话题。）</li><li>C'est un problème dont il faut tenir compte.（这是一个必须考虑的问题。）</li></ul><p>要点：</p><ul><li>先还原搭配：parler de ce film → dont je parle。</li><li>dont 已含 de，不能写成 *dont je parle de；也不能用 que 代替。</li><li>与名词补语 dont 的区别：后者 dont 后紧跟另一个名词（dont le père），前者 dont 后直接跟从句主语和动词。</li></ul>"
+      "body": "<p>dont 还替代由 de 引导的动词间接宾语或形容词补语。判断关键是动词或形容词的固定搭配里有没有 de。</p><p>常见搭配：</p><ul><li>parler de → Le film dont je parle.（我谈的那部电影。）</li><li>avoir besoin de → L'outil dont j'ai besoin.（我需要的工具。）</li><li>s'occuper de → L'enfant dont elle s'occupe.（她照顾的孩子。）</li><li>être fier de → Le résultat dont il est fier.（他引以为豪的结果。）</li><li>être satisfait de → Le travail dont nous sommes satisfaits.（我们满意的工作。）</li></ul><p>例：</p><ul><li>Voici le sujet dont nous discutons.（这就是我们讨论的话题。）</li><li>C'est un problème dont il faut tenir compte.（这是一个必须考虑的问题。）</li></ul><p>要点：</p><ul><li>先还原搭配：parler de ce film → dont je parle。</li><li>dont 已含 de，不能写成 *dont je parle de；也不能用 que 代替。</li><li>与名词补语 dont 的区别：后者 dont 后紧跟另一个名词（dont le père），前者 dont 后直接跟从句主语和动词。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "dont : complément d'objet indirect du verbe et complément d'adjectif",
+          "body": "<p>dont remplace aussi un complément d'objet indirect introduit par de ou un complément d'adjectif. Le critère est la présence de de dans la construction du verbe ou de l'adjectif.</p><p>Constructions fréquentes :</p><ul><li>parler de → Le film dont je parle.</li><li>avoir besoin de → L'outil dont j'ai besoin.</li><li>s'occuper de → L'enfant dont elle s'occupe.</li><li>être fier de → Le résultat dont il est fier.</li><li>être satisfait de → Le travail dont nous sommes satisfaits.</li></ul><p>Exemples :</p><ul><li>Voici le sujet dont nous discutons.</li><li>C'est un problème dont il faut tenir compte.</li></ul><p>Points essentiels :</p><ul><li>Reconstituez d'abord la construction : parler de ce film → dont je parle.</li><li>dont contient déjà de : on n'écrit ni *dont je parle de ni que à la place.</li><li>Différence avec le dont complément du nom : dans ce dernier cas, dont est suivi directement d'un autre nom (dont le père) ; ici, dont est suivi du sujet et du verbe de la relative.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u2-5",
       "title": "d'où：来源与观察点",
-      "body": "<p>d'où 是 de + où 的缩合，替代由 de 引导的地点名词或来源补语，在关系从句中作来源或观察点状语。</p><ul><li>La fenêtre d'où provient cette lumière est au deuxième étage.（这束光透进来的那扇窗在二楼。）</li><li>C'est le village d'où il vient.（那就是他来自的村庄。）</li><li>Il est monté sur la tour d'où il a photographié la ville.（他登上塔，从那里拍摄城市。）</li></ul><p>与 où 的区别：</p><ul><li>où 表示「在/到某处」：la salle où il entre（他走进的房间）</li><li>d'où 表示「从某处、从那里」：la salle d'où il sort（他走出的房间）</li></ul><p>要点：</p><ul><li>d'où 已包含 de，从句中不能再保留 de 补语。</li><li>来源动词 venir de、sortir de、descendre de 等常触发 d'où。</li></ul><p>注意：d'où 也可用于抽象推论「由此可见」（D'où la conclusion...）。</p>"
+      "body": "<p>d'où 是 de + où 的缩合，替代由 de 引导的地点名词或来源补语，在关系从句中作来源或观察点状语。</p><ul><li>La fenêtre d'où provient cette lumière est au deuxième étage.（这束光透进来的那扇窗在二楼。）</li><li>C'est le village d'où il vient.（那就是他来自的村庄。）</li><li>Il est monté sur la tour d'où il a photographié la ville.（他登上塔，从那里拍摄城市。）</li></ul><p>与 où 的区别：</p><ul><li>où 表示「在/到某处」：la salle où il entre（他走进的房间）</li><li>d'où 表示「从某处、从那里」：la salle d'où il sort（他走出的房间）</li></ul><p>要点：</p><ul><li>d'où 已包含 de，从句中不能再保留 de 补语。</li><li>来源动词 venir de、sortir de、descendre de 等常触发 d'où。</li></ul><p>注意：d'où 也可用于抽象推论「由此可见」（D'où la conclusion...）。</p>",
+      "locales": {
+        "fr": {
+          "title": "d'où : provenance et point d'observation",
+          "body": "<p>d'où est la contraction de de + où ; il remplace un nom de lieu ou un complément de provenance introduit par de et sert de complément de provenance ou de point d'observation dans la relative.</p><ul><li>La fenêtre d'où provient cette lumière est au deuxième étage.</li><li>C'est le village d'où il vient.</li><li>Il est monté sur la tour d'où il a photographié la ville.</li></ul><p>Différence avec où :</p><ul><li>où indique « dans / vers un lieu » : la salle où il entre</li><li>d'où indique « depuis un lieu, de là » : la salle d'où il sort</li></ul><p>Points essentiels :</p><ul><li>d'où contient déjà de ; la relative ne doit plus garder de complément en de.</li><li>Les verbes de provenance venir de, sortir de, descendre de, etc., appellent souvent d'où.</li></ul><p>Attention : d'où peut aussi servir à une déduction abstraite (« d'où la conclusion... »).</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u3-1",
       "title": "介词 + 指人的关系代词",
-      "body": "<p>关系从句需要介词时，介词由从句动词或形容词的搭配决定，并保留在关系代词前。先行词指人时，介词后可用 qui，也可用复合关系代词 lequel 类。</p><ul><li>La personne à qui je pense est partie.（我想到的那个人走了。）——penser à qn</li><li>L'ami avec qui je voyage est médecin.（和我一起旅行的朋友是医生。）——voyager avec qn</li><li>Le collègue à qui j'ai parlé est arrivé.（和我说过话的同事到了。）</li><li>La voisine chez qui nous habitons est gentille.（我们住在她家的邻居很和善。）</li></ul><p>要点：</p><ul><li>介词不能丢：*la personne je pense 错。</li><li>指人时 qui 与 lequel 类常可互换：à qui / à laquelle；avec qui / avec lequel。</li><li>注意区分直接宾语 que 与「介词 + qui」：La personne que je vois（直接宾语）≠ La personne à qui je parle（间接宾语）。</li></ul><p>注意：先行词指物时通常不能用介词 + qui，要用介词 + lequel 类，见第 10 张。</p>"
+      "body": "<p>关系从句需要介词时，介词由从句动词或形容词的搭配决定，并保留在关系代词前。先行词指人时，介词后可用 qui，也可用复合关系代词 lequel 类。</p><ul><li>La personne à qui je pense est partie.（我想到的那个人走了。）——penser à qn</li><li>L'ami avec qui je voyage est médecin.（和我一起旅行的朋友是医生。）——voyager avec qn</li><li>Le collègue à qui j'ai parlé est arrivé.（和我说过话的同事到了。）</li><li>La voisine chez qui nous habitons est gentille.（我们住在她家的邻居很和善。）</li></ul><p>要点：</p><ul><li>介词不能丢：*la personne je pense 错。</li><li>指人时 qui 与 lequel 类常可互换：à qui / à laquelle；avec qui / avec lequel。</li><li>注意区分直接宾语 que 与「介词 + qui」：La personne que je vois（直接宾语）≠ La personne à qui je parle（间接宾语）。</li></ul><p>注意：先行词指物时通常不能用介词 + qui，要用介词 + lequel 类，见第 10 张。</p>",
+      "locales": {
+        "fr": {
+          "title": "Préposition + pronom relatif désignant une personne",
+          "body": "<p>Quand la relative exige une préposition, cette préposition dépend de la construction du verbe ou de l'adjectif et se conserve devant le pronom relatif. Si l'antécédent désigne une personne, on peut employer qui après la préposition, ou un pronom relatif composé de la série lequel.</p><ul><li>La personne à qui je pense est partie. — penser à qn</li><li>L'ami avec qui je voyage est médecin. — voyager avec qn</li><li>Le collègue à qui j'ai parlé est arrivé.</li><li>La voisine chez qui nous habitons est gentille.</li></ul><p>Points essentiels :</p><ul><li>La préposition ne disparaît pas : *la personne je pense est fautif.</li><li>Avec une personne, qui et la série lequel sont souvent interchangeables : à qui / à laquelle ; avec qui / avec lequel.</li><li>Distinguez le complément d'objet direct que de « préposition + qui » : La personne que je vois (COD) ≠ La personne à qui je parle (COI).</li></ul><p>Attention : avec un antécédent qui désigne une chose, on n'emploie généralement pas préposition + qui, mais préposition + lequel, voir la carte 10.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u3-2",
       "title": "复合关系代词的性数一致",
-      "body": "<p>复合关系代词 lequel、laquelle、lesquels、lesquelles 的性和数必须跟先行词一致；前面的介词决定用哪一组形式。</p><ul><li>Le livre sur lequel je travaille est difficile.（我正在处理的那本书很难。）——阳性单数</li><li>La table sur laquelle je pose mes clés est en bois.（我放钥匙的那张桌子是木头的。）——阴性单数</li><li>Les projets sur lesquels nous travaillons sont urgents.（我们正在做的项目很紧急。）——阳性复数</li><li>Les idées sur lesquelles il insiste sont claires.（他坚持的那些想法很清楚。）——阴性复数</li></ul><p>要点：</p><ul><li>先找先行词的性和数，再选形式；介词不改变性数一致。</li><li>指物时通常必须用复合关系代词，不能用 qui 代替介词 + lequel。</li><li>不要只看从句主语：La voiture à laquelle je pense（voiture 阴性单数）。</li></ul><p>注意：à/de 与 lequel 类相遇时要缩合，见下一张；其他介词后保留独立形式（avec lequel、sur laquelle）。</p>"
+      "body": "<p>复合关系代词 lequel、laquelle、lesquels、lesquelles 的性和数必须跟先行词一致；前面的介词决定用哪一组形式。</p><ul><li>Le livre sur lequel je travaille est difficile.（我正在处理的那本书很难。）——阳性单数</li><li>La table sur laquelle je pose mes clés est en bois.（我放钥匙的那张桌子是木头的。）——阴性单数</li><li>Les projets sur lesquels nous travaillons sont urgents.（我们正在做的项目很紧急。）——阳性复数</li><li>Les idées sur lesquelles il insiste sont claires.（他坚持的那些想法很清楚。）——阴性复数</li></ul><p>要点：</p><ul><li>先找先行词的性和数，再选形式；介词不改变性数一致。</li><li>指物时通常必须用复合关系代词，不能用 qui 代替介词 + lequel。</li><li>不要只看从句主语：La voiture à laquelle je pense（voiture 阴性单数）。</li></ul><p>注意：à/de 与 lequel 类相遇时要缩合，见下一张；其他介词后保留独立形式（avec lequel、sur laquelle）。</p>",
+      "locales": {
+        "fr": {
+          "title": "Accord en genre et en nombre des pronoms relatifs composés",
+          "body": "<p>Les pronoms relatifs composés lequel, laquelle, lesquels, lesquelles s'accordent en genre et en nombre avec l'antécédent ; la préposition qui précède détermine la série de formes.</p><ul><li>Le livre sur lequel je travaille est difficile. — masculin singulier</li><li>La table sur laquelle je pose mes clés est en bois. — féminin singulier</li><li>Les projets sur lesquels nous travaillons sont urgents. — masculin pluriel</li><li>Les idées sur lesquelles il insiste sont claires. — féminin pluriel</li></ul><p>Points essentiels :</p><ul><li>Déterminez d'abord le genre et le nombre de l'antécédent, puis choisissez la forme ; la préposition ne change pas l'accord.</li><li>Avec une chose, on emploie normalement le pronom composé et non qui après une préposition.</li><li>Ne regardez pas seulement le sujet de la relative : La voiture à laquelle je pense (voiture, féminin singulier).</li></ul><p>Attention : à/de se contractent avec la série lequel, voir la carte suivante ; les autres prépositions gardent la forme autonome (avec lequel, sur laquelle).</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u3-3",
       "title": "à/de 与 lequel 类的缩合",
-      "body": "<p>介词 à 与 lequel 类缩合：à + lequel → auquel；à + lesquels → auxquels；à + lesquelles → auxquelles。阴性单数 à laquelle 不缩合。</p><ul><li>Le projet auquel je participe est ambitieux.（我参与的项目很有雄心。）</li><li>Les livres auxquels je pense sont dans la bibliothèque.（我想的那些书在图书馆里。）</li><li>Les idées auxquelles il croit sont simples.（他相信的那些想法很简单。）</li><li>La réunion à laquelle je participe dure deux heures.（我参加的会议持续两小时。）</li></ul><p>介词 de 与 lequel 类缩合：de + lequel → duquel；de + lesquels → desquels；de + lesquelles → desquelles。阴性单数 de laquelle 不缩合。</p><ul><li>C'est le village près duquel nous avons campé.（这就是我们在附近露营的村庄。）</li><li>Les collègues avec lesquels je travaille sont patients.（和我一起工作的同事们很有耐心。）——avec 不缩合</li></ul><p>要点：</p><ul><li>缩合后不能重复原介词：*au à lequel 错。</li><li>其他介词（avec、sur、dans、chez、pour 等）不缩合：avec lequel、dans laquelle。</li></ul>"
+      "body": "<p>介词 à 与 lequel 类缩合：à + lequel → auquel；à + lesquels → auxquels；à + lesquelles → auxquelles。阴性单数 à laquelle 不缩合。</p><ul><li>Le projet auquel je participe est ambitieux.（我参与的项目很有雄心。）</li><li>Les livres auxquels je pense sont dans la bibliothèque.（我想的那些书在图书馆里。）</li><li>Les idées auxquelles il croit sont simples.（他相信的那些想法很简单。）</li><li>La réunion à laquelle je participe dure deux heures.（我参加的会议持续两小时。）</li></ul><p>介词 de 与 lequel 类缩合：de + lequel → duquel；de + lesquels → desquels；de + lesquelles → desquelles。阴性单数 de laquelle 不缩合。</p><ul><li>C'est le village près duquel nous avons campé.（这就是我们在附近露营的村庄。）</li><li>Les collègues avec lesquels je travaille sont patients.（和我一起工作的同事们很有耐心。）——avec 不缩合</li></ul><p>要点：</p><ul><li>缩合后不能重复原介词：*au à lequel 错。</li><li>其他介词（avec、sur、dans、chez、pour 等）不缩合：avec lequel、dans laquelle。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "Contractions de à/de avec la série lequel",
+          "body": "<p>La préposition à se contracte avec la série lequel : à + lequel → auquel ; à + lesquels → auxquels ; à + lesquelles → auxquelles. Le féminin singulier à laquelle ne se contracte pas.</p><ul><li>Le projet auquel je participe est ambitieux.</li><li>Les livres auxquels je pense sont dans la bibliothèque.</li><li>Les idées auxquelles il croit sont simples.</li><li>La réunion à laquelle je participe dure deux heures.</li></ul><p>La préposition de se contracte avec la série lequel : de + lequel → duquel ; de + lesquels → desquels ; de + lesquelles → desquelles. Le féminin singulier de laquelle ne se contracte pas.</p><ul><li>C'est le village près duquel nous avons campé.</li><li>Les collègues avec lesquels je travaille sont patients. — avec ne se contracte pas</li></ul><p>Points essentiels :</p><ul><li>Après contraction, ne répétez pas la préposition d'origine : *au à lequel est fautif.</li><li>Les autres prépositions (avec, sur, dans, chez, pour, etc.) ne se contractent pas : avec lequel, dans laquelle.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u3-4",
       "title": "复合关系代词消除歧义（识别）",
-      "body": "<p>当句中有两个名词都可能作先行词时，qui 不携带性数信息，可能造成指代不清。复合关系代词有明确的性和数，可以指明真正的先行词。</p><ul><li>J'ai parlé à la sœur de Paul, laquelle habite à Lyon.（我和保罗的姐姐说过话，她住在里昂。）——laquelle 是阴性单数，指 la sœur，不是 Paul。</li><li>J'ai rencontré le frère de Marie, lequel travaille à Paris.（我遇到了玛丽的那位兄弟，他在巴黎工作。）——lequel 是阳性单数，指 le frère。</li></ul><p>对比：</p><ul><li>J'ai parlé à la sœur de Paul, qui habite à Lyon.——qui 不显示性数，理论上可能指 sœur 或 Paul，容易产生歧义。</li></ul><p>要点：</p><ul><li>这是复合关系代词的附加功能，不是所有关系从句都必须使用。</li><li>只有两个候选先行词性数不同，或需要明确指代时，这种用法才有意义。</li><li>识别时看复合关系代词的性数，再回到句中找到性数一致的名词。</li></ul><p>注意：不要把所有 lequel 都解释为「消歧」，很多只是介词后的常规选择。</p>"
+      "body": "<p>当句中有两个名词都可能作先行词时，qui 不携带性数信息，可能造成指代不清。复合关系代词有明确的性和数，可以指明真正的先行词。</p><ul><li>J'ai parlé à la sœur de Paul, laquelle habite à Lyon.（我和保罗的姐姐说过话，她住在里昂。）——laquelle 是阴性单数，指 la sœur，不是 Paul。</li><li>J'ai rencontré le frère de Marie, lequel travaille à Paris.（我遇到了玛丽的那位兄弟，他在巴黎工作。）——lequel 是阳性单数，指 le frère。</li></ul><p>对比：</p><ul><li>J'ai parlé à la sœur de Paul, qui habite à Lyon.——qui 不显示性数，理论上可能指 sœur 或 Paul，容易产生歧义。</li></ul><p>要点：</p><ul><li>这是复合关系代词的附加功能，不是所有关系从句都必须使用。</li><li>只有两个候选先行词性数不同，或需要明确指代时，这种用法才有意义。</li><li>识别时看复合关系代词的性数，再回到句中找到性数一致的名词。</li></ul><p>注意：不要把所有 lequel 都解释为「消歧」，很多只是介词后的常规选择。</p>",
+      "locales": {
+        "fr": {
+          "title": "Les pronoms relatifs composés lèvent une ambiguïté (reconnaissance)",
+          "body": "<p>Quand deux noms de la phrase peuvent servir d'antécédent, qui ne porte aucune information de genre ni de nombre et peut rendre la référence ambiguë. Le pronom relatif composé, lui, a un genre et un nombre explicites, ce qui permet d'identifier le véritable antécédent.</p><ul><li>J'ai parlé à la sœur de Paul, laquelle habite à Lyon. — laquelle est féminin singulier et désigne la sœur, non Paul.</li><li>J'ai rencontré le frère de Marie, lequel travaille à Paris. — lequel est masculin singulier et désigne le frère.</li></ul><p>Comparaison :</p><ul><li>J'ai parlé à la sœur de Paul, qui habite à Lyon. — qui ne montre ni genre ni nombre et peut théoriquement renvoyer à la sœur ou à Paul, d'où une ambiguïté possible.</li></ul><p>Points essentiels :</p><ul><li>C'est une fonction supplémentaire du pronom composé ; toutes les relatives ne l'exigent pas.</li><li>Cet emploi n'a d'intérêt que si les deux antécédents possibles diffèrent en genre et en nombre, ou si l'on doit expliciter la référence.</li><li>Pour l'identification, regardez le genre et le nombre du pronom composé, puis cherchez dans la phrase le nom qui s'accorde.</li></ul><p>Attention : ne présentez pas tous les lequel comme des outils de désambiguïsation ; beaucoup ne sont que le choix ordinaire après une préposition.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u4-1",
       "title": "ce qui、ce que 与 ce dont：按角色选择",
-      "body": "<p>先行词不是某个具体名词，而是整件事或不确定的事物时，用中性关系代词。选择哪一个，取决于关系从句缺少什么成分，而不是因为汉语里都可能译成「……的」。</p><ul><li>主语：ce qui<ul><li>Ce qui me plaît ici, c'est le calme.（我在这里喜欢的是安静。）——plaire 的主语是「让我喜欢的东西」。</li><li>Il ne comprend pas ce qui se passe.（他不明白发生了什么。）——se passer 的主语。</li></ul></li><li>直接宾语：ce que<ul><li>Ce que je préfère, c'est la musique.（我最喜欢的是音乐。）——préférer 的直接宾语。</li><li>Elle a répété ce que le professeur avait dit.（她重复了老师说过的话。）——dire 的直接宾语。</li></ul></li><li>de 补语：ce dont<ul><li>Ce dont j'ai besoin, c'est de temps.（我需要的是时间。）——avoir besoin de。</li><li>Voici ce dont nous avons parlé.（这就是我们谈过的事。）——parler de。</li></ul></li></ul><p>判断步骤：先找关系从句的动词，再看它缺主语、直接宾语还是 de 补语。缺主语用 ce qui，缺直接宾语用 ce que，缺 de 补语用 ce dont。</p><p>注意：三者的句法角色固定，不能互换。ce que 后接元音或哑音 h 要省音为 ce qu'（见下一张）；ce dont 本身已含 de，后面不能再重复 de。不要把中性代词 ce que 与指示代词 ceux 混淆：ceux 代替的是可数名词，有性数变化。</p>"
+      "body": "<p>先行词不是某个具体名词，而是整件事或不确定的事物时，用中性关系代词。选择哪一个，取决于关系从句缺少什么成分，而不是因为汉语里都可能译成「……的」。</p><ul><li>主语：ce qui<ul><li>Ce qui me plaît ici, c'est le calme.（我在这里喜欢的是安静。）——plaire 的主语是「让我喜欢的东西」。</li><li>Il ne comprend pas ce qui se passe.（他不明白发生了什么。）——se passer 的主语。</li></ul></li><li>直接宾语：ce que<ul><li>Ce que je préfère, c'est la musique.（我最喜欢的是音乐。）——préférer 的直接宾语。</li><li>Elle a répété ce que le professeur avait dit.（她重复了老师说过的话。）——dire 的直接宾语。</li></ul></li><li>de 补语：ce dont<ul><li>Ce dont j'ai besoin, c'est de temps.（我需要的是时间。）——avoir besoin de。</li><li>Voici ce dont nous avons parlé.（这就是我们谈过的事。）——parler de。</li></ul></li></ul><p>判断步骤：先找关系从句的动词，再看它缺主语、直接宾语还是 de 补语。缺主语用 ce qui，缺直接宾语用 ce que，缺 de 补语用 ce dont。</p><p>注意：三者的句法角色固定，不能互换。ce que 后接元音或哑音 h 要省音为 ce qu'（见下一张）；ce dont 本身已含 de，后面不能再重复 de。不要把中性代词 ce que 与指示代词 ceux 混淆：ceux 代替的是可数名词，有性数变化。</p>",
+      "locales": {
+        "fr": {
+          "title": "ce qui, ce que et ce dont : choisir selon la fonction",
+          "body": "<p>Quand l'antécédent n'est pas un nom précis, mais l'ensemble d'une situation ou un objet indéterminé, on emploie un pronom relatif neutre. Le choix dépend de ce qui manque dans la relative, non du fait qu'en chinois tout peut se rendre par « ce que... ».</p><ul><li>Sujet : ce qui<ul><li>Ce qui me plaît ici, c'est le calme. — le sujet de plaire est « ce qui me plaît ».</li><li>Il ne comprend pas ce qui se passe. — sujet de se passer.</li></ul></li><li>Complément d'objet direct : ce que<ul><li>Ce que je préfère, c'est la musique. — COD de préférer.</li><li>Elle a répété ce que le professeur avait dit. — COD de dire.</li></ul></li><li>Complément en de : ce dont<ul><li>Ce dont j'ai besoin, c'est de temps. — avoir besoin de.</li><li>Voici ce dont nous avons parlé. — parler de.</li></ul></li></ul><p>Étapes : trouvez le verbe de la relative, puis voyez s'il manque un sujet, un complément d'objet direct ou un complément en de. Sujet manquant : ce qui ; COD manquant : ce que ; complément en de manquant : ce dont.</p><p>Attention : les trois fonctions sont fixes et non interchangeables. « ce » que s'élide en ce qu' devant une voyelle ou un h muet (voir la carte suivante) ; ce dont contient déjà de, qui ne se répète pas. Ne confondez pas le neutre ce que avec le démonstratif ceux : ceux remplace un nom comptable et varie en genre et en nombre.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u4-2",
       "title": "ce que 的省音：ce qu'",
-      "body": "<p>ce que 后接以元音或哑音 h 开头的词时，que 的 e 省去，写成 ce qu'。省音只改变书写和发音，不改变 ce que 作直接宾语的功能。</p><ul><li>Je sais ce qu'il prépare.（我知道他在准备什么。）——ce qu' + il</li><li>C'est ce qu'elle a dit.（这是她说过的话。）——ce qu' + elle</li><li>Ce qu'Anne pense est intéressant.（安娜的想法很有趣。）——ce qu' + Anne</li></ul><p>对比：</p><ul><li>ce que + 辅音开头：ce que tu dis（你说的话）、ce que nous faisons（我们做的事）</li><li>ce qui、ce dont 不省音：ce qui arrive（发生的事）、ce dont il parle（他谈的事）</li></ul><p>常见错误是把 ce qu'il 写成 ce que il，或把 ce que tu 写成 ce qu'tu。判断时先确定角色：作直接宾语才是 ce que，作主语是 ce qui；再根据后一个词的第一个音决定是否省音。</p><p>注意：省音只发生在 ce que 上，ce qui 和 ce dont 都没有省音形式；省音与否不改变关系代词在从句中的角色。</p>"
+      "body": "<p>ce que 后接以元音或哑音 h 开头的词时，que 的 e 省去，写成 ce qu'。省音只改变书写和发音，不改变 ce que 作直接宾语的功能。</p><ul><li>Je sais ce qu'il prépare.（我知道他在准备什么。）——ce qu' + il</li><li>C'est ce qu'elle a dit.（这是她说过的话。）——ce qu' + elle</li><li>Ce qu'Anne pense est intéressant.（安娜的想法很有趣。）——ce qu' + Anne</li></ul><p>对比：</p><ul><li>ce que + 辅音开头：ce que tu dis（你说的话）、ce que nous faisons（我们做的事）</li><li>ce qui、ce dont 不省音：ce qui arrive（发生的事）、ce dont il parle（他谈的事）</li></ul><p>常见错误是把 ce qu'il 写成 ce que il，或把 ce que tu 写成 ce qu'tu。判断时先确定角色：作直接宾语才是 ce que，作主语是 ce qui；再根据后一个词的第一个音决定是否省音。</p><p>注意：省音只发生在 ce que 上，ce qui 和 ce dont 都没有省音形式；省音与否不改变关系代词在从句中的角色。</p>",
+      "locales": {
+        "fr": {
+          "title": "Élision de ce que : ce qu'",
+          "body": "<p>Quand ce que est suivi d'un mot commençant par une voyelle ou un h muet, le e de que s'élide et l'on écrit ce qu'. L'élision ne change que l'écriture et la prononciation, pas la fonction de ce que, complément d'objet direct.</p><ul><li>Je sais ce qu'il prépare. — ce qu' + il</li><li>C'est ce qu'elle a dit. — ce qu' + elle</li><li>Ce qu'Anne pense est intéressant. — ce qu' + Anne</li></ul><p>Comparaison :</p><ul><li>ce que + consonne : ce que tu dis, ce que nous faisons</li><li>ce qui et ce dont ne s'élident pas : ce qui arrive, ce dont il parle</li></ul><p>Erreurs fréquentes : écrire ce que il au lieu de ce qu'il, ou ce qu'tu au lieu de ce que tu. Déterminez d'abord la fonction : ce que est COD, ce qui est sujet ; ensuite, regardez la première lettre du mot suivant pour décider de l'élision.</p><p>Attention : l'élision ne concerne que ce que ; ce qui et ce dont n'ont pas de forme élidée. L'élision ne change pas la fonction du pronom dans la relative.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u4-3",
       "title": "ce dont 伪分裂句（识别）",
-      "body": "<p>ce dont 可以放在句首，先把话题化成分提出来，再用 c'est 补出具体内容。理解这种句子要抓住两点：dont 由后面动词或形容词的 de 搭配决定；c'est 后面的内容要保留该搭配需要的 de。</p><ul><li>Ce dont j'ai besoin, c'est de repos.（我需要的是休息。）——avoir besoin de → ce dont；c'est 后仍是 de repos</li><li>Ce dont elle est fière, c'est de son travail.（她引以为傲的是她的工作。）——être fier de</li><li>Ce dont nous parlons, c'est de ce projet.（我们谈的是这个项目。）——parler de</li></ul><p>不能说：</p><ul><li>*Ce que j'ai besoin, c'est de repos.——avoir besoin 要求 de，不能用 ce que</li><li>*Ce dont j'ai besoin, c'est repos.——c'est 后丢了搭配要求的 de</li><li>*Ce qui j'ai besoin, c'est de repos.——ce qui 只能作主语</li></ul><p>注意：本结构只用于 dont 的伪分裂，不是可以随意套用的 c'est...dont 框架；前置的话题成分与 c'est 后的内容必须语义对应。</p>"
+      "body": "<p>ce dont 可以放在句首，先把话题化成分提出来，再用 c'est 补出具体内容。理解这种句子要抓住两点：dont 由后面动词或形容词的 de 搭配决定；c'est 后面的内容要保留该搭配需要的 de。</p><ul><li>Ce dont j'ai besoin, c'est de repos.（我需要的是休息。）——avoir besoin de → ce dont；c'est 后仍是 de repos</li><li>Ce dont elle est fière, c'est de son travail.（她引以为傲的是她的工作。）——être fier de</li><li>Ce dont nous parlons, c'est de ce projet.（我们谈的是这个项目。）——parler de</li></ul><p>不能说：</p><ul><li>*Ce que j'ai besoin, c'est de repos.——avoir besoin 要求 de，不能用 ce que</li><li>*Ce dont j'ai besoin, c'est repos.——c'est 后丢了搭配要求的 de</li><li>*Ce qui j'ai besoin, c'est de repos.——ce qui 只能作主语</li></ul><p>注意：本结构只用于 dont 的伪分裂，不是可以随意套用的 c'est...dont 框架；前置的话题成分与 c'est 后的内容必须语义对应。</p>",
+      "locales": {
+        "fr": {
+          "title": "Phrases clivées en ce dont (reconnaissance)",
+          "body": "<p>ce dont peut être placé en tête de phrase pour introduire le thème, puis c'est précise le contenu. Pour comprendre, retenez deux points : dont dépend de la construction du verbe ou de l'adjectif avec la préposition de qui suit ; après c'est, il faut conserver le de exigé par cette construction.</p><ul><li>Ce dont j'ai besoin, c'est de repos. — avoir besoin de → ce dont ; après c'est, on garde de repos.</li><li>Ce dont elle est fière, c'est de son travail. — être fier de</li><li>Ce dont nous parlons, c'est de ce projet. — parler de</li></ul><p>Formes fautives :</p><ul><li>*Ce que j'ai besoin, c'est de repos. — avoir besoin exige de, ce que ne convient pas.</li><li>*Ce dont j'ai besoin, c'est repos. — après c'est, le de exigé a disparu.</li><li>*Ce qui j'ai besoin, c'est de repos. — ce qui ne peut être que sujet.</li></ul><p>Attention : cette structure ne vaut que pour les clivées en dont ; ce n'est pas un cadre c'est...dont à appliquer librement. Le thème en tête et le contenu après c'est doivent se correspondre sémantiquement.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u4-4",
       "title": "从 en 到 dont：合并关系从句",
-      "body": "<p>当 en 回指 de + 名词，而你要把这个补语并进关系从句时，en 要换成 dont，并且把 en 删除。dont 已经包含 de，句子里不能再出现 en 或原来的 de 补语。</p><ul><li>J'ai acheté une voiture. J'en suis très content. → J'ai acheté une voiture dont je suis très content.（我买了一辆我很满意的车。）</li><li>Voici le film. Tout le monde en parle. → Voici le film dont tout le monde parle.（这就是大家都在谈的那部电影。）</li><li>Elle m'a montré la photo. Elle en est fière. → Elle m'a montré la photo dont elle est fière.（她给我看了她引以为傲的那张照片。）</li></ul><p>步骤：1）确认 en 回指的是 de + 名词；2）找出从句中要求 de 的动词或形容词；3）用 dont 替换 en；4）删掉 en。</p><p>注意：只有回指 de 补语的 en 才这样处理。部分冠词或数量用法的 en（J'en ai deux. / Il en reste un peu.）不属于本结构。合并后不能写成 *la voiture dont j'en suis content，也不能保留 de：*dont je suis content de la voiture。</p>"
+      "body": "<p>当 en 回指 de + 名词，而你要把这个补语并进关系从句时，en 要换成 dont，并且把 en 删除。dont 已经包含 de，句子里不能再出现 en 或原来的 de 补语。</p><ul><li>J'ai acheté une voiture. J'en suis très content. → J'ai acheté une voiture dont je suis très content.（我买了一辆我很满意的车。）</li><li>Voici le film. Tout le monde en parle. → Voici le film dont tout le monde parle.（这就是大家都在谈的那部电影。）</li><li>Elle m'a montré la photo. Elle en est fière. → Elle m'a montré la photo dont elle est fière.（她给我看了她引以为傲的那张照片。）</li></ul><p>步骤：1）确认 en 回指的是 de + 名词；2）找出从句中要求 de 的动词或形容词；3）用 dont 替换 en；4）删掉 en。</p><p>注意：只有回指 de 补语的 en 才这样处理。部分冠词或数量用法的 en（J'en ai deux. / Il en reste un peu.）不属于本结构。合并后不能写成 *la voiture dont j'en suis content，也不能保留 de：*dont je suis content de la voiture。</p>",
+      "locales": {
+        "fr": {
+          "title": "De « en » à « dont » : réunir une relative",
+          "body": "<p>Quand en reprend de + nom et que l'on veut intégrer ce complément dans une relative, en devient dont et en disparaît. « dont » contient déjà de : la phrase ne doit plus contenir en ni le complément en de d'origine.</p><ul><li>J'ai acheté une voiture. J'en suis très content. → J'ai acheté une voiture dont je suis très content.</li><li>Voici le film. Tout le monde en parle. → Voici le film dont tout le monde parle.</li><li>Elle m'a montré la photo. Elle en est fière. → Elle m'a montré la photo dont elle est fière.</li></ul><p>Étapes : 1) vérifiez que en reprend de + nom ; 2) trouvez dans la relative le verbe ou l'adjectif qui exige de ; 3) remplacez en par dont ; 4) supprimez en.</p><p>Attention : seuls les en qui reprennent un complément en de se traitent ainsi. Les en partitifs ou de quantité (J'en ai deux. / Il en reste un peu.) ne relèvent pas de cette structure. Après réunion, on n'écrit ni *la voiture dont j'en suis content ni *dont je suis content de la voiture.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u5-1",
       "title": "指示代词 + 关系从句：celui、celle、ceux、celles",
-      "body": "<p>celui、celle、ceux、celles 用来代替上文提到的名词，在同类对象中锁定具体对象。它们不能单独使用，后面通常接关系从句或 de 补语。</p><p>性数由所指名词决定：</p><ul><li>Celui qui est arrivé hier est mon frère.（昨天到的是我哥哥。）——阳性单数</li><li>Celle que je préfère est la bleue.（我更喜欢的是蓝色的那件。）——阴性单数</li><li>Ceux dont tu parles sont absents.（你谈到的那些人不在。）——阳性复数</li><li>Celles qui ont fini peuvent partir.（完成的那些女孩可以走了。）——阴性复数</li></ul><p>关系代词由从句缺什么决定，不由指示代词的形式决定：缺主语用 qui，缺直接宾语用 que，缺 de 补语用 dont，缺地点状语用 où。</p><ul><li>Celles où il y a un jardin sont très chères.（有花园的那些房子很贵。）</li></ul><p>注意：指示代词不能单独代替名词，必须有关系从句或 de 补语来限定。不要与中性代词 ce qui/ce que 混淆：后者指整件事，没有性数变化。关系从句中动词的数仍与先行词一致。</p>"
+      "body": "<p>celui、celle、ceux、celles 用来代替上文提到的名词，在同类对象中锁定具体对象。它们不能单独使用，后面通常接关系从句或 de 补语。</p><p>性数由所指名词决定：</p><ul><li>Celui qui est arrivé hier est mon frère.（昨天到的是我哥哥。）——阳性单数</li><li>Celle que je préfère est la bleue.（我更喜欢的是蓝色的那件。）——阴性单数</li><li>Ceux dont tu parles sont absents.（你谈到的那些人不在。）——阳性复数</li><li>Celles qui ont fini peuvent partir.（完成的那些女孩可以走了。）——阴性复数</li></ul><p>关系代词由从句缺什么决定，不由指示代词的形式决定：缺主语用 qui，缺直接宾语用 que，缺 de 补语用 dont，缺地点状语用 où。</p><ul><li>Celles où il y a un jardin sont très chères.（有花园的那些房子很贵。）</li></ul><p>注意：指示代词不能单独代替名词，必须有关系从句或 de 补语来限定。不要与中性代词 ce qui/ce que 混淆：后者指整件事，没有性数变化。关系从句中动词的数仍与先行词一致。</p>",
+      "locales": {
+        "fr": {
+          "title": "Démonstratif + relative : celui, celle, ceux, celles",
+          "body": "<p>celui, celle, ceux, celles remplacent un nom déjà mentionné et identifient un objet parmi des objets du même type. Ils ne s'emploient pas seuls : ils sont normalement suivis d'une relative ou d'un complément en de.</p><p>Le genre et le nombre dépendent du nom repris :</p><ul><li>Celui qui est arrivé hier est mon frère. — masculin singulier</li><li>Celle que je préfère est la bleue. — féminin singulier</li><li>Ceux dont tu parles sont absents. — masculin pluriel</li><li>Celles qui ont fini peuvent partir. — féminin pluriel</li></ul><p>Le pronom relatif dépend de ce qui manque dans la relative, non de la forme du démonstratif : qui pour le sujet, que pour le COD, dont pour le complément en de, où pour le complément de lieu.</p><ul><li>Celles où il y a un jardin sont très chères.</li></ul><p>Attention : le démonstratif ne remplace pas un nom seul ; il a besoin d'une relative ou d'un complément en de pour le déterminer. Ne le confondez pas avec les pronoms neutres ce qui/ce que, qui désignent une situation et ne varient pas. Dans la relative, le verbe s'accorde toujours avec l'antécédent.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u5-2",
       "title": "dont + 定冠词：处理「他的/她的」",
-      "body": "<p>当关系从句里用 son、sa、ses 或 leur、leurs 回指先行词时，合并成 dont 结构要把主有限定词换成定冠词，让 dont 充当名词补语。被修饰名词的性数不变，只换限定词。</p><ul><li>J'ai rencontré un homme. Son père est médecin. → J'ai rencontré un homme dont le père est médecin.（我遇到一个父亲是医生的男人。）</li><li>Je connais une élève. Sa mère est professeure. → Je connais une élève dont la mère est professeure.（我认识一个母亲是老师的女学生。）</li><li>Nous avons des voisins. Leurs enfants jouent ici. → Nous avons des voisins dont les enfants jouent ici.（我们有一些孩子在这里玩的邻居。）</li></ul><p>步骤：1）确认主有限定词回指的是先行词；2）把限定词换成定冠词 le/la/les；3）用 dont 引出整个名词补语。</p><p>注意：只有当限定词回指同一先行词时才能这样转换；如果主有限定词指的是别人，就不能改。原主有限定词不能保留：*un homme dont son père est médecin 错。dont 已含 de，也不能再写 de son père。</p>"
+      "body": "<p>当关系从句里用 son、sa、ses 或 leur、leurs 回指先行词时，合并成 dont 结构要把主有限定词换成定冠词，让 dont 充当名词补语。被修饰名词的性数不变，只换限定词。</p><ul><li>J'ai rencontré un homme. Son père est médecin. → J'ai rencontré un homme dont le père est médecin.（我遇到一个父亲是医生的男人。）</li><li>Je connais une élève. Sa mère est professeure. → Je connais une élève dont la mère est professeure.（我认识一个母亲是老师的女学生。）</li><li>Nous avons des voisins. Leurs enfants jouent ici. → Nous avons des voisins dont les enfants jouent ici.（我们有一些孩子在这里玩的邻居。）</li></ul><p>步骤：1）确认主有限定词回指的是先行词；2）把限定词换成定冠词 le/la/les；3）用 dont 引出整个名词补语。</p><p>注意：只有当限定词回指同一先行词时才能这样转换；如果主有限定词指的是别人，就不能改。原主有限定词不能保留：*un homme dont son père est médecin 错。dont 已含 de，也不能再写 de son père。</p>",
+      "locales": {
+        "fr": {
+          "title": "dont + article défini : traiter « son, sa, ses »",
+          "body": "<p>Quand la relative reprend l'antécédent avec son, sa, ses ou leur, leurs, la réunion en dont impose de remplacer le possessif par l'article défini : dont devient complément du nom. Le genre et le nombre du nom déterminé ne changent pas ; seul le déterminant change.</p><ul><li>J'ai rencontré un homme. Son père est médecin. → J'ai rencontré un homme dont le père est médecin.</li><li>Je connais une élève. Sa mère est professeure. → Je connais une élève dont la mère est professeure.</li><li>Nous avons des voisins. Leurs enfants jouent ici. → Nous avons des voisins dont les enfants jouent ici.</li></ul><p>Étapes : 1) vérifiez que le possessif reprend l'antécédent ; 2) remplacez-le par l'article défini le/la/les ; 3) introduisez tout le complément du nom avec dont.</p><p>Attention : cette transformation ne vaut que si le possessif renvoie au même antécédent ; s'il renvoie à quelqu'un d'autre, on ne peut pas la faire. On ne garde pas le possessif d'origine : *un homme dont son père est médecin est fautif. « dont » contient déjà de : on n'écrit pas non plus de son père.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u5-3",
       "title": "que + 过去分词配合：avoir 复合时态",
-      "body": "<p>在 avoir 作助动词的复合时态里，如果关系代词 que 所指的先行词是从句动词的直接宾语，并且这个宾语位于助动词之前，过去分词就要与先行词作性数配合。</p><ul><li>Les lettres que j'ai écrites sont longues.（我写的那些信很长。）——écrites 阴性复数</li><li>La décision que tu as prise est difficile.（你做出的决定很艰难。）——prise 阴性单数</li><li>Les films que nous avons vus étaient bons.（我们看过的电影很好。）——vus 阳性复数</li><li>Le livre que j'ai lu est intéressant.（我读过的那本书很有趣。）——阳性单数，词尾不变</li></ul><p>判断步骤：1）找 que 的先行词；2）确认从句动词是及物动词，que 作它的直接宾语；3）看助动词是不是 avoir；4）按先行词的性数给过去分词加 -e/-s/-es。</p><p>注意：这条只管 avoir 助动词。être 助动词的分词按主语配合，不用这条规则。que 作间接宾语时不触发配合；从句缺主语时应该用 qui，也不能套用这条前置宾语配合。不要看到 que 就机械加 -e。</p>"
+      "body": "<p>在 avoir 作助动词的复合时态里，如果关系代词 que 所指的先行词是从句动词的直接宾语，并且这个宾语位于助动词之前，过去分词就要与先行词作性数配合。</p><ul><li>Les lettres que j'ai écrites sont longues.（我写的那些信很长。）——écrites 阴性复数</li><li>La décision que tu as prise est difficile.（你做出的决定很艰难。）——prise 阴性单数</li><li>Les films que nous avons vus étaient bons.（我们看过的电影很好。）——vus 阳性复数</li><li>Le livre que j'ai lu est intéressant.（我读过的那本书很有趣。）——阳性单数，词尾不变</li></ul><p>判断步骤：1）找 que 的先行词；2）确认从句动词是及物动词，que 作它的直接宾语；3）看助动词是不是 avoir；4）按先行词的性数给过去分词加 -e/-s/-es。</p><p>注意：这条只管 avoir 助动词。être 助动词的分词按主语配合，不用这条规则。que 作间接宾语时不触发配合；从句缺主语时应该用 qui，也不能套用这条前置宾语配合。不要看到 que 就机械加 -e。</p>",
+      "locales": {
+        "fr": {
+          "title": "que + accord du participe passé : temps composés avec avoir",
+          "body": "<p>Dans un temps composé avec l'auxiliaire avoir, si l'antécédent du pronom relatif que est le complément d'objet direct du verbe de la relative et que cet objet est placé avant l'auxiliaire, le participe passé s'accorde en genre et en nombre avec l'antécédent.</p><ul><li>Les lettres que j'ai écrites sont longues. — écrites, féminin pluriel</li><li>La décision que tu as prise est difficile. — prise, féminin singulier</li><li>Les films que nous avons vus étaient bons. — vus, masculin pluriel</li><li>Le livre que j'ai lu est intéressant. — masculin singulier, terminaison inchangée</li></ul><p>Étapes : 1) trouvez l'antécédent de que ; 2) vérifiez que le verbe de la relative est transitif et que que est son COD ; 3) regardez si l'auxiliaire est avoir ; 4) ajoutez -e/-s/-es au participe selon le genre et le nombre de l'antécédent.</p><p>Attention : cette règle ne concerne que l'auxiliaire avoir. Avec être, le participe s'accorde avec le sujet, sans passer par cette règle. « que » complément d'objet indirect ne déclenche pas l'accord ; si la relative manque de sujet, il faut qui, et l'accord de l'objet direct antéposé ne s'applique pas. N'ajoutez pas -e mécaniquement dès que vous voyez que.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u5-4",
       "title": "现在分词替代 qui 关系从句（识别）",
-      "body": "<p>现在分词（-ant 形式）可以替代由 qui 引导的关系从句，表示主动或与主句同时进行的动作。替代后，先行词在语义上就是现在分词的逻辑主语。</p><ul><li>Les élèves travaillant sérieusement réussiront.（用功的学生会成功。）= Les élèves qui travaillent sérieusement réussiront.</li><li>J'ai vu une femme portant un chapeau rouge.（我看见一位戴红帽子的女士。）= ... qui portait un chapeau rouge.</li><li>Les enfants courant dans le jardin rient.（在花园里跑的孩子们在笑。）= Les enfants qui courent dans le jardin rient.</li></ul><p>识别要点：</p><ul><li>现在分词表达主动、同时进行的动作；不表示先于主句完成的动作。</li><li>先行词必须是现在分词的逻辑主语；如果不是，就不能这样替换。</li><li>现在分词作定语与副动词不同：副动词是 en + -ant，修饰主句动词，如 Il répond en souriant.（他微笑着回答。）</li></ul><p>注意：表示被动或已完成的动作时，不能用现在分词替代关系从句。</p>"
+      "body": "<p>现在分词（-ant 形式）可以替代由 qui 引导的关系从句，表示主动或与主句同时进行的动作。替代后，先行词在语义上就是现在分词的逻辑主语。</p><ul><li>Les élèves travaillant sérieusement réussiront.（用功的学生会成功。）= Les élèves qui travaillent sérieusement réussiront.</li><li>J'ai vu une femme portant un chapeau rouge.（我看见一位戴红帽子的女士。）= ... qui portait un chapeau rouge.</li><li>Les enfants courant dans le jardin rient.（在花园里跑的孩子们在笑。）= Les enfants qui courent dans le jardin rient.</li></ul><p>识别要点：</p><ul><li>现在分词表达主动、同时进行的动作；不表示先于主句完成的动作。</li><li>先行词必须是现在分词的逻辑主语；如果不是，就不能这样替换。</li><li>现在分词作定语与副动词不同：副动词是 en + -ant，修饰主句动词，如 Il répond en souriant.（他微笑着回答。）</li></ul><p>注意：表示被动或已完成的动作时，不能用现在分词替代关系从句。</p>",
+      "locales": {
+        "fr": {
+          "title": "Le participe présent remplace une relative en qui (reconnaissance)",
+          "body": "<p>Le participe présent (forme en -ant) peut remplacer une relative introduite par qui, pour une action active ou simultanée à celle de la principale. Après remplacement, l'antécédent est le sujet logique du participe présent.</p><ul><li>Les élèves travaillant sérieusement réussiront. = Les élèves qui travaillent sérieusement réussiront.</li><li>J'ai vu une femme portant un chapeau rouge. = ... « qui » portait un chapeau rouge.</li><li>Les enfants courant dans le jardin rient. = Les enfants qui courent dans le jardin rient.</li></ul><p>Points de reconnaissance :</p><ul><li>Le participe présent exprime une action active et simultanée ; il n'exprime pas une action achevée avant la principale.</li><li>L'antécédent doit être le sujet logique du participe présent ; sinon, le remplacement est impossible.</li><li>Le participe présent épithète diffère du gérondif : le gérondif est en + -ant et modifie le verbe de la principale, comme Il répond en souriant.</li></ul><p>Attention : pour une action passive ou achevée, on ne peut pas remplacer la relative par un participe présent.</p>"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-card-u5-5",
       "title": "综合判断：关系代词选择的五步",
-      "body": "<p>面对一个较长的句子，关系代词不能只凭一个关键词决定。按以下顺序检查：</p><ol><li>找先行词，确定性和数。</li><li>看关系从句缺什么成分：主语、直接宾语、de 补语、地点或时间状语，还是带介词的间接成分。</li><li>看动词或形容词的固定搭配：avoir besoin de、parler de、être fier de 等会要求 dont；penser à、aller à 等会要求 à + 关系代词。</li><li>处理形式：à + lequel 缩合为 auquel/auxquels/auxquelles；de + lequel 缩合为 duquel/desquels/desquelles；ce que 在元音前省音为 ce qu'。</li><li>检查配合：avoir 复合时态中，que 指前置直接宾语时过去分词要配合。</li></ol><p>例：</p><ul><li>La décision que nous avons prise concerne les projets dont tu parles.（我们做出的决定涉及你谈到的那些项目。）——que 作 prendre 的直接宾语，prise 阴性单数配合；parler de → dont。</li><li>Les personnes avec qui je travaille et dont les bureaux sont au deuxième étage sont celles que je vois tous les jours.（和我一起工作、办公室在二楼的那些人，是我每天见到的人。）——指人介词后用 qui；主有限定词回指先行词时用 dont + 定冠词；句末 celles 是指示代词，由 que 引出关系从句。</li></ul><p>注意：先把关系从句与其他类型的从句区分开，再判断缺什么成分。综合判断可能同时涉及性数、介词和缩合，不能只凭一个关键词定案。</p>"
+      "body": "<p>面对一个较长的句子，关系代词不能只凭一个关键词决定。按以下顺序检查：</p><ol><li>找先行词，确定性和数。</li><li>看关系从句缺什么成分：主语、直接宾语、de 补语、地点或时间状语，还是带介词的间接成分。</li><li>看动词或形容词的固定搭配：avoir besoin de、parler de、être fier de 等会要求 dont；penser à、aller à 等会要求 à + 关系代词。</li><li>处理形式：à + lequel 缩合为 auquel/auxquels/auxquelles；de + lequel 缩合为 duquel/desquels/desquelles；ce que 在元音前省音为 ce qu'。</li><li>检查配合：avoir 复合时态中，que 指前置直接宾语时过去分词要配合。</li></ol><p>例：</p><ul><li>La décision que nous avons prise concerne les projets dont tu parles.（我们做出的决定涉及你谈到的那些项目。）——que 作 prendre 的直接宾语，prise 阴性单数配合；parler de → dont。</li><li>Les personnes avec qui je travaille et dont les bureaux sont au deuxième étage sont celles que je vois tous les jours.（和我一起工作、办公室在二楼的那些人，是我每天见到的人。）——指人介词后用 qui；主有限定词回指先行词时用 dont + 定冠词；句末 celles 是指示代词，由 que 引出关系从句。</li></ul><p>注意：先把关系从句与其他类型的从句区分开，再判断缺什么成分。综合判断可能同时涉及性数、介词和缩合，不能只凭一个关键词定案。</p>",
+      "locales": {
+        "fr": {
+          "title": "Synthèse : cinq étapes pour choisir le pronom relatif",
+          "body": "<p>Dans une phrase longue, on ne choisit pas le pronom relatif à partir d'un seul mot-clé. Procédez dans cet ordre :</p><ol><li>Trouvez l'antécédent et déterminez son genre et son nombre.</li><li>Regardez ce qui manque dans la relative : sujet, complément d'objet direct, complément en de, complément de lieu ou de temps, ou complément indirect avec préposition.</li><li>Regardez la construction du verbe ou de l'adjectif : avoir besoin de, parler de, être fier de, etc. appellent dont ; penser à, aller à, etc. appellent à + pronom relatif.</li><li>Traitez la forme : à + lequel se contracte en auquel/auxquels/auxquelles ; de + lequel en duquel/desquels/desquelles ; ce que s'élide en ce qu' devant une voyelle.</li><li>Vérifiez les accords : dans un temps composé avec avoir, le participe s'accorde avec le COD antéposé que.</li></ol><p>Exemples :</p><ul><li>La décision que nous avons prise concerne les projets dont tu parles. — que est COD de prendre, prise s'accorde au féminin singulier ; parler de → dont.</li><li>Les personnes avec qui je travaille et dont les bureaux sont au deuxième étage sont celles que je vois tous les jours. — après une préposition et pour une personne, qui ; le possessif qui reprend l'antécédent devient dont + article défini ; celles est un démonstratif déterminé par la relative en que.</li></ul><p>Attention : distinguez d'abord la relative des autres types de subordonnées, puis regardez ce qui manque. Une synthèse peut combiner genre, nombre, préposition et contraction : ne tranchez pas à partir d'un seul mot-clé.</p>"
+        }
+      }
     }
   ],
   "lessons": [
@@ -128,7 +254,12 @@
           ],
           "answer": 2,
           "translation": "在这里工作了十年的那位图书管理员非常和善。",
-          "explain": "关系从句 travaille ici 缺主语，先行词 la bibliothécaire 指人，用 qui。que 需要在从句中作直接宾语，dont 替代 de 补语，où 代替地点或时间状语，都不符合。"
+          "explain": "关系从句 travaille ici 缺主语，先行词 la bibliothécaire 指人，用 qui。que 需要在从句中作直接宾语，dont 替代 de 补语，où 代替地点或时间状语，都不符合。",
+          "locales": {
+            "fr": {
+              "explain": "La relative travaille ici manque de sujet ; l'antécédent la bibliothécaire désigne une personne, donc on emploie qui. « que » devrait être COD dans la relative, dont remplacerait un complément en de, et où un complément de lieu ou de temps : aucun ne convient."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q2",
@@ -142,7 +273,12 @@
           ],
           "answer": 1,
           "translation": "在这部电影里演出的那位演员很有名。/ 他写的那部剧很精彩。",
-          "explain": "第一句从句 joue 缺主语，用 qui；第二句 écrite 的直接宾语是 la pièce，从句缺直接宾语，用 que，元音前省音为 qu'。其余组合都把主语和宾语位置弄反了。"
+          "explain": "第一句从句 joue 缺主语，用 qui；第二句 écrite 的直接宾语是 la pièce，从句缺直接宾语，用 que，元音前省音为 qu'。其余组合都把主语和宾语位置弄反了。",
+          "locales": {
+            "fr": {
+              "explain": "Dans la première phrase, joue manque de sujet : qui. Dans la seconde, écrite a pour COD la pièce : la relative manque de COD, donc que, élidé en qu' devant une voyelle. Les autres combinaisons inversent la fonction sujet/objet."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q3",
@@ -174,7 +310,12 @@
             "ce"
           ],
           "translation": "我认识一位会说五种语言的向导。",
-          "explain": "两句共同的名词是 un guide；第二句 Ce guide parle... 缺主语，所以用 qui，动词 parle 与单数先行词一致。que 要求从句缺直接宾语，dont 要求 de 补语，parlent 是复数形式，均不合适。"
+          "explain": "两句共同的名词是 un guide；第二句 Ce guide parle... 缺主语，所以用 qui，动词 parle 与单数先行词一致。que 要求从句缺直接宾语，dont 要求 de 补语，parlent 是复数形式，均不合适。",
+          "locales": {
+            "fr": {
+              "explain": "Le nom commun aux deux phrases est un guide ; la seconde, Ce guide parle..., manque de sujet, donc on emploie qui, et le verbe parle s'accorde avec l'antécédent singulier. « que » exigerait un COD manquant, dont un complément en de, parlent est pluriel, et où un complément de lieu ou de temps."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q4",
@@ -188,7 +329,12 @@
           ],
           "answer": 3,
           "translation": "在院子里玩的孩子们是我的表兄弟。",
-          "explain": "qui 作主语时，动词的人称和数由先行词决定。先行词 les enfants 是第三人称复数，jouer 的现在时用 jouent。joue 是单数，jouons 是 nous 的形式，jouer 是不定式。"
+          "explain": "qui 作主语时，动词的人称和数由先行词决定。先行词 les enfants 是第三人称复数，jouer 的现在时用 jouent。joue 是单数，jouons 是 nous 的形式，jouer 是不定式。",
+          "locales": {
+            "fr": {
+              "explain": "Quand qui est sujet, la personne et le nombre du verbe dépendent de l'antécédent. L'antécédent les enfants est à la troisième personne du pluriel : jouer au présent donne jouent. joue est singulier, jouons la forme de nous, et jouer l'infinitif."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q5",
@@ -202,7 +348,12 @@
             "z"
           ],
           "translation": "在这个花园里生长的花是玫瑰。",
-          "explain": "先行词 les fleurs 是阴性复数，qui 后的动词要用第三人称复数：poussent。词尾是 -ent，不是单数 -e，也不要与不定式 pousser 混淆。"
+          "explain": "先行词 les fleurs 是阴性复数，qui 后的动词要用第三人称复数：poussent。词尾是 -ent，不是单数 -e，也不要与不定式 pousser 混淆。",
+          "locales": {
+            "fr": {
+              "explain": "L'antécédent les fleurs est féminin pluriel : le verbe après qui se met à la troisième personne du pluriel, poussent. La terminaison est -ent, non le -e du singulier ; ne la confondez pas avec l'infinitif pousser."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q6",
@@ -216,7 +367,12 @@
           ],
           "answer": 0,
           "translation": "是你有理。",
-          "explain": "qui 本身没有性数，动词要与先行词 toi 一致，相当于第二人称单数：tu as。avons 是 nous 的形式，ont 是 ils/elles 的形式，a 是 il/elle 的形式。"
+          "explain": "qui 本身没有性数，动词要与先行词 toi 一致，相当于第二人称单数：tu as。avons 是 nous 的形式，ont 是 ils/elles 的形式，a 是 il/elle 的形式。",
+          "locales": {
+            "fr": {
+              "explain": "qui ne porte ni genre ni nombre ; le verbe s'accorde avec l'antécédent toi, soit la deuxième personne du singulier : tu as, donc as. avons est la forme de nous, ont celle de ils/elles, et a celle de il/elle."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q7",
@@ -230,7 +386,13 @@
           ],
           "answer": 2,
           "translation": "正在唱歌的那位女士是我的老师。",
-          "explain": "从句 chante 缺主语，先行词 la femme 指人，用 qui。que 要作直接宾语，dont 代替 de 补语，où 代替地点或时间状语。"
+          "explain": "从句 chante 缺主语，先行词 la femme 指人，用 qui。que 要作直接宾语，dont 代替 de 补语，où 代替地点或时间状语。",
+          "locales": {
+            "fr": {
+              "prompt": "Quelle phrase correspond à « la femme en train de chanter est mon professeur » ?",
+              "explain": "La relative chante manque de sujet ; l'antécédent la femme désigne une personne, donc on emploie qui. « que » doit être COD, dont remplace un complément en de, et où un complément de lieu ou de temps."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q8",
@@ -260,9 +422,19 @@
             "où"
           ],
           "translation": "我有一个修自行车的邻居。",
-          "explain": "第二句 Il répare des vélos 的主语 il 回指 un voisin，合并时删去 il，用 qui 连接；répare 保持第三人称单数。"
+          "explain": "第二句 Il répare des vélos 的主语 il 回指 un voisin，合并时删去 il，用 qui 连接；répare 保持第三人称单数。",
+          "locales": {
+            "fr": {
+              "explain": "Dans la seconde phrase, le sujet il reprend un voisin ; à la réunion, on supprime il et on relie avec qui, tandis que répare reste à la troisième personne du singulier."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "qui et que (1)"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-l1-2",
@@ -296,7 +468,12 @@
             "où"
           ],
           "translation": "这就是你找的那把钥匙。",
-          "explain": "从句 Tu cherches cette clé 缺直接宾语 cette clé，用 que 替代并放到先行词 la clé 后；tu 保留，cherches 与 tu 一致。"
+          "explain": "从句 Tu cherches cette clé 缺直接宾语 cette clé，用 que 替代并放到先行词 la clé 后；tu 保留，cherches 与 tu 一致。",
+          "locales": {
+            "fr": {
+              "explain": "La relative Tu cherches cette clé manque du COD cette clé ; on emploie que pour le remplacer après l'antécédent la clé, tu est conservé, et cherches s'accorde avec tu."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q10",
@@ -310,7 +487,12 @@
           ],
           "answer": 1,
           "translation": "我们昨天看的那部电影很精彩。",
-          "explain": "从句 nous avons regardé 缺直接宾语，先行词 le film 指物，用 que。qui 要作主语，dont 代替 de 补语，où 代替地点或时间状语。"
+          "explain": "从句 nous avons regardé 缺直接宾语，先行词 le film 指物，用 que。qui 要作主语，dont 代替 de 补语，où 代替地点或时间状语。",
+          "locales": {
+            "fr": {
+              "explain": "La relative nous avons regardé manque d'un COD ; l'antécédent le film désigne une chose, donc que. « qui » serait sujet, dont remplacerait un complément en de, et où un complément de lieu ou de temps."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q11",
@@ -324,7 +506,12 @@
           ],
           "answer": 3,
           "translation": "正在说话的那个人是我姐姐。",
-          "explain": "从句 parle 缺主语，用 qui，qui 后直接跟动词，不能再加主语代词 elle。que 要作直接宾语，dont 要替代 de 补语。"
+          "explain": "从句 parle 缺主语，用 qui，qui 后直接跟动词，不能再加主语代词 elle。que 要作直接宾语，dont 要替代 de 补语。",
+          "locales": {
+            "fr": {
+              "explain": "La relative parle manque de sujet : qui, suivi directement du verbe, sans ajouter le pronom sujet elle. « que » doit être COD et dont remplacer un complément en de."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q12",
@@ -338,7 +525,12 @@
           ],
           "answer": 0,
           "translation": "他选的那首歌非常古老。",
-          "explain": "从句 il a choisie 缺直接宾语，先行词 la chanson 是阴性单数，用 que；que 在元音 i 前省音为 qu'。过去分词 choisie 与前置直接宾语 la chanson 配合。qui 不能作直接宾语，dont 代替 de 补语。"
+          "explain": "从句 il a choisie 缺直接宾语，先行词 la chanson 是阴性单数，用 que；que 在元音 i 前省音为 qu'。过去分词 choisie 与前置直接宾语 la chanson 配合。qui 不能作直接宾语，dont 代替 de 补语。",
+          "locales": {
+            "fr": {
+              "explain": "La relative il a choisie manque d'un COD ; l'antécédent la chanson est féminin singulier, donc que, élidé en qu' devant la voyelle i. Le participe choisie s'accorde avec le COD antéposé la chanson. « qui » ne peut pas être COD, et dont remplace un complément en de."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q13",
@@ -352,7 +544,12 @@
           ],
           "answer": 1,
           "translation": "我们做的那些练习很难。",
-          "explain": "从句 nous avons faits 缺直接宾语，用 que；faits 与前置直接宾语 les exercices（阳性复数）配合。qui 要作主语，dont 要替代 de 补语。"
+          "explain": "从句 nous avons faits 缺直接宾语，用 que；faits 与前置直接宾语 les exercices（阳性复数）配合。qui 要作主语，dont 要替代 de 补语。",
+          "locales": {
+            "fr": {
+              "explain": "La relative nous avons faits manque d'un COD : que, et faits s'accorde avec le COD antéposé les exercices, masculin pluriel. « qui » serait sujet, et dont remplacerait un complément en de."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q14",
@@ -384,7 +581,12 @@
             "ces"
           ],
           "translation": "我找到了你弄丢的那些照片。",
-          "explain": "从句 Tu avais perdu ces photos 缺直接宾语，用 que。助动词是 avoir，前置直接宾语 les photos 是阴性复数，过去分词要配合：perdues。"
+          "explain": "从句 Tu avais perdu ces photos 缺直接宾语，用 que。助动词是 avoir，前置直接宾语 les photos 是阴性复数，过去分词要配合：perdues。",
+          "locales": {
+            "fr": {
+              "explain": "La relative Tu avais perdu ces photos manque d'un COD : que. L'auxiliaire est avoir, et le COD antéposé les photos est féminin pluriel, donc le participe s'accorde en perdues."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q15",
@@ -398,7 +600,12 @@
             "i"
           ],
           "translation": "我昨天做的那些馅饼很好吃。",
-          "explain": "que 所指的 les tartes 是从句动词 faire 的直接宾语，位于 avoir 助动词之前，过去分词要与它作阴性复数配合：faites。若没有前置直接宾语，则写 fait；faite 是阴性单数。"
+          "explain": "que 所指的 les tartes 是从句动词 faire 的直接宾语，位于 avoir 助动词之前，过去分词要与它作阴性复数配合：faites。若没有前置直接宾语，则写 fait；faite 是阴性单数。",
+          "locales": {
+            "fr": {
+              "explain": "L'antécédent de que, les tartes, est le COD de faire dans la relative et se place avant l'auxiliaire avoir : le participe s'accorde au féminin pluriel, faites. Sans COD antéposé, on écrirait fait ; faite est le féminin singulier."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q16",
@@ -412,9 +619,19 @@
           ],
           "answer": 2,
           "translation": "指出关系代词 que 所替代的成分。",
-          "explain": "que 是关系代词，代替先行词 le sac，并在从句中作 acheter 的直接宾语；Marie 是从句主语，不参与替代。"
+          "explain": "que 是关系代词，代替先行词 le sac，并在从句中作 acheter 的直接宾语；Marie 是从句主语，不参与替代。",
+          "locales": {
+            "fr": {
+              "explain": "que est le pronom relatif qui remplace l'antécédent le sac et occupe la fonction de COD d'acheter dans la relative ; Marie est le sujet de la relative et n'est pas remplacée."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "qui et que (2)"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-l1-3",
@@ -452,7 +669,12 @@
             "lise"
           ],
           "translation": "我在读你借给我的那本小说。",
-          "explain": "两句共同的名词是 le roman；第二句 ce roman 是 prêter 的直接宾语，用 que 替代并前置。从句主语是 tu，过去分词 prêté 与阳性单数先行词形式相同，不需要额外变化。"
+          "explain": "两句共同的名词是 le roman；第二句 ce roman 是 prêter 的直接宾语，用 que 替代并前置。从句主语是 tu，过去分词 prêté 与阳性单数先行词形式相同，不需要额外变化。",
+          "locales": {
+            "fr": {
+              "explain": "Le nom commun est le roman ; dans la seconde phrase, ce roman est le COD de prêter, donc on emploie que pour le remplacer et le placer après l'antécédent. Le sujet de la relative est tu ; le participe prêté a la même forme au masculin singulier que l'antécédent et n'a pas besoin de marque supplémentaire."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q18",
@@ -466,7 +688,12 @@
           ],
           "answer": 3,
           "translation": "我认识你邀请的那位女孩。",
-          "explain": "从句 Tu as invité cette fille 缺直接宾语，用 que 替代；que 所指 la fille 是阴性单数，且位于 avoir 助动词前，过去分词配合为 invitée。"
+          "explain": "从句 Tu as invité cette fille 缺直接宾语，用 que 替代；que 所指 la fille 是阴性单数，且位于 avoir 助动词前，过去分词配合为 invitée。",
+          "locales": {
+            "fr": {
+              "explain": "La relative Tu as invité cette fille manque d'un COD : que. L'antécédent la fille est féminin singulier et se place avant l'auxiliaire avoir, donc le participe s'accorde en invitée."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q19",
@@ -480,7 +707,12 @@
           ],
           "answer": 0,
           "translation": "这是一个让我们很担心的问题。",
-          "explain": "从句 nous préoccupe 缺主语，先行词 un problème 指物，用 qui。que 要作直接宾语；若用 que，句子会变成「我们使问题担心」，逻辑和句法都不对。"
+          "explain": "从句 nous préoccupe 缺主语，先行词 un problème 指物，用 qui。que 要作直接宾语；若用 que，句子会变成「我们使问题担心」，逻辑和句法都不对。",
+          "locales": {
+            "fr": {
+              "explain": "La relative nous préoccupe manque de sujet ; l'antécédent un problème désigne une chose, donc qui. « que » serait COD : avec que, la phrase dirait que « nous faisons craindre le problème », ce qui ne convient ni au sens ni à la syntaxe."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q20",
@@ -510,7 +742,12 @@
             "prenaient"
           ],
           "translation": "这些就是我拍的照片。",
-          "explain": "从句 J'ai pris ces photos 缺直接宾语，用 que；que 所指 les photos 是阴性复数，位于 avoir 助动词前，过去分词写成 prises。"
+          "explain": "从句 J'ai pris ces photos 缺直接宾语，用 que；que 所指 les photos 是阴性复数，位于 avoir 助动词前，过去分词写成 prises。",
+          "locales": {
+            "fr": {
+              "explain": "La relative J'ai pris ces photos manque d'un COD : que. L'antécédent les photos est féminin pluriel et se place avant l'auxiliaire avoir, donc le participe s'écrit prises."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q21",
@@ -524,7 +761,12 @@
           ],
           "answer": 1,
           "translation": "我昨天遇到的那些人很友好。",
-          "explain": "ceux 是阳性复数指示代词，指人；从句 j'ai rencontrés 缺直接宾语，用 que。que 所指 ceux 是复数，位于 avoir 助动词前，过去分词加 -s：rencontrés。"
+          "explain": "ceux 是阳性复数指示代词，指人；从句 j'ai rencontrés 缺直接宾语，用 que。que 所指 ceux 是复数，位于 avoir 助动词前，过去分词加 -s：rencontrés。",
+          "locales": {
+            "fr": {
+              "explain": "ceux est un démonstratif masculin pluriel qui désigne des personnes ; la relative j'ai rencontrés manque d'un COD, donc que. L'antécédent ceux est pluriel et se place avant l'auxiliaire avoir, donc le participe prend -s : rencontrés."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q22",
@@ -557,7 +799,12 @@
             "appelé"
           ],
           "translation": "昨晚打电话的是孩子们。",
-          "explain": "强调复数主语用 ce sont + 主语 + qui；qui 后的动词与 les enfants 一致，用 ont téléphoné。若主语是单数，才用 c'est ... qui。"
+          "explain": "强调复数主语用 ce sont + 主语 + qui；qui 后的动词与 les enfants 一致，用 ont téléphoné。若主语是单数，才用 c'est ... qui。",
+          "locales": {
+            "fr": {
+              "explain": "Pour mettre un sujet pluriel en relief, on emploie ce sont + sujet + qui ; le verbe après qui s'accorde avec les enfants : ont téléphoné. On n'emploie c'est... « qui » que si le sujet est singulier."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q23",
@@ -587,7 +834,12 @@
             "la"
           ],
           "translation": "他昨天写的是这封信。",
-          "explain": "强调直接宾语 cette lettre 用 c'est ... que；que 在 il 前省音为 qu'。lettre 是阴性单数，且是 avoir 复合时态的前置直接宾语，过去分词配合为 écrite。"
+          "explain": "强调直接宾语 cette lettre 用 c'est ... que；que 在 il 前省音为 qu'。lettre 是阴性单数，且是 avoir 复合时态的前置直接宾语，过去分词配合为 écrite。",
+          "locales": {
+            "fr": {
+              "explain": "Pour mettre le COD cette lettre en relief, on emploie c'est... « que » ; que s'élide en qu' devant il. lettre est féminin singulier et constitue le COD antéposé du temps composé avec avoir, donc le participe s'accorde en écrite."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q24",
@@ -601,9 +853,19 @@
           ],
           "answer": 2,
           "translation": "是玛丽准备了晚餐。",
-          "explain": "强调主语 Marie 用 c'est ... qui；que 在 a 前应省音为 qu'，但这里需要的是主语关系代词 qui，所以不能写成 que/qu'。dont 替代 de 补语，也不合适。"
+          "explain": "强调主语 Marie 用 c'est ... qui；que 在 a 前应省音为 qu'，但这里需要的是主语关系代词 qui，所以不能写成 que/qu'。dont 替代 de 补语，也不合适。",
+          "locales": {
+            "fr": {
+              "explain": "Pour mettre le sujet Marie en relief, on emploie c'est... « qui » ; que s'éliderait en qu' devant a, mais il faut ici le pronom sujet qui, donc on n'écrit ni que ni qu'. « dont » remplacerait un complément en de et ne convient pas."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "qui et que (3)"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-l1-4",
@@ -623,7 +885,12 @@
           ],
           "answer": 3,
           "translation": "桌上的那个工具是我父亲的。",
-          "explain": "从句 est sur la table 缺主语，先行词 l'outil 指物，用 qui。que 要作直接宾语，dont 要替代 de 补语，où 要作地点或时间状语。"
+          "explain": "从句 est sur la table 缺主语，先行词 l'outil 指物，用 qui。que 要作直接宾语，dont 要替代 de 补语，où 要作地点或时间状语。",
+          "locales": {
+            "fr": {
+              "explain": "La relative est sur la table manque de sujet ; l'antécédent l'outil désigne une chose, donc qui. « que » serait COD, dont remplacerait un complément en de, et où serait complément de lieu ou de temps."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q26",
@@ -637,7 +904,12 @@
             "i"
           ],
           "translation": "饿了的孩子们吃得很快。",
-          "explain": "先行词 les enfants 是第三人称复数，qui 后的 avoir 要用 ont。a 是第三人称单数，不要按靠近的名词 faim 误判。"
+          "explain": "先行词 les enfants 是第三人称复数，qui 后的 avoir 要用 ont。a 是第三人称单数，不要按靠近的名词 faim 误判。",
+          "locales": {
+            "fr": {
+              "explain": "L'antécédent les enfants est à la troisième personne du pluriel : avoir après qui se met à la forme ont. a est la troisième personne du singulier ; ne vous laissez pas tromper par le nom faim qui suit."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q27",
@@ -651,7 +923,12 @@
           ],
           "answer": 0,
           "translation": "我遇到了那位经营这家公司、并且大家都因她的和善而敬佩的女性。",
-          "explain": "第一个从句 dirige l'entreprise 缺主语，用 qui；第二个从句 tout le monde admire ... pour sa gentillesse 缺直接宾语，用 que。pour sa gentillesse 明确第二个从句修饰 la femme，不会误指 l'entreprise；两个关系代词的先行词都是 la femme，但句法角色不同。"
+          "explain": "第一个从句 dirige l'entreprise 缺主语，用 qui；第二个从句 tout le monde admire ... pour sa gentillesse 缺直接宾语，用 que。pour sa gentillesse 明确第二个从句修饰 la femme，不会误指 l'entreprise；两个关系代词的先行词都是 la femme，但句法角色不同。",
+          "locales": {
+            "fr": {
+              "explain": "La première relative dirige l'entreprise manque de sujet : qui. La seconde, tout le monde admire... pour sa gentillesse, manque d'un COD : que. Le complément pour sa gentillesse montre que la seconde relative détermine bien la femme et non l'entreprise ; les deux pronoms ont le même antécédent la femme, mais des fonctions différentes."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q28",
@@ -679,7 +956,12 @@
             "dont"
           ],
           "translation": "学习好的学生成功。→ 学习好的学生们成功。",
-          "explain": "主语和先行词都变复数：les élèves；qui 不变，但后面两个动词都要用第三人称复数 travaillent、réussissent。qui 本身没有数，配合体现在动词上。"
+          "explain": "主语和先行词都变复数：les élèves；qui 不变，但后面两个动词都要用第三人称复数 travaillent、réussissent。qui 本身没有数，配合体现在动词上。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet et l'antécédent passent au pluriel : les élèves ; qui ne change pas, mais les deux verbes qui suivent se mettent à la troisième personne du pluriel, travaillent et réussissent. « qui » n'a pas de nombre propre : l'accord se voit sur le verbe."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q29",
@@ -708,7 +990,12 @@
             "préparée"
           ],
           "translation": "是我准备了晚餐。",
-          "explain": "强调主语 je 时用重读代词 moi：c'est moi qui ...。qui 后的动词仍与主语一致，用第一人称单数 ai préparé；不能保留主语 je，也不能用只作直接宾语的 que。"
+          "explain": "强调主语 je 时用重读代词 moi：c'est moi qui ...。qui 后的动词仍与主语一致，用第一人称单数 ai préparé；不能保留主语 je，也不能用只作直接宾语的 que。",
+          "locales": {
+            "fr": {
+              "explain": "Pour mettre le sujet je en relief, on emploie le pronom tonique moi : c'est moi qui... Le verbe après qui s'accorde avec le sujet, à la première personne du singulier : ai préparé. On ne garde pas le sujet je, et que, réservé au COD, ne convient pas."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q30",
@@ -735,7 +1022,12 @@
             "pris"
           ],
           "translation": "他作出的是这个决定。",
-          "explain": "强调直接宾语 cette décision 用 c'est ... que；que 在 il 前省音为 qu'。décision 是阴性单数，且是从句动词 prendre 的直接宾语、位于 avoir 之前，过去分词要配合为 prise；pris 是阳性单数形式。"
+          "explain": "强调直接宾语 cette décision 用 c'est ... que；que 在 il 前省音为 qu'。décision 是阴性单数，且是从句动词 prendre 的直接宾语、位于 avoir 之前，过去分词要配合为 prise；pris 是阳性单数形式。",
+          "locales": {
+            "fr": {
+              "explain": "Pour mettre le COD cette décision en relief, on emploie c'est... « que » ; que s'élide en qu' devant il. décision est féminin singulier, COD de prendre placé avant l'auxiliaire avoir, donc le participe s'accorde en prise ; pris est la forme masculine singulière."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l1-q31",
@@ -764,9 +1056,19 @@
             "arrivé"
           ],
           "translation": "是我父母到了。",
-          "explain": "复数主语 mes parents 用 ce sont ... qui；qui 后的动词与 mes parents 一致，用 sont arrivés。主语为单数时才用 c'est ... qui；que 不能作主语关系代词。"
+          "explain": "复数主语 mes parents 用 ce sont ... qui；qui 后的动词与 mes parents 一致，用 sont arrivés。主语为单数时才用 c'est ... qui；que 不能作主语关系代词。",
+          "locales": {
+            "fr": {
+              "explain": "Avec un sujet pluriel mes parents, on emploie ce sont... « qui » ; le verbe après qui s'accorde avec mes parents : sont arrivés. On n'emploie c'est... « qui » qu'avec un sujet singulier ; que ne peut pas être pronom sujet."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "qui et que (4)"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-l2-1",
@@ -786,7 +1088,12 @@
           ],
           "answer": 1,
           "translation": "我出生的那座房子在海边。",
-          "explain": "从句 je suis né 缺地点状语，先行词 la maison 提供地点参照，用 où。que 要作直接宾语，dont 要替代 de 补语，qui 要作主语。"
+          "explain": "从句 je suis né 缺地点状语，先行词 la maison 提供地点参照，用 où。que 要作直接宾语，dont 要替代 de 补语，qui 要作主语。",
+          "locales": {
+            "fr": {
+              "explain": "La relative je suis né manque d'un complément de lieu ; l'antécédent la maison fournit le repère de lieu, donc où. « que » serait COD, dont remplacerait un complément en de, et qui serait sujet."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q2",
@@ -800,7 +1107,12 @@
           ],
           "answer": 2,
           "translation": "我参观的城市 / 我去的城市",
-          "explain": "visiter 是直接及物动词，需要直接宾语，所以用 que：la ville que je visite。aller 需要 à 引导地点，合并后用 où：la ville où je vais。不能只看先行词是否表示地点就一律用 où。"
+          "explain": "visiter 是直接及物动词，需要直接宾语，所以用 que：la ville que je visite。aller 需要 à 引导地点，合并后用 où：la ville où je vais。不能只看先行词是否表示地点就一律用 où。",
+          "locales": {
+            "fr": {
+              "explain": "visiter est transitif direct et exige un COD : la ville que je visite. aller exige la préposition à pour le lieu et se reprend avec où : la ville où je vais. Ce n'est pas parce que l'antécédent désigne un lieu qu'il faut employer où dans tous les cas."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q3",
@@ -833,7 +1145,12 @@
             "dont"
           ],
           "translation": "我住的村庄靠近海边。",
-          "explain": "第二句 Ce village 是地点补语 dans ce village 的先行词，合并时用 où 替代整个地点补语，并删去 dans；j'habite 保留。"
+          "explain": "第二句 Ce village 是地点补语 dans ce village 的先行词，合并时用 où 替代整个地点补语，并删去 dans；j'habite 保留。",
+          "locales": {
+            "fr": {
+              "explain": "Le groupe « un village » et « Ce village » ont le même référent. On prend « le village » comme antécédent ; « où » remplace « dans ce village » (on supprime « dans ») et « j'habite » passe dans la relative : Le village où j'habite est près de la mer."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q4",
@@ -850,7 +1167,12 @@
             "s"
           ],
           "translation": "我度假的那个地区非常安静。",
-          "explain": "从句 je passe mes vacances 缺地点状语，先行词 la région 提供地点参照，用 où。où 带重音，不要写成表示「或者」的 ou。"
+          "explain": "从句 je passe mes vacances 缺地点状语，先行词 la région 提供地点参照，用 où。où 带重音，不要写成表示「或者」的 ou。",
+          "locales": {
+            "fr": {
+              "explain": "La relative je passe mes vacances manque d'un complément de lieu ; l'antécédent la région fournit le repère de lieu, donc où. « où » porte un accent : ne l'écrivez pas ou, qui signifie « ou »."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q5",
@@ -864,7 +1186,12 @@
           ],
           "answer": 0,
           "translation": "这就是我们开会的那个房间。",
-          "explain": "se réunir 后面用地点状语 dans cette salle，合并用 où；从句已有主语 nous，que 不能再用，dont 需要 de 补语，qui 需要从句缺主语。"
+          "explain": "se réunir 后面用地点状语 dans cette salle，合并用 où；从句已有主语 nous，que 不能再用，dont 需要 de 补语，qui 需要从句缺主语。",
+          "locales": {
+            "fr": {
+              "explain": "se réunir se construit avec un complément de lieu dans cette salle, repris par où ; la relative a déjà le sujet nous, donc que ne convient pas, dont exigerait un complément en de, et qui exigerait un sujet manquant."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q6",
@@ -878,7 +1205,12 @@
           ],
           "answer": 3,
           "translation": "我们相遇的那天，天在下雨。",
-          "explain": "先行词 le jour 提供时间参照，从句缺时间状语，用关系代词 où。quand 是疑问或从属连词，不能这样连接先行词；que 要作直接宾语；dont 要替代 de 补语。"
+          "explain": "先行词 le jour 提供时间参照，从句缺时间状语，用关系代词 où。quand 是疑问或从属连词，不能这样连接先行词；que 要作直接宾语；dont 要替代 de 补语。",
+          "locales": {
+            "fr": {
+              "explain": "L'antécédent le jour fournit un repère de temps, et la relative manque d'un complément de temps : on emploie le pronom relatif où. quand est une conjonction interrogative ou subordonnante et ne relie pas ainsi un antécédent ; que serait COD et dont remplacerait un complément en de."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q7",
@@ -892,7 +1224,12 @@
           ],
           "answer": 1,
           "translation": "我们到达的那天 / 我们相识的那年",
-          "explain": "le jour 和 l'année 都是时间先行词，从句缺时间状语，两处都要用 où。汉语的「……的那天/那年」不能对应成 que。"
+          "explain": "le jour 和 l'année 都是时间先行词，从句缺时间状语，两处都要用 où。汉语的「……的那天/那年」不能对应成 que。",
+          "locales": {
+            "fr": {
+              "explain": "le jour et l'année sont des antécédents de temps, et les deux relatives manquent d'un complément de temps : où dans les deux cas. Le « le jour où / l'année où » du français ne se rend pas par que."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q8",
@@ -927,7 +1264,12 @@
             "rencontré"
           ],
           "translation": "我记得我们相遇的那一天。",
-          "explain": "先行词是 ce jour，从句 je me souviens de ce jour 缺时间参照，合并后用 du jour 引出，关系代词用 où。这里不能用 dont，因为主句的 se souvenir de 已经由 du 承担。"
+          "explain": "先行词是 ce jour，从句 je me souviens de ce jour 缺时间参照，合并后用 du jour 引出，关系代词用 où。这里不能用 dont，因为主句的 se souvenir de 已经由 du 承担。",
+          "locales": {
+            "fr": {
+              "explain": "L'antécédent est ce jour ; la relative je me souviens de ce jour manque d'un repère de temps, et l'on emploie du jour + où après réunion. « dont » ne convient pas ici, car le complément de se souvenir est déjà porté par du."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q9",
@@ -941,7 +1283,12 @@
           ],
           "answer": 2,
           "translation": "这就是那位最新小说获奖的作者。",
-          "explain": "le dernier roman 属于 l'auteur，原关系是 le dernier roman de cet auteur；用 dont 替代 de 补语，并直接放在被修饰名词 le roman 前。que 要作直接宾语，qui 要作主语，où 要作地点或时间状语。"
+          "explain": "le dernier roman 属于 l'auteur，原关系是 le dernier roman de cet auteur；用 dont 替代 de 补语，并直接放在被修饰名词 le roman 前。que 要作直接宾语，qui 要作主语，où 要作地点或时间状语。",
+          "locales": {
+            "fr": {
+              "explain": "Le dernier roman appartient à l'auteur : la relation d'origine est le dernier roman de cet auteur. « dont » remplace le complément en de et se place directement devant le nom déterminé le roman. « que » serait COD, qui sujet, et où complément de lieu ou de temps."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q10",
@@ -955,9 +1302,19 @@
           ],
           "answer": 0,
           "translation": "我遇到一位父亲是医生的女学生。",
-          "explain": "le père de cette étudiante → dont le père。dont 替代 de 补语并直接接限定词 le；主有限定词 son 在合并后改为定冠词。que 要作直接宾语，qui 要作主语，laquelle 需要介词。"
+          "explain": "le père de cette étudiante → dont le père。dont 替代 de 补语并直接接限定词 le；主有限定词 son 在合并后改为定冠词。que 要作直接宾语，qui 要作主语，laquelle 需要介词。",
+          "locales": {
+            "fr": {
+              "explain": "Le père de cette étudiante → dont le père. « dont » remplace le complément en de et est suivi directement du déterminant le ; le possessif son devient l'article défini après réunion. « que » serait COD, qui sujet, et laquelle exigerait une préposition."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "où et dont (1)"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-l2-2",
@@ -1002,7 +1359,12 @@
             "gagner"
           ],
           "translation": "我认识一位作家，他的最新小说获了奖。",
-          "explain": "Son dernier livre 中的 son 回指 un écrivain，合并时把主有限定词 son 换成定冠词 le，用 dont 引出名词补语：dont le dernier livre。不能保留 son，也不能用 que。"
+          "explain": "Son dernier livre 中的 son 回指 un écrivain，合并时把主有限定词 son 换成定冠词 le，用 dont 引出名词补语：dont le dernier livre。不能保留 son，也不能用 que。",
+          "locales": {
+            "fr": {
+              "explain": "Dans Son dernier livre, le possessif son reprend un écrivain ; après réunion, on le remplace par l'article défini le et l'on introduit le complément du nom avec dont : dont le dernier livre. On ne garde ni son ni que."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q12",
@@ -1016,7 +1378,12 @@
           ],
           "answer": 3,
           "translation": "我买了一栋窗户是新的房子。",
-          "explain": "les fenêtres de cette maison → dont les fenêtres；dont 已包含 de，不能保留 ses，也不能用 que/qui 再接名词短语。"
+          "explain": "les fenêtres de cette maison → dont les fenêtres；dont 已包含 de，不能保留 ses，也不能用 que/qui 再接名词短语。",
+          "locales": {
+            "fr": {
+              "explain": "Les fenêtres de cette maison → dont les fenêtres ; dont contient déjà de, donc on ne garde ni ses ni que/qui devant un groupe nominal."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q13",
@@ -1030,7 +1397,12 @@
             "s"
           ],
           "translation": "这是一个我们已经谈过的问题。",
-          "explain": "parler de ce problème 中的 de 补语用 dont 替代：dont nous avons déjà parlé。不要用 que，因为 parler de 不是直接及物结构。"
+          "explain": "parler de ce problème 中的 de 补语用 dont 替代：dont nous avons déjà parlé。不要用 que，因为 parler de 不是直接及物结构。",
+          "locales": {
+            "fr": {
+              "explain": "parler de ce problème : le complément en de se reprend avec dont, d'où dont nous avons déjà parlé. N'employez pas que, car parler de n'est pas une construction transitive directe."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q14",
@@ -1044,7 +1416,12 @@
           ],
           "answer": 1,
           "translation": "我跟你谈过的那部电影昨天上映了。",
-          "explain": "parler de ce film → dont je t'ai parlé。dont 替代 de 补语；que 要作直接宾语，qui 要作主语，où 要作地点或时间状语。"
+          "explain": "parler de ce film → dont je t'ai parlé。dont 替代 de 补语；que 要作直接宾语，qui 要作主语，où 要作地点或时间状语。",
+          "locales": {
+            "fr": {
+              "explain": "parler de ce film → dont je t'ai parlé. « dont » remplace le complément en de ; que serait COD, qui sujet, et où complément de lieu ou de temps."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q15",
@@ -1058,7 +1435,12 @@
           ],
           "answer": 2,
           "translation": "我们参观了一个让我非常自豪的村庄。",
-          "explain": "être fier de ce village → dont je suis fier。形容词补语中的 de 由 dont 承担；que 要作直接宾语，qui 要作主语，où 要作地点或时间状语。"
+          "explain": "être fier de ce village → dont je suis fier。形容词补语中的 de 由 dont 承担；que 要作直接宾语，qui 要作主语，où 要作地点或时间状语。",
+          "locales": {
+            "fr": {
+              "explain": "être fier de ce village → dont je suis fier. Le « de » du complément d'adjectif est porté par dont ; que serait COD, qui sujet, et où complément de lieu ou de temps."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q16",
@@ -1085,7 +1467,12 @@
             "qui"
           ],
           "translation": "这就是我们讨论的话题。",
-          "explain": "discuter de ce sujet → dont nous discutons。合并后原 de ce sujet 整个删除，不能保留 de；dont 已包含介词 de。"
+          "explain": "discuter de ce sujet → dont nous discutons。合并后原 de ce sujet 整个删除，不能保留 de；dont 已包含介词 de。",
+          "locales": {
+            "fr": {
+              "explain": "discuter de ce sujet → dont nous discutons. Après réunion, tout le complément de ce sujet disparaît : on ne garde pas de, car dont contient déjà la préposition de."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q17",
@@ -1114,7 +1501,12 @@
             "qui"
           ],
           "translation": "这是一个让我满意的结果。",
-          "explain": "être satisfait de ce résultat → dont je suis satisfait。源句已给出阳性形式 satisfait，本题按此形式转换；satisfait 是形容词，要与主语 je 的性数一致，女性说话时才写 satisfaite。dont 已包含 de，后面不能再保留 de。"
+          "explain": "être satisfait de ce résultat → dont je suis satisfait。源句已给出阳性形式 satisfait，本题按此形式转换；satisfait 是形容词，要与主语 je 的性数一致，女性说话时才写 satisfaite。dont 已包含 de，后面不能再保留 de。",
+          "locales": {
+            "fr": {
+              "explain": "être satisfait de ce résultat → dont je suis satisfait. La phrase source donne la forme masculine satisfait ; on la conserve ici. L'adjectif s'accorde avec le sujet je : une locutrice écrirait satisfaite. « dont » contient déjà de, donc on ne répète pas de."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q18",
@@ -1128,7 +1520,12 @@
           ],
           "answer": 0,
           "translation": "这束光透进来的那扇窗在二楼。",
-          "explain": "provenir de cette fenêtre 表示来源，即「光来自那扇窗」；de + où 缩合为 d'où。单用 où 只表示位置「在那扇窗」，不能表达 provenir de 所需的来源；que 要作直接宾语，qui 要作主语。"
+          "explain": "provenir de cette fenêtre 表示来源，即「光来自那扇窗」；de + où 缩合为 d'où。单用 où 只表示位置「在那扇窗」，不能表达 provenir de 所需的来源；que 要作直接宾语，qui 要作主语。",
+          "locales": {
+            "fr": {
+              "explain": "provenir de cette fenêtre exprime la provenance : « la lumière vient de cette fenêtre ». « de » + où se contracte en d'où. « où » seul indiquerait seulement le lieu « dans cette fenêtre », sans la provenance exigée par provenir de ; que serait COD et qui sujet."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q19",
@@ -1167,9 +1564,19 @@
             "voyait"
           ],
           "translation": "他登上塔，从那里可以看到整座城市。",
-          "explain": "De là 回指 sur la tour，表示观察来源；合并时用 d'où 替代 de là，写成 la tour d'où on voit...。单用 où 会丢掉「从那里」的来源意义。"
+          "explain": "De là 回指 sur la tour，表示观察来源；合并时用 d'où 替代 de là，写成 la tour d'où on voit...。单用 où 会丢掉「从那里」的来源意义。",
+          "locales": {
+            "fr": {
+              "explain": "De là reprend sur la tour et indique le point d'observation ; après réunion, d'où remplace de là, d'où la tour d'où on voit... « où » seul ferait perdre le sens de provenance « depuis là »."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "où et dont (2)"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-l2-3",
@@ -1189,7 +1596,12 @@
           ],
           "answer": 3,
           "translation": "他走出来的那个房间很暗。",
-          "explain": "sortir de la salle 表示「从房间出来」，需要 de 引导的来源补语，de + où 缩合为 d'où。单用 où 只表示位置，不能表达 sortir 所需的来源；que 要作直接宾语，dont 不能直接作地点状语。"
+          "explain": "sortir de la salle 表示「从房间出来」，需要 de 引导的来源补语，de + où 缩合为 d'où。单用 où 只表示位置，不能表达 sortir 所需的来源；que 要作直接宾语，dont 不能直接作地点状语。",
+          "locales": {
+            "fr": {
+              "explain": "sortir de la salle exprime la provenance et exige un complément en de ; de + où se contracte en d'où. « où » seul indiquerait le lieu, sans la provenance de sortir ; que serait COD, et dont ne peut pas être complément de lieu."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q21",
@@ -1203,7 +1615,12 @@
           ],
           "answer": 1,
           "translation": "我们抵达的那个时代很艰难。",
-          "explain": "先行词 l'époque 是时间名词，从句 nous sommes arrivés 缺时间参照，用 où。que 要作直接宾语，dont 要替代 de 补语，quand 不能这样连接先行词。"
+          "explain": "先行词 l'époque 是时间名词，从句 nous sommes arrivés 缺时间参照，用 où。que 要作直接宾语，dont 要替代 de 补语，quand 不能这样连接先行词。",
+          "locales": {
+            "fr": {
+              "explain": "L'antécédent l'époque est un nom de temps, et la relative nous sommes arrivés manque d'un repère temporel : où. « que » serait COD, dont remplacerait un complément en de, et quand ne relie pas ainsi un antécédent."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q22",
@@ -1217,7 +1634,12 @@
           ],
           "answer": 2,
           "translation": "我长大的、并留下美好回忆的那座城市很美。",
-          "explain": "第一个从句 j'ai grandi 缺地点状语，用 où；第二个从句 je garde de bons souvenirs de cette ville，缺 de 补语，用 dont。两个关系代词分工不同。"
+          "explain": "第一个从句 j'ai grandi 缺地点状语，用 où；第二个从句 je garde de bons souvenirs de cette ville，缺 de 补语，用 dont。两个关系代词分工不同。",
+          "locales": {
+            "fr": {
+              "explain": "La première relative j'ai grandi manque d'un complément de lieu : où. La seconde, je garde de bons souvenirs de cette ville, manque d'un complément en de : dont. Les deux pronoms ont des fonctions différentes."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q23",
@@ -1250,7 +1672,12 @@
             "visitée"
           ],
           "translation": "我游览了一个风景优美的地区。",
-          "explain": "les paysages de cette région → dont les paysages；dont 替代 de 补语，后面的定冠词 les 保留，不能用主有限定词 ses。"
+          "explain": "les paysages de cette région → dont les paysages；dont 替代 de 补语，后面的定冠词 les 保留，不能用主有限定词 ses。",
+          "locales": {
+            "fr": {
+              "explain": "les paysages de cette région → dont les paysages ; dont remplace le complément en de, et l'article défini les est conservé. On n'emploie pas le possessif ses."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q24",
@@ -1264,7 +1691,12 @@
           ],
           "answer": 0,
           "translation": "我非常清楚地记得他进来的那一刻。",
-          "explain": "从句 il est entré 缺时间状语，先行词 le moment 提供时间参照，用 où。主句的 se souvenir de 已由 du 承担，所以这里不能再用 dont；que 要作直接宾语。"
+          "explain": "从句 il est entré 缺时间状语，先行词 le moment 提供时间参照，用 où。主句的 se souvenir de 已由 du 承担，所以这里不能再用 dont；que 要作直接宾语。",
+          "locales": {
+            "fr": {
+              "explain": "La relative il est entré manque d'un complément de temps ; l'antécédent le moment fournit le repère temporel, donc où. Le complément de se souvenir est déjà porté par du, donc dont ne convient pas ici ; que serait COD."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q25",
@@ -1278,7 +1710,12 @@
           ],
           "answer": 3,
           "translation": "保罗和玛丽去过的那些城市很美。",
-          "explain": "第一个空：先行词 les villes 表地点，从句缺地点状语，用 où。第二个空：助动词 être 的过去分词与主语 Paul et Marie 配合；两人性别不同，按阳性复数写 allés。que 不能作地点状语，allé 是阳性单数，allées 是阴性复数。"
+          "explain": "第一个空：先行词 les villes 表地点，从句缺地点状语，用 où。第二个空：助动词 être 的过去分词与主语 Paul et Marie 配合；两人性别不同，按阳性复数写 allés。que 不能作地点状语，allé 是阳性单数，allées 是阴性复数。",
+          "locales": {
+            "fr": {
+              "explain": "Première case : l'antécédent les villes indique le lieu, et la relative manque d'un complément de lieu : où. Seconde case : avec être, le participe s'accorde avec le sujet Paul et Marie ; les deux sexes sont représentés, donc masculin pluriel allés. « que » ne peut pas être complément de lieu ; allé est masculin singulier et allées féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q26",
@@ -1315,7 +1752,12 @@
             "ce"
           ],
           "translation": "她们出生在这个村庄。这个村庄非常古老。→ 她们出生的那个村庄非常古老。",
-          "explain": "第二句 Ce village 是地点补语 dans ce village 的先行词，用 où 替代整个地点补语并删去 dans。从句主语 elles 是阴性复数，助动词 être 的过去分词要配合为 nées。que 要作直接宾语，dont 要替代 de 补语，qui 要作主语，均不合。"
+          "explain": "第二句 Ce village 是地点补语 dans ce village 的先行词，用 où 替代整个地点补语并删去 dans。从句主语 elles 是阴性复数，助动词 être 的过去分词要配合为 nées。que 要作直接宾语，dont 要替代 de 补语，qui 要作主语，均不合。",
+          "locales": {
+            "fr": {
+              "explain": "Dans la seconde phrase, Ce village reprend le complément de lieu dans ce village : où remplace tout ce complément et l'on supprime dans. Le sujet elles est féminin pluriel, et le participe avec être s'accorde en nées. « que » serait COD, dont un complément en de, et qui un sujet."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q27",
@@ -1352,7 +1794,12 @@
             "arrive"
           ],
           "translation": "他来自这个村庄。这个村庄靠近海边。→ 他来自的那个村庄靠近海边。",
-          "explain": "venir de ce village 表示来源，de + où 缩合为 d'où，替代整个 de ce village 并删去 de。单用 où 只表示位置，不能表达「从那里来」；que 要作直接宾语，qui 要作主语，均不合。"
+          "explain": "venir de ce village 表示来源，de + où 缩合为 d'où，替代整个 de ce village 并删去 de。单用 où 只表示位置，不能表达「从那里来」；que 要作直接宾语，qui 要作主语，均不合。",
+          "locales": {
+            "fr": {
+              "explain": "venir de ce village exprime la provenance ; de + où se contracte en d'où, qui remplace tout le complément de ce village et supprime de. « où » seul indiquerait le lieu, sans « venir de » ; que serait COD et qui sujet."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l2-q28",
@@ -1385,9 +1832,19 @@
             "difficiles"
           ],
           "translation": "那时我们住在巴黎。那个时期很艰难。→ 我们在巴黎生活的那个时期很艰难。",
-          "explain": "先行词 l'époque 表示时间，从句 nous vivions à Paris 缺时间状语，用 où 替代 à cette époque。que 要作直接宾语，dont 要替代 de 补语，quand 不能这样连接先行词；汉语的「……的时候」不能据此写成 que。"
+          "explain": "先行词 l'époque 表示时间，从句 nous vivions à Paris 缺时间状语，用 où 替代 à cette époque。que 要作直接宾语，dont 要替代 de 补语，quand 不能这样连接先行词；汉语的「……的时候」不能据此写成 que。",
+          "locales": {
+            "fr": {
+              "explain": "L'antécédent l'époque indique le temps, et la relative nous vivions à Paris manque d'un complément de temps : où remplace à cette époque. « que » serait COD, dont un complément en de, et quand ne relie pas ainsi un antécédent ; le « le moment où » du français ne se rend pas par que."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "où et dont (3)"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-l3-1",
@@ -1407,7 +1864,12 @@
           ],
           "answer": 2,
           "translation": "我想到的那个人走了。",
-          "explain": "penser à quelqu'un 需要介词 à；先行词 la personne 指人，用 à qui（也可说 à laquelle）。que 是直接宾语，dont 替代 de 补语，单独的 qui 缺少介词。"
+          "explain": "penser à quelqu'un 需要介词 à；先行词 la personne 指人，用 à qui（也可说 à laquelle）。que 是直接宾语，dont 替代 de 补语，单独的 qui 缺少介词。",
+          "locales": {
+            "fr": {
+              "explain": "penser à quelqu'un exige la préposition à ; l'antécédent la personne désigne une personne, d'où à qui (ou à laquelle). « que » serait COD, dont remplacerait un complément en de, et qui seul manquerait la préposition."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q2",
@@ -1421,7 +1883,12 @@
           ],
           "answer": 0,
           "translation": "和我一起工作的同事很有耐心。",
-          "explain": "travailler avec quelqu'un 保留介词 avec；先行词指人，介词后用 qui（也可用 avec laquelle）。que 要作直接宾语，dont 要替代 de 补语。"
+          "explain": "travailler avec quelqu'un 保留介词 avec；先行词指人，介词后用 qui（也可用 avec laquelle）。que 要作直接宾语，dont 要替代 de 补语。",
+          "locales": {
+            "fr": {
+              "explain": "travailler avec quelqu'un conserve la préposition avec ; l'antécédent désigne une personne, donc on emploie qui après la préposition (ou avec laquelle). « que » serait COD, et dont remplacerait un complément en de."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q3",
@@ -1435,7 +1902,12 @@
           ],
           "answer": 3,
           "translation": "我把钥匙放在上面的那张桌子是木头的。",
-          "explain": "poser quelque chose sur la table 需要介词 sur；先行词 la table 指物，在给出的选项中要用 sur + laquelle（阴性单数）。sur qui 只能指人，que 和 dont 都缺少所需介词。注意「la table où j'ai posé mes clés」在口语中也成立，但 où 不在本题选项中，且本单元要区分「介词 + 复合关系代词」与地点 où。"
+          "explain": "poser quelque chose sur la table 需要介词 sur；先行词 la table 指物，在给出的选项中要用 sur + laquelle（阴性单数）。sur qui 只能指人，que 和 dont 都缺少所需介词。注意「la table où j'ai posé mes clés」在口语中也成立，但 où 不在本题选项中，且本单元要区分「介词 + 复合关系代词」与地点 où。",
+          "locales": {
+            "fr": {
+              "explain": "poser quelque chose sur la table exige la préposition sur ; l'antécédent la table désigne une chose, et parmi les options il faut sur + laquelle (féminin singulier). sur qui ne peut désigner qu'une personne ; que et dont manquent la préposition requise. « la table où j'ai posé mes clés » est possible à l'oral, mais où n'est pas proposé et cette unité distingue « préposition + pronom composé » du où locatif."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q4",
@@ -1449,7 +1921,12 @@
             "u"
           ],
           "translation": "我想到的那辆车是红色的。",
-          "explain": "penser à la voiture：先行词 la voiture 是阴性单数，介词 à 后要用 laquelle。à 与阴性单数不缩合，不能写 auquel；也不要与阳性 lequel 混用。"
+          "explain": "penser à la voiture：先行词 la voiture 是阴性单数，介词 à 后要用 laquelle。à 与阴性单数不缩合，不能写 auquel；也不要与阳性 lequel 混用。",
+          "locales": {
+            "fr": {
+              "explain": "penser à la voiture : l'antécédent la voiture est féminin singulier, et après la préposition à on emploie laquelle. à ne se contracte pas au féminin singulier, donc pas auquel ; ne le confondez pas avec le masculin lequel."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q5",
@@ -1463,7 +1940,12 @@
           ],
           "answer": 1,
           "translation": "我想到的那些书在图书馆里。",
-          "explain": "penser à ces livres → auxquels：先行词 les livres 是阳性复数，à + lesquels 缩合为 auxquels。desquels 是 de + lesquels，lesquels 缺少介词缩合，auquel 是阳性单数。"
+          "explain": "penser à ces livres → auxquels：先行词 les livres 是阳性复数，à + lesquels 缩合为 auxquels。desquels 是 de + lesquels，lesquels 缺少介词缩合，auquel 是阳性单数。",
+          "locales": {
+            "fr": {
+              "explain": "penser à ces livres → auxquels : l'antécédent les livres est masculin pluriel, et à + lesquels se contracte en auxquels. desquels est de + lesquels, lesquels manque la contraction de à, et auquel est masculin singulier."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q6",
@@ -1477,7 +1959,12 @@
           ],
           "answer": 2,
           "translation": "我参与的那个项目很有雄心。",
-          "explain": "participer à ce projet：先行词 le projet 是阳性单数，à + lequel 缩合为 auquel。à lequel 没有缩合，duquel 是 de + lequel，lequel 缺少介词。"
+          "explain": "participer à ce projet：先行词 le projet 是阳性单数，à + lequel 缩合为 auquel。à lequel 没有缩合，duquel 是 de + lequel，lequel 缺少介词。",
+          "locales": {
+            "fr": {
+              "explain": "participer à ce projet : l'antécédent le projet est masculin singulier, et à + lequel se contracte en auquel. à lequel n'est pas contracté, duquel est de + lequel, et lequel manque la préposition."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q7",
@@ -1491,7 +1978,12 @@
           ],
           "answer": 0,
           "translation": "我报名参加的那个培训持续三天。",
-          "explain": "s'inscrire à une formation 要求介词 à；先行词 la formation 是阴性单数，用 à laquelle。阴性单数不与 à 缩合，所以不能写 auquel；duquel 是 de + lequel，lequel 是阳性单数。"
+          "explain": "s'inscrire à une formation 要求介词 à；先行词 la formation 是阴性单数，用 à laquelle。阴性单数不与 à 缩合，所以不能写 auquel；duquel 是 de + lequel，lequel 是阳性单数。",
+          "locales": {
+            "fr": {
+              "explain": "s'inscrire à une formation exige la préposition à ; l'antécédent la formation est féminin singulier, donc à laquelle. Le féminin singulier ne se contracte pas avec à, donc pas auquel ; duquel est de + lequel et lequel est masculin singulier."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q8",
@@ -1518,7 +2010,12 @@
             "à"
           ],
           "translation": "这些就是我所想到的那些想法。",
-          "explain": "penser à ces idées：先行词 les idées 是阴性复数，à + lesquelles 缩合为 auxquelles。合并后原 à ces idées 整个删除，不能保留 à；auquel 是阳性单数形式。"
+          "explain": "penser à ces idées：先行词 les idées 是阴性复数，à + lesquelles 缩合为 auxquelles。合并后原 à ces idées 整个删除，不能保留 à；auquel 是阳性单数形式。",
+          "locales": {
+            "fr": {
+              "explain": "penser à ces idées : l'antécédent les idées est féminin pluriel, et à + lesquelles se contracte en auxquelles. Après réunion, tout à ces idées disparaît : on ne garde pas à. auquel est masculin singulier."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q9",
@@ -1545,9 +2042,19 @@
             "lesquels"
           ],
           "translation": "这就是他工作的那家公司。",
-          "explain": "travailler dans cette entreprise 保留介词 dans；先行词 l'entreprise 是阴性单数，用 dans laquelle。dans 与 laquelle 不缩合，因为只有 à/de 才缩合。"
+          "explain": "travailler dans cette entreprise 保留介词 dans；先行词 l'entreprise 是阴性单数，用 dans laquelle。dans 与 laquelle 不缩合，因为只有 à/de 才缩合。",
+          "locales": {
+            "fr": {
+              "explain": "travailler dans cette entreprise conserve la préposition dans ; l'antécédent l'entreprise est féminin singulier, d'où dans laquelle. dans ne se contracte pas avec laquelle, car seuls à et de se contractent."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Préposition + pronom relatif et formes composées (1)"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-l3-2",
@@ -1570,7 +2077,12 @@
             2
           ],
           "translation": "和我谈过话的那位学生是我的邻居。",
-          "explain": "parler à cet étudiant：先行词指人，介词 à 后可说 à qui，也可说 auquel（à + lequel 缩合），两种都正确。que 是直接宾语，dont 替代 de 补语；单用 lequel 缺少介词。"
+          "explain": "parler à cet étudiant：先行词指人，介词 à 后可说 à qui，也可说 auquel（à + lequel 缩合），两种都正确。que 是直接宾语，dont 替代 de 补语；单用 lequel 缺少介词。",
+          "locales": {
+            "fr": {
+              "explain": "parler à cet étudiant : l'antécédent désigne une personne, et après à on peut dire à qui ou auquel (à + lequel contracté). Les deux sont corrects. « que » est COD, dont remplace un complément en de, et lequel seul manque la préposition."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q11",
@@ -1584,7 +2096,12 @@
             "s"
           ],
           "translation": "我面对的那些问题很严重。",
-          "explain": "faire face à ces problèmes：先行词 les problèmes 是阳性复数，à + lesquels 缩合为 auxquels。不要写成 à lesquels，也不要与 de + lesquels 的 desquels 混用。"
+          "explain": "faire face à ces problèmes：先行词 les problèmes 是阳性复数，à + lesquels 缩合为 auxquels。不要写成 à lesquels，也不要与 de + lesquels 的 desquels 混用。",
+          "locales": {
+            "fr": {
+              "explain": "faire face à ces problèmes : l'antécédent les problèmes est masculin pluriel, et à + lesquels se contracte en auxquels. N'écrivez ni à lesquels non contracté ni desquels, qui vient de de."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q12",
@@ -1598,7 +2115,12 @@
           ],
           "answer": 1,
           "translation": "我正在做的、并引以为豪的那些项目很重要。",
-          "explain": "travailler à ces projets → auxquels；être fier de ces projets → dont。第一个空需要 à 的缩合形式，第二个空是 de 补语，用 dont。à lesquels 未缩合，desquels 是 de + lesquels，que 不能替代 de 补语。"
+          "explain": "travailler à ces projets → auxquels；être fier de ces projets → dont。第一个空需要 à 的缩合形式，第二个空是 de 补语，用 dont。à lesquels 未缩合，desquels 是 de + lesquels，que 不能替代 de 补语。",
+          "locales": {
+            "fr": {
+              "explain": "travailler à ces projets → auxquels ; être fier de ces projets → dont. La première case exige la contraction de à, la seconde un complément en de, donc dont. à lesquels n'est pas contracté, desquels vient de de, et que ne peut pas remplacer un complément en de."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q13",
@@ -1612,7 +2134,12 @@
           ],
           "answer": 0,
           "translation": "指出复合关系代词 laquelle 的指代对象。",
-          "explain": "laquelle 是阴性单数，与 la sœur 一致；Paul 是阳性单数，不可能由 laquelle 指代。复合关系代词在这里用性数信息消除了 qui 可能带来的歧义。"
+          "explain": "laquelle 是阴性单数，与 la sœur 一致；Paul 是阳性单数，不可能由 laquelle 指代。复合关系代词在这里用性数信息消除了 qui 可能带来的歧义。",
+          "locales": {
+            "fr": {
+              "explain": "laquelle est féminin singulier et s'accorde avec la sœur ; Paul est masculin singulier et ne peut pas être repris par laquelle. Le pronom composé emploie ici l'information de genre et de nombre pour lever l'ambiguïté que qui pourrait créer."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q14",
@@ -1626,7 +2153,12 @@
           ],
           "answer": 2,
           "translation": "说明句中复合关系代词 lequel 的选用理由。",
-          "explain": "lequel 是阳性单数，与 le frère 一致，从而明确从句主语是「兄弟」而不是阴性单数 Marie。这是复合关系代词在有两个候选先行词时的消歧功能，不是所有关系从句都必须这样用。"
+          "explain": "lequel 是阳性单数，与 le frère 一致，从而明确从句主语是「兄弟」而不是阴性单数 Marie。这是复合关系代词在有两个候选先行词时的消歧功能，不是所有关系从句都必须这样用。",
+          "locales": {
+            "fr": {
+              "explain": "lequel est masculin singulier et s'accorde avec le frère ; la relative a ainsi pour sujet « le frère » et non Marie, féminin singulier. C'est la fonction désambiguïsante du pronom composé quand deux antécédents sont possibles ; toutes les relatives ne l'exigent pas."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q15",
@@ -1640,7 +2172,12 @@
           ],
           "answer": 1,
           "translation": "我正在与之交谈的那位医生很有名。",
-          "explain": "parler à ce médecin 保留介词 à；先行词 le médecin 指人，用 à qui（也可用 auquel）。que 是直接宾语，dont 替代 de 补语，单独的 qui 缺少介词。"
+          "explain": "parler à ce médecin 保留介词 à；先行词 le médecin 指人，用 à qui（也可用 auquel）。que 是直接宾语，dont 替代 de 补语，单独的 qui 缺少介词。",
+          "locales": {
+            "fr": {
+              "explain": "parler à ce médecin conserve la préposition à ; l'antécédent le médecin désigne une personne, d'où à qui (ou auquel). « que » serait COD, dont remplacerait un complément en de, et qui seul manquerait la préposition."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q16",
@@ -1671,7 +2208,12 @@
             "de"
           ],
           "translation": "这就是我们在附近露营的那个村庄。",
-          "explain": "près de ce village 保留介词短语 près de；先行词 un village 是阳性单数，de + lequel 缩合为 duquel：près duquel nous avons campé。dont 会与 près de 的结构冲突，lequel 缺少 de 的缩合。"
+          "explain": "près de ce village 保留介词短语 près de；先行词 un village 是阳性单数，de + lequel 缩合为 duquel：près duquel nous avons campé。dont 会与 près de 的结构冲突，lequel 缺少 de 的缩合。",
+          "locales": {
+            "fr": {
+              "explain": "près de ce village conserve la locution prépositive près de ; l'antécédent un village est masculin singulier, et de + lequel se contracte en duquel : près duquel nous avons campé. « dont » entrerait en conflit avec près de, et lequel manque la contraction de de."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q17",
@@ -1685,7 +2227,12 @@
           ],
           "answer": 1,
           "translation": "你谈过话的那位女同事是我们的新主任。",
-          "explain": "parler à qn 保留介词 à；先行词 la collègue 在这里指一位女性（后文 notre nouvelle directrice），按阴性单数用 à laquelle，阴性单数不与 à 缩合。auquel 是阳性单数，auxquelles 是阴性复数，lesquelles 缺少介词。指人时 à qui 也成立，但不在本题选项中。"
+          "explain": "parler à qn 保留介词 à；先行词 la collègue 在这里指一位女性（后文 notre nouvelle directrice），按阴性单数用 à laquelle，阴性单数不与 à 缩合。auquel 是阳性单数，auxquelles 是阴性复数，lesquelles 缺少介词。指人时 à qui 也成立，但不在本题选项中。",
+          "locales": {
+            "fr": {
+              "explain": "parler à quelqu'un conserve la préposition à ; l'antécédent la collègue désigne ici une femme (la suite le confirme avec notre nouvelle directrice), donc à laquelle au féminin singulier, qui ne se contracte pas avec à. auquel est masculin singulier, auxquelles féminin pluriel, et lesquelles manque la préposition. Avec une personne, à qui serait aussi possible, mais n'est pas proposé."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l3-q18",
@@ -1720,9 +2267,19 @@
             "cette"
           ],
           "translation": "我们住在这位女士家里。她非常和善。→ 我们住在她家的那位女士非常和善。",
-          "explain": "habiter chez qn 要求保留介词 chez；先行词 la dame 指人，用 chez qui（也可说 chez laquelle）。合并时删去原句主语 elle，从句主语 nous 保留。que 只能作直接宾语，dont 替代 de 补语，où 不能替代指人的 chez 短语。"
+          "explain": "habiter chez qn 要求保留介词 chez；先行词 la dame 指人，用 chez qui（也可说 chez laquelle）。合并时删去原句主语 elle，从句主语 nous 保留。que 只能作直接宾语，dont 替代 de 补语，où 不能替代指人的 chez 短语。",
+          "locales": {
+            "fr": {
+              "explain": "habiter chez quelqu'un conserve la préposition chez ; l'antécédent la dame désigne une personne, donc chez qui (ou chez laquelle). Après réunion, on supprime le sujet elle de la seconde phrase, et le sujet nous de la relative est conservé. « que » ne peut être que COD, dont remplace un complément en de, et où ne peut pas reprendre un groupe prépositionnel avec chez désignant une personne."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Préposition + pronom relatif et formes composées (2)"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-l4",
@@ -1742,7 +2299,12 @@
           ],
           "answer": 2,
           "translation": "这就是他想要的东西。",
-          "explain": "关系从句 il veut 缺直接宾语，先行词是中性的事物，用 ce que；后接 il 以元音开头，ce que 必须省音为 ce qu'。ce qui 只能作主语，ce dont 对应 de 补语，都不符合。"
+          "explain": "关系从句 il veut 缺直接宾语，先行词是中性的事物，用 ce que；后接 il 以元音开头，ce que 必须省音为 ce qu'。ce qui 只能作主语，ce dont 对应 de 补语，都不符合。",
+          "locales": {
+            "fr": {
+              "explain": "La relative il veut manque d'un COD, et l'antécédent est une chose neutre : ce que. Le mot suivant il commence par une voyelle, donc ce que s'élide en ce qu'. « ce » qui serait sujet et ce dont correspondrait à un complément en de."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l4-q2",
@@ -1756,7 +2318,12 @@
           ],
           "answer": 0,
           "translation": "在这座城市里，我喜欢的是安静。",
-          "explain": "plaire 的主语是「让我喜欢的东西」，用 ce qui；ce que 需作直接宾语，ce dont 需补 de。ce qu' 只在元音前省音，这里后接 me，不能省音。"
+          "explain": "plaire 的主语是「让我喜欢的东西」，用 ce qui；ce que 需作直接宾语，ce dont 需补 de。ce qu' 只在元音前省音，这里后接 me，不能省音。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet de plaire est « ce qui me plaît » : on emploie ce qui. « ce » que serait COD et ce dont exigerait de. « ce » qu' ne s'élide que devant une voyelle ; ici le mot suivant est me, donc pas d'élision."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l4-q3",
@@ -1770,7 +2337,12 @@
           ],
           "answer": 1,
           "translation": "这正是我所需要的。",
-          "explain": "avoir besoin de 要求 de 补语，合并为关系从句时用 ce dont；de 已包含在 dont 中，不能再保留。ce que 作直接宾语，ce qui 作主语，均不合。"
+          "explain": "avoir besoin de 要求 de 补语，合并为关系从句时用 ce dont；de 已包含在 dont 中，不能再保留。ce que 作直接宾语，ce qui 作主语，均不合。",
+          "locales": {
+            "fr": {
+              "explain": "avoir besoin de exige un complément en de, repris par ce dont ; de est déjà contenu dans dont et ne se répète pas. « ce » que serait COD et ce qui sujet."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l4-q4",
@@ -1784,7 +2356,12 @@
           ],
           "answer": 3,
           "translation": "你对这个项目的看法很清楚。",
-          "explain": "penser 的直接宾语由 ce que 承担，de ce projet 是保留的补语，所以不能把 de 并入关系代词。后接 tu 以辅音开头，不省音；关系代词在从句中作 penser 的直接宾语，不能用作主语的 ce qui。"
+          "explain": "penser 的直接宾语由 ce que 承担，de ce projet 是保留的补语，所以不能把 de 并入关系代词。后接 tu 以辅音开头，不省音；关系代词在从句中作 penser 的直接宾语，不能用作主语的 ce qui。",
+          "locales": {
+            "fr": {
+              "explain": "Le COD de penser est repris par ce que, tandis que de ce projet est un complément conservé et ne doit pas être absorbé dans le pronom relatif. Le mot suivant tu commence par une consonne, donc pas d'élision. Le pronom est COD de penser, non sujet : ce qui ne convient pas."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l4-q5",
@@ -1819,7 +2396,12 @@
             "étais"
           ],
           "translation": "我买了一辆车。我对它很满意。→ 我买了一辆我很满意的车。",
-          "explain": "原句用 en 回指 de + une voiture；合并成关系从句时 en 改为 dont，并删除 en：dont je suis très content。dont 已包含 de，不能再保留 en 或 de。"
+          "explain": "原句用 en 回指 de + une voiture；合并成关系从句时 en 改为 dont，并删除 en：dont je suis très content。dont 已包含 de，不能再保留 en 或 de。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase source reprend de + une voiture avec en ; à la réunion en relative, en devient dont et disparaît : dont je suis très content. « dont » contient déjà de, donc on ne garde ni en ni de."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l4-q6",
@@ -1833,7 +2415,12 @@
           ],
           "answer": 3,
           "translation": "我更喜欢的是早点出发。",
-          "explain": "préférer 缺直接宾语，用 ce que；后接 je 以辅音开头，不省音。ce qui 作主语，ce dont 需 de 补语，均不合。c'est 后的 de partir 是内容，不是关系代词的一部分。"
+          "explain": "préférer 缺直接宾语，用 ce que；后接 je 以辅音开头，不省音。ce qui 作主语，ce dont 需 de 补语，均不合。c'est 后的 de partir 是内容，不是关系代词的一部分。",
+          "locales": {
+            "fr": {
+              "explain": "préférer manque d'un COD : ce que. Le mot suivant je commence par une consonne, donc pas d'élision. « ce » qui serait sujet et ce dont exigerait un complément en de. Après c'est, de partir est le contenu, non un élément du pronom relatif."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l4-q7",
@@ -1847,7 +2434,12 @@
           ],
           "answer": 0,
           "translation": "我需要的是休息。",
-          "explain": "avoir besoin de 要求 de 补语，前置话题用 ce dont；c'est 后仍要保留 de repos。ce que 和 ce qui 都不能替代 de 补语，c'est repos 则丢了动词搭配要求的 de。"
+          "explain": "avoir besoin de 要求 de 补语，前置话题用 ce dont；c'est 后仍要保留 de repos。ce que 和 ce qui 都不能替代 de 补语，c'est repos 则丢了动词搭配要求的 de。",
+          "locales": {
+            "fr": {
+              "explain": "avoir besoin de exige un complément en de ; le thème antéposé est ce dont, et après c'est on conserve de repos. « ce » que et ce qui ne peuvent pas reprendre un complément en de, et c'est repos omet le de exigé par la construction."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l4-q8",
@@ -1861,7 +2453,12 @@
             "s"
           ],
           "translation": "这就是我们昨天谈过的话题。",
-          "explain": "parler de 要求 de 补语，关系代词用 dont；que 需作直接宾语，qui 需作主语，都不符合。dont 已包含 de，后面不再加 de。"
+          "explain": "parler de 要求 de 补语，关系代词用 dont；que 需作直接宾语，qui 需作主语，都不符合。dont 已包含 de，后面不再加 de。",
+          "locales": {
+            "fr": {
+              "explain": "parler de exige un complément en de : le pronom relatif est dont. « que » serait COD et qui sujet. « dont » contient déjà de, qui ne se répète pas après."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l4-q9",
@@ -1892,9 +2489,19 @@
             "cette"
           ],
           "translation": "这就是那张照片。她为它感到自豪。→ 这就是她引以为豪的那张照片。",
-          "explain": "原句用 en 回指 de + la photo；合并成关系从句时 en 改为 dont 并删除，得到 dont elle est fière。être fier de 的 de 已并入 dont，后面不能再保留 de；que 只能作直接宾语，qui 只能作主语。"
+          "explain": "原句用 en 回指 de + la photo；合并成关系从句时 en 改为 dont 并删除，得到 dont elle est fière。être fier de 的 de 已并入 dont，后面不能再保留 de；que 只能作直接宾语，qui 只能作主语。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase source reprend de + la photo avec en ; à la réunion en relative, en devient dont et disparaît, ce qui donne dont elle est fière. Le de d'être fier de est déjà dans dont : on ne le répète pas. « que » ne peut être que COD et qui que sujet."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "ce qui, ce que et ce dont"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-l5-1",
@@ -1914,7 +2521,12 @@
           ],
           "answer": 2,
           "translation": "在这些男孩中，完成了的那些可以出去。",
-          "explain": "garçons 是阳性复数，指示代词用 ceux；从句动词 ont 也是复数。celui 是阳性单数，celle 是阴性单数，celles 是阴性复数，性数都不符。"
+          "explain": "garçons 是阳性复数，指示代词用 ceux；从句动词 ont 也是复数。celui 是阳性单数，celle 是阴性单数，celles 是阴性复数，性数都不符。",
+          "locales": {
+            "fr": {
+              "explain": "garçons est masculin pluriel : le démonstratif est ceux ; le verbe de la relative ont est aussi au pluriel. celui est masculin singulier, celle féminin singulier et celles féminin pluriel : ni le genre ni le nombre ne conviennent."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q2",
@@ -1928,7 +2540,12 @@
           ],
           "answer": 2,
           "translation": "在这些女歌手中，赢得比赛的那些今晚将出发巡演。",
-          "explain": "chanteuses 是阴性复数，指示代词用 celles；qui 作从句主语，动词 ont gagné 和 partent 都取复数。ceux 是阳性复数，celui 和 celle 是单数，性数都不符。"
+          "explain": "chanteuses 是阴性复数，指示代词用 celles；qui 作从句主语，动词 ont gagné 和 partent 都取复数。ceux 是阳性复数，celui 和 celle 是单数，性数都不符。",
+          "locales": {
+            "fr": {
+              "explain": "chanteuses est féminin pluriel : le démonstratif est celles ; qui est sujet de la relative, et les verbes ont gagné et partent se mettent au pluriel. ceux est masculin pluriel, celui et celle sont singuliers : le genre ou le nombre ne conviennent pas."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q3",
@@ -1942,7 +2559,12 @@
           ],
           "answer": 0,
           "translation": "——这些房子你更喜欢哪一座？——我更喜欢有花园的那一座。",
-          "explain": "Laquelle 问的是单数，答句锁定其中一座，maison 是阴性，所以用阴性单数 celle；où 代替地点状语。celui 是阳性单数，celles 和 ceux 是复数。"
+          "explain": "Laquelle 问的是单数，答句锁定其中一座，maison 是阴性，所以用阴性单数 celle；où 代替地点状语。celui 是阳性单数，celles 和 ceux 是复数。",
+          "locales": {
+            "fr": {
+              "explain": "Laquelle interroge au singulier et la réponse identifie une seule maison ; maison est féminin, donc on emploie le féminin singulier celle, et où remplace le complément de lieu. celui est masculin singulier, celles et ceux sont pluriels."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q4",
@@ -1956,7 +2578,12 @@
           ],
           "answer": 1,
           "translation": "和我一起工作的那位女士很有耐心。",
-          "explain": "表语 patiente 是阴性单数，说明所指是一位女性，指示代词用 celle；介词 avec 后指人用 qui。celui 是阳性，celles 和 ceux 是复数。"
+          "explain": "表语 patiente 是阴性单数，说明所指是一位女性，指示代词用 celle；介词 avec 后指人用 qui。celui 是阳性，celles 和 ceux 是复数。",
+          "locales": {
+            "fr": {
+              "explain": "L'attribut patiente est féminin singulier et indique qu'il s'agit d'une femme : le démonstratif est celle ; après la préposition avec et avec une personne, on emploie qui. celui est masculin, celles et ceux sont pluriels."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q5",
@@ -1970,7 +2597,12 @@
           ],
           "answer": 3,
           "translation": "在所有这些项目中，我特别自豪的是最后一个。",
-          "explain": "projets 是阳性复数，但 le dernier 锁定其中一个，用阳性单数 celui；être fier de 要求 de 补语，关系代词用 dont。celle 是阴性，ceux 和 celles 是复数。"
+          "explain": "projets 是阳性复数，但 le dernier 锁定其中一个，用阳性单数 celui；être fier de 要求 de 补语，关系代词用 dont。celle 是阴性，ceux 和 celles 是复数。",
+          "locales": {
+            "fr": {
+              "explain": "projets est masculin pluriel, mais le dernier en isole un seul : on emploie le masculin singulier celui. être fier de exige un complément en de, repris par dont. celle est féminin, ceux et celles sont pluriels."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q6",
@@ -1984,7 +2616,12 @@
             "a"
           ],
           "translation": "在这些照片中，我拍的那些非常旧。",
-          "explain": "que 指先行词 celles（阴性复数），在从句中作 prendre 的直接宾语，并位于助动词 ai 之前，所以过去分词用阴性复数 prises。"
+          "explain": "que 指先行词 celles（阴性复数），在从句中作 prendre 的直接宾语，并位于助动词 ai 之前，所以过去分词用阴性复数 prises。",
+          "locales": {
+            "fr": {
+              "explain": "que reprend l'antécédent celles (féminin pluriel), COD de prendre dans la relative et placé avant l'auxiliaire ai : le participe passé prend le féminin pluriel prises."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q7",
@@ -2016,7 +2653,12 @@
             "lisons"
           ],
           "translation": "我读的那些信很重要。→ 我读过的那几封信很重要。",
-          "explain": "关系从句动词 lire 改为复合过去时：ai + 过去分词。que 指 les lettres（阴性复数），是前置直接宾语，过去分词加 -es，写作 lues；lu 是阳性单数，lus 是阳性复数，lue 是阴性单数。"
+          "explain": "关系从句动词 lire 改为复合过去时：ai + 过去分词。que 指 les lettres（阴性复数），是前置直接宾语，过去分词加 -es，写作 lues；lu 是阳性单数，lus 是阳性复数，lue 是阴性单数。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe de la relative lire passe au passé composé : ai + participe passé. « que » reprend les lettres (féminin pluriel), COD antéposé, donc le participe s'accorde en lues. lu est masculin singulier, lus masculin pluriel et lue féminin singulier."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q8",
@@ -2051,7 +2693,12 @@
             "duquel"
           ],
           "translation": "我遇到一个男人。他父亲是医生。→ 我遇到一个父亲是医生的男人。",
-          "explain": "son 回指先行词 un homme，合并时改为定冠词 le，并用 dont 代替 de + son père：dont le père。dont 已含 de，不能保留 son，也不能再写 duquel。"
+          "explain": "son 回指先行词 un homme，合并时改为定冠词 le，并用 dont 代替 de + son père：dont le père。dont 已含 de，不能保留 son，也不能再写 duquel。",
+          "locales": {
+            "fr": {
+              "explain": "son reprend l'antécédent un homme ; à la réunion, on le remplace par l'article défini le et l'on emploie dont pour de + son père : dont le père. « dont » contient déjà de, donc on ne garde ni son ni duquel."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q9",
@@ -2065,7 +2712,12 @@
           ],
           "answer": 1,
           "translation": "这就是那位小说在中国很畅销的作家。",
-          "explain": "les romans 是先行词 l'écrivain 的名词补语（原为 ses romans），用 dont 引导；que 需在从句中作直接宾语，qui 需作主语，auquel 则要求 à 搭配。这里名词补语用 dont。"
+          "explain": "les romans 是先行词 l'écrivain 的名词补语（原为 ses romans），用 dont 引导；que 需在从句中作直接宾语，qui 需作主语，auquel 则要求 à 搭配。这里名词补语用 dont。",
+          "locales": {
+            "fr": {
+              "explain": "les romans est un complément du nom de l'antécédent l'écrivain (à l'origine ses romans), introduit par dont. « que » devrait être COD dans la relative, qui sujet, et auquel exigerait la préposition à. Ici, c'est bien un complément du nom : dont."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q10",
@@ -2079,9 +2731,19 @@
           ],
           "answer": 0,
           "translation": "在这些问题中，我们谈到的那个很紧急。",
-          "explain": "problèmes 是阳性复数，但表语 urgent 是阳性单数，锁定其中一个，用阳性单数 celui；parler de 要求 de 补语，用 dont。celle 是阴性，ceux 和 celles 是复数。"
+          "explain": "problèmes 是阳性复数，但表语 urgent 是阳性单数，锁定其中一个，用阳性单数 celui；parler de 要求 de 补语，用 dont。celle 是阴性，ceux 和 celles 是复数。",
+          "locales": {
+            "fr": {
+              "explain": "problèmes est masculin pluriel, mais l'attribut urgent est masculin singulier et isole un seul problème : on emploie celui. parler de exige un complément en de, repris par dont. celle est féminin, ceux et celles sont pluriels."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Détermination, accord et participe présent (1)"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-l5-2",
@@ -2101,7 +2763,12 @@
           ],
           "answer": 2,
           "translation": "在花园里跑的孩子们在笑。",
-          "explain": "现在分词 courant 可以替代 qui courent 引导的关系从句，其逻辑主语就是先行词 les enfants；courus 是过去分词，en courant 是副动词（修饰主句动作），courir 是不定式，都不能这样替代关系从句。"
+          "explain": "现在分词 courant 可以替代 qui courent 引导的关系从句，其逻辑主语就是先行词 les enfants；courus 是过去分词，en courant 是副动词（修饰主句动作），courir 是不定式，都不能这样替代关系从句。",
+          "locales": {
+            "fr": {
+              "explain": "Le participe présent courant peut remplacer la relative qui courent, et son sujet logique est l'antécédent les enfants. courus est un participe passé, en courant un gérondif qui modifie le verbe de la principale, et courir un infinitif : aucun ne remplace ainsi une relative."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q12",
@@ -2115,7 +2782,12 @@
           ],
           "answer": 3,
           "translation": "——那些文件在哪里？——你需要的那些在抽屉里。",
-          "explain": "documents 是阳性复数，指示代词用 ceux；从句动词 sont 也是复数。celui 和 celle 是单数，celles 是阴性复数，与 documents 的性数不符。"
+          "explain": "documents 是阳性复数，指示代词用 ceux；从句动词 sont 也是复数。celui 和 celle 是单数，celles 是阴性复数，与 documents 的性数不符。",
+          "locales": {
+            "fr": {
+              "explain": "documents est masculin pluriel : le démonstratif est ceux ; le verbe de la relative sont est aussi au pluriel. celui et celle sont singuliers, celles est féminin pluriel : le genre ou le nombre ne conviennent pas."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q13",
@@ -2129,7 +2801,12 @@
             "a"
           ],
           "translation": "你们作出的那个决定很艰难。",
-          "explain": "que 指 la décision（阴性单数），在从句中作 prendre 的直接宾语并位于助动词 avez 之前，过去分词用阴性单数 prise。"
+          "explain": "que 指 la décision（阴性单数），在从句中作 prendre 的直接宾语并位于助动词 avez 之前，过去分词用阴性单数 prise。",
+          "locales": {
+            "fr": {
+              "explain": "que reprend la décision (féminin singulier), COD de prendre dans la relative et placé avant l'auxiliaire avez : le participe passé s'accorde au féminin singulier, prise."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q14",
@@ -2143,7 +2820,12 @@
           ],
           "answer": 1,
           "translation": "在这些故事中，我昨天给你讲的那些是真的。",
-          "explain": "histoires 是阴性复数，指示代词用 celles；que 指 celles，作 raconter 的直接宾语，过去分词 racontées 取阴性复数。celle 和 celui 是单数，ceux 是阳性复数。"
+          "explain": "histoires 是阴性复数，指示代词用 celles；que 指 celles，作 raconter 的直接宾语，过去分词 racontées 取阴性复数。celle 和 celui 是单数，ceux 是阳性复数。",
+          "locales": {
+            "fr": {
+              "explain": "histoires est féminin pluriel : le démonstratif est celles ; que reprend celles, COD de raconter, et le participe racontées s'accorde au féminin pluriel. celle et celui sont singuliers, ceux est masculin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q15",
@@ -2157,7 +2839,12 @@
           ],
           "answer": 3,
           "translation": "在我同事中，和我每天一起工作的那位去了里昂。",
-          "explain": "travailler avec qn 保留介词 avec；先行词指人，用 avec qui（也可用 avec lequel）。celui 是阳性单数，由 est parti 锁定。que 作直接宾语，dont 替代 de 补语，où 作地点或时间状语。"
+          "explain": "travailler avec qn 保留介词 avec；先行词指人，用 avec qui（也可用 avec lequel）。celui 是阳性单数，由 est parti 锁定。que 作直接宾语，dont 替代 de 补语，où 作地点或时间状语。",
+          "locales": {
+            "fr": {
+              "explain": "travailler avec quelqu'un conserve la préposition avec ; l'antécédent désigne une personne, d'où avec qui (ou avec lequel). celui est masculin singulier, confirmé par est parti. « que » serait COD, dont un complément en de, et où un complément de lieu ou de temps."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q16",
@@ -2171,7 +2858,12 @@
           ],
           "answer": 0,
           "translation": "在这些村庄中，我们度过夏天的那个非常安静。",
-          "explain": "从句 nous avons passé l'été 缺地点状语，先行词 villages 提供地点参照，用 où；celui 是阳性单数，锁定其中一个。que 要作直接宾语，dont 要替代 de 补语，qui 要作主语。"
+          "explain": "从句 nous avons passé l'été 缺地点状语，先行词 villages 提供地点参照，用 où；celui 是阳性单数，锁定其中一个。que 要作直接宾语，dont 要替代 de 补语，qui 要作主语。",
+          "locales": {
+            "fr": {
+              "explain": "La relative nous avons passé l'été manque d'un complément de lieu ; l'antécédent villages fournit le repère, donc où ; celui, masculin singulier, en isole un. « que » serait COD, dont un complément en de, et qui un sujet."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q17",
@@ -2185,7 +2877,12 @@
           ],
           "answer": 2,
           "translation": "在这些候选人中，说英语的那位是我的朋友。",
-          "explain": "从句 parle anglais 缺主语，用 qui；celui 是阳性单数，与 candidats 一致，锁定其中一个。que 要作直接宾语，dont 要替代 de 补语，où 要作地点或时间状语。"
+          "explain": "从句 parle anglais 缺主语，用 qui；celui 是阳性单数，与 candidats 一致，锁定其中一个。que 要作直接宾语，dont 要替代 de 补语，où 要作地点或时间状语。",
+          "locales": {
+            "fr": {
+              "explain": "La relative parle anglais manque de sujet : qui. celui est masculin singulier, s'accorde avec candidats et en isole un. « que » serait COD, dont un complément en de, et où un complément de lieu ou de temps."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q18",
@@ -2199,7 +2896,12 @@
           ],
           "answer": 1,
           "translation": "在这些工具中，我引以为豪的那个很旧。",
-          "explain": "être fier de 要求 de 补语，关系代词用 dont；celui 是阳性单数，与 outils 一致。que 要作直接宾语，qui 要作主语，où 要作地点或时间状语。"
+          "explain": "être fier de 要求 de 补语，关系代词用 dont；celui 是阳性单数，与 outils 一致。que 要作直接宾语，qui 要作主语，où 要作地点或时间状语。",
+          "locales": {
+            "fr": {
+              "explain": "être fier de exige un complément en de : le pronom relatif est dont. celui est masculin singulier et s'accorde avec outils. « que » serait COD, qui sujet, et où complément de lieu ou de temps."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-l5-q19",
@@ -2213,9 +2915,19 @@
           ],
           "answer": 2,
           "translation": "在这些书中，你需要的那本在图书馆里。",
-          "explain": "avoir besoin de 要求 de 补语，关系代词用 dont；celui 是阳性单数，与 livres 一致。que 要作直接宾语，qui 要作主语，où 要作地点或时间状语。"
+          "explain": "avoir besoin de 要求 de 补语，关系代词用 dont；celui 是阳性单数，与 livres 一致。que 要作直接宾语，qui 要作主语，où 要作地点或时间状语。",
+          "locales": {
+            "fr": {
+              "explain": "avoir besoin de exige un complément en de : le pronom relatif est dont. celui est masculin singulier et s'accorde avec livres. « que » serait COD, qui sujet, et où complément de lieu ou de temps."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Détermination, accord et participe présent (2)"
+        }
+      }
     }
   ],
   "challenges": [
@@ -2237,7 +2949,12 @@
           ],
           "answer": 0,
           "translation": "别人向我们推荐、大家都在谈论的那部电影周三上映。",
-          "explain": "第一空：recommander 的直接宾语是 le film，用 que；que 遇 on 省音为 qu'。第二空：parler de 的补语由 dont 替代，写成 dont tout le monde parle。qui 只能作主语，où 表地点或时间，都不能替代 de 补语；两个空不能互换。"
+          "explain": "第一空：recommander 的直接宾语是 le film，用 que；que 遇 on 省音为 qu'。第二空：parler de 的补语由 dont 替代，写成 dont tout le monde parle。qui 只能作主语，où 表地点或时间，都不能替代 de 补语；两个空不能互换。",
+          "locales": {
+            "fr": {
+              "explain": "Première case : le COD de recommander est le film, donc que, élidé en qu' devant on. Seconde case : le complément de parler de est repris par dont, d'où dont tout le monde parle. « qui » ne peut être que sujet, où marque le lieu ou le temps : aucun ne reprend un complément en de. Les deux cases ne sont pas interchangeables."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x1-q2",
@@ -2300,7 +3017,12 @@
             "manquera"
           ],
           "translation": "我在那里长大、每年夏天都去游览的那座城市让我十分怀念。",
-          "explain": "où 替代 dans cette ville，在从句中作地点状语；que 替代 la ville，作 visiter 的直接宾语。合并后原句的 la 不能保留，地点也不能再用 y 重复。dont 需要 de 补语，qui 需要主语位置，都不符合。"
+          "explain": "où 替代 dans cette ville，在从句中作地点状语；que 替代 la ville，作 visiter 的直接宾语。合并后原句的 la 不能保留，地点也不能再用 y 重复。dont 需要 de 补语，qui 需要主语位置，都不符合。",
+          "locales": {
+            "fr": {
+              "explain": "où remplace dans cette ville et sert de complément de lieu dans la relative ; que remplace la ville et est COD de visiter. Après réunion, le la de la phrase source ne subsiste pas, et le lieu ne se répète pas avec y. « dont » exigerait un complément en de et qui un sujet."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x1-q3",
@@ -2314,7 +3036,12 @@
           ],
           "answer": 1,
           "translation": "帮助家庭、我也是成员的那个协会正在招募志愿者。",
-          "explain": "第一个空需要从句主语，用 qui；谓语 aide 与单数先行词 l'association 一致。第二个空：faire partie de 要求 de 补语，用 dont。第二个空不能用 que，因为 faire partie 后面不能直接接直接宾语；dont 也不能在第一个空作主语。"
+          "explain": "第一个空需要从句主语，用 qui；谓语 aide 与单数先行词 l'association 一致。第二个空：faire partie de 要求 de 补语，用 dont。第二个空不能用 que，因为 faire partie 后面不能直接接直接宾语；dont 也不能在第一个空作主语。",
+          "locales": {
+            "fr": {
+              "explain": "La première case demande le sujet de la relative : qui, et le verbe aide s'accorde avec l'antécédent singulier l'association. La seconde case : faire partie de exige un complément en de, donc dont. « que » ne convient pas après faire partie, et dont ne peut pas être sujet dans la première case."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x1-q4",
@@ -2328,7 +3055,12 @@
             "i"
           ],
           "translation": "这是一个我完全负责、且并不后悔的决定。",
-          "explain": "être responsable de qch 要求 de 补语，关系代词用 dont。后半句 que je ne regrette pas 中，que 才是 regretter 的直接宾语。dont 不能充当直接宾语，que 也不能吸收 responsable de 的介词，因此两个关系词不能互换。"
+          "explain": "être responsable de qch 要求 de 补语，关系代词用 dont。后半句 que je ne regrette pas 中，que 才是 regretter 的直接宾语。dont 不能充当直接宾语，que 也不能吸收 responsable de 的介词，因此两个关系词不能互换。",
+          "locales": {
+            "fr": {
+              "explain": "être responsable de quelque chose exige un complément en de : le pronom relatif est dont. Dans la seconde partie, que je ne regrette pas, que est le COD de regretter. « dont » ne peut pas être COD, et que ne peut pas absorber le de de responsable de : les deux pronoms ne sont pas interchangeables."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x1-q5",
@@ -2342,7 +3074,12 @@
           ],
           "answer": 2,
           "translation": "我们相遇、我永远不会忘记的那一天深深印在我的记忆里。",
-          "explain": "先行词 le jour 表示时间，第一个从句缺时间状语，用 où；第二个从句 oublier 缺直接宾语，用 que。où 不能在第二空作直接宾语，dont 也不能替代时间状语。reste gravé 与单数先行词 le jour 一致。"
+          "explain": "先行词 le jour 表示时间，第一个从句缺时间状语，用 où；第二个从句 oublier 缺直接宾语，用 que。où 不能在第二空作直接宾语，dont 也不能替代时间状语。reste gravé 与单数先行词 le jour 一致。",
+          "locales": {
+            "fr": {
+              "explain": "L'antécédent le jour indique le temps ; la première relative manque d'un complément de temps, donc où ; la seconde, oublier manque d'un COD, donc que. « où » ne peut pas être COD dans la seconde case, et dont ne peut pas remplacer un complément de temps. reste gravé s'accorde avec l'antécédent singulier le jour."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x1-q6",
@@ -2356,7 +3093,12 @@
           ],
           "answer": 3,
           "translation": "那个举办节日活动、我的祖父母仍住在那里的街区位于城北。",
-          "explain": "第一个空需要从句主语，用 qui，谓语 accueille 与 le quartier 单数一致；第二个空表示「在这个街区」，用地点 où，vivre 在这里是不及物用法，需要地点状语。que 需要直接宾语；第二个空若用 qui，就会出现 « qui mes grands-parents vivent »，qui 后不能直接跟主语，句子不成立。"
+          "explain": "第一个空需要从句主语，用 qui，谓语 accueille 与 le quartier 单数一致；第二个空表示「在这个街区」，用地点 où，vivre 在这里是不及物用法，需要地点状语。que 需要直接宾语；第二个空若用 qui，就会出现 « qui mes grands-parents vivent »，qui 后不能直接跟主语，句子不成立。",
+          "locales": {
+            "fr": {
+              "explain": "La première case demande le sujet de la relative : qui, et le verbe accueille s'accorde avec le quartier singulier. La seconde case signifie « dans ce quartier » : on emploie où, car vivre est ici intransitif et exige un complément de lieu. « que » exigerait un COD ; avec qui dans la seconde case, on aurait « qui mes grands-parents vivent », où qui ne peut pas être suivi d'un sujet."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x1-q7",
@@ -2370,7 +3112,12 @@
           ],
           "answer": 0,
           "translation": "这部作者很有名、眼下人人都在读的小说卖得很好。",
-          "explain": "dont 替代 de ce roman，作 auteur 的名词补语；dont 后不能再用 son，必须把主有限定词改成定冠词，写成 dont l'auteur。第二个空：tout le monde lit 缺直接宾语，用 que。où 不能作 lit 的直接宾语，que l' 也不能替代 de 补语。"
+          "explain": "dont 替代 de ce roman，作 auteur 的名词补语；dont 后不能再用 son，必须把主有限定词改成定冠词，写成 dont l'auteur。第二个空：tout le monde lit 缺直接宾语，用 que。où 不能作 lit 的直接宾语，que l' 也不能替代 de 补语。",
+          "locales": {
+            "fr": {
+              "explain": "dont reprend de ce roman et détermine le nom auteur ; après dont, on ne garde pas son : on emploie l'article défini, d'où dont l'auteur. Seconde case : tout le monde lit manque d'un COD, donc que. « où » ne peut pas être COD de lire, et que l' ne peut pas reprendre un complément en de."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x1-q8",
@@ -2384,7 +3131,12 @@
           ],
           "answer": 1,
           "translation": "那个我来自、每年夏天都会回去的村庄位于海边。",
-          "explain": "être originaire de 要求 de + 地点，缩合为 d'où，表示来源；第二个空表示「每年夏天回到那里」，用地点 où。où 不能替代 de + 地点，que 也不能作地点状语。"
+          "explain": "être originaire de 要求 de + 地点，缩合为 d'où，表示来源；第二个空表示「每年夏天回到那里」，用地点 où。où 不能替代 de + 地点，que 也不能作地点状语。",
+          "locales": {
+            "fr": {
+              "explain": "être originaire de exige de + lieu, contracté en d'où pour la provenance ; la seconde case signifie « retourner là chaque été » et emploie le où locatif. « où » ne peut pas reprendre de + lieu, et que ne peut pas être complément de lieu."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x1-q9",
@@ -2398,7 +3150,12 @@
           ],
           "answer": 2,
           "translation": "我想到、昨天给我打电话的那个人住在里昂。",
-          "explain": "penser à qn 保留介词 à；先行词指人，用 à qui（指人时 auquel 也可，但本选项中没有这一形式）。第二个从句 téléphoner 缺主语，用 qui。dont 会丢掉 à，que 会使 penser 失去介词补语；à qui 也不能在第二个空作主语。"
+          "explain": "penser à qn 保留介词 à；先行词指人，用 à qui（指人时 auquel 也可，但本选项中没有这一形式）。第二个从句 téléphoner 缺主语，用 qui。dont 会丢掉 à，que 会使 penser 失去介词补语；à qui 也不能在第二个空作主语。",
+          "locales": {
+            "fr": {
+              "explain": "penser à quelqu'un conserve la préposition à ; l'antécédent désigne une personne, donc à qui (auquel serait aussi possible avec une personne, mais n'est pas proposé). La seconde relative téléphoner manque de sujet : qui. « dont » ferait perdre à, et que ferait perdre le complément prépositionnel de penser ; à qui ne peut pas être sujet dans la seconde case."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x1-q10",
@@ -2442,9 +3199,19 @@
             "dans"
           ],
           "translation": "这就是我出生、每个村庄我都熟悉的那片地区。",
-          "explain": "où 替代 dans cette région，作地点状语；dont 替代 de cette région，作 chaque village 的名词补语。合并时不能保留 de cette région；que 会与已经存在的直接宾语 chaque village 冲突。"
+          "explain": "où 替代 dans cette région，作地点状语；dont 替代 de cette région，作 chaque village 的名词补语。合并时不能保留 de cette région；que 会与已经存在的直接宾语 chaque village 冲突。",
+          "locales": {
+            "fr": {
+              "explain": "où remplace dans cette région et sert de complément de lieu ; dont reprend de cette région et détermine chaque village. Après réunion, on ne garde pas de cette région ; que entrerait en conflit avec le COD déjà présent chaque village."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse des pronoms relatifs : qui, que, où, dont"
+        }
+      }
     },
     {
       "id": "pub-c14-relative-clauses-x2",
@@ -2464,7 +3231,12 @@
           ],
           "answer": 1,
           "translation": "我们捐过款的那些协会公布了它们的账目。",
-          "explain": "先行词 les associations 是阴性复数；faire un don à 要求 à + lesquelles，缩合为 auxquelles。auxquels 是阳性复数，à lesquelles 没有缩合，desquelles 来自 de，介词不符。"
+          "explain": "先行词 les associations 是阴性复数；faire un don à 要求 à + lesquelles，缩合为 auxquelles。auxquels 是阳性复数，à lesquelles 没有缩合，desquelles 来自 de，介词不符。",
+          "locales": {
+            "fr": {
+              "explain": "L'antécédent les associations est féminin pluriel ; faire un don à exige à + lesquelles, contracté en auxquelles. auxquels est masculin pluriel, à lesquelles n'est pas contracté, et desquelles vient de de : la préposition ne convient pas."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x2-q2",
@@ -2478,7 +3250,12 @@
           ],
           "answer": 2,
           "translation": "我提到的问题非常复杂。",
-          "explain": "faire allusion à 要求 à + lequel；先行词 le problème 是阳性单数，缩合为 auquel。à laquelle 是阴性，auxquels 是复数，duquel 来自 de，均不符合。"
+          "explain": "faire allusion à 要求 à + lequel；先行词 le problème 是阳性单数，缩合为 auquel。à laquelle 是阴性，auxquels 是复数，duquel 来自 de，均不符合。",
+          "locales": {
+            "fr": {
+              "explain": "faire allusion à exige à + lequel ; l'antécédent le problème est masculin singulier, contracté en auquel. à laquelle est féminin, auxquels pluriel, et duquel vient de de : aucun ne convient."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x2-q3",
@@ -2519,7 +3296,12 @@
             "m'a"
           ],
           "translation": "比起西默农的小说，我更喜欢你借给我的那些。",
-          "explain": "ceux 替代 les romans，阳性复数；que 是 prêter 的直接宾语。avoir 作助动词且直接宾语 que 位于过去分词前，分词要与 ceux 配合：prêtés。celles 是阴性，qui 不能作宾语，prêté 和 prêtées 的性数不对。"
+          "explain": "ceux 替代 les romans，阳性复数；que 是 prêter 的直接宾语。avoir 作助动词且直接宾语 que 位于过去分词前，分词要与 ceux 配合：prêtés。celles 是阴性，qui 不能作宾语，prêté 和 prêtées 的性数不对。",
+          "locales": {
+            "fr": {
+              "explain": "ceux remplace les romans, masculin pluriel ; que est le COD de prêter. L'auxiliaire est avoir et le COD que est placé avant le participe, donc celui-ci s'accorde avec ceux : prêtés. celles est féminin, qui ne peut pas être COD, et prêté/prêtées ont un genre ou un nombre incorrect."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x2-q4",
@@ -2533,7 +3315,12 @@
           ],
           "answer": 3,
           "translation": "在初中生中，父母来参加了家长会的那些领到了一本小册子。",
-          "explain": "ceux 指 les collégiens（混合群体按阳性复数），dont 替代 des collégiens，作 parents 的名词补语。dont 已经包含 de，原来回指先行词的主有限定词 leurs 要改成定冠词 les，写成 dont les parents。que 需要直接宾语，celles 是阴性，leurs 不能与 dont 并存。"
+          "explain": "ceux 指 les collégiens（混合群体按阳性复数），dont 替代 des collégiens，作 parents 的名词补语。dont 已经包含 de，原来回指先行词的主有限定词 leurs 要改成定冠词 les，写成 dont les parents。que 需要直接宾语，celles 是阴性，leurs 不能与 dont 并存。",
+          "locales": {
+            "fr": {
+              "explain": "ceux reprend les collégiens (groupe mixte, masculin pluriel), et dont reprend des collégiens comme complément du nom parents. « dont » contient déjà de ; le possessif leurs qui reprenait l'antécédent devient l'article défini les : dont les parents. « que » exigerait un COD, celles est féminin, et leurs ne peut pas coexister avec dont."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x2-q5",
@@ -2546,7 +3333,12 @@
             "r"
           ],
           "translation": "我从小在她们身边长大的那些女邻居搬走了。",
-          "explain": "先行词 les voisines 是阴性复数；auprès de 要求 de + lesquelles，缩合为 desquelles。指人时 auprès de qui 也成立，但本题要求复合形式。desquels 是阳性复数，auprès lesquelles 缺少缩合，单数 laquelle 性数不符。"
+          "explain": "先行词 les voisines 是阴性复数；auprès de 要求 de + lesquelles，缩合为 desquelles。指人时 auprès de qui 也成立，但本题要求复合形式。desquels 是阳性复数，auprès lesquelles 缺少缩合，单数 laquelle 性数不符。",
+          "locales": {
+            "fr": {
+              "explain": "L'antécédent les voisines est féminin pluriel ; auprès de exige de + lesquelles, contracté en desquelles. Avec une personne, auprès de qui serait aussi possible, mais l'énoncé demande la forme composée. desquels est masculin pluriel, auprès lesquelles omet la préposition de, et laquelle est singulier."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x2-q6",
@@ -2579,7 +3371,12 @@
             "photos"
           ],
           "translation": "我更喜欢你昨天拍的那些照片。",
-          "explain": "celles 替代 ces photos，阴性复数；que 是 prendre 的直接宾语。avoir 助动词加前置直接宾语要求配合：prises。ceux 是阳性，qui 不能作宾语，pris 和 prise 的性数不对。"
+          "explain": "celles 替代 ces photos，阴性复数；que 是 prendre 的直接宾语。avoir 助动词加前置直接宾语要求配合：prises。ceux 是阳性，qui 不能作宾语，pris 和 prise 的性数不对。",
+          "locales": {
+            "fr": {
+              "explain": "celles remplace ces photos, féminin pluriel ; que est le COD de prendre. Avec l'auxiliaire avoir et un COD antéposé, le participe s'accorde : prises. ceux est masculin, qui ne peut pas être COD, et pris/prise ont un genre ou un nombre incorrect."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x2-q7",
@@ -2593,7 +3390,12 @@
           ],
           "answer": 0,
           "translation": "和我共用办公室、我介绍给你认识的那位实习生很腼腆。",
-          "explain": "partager qch avec qn 保留介词 avec；先行词指人，用 avec qui（书面语也可用 avec lequel，但本选项组合中第二空错误）。第二空：présenter qn à qn 的直接宾语是 le stagiaire，用 que。dont 会丢掉 avec，qui 不能在第二空作宾语。"
+          "explain": "partager qch avec qn 保留介词 avec；先行词指人，用 avec qui（书面语也可用 avec lequel，但本选项组合中第二空错误）。第二空：présenter qn à qn 的直接宾语是 le stagiaire，用 que。dont 会丢掉 avec，qui 不能在第二空作宾语。",
+          "locales": {
+            "fr": {
+              "explain": "partager quelque chose avec quelqu'un conserve la préposition avec ; l'antécédent désigne une personne, donc avec qui (avec lequel serait aussi possible à l'écrit, mais la seconde case de cette option est fautive). Seconde case : présenter quelqu'un à quelqu'un a pour COD le stagiaire, donc que. « dont » ferait perdre avec, et qui ne peut pas être COD dans la seconde case."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x2-q8",
@@ -2607,7 +3409,12 @@
           ],
           "answer": 1,
           "translation": "我参加的那个会议九点开始。",
-          "explain": "participer à 要求 à + laquelle；先行词 la réunion 是阴性单数，阴性单数保留 à laquelle，不与 à 缩合。auquel 是阳性单数，auxquelles 是复数，duquel 来自 de，均不合。"
+          "explain": "participer à 要求 à + laquelle；先行词 la réunion 是阴性单数，阴性单数保留 à laquelle，不与 à 缩合。auquel 是阳性单数，auxquelles 是复数，duquel 来自 de，均不合。",
+          "locales": {
+            "fr": {
+              "explain": "participer à exige à + laquelle ; l'antécédent la réunion est féminin singulier, et le féminin singulier conserve à laquelle, sans contraction avec à. auquel est masculin singulier, auxquelles pluriel, et duquel vient de de."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x2-q9",
@@ -2621,7 +3428,12 @@
           ],
           "answer": 2,
           "translation": "我们考虑过并作出的那些决定是正确的。",
-          "explain": "penser à 要求 auxquelles（à + lesquelles，阴性复数）；pensé 不配合，因为 penser à 没有直接宾语。prendre 的直接宾语是 que，且位于 avoir 前，分词与 les décisions 配合为 prises。auxquels 是阳性，pris 缺少配合，à lesquelles 没有缩合。"
+          "explain": "penser à 要求 auxquelles（à + lesquelles，阴性复数）；pensé 不配合，因为 penser à 没有直接宾语。prendre 的直接宾语是 que，且位于 avoir 前，分词与 les décisions 配合为 prises。auxquels 是阳性，pris 缺少配合，à lesquelles 没有缩合。",
+          "locales": {
+            "fr": {
+              "explain": "penser à exige auxquelles (à + lesquelles, féminin pluriel) ; le participe pensé ne s'accorde pas, car penser à n'a pas de COD. Le COD de prendre est que, placé avant avoir, et le participe s'accorde avec les décisions en prises. auxquels est masculin, pris manque l'accord, et à lesquelles n'est pas contracté."
+            }
+          }
         },
         {
           "id": "pub-c14-relative-clauses-x2-q10",
@@ -2637,9 +3449,28 @@
             "e"
           ],
           "translation": "我昨天写的那些信今天早上寄出去了。",
-          "explain": "écrire 用 avoir 作助动词；que 替代 les lettres，是直接宾语并位于 j'ai 之前，所以过去分词要与阴性复数先行词配合：écrites。écrit 不配合，écrite 是阴性单数，écrits 是阳性复数；重音 é 也不能丢。"
+          "explain": "écrire 用 avoir 作助动词；que 替代 les lettres，是直接宾语并位于 j'ai 之前，所以过去分词要与阴性复数先行词配合：écrites。écrit 不配合，écrite 是阴性单数，écrits 是阳性复数；重音 é 也不能丢。",
+          "locales": {
+            "fr": {
+              "explain": "écrire prend avoir ; que reprend les lettres, COD placé avant j'ai, donc le participe s'accorde avec l'antécédent féminin pluriel : écrites. écrit ne s'accorde pas, écrite est féminin singulier et écrits masculin pluriel ; l'accent de é ne disparaît pas."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse des formes composées et des accords : préposition + relatif, contractions, COD antéposé"
+        }
+      }
     }
-  ]
+  ],
+  "locales": {
+    "fr": {
+      "sectionTitles": {
+        "s1": "qui, que, où, dont",
+        "s2": "Préposition + pronom relatif, formes composées et série ce",
+        "s3": "Pronoms démonstratifs et relatives, accord et remplacement par le participe présent"
+      }
+    }
+  }
 }

@@ -6,167 +6,365 @@
     {
       "id": "pub-c16-time-space-prepositions-card-u1-1",
       "title": "基础方位：sur、sous、devant、derrière、entre、chez",
-      "body": "<p>方位介词说明人或物在空间中的位置。先掌握最基础的几个：</p><ul><li>sur：在……上面，通常表示接触表面。Le livre est sur la table.（书在桌上。）</li><li>sous：在……下面。Le chat dort sous le lit.（猫睡在床下。）</li><li>devant：在……前面。La voiture est devant la maison.（车在房子前面。）</li><li>derrière：在……后面。Le jardin est derrière la maison.（花园在房子后面。）</li><li>entre：在……之间，常用于 entre A et B。La boulangerie est entre la banque et la poste.（面包店在银行和邮局之间。）</li><li>chez：在某人家里、在某人处，后面接人，不接普通地点建筑。Je vais chez Léa.（我去莱娅家。）Elle est chez le médecin.（她在医生那里就诊。）</li></ul><p>sur 和 sous 表示接触或正上／正下；devant 和 derrière 表示前后方向。chez 的参照是人，包括以职业身份出现的人，不能说 *chez la gare。</p><p>注意：方位短语整体作地点状语，介词后面通常要带冠词（le、la、les、un、une、des）：sur la table、sous le lit、devant la maison。chez 后接人名、chez moi 这类人称代词形式或带冠词的职业名词（chez le médecin），但不能接普通地点建筑：*chez la gare 不对。</p>"
+      "body": "<p>方位介词说明人或物在空间中的位置。先掌握最基础的几个：</p><ul><li>sur：在……上面，通常表示接触表面。Le livre est sur la table.（书在桌上。）</li><li>sous：在……下面。Le chat dort sous le lit.（猫睡在床下。）</li><li>devant：在……前面。La voiture est devant la maison.（车在房子前面。）</li><li>derrière：在……后面。Le jardin est derrière la maison.（花园在房子后面。）</li><li>entre：在……之间，常用于 entre A et B。La boulangerie est entre la banque et la poste.（面包店在银行和邮局之间。）</li><li>chez：在某人家里、在某人处，后面接人，不接普通地点建筑。Je vais chez Léa.（我去莱娅家。）Elle est chez le médecin.（她在医生那里就诊。）</li></ul><p>sur 和 sous 表示接触或正上／正下；devant 和 derrière 表示前后方向。chez 的参照是人，包括以职业身份出现的人，不能说 *chez la gare。</p><p>注意：方位短语整体作地点状语，介词后面通常要带冠词（le、la、les、un、une、des）：sur la table、sous le lit、devant la maison。chez 后接人名、chez moi 这类人称代词形式或带冠词的职业名词（chez le médecin），但不能接普通地点建筑：*chez la gare 不对。</p>",
+      "locales": {
+        "fr": {
+          "title": "Repères spatiaux de base : sur, sous, devant, derrière, entre, chez",
+          "body": "<p>Les prépositions de lieu indiquent la position d'une personne ou d'une chose dans l'espace. Commencez par les plus courantes :</p><ul><li>sur : sur, au-dessus de, généralement avec contact : Le livre est sur la table.</li><li>sous : sous : Le chat dort sous le lit.</li><li>devant : devant : La voiture est devant la maison.</li><li>derrière : derrière : Le jardin est derrière la maison.</li><li>entre : entre, souvent dans entre A et B : La boulangerie est entre la banque et la poste.</li><li>chez : chez quelqu'un, au domicile de quelqu'un ; suivi d'une personne, non d'un bâtiment ordinaire : Je vais chez Léa. Elle est chez le médecin.</li></ul><p>sur et sous impliquent un contact ou une position juste au-dessus / juste en dessous ; devant et derrière indiquent l'avant et l'arrière. La référence de chez est une personne, y compris une personne désignée par sa profession ; on ne dit pas « chez la gare ».</p><p>Attention : le groupe de lieu fonctionne comme complément circonstanciel de lieu ; après la préposition, on met généralement un article (le, la, les, un, une, des) : sur la table, sous le lit, devant la maison. Après chez, on trouve un nom de personne, une forme pronominale comme chez moi ou un nom de profession avec article (chez le médecin), mais pas un bâtiment ordinaire : « chez la gare » est incorrect.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u1-2",
       "title": "复合方位短语：中间、对面、旁边、周围",
-      "body": "<p>复合方位短语由「介词 + 名词 + de」构成，用来表达更具体的位置。de 后面接名词时，要与后面的定冠词（le、la、les）缩合：de + le = du，de + les = des。</p><ul><li>au milieu de / au centre de：在……中间／中心。La fontaine est au milieu de la place.（喷泉在广场中央。）Le magasin est au centre du quartier.（商店在街区中心。）</li><li>au fond de：在……深处／尽头。Les clés sont au fond du sac.（钥匙在包的最里面。）</li><li>en face de：在……对面。La gare est en face de l'hôtel.（车站在旅馆对面。）</li><li>à côté de：在……旁边。Il habite à côté de la mairie.（他住在市政厅旁边。）</li><li>près de / loin de：靠近／远离。L'école est près des commerces.（学校靠近商店。）La ferme est loin du village.（农场离村子很远。）</li><li>autour de：在……周围。Les enfants sont autour de la table.（孩子们围在桌旁。）</li><li>au-dessus de / au-dessous de：在……上方／下方，通常不强调接触。La lampe est au-dessus de la table.（灯在桌子上方。）</li><li>en haut de / en bas de：在……的上部／下部。L'appartement est en haut de l'escalier.（公寓在楼梯上方。）</li></ul><p>注意：sur 强调接触表面，au-dessus de 强调位置在上方、不一定接触；sous 与 au-dessous de 也有类似区别。缩合不能漏：à côté du parc、en face des écoles。</p>"
+      "body": "<p>复合方位短语由「介词 + 名词 + de」构成，用来表达更具体的位置。de 后面接名词时，要与后面的定冠词（le、la、les）缩合：de + le = du，de + les = des。</p><ul><li>au milieu de / au centre de：在……中间／中心。La fontaine est au milieu de la place.（喷泉在广场中央。）Le magasin est au centre du quartier.（商店在街区中心。）</li><li>au fond de：在……深处／尽头。Les clés sont au fond du sac.（钥匙在包的最里面。）</li><li>en face de：在……对面。La gare est en face de l'hôtel.（车站在旅馆对面。）</li><li>à côté de：在……旁边。Il habite à côté de la mairie.（他住在市政厅旁边。）</li><li>près de / loin de：靠近／远离。L'école est près des commerces.（学校靠近商店。）La ferme est loin du village.（农场离村子很远。）</li><li>autour de：在……周围。Les enfants sont autour de la table.（孩子们围在桌旁。）</li><li>au-dessus de / au-dessous de：在……上方／下方，通常不强调接触。La lampe est au-dessus de la table.（灯在桌子上方。）</li><li>en haut de / en bas de：在……的上部／下部。L'appartement est en haut de l'escalier.（公寓在楼梯上方。）</li></ul><p>注意：sur 强调接触表面，au-dessus de 强调位置在上方、不一定接触；sous 与 au-dessous de 也有类似区别。缩合不能漏：à côté du parc、en face des écoles。</p>",
+      "locales": {
+        "fr": {
+          "title": "Groupes de lieu composés : milieu, face, côté, autour",
+          "body": "<p>Les groupes de lieu composés se forment avec « préposition + nom + de » et permettent d'exprimer une position plus précise. Quand de précède un nom, il se contracte avec l'article défini qui suit (le, la, les) : de + le = du, de + les = des.</p><ul><li>au milieu de / au centre de : au milieu de / au centre de. La fontaine est au milieu de la place. Le magasin est au centre du quartier.</li><li>au fond de : au fond de. Les clés sont au fond du sac.</li><li>en face de : en face de. La gare est en face de l'hôtel.</li><li>à côté de : à côté de. Il habite à côté de la mairie.</li><li>près de / loin de : près de / loin de. L'école est près des commerces. La ferme est loin du village.</li><li>autour de : autour de. Les enfants sont autour de la table.</li><li>au-dessus de / au-dessous de : au-dessus de / au-dessous de, généralement sans contact. La lampe est au-dessus de la table.</li><li>en haut de / en bas de : en haut de / en bas de. L'appartement est en haut de l'escalier.</li></ul><p>Attention : sur insiste sur le contact avec la surface, au-dessus de sur une position supérieure sans contact nécessaire ; sous et au-dessous de présentent une différence analogue. La contraction ne s'omet pas : à côté du parc, en face des écoles.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u1-3",
       "title": "dans 还是 à：内部空间与机构场所",
-      "body": "<p>dans 表示在某个空间、容器或区域的内部，强调「里面」；à 常与机构、店铺、学校、活动场所等搭配，表示去那里办事或参加活动。冠词按缩合规则变化：à + le = au，à + les = aux。</p><ul><li>dans la cuisine（在厨房里）、dans le tiroir（在抽屉里）、dans le parc（在公园里）、entrer dans la salle（走进大厅）——强调内部空间。</li><li>à l'école（在学校／去学校）、au marché（在市场／去市场）、à la boulangerie（在面包店）、au cinéma（在电影院）、à l'hôpital（在医院）——把地点看作机构或活动场所。</li></ul><p>对比：</p><ul><li>Je suis dans la banque.（我在银行大楼里面。）／ Je suis à la banque.（我在银行办事。）</li><li>Les enfants sont dans l'école.（孩子们在学校建筑里。）／ Les enfants sont à l'école.（孩子们在上学。）</li></ul><p>注意：选择取决于是否强调内部，而不是地点名词本身。有些固定短语保留自己的介词，不能因为名词前有冠词就一律改成 dans。</p>"
+      "body": "<p>dans 表示在某个空间、容器或区域的内部，强调「里面」；à 常与机构、店铺、学校、活动场所等搭配，表示去那里办事或参加活动。冠词按缩合规则变化：à + le = au，à + les = aux。</p><ul><li>dans la cuisine（在厨房里）、dans le tiroir（在抽屉里）、dans le parc（在公园里）、entrer dans la salle（走进大厅）——强调内部空间。</li><li>à l'école（在学校／去学校）、au marché（在市场／去市场）、à la boulangerie（在面包店）、au cinéma（在电影院）、à l'hôpital（在医院）——把地点看作机构或活动场所。</li></ul><p>对比：</p><ul><li>Je suis dans la banque.（我在银行大楼里面。）／ Je suis à la banque.（我在银行办事。）</li><li>Les enfants sont dans l'école.（孩子们在学校建筑里。）／ Les enfants sont à l'école.（孩子们在上学。）</li></ul><p>注意：选择取决于是否强调内部，而不是地点名词本身。有些固定短语保留自己的介词，不能因为名词前有冠词就一律改成 dans。</p>",
+      "locales": {
+        "fr": {
+          "title": "dans ou à : espace intérieur et lieu institutionnel",
+          "body": "<p>dans signifie « à l'intérieur d'un espace, d'un contenant ou d'une zone » et insiste sur l'intérieur ; à s'emploie souvent avec une institution, un commerce, une école ou un lieu d'activité, pour indiquer qu'on y va pour faire quelque chose ou y participer. L'article suit les règles de contraction : à + le = au, à + les = aux.</p><ul><li>dans la cuisine, dans le tiroir, dans le parc, entrer dans la salle : insiste sur l'espace intérieur.</li><li>à l'école, au marché, à la boulangerie, au cinéma, à l'hôpital : considère le lieu comme une institution ou un lieu d'activité.</li></ul><p>Comparaison :</p><ul><li>Je suis dans la banque. (Je suis à l'intérieur du bâtiment.) / Je suis à la banque. (Je suis à la banque pour y faire une opération.)</li><li>Les enfants sont dans l'école. (Les enfants sont dans le bâtiment.) / Les enfants sont à l'école. (Les enfants sont scolarisés.)</li></ul><p>Attention : le choix dépend de l'insistance sur l'intérieur, non du nom de lieu lui-même. Certaines expressions figées gardent leur préposition ; on ne les remplace pas toutes par dans sous prétexte qu'un article précède le nom.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u1-4",
       "title": "机构场所与固定地点短语",
-      "body": "<p>机构、店铺、学校、活动场所前，去往或停留通常用 à，并与冠词缩合：</p><ul><li>aller à l'école / au lycée / à l'université</li><li>aller au marché / à la poste / à la pharmacie / au restaurant / au cinéma / à l'hôpital</li><li>être au bureau / à la bibliothèque / au musée</li></ul><p>有些地点短语是整体固定的，其中的介词不能逐字替换：</p><ul><li>à la maison：在家；回家。Je suis à la maison.（我在家。）</li><li>à la campagne：在乡下。Ils habitent à la campagne.（他们住在乡下。）</li><li>en ville：在城里。Elle travaille en ville.（她在城里工作。）</li><li>en banlieue：在郊区。Nous vivons en banlieue.（我们住在郊区。）</li><li>en province：在外省。Il a grandi en province.（他在外省长大。）</li></ul><p>这些短语要整体记：dans la maison 表示「在房子内部」，不等于「在家」；「在家」固定说 à la maison；「在乡下」固定说 à la campagne，不说 dans la campagne；「在城里」固定说 en ville，不说 à la ville。</p><p>注意：要强调进入某个建筑内部时，用 dans：Il entre dans la maison.（他走进房子。）这与「他在家」的 à la maison 不同。</p>"
+      "body": "<p>机构、店铺、学校、活动场所前，去往或停留通常用 à，并与冠词缩合：</p><ul><li>aller à l'école / au lycée / à l'université</li><li>aller au marché / à la poste / à la pharmacie / au restaurant / au cinéma / à l'hôpital</li><li>être au bureau / à la bibliothèque / au musée</li></ul><p>有些地点短语是整体固定的，其中的介词不能逐字替换：</p><ul><li>à la maison：在家；回家。Je suis à la maison.（我在家。）</li><li>à la campagne：在乡下。Ils habitent à la campagne.（他们住在乡下。）</li><li>en ville：在城里。Elle travaille en ville.（她在城里工作。）</li><li>en banlieue：在郊区。Nous vivons en banlieue.（我们住在郊区。）</li><li>en province：在外省。Il a grandi en province.（他在外省长大。）</li></ul><p>这些短语要整体记：dans la maison 表示「在房子内部」，不等于「在家」；「在家」固定说 à la maison；「在乡下」固定说 à la campagne，不说 dans la campagne；「在城里」固定说 en ville，不说 à la ville。</p><p>注意：要强调进入某个建筑内部时，用 dans：Il entre dans la maison.（他走进房子。）这与「他在家」的 à la maison 不同。</p>",
+      "locales": {
+        "fr": {
+          "title": "Lieux institutionnels et expressions de lieu figées",
+          "body": "<p>Devant les institutions, commerces, écoles et lieux d'activité, on emploie généralement à pour aller ou se trouver, avec contraction de l'article :</p><ul><li>aller à l'école / au lycée / à l'université</li><li>aller au marché / à la poste / à la pharmacie / au restaurant / au cinéma / à l'hôpital</li><li>être au bureau / à la bibliothèque / au musée</li></ul><p>Certaines expressions de lieu sont figées et leur préposition ne se remplace pas mot à mot :</p><ul><li>à la maison : à la maison, chez soi. Je suis à la maison.</li><li>à la campagne : à la campagne. Ils habitent à la campagne.</li><li>en ville : en ville. Elle travaille en ville.</li><li>en banlieue : en banlieue. Nous vivons en banlieue.</li><li>en province : en province. Il a grandi en province.</li></ul><p>Ces expressions s'apprennent en bloc : dans la maison signifie « à l'intérieur de la maison » et non « chez soi » ; « chez soi » se dit à la maison ; « à la campagne » se dit à la campagne, non dans la campagne ; « en ville » se dit en ville, non à la ville.</p><p>Attention : pour insister sur l'entrée dans un bâtiment, on emploie dans : Il entre dans la maison. C'est différent de à la maison au sens de « chez soi ».</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u1-5",
       "title": "位移路径：vers、jusqu'à、par、à travers",
-      "body": "<p>位移路径介词说明动作沿什么方向、经过哪里、到达哪个终点。</p><ul><li>vers：朝、向，只表示方向，不保证到达。Nous marchons vers la gare.（我们朝车站走。）</li><li>jusqu'à：直到、一直到，强调到达终点。Le train va jusqu'à Marseille.（火车一直开到马赛。）jusqu'à 与定冠词缩合：jusqu'au marché、jusqu'aux quais。</li><li>par：经过、经由，表示路线或入口。Nous passons par Lyon.（我们经过里昂。）Entrez par la porte de gauche.（请从左边的门进来。）</li><li>à travers：穿过、透过，强调从内部或障碍中穿过。Le chemin passe à travers la forêt.（小路穿过森林。）</li><li>de...à：从……到……。Le train va de Paris à Lyon.（火车从巴黎开往里昂。）</li></ul><p>表示从某处离开，用 sortir de、partir de、descendre de；表示进入某处，用 entrer dans。de 与定冠词缩合：sortir du bureau、descendre des escaliers。</p><p>注意：vers 只表方向，不能替换表示目的地的 à；jusqu'à 强调终点，不能与 vers 混用。traverser 是动词，后面直接接宾语，不需要再加 à travers。</p>"
+      "body": "<p>位移路径介词说明动作沿什么方向、经过哪里、到达哪个终点。</p><ul><li>vers：朝、向，只表示方向，不保证到达。Nous marchons vers la gare.（我们朝车站走。）</li><li>jusqu'à：直到、一直到，强调到达终点。Le train va jusqu'à Marseille.（火车一直开到马赛。）jusqu'à 与定冠词缩合：jusqu'au marché、jusqu'aux quais。</li><li>par：经过、经由，表示路线或入口。Nous passons par Lyon.（我们经过里昂。）Entrez par la porte de gauche.（请从左边的门进来。）</li><li>à travers：穿过、透过，强调从内部或障碍中穿过。Le chemin passe à travers la forêt.（小路穿过森林。）</li><li>de...à：从……到……。Le train va de Paris à Lyon.（火车从巴黎开往里昂。）</li></ul><p>表示从某处离开，用 sortir de、partir de、descendre de；表示进入某处，用 entrer dans。de 与定冠词缩合：sortir du bureau、descendre des escaliers。</p><p>注意：vers 只表方向，不能替换表示目的地的 à；jusqu'à 强调终点，不能与 vers 混用。traverser 是动词，后面直接接宾语，不需要再加 à travers。</p>",
+      "locales": {
+        "fr": {
+          "title": "Trajet et direction : vers, jusqu'à, par, à travers",
+          "body": "<p>Les prépositions de trajet indiquent la direction, le passage ou le point d'arrivée d'une action.</p><ul><li>vers : vers, en direction de, sans garantie d'arrivée. Nous marchons vers la gare.</li><li>jusqu'à : jusqu'à, en insistant sur le point d'arrivée. Le train va jusqu'à Marseille. jusqu'à se contracte avec l'article défini : jusqu'au marché, jusqu'aux quais.</li><li>par : par, en passant par, indique l'itinéraire ou l'entrée. Nous passons par Lyon. Entrez par la porte de gauche.</li><li>à travers : à travers, en traversant, insiste sur le passage à l'intérieur ou à travers un obstacle. Le chemin passe à travers la forêt.</li><li>de...à : de... à. Le train va de Paris à Lyon.</li></ul><p>Pour exprimer le départ d'un lieu, on emploie sortir de, partir de, descendre de ; pour l'entrée, entrer dans. de se contracte avec l'article défini : sortir du bureau, descendre des escaliers.</p><p>Attention : vers n'indique que la direction et ne remplace pas à pour la destination ; jusqu'à insiste sur le point d'arrivée et ne se confond pas avec vers. traverser est un verbe et se construit directement avec son complément, sans à travers.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u1-6",
       "title": "être + 方位短语；与 il y a 区分",
-      "body": "<p>说明人或物所在的位置，用 être + 方位介词短语。方位短语作地点状语（说明动作或状态发生的地点），不是形容词表语，所以不随主语性数变化。</p><ul><li>Le livre est sur la table.（书在桌上。）</li><li>Les clés sont dans le tiroir.（钥匙在抽屉里。）</li><li>Elle est chez elle.（她在家。）</li><li>Nous sommes devant la gare.（我们在车站前面。）</li></ul><p>être 要随主语变位：je suis、tu es、il/elle est、nous sommes、vous êtes、ils/elles sont。方位短语本身保持不变。</p><p>il y a 表示「有、存在」，引出新信息；être + 方位短语表示已知的人或物在哪里。</p><ul><li>Il y a un livre sur la table.（桌上有一本书。）</li><li>Le livre est sur la table.（那本书在桌上。）</li></ul><p>注意：不要用 avoir 直接表位置：*La clé a sur la table 不对。il y a 后面的名词通常带不定冠词或数量词，être 句的主语通常是确指的人或物。</p>"
+      "body": "<p>说明人或物所在的位置，用 être + 方位介词短语。方位短语作地点状语（说明动作或状态发生的地点），不是形容词表语，所以不随主语性数变化。</p><ul><li>Le livre est sur la table.（书在桌上。）</li><li>Les clés sont dans le tiroir.（钥匙在抽屉里。）</li><li>Elle est chez elle.（她在家。）</li><li>Nous sommes devant la gare.（我们在车站前面。）</li></ul><p>être 要随主语变位：je suis、tu es、il/elle est、nous sommes、vous êtes、ils/elles sont。方位短语本身保持不变。</p><p>il y a 表示「有、存在」，引出新信息；être + 方位短语表示已知的人或物在哪里。</p><ul><li>Il y a un livre sur la table.（桌上有一本书。）</li><li>Le livre est sur la table.（那本书在桌上。）</li></ul><p>注意：不要用 avoir 直接表位置：*La clé a sur la table 不对。il y a 后面的名词通常带不定冠词或数量词，être 句的主语通常是确指的人或物。</p>",
+      "locales": {
+        "fr": {
+          "title": "être + groupe de lieu ; le distinguer de il y a",
+          "body": "<p>Pour indiquer la position d'une personne ou d'une chose, on emploie être + un groupe prépositionnel de lieu. Ce groupe est un complément circonstanciel de lieu, non un attribut adjectival : il ne varie donc pas avec le sujet.</p><ul><li>Le livre est sur la table.</li><li>Les clés sont dans le tiroir.</li><li>Elle est chez elle.</li><li>Nous sommes devant la gare.</li></ul><p>être se conjugue avec le sujet : je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Le groupe de lieu reste inchangé.</p><p>il y a signifie « il existe, il y a » et introduit une information nouvelle ; être + groupe de lieu indique où se trouve une personne ou une chose déjà connue.</p><ul><li>Il y a un livre sur la table.</li><li>Le livre est sur la table.</li></ul><p>Attention : on n'emploie pas avoir pour exprimer directement une position : « La clé a sur la table » est incorrect. Le nom après il y a prend généralement un article indéfini ou une quantité ; le sujet d'une phrase avec être est généralement une personne ou une chose déterminée.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u1-7",
       "title": "不定地点副词：quelque part、ailleurs、nulle part",
-      "body": "<p>不定地点副词不指出具体地点，只说明「某处」「别处」或「哪儿都不」。</p><ul><li>quelque part：某处，用于肯定句。Je cherche mes clés quelque part dans la maison.（我在屋里某个地方找钥匙。）</li><li>ailleurs：别处、其他地方。Ce restaurant est fermé ; allons ailleurs.（这家餐馆关门了，我们去别处吧。）</li><li>autre part：别处，较书面，常与 ailleurs 相当。Il travaille autre part.（他在别处工作。）</li><li>nulle part：哪儿都不，用于否定句，必须与 ne 连用，句中不再用 pas。Je ne trouve mes clés nulle part.（我哪儿都找不到钥匙。）</li></ul><p>nulle part 的位置在变位动词之后；复合时态（由助动词和过去分词构成的时态，如 passé composé）中放在过去分词之后：Il n'a trouvé ses clés nulle part.（他哪儿都没找到钥匙。）</p><p>注意：nulle part 不能用于肯定句，也不能写成 *ne...pas nulle part。d'ailleurs 表示「此外、而且」，d'autre part 表示「另一方面」，都不是「别处」，不要与 ailleurs 混淆。</p>"
+      "body": "<p>不定地点副词不指出具体地点，只说明「某处」「别处」或「哪儿都不」。</p><ul><li>quelque part：某处，用于肯定句。Je cherche mes clés quelque part dans la maison.（我在屋里某个地方找钥匙。）</li><li>ailleurs：别处、其他地方。Ce restaurant est fermé ; allons ailleurs.（这家餐馆关门了，我们去别处吧。）</li><li>autre part：别处，较书面，常与 ailleurs 相当。Il travaille autre part.（他在别处工作。）</li><li>nulle part：哪儿都不，用于否定句，必须与 ne 连用，句中不再用 pas。Je ne trouve mes clés nulle part.（我哪儿都找不到钥匙。）</li></ul><p>nulle part 的位置在变位动词之后；复合时态（由助动词和过去分词构成的时态，如 passé composé）中放在过去分词之后：Il n'a trouvé ses clés nulle part.（他哪儿都没找到钥匙。）</p><p>注意：nulle part 不能用于肯定句，也不能写成 *ne...pas nulle part。d'ailleurs 表示「此外、而且」，d'autre part 表示「另一方面」，都不是「别处」，不要与 ailleurs 混淆。</p>",
+      "locales": {
+        "fr": {
+          "title": "Adverbes de lieu indéterminé : quelque part, ailleurs, nulle part",
+          "body": "<p>Les adverbes de lieu indéterminé n'indiquent pas un lieu précis ; ils signifient « quelque part », « ailleurs » ou « nulle part ».</p><ul><li>quelque part : quelque part, à la forme affirmative. Je cherche mes clés quelque part dans la maison.</li><li>ailleurs : ailleurs. Ce restaurant est fermé ; allons ailleurs.</li><li>autre part : ailleurs, plus soutenu, souvent équivalent de ailleurs. Il travaille autre part.</li><li>nulle part : nulle part, à la forme négative, obligatoirement avec ne et sans pas. Je ne trouve mes clés nulle part.</li></ul><p>nulle part se place après le verbe conjugué ; au temps composé, formé de l'auxiliaire et du participe passé (par exemple le passé composé), il se place après le participe passé : Il n'a trouvé ses clés nulle part.</p><p>Attention : nulle part ne s'emploie pas à la forme affirmative et on n'écrit pas « ne...pas nulle part ». d'ailleurs signifie « d'ailleurs, en outre » et d'autre part « d'un autre côté » ; ni l'un ni l'autre ne signifie « ailleurs » : ne les confondez pas avec ailleurs.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u2-1",
       "title": "国名、地区名、大洋名的冠词",
-      "body": "<p>定冠词是 le、la、les，用来限定名词。大多数国名、地区名和大洋名带定冠词。冠词的性和数属于词条信息，要按词典记，不能只凭词尾猜。</p><ul><li>la France（法国）、la Chine（中国）、la Bretagne（布列塔尼）</li><li>le Portugal（葡萄牙）、le Canada（加拿大）、le Japon（日本）</li><li>les États-Unis（美国）、les Pays-Bas（荷兰）、les Alpes（阿尔卑斯山）</li><li>l'Italie（意大利）、l'Iran（伊朗）、l'océan Atlantique（大西洋）——以元音开头的名称，定冠词省音为 l'（省音是把冠词的元音去掉，用省文撇代替）。</li></ul><p>城市名通常不带冠词：Paris、Lyon、Bordeaux、Nice。少数城市名本身含冠词，如 Le Havre、Le Caire、La Rochelle、La Haye，这些要按词条整体记。</p><p>注意：国名的性数不能靠词尾推导，例如 le Mexique 是阳性、la France 是阴性；同一个词尾也可能对应不同性别。遇到新地名先查词典。</p>"
+      "body": "<p>定冠词是 le、la、les，用来限定名词。大多数国名、地区名和大洋名带定冠词。冠词的性和数属于词条信息，要按词典记，不能只凭词尾猜。</p><ul><li>la France（法国）、la Chine（中国）、la Bretagne（布列塔尼）</li><li>le Portugal（葡萄牙）、le Canada（加拿大）、le Japon（日本）</li><li>les États-Unis（美国）、les Pays-Bas（荷兰）、les Alpes（阿尔卑斯山）</li><li>l'Italie（意大利）、l'Iran（伊朗）、l'océan Atlantique（大西洋）——以元音开头的名称，定冠词省音为 l'（省音是把冠词的元音去掉，用省文撇代替）。</li></ul><p>城市名通常不带冠词：Paris、Lyon、Bordeaux、Nice。少数城市名本身含冠词，如 Le Havre、Le Caire、La Rochelle、La Haye，这些要按词条整体记。</p><p>注意：国名的性数不能靠词尾推导，例如 le Mexique 是阳性、la France 是阴性；同一个词尾也可能对应不同性别。遇到新地名先查词典。</p>",
+      "locales": {
+        "fr": {
+          "title": "Articles des noms de pays, de régions et d'océans",
+          "body": "<p>L'article défini (le, la, les) détermine le nom. La plupart des noms de pays, de régions et d'océans prennent un article défini. Le genre et le nombre de l'article font partie de l'entrée lexicale : on les apprend dans le dictionnaire, sans les déduire de la terminaison.</p><ul><li>la France, la Chine, la Bretagne</li><li>le Portugal, le Canada, le Japon</li><li>les États-Unis, les Pays-Bas, les Alpes</li><li>l'Italie, l'Iran, l'océan Atlantique : devant un nom commençant par une voyelle, l'article défini s'élide en l'.</li></ul><p>Les noms de villes ne prennent généralement pas d'article : Paris, Lyon, Bordeaux, Nice. Quelques noms de villes contiennent un article, comme Le Havre, Le Caire, La Rochelle, La Haye ; ils s'apprennent comme des entrées lexicales complètes.</p><p>Attention : le genre et le nombre d'un nom de pays ne se déduisent pas de la terminaison : le Mexique est masculin, la France féminin ; une même terminaison peut correspondre à des genres différents. Pour un nouveau nom de lieu, consultez le dictionnaire.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u2-2",
       "title": "去往与来源：en / au / aux，de / du / des",
-      "body": "<p>国名和大区名作地点状语时，去往和来源的介词成对选择：</p><ul><li>阴性单数：en + 国名；de + 国名（de 遇元音省音为 d'）。aller en France / venir de France；aller en Italie / venir d'Italie。</li><li>以元音或哑音 h 开头的阳性单数：也用 en 和 de/d'。aller en Iran / venir d'Iran；aller en Afghanistan / venir d'Afghanistan。</li><li>辅音开头的阳性单数：au / du。aller au Portugal / venir du Portugal；aller au Canada / venir du Canada。</li><li>复数：aux / des。aller aux États-Unis / venir des États-Unis；aller aux Pays-Bas / venir des Pays-Bas。</li></ul><p>判断步骤：先确定地名的性和数，再看阳性单数是否以元音或哑音 h 开头。冠词缩合只发生在 au/du/aux/des 这些形式里；en 后面不加冠词。</p><p>注意：à 本身不因后接元音而省音，例如 à Athènes、à Orléans；省音的是 de：d'Athènes、d'Orléans。地名性别和冠词状态要按词条记，不能只按首字母或词尾推断。</p>"
+      "body": "<p>国名和大区名作地点状语时，去往和来源的介词成对选择：</p><ul><li>阴性单数：en + 国名；de + 国名（de 遇元音省音为 d'）。aller en France / venir de France；aller en Italie / venir d'Italie。</li><li>以元音或哑音 h 开头的阳性单数：也用 en 和 de/d'。aller en Iran / venir d'Iran；aller en Afghanistan / venir d'Afghanistan。</li><li>辅音开头的阳性单数：au / du。aller au Portugal / venir du Portugal；aller au Canada / venir du Canada。</li><li>复数：aux / des。aller aux États-Unis / venir des États-Unis；aller aux Pays-Bas / venir des Pays-Bas。</li></ul><p>判断步骤：先确定地名的性和数，再看阳性单数是否以元音或哑音 h 开头。冠词缩合只发生在 au/du/aux/des 这些形式里；en 后面不加冠词。</p><p>注意：à 本身不因后接元音而省音，例如 à Athènes、à Orléans；省音的是 de：d'Athènes、d'Orléans。地名性别和冠词状态要按词条记，不能只按首字母或词尾推断。</p>",
+      "locales": {
+        "fr": {
+          "title": "Aller et venir : en / au / aux, de / du / des",
+          "body": "<p>Quand un nom de pays ou de grande région est complément de lieu, les prépositions d'aller et de provenance se choisissent par paires :</p><ul><li>Féminin singulier : en + nom de pays ; de + nom de pays (de s'élide en d' devant une voyelle). aller en France / venir de France ; aller en Italie / venir d'Italie.</li><li>Masculin singulier commençant par une voyelle ou un h muet : également en et de/d'. aller en Iran / venir d'Iran ; aller en Afghanistan / venir d'Afghanistan.</li><li>Masculin singulier commençant par une consonne : au / du. aller au Portugal / venir du Portugal ; aller au Canada / venir du Canada.</li><li>Pluriel : aux / des. aller aux États-Unis / venir des États-Unis ; aller aux Pays-Bas / venir des Pays-Bas.</li></ul><p>Démarche : déterminez d'abord le genre et le nombre du nom de lieu, puis regardez si le masculin singulier commence par une voyelle ou un h muet. La contraction ne concerne que au/du/aux/des ; après en, on ne met pas d'article.</p><p>Attention : à ne s'élide pas devant une voyelle, par exemple à Athènes, à Orléans ; c'est de qui s'élide : d'Athènes, d'Orléans. Le genre et l'article des noms de lieu s'apprennent par entrée lexicale, sans les déduire de l'initiale ni de la terminaison.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u2-3",
       "title": "城市名前直接用 à / de",
-      "body": "<p>城市名前一般不加冠词，去往用 à，来源用 de，不形成 au/du/des 缩合。</p><ul><li>aller à Paris、arriver à Lyon、habiter à Bordeaux</li><li>venir de Paris、rentrer de Lyon、partir de Nice</li><li>de 遇元音开头的城市名要省音：d'Athènes、d'Orléans、d'Avignon；à 不省音：à Athènes、à Orléans。</li></ul><p>对比国名：aller en France（阴性国名，用 en）／ aller à Paris（城市，用 à）。</p><p>少数城市名本身带冠词，按词条处理：</p><ul><li>Le Havre：aller au Havre、venir du Havre</li><li>Le Caire：aller au Caire、venir du Caire</li><li>La Rochelle：aller à La Rochelle、venir de La Rochelle</li><li>Les Sables-d'Olonne：aller aux Sables-d'Olonne、venir des Sables-d'Olonne</li></ul><p>注意：不要因为城市名以元音开头就在 à 后加省音；也不要把国名的 en/au 规则套到普通城市名上。带冠词的城市属于词条例外，只能逐个记。</p>"
+      "body": "<p>城市名前一般不加冠词，去往用 à，来源用 de，不形成 au/du/des 缩合。</p><ul><li>aller à Paris、arriver à Lyon、habiter à Bordeaux</li><li>venir de Paris、rentrer de Lyon、partir de Nice</li><li>de 遇元音开头的城市名要省音：d'Athènes、d'Orléans、d'Avignon；à 不省音：à Athènes、à Orléans。</li></ul><p>对比国名：aller en France（阴性国名，用 en）／ aller à Paris（城市，用 à）。</p><p>少数城市名本身带冠词，按词条处理：</p><ul><li>Le Havre：aller au Havre、venir du Havre</li><li>Le Caire：aller au Caire、venir du Caire</li><li>La Rochelle：aller à La Rochelle、venir de La Rochelle</li><li>Les Sables-d'Olonne：aller aux Sables-d'Olonne、venir des Sables-d'Olonne</li></ul><p>注意：不要因为城市名以元音开头就在 à 后加省音；也不要把国名的 en/au 规则套到普通城市名上。带冠词的城市属于词条例外，只能逐个记。</p>",
+      "locales": {
+        "fr": {
+          "title": "Devant les noms de villes : à / de directement",
+          "body": "<p>Les noms de villes ne prennent généralement pas d'article : on emploie à pour aller et de pour la provenance, sans contraction en au/du/des.</p><ul><li>aller à Paris, arriver à Lyon, habiter à Bordeaux</li><li>venir de Paris, rentrer de Lyon, partir de Nice</li><li>Devant un nom de ville commençant par une voyelle, de s'élide : d'Athènes, d'Orléans, d'Avignon ; à ne s'élide pas : à Athènes, à Orléans.</li></ul><p>Comparaison avec les noms de pays : aller en France (pays féminin, en) / aller à Paris (ville, à).</p><p>Quelques noms de villes contiennent un article et se traitent comme des entrées lexicales :</p><ul><li>Le Havre : aller au Havre, venir du Havre</li><li>Le Caire : aller au Caire, venir du Caire</li><li>La Rochelle : aller à La Rochelle, venir de La Rochelle</li><li>Les Sables-d'Olonne : aller aux Sables-d'Olonne, venir des Sables-d'Olonne</li></ul><p>Attention : n'ajoutez pas d'élision après à sous prétexte que le nom de ville commence par une voyelle ; n'appliquez pas non plus aux villes ordinaires les règles en/au des noms de pays. Les villes avec article sont des exceptions lexicales à apprendre une par une.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u2-4",
       "title": "岛屿与群岛名：en / à / aux",
-      "body": "<p>岛屿名的冠词状态和单复数要按词条记，不能直接照搬国名规则。介词选择如下：</p><ul><li>带冠词的阴性单数岛名：en（去往）／ de（来源）。la Corse → aller en Corse、venir de Corse；la Sardaigne → aller en Sardaigne、venir de Sardaigne；la Sicile、la Martinique、la Guadeloupe 同理。</li><li>带冠词的阳性单数岛名：à + 冠词缩合为 au／de + 冠词缩合为 du。le Groenland → aller au Groenland、venir du Groenland；le Sri Lanka → aller au Sri Lanka、venir du Sri Lanka。</li><li>复数群岛名：aux／des。les Baléares → aller aux Baléares、venir des Baléares；les Canaries、les Antilles、les Philippines 同理。</li><li>无冠词岛名：直接用 à／de。Cuba → aller à Cuba、venir de Cuba；Chypre → aller à Chypre、venir de Chypre；Malte → aller à Malte、venir de Malte。</li></ul><p>判断步骤：先查词典确认岛名是否带冠词、是单数还是复数，再选介词。la Corse 与 Cuba 都是岛，但一个带冠词、一个不带，不能互相类推。</p><p>注意：岛屿词条的冠词有时与国名规则不一致，必须单独记；不要按「岛名都是阴性」或「以元音开头就用 en」这类说法推断。</p>"
+      "body": "<p>岛屿名的冠词状态和单复数要按词条记，不能直接照搬国名规则。介词选择如下：</p><ul><li>带冠词的阴性单数岛名：en（去往）／ de（来源）。la Corse → aller en Corse、venir de Corse；la Sardaigne → aller en Sardaigne、venir de Sardaigne；la Sicile、la Martinique、la Guadeloupe 同理。</li><li>带冠词的阳性单数岛名：à + 冠词缩合为 au／de + 冠词缩合为 du。le Groenland → aller au Groenland、venir du Groenland；le Sri Lanka → aller au Sri Lanka、venir du Sri Lanka。</li><li>复数群岛名：aux／des。les Baléares → aller aux Baléares、venir des Baléares；les Canaries、les Antilles、les Philippines 同理。</li><li>无冠词岛名：直接用 à／de。Cuba → aller à Cuba、venir de Cuba；Chypre → aller à Chypre、venir de Chypre；Malte → aller à Malte、venir de Malte。</li></ul><p>判断步骤：先查词典确认岛名是否带冠词、是单数还是复数，再选介词。la Corse 与 Cuba 都是岛，但一个带冠词、一个不带，不能互相类推。</p><p>注意：岛屿词条的冠词有时与国名规则不一致，必须单独记；不要按「岛名都是阴性」或「以元音开头就用 en」这类说法推断。</p>",
+      "locales": {
+        "fr": {
+          "title": "Noms d'îles et d'archipels : en / à / aux",
+          "body": "<p>L'article et le nombre des noms d'îles s'apprennent par entrée lexicale ; on ne les calque pas directement sur les règles des noms de pays. Choix de la préposition :</p><ul><li>Île féminine singulière avec article : en (aller) / de (provenance). la Corse → aller en Corse, venir de Corse ; la Sardaigne → aller en Sardaigne, venir de Sardaigne ; de même la Sicile, la Martinique, la Guadeloupe.</li><li>Île masculine singulière avec article : à + article contracté en au / de + article contracté en du. le Groenland → aller au Groenland, venir du Groenland ; le Sri Lanka → aller au Sri Lanka, venir du Sri Lanka.</li><li>Archipels au pluriel : aux / des. les Baléares → aller aux Baléares, venir des Baléares ; de même les Canaries, les Antilles, les Philippines.</li><li>Noms d'îles sans article : à / de directement. Cuba → aller à Cuba, venir de Cuba ; Chypre → aller à Chypre, venir de Chypre ; Malte → aller à Malte, venir de Malte.</li></ul><p>Démarche : vérifiez d'abord dans le dictionnaire si le nom d'île prend un article et s'il est singulier ou pluriel, puis choisissez la préposition. la Corse et Cuba sont deux îles, mais l'une prend un article et l'autre non : on ne les calque pas l'une sur l'autre.</p><p>Attention : l'article des noms d'îles ne suit pas toujours les règles des noms de pays ; il s'apprend séparément. On ne part pas de l'idée que « toutes les îles sont féminines » ou que « l'initiale vocalique impose en ».</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u2-5",
       "title": "带冠词地名的缩合：au / du / aux / des",
-      "body": "<p>地名本身带定冠词时，介词 à、de 要与冠词缩合：</p><ul><li>阳性单数 le：à + le = au，de + le = du。le Maroc → aller au Maroc、venir du Maroc；le Havre → aller au Havre、venir du Havre；le Caire → aller au Caire、venir du Caire。</li><li>复数 les：à + les = aux，de + les = des。les États-Unis → aller aux États-Unis、venir des États-Unis；les Sables-d'Olonne → aller aux Sables-d'Olonne、venir des Sables-d'Olonne。</li><li>阴性单数 la：不缩合，仍是 à la / de la。La Rochelle → aller à La Rochelle、venir de La Rochelle；La Haye → aller à La Haye、venir de La Haye。</li></ul><p>只有 le 和 les 发生缩合；la 保持不变。不要把「所有冠词都变成 au/aux/du/des」当作规则。</p><p>注意：哪些地名带冠词、冠词是 le/la/les，属于词条信息，要按词典记；不能只凭拼写首音或名词类别推断。带冠词的地名与无冠词地名是两类，不能互相套用。</p>"
+      "body": "<p>地名本身带定冠词时，介词 à、de 要与冠词缩合：</p><ul><li>阳性单数 le：à + le = au，de + le = du。le Maroc → aller au Maroc、venir du Maroc；le Havre → aller au Havre、venir du Havre；le Caire → aller au Caire、venir du Caire。</li><li>复数 les：à + les = aux，de + les = des。les États-Unis → aller aux États-Unis、venir des États-Unis；les Sables-d'Olonne → aller aux Sables-d'Olonne、venir des Sables-d'Olonne。</li><li>阴性单数 la：不缩合，仍是 à la / de la。La Rochelle → aller à La Rochelle、venir de La Rochelle；La Haye → aller à La Haye、venir de La Haye。</li></ul><p>只有 le 和 les 发生缩合；la 保持不变。不要把「所有冠词都变成 au/aux/du/des」当作规则。</p><p>注意：哪些地名带冠词、冠词是 le/la/les，属于词条信息，要按词典记；不能只凭拼写首音或名词类别推断。带冠词的地名与无冠词地名是两类，不能互相套用。</p>",
+      "locales": {
+        "fr": {
+          "title": "Contraction avec les noms de lieux à article : au / du / aux / des",
+          "body": "<p>Quand le nom de lieu contient un article défini, les prépositions à et de se contractent avec cet article :</p><ul><li>Masculin singulier le : à + le = au, de + le = du. le Maroc → aller au Maroc, venir du Maroc ; le Havre → aller au Havre, venir du Havre ; le Caire → aller au Caire, venir du Caire.</li><li>Pluriel les : à + les = aux, de + les = des. les États-Unis → aller aux États-Unis, venir des États-Unis ; les Sables-d'Olonne → aller aux Sables-d'Olonne, venir des Sables-d'Olonne.</li><li>Féminin singulier la : pas de contraction, on garde à la / de la. La Rochelle → aller à La Rochelle, venir de La Rochelle ; La Haye → aller à La Haye, venir de La Haye.</li></ul><p>Seuls le et les se contractent ; la reste inchangé. On n'applique pas la règle « tous les articles deviennent au/aux/du/des ».</p><p>Attention : savoir quels noms de lieux prennent un article et lequel (le/la/les) fait partie de l'entrée lexicale ; on l'apprend dans le dictionnaire, sans le déduire du son initial ni de la catégorie du nom. Les noms avec article et les noms sans article forment deux catégories qui ne se calquent pas l'une sur l'autre.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u2-6",
       "title": "裸名地名例外（识别）",
-      "body": "<p>有些地名按常规似乎该带冠词，实际却不加冠词、直接使用 à 或 de，也不发生缩合。这类「裸名」形式只能按词条记，看到时认得即可。</p><ul><li>Cuba：aller à Cuba、venir de Cuba（不说 *au Cuba、*du Cuba）</li><li>Chypre：aller à Chypre、venir de Chypre</li><li>Malte：aller à Malte、venir de Malte</li><li>Madagascar：aller à Madagascar、venir de Madagascar</li></ul><p>这些名称不用 en，也不用 au/du。它们与「带冠词地名」的方向相反：一类是冠词必须保留并缩合，另一类是冠词不出现。</p><p>注意：这是词条性例外，不能由性别、数或首字母推导，也不要把它推广到其他地名。遇到新地名时查词典确认它属于哪一类。</p>"
+      "body": "<p>有些地名按常规似乎该带冠词，实际却不加冠词、直接使用 à 或 de，也不发生缩合。这类「裸名」形式只能按词条记，看到时认得即可。</p><ul><li>Cuba：aller à Cuba、venir de Cuba（不说 *au Cuba、*du Cuba）</li><li>Chypre：aller à Chypre、venir de Chypre</li><li>Malte：aller à Malte、venir de Malte</li><li>Madagascar：aller à Madagascar、venir de Madagascar</li></ul><p>这些名称不用 en，也不用 au/du。它们与「带冠词地名」的方向相反：一类是冠词必须保留并缩合，另一类是冠词不出现。</p><p>注意：这是词条性例外，不能由性别、数或首字母推导，也不要把它推广到其他地名。遇到新地名时查词典确认它属于哪一类。</p>",
+      "locales": {
+        "fr": {
+          "title": "Exceptions des noms de lieux sans article (reconnaissance)",
+          "body": "<p>Certains noms de lieux sembleraient devoir prendre un article selon la règle habituelle, mais s'emploient sans article, directement avec à ou de, et sans contraction. Ces formes « nues » s'apprennent par entrée lexicale ; il suffit de les reconnaître.</p><ul><li>Cuba : aller à Cuba, venir de Cuba (et non « au Cuba », « du Cuba »)</li><li>Chypre : aller à Chypre, venir de Chypre</li><li>Malte : aller à Malte, venir de Malte</li><li>Madagascar : aller à Madagascar, venir de Madagascar</li></ul><p>Ces noms n'emploient ni en ni au/du. Ils vont à l'inverse des noms de lieux avec article : dans un cas l'article est obligatoire et se contracte, dans l'autre il n'apparaît pas.</p><p>Attention : il s'agit d'exceptions lexicales, qu'on ne déduit ni du genre, ni du nombre, ni de l'initiale, et qu'on n'étend pas à d'autres noms de lieux. Pour un nouveau nom, vérifiez dans le dictionnaire à quelle catégorie il appartient.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u3-1",
       "title": "日期表达：nous sommes le + 日期（识别）",
-      "body": "<p>表达日期时，本课要求认出的标准结构是 nous sommes le + 日期。nous sommes 是第一人称复数形式，日期前保留定冠词 le。</p><ul><li>Nous sommes le 5 mai.（今天是五月五日。）</li><li>Nous sommes le lundi 5 mai.（今天是五月五日，星期一。）</li><li>Nous sommes le premier janvier.（今天是一月一日。）</li></ul><p>日期中的「日」用序数词 premier（第一）表示每月一号，其余日子用基数词（二、三、四等）：le deux mars、le quatorze juillet。</p><p>识别要点：看到 nous sommes le... 就知道在说日期；日期前不能省略 le。问日期可以说 Quelle est la date aujourd'hui ?（今天几号？）</p><p>注意：日期结构用 nous sommes，钟点结构用 il est，两者不要混。这里只要求能认出日期表达，不要求自己写出完整日期。</p>"
+      "body": "<p>表达日期时，本课要求认出的标准结构是 nous sommes le + 日期。nous sommes 是第一人称复数形式，日期前保留定冠词 le。</p><ul><li>Nous sommes le 5 mai.（今天是五月五日。）</li><li>Nous sommes le lundi 5 mai.（今天是五月五日，星期一。）</li><li>Nous sommes le premier janvier.（今天是一月一日。）</li></ul><p>日期中的「日」用序数词 premier（第一）表示每月一号，其余日子用基数词（二、三、四等）：le deux mars、le quatorze juillet。</p><p>识别要点：看到 nous sommes le... 就知道在说日期；日期前不能省略 le。问日期可以说 Quelle est la date aujourd'hui ?（今天几号？）</p><p>注意：日期结构用 nous sommes，钟点结构用 il est，两者不要混。这里只要求能认出日期表达，不要求自己写出完整日期。</p>",
+      "locales": {
+        "fr": {
+          "title": "Expression de la date : nous sommes le + date (reconnaissance)",
+          "body": "<p>Pour exprimer la date, la structure standard à reconnaître dans ce cours est nous sommes le + date. nous sommes est la première personne du pluriel ; l'article défini le se conserve devant la date.</p><ul><li>Nous sommes le 5 mai.</li><li>Nous sommes le lundi 5 mai.</li><li>Nous sommes le premier janvier.</li></ul><p>Pour le jour du mois, on emploie l'ordinal premier pour le 1er, puis les cardinaux pour les autres jours : le deux mars, le quatorze juillet.</p><p>Reconnaissance : la suite nous sommes le... signale une date ; le ne s'omet pas devant la date. Pour demander la date, on peut dire Quelle est la date aujourd'hui ?</p><p>Attention : la date emploie nous sommes, l'heure emploie il est : ne mélangez pas les deux. Ici, il suffit de reconnaître l'expression de la date, sans avoir à écrire une date complète.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u3-2",
       "title": "钟点前的介词 à",
-      "body": "<p>具体时刻前用 à，表示动作发生在某个时间点：</p><ul><li>à huit heures（在八点）</li><li>à midi（在中午）、à minuit（在午夜）</li><li>à trois heures et demie（在三点半）</li><li>à sept heures du matin（在早上七点）、à dix heures du soir（在晚上十点）</li></ul><p>例句：</p><ul><li>Le train part à huit heures.（火车八点出发。）</li><li>La réunion commence à neuf heures et quart.（会议九点一刻开始。）</li><li>Nous déjeunons à midi.（我们中午吃饭。）</li></ul><p>à 只标时间点，不表示持续时间，也不表示起点。持续时间用 pendant，起点用 depuis（见第 4 单元）。</p><p>注意：钟点前不要用 dans 或 en。dans une heure 表示「一小时之后」，是将来延时，不是「在一点钟」。表示大约的时间可以用 vers：vers midi（中午前后）。</p>"
+      "body": "<p>具体时刻前用 à，表示动作发生在某个时间点：</p><ul><li>à huit heures（在八点）</li><li>à midi（在中午）、à minuit（在午夜）</li><li>à trois heures et demie（在三点半）</li><li>à sept heures du matin（在早上七点）、à dix heures du soir（在晚上十点）</li></ul><p>例句：</p><ul><li>Le train part à huit heures.（火车八点出发。）</li><li>La réunion commence à neuf heures et quart.（会议九点一刻开始。）</li><li>Nous déjeunons à midi.（我们中午吃饭。）</li></ul><p>à 只标时间点，不表示持续时间，也不表示起点。持续时间用 pendant，起点用 depuis（见第 4 单元）。</p><p>注意：钟点前不要用 dans 或 en。dans une heure 表示「一小时之后」，是将来延时，不是「在一点钟」。表示大约的时间可以用 vers：vers midi（中午前后）。</p>",
+      "locales": {
+        "fr": {
+          "title": "La préposition à devant l'heure",
+          "body": "<p>Devant une heure précise, on emploie à pour indiquer le moment où se produit l'action :</p><ul><li>à huit heures</li><li>à midi, à minuit</li><li>à trois heures et demie</li><li>à sept heures du matin, à dix heures du soir</li></ul><p>Exemples :</p><ul><li>Le train part à huit heures.</li><li>La réunion commence à neuf heures et quart.</li><li>Nous déjeunons à midi.</li></ul><p>à marque seulement un point dans le temps ; il n'exprime ni la durée ni le point de départ. La durée s'exprime avec pendant, le point de départ avec depuis (voir l'unité 4).</p><p>Attention : devant l'heure, on n'emploie ni dans ni en. dans une heure signifie « dans une heure », un délai futur, et non « à une heure ». Pour une heure approximative, on peut employer vers : vers midi.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u3-3",
       "title": "无人称 il est + 钟点",
-      "body": "<p>报时用无人称结构 il est + 钟点。这里的 il 不指代具体的人或物，动词固定用第三人称单数 est。</p><ul><li>Il est huit heures.（现在八点。）</li><li>Il est midi.（现在中午十二点。）</li><li>Il est minuit.（现在午夜十二点。）</li><li>Il est trois heures et quart.（现在三点一刻。）</li><li>Il est six heures moins le quart.（现在五点三刻。）</li></ul><p>问时间：</p><ul><li>Quelle heure est-il ?（现在几点？）</li><li>Il est quelle heure ?（现在几点？——口语）</li></ul><p>il est + 钟点可以独立成句；如果钟点只是动作发生的时间，则用 à：Le cours commence à huit heures.（课程八点开始。）</p><p>注意：il est 表钟点，nous sommes le 表日期，il y a 表「有」或「以前」，三者功能不同。不要说 *Il y a huit heures 来表示「现在八点」，那是「八小时前」或「有八个小时」。</p>"
+      "body": "<p>报时用无人称结构 il est + 钟点。这里的 il 不指代具体的人或物，动词固定用第三人称单数 est。</p><ul><li>Il est huit heures.（现在八点。）</li><li>Il est midi.（现在中午十二点。）</li><li>Il est minuit.（现在午夜十二点。）</li><li>Il est trois heures et quart.（现在三点一刻。）</li><li>Il est six heures moins le quart.（现在五点三刻。）</li></ul><p>问时间：</p><ul><li>Quelle heure est-il ?（现在几点？）</li><li>Il est quelle heure ?（现在几点？——口语）</li></ul><p>il est + 钟点可以独立成句；如果钟点只是动作发生的时间，则用 à：Le cours commence à huit heures.（课程八点开始。）</p><p>注意：il est 表钟点，nous sommes le 表日期，il y a 表「有」或「以前」，三者功能不同。不要说 *Il y a huit heures 来表示「现在八点」，那是「八小时前」或「有八个小时」。</p>",
+      "locales": {
+        "fr": {
+          "title": "L'heure avec l'impersonnel il est",
+          "body": "<p>Pour donner l'heure, on emploie la structure impersonnelle il est + heure. Ici, il ne renvoie à aucune personne ni à aucun objet précis ; le verbe est toujours à la troisième personne du singulier, est.</p><ul><li>Il est huit heures.</li><li>Il est midi.</li><li>Il est minuit.</li><li>Il est trois heures et quart.</li><li>Il est six heures moins le quart.</li></ul><p>Pour demander l'heure :</p><ul><li>Quelle heure est-il ?</li><li>Il est quelle heure ? (oral)</li></ul><p>il est + heure peut former une phrase indépendante ; si l'heure n'est que le moment d'une action, on emploie à : Le cours commence à huit heures.</p><p>Attention : il est indique l'heure, nous sommes le la date, il y a l'existence ou « il y a... » : ces trois structures ont des fonctions différentes. On ne dit pas « Il y a huit heures » pour « il est huit heures » : cela signifie « huit heures auparavant » ou « il y a huit heures disponibles ».</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u4-1",
       "title": "pendant：一段有限的持续时间",
-      "body": "<p>pendant 加时段（如 trois ans、deux heures 这类表示时间长度的成分），表示动作或状态持续一段有限的时间。这段时段可以已经结束，也可以发生在将来，还可以泛指某一类期间；它不强调「持续到现在」。</p><ul><li>J'ai habité à Lyon pendant trois ans.（我在里昂住过三年。）</li><li>Il va travailler au Canada pendant six mois.（他将在加拿大工作六个月。）</li><li>Elle a gardé le silence pendant toute la réunion.（整个会议期间她都保持沉默。）</li></ul><p>pendant 后面可以接数量时段（pendant deux heures），也可以接带定冠词的名词（pendant les vacances、pendant la nuit）。状语放在句末或句首都可以。</p><p>注意：pendant 回答的是「持续了多久」，不回答「从什么时候开始」。要表示从过去某一点延续到现在，用 depuis（见下一张）。</p>"
+      "body": "<p>pendant 加时段（如 trois ans、deux heures 这类表示时间长度的成分），表示动作或状态持续一段有限的时间。这段时段可以已经结束，也可以发生在将来，还可以泛指某一类期间；它不强调「持续到现在」。</p><ul><li>J'ai habité à Lyon pendant trois ans.（我在里昂住过三年。）</li><li>Il va travailler au Canada pendant six mois.（他将在加拿大工作六个月。）</li><li>Elle a gardé le silence pendant toute la réunion.（整个会议期间她都保持沉默。）</li></ul><p>pendant 后面可以接数量时段（pendant deux heures），也可以接带定冠词的名词（pendant les vacances、pendant la nuit）。状语放在句末或句首都可以。</p><p>注意：pendant 回答的是「持续了多久」，不回答「从什么时候开始」。要表示从过去某一点延续到现在，用 depuis（见下一张）。</p>",
+      "locales": {
+        "fr": {
+          "title": "pendant : une durée limitée",
+          "body": "<p>pendant + une durée (trois ans, deux heures, etc.) indique qu'une action ou un état dure un temps limité. Cette durée peut être terminée, à venir ou désigner une période générale ; elle n'insiste pas sur la continuation jusqu'au présent.</p><ul><li>J'ai habité à Lyon pendant trois ans.</li><li>Il va travailler au Canada pendant six mois.</li><li>Elle a gardé le silence pendant toute la réunion.</li></ul><p>pendant peut être suivi d'une durée chiffrée (pendant deux heures) ou d'un nom avec article défini (pendant les vacances, pendant la nuit). Le complément peut se placer en fin ou en début de phrase.</p><p>Attention : pendant répond à « combien de temps cela a duré », non à « depuis quand ». Pour exprimer une action commencée dans le passé et qui continue jusqu'au présent, on emploie depuis (voir la fiche suivante).</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u4-2",
       "title": "depuis：从过去某点延续到现在",
-      "body": "<p>depuis 加时间点或时段，表示动作或状态从过去某一点开始，一直延续到现在。它常与现在时连用；与复合过去时（由助动词加过去分词构成的时态）连用时，要看状态是否仍在持续。</p><ul><li>Elle habite ici depuis 2015.（她自 2015 年起住在这里。）</li><li>J'apprends le français depuis trois ans.（我学法语三年了。）</li><li>Nous ne nous sommes pas vus depuis lundi.（我们从周一起就没见过面。）</li></ul><p>depuis 后面可以是具体时间点（depuis 2015、depuis lundi、depuis le début du mois），也可以是时段（depuis trois ans、depuis longtemps），但都强调起点和延续。</p><p>注意：depuis 不表示一段已经结束的时间。说「我五年前见过他」要用 il y a cinq ans，不能说 *depuis cinq ans je l'ai vu。</p>"
+      "body": "<p>depuis 加时间点或时段，表示动作或状态从过去某一点开始，一直延续到现在。它常与现在时连用；与复合过去时（由助动词加过去分词构成的时态）连用时，要看状态是否仍在持续。</p><ul><li>Elle habite ici depuis 2015.（她自 2015 年起住在这里。）</li><li>J'apprends le français depuis trois ans.（我学法语三年了。）</li><li>Nous ne nous sommes pas vus depuis lundi.（我们从周一起就没见过面。）</li></ul><p>depuis 后面可以是具体时间点（depuis 2015、depuis lundi、depuis le début du mois），也可以是时段（depuis trois ans、depuis longtemps），但都强调起点和延续。</p><p>注意：depuis 不表示一段已经结束的时间。说「我五年前见过他」要用 il y a cinq ans，不能说 *depuis cinq ans je l'ai vu。</p>",
+      "locales": {
+        "fr": {
+          "title": "depuis : d'un point du passé jusqu'au présent",
+          "body": "<p>depuis + un point de repère ou une durée indique qu'une action ou un état a commencé à un moment du passé et continue jusqu'au présent. Il s'emploie souvent avec le présent ; avec le passé composé, formé de l'auxiliaire et du participe passé, il faut vérifier si l'état continue encore.</p><ul><li>Elle habite ici depuis 2015.</li><li>J'apprends le français depuis trois ans.</li><li>Nous ne nous sommes pas vus depuis lundi.</li></ul><p>depuis peut être suivi d'un point précis (depuis 2015, depuis lundi, depuis le début du mois) ou d'une durée (depuis trois ans, depuis longtemps), mais insiste toujours sur le point de départ et la continuation.</p><p>Attention : depuis n'exprime pas une durée terminée. Pour dire « je l'ai vu il y a cinq ans », on emploie il y a cinq ans, non « depuis cinq ans je l'ai vu ».</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u4-3",
       "title": "il y a：多久以前",
-      "body": "<p>il y a 加时段，表示从现在往回数若干时间之前，也就是「多久以前」。它定位一个过去的时间点，常与过去时连用。</p><ul><li>J'ai vu ce film il y a deux semaines.（我两周前看过这部电影。）</li><li>Ils sont arrivés il y a une heure.（他们一小时前到了。）</li><li>Il y a longtemps, cette place était un marché.（很久以前，这个广场是个市场。）</li></ul><p>注意：il y a 有两个不同功能。加时段时表示「多久以前」；后面接名词时表示「有、存在」，如 il y a un parc près d'ici（这附近有个公园）。判断时看后面接的是时间还是名词。表示「多久以后」要用 dans（见下一张）。</p>"
+      "body": "<p>il y a 加时段，表示从现在往回数若干时间之前，也就是「多久以前」。它定位一个过去的时间点，常与过去时连用。</p><ul><li>J'ai vu ce film il y a deux semaines.（我两周前看过这部电影。）</li><li>Ils sont arrivés il y a une heure.（他们一小时前到了。）</li><li>Il y a longtemps, cette place était un marché.（很久以前，这个广场是个市场。）</li></ul><p>注意：il y a 有两个不同功能。加时段时表示「多久以前」；后面接名词时表示「有、存在」，如 il y a un parc près d'ici（这附近有个公园）。判断时看后面接的是时间还是名词。表示「多久以后」要用 dans（见下一张）。</p>",
+      "locales": {
+        "fr": {
+          "title": "il y a : combien de temps avant",
+          "body": "<p>il y a + une durée indique un moment passé compté à partir du présent, soit « il y a combien de temps ». Il situe un point dans le passé et s'emploie souvent avec un temps du passé.</p><ul><li>J'ai vu ce film il y a deux semaines.</li><li>Ils sont arrivés il y a une heure.</li><li>Il y a longtemps, cette place était un marché.</li></ul><p>Attention : il y a a deux fonctions différentes. Suivi d'une durée, il signifie « il y a... » ; suivi d'un nom, il signifie « il existe, il y a » : il y a un parc près d'ici. Regardez si ce qui suit est un temps ou un nom. Pour « dans combien de temps », on emploie dans (voir la fiche suivante).</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u4-4",
       "title": "dans：多久以后",
-      "body": "<p>dans 加时段，表示从现在起若干时间之后，也就是「多久以后」。它以说话时刻为起点，常与将来时或表示未来安排的动词连用。</p><ul><li>Le train part dans cinq minutes.（火车五分钟后出发。）</li><li>Nous nous verrons dans deux jours.（我们两天后见。）</li><li>Elle revient dans une heure.（她一小时后回来。）</li></ul><p>注意：dans 还常表示「在某个空间内部」，如 dans la boîte（在盒子里）、dans le train（在火车里）。那是空间用法，与这里的延时用法不同，要靠上下文区分。表示「多久以前」用 il y a（见上一张）。</p>"
+      "body": "<p>dans 加时段，表示从现在起若干时间之后，也就是「多久以后」。它以说话时刻为起点，常与将来时或表示未来安排的动词连用。</p><ul><li>Le train part dans cinq minutes.（火车五分钟后出发。）</li><li>Nous nous verrons dans deux jours.（我们两天后见。）</li><li>Elle revient dans une heure.（她一小时后回来。）</li></ul><p>注意：dans 还常表示「在某个空间内部」，如 dans la boîte（在盒子里）、dans le train（在火车里）。那是空间用法，与这里的延时用法不同，要靠上下文区分。表示「多久以前」用 il y a（见上一张）。</p>",
+      "locales": {
+        "fr": {
+          "title": "dans : combien de temps après",
+          "body": "<p>dans + une durée indique un moment à venir compté à partir du présent, soit « dans combien de temps ». Le point de départ est le moment de la parole ; la structure s'emploie souvent avec le futur ou avec un verbe exprimant un projet.</p><ul><li>Le train part dans cinq minutes.</li><li>Nous nous verrons dans deux jours.</li><li>Elle revient dans une heure.</li></ul><p>Attention : dans signifie aussi souvent « à l'intérieur d'un espace », comme dans la boîte, dans le train. C'est un emploi spatial, différent de l'emploi temporel ; le contexte permet de distinguer. Pour « il y a combien de temps », on emploie il y a (voir la fiche précédente).</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u4-5",
       "title": "en：完成某事所用的时间",
-      "body": "<p>en 加时段，表示完成某个动作所花的时间，强调在期限内完成。它通常与可以「做完」的动词连用，如 finir、construire、faire le trajet、apprendre。</p><ul><li>Elle a fini le marathon en trois heures.（她用三小时跑完了马拉松。）</li><li>Nous avons fait le trajet en vingt minutes.（我们用二十分钟走完了这段路。）</li><li>Il a appris à nager en un mois.（他一个月内学会了游泳。）</li></ul><p>判断方法：如果时段回答的是「做完这件事花了多久」，用 en；如果回答的是「这件事持续了多久」，用 pendant（见本单元第一张）。</p><p>注意：有些语境中 en 和 pendant 都能说，但重点不同：en 突出完成所需的时间，pendant 突出持续的过程。en 还表示材料、交通工具等（见第 5 单元）。</p>"
+      "body": "<p>en 加时段，表示完成某个动作所花的时间，强调在期限内完成。它通常与可以「做完」的动词连用，如 finir、construire、faire le trajet、apprendre。</p><ul><li>Elle a fini le marathon en trois heures.（她用三小时跑完了马拉松。）</li><li>Nous avons fait le trajet en vingt minutes.（我们用二十分钟走完了这段路。）</li><li>Il a appris à nager en un mois.（他一个月内学会了游泳。）</li></ul><p>判断方法：如果时段回答的是「做完这件事花了多久」，用 en；如果回答的是「这件事持续了多久」，用 pendant（见本单元第一张）。</p><p>注意：有些语境中 en 和 pendant 都能说，但重点不同：en 突出完成所需的时间，pendant 突出持续的过程。en 还表示材料、交通工具等（见第 5 单元）。</p>",
+      "locales": {
+        "fr": {
+          "title": "en : le temps nécessaire pour accomplir une action",
+          "body": "<p>en + une durée indique le temps employé pour accomplir une action, en insistant sur l'achèvement dans ce délai. Il s'emploie souvent avec des verbes qui expriment une action menée à son terme : finir, construire, faire le trajet, apprendre.</p><ul><li>Elle a fini le marathon en trois heures.</li><li>Nous avons fait le trajet en vingt minutes.</li><li>Il a appris à nager en un mois.</li></ul><p>Méthode : si la durée répond à « combien de temps a demandé cette action pour être accomplie », employez en ; si elle répond à « combien de temps cette action a duré », employez pendant (voir la première fiche de cette unité).</p><p>Attention : dans certains contextes, en et pendant sont tous deux possibles, mais l'accent diffère : en met en avant le temps nécessaire à l'achèvement, pendant le déroulement continu. en indique aussi le matériau ou le moyen de transport (voir l'unité 5).</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u4-6",
       "title": "pour：预定或计划的持续时间",
-      "body": "<p>pour 加时段，表示计划、预定或预期的持续时间，常与将来时或出发、安排类动词连用，如 partir pour、réserver pour。</p><ul><li>Je pars pour une semaine.（我要去一周。）</li><li>J'ai réservé une chambre pour trois nuits.（我订了三晚的房间。）</li><li>Elle est à Paris pour deux jours.（她在巴黎待两天。）</li></ul><p>判断方法：时段是事先安排好的、预期要持续的长度，用 pour；已经发生并强调实际持续多久，用 pendant（见本单元第一张）。</p><p>注意：pour 还表示目的、去向和支持（见第 5 单元），不能看到 pour 就理解成「持续」。</p>"
+      "body": "<p>pour 加时段，表示计划、预定或预期的持续时间，常与将来时或出发、安排类动词连用，如 partir pour、réserver pour。</p><ul><li>Je pars pour une semaine.（我要去一周。）</li><li>J'ai réservé une chambre pour trois nuits.（我订了三晚的房间。）</li><li>Elle est à Paris pour deux jours.（她在巴黎待两天。）</li></ul><p>判断方法：时段是事先安排好的、预期要持续的长度，用 pour；已经发生并强调实际持续多久，用 pendant（见本单元第一张）。</p><p>注意：pour 还表示目的、去向和支持（见第 5 单元），不能看到 pour 就理解成「持续」。</p>",
+      "locales": {
+        "fr": {
+          "title": "pour : une durée prévue ou planifiée",
+          "body": "<p>pour + une durée indique une durée prévue, programmée ou attendue ; il s'emploie souvent avec le futur ou des verbes de départ et d'organisation, comme partir pour, réserver pour.</p><ul><li>Je pars pour une semaine.</li><li>J'ai réservé une chambre pour trois nuits.</li><li>Elle est à Paris pour deux jours.</li></ul><p>Méthode : si la durée est fixée à l'avance et correspond à la longueur prévue, employez pour ; si l'action a déjà eu lieu et qu'on insiste sur sa durée réelle, employez pendant (voir la première fiche de cette unité).</p><p>Attention : pour exprime aussi le but, la destination et le soutien (voir l'unité 5) ; on ne l'interprète pas comme une durée chaque fois qu'on le voit.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u4-7",
       "title": "问起点、终点还是延续时长",
-      "body": "<p>询问时间关系时，先看想得到的是起点、终点，还是从起点延续至今的时长，再选择问法。</p><ul><li>Depuis quand habites-tu à Paris ? — Depuis 2018.（你从什么时候起住在巴黎？——自 2018 年起。）问起点，回答用 depuis 加时间点。</li><li>Jusqu'à quand reste-tu à Lyon ? — Jusqu'à dimanche.（你在里昂待到什么时候？——到周日。）问终点，回答用 jusqu'à 加时间点。</li><li>Depuis combien de temps apprends-tu le piano ? — Depuis trois ans.（你学钢琴多久了？——三年了。）问从起点延续到现在的时长，回答用 depuis 加时段。</li><li>Combien de temps dure le trajet ? — Une heure.（这段路要走多久？——一小时。）问单纯的时长，不涉及起点。</li></ul><p>注意：这些问法不能互换。「从什么时候起」用 Depuis quand，不能答成一个时长；「多久了」用 Depuis combien de temps，不能答成一个具体年份。回答时介词要与问句保持一致。</p>"
+      "body": "<p>询问时间关系时，先看想得到的是起点、终点，还是从起点延续至今的时长，再选择问法。</p><ul><li>Depuis quand habites-tu à Paris ? — Depuis 2018.（你从什么时候起住在巴黎？——自 2018 年起。）问起点，回答用 depuis 加时间点。</li><li>Jusqu'à quand reste-tu à Lyon ? — Jusqu'à dimanche.（你在里昂待到什么时候？——到周日。）问终点，回答用 jusqu'à 加时间点。</li><li>Depuis combien de temps apprends-tu le piano ? — Depuis trois ans.（你学钢琴多久了？——三年了。）问从起点延续到现在的时长，回答用 depuis 加时段。</li><li>Combien de temps dure le trajet ? — Une heure.（这段路要走多久？——一小时。）问单纯的时长，不涉及起点。</li></ul><p>注意：这些问法不能互换。「从什么时候起」用 Depuis quand，不能答成一个时长；「多久了」用 Depuis combien de temps，不能答成一个具体年份。回答时介词要与问句保持一致。</p>",
+      "locales": {
+        "fr": {
+          "title": "Demander le point de départ, le point d'arrivée ou la durée",
+          "body": "<p>Pour interroger sur un rapport temporel, déterminez d'abord si vous voulez connaître le point de départ, le point d'arrivée ou la durée écoulée depuis le point de départ, puis choisissez la question.</p><ul><li>Depuis quand habites-tu à Paris ? — Depuis 2018. On demande le point de départ ; la réponse emploie depuis + un point de repère.</li><li>Jusqu'à quand reste-tu à Lyon ? — Jusqu'à dimanche. On demande le point d'arrivée ; la réponse emploie jusqu'à + un point de repère.</li><li>Depuis combien de temps apprends-tu le piano ? — Depuis trois ans. On demande la durée écoulée depuis le point de départ ; la réponse emploie depuis + une durée.</li><li>Combien de temps dure le trajet ? — Une heure. On demande la durée seule, sans point de départ.</li></ul><p>Attention : ces questions ne sont pas interchangeables. « Depuis quand » demande depuis quand, non une durée ; « depuis combien de temps » demande depuis combien de temps, non une année précise. La réponse garde la préposition de la question.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u4-8",
       "title": "de … à / du … au：从……到……",
-      "body": "<p>de … à … 表示从某一时刻到另一时刻，或从某一阶段的开头到结尾。de 和 à 后面接带定冠词的名词时，要按缩合规则（介词与定冠词合并成一个词）写成 du … au（阳性单数）、de la … à la（阴性单数）、des … aux（复数）。</p><ul><li>Le magasin est ouvert de neuf heures à dix-neuf heures.（商店从九点开到十九点。）</li><li>Il travaille du matin au soir.（他从早工作到晚。）</li><li>Les vacances vont du 5 juillet au 31 août.（假期从 7 月 5 日到 8 月 31 日。）</li><li>Le festival se déroule de la mi-juin à la fin juillet.（艺术节从六月中旬持续到七月底。）</li></ul><p>要点：du = de + le，au = à + le，定冠词不能保留原形。钟点、年份等通常不带冠词，直接用 de … à：de 2010 à 2015、de huit heures à midi。日期前用 du … au：du 5 au 10 mai。</p><p>注意：depuis 强调从过去延续到现在，pendant 强调一段持续时间，两者都不是范围表达，不能替换 de … à。</p>"
+      "body": "<p>de … à … 表示从某一时刻到另一时刻，或从某一阶段的开头到结尾。de 和 à 后面接带定冠词的名词时，要按缩合规则（介词与定冠词合并成一个词）写成 du … au（阳性单数）、de la … à la（阴性单数）、des … aux（复数）。</p><ul><li>Le magasin est ouvert de neuf heures à dix-neuf heures.（商店从九点开到十九点。）</li><li>Il travaille du matin au soir.（他从早工作到晚。）</li><li>Les vacances vont du 5 juillet au 31 août.（假期从 7 月 5 日到 8 月 31 日。）</li><li>Le festival se déroule de la mi-juin à la fin juillet.（艺术节从六月中旬持续到七月底。）</li></ul><p>要点：du = de + le，au = à + le，定冠词不能保留原形。钟点、年份等通常不带冠词，直接用 de … à：de 2010 à 2015、de huit heures à midi。日期前用 du … au：du 5 au 10 mai。</p><p>注意：depuis 强调从过去延续到现在，pendant 强调一段持续时间，两者都不是范围表达，不能替换 de … à。</p>",
+      "locales": {
+        "fr": {
+          "title": "de... à / du... au : marquer un intervalle",
+          "body": "<p>de... à... indique un intervalle entre deux moments, ou entre le début et la fin d'une période. Quand de et à précèdent un nom avec article défini, on applique la contraction : du... au (masculin singulier), de la... à la (féminin singulier), des... aux (pluriel).</p><ul><li>Le magasin est ouvert de neuf heures à dix-neuf heures.</li><li>Il travaille du matin au soir.</li><li>Les vacances vont du 5 juillet au 31 août.</li><li>Le festival se déroule de la mi-juin à la fin juillet.</li></ul><p>À retenir : du = de + le, au = à + le ; l'article défini ne reste pas sous sa forme simple. Les heures et les années ne prennent généralement pas d'article : de 2010 à 2015, de huit heures à midi. Devant une date, on emploie du... au : du 5 au 10 mai.</p><p>Attention : depuis insiste sur la continuation depuis le passé jusqu'au présent, pendant sur une durée ; ni l'un ni l'autre n'exprime un intervalle et ne remplace de... à.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u4-9",
       "title": "六个时间介词的分工",
-      "body": "<p>六个时间介词可以按「回答什么问题」来区分：</p><ul><li>pendant + 时段：持续了多久（已结束、将发生或泛指）→ J'ai attendu pendant une heure.</li><li>depuis + 时间点或时段：从何时起延续到现在 → J'attends depuis une heure.</li><li>il y a + 时段：多久以前 → Il est parti il y a une heure.</li><li>dans + 时段：多久以后 → Il reviendra dans une heure.</li><li>en + 时段：做完某事花了多久 → Il a fini en une heure.</li><li>pour + 时段：预定持续多久 → Il part pour deux semaines.</li></ul><p>同一段时长配不同介词，句意就变了；先确定时间关系，再选介词。</p><p>注意：pendant 和 pour 在部分语境都能说，区别在「实际持续」与「预定安排」；en 和 pendant 也可能并存，区别在「完成用时」与「持续过程」。遇到两可的句子，要看上下文和动词。</p>"
+      "body": "<p>六个时间介词可以按「回答什么问题」来区分：</p><ul><li>pendant + 时段：持续了多久（已结束、将发生或泛指）→ J'ai attendu pendant une heure.</li><li>depuis + 时间点或时段：从何时起延续到现在 → J'attends depuis une heure.</li><li>il y a + 时段：多久以前 → Il est parti il y a une heure.</li><li>dans + 时段：多久以后 → Il reviendra dans une heure.</li><li>en + 时段：做完某事花了多久 → Il a fini en une heure.</li><li>pour + 时段：预定持续多久 → Il part pour deux semaines.</li></ul><p>同一段时长配不同介词，句意就变了；先确定时间关系，再选介词。</p><p>注意：pendant 和 pour 在部分语境都能说，区别在「实际持续」与「预定安排」；en 和 pendant 也可能并存，区别在「完成用时」与「持续过程」。遇到两可的句子，要看上下文和动词。</p>",
+      "locales": {
+        "fr": {
+          "title": "Le partage des six prépositions de temps",
+          "body": "<p>On peut distinguer les six prépositions de temps par la question à laquelle elles répondent :</p><ul><li>pendant + durée : combien de temps cela a duré (terminé, à venir ou général) → J'ai attendu pendant une heure.</li><li>depuis + point de repère ou durée : depuis quand cela continue jusqu'au présent → J'attends depuis une heure.</li><li>il y a + durée : il y a combien de temps → Il est parti il y a une heure.</li><li>dans + durée : dans combien de temps → Il reviendra dans une heure.</li><li>en + durée : combien de temps a demandé l'achèvement d'une action → Il a fini en une heure.</li><li>pour + durée : combien de temps est prévu → Il part pour deux semaines.</li></ul><p>La même durée avec une préposition différente change le sens ; déterminez d'abord le rapport temporel, puis choisissez la préposition.</p><p>Attention : pendant et pour sont parfois tous deux possibles, avec une différence entre « durée réelle » et « durée prévue » ; en et pendant peuvent aussi coexister, avec une différence entre « temps d'achèvement » et « déroulement ». Devant une phrase ambiguë, tenez compte du contexte et du verbe.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u5-1",
       "title": "en / à：交通方式与材料",
-      "body": "<p>en 可以引出交通方式、材料、颜色或呈现方式。</p><p>交通工具：en 加交通工具，一般不带冠词。</p><ul><li>en voiture（坐汽车）、en train（坐火车）、en bus（坐公交）、en avion（坐飞机）、en métro（坐地铁）、en bateau（坐船）</li><li>Nous allons à la gare en bus.（我们坐公交去火车站。）</li></ul><p>骑行和步行等用固定短语 à 加名词，同样不带冠词：à vélo（骑自行车）、à pied（步行）、à cheval（骑马）、à moto（骑摩托车）。</p><p>材料：en 加材料名词。</p><ul><li>une table en bois（一张木桌）、une fenêtre en verre（一扇玻璃窗）、un pull en coton（一件棉质毛衣）</li></ul><p>颜色和呈现方式：en 加颜色或方式。</p><ul><li>Elle s'habille en noir.（她穿黑色衣服。）</li><li>Ce texte est en français.（这篇文章是用法语写的。）</li></ul><p>注意：要强调「进入某个交通工具内部」时用 dans：monter dans le bus（上公交车）、dans le train（在火车车厢里）。en 说的是出行方式，不强调内部空间。交通工具前的 en 通常不带冠词，不能说 *en la voiture。</p>"
+      "body": "<p>en 可以引出交通方式、材料、颜色或呈现方式。</p><p>交通工具：en 加交通工具，一般不带冠词。</p><ul><li>en voiture（坐汽车）、en train（坐火车）、en bus（坐公交）、en avion（坐飞机）、en métro（坐地铁）、en bateau（坐船）</li><li>Nous allons à la gare en bus.（我们坐公交去火车站。）</li></ul><p>骑行和步行等用固定短语 à 加名词，同样不带冠词：à vélo（骑自行车）、à pied（步行）、à cheval（骑马）、à moto（骑摩托车）。</p><p>材料：en 加材料名词。</p><ul><li>une table en bois（一张木桌）、une fenêtre en verre（一扇玻璃窗）、un pull en coton（一件棉质毛衣）</li></ul><p>颜色和呈现方式：en 加颜色或方式。</p><ul><li>Elle s'habille en noir.（她穿黑色衣服。）</li><li>Ce texte est en français.（这篇文章是用法语写的。）</li></ul><p>注意：要强调「进入某个交通工具内部」时用 dans：monter dans le bus（上公交车）、dans le train（在火车车厢里）。en 说的是出行方式，不强调内部空间。交通工具前的 en 通常不带冠词，不能说 *en la voiture。</p>",
+      "locales": {
+        "fr": {
+          "title": "en / à : moyen de transport et matériau",
+          "body": "<p>en peut introduire un moyen de transport, un matériau, une couleur ou une manière de se présenter.</p><p>Moyens de transport : en + moyen de transport, généralement sans article.</p><ul><li>en voiture, en train, en bus, en avion, en métro, en bateau</li><li>Nous allons à la gare en bus.</li></ul><p>Pour les déplacements à vélo ou à pied, on emploie l'expression figée à + nom, également sans article : à vélo, à pied, à cheval, à moto.</p><p>Matériau : en + nom de matériau.</p><ul><li>une table en bois, une fenêtre en verre, un pull en coton</li></ul><p>Couleur et manière de se présenter : en + couleur ou manière.</p><ul><li>Elle s'habille en noir.</li><li>Ce texte est en français.</li></ul><p>Attention : pour insister sur l'entrée à l'intérieur d'un moyen de transport, on emploie dans : monter dans le bus, dans le train. en indique le moyen de déplacement, sans insister sur l'espace intérieur. Devant un moyen de transport, en ne prend généralement pas d'article : on ne dit pas « en la voiture ».</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u5-2",
       "title": "分配、比例与百分比",
-      "body": "<p>表示逐次分配、若干中的比例或百分比时，用固定的数量关系介词，具体形式按搭配整体记。</p><p>par 加时间或单位：每一次、每一单位</p><ul><li>deux fois par semaine（每周两次）</li><li>trois euros par kilo（每公斤三欧元）</li><li>une question par élève（每个学生一道题）</li></ul><p>sur：若干中的比例</p><ul><li>un étudiant sur cinq（五个学生中有一个）</li><li>neuf personnes sur dix（十个人中有九个）</li></ul><p>pour：百分比</p><ul><li>trente pour cent des habitants（百分之三十的居民）</li><li>cinquante pour cent de réduction（打五折）</li></ul><p>注意：这些介词与空间义同形，但这里表示数量关系，不能按字面方位理解。par 强调「每一」，sur 强调「在若干之中」，pour 用于百分比，三者不能随意互换。</p>"
+      "body": "<p>表示逐次分配、若干中的比例或百分比时，用固定的数量关系介词，具体形式按搭配整体记。</p><p>par 加时间或单位：每一次、每一单位</p><ul><li>deux fois par semaine（每周两次）</li><li>trois euros par kilo（每公斤三欧元）</li><li>une question par élève（每个学生一道题）</li></ul><p>sur：若干中的比例</p><ul><li>un étudiant sur cinq（五个学生中有一个）</li><li>neuf personnes sur dix（十个人中有九个）</li></ul><p>pour：百分比</p><ul><li>trente pour cent des habitants（百分之三十的居民）</li><li>cinquante pour cent de réduction（打五折）</li></ul><p>注意：这些介词与空间义同形，但这里表示数量关系，不能按字面方位理解。par 强调「每一」，sur 强调「在若干之中」，pour 用于百分比，三者不能随意互换。</p>",
+      "locales": {
+        "fr": {
+          "title": "Distribution, proportion et pourcentage",
+          "body": "<p>Pour exprimer une distribution successive, une proportion dans un ensemble ou un pourcentage, on emploie des prépositions de quantité fixées par l'usage ; les formes s'apprennent en bloc.</p><p>par + temps ou unité : chaque fois, par unité</p><ul><li>deux fois par semaine</li><li>trois euros par kilo</li><li>une question par élève</li></ul><p>sur : proportion dans un ensemble</p><ul><li>un étudiant sur cinq</li><li>neuf personnes sur dix</li></ul><p>pour : pourcentage</p><ul><li>trente pour cent des habitants</li><li>cinquante pour cent de réduction</li></ul><p>Attention : ces prépositions ont la même forme que les prépositions spatiales, mais elles expriment ici un rapport de quantité, non une position concrète. par insiste sur « chaque », sur sur « parmi plusieurs », pour sert aux pourcentages ; les trois ne sont pas librement interchangeables.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u5-3",
       "title": "avec 与 sans：伴随和缺少",
-      "body": "<p>avec 表示伴随、携带或方式；sans 表示缺少某人或某物，二者构成反义配对。</p><ul><li>Il est venu avec sa sœur.（他和他的姐妹一起来的。）</li><li>Elle écrit avec un stylo rouge.（她用一支红笔写字。）</li><li>Il voyage sans bagages.（他不带行李旅行。）</li><li>Je prends mon café sans sucre.（我喝咖啡不加糖。）</li></ul><p>avec 后面的名词保留冠词或限定词：avec sa sœur、avec un stylo。sans 后面的名词通常不加冠词：sans bagages、sans sucre、sans argent。</p><p>注意：sans 后不加冠词是一般规律，固定表达有例外，如 sans un mot（一句话也不说）、sans le savoir（不知不觉地）。avec 表具体工具时与 en 分工不同：avec un stylo 强调用某件工具，en français 强调用某种语言或方式。</p>"
+      "body": "<p>avec 表示伴随、携带或方式；sans 表示缺少某人或某物，二者构成反义配对。</p><ul><li>Il est venu avec sa sœur.（他和他的姐妹一起来的。）</li><li>Elle écrit avec un stylo rouge.（她用一支红笔写字。）</li><li>Il voyage sans bagages.（他不带行李旅行。）</li><li>Je prends mon café sans sucre.（我喝咖啡不加糖。）</li></ul><p>avec 后面的名词保留冠词或限定词：avec sa sœur、avec un stylo。sans 后面的名词通常不加冠词：sans bagages、sans sucre、sans argent。</p><p>注意：sans 后不加冠词是一般规律，固定表达有例外，如 sans un mot（一句话也不说）、sans le savoir（不知不觉地）。avec 表具体工具时与 en 分工不同：avec un stylo 强调用某件工具，en français 强调用某种语言或方式。</p>",
+      "locales": {
+        "fr": {
+          "title": "avec et sans : accompagnement et absence",
+          "body": "<p>avec exprime l'accompagnement, le fait de porter quelque chose ou la manière ; sans exprime l'absence d'une personne ou d'une chose. Les deux forment une paire d'opposés.</p><ul><li>Il est venu avec sa sœur.</li><li>Elle écrit avec un stylo rouge.</li><li>Il voyage sans bagages.</li><li>Je prends mon café sans sucre.</li></ul><p>Après avec, le nom garde l'article ou le déterminant : avec sa sœur, avec un stylo. Après sans, le nom ne prend généralement pas d'article : sans bagages, sans sucre, sans argent.</p><p>Attention : l'absence d'article après sans est la règle générale, mais certaines expressions figées font exception, comme sans un mot ou sans le savoir. avec et en se répartissent différemment selon qu'on désigne un outil précis ou un moyen : avec un stylo met l'accent sur l'outil, en français sur la langue ou la manière.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u5-4",
       "title": "contre 与 pour：反对和支持",
-      "body": "<p>contre 表示反对、对抗，pour 表示支持、赞成，二者构成配对，常用于投票、争论和立场表达。</p><ul><li>Je suis pour ce projet, mais mon collègue est contre.（我支持这个项目，但我的同事反对。）</li><li>La plupart des habitants ont voté contre le nouveau stade.（大多数居民投票反对新体育场。）</li><li>Elle a voté pour le candidat écologiste.（她投票支持那位绿党候选人。）</li><li>Nous sommes contre la violence.（我们反对暴力。）</li></ul><p>常见搭配：être pour / être contre（支持／反对）、voter pour / voter contre（投票支持／反对）、se battre contre（与……斗争）。</p><p>注意：pour 还表示目的、去向、持续时间和分配比例，不能把所有 pour 都理解成「支持」。contre 除「反对」外也可表示「紧靠」，如 contre le mur（靠着墙），要按搭配判断。</p>"
+      "body": "<p>contre 表示反对、对抗，pour 表示支持、赞成，二者构成配对，常用于投票、争论和立场表达。</p><ul><li>Je suis pour ce projet, mais mon collègue est contre.（我支持这个项目，但我的同事反对。）</li><li>La plupart des habitants ont voté contre le nouveau stade.（大多数居民投票反对新体育场。）</li><li>Elle a voté pour le candidat écologiste.（她投票支持那位绿党候选人。）</li><li>Nous sommes contre la violence.（我们反对暴力。）</li></ul><p>常见搭配：être pour / être contre（支持／反对）、voter pour / voter contre（投票支持／反对）、se battre contre（与……斗争）。</p><p>注意：pour 还表示目的、去向、持续时间和分配比例，不能把所有 pour 都理解成「支持」。contre 除「反对」外也可表示「紧靠」，如 contre le mur（靠着墙），要按搭配判断。</p>",
+      "locales": {
+        "fr": {
+          "title": "contre et pour : opposition et soutien",
+          "body": "<p>contre exprime l'opposition ou la résistance ; pour exprime le soutien ou l'approbation. Les deux forment une paire, souvent employée dans les votes, les débats et l'expression d'une position.</p><ul><li>Je suis pour ce projet, mais mon collègue est contre.</li><li>La plupart des habitants ont voté contre le nouveau stade.</li><li>Elle a voté pour le candidat écologiste.</li><li>Nous sommes contre la violence.</li></ul><p>Associations courantes : être pour / être contre, voter pour / voter contre, se battre contre.</p><p>Attention : pour exprime aussi le but, la destination, la durée et la proportion ; on ne l'interprète pas toujours comme « en faveur de ». contre peut aussi signifier « tout contre », comme dans contre le mur ; c'est l'association qui permet de décider.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u6-1",
       "title": "方位词的引申义：从位置到抽象关系",
-      "body": "<p>方位词（表示上下、前后、内外等位置关系的词，如 sur、dans、devant）除了本义，还常通过固定搭配表示抽象关系；这种由本义扩展出的抽象意义叫引申义。固定搭配指习惯上总一起使用、不能随意换词的组合。这类用法要先理解整体意思，不能把方位词逐字直译。</p><ul><li>un article sur le climat（一篇关于气候的文章）</li><li>dans Le Monde（在《世界报》上）</li><li>devant une difficulté（面对一个困难）</li><li>derrière cette décision（这项决定背后）</li></ul><p>判断方法：看方位词后面接的是什么。如果接的是能真正处在上下、前后关系的物体，多半是空间义；如果接的是话题、作品、处境、决定这类抽象名词，就要考虑引申义。同一个词在不同句子里可能一个是空间义、一个是引申义，要靠上下文区分。</p><p>这一组用法先做到能看懂、能选对，不必自己造新搭配。</p><p>注意：引申义由搭配决定，不能把所有抽象名词都套进同一个介词；遇到新组合要按词条记。</p>"
+      "body": "<p>方位词（表示上下、前后、内外等位置关系的词，如 sur、dans、devant）除了本义，还常通过固定搭配表示抽象关系；这种由本义扩展出的抽象意义叫引申义。固定搭配指习惯上总一起使用、不能随意换词的组合。这类用法要先理解整体意思，不能把方位词逐字直译。</p><ul><li>un article sur le climat（一篇关于气候的文章）</li><li>dans Le Monde（在《世界报》上）</li><li>devant une difficulté（面对一个困难）</li><li>derrière cette décision（这项决定背后）</li></ul><p>判断方法：看方位词后面接的是什么。如果接的是能真正处在上下、前后关系的物体，多半是空间义；如果接的是话题、作品、处境、决定这类抽象名词，就要考虑引申义。同一个词在不同句子里可能一个是空间义、一个是引申义，要靠上下文区分。</p><p>这一组用法先做到能看懂、能选对，不必自己造新搭配。</p><p>注意：引申义由搭配决定，不能把所有抽象名词都套进同一个介词；遇到新组合要按词条记。</p>",
+      "locales": {
+        "fr": {
+          "title": "Sens figurés des mots de position : de l'espace au rapport abstrait",
+          "body": "<p>Les mots de position (sur, dans, devant, etc.) ne servent pas seulement à situer dans l'espace : ils prennent aussi, dans des associations figées, un sens abstrait. Ce sens dérivé du sens spatial s'appelle un sens figuré. Une association figée est une combinaison habituelle dont on ne remplace pas librement les mots. Il faut comprendre le sens global, sans traduire les mots de position mot à mot.</p><ul><li>un article sur le climat</li><li>dans Le Monde</li><li>devant une difficulté</li><li>derrière cette décision</li></ul><p>Méthode : regardez ce qui suit le mot de position. Si c'est un objet qui peut réellement être au-dessus, en dessous, devant ou derrière, il s'agit probablement d'un sens spatial ; si c'est un thème, une œuvre, une situation ou une décision, il s'agit probablement d'un sens figuré. Un même mot peut avoir un sens spatial dans une phrase et un sens figuré dans une autre : le contexte décide.</p><p>Dans ce groupe, il suffit de comprendre et de choisir la bonne forme, sans inventer de nouvelles associations.</p><p>Attention : le sens figuré dépend de l'association ; on n'applique pas le même mot de position à tous les noms abstraits. Une combinaison nouvelle s'apprend par entrée lexicale.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u6-2",
       "title": "sur 与 dans：关于、在……之中",
-      "body": "<p>sur 的引申义常是「关于、以……为题目」，用于文章、书、讲座、问题、意见等：</p><ul><li>un livre sur l'histoire de France（一本关于法国历史的书）</li><li>un débat sur l'éducation（一场关于教育的辩论）</li><li>Je n'ai pas d'opinion sur cette question.（我对这个问题没有意见。）</li></ul><p>dans 的引申义常是「在……之中」，可用于报刊、作品、文件，也可用于处境或范围：</p><ul><li>J'ai lu ton nom dans le journal.（我在报纸上看到了你的名字。）</li><li>Ce personnage apparaît dans deux romans.（这个人物出现在两部小说里。）</li><li>Nous sommes dans une situation délicate.（我们处境微妙。）</li></ul><p>对比：sur la table 是空间义「在桌子上」，sur l'éducation 是抽象义「关于教育」；dans la boîte 是「在盒子里」，dans le journal 是「在报纸上」。</p><p>注意：dans 表示时间「在……之后」是另一条规则，见第 4 单元；那里的 dans 后面接时段，不接报刊或作品名。</p>"
+      "body": "<p>sur 的引申义常是「关于、以……为题目」，用于文章、书、讲座、问题、意见等：</p><ul><li>un livre sur l'histoire de France（一本关于法国历史的书）</li><li>un débat sur l'éducation（一场关于教育的辩论）</li><li>Je n'ai pas d'opinion sur cette question.（我对这个问题没有意见。）</li></ul><p>dans 的引申义常是「在……之中」，可用于报刊、作品、文件，也可用于处境或范围：</p><ul><li>J'ai lu ton nom dans le journal.（我在报纸上看到了你的名字。）</li><li>Ce personnage apparaît dans deux romans.（这个人物出现在两部小说里。）</li><li>Nous sommes dans une situation délicate.（我们处境微妙。）</li></ul><p>对比：sur la table 是空间义「在桌子上」，sur l'éducation 是抽象义「关于教育」；dans la boîte 是「在盒子里」，dans le journal 是「在报纸上」。</p><p>注意：dans 表示时间「在……之后」是另一条规则，见第 4 单元；那里的 dans 后面接时段，不接报刊或作品名。</p>",
+      "locales": {
+        "fr": {
+          "title": "sur et dans : à propos de, au sein de",
+          "body": "<p>Le sens figuré de sur est souvent « à propos de, ayant pour sujet », pour les articles, livres, exposés, questions et opinions :</p><ul><li>un livre sur l'histoire de France</li><li>un débat sur l'éducation</li><li>Je n'ai pas d'opinion sur cette question.</li></ul><p>Le sens figuré de dans est souvent « au sein de, à l'intérieur de » ; il s'emploie pour les journaux, les œuvres, les documents, mais aussi pour une situation ou un domaine :</p><ul><li>J'ai lu ton nom dans le journal.</li><li>Ce personnage apparaît dans deux romans.</li><li>Nous sommes dans une situation délicate.</li></ul><p>Comparaison : sur la table est spatial (« sur la table »), sur l'éducation est abstrait (« à propos de l'éducation ») ; dans la boîte est spatial (« dans la boîte »), dans le journal est abstrait (« dans le journal »).</p><p>Attention : dans exprimant le temps « dans... » suit une autre règle, voir l'unité 4 ; ce dans est suivi d'une durée, non d'un journal ou d'une œuvre.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u6-3",
       "title": "devant、derrière、sous、entre：处境与关系",
-      "body": "<p>这些方位词也能表示抽象关系：</p><ul><li>devant：面对、在……面前。devant un problème（面对一个问题）、devant la loi（在法律面前）、passer devant le juge（出庭受审）。</li><li>derrière：在……背后、隐藏在……后面。derrière cette décision（这项决定背后）、derrière son sourire（在他的微笑背后）。</li><li>sous：在……之下，表示影响、领导或条件。sous la direction de（在……领导下）、sous l'influence de（在……影响下）、sous la pluie（在雨中）、sous le titre de（以……为标题）。</li><li>entre：在……之间，表示人与人的关系或选择范围。entre amis（朋友之间）、entre nous（我们之间私下说）、choisir entre deux solutions（在两个办法中选择）。</li></ul><p>判断方法：先看后面是不是抽象名词（问题、法律、决定、影响、朋友），再看这个组合是否常见。空间义仍然存在：devant la porte（门前）、derrière la maison（房子后面）。</p><p>注意：sous la pluie 是固定说法，不能按字面理解成「在雨的下面」；这类搭配要整体记。</p>"
+      "body": "<p>这些方位词也能表示抽象关系：</p><ul><li>devant：面对、在……面前。devant un problème（面对一个问题）、devant la loi（在法律面前）、passer devant le juge（出庭受审）。</li><li>derrière：在……背后、隐藏在……后面。derrière cette décision（这项决定背后）、derrière son sourire（在他的微笑背后）。</li><li>sous：在……之下，表示影响、领导或条件。sous la direction de（在……领导下）、sous l'influence de（在……影响下）、sous la pluie（在雨中）、sous le titre de（以……为标题）。</li><li>entre：在……之间，表示人与人的关系或选择范围。entre amis（朋友之间）、entre nous（我们之间私下说）、choisir entre deux solutions（在两个办法中选择）。</li></ul><p>判断方法：先看后面是不是抽象名词（问题、法律、决定、影响、朋友），再看这个组合是否常见。空间义仍然存在：devant la porte（门前）、derrière la maison（房子后面）。</p><p>注意：sous la pluie 是固定说法，不能按字面理解成「在雨的下面」；这类搭配要整体记。</p>",
+      "locales": {
+        "fr": {
+          "title": "devant, derrière, sous, entre : situation et relation",
+          "body": "<p>Ces mots de position expriment aussi des relations abstraites :</p><ul><li>devant : face à, en présence de. devant un problème, devant la loi, passer devant le juge.</li><li>derrière : derrière, caché derrière. derrière cette décision, derrière son sourire.</li><li>sous : sous, exprimant une influence, une direction ou une condition. sous la direction de, sous l'influence de, sous la pluie, sous le titre de.</li><li>entre : entre, exprimant une relation entre personnes ou un choix. entre amis, entre nous, choisir entre deux solutions.</li></ul><p>Méthode : vérifiez d'abord si le nom qui suit est abstrait (problème, loi, décision, influence, ami), puis si l'association est courante. Le sens spatial existe toujours : devant la porte, derrière la maison.</p><p>Attention : sous la pluie est une expression figée ; on ne la comprend pas littéralement comme « sous la pluie ». Ces associations s'apprennent en bloc.</p>"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-card-u6-4",
       "title": "chez、vers、à travers、autour de：人物、方向与话题",
-      "body": "<p>chez 的基本义是「在某人家里、在某人那里」，引申为「在某个群体中」或「在某个作者的作品中」：</p><ul><li>chez le médecin（在医生那里／诊所）</li><li>chez les jeunes（在年轻人中）</li><li>chez Victor Hugo（在雨果的作品中）</li></ul><p>vers 表示「朝向」，也可用于抽象的方向或趋势：</p><ul><li>un effort vers la paix（朝向和平的努力）</li><li>aller vers les autres（走向他人）</li></ul><p>à travers 表示「穿过、遍及」，也可表示「通过、借助」：</p><ul><li>à travers le pays（遍及全国）</li><li>à travers le monde（世界各地）</li><li>à travers ses lettres（通过他的信件）</li></ul><p>autour de 表示「围绕」，引申为「以……为中心、关于」：</p><ul><li>une discussion autour de l'écologie（一场围绕生态的讨论）</li><li>un débat autour de la réforme（一场关于改革的辩论）</li></ul><p>注意：chez 后面接人，不接普通地点名词；「在邮局」要说 à la poste，不能说 *chez la poste（见第 1 单元）。这些引申用法要按搭配记，不能由方位本义推导。</p>"
+      "body": "<p>chez 的基本义是「在某人家里、在某人那里」，引申为「在某个群体中」或「在某个作者的作品中」：</p><ul><li>chez le médecin（在医生那里／诊所）</li><li>chez les jeunes（在年轻人中）</li><li>chez Victor Hugo（在雨果的作品中）</li></ul><p>vers 表示「朝向」，也可用于抽象的方向或趋势：</p><ul><li>un effort vers la paix（朝向和平的努力）</li><li>aller vers les autres（走向他人）</li></ul><p>à travers 表示「穿过、遍及」，也可表示「通过、借助」：</p><ul><li>à travers le pays（遍及全国）</li><li>à travers le monde（世界各地）</li><li>à travers ses lettres（通过他的信件）</li></ul><p>autour de 表示「围绕」，引申为「以……为中心、关于」：</p><ul><li>une discussion autour de l'écologie（一场围绕生态的讨论）</li><li>un débat autour de la réforme（一场关于改革的辩论）</li></ul><p>注意：chez 后面接人，不接普通地点名词；「在邮局」要说 à la poste，不能说 *chez la poste（见第 1 单元）。这些引申用法要按搭配记，不能由方位本义推导。</p>",
+      "locales": {
+        "fr": {
+          "title": "chez, vers, à travers, autour de : personnes, direction et thème",
+          "body": "<p>Le sens de base de chez est « chez quelqu'un, au domicile ou au lieu où travaille quelqu'un » ; il s'étend à « dans un groupe » ou « dans l'œuvre d'un auteur » :</p><ul><li>chez le médecin</li><li>chez les jeunes</li><li>chez Victor Hugo</li></ul><p>vers signifie « en direction de » et s'emploie aussi pour une direction ou une tendance abstraite :</p><ul><li>un effort vers la paix</li><li>aller vers les autres</li></ul><p>à travers signifie « en traversant, d'un bout à l'autre » et peut aussi signifier « par, au moyen de » :</p><ul><li>à travers le pays</li><li>à travers le monde</li><li>à travers ses lettres</li></ul><p>autour de signifie « autour de » et, au figuré, « ayant pour centre, à propos de » :</p><ul><li>une discussion autour de l'écologie</li><li>un débat autour de la réforme</li></ul><p>Attention : chez est suivi d'une personne, non d'un nom de lieu ordinaire ; « à la poste » se dit à la poste, non « chez la poste » (voir l'unité 1). Ces emplois figurés s'apprennent par association ; on ne les déduit pas du sens spatial de base.</p>"
+        }
+      }
     }
   ],
   "lessons": [
@@ -188,7 +386,12 @@
           ],
           "answer": 0,
           "translation": "猫在沙发上睡觉，就在坐垫中间。",
-          "explain": "au milieu des coussins（在坐垫中间）说明猫在沙发的表面上，用 sur。sous 表示在下面，devant 表示在前面，chez 后面要接人，都不能与「在坐垫中间」的语境配合。"
+          "explain": "au milieu des coussins（在坐垫中间）说明猫在沙发的表面上，用 sur。sous 表示在下面，devant 表示在前面，chez 后面要接人，都不能与「在坐垫中间」的语境配合。",
+          "locales": {
+            "fr": {
+              "explain": "au milieu des coussins indique que le chat est sur la surface du canapé : on emploie sur. sous indique sous, devant devant, et chez doit être suivi d'une personne ; aucune ne convient au contexte « au milieu des coussins »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q2",
@@ -202,7 +405,12 @@
             "s"
           ],
           "translation": "车停在房子前面，在车道上，正对大门。",
-          "explain": "face à la porte d'entrée（正对大门）和 dans l'allée 一起说明车在房子前面，用 devant。derrière 表示在后面，与「正对大门」矛盾。devant 的拼写是 d-e-v-a-n-t。"
+          "explain": "face à la porte d'entrée（正对大门）和 dans l'allée 一起说明车在房子前面，用 devant。derrière 表示在后面，与「正对大门」矛盾。devant 的拼写是 d-e-v-a-n-t。",
+          "locales": {
+            "fr": {
+              "explain": "face à la porte d'entrée et dans l'allée situent la voiture devant la maison : on emploie devant. derrière signifie derrière et contredit « face à la porte d'entrée ». L'orthographe est d-e-v-a-n-t."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q3",
@@ -216,7 +424,12 @@
           ],
           "answer": 2,
           "translation": "面包店在市政厅对面，两者面对面。",
-          "explain": "se font face（面对面）提示两者相对，用 en face de。au fond de 表示在深处，autour de 表示围绕，au-dessus de 表示在上方，都不符合。en face de 后面直接接 la mairie，不缩合。"
+          "explain": "se font face（面对面）提示两者相对，用 en face de。au fond de 表示在深处，autour de 表示围绕，au-dessus de 表示在上方，都不符合。en face de 后面直接接 la mairie，不缩合。",
+          "locales": {
+            "fr": {
+              "explain": "se font face indique que les deux bâtiments sont en vis-à-vis : on emploie en face de. au fond de indique au fond, autour de autour, au-dessus de au-dessus ; aucun ne convient. en face de se construit directement avec la mairie, sans contraction."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q4",
@@ -245,7 +458,13 @@
             "les"
           ],
           "translation": "学校位于村子中央。",
-          "explain": "se trouver 表示「位于」，地点用 au milieu de + 名词。du 是 de + le 的缩合，因为 village 是阳性单数。sous、chez、devant 都不能与 au milieu 搭配构成这个意思。"
+          "explain": "se trouver 表示「位于」，地点用 au milieu de + 名词。du 是 de + le 的缩合，因为 village 是阳性单数。sous、chez、devant 都不能与 au milieu 搭配构成这个意思。",
+          "locales": {
+            "fr": {
+              "explain": "se trouver signifie « se trouver » ; le lieu s'exprime avec au milieu de + nom. du est la contraction de de + le, car village est masculin singulier. sous, chez et devant ne peuvent pas former cette expression avec au milieu.",
+              "prompt": "Exprimez avec les éléments donnés que l'école se trouve au milieu du village."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q5",
@@ -259,7 +478,12 @@
           ],
           "answer": 1,
           "translation": "杜邦先生在高中教书。",
-          "explain": "lycée 是机构场所，阳性单数，à + le 缩合为 au：professeur au lycée。en 不能直接接 le lycée；chez 后面接人；sur 表示在表面上。若要强调在校舍内部，可以说 dans le lycée，但本题说的是机构身份。"
+          "explain": "lycée 是机构场所，阳性单数，à + le 缩合为 au：professeur au lycée。en 不能直接接 le lycée；chez 后面接人；sur 表示在表面上。若要强调在校舍内部，可以说 dans le lycée，但本题说的是机构身份。",
+          "locales": {
+            "fr": {
+              "explain": "lycée est un lieu institutionnel, masculin singulier ; à + le se contracte en au : professeur au lycée. en ne se construit pas directement avec le lycée ; chez est suivi d'une personne ; sur indique une surface. Pour insister sur l'intérieur du bâtiment, on pourrait dire dans le lycée, mais la phrase indique une fonction institutionnelle."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q6",
@@ -273,7 +497,12 @@
           ],
           "answer": 3,
           "translation": "孩子们在花园里玩。",
-          "explain": "jouer dans le jardin 表示在花园这个空间内部活动，用 dans。à le jardin 必须缩合成 au jardin，题目中的 à 不能直接接 le；chez 接人，entre 表示在两者之间。"
+          "explain": "jouer dans le jardin 表示在花园这个空间内部活动，用 dans。à le jardin 必须缩合成 au jardin，题目中的 à 不能直接接 le；chez 接人，entre 表示在两者之间。",
+          "locales": {
+            "fr": {
+              "explain": "jouer dans le jardin signifie jouer à l'intérieur de l'espace du jardin : on emploie dans. à le jardin doit se contracter en au jardin ; la phrase fournit à, qui ne peut pas précéder directement le ; chez est suivi d'une personne, entre marque le fait d'être entre deux éléments."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q7",
@@ -287,7 +516,12 @@
             "u"
           ],
           "translation": "书在我的包里。",
-          "explain": "书在包的内部，用 dans。dans 的拼写是 d-a-n-s；不要写成 *danss 或 *dan。"
+          "explain": "书在包的内部，用 dans。dans 的拼写是 d-a-n-s；不要写成 *danss 或 *dan。",
+          "locales": {
+            "fr": {
+              "explain": "Le livre est à l'intérieur du sac : on emploie dans. L'orthographe est d-a-n-s ; on n'écrit ni « danss » ni « dan »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q8",
@@ -323,7 +557,12 @@
             "aux"
           ],
           "translation": "我们先去市场，然后走进面包店。",
-          "explain": "市场作为活动场所，用 aller au marché（à + le = au）；走进面包店内部，用 entrer dans la boulangerie。两个地点性质不同，介词不能互换。"
+          "explain": "市场作为活动场所，用 aller au marché（à + le = au）；走进面包店内部，用 entrer dans la boulangerie。两个地点性质不同，介词不能互换。",
+          "locales": {
+            "fr": {
+              "explain": "Le marché est un lieu d'activité : on emploie aller au marché (à + le = au). Pour entrer à l'intérieur de la boulangerie, on emploie entrer dans la boulangerie. Les deux lieux n'ont pas la même nature et les prépositions ne sont pas interchangeables."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q9",
@@ -337,9 +576,19 @@
           ],
           "answer": 0,
           "translation": "她在家，今天不出门。",
-          "explain": "à la maison 是固定短语，表示「在家」。en 不能直接接 la maison；chez 后面要接人；sur 表示在表面上。dans la maison 表示「在房子内部」，与固定短语「在家」的用法不同。"
+          "explain": "à la maison 是固定短语，表示「在家」。en 不能直接接 la maison；chez 后面要接人；sur 表示在表面上。dans la maison 表示「在房子内部」，与固定短语「在家」的用法不同。",
+          "locales": {
+            "fr": {
+              "explain": "à la maison est une expression figée qui signifie « chez soi ». en ne se construit pas directement avec la maison ; chez est suivi d'une personne ; sur indique une surface. dans la maison signifie « à l'intérieur de la maison », différent de l'expression figée « chez soi »."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Relations spatiales et direction (1)"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-l1-2",
@@ -359,7 +608,12 @@
           ],
           "answer": 1,
           "translation": "他们住在乡下。",
-          "explain": "à la campagne 是固定地点短语，表示「在乡下」。en 不能直接接 la campagne；chez 后面要接人；sur 表示在表面上。dans la campagne 表示「在乡村地区内部」，与固定短语「在乡下」的用法不同。"
+          "explain": "à la campagne 是固定地点短语，表示「在乡下」。en 不能直接接 la campagne；chez 后面要接人；sur 表示在表面上。dans la campagne 表示「在乡村地区内部」，与固定短语「在乡下」的用法不同。",
+          "locales": {
+            "fr": {
+              "explain": "à la campagne est une expression figée qui signifie « à la campagne ». en ne se construit pas directement avec la campagne ; chez est suivi d'une personne ; sur indique une surface. dans la campagne signifie « à l'intérieur de la zone rurale », différent de l'expression figée."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q11",
@@ -373,7 +627,12 @@
             "t"
           ],
           "translation": "我每周六去市场。",
-          "explain": "marché 是阳性单数，à + le marché 缩合为 au marché。不能写成 à marché 或 *à le marché。"
+          "explain": "marché 是阳性单数，à + le marché 缩合为 au marché。不能写成 à marché 或 *à le marché。",
+          "locales": {
+            "fr": {
+              "explain": "marché est masculin singulier ; à + le marché se contracte en au marché. On n'écrit ni à marché ni « à le marché »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q12",
@@ -409,7 +668,12 @@
             "jusqu'à"
           ],
           "translation": "我们朝车站走，然后一直上到站台。",
-          "explain": "vers 表示朝某个方向、不保证到达；jusqu'au 表示一直到终点，jusqu'à + le 缩合为 jusqu'au。par 表示经过，descendre 方向相反。"
+          "explain": "vers 表示朝某个方向、不保证到达；jusqu'au 表示一直到终点，jusqu'à + le 缩合为 jusqu'au。par 表示经过，descendre 方向相反。",
+          "locales": {
+            "fr": {
+              "explain": "vers indique une direction, sans garantie d'arrivée ; jusqu'au indique le point d'arrivée, avec contraction de jusqu'à + le en jusqu'au. par indique le passage, et descendre va dans la direction opposée."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q13",
@@ -423,7 +687,12 @@
           ],
           "answer": 1,
           "translation": "我们去巴黎时经过了里昂。",
-          "explain": "passer par 表示「经过某地」，用 par。vers 只表示朝向，jusqu'à 强调到达终点，chez 后面接人，都不符合「途经」的意思。"
+          "explain": "passer par 表示「经过某地」，用 par。vers 只表示朝向，jusqu'à 强调到达终点，chez 后面接人，都不符合「途经」的意思。",
+          "locales": {
+            "fr": {
+              "explain": "passer par signifie « passer par un lieu » : on emploie par. vers n'indique que la direction, jusqu'à insiste sur le point d'arrivée et chez est suivi d'une personne ; aucun ne correspond à « passer par »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q14",
@@ -437,7 +706,12 @@
           ],
           "answer": 3,
           "translation": "他没敲门就进了大厅。",
-          "explain": "entrer dans 表示进入某个空间的内部，用 dans。à 不能直接构成 entrer à la salle；sur 表示在表面上；chez 后面接人。"
+          "explain": "entrer dans 表示进入某个空间的内部，用 dans。à 不能直接构成 entrer à la salle；sur 表示在表面上；chez 后面接人。",
+          "locales": {
+            "fr": {
+              "explain": "entrer dans signifie « entrer à l'intérieur d'un espace » : on emploie dans. à ne peut pas former entrer à la salle ; sur indique une surface ; chez est suivi d'une personne."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q15",
@@ -451,7 +725,12 @@
             "t"
           ],
           "translation": "她从家里出来。",
-          "explain": "sortir de 表示从某处出来，用 de。de + la maison 不缩合，因为 maison 是阴性单数；不能写成 *du la maison。"
+          "explain": "sortir de 表示从某处出来，用 de。de + la maison 不缩合，因为 maison 是阴性单数；不能写成 *du la maison。",
+          "locales": {
+            "fr": {
+              "explain": "sortir de signifie « sortir de » : on emploie de. de + la maison ne se contracte pas, car maison est féminin singulier ; on n'écrit pas « du la maison »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q16",
@@ -479,7 +758,12 @@
             "sous"
           ],
           "translation": "钥匙在桌上。",
-          "explain": "主语 la clé 变成复数 les clés，être 相应变成 sont；方位短语 sur la table 不随主语变化。"
+          "explain": "主语 la clé 变成复数 les clés，être 相应变成 sont；方位短语 sur la table 不随主语变化。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet la clé devient les clés, et être devient sont ; le groupe de lieu sur la table ne varie pas avec le sujet."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q17",
@@ -493,9 +777,19 @@
           ],
           "answer": 0,
           "translation": "孩子们在花园里。",
-          "explain": "主语 les enfants 是第三人称复数，être 用 sont。est 是第三人称单数，sommes 对应 nous，êtes 对应 vous。"
+          "explain": "主语 les enfants 是第三人称复数，être 用 sont。est 是第三人称单数，sommes 对应 nous，êtes 对应 vous。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet les enfants est à la troisième personne du pluriel : être se conjugue en sont. est est la troisième personne du singulier, sommes correspond à nous, êtes à vous."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Relations spatiales et direction (2)"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-l1-3",
@@ -515,7 +809,12 @@
           ],
           "answer": 2,
           "translation": "我弟弟有眼镜；眼镜在桌上。",
-          "explain": "第一句用 avoir 的变位 a 表示「有」，des lunettes 是阴性复数；第二句用 être 的变位 sont 说明位置，主语代词要指代 lunettes，用 elles。ils 是阳性复数，elle 是阴性单数，il 是阳性单数。"
+          "explain": "第一句用 avoir 的变位 a 表示「有」，des lunettes 是阴性复数；第二句用 être 的变位 sont 说明位置，主语代词要指代 lunettes，用 elles。ils 是阳性复数，elle 是阴性单数，il 是阳性单数。",
+          "locales": {
+            "fr": {
+              "explain": "La première phrase emploie avoir à la forme a pour « posséder » ; des lunettes est féminin pluriel. La seconde emploie être à la forme sont pour indiquer la position ; le pronom sujet reprend lunettes et se met au féminin pluriel, elles. ils est masculin pluriel, elle féminin singulier, il masculin singulier."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q19",
@@ -544,7 +843,12 @@
             "sous"
           ],
           "translation": "书架上有一些书。",
-          "explain": "il y a 引出存在的人或物，后面接不定冠词 des + 复数名词；地点短语 sur l'étagère 放在后面。不要用 être 的 sont 构成存在句。"
+          "explain": "il y a 引出存在的人或物，后面接不定冠词 des + 复数名词；地点短语 sur l'étagère 放在后面。不要用 être 的 sont 构成存在句。",
+          "locales": {
+            "fr": {
+              "explain": "il y a introduit l'existence de personnes ou de choses, suivi de l'article indéfini des + nom pluriel ; le groupe de lieu sur l'étagère se place après. On n'emploie pas la forme « sont » du verbe être pour former une phrase existentielle."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q20",
@@ -558,7 +862,12 @@
           ],
           "answer": 1,
           "translation": "我哪儿都找不到我的钥匙。",
-          "explain": "否定句中的 ne 提示要用 nulle part，表示「哪儿都不」，句中不再加 pas。quelque part 用于肯定句，ailleurs 表示「别处」，partout 表示「到处」，都与 ne 的否定意义不匹配。"
+          "explain": "否定句中的 ne 提示要用 nulle part，表示「哪儿都不」，句中不再加 pas。quelque part 用于肯定句，ailleurs 表示「别处」，partout 表示「到处」，都与 ne 的否定意义不匹配。",
+          "locales": {
+            "fr": {
+              "explain": "Le ne de la phrase négative indique qu'il faut nulle part, qui signifie « nulle part », sans pas supplémentaire. quelque part s'emploie à la forme affirmative, ailleurs signifie « ailleurs », partout signifie « partout » : aucun ne correspond au sens négatif de ne."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q21",
@@ -584,7 +893,12 @@
             "suis"
           ],
           "translation": "我哪儿都不去。",
-          "explain": "nulle part 必须与 ne 连用，构成 ne + 变位动词 + nulle part；不能保留 quelque part，也不能再加 pas。"
+          "explain": "nulle part 必须与 ne 连用，构成 ne + 变位动词 + nulle part；不能保留 quelque part，也不能再加 pas。",
+          "locales": {
+            "fr": {
+              "explain": "nulle part doit s'employer avec ne, d'où ne + verbe conjugué + nulle part ; on ne conserve pas quelque part et on n'ajoute pas « pas »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q22",
@@ -598,7 +912,12 @@
           ],
           "answer": 3,
           "translation": "这家餐馆关门了；我们去别处吧。",
-          "explain": "餐馆关门，所以要换一个地方，用 ailleurs（别处）。nulle part 表示「哪儿都不」，与肯定命令 allons 不搭配；partout 表示「到处」，不符合「换地方」的意思；ici 指这里。"
+          "explain": "餐馆关门，所以要换一个地方，用 ailleurs（别处）。nulle part 表示「哪儿都不」，与肯定命令 allons 不搭配；partout 表示「到处」，不符合「换地方」的意思；ici 指这里。",
+          "locales": {
+            "fr": {
+              "explain": "Le restaurant est fermé, il faut donc changer de lieu : on emploie ailleurs. nulle part signifie « nulle part » et ne se combine pas avec l'impératif affirmatif allons ; partout signifie « partout » et ne correspond pas à « changer de lieu » ; ici signifie « ici »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q23",
@@ -612,7 +931,12 @@
             "d"
           ],
           "translation": "这家店关门了；我们得去别处找。",
-          "explain": "表示「在别处、去别处」用 ailleurs。拼写是 a-i-l-l-e-u-r-s，注意双写 l，词尾有 s。"
+          "explain": "表示「在别处、去别处」用 ailleurs。拼写是 a-i-l-l-e-u-r-s，注意双写 l，词尾有 s。",
+          "locales": {
+            "fr": {
+              "explain": "Pour exprimer « en un autre lieu / vers un autre lieu », on emploie ailleurs. L'orthographe est a-i-l-l-e-u-r-s, avec l double et s final."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q24",
@@ -643,7 +967,12 @@
             "cherché"
           ],
           "translation": "她哪儿都没找到她的钥匙。",
-          "explain": "复合时态中，ne 放在助动词前（n' 在元音前省音），nulle part 放在过去分词之后：Elle n'a trouvé ses clés nulle part。不能保留 quelque part，也不能加 pas。"
+          "explain": "复合时态中，ne 放在助动词前（n' 在元音前省音），nulle part 放在过去分词之后：Elle n'a trouvé ses clés nulle part。不能保留 quelque part，也不能加 pas。",
+          "locales": {
+            "fr": {
+              "explain": "Au temps composé, ne se place devant l'auxiliaire (n' devant une voyelle) et nulle part après le participe passé : Elle n'a trouvé ses clés nulle part. On ne conserve pas quelque part et on n'ajoute pas « pas »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l1-q25",
@@ -657,9 +986,19 @@
           ],
           "answer": 2,
           "translation": "她去邮局，然后走进大厅。",
-          "explain": "邮局作为机构场所，用 à la poste，à + la 不缩合；entrer dans 表示进入某个空间的内部，用 dans la salle。dans la poste 强调在邮局建筑内部，不是本题的机构搭配；au poste 会被理解成另一个名词 poste（岗位、警局）；entrer à la salle 和 en salle 都不是这里的路径表达。"
+          "explain": "邮局作为机构场所，用 à la poste，à + la 不缩合；entrer dans 表示进入某个空间的内部，用 dans la salle。dans la poste 强调在邮局建筑内部，不是本题的机构搭配；au poste 会被理解成另一个名词 poste（岗位、警局）；entrer à la salle 和 en salle 都不是这里的路径表达。",
+          "locales": {
+            "fr": {
+              "explain": "La poste est un lieu institutionnel : on emploie à la poste, sans contraction de à + la ; entrer dans signifie entrer à l'intérieur d'un espace, d'où dans la salle. dans la poste insiste sur l'intérieur du bâtiment, ce qui n'est pas l'association institutionnelle attendue ; au poste renvoie à un autre nom poste (poste, commissariat) ; entrer à la salle et en salle ne conviennent pas ici."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Relations spatiales et direction (3)"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-l2-1",
@@ -679,7 +1018,12 @@
           ],
           "answer": 0,
           "translation": "冬天阿尔卑斯山是白色的。",
-          "explain": "Alpes 是复数山名，用定冠词 les；sont 也提示主语是复数。Le 是阳性单数，La 是阴性单数，L' 用于元音开头的单数名词。"
+          "explain": "Alpes 是复数山名，用定冠词 les；sont 也提示主语是复数。Le 是阳性单数，La 是阴性单数，L' 用于元音开头的单数名词。",
+          "locales": {
+            "fr": {
+              "explain": "Alpes est un nom pluriel de montagnes : on emploie l'article défini les ; sont indique aussi que le sujet est pluriel. Le est masculin singulier, La féminin singulier, L' s'emploie devant un nom singulier commençant par une voyelle."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q2",
@@ -693,7 +1037,12 @@
           ],
           "answer": 1,
           "translation": "意大利是欧洲的一个国家。",
-          "explain": "Italie 以元音开头，阴性单数定冠词 la 要省音为 l'，写成 l'Italie；pays 是阳性单数，用不定冠词 un。不能保留 la，也不能用 le 或 une。"
+          "explain": "Italie 以元音开头，阴性单数定冠词 la 要省音为 l'，写成 l'Italie；pays 是阳性单数，用不定冠词 un。不能保留 la，也不能用 le 或 une。",
+          "locales": {
+            "fr": {
+              "explain": "Italie commence par une voyelle et est féminin singulier : l'article défini la s'élide en l', d'où l'Italie ; pays est masculin singulier et prend l'article indéfini un. On ne conserve pas la et on n'emploie ni le ni une."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q3",
@@ -707,7 +1056,12 @@
           ],
           "answer": 2,
           "translation": "我们在里昂上火车，去意大利。",
-          "explain": "monter dans le train 表示进入火车内部，用 dans；Lyon 是普通城市名，用裸 à；Italie 是阴性单数国名，去往用 en。三个规则在同一句里同时成立。"
+          "explain": "monter dans le train 表示进入火车内部，用 dans；Lyon 是普通城市名，用裸 à；Italie 是阴性单数国名，去往用 en。三个规则在同一句里同时成立。",
+          "locales": {
+            "fr": {
+              "explain": "monter dans le train signifie entrer à l'intérieur du train : on emploie dans. Lyon est un nom de ville ordinaire : on emploie à directement. Italie est un pays féminin singulier : on emploie en pour aller. Les trois règles s'appliquent ensemble dans la même phrase."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q4",
@@ -721,7 +1075,12 @@
           ],
           "answer": 3,
           "translation": "我们在斯特拉斯堡的餐馆吃晚饭，然后出发去德国。",
-          "explain": "restaurant 是机构场所，用 au restaurant（à + le）；Strasbourg 是城市名，用裸 à；Allemagne 是阴性单数国名，去往用 en。三个介词各按自己的规则选择。"
+          "explain": "restaurant 是机构场所，用 au restaurant（à + le）；Strasbourg 是城市名，用裸 à；Allemagne 是阴性单数国名，去往用 en。三个介词各按自己的规则选择。",
+          "locales": {
+            "fr": {
+              "explain": "restaurant est un lieu institutionnel : au restaurant (à + le). Strasbourg est un nom de ville : à directement. Allemagne est un pays féminin singulier : en pour aller. Chaque préposition suit sa propre règle."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q5",
@@ -751,7 +1110,12 @@
             "de"
           ],
           "translation": "我们先去勒阿弗尔，然后去巴黎。",
-          "explain": "Le Havre 是带冠词的城市名，à + le 缩合为 au Havre；Paris 是普通城市名，直接用 à Paris，不加冠词。两个城市类型不同，介词形式也不同。"
+          "explain": "Le Havre 是带冠词的城市名，à + le 缩合为 au Havre；Paris 是普通城市名，直接用 à Paris，不加冠词。两个城市类型不同，介词形式也不同。",
+          "locales": {
+            "fr": {
+              "explain": "Le Havre est un nom de ville avec article : à + le se contracte en au Havre. Paris est un nom de ville ordinaire : à Paris, sans article. Les deux types de villes ne prennent pas la même forme."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q6",
@@ -765,7 +1129,12 @@
           ],
           "answer": 3,
           "translation": "她和家人住在里昂。",
-          "explain": "Lyon 是普通城市名，城市名前直接用 à，不加冠词，也不缩合。au 用于阳性单数带冠词的地名，en 用于阴性国名或大区名，dans 强调在内部空间。"
+          "explain": "Lyon 是普通城市名，城市名前直接用 à，不加冠词，也不缩合。au 用于阳性单数带冠词的地名，en 用于阴性国名或大区名，dans 强调在内部空间。",
+          "locales": {
+            "fr": {
+              "explain": "Lyon est un nom de ville ordinaire : on emploie à directement, sans article ni contraction. au s'emploie pour un nom de lieu masculin singulier avec article, en pour un pays ou une région féminins, dans insiste sur l'espace intérieur."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q7",
@@ -779,7 +1148,12 @@
           ],
           "answer": 2,
           "translation": "我们出发去日本和科西嘉。",
-          "explain": "Japon 是辅音开头的阳性单数国名，去往用 au；Corse 是带冠词的阴性单数岛名，去往用 en。国家与岛屿的规则不同，不能统一成一个介词。"
+          "explain": "Japon 是辅音开头的阳性单数国名，去往用 au；Corse 是带冠词的阴性单数岛名，去往用 en。国家与岛屿的规则不同，不能统一成一个介词。",
+          "locales": {
+            "fr": {
+              "explain": "Japon est un pays masculin singulier commençant par une consonne : on emploie au pour aller. Corse est un nom d'île féminin singulier avec article : on emploie en. Les règles des pays et des îles diffèrent ; on ne les réduit pas à une seule préposition."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q8",
@@ -793,7 +1167,12 @@
             "t"
           ],
           "translation": "我们下个月去美国。",
-          "explain": "États-Unis 是复数地名，去往用 à + les，缩合为 aux。不能写成 *à les、*au 或 *en。"
+          "explain": "États-Unis 是复数地名，去往用 à + les，缩合为 aux。不能写成 *à les、*au 或 *en。",
+          "locales": {
+            "fr": {
+              "explain": "États-Unis est un nom de lieu pluriel : on emploie à + les, contracté en aux. On n'écrit ni « à les », ni au, ni en."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q9",
@@ -807,9 +1186,19 @@
           ],
           "answer": 1,
           "translation": "她来自葡萄牙。",
-          "explain": "Portugal 是辅音开头的阳性单数国名，来源用 de + le，缩合为 du Portugal。de 不缩合只用于阴性国名或元音开头的阳性国名；au 表示去往，des 用于复数。"
+          "explain": "Portugal 是辅音开头的阳性单数国名，来源用 de + le，缩合为 du Portugal。de 不缩合只用于阴性国名或元音开头的阳性国名；au 表示去往，des 用于复数。",
+          "locales": {
+            "fr": {
+              "explain": "Portugal est un pays masculin singulier commençant par une consonne : la provenance s'exprime avec de + le, contracté en du Portugal. de ne reste simple que devant un pays féminin ou un pays masculin commençant par une voyelle ; au indique l'aller, des le pluriel."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Villes, pays, régions et îles (1)"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-l2-2",
@@ -829,7 +1218,12 @@
           ],
           "answer": 0,
           "translation": "法国是欧洲的一个国家。",
-          "explain": "France 是阴性单数国名，用 la；pays 是阳性单数名词，用不定冠词 un。国名前的冠词与表语名词的冠词各按自己的性数选择。"
+          "explain": "France 是阴性单数国名，用 la；pays 是阳性单数名词，用不定冠词 un。国名前的冠词与表语名词的冠词各按自己的性数选择。",
+          "locales": {
+            "fr": {
+              "explain": "France est un pays féminin singulier : on emploie la ; pays est un nom masculin singulier : on emploie l'article indéfini un. L'article du nom de pays et celui du nom attribut se choisissent chacun selon leur genre et leur nombre."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q11",
@@ -843,7 +1237,12 @@
           ],
           "answer": 1,
           "translation": "我们在巴利阿里群岛过夏天。",
-          "explain": "Baléares 是复数群岛名，去往或停留用 à + les，缩合为 aux Baléares。en 用于阴性单数岛名，à 后面不能直接接 les，des 是来源方向。"
+          "explain": "Baléares 是复数群岛名，去往或停留用 à + les，缩合为 aux Baléares。en 用于阴性单数岛名，à 后面不能直接接 les，des 是来源方向。",
+          "locales": {
+            "fr": {
+              "explain": "Baléares est un nom d'archipel pluriel : pour aller ou séjourner, on emploie à + les, contracté en aux Baléares. en s'emploie pour une île féminine singulière, à ne peut pas précéder directement les, des marque la provenance."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q12",
@@ -857,7 +1256,12 @@
             "s"
           ],
           "translation": "我们从勒阿弗尔回来。",
-          "explain": "Le Havre 是带冠词的城市名，来源用 de + le，缩合为 du Havre。普通城市名前才直接用 de，例如 de Paris。"
+          "explain": "Le Havre 是带冠词的城市名，来源用 de + le，缩合为 du Havre。普通城市名前才直接用 de，例如 de Paris。",
+          "locales": {
+            "fr": {
+              "explain": "Le Havre est un nom de ville avec article : la provenance s'exprime avec de + le, contracté en du Havre. Pour une ville ordinaire, on emploie de directement, par exemple de Paris."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q13",
@@ -871,7 +1275,12 @@
           ],
           "answer": 2,
           "translation": "她从意大利回来。",
-          "explain": "Italie 是元音开头的阴性单数国名，来源用 de，de 在元音前省音为 d'，写成 d'Italie。du 用于阳性单数，au 表示去往，de 不省音则形式不对。"
+          "explain": "Italie 是元音开头的阴性单数国名，来源用 de，de 在元音前省音为 d'，写成 d'Italie。du 用于阳性单数，au 表示去往，de 不省音则形式不对。",
+          "locales": {
+            "fr": {
+              "explain": "Italie est un pays féminin singulier commençant par une voyelle : la provenance s'exprime avec de, qui s'élide en d' devant la voyelle, d'où d'Italie. du s'emploie pour un nom masculin singulier, au indique l'aller, et de sans élision ne convient pas ici."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q14",
@@ -885,7 +1294,12 @@
           ],
           "answer": 0,
           "translation": "我们今年夏天去古巴。",
-          "explain": "Cuba 属于裸名地名例外，去往直接用 à，不加冠词，也不缩合。au Cuba 错在加了冠词，en Cuba 错在换了介词，à le Cuba 没有缩合且多出冠词。"
+          "explain": "Cuba 属于裸名地名例外，去往直接用 à，不加冠词，也不缩合。au Cuba 错在加了冠词，en Cuba 错在换了介词，à le Cuba 没有缩合且多出冠词。",
+          "locales": {
+            "fr": {
+              "explain": "Cuba est une exception de nom de lieu sans article : on emploie à directement, sans article ni contraction. au Cuba ajoute un article, en Cuba change de préposition, à le Cuba ne se contracte pas et ajoute un article."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q15",
@@ -899,7 +1313,12 @@
           ],
           "answer": 3,
           "translation": "猫是一种家养动物。",
-          "explain": "这里用定冠词 le 加单数名词 chat 表示「猫」这一类，即统指；表语说明类别时用不定冠词 un + 阳性单数 animal。un chat 只指「一只猫」，不能表达整类；une 与阳性 animal 不一致；la 与阳性 chat 不一致。"
+          "explain": "这里用定冠词 le 加单数名词 chat 表示「猫」这一类，即统指；表语说明类别时用不定冠词 un + 阳性单数 animal。un chat 只指「一只猫」，不能表达整类；une 与阳性 animal 不一致；la 与阳性 chat 不一致。",
+          "locales": {
+            "fr": {
+              "explain": "Ici, l'article défini le + nom singulier chat désigne l'espèce entière, donc une référence générique ; pour présenter l'appartenance à une catégorie, l'attribut prend l'article indéfini un + masculin singulier animal. un chat ne désigne qu'« un chat » et ne peut pas exprimer l'espèce ; une ne s'accorde pas avec animal masculin ; la ne s'accorde pas avec chat masculin."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q16",
@@ -913,7 +1332,12 @@
           ],
           "answer": 1,
           "translation": "我们进了南特的博物馆，然后出发去布列塔尼。",
-          "explain": "entrer dans le musée 强调进入建筑内部，用 dans；Nantes 是普通城市名，用裸 à；Bretagne 是阴性单数大区名（性别按词条记），去往用 en。三个规则在同一句里同时成立。en Nantes 给城市加了 en；à la Bretagne 不是这个阴性大区名的去往形式；选项 0 的 à Bretagne 也缺少 en。"
+          "explain": "entrer dans le musée 强调进入建筑内部，用 dans；Nantes 是普通城市名，用裸 à；Bretagne 是阴性单数大区名（性别按词条记），去往用 en。三个规则在同一句里同时成立。en Nantes 给城市加了 en；à la Bretagne 不是这个阴性大区名的去往形式；选项 0 的 à Bretagne 也缺少 en。",
+          "locales": {
+            "fr": {
+              "explain": "entrer dans le musée insiste sur l'entrée à l'intérieur du bâtiment : dans. Nantes est un nom de ville ordinaire : à directement. Bretagne est une région féminine singulière (genre à vérifier dans le dictionnaire) : en pour aller. Les trois règles s'appliquent ensemble. en Nantes ajoute en à une ville ; à la Bretagne n'est pas la forme d'aller de cette région féminine ; l'option 0 à Bretagne omet aussi en."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q17",
@@ -927,7 +1351,12 @@
           ],
           "answer": 2,
           "translation": "她在里尔的一家医院工作，然后出发去比利时。",
-          "explain": "hôpital 作为机构场所，用 à l'hôpital；Lille 是普通城市名，用裸 à；Belgique 是阴性单数国名（性别按词条记），去往用 en。dans l'hôpital 强调在医院建筑内部；en Lille 给城市加了 en；à hôpital 缺少冠词，à la Belgique 不是这个阴性国名的去往形式。"
+          "explain": "hôpital 作为机构场所，用 à l'hôpital；Lille 是普通城市名，用裸 à；Belgique 是阴性单数国名（性别按词条记），去往用 en。dans l'hôpital 强调在医院建筑内部；en Lille 给城市加了 en；à hôpital 缺少冠词，à la Belgique 不是这个阴性国名的去往形式。",
+          "locales": {
+            "fr": {
+              "explain": "hôpital est un lieu institutionnel : à l'hôpital. Lille est un nom de ville : à directement. Belgique est un pays féminin singulier (genre à vérifier) : en pour aller. dans l'hôpital insiste sur l'intérieur du bâtiment ; en Lille ajoute en à une ville ; à hôpital manque l'article, et à la Belgique n'est pas la forme d'aller de ce pays féminin."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l2-q18",
@@ -962,9 +1391,20 @@
             "Corse"
           ],
           "translation": "我们六月在巴利阿里群岛待一周。",
-          "explain": "Baléares 是复数群岛名，去往或停留用 aux Baléares；拼写是 B-a-l-é-a-r-e-s，注意 é 的尖音符和词尾的 s，不要选 Baleares 或 Baléare。月份前用 en：en juin。冠词状态和复数形式都属于词条信息，要按词条记。"
+          "explain": "Baléares 是复数群岛名，去往或停留用 aux Baléares；拼写是 B-a-l-é-a-r-e-s，注意 é 的尖音符和词尾的 s，不要选 Baleares 或 Baléare。月份前用 en：en juin。冠词状态和复数形式都属于词条信息，要按词条记。",
+          "locales": {
+            "fr": {
+              "explain": "Baléares est un nom d'archipel pluriel : pour aller ou séjourner, on emploie aux Baléares ; l'orthographe est B-a-l-é-a-r-e-s, avec accent aigu sur é et s final ; ne choisissez pas Baleares ni Baléare. Devant le mois, on emploie en : en juin. L'article et le pluriel font partie de l'entrée lexicale.",
+              "prompt": "Exprimez avec les éléments donnés que nous passons une semaine aux Baléares en juin."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Villes, pays, régions et îles (2)"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-l3",
@@ -984,7 +1424,12 @@
           ],
           "answer": 1,
           "translation": "火车八点出发。",
-          "explain": "huit heures 是具体时刻，前面用 à 表示时间点。dans 用于将来延时（dans une heure 一小时之后），en 用于完成动作所需时间，sur 表示在表面上。"
+          "explain": "huit heures 是具体时刻，前面用 à 表示时间点。dans 用于将来延时（dans une heure 一小时之后），en 用于完成动作所需时间，sur 表示在表面上。",
+          "locales": {
+            "fr": {
+              "explain": "huit heures est une heure précise : à marque le point dans le temps. dans exprime un délai futur (dans une heure), en le temps nécessaire pour accomplir une action, sur une position de surface."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l3-q2",
@@ -1021,7 +1466,12 @@
             "pour"
           ],
           "translation": "会议中午开始，十四点结束。",
-          "explain": "midi 和 quatorze heures 都是具体时刻，前面用 à。commencer à 和 se terminer à 都按同一规则；dans 表示将来延时，en 表示完成用时。"
+          "explain": "midi 和 quatorze heures 都是具体时刻，前面用 à。commencer à 和 se terminer à 都按同一规则；dans 表示将来延时，en 表示完成用时。",
+          "locales": {
+            "fr": {
+              "explain": "midi et quatorze heures sont des heures précises : à. commencer à et se terminer à suivent la même règle ; dans exprime un délai futur, en le temps d'accomplissement."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l3-q3",
@@ -1035,7 +1485,12 @@
           ],
           "answer": 2,
           "translation": "哪一句表示一个具体的钟点？",
-          "explain": "à neuf heures 表示「在九点」，是具体时刻。dure neuf heures 表示持续九小时，commence dans neuf heures 表示「九小时之后」，dure depuis neuf heures 表示「已经持续了九小时」，三者都不是钟点定位。"
+          "explain": "à neuf heures 表示「在九点」，是具体时刻。dure neuf heures 表示持续九小时，commence dans neuf heures 表示「九小时之后」，dure depuis neuf heures 表示「已经持续了九小时」，三者都不是钟点定位。",
+          "locales": {
+            "fr": {
+              "explain": "à neuf heures signifie « à neuf heures », une heure précise. dure neuf heures signifie « dure neuf heures », commence dans neuf heures signifie « dans neuf heures », dure depuis neuf heures signifie « dure depuis neuf heures » : aucune de ces trois formes n'indique un point dans le temps."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l3-q4",
@@ -1049,7 +1504,12 @@
           ],
           "answer": 3,
           "translation": "现在八点半。",
-          "explain": "报时用无人称 il est + 钟点，il 不指代具体的人或物，动词固定为 est。elle est 指代阴性人或物，c'est 用于指认或评价，il y a 表示存在或「以前」。"
+          "explain": "报时用无人称 il est + 钟点，il 不指代具体的人或物，动词固定为 est。elle est 指代阴性人或物，c'est 用于指认或评价，il y a 表示存在或「以前」。",
+          "locales": {
+            "fr": {
+              "explain": "Pour donner l'heure, on emploie l'impersonnel il est + heure ; il ne renvoie à aucune personne ni objet précis et le verbe est toujours est. elle est renvoie à une personne ou un objet féminin, c'est sert à identifier ou évaluer, il y a exprime l'existence ou « il y a... »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l3-q5",
@@ -1076,7 +1536,12 @@
             "à"
           ],
           "translation": "现在十点一刻。",
-          "explain": "报时结构是 il est + 数字 + heures + et quart。il 是无人称主语，est 用第三人称单数；dix heures et quart 表示十点一刻。"
+          "explain": "报时结构是 il est + 数字 + heures + et quart。il 是无人称主语，est 用第三人称单数；dix heures et quart 表示十点一刻。",
+          "locales": {
+            "fr": {
+              "explain": "La structure pour donner l'heure est il est + chiffre + heures + et quart. il est un sujet impersonnel, est à la troisième personne du singulier ; dix heures et quart signifie dix heures et quart."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l3-q6",
@@ -1090,9 +1555,19 @@
           ],
           "answer": 0,
           "translation": "哪一句按所学结构表达日期？",
-          "explain": "日期结构是 nous sommes le + 日期，日期前保留定冠词 le。缺少 le、用 il est 或 nous avons 都不符合这个结构。"
+          "explain": "日期结构是 nous sommes le + 日期，日期前保留定冠词 le。缺少 le、用 il est 或 nous avons 都不符合这个结构。",
+          "locales": {
+            "fr": {
+              "explain": "La structure de la date est nous sommes le + date, avec l'article défini le devant la date. Omettre le, employer il est ou nous avons ne respecte pas cette structure."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Dates, heures et repérage temporel"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-l4-1",
@@ -1112,7 +1587,12 @@
           ],
           "answer": 1,
           "translation": "下了一整夜的雨。",
-          "explain": "plu 是已完成的过去动作，toute la nuit 是一段有限的时间，pendant 表示动作持续这段有限时段。dans 表将来的延时，depuis 要求动作从过去延续到现在，il y a 表「多久以前」，都不符合。"
+          "explain": "plu 是已完成的过去动作，toute la nuit 是一段有限的时间，pendant 表示动作持续这段有限时段。dans 表将来的延时，depuis 要求动作从过去延续到现在，il y a 表「多久以前」，都不符合。",
+          "locales": {
+            "fr": {
+              "explain": "plu est un passé accompli, toute la nuit est une durée limitée : pendant exprime la durée de l'action. dans marque un délai futur, depuis exige une action qui continue depuis le passé jusqu'au présent, il y a signifie « il y a... » : aucun ne convient."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q2",
@@ -1126,7 +1606,12 @@
           ],
           "answer": 2,
           "translation": "我们昨晚聊了两个小时。",
-          "explain": "hier soir 说明这是已经结束的时段，deux heures 是实际持续的时间，用 pendant。pour 强调预定安排，dans 表将来延时，depuis 强调从过去延续到现在。"
+          "explain": "hier soir 说明这是已经结束的时段，deux heures 是实际持续的时间，用 pendant。pour 强调预定安排，dans 表将来延时，depuis 强调从过去延续到现在。",
+          "locales": {
+            "fr": {
+              "explain": "hier soir indique une période terminée, deux heures est la durée réelle : on emploie pendant. pour insiste sur une prévision, dans sur un délai futur, depuis sur une continuation jusqu'au présent."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q3",
@@ -1140,7 +1625,12 @@
           ],
           "answer": 0,
           "translation": "整个会议期间她都保持沉默。",
-          "explain": "toute la réunion 是一段有限的时间，动作在这段时间内持续，用 pendant。depuis 要与现在延续，dans 表将来延时，pour 表预定安排。句首的 Pendant 首字母大写。"
+          "explain": "toute la réunion 是一段有限的时间，动作在这段时间内持续，用 pendant。depuis 要与现在延续，dans 表将来延时，pour 表预定安排。句首的 Pendant 首字母大写。",
+          "locales": {
+            "fr": {
+              "explain": "toute la réunion est une durée limitée pendant laquelle l'action se poursuit : pendant. depuis doit se poursuivre jusqu'au présent, dans marque un délai futur, pour une prévision. En tête de phrase, pendant prend une majuscule."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q4",
@@ -1154,7 +1644,12 @@
             "n"
           ],
           "translation": "她自 2015 年起在这家公司工作。",
-          "explain": "2015 是起点，动词 travaille 是现在时，说明动作从那时起持续到现在，用 depuis 加时间点。pendant 只说明一段有限的持续，il y a 表「多久以前」，dans 表「多久以后」，都不连接到现在。"
+          "explain": "2015 是起点，动词 travaille 是现在时，说明动作从那时起持续到现在，用 depuis 加时间点。pendant 只说明一段有限的持续，il y a 表「多久以前」，dans 表「多久以后」，都不连接到现在。",
+          "locales": {
+            "fr": {
+              "explain": "2015 est le point de départ, et le verbe travaille au présent indique que l'action continue depuis ce moment : depuis + point de repère. pendant ne décrit qu'une durée limitée, il y a « il y a... », dans « dans... » : aucun ne relie au présent."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q5",
@@ -1168,7 +1663,12 @@
           ],
           "answer": 0,
           "translation": "我学中文三年了。",
-          "explain": "现在时 apprends 加时段 trois ans，表示从三年前开始并持续到现在，用 depuis。pendant 只说明一段有限持续，不连接到现在；il y a 表三年前已经发生；dans 表三年以后。"
+          "explain": "现在时 apprends 加时段 trois ans，表示从三年前开始并持续到现在，用 depuis。pendant 只说明一段有限持续，不连接到现在；il y a 表三年前已经发生；dans 表三年以后。",
+          "locales": {
+            "fr": {
+              "explain": "Le présent apprends + la durée trois ans indique une action commencée il y a trois ans et qui continue : depuis. pendant ne décrit qu'une durée limitée sans lien avec le présent ; il y a indique un fait déjà accompli il y a trois ans ; dans indique dans trois ans."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q6",
@@ -1195,7 +1695,12 @@
             "pour"
           ],
           "translation": "他自周一起就在巴黎。",
-          "explain": "arrivé lundi 提供起点，être 的状态仍在继续，合并为 « Il est à Paris depuis lundi »。depuis 后接时间点 lundi；pendant 不能表示延续到现在，dans 指向将来，pour 表预定持续。"
+          "explain": "arrivé lundi 提供起点，être 的状态仍在继续，合并为 « Il est à Paris depuis lundi »。depuis 后接时间点 lundi；pendant 不能表示延续到现在，dans 指向将来，pour 表预定持续。",
+          "locales": {
+            "fr": {
+              "explain": "arrivé lundi fournit le point de départ, et l'état être continue : on fusionne en « Il est à Paris depuis lundi ». depuis est suivi du point lundi ; pendant ne peut pas exprimer la continuation jusqu'au présent, dans renvoie au futur, pour à une durée prévue."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q7",
@@ -1209,7 +1714,12 @@
           ],
           "answer": 1,
           "translation": "我两周前到了巴黎。",
-          "explain": "arrivé 是已完成的过去动作，deux semaines 是从现在往回数的时间距离，用 il y a（两周前）。dans 指向将来，depuis 要与现在延续，pendant 说明持续时长，都不能表示「多久以前」。"
+          "explain": "arrivé 是已完成的过去动作，deux semaines 是从现在往回数的时间距离，用 il y a（两周前）。dans 指向将来，depuis 要与现在延续，pendant 说明持续时长，都不能表示「多久以前」。",
+          "locales": {
+            "fr": {
+              "explain": "arrivé est un passé accompli, deux semaines est la distance temporelle comptée depuis le présent : il y a (« il y a deux semaines »). dans renvoie au futur, depuis doit continuer jusqu'au présent, pendant indique une durée de continuation : aucun ne peut exprimer « il y a »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q8",
@@ -1223,7 +1733,12 @@
           ],
           "answer": 2,
           "translation": "我们五年前认识的。",
-          "explain": "se rencontrer 是瞬间动作，复合过去时说明事情已经发生，cinq ans 从现在回溯，用 il y a。depuis 要求状态延续到现在，dans 指向将来，pendant 表持续时段。"
+          "explain": "se rencontrer 是瞬间动作，复合过去时说明事情已经发生，cinq ans 从现在回溯，用 il y a。depuis 要求状态延续到现在，dans 指向将来，pendant 表持续时段。",
+          "locales": {
+            "fr": {
+              "explain": "se rencontrer est une action ponctuelle, le passé composé indique un fait accompli, cinq ans se compte à rebours depuis le présent : il y a. depuis exige un état qui continue jusqu'au présent, dans renvoie au futur, pendant une durée de continuation."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q9",
@@ -1237,7 +1752,12 @@
           ],
           "answer": 3,
           "translation": "火车五分钟后出发。",
-          "explain": "part 表示即将发生的动作，cinq minutes 从现在起算的延后时间，用 dans（五分钟后）。il y a 是过去回溯，depuis 是从过去延续到现在，pendant 是持续时段。"
+          "explain": "part 表示即将发生的动作，cinq minutes 从现在起算的延后时间，用 dans（五分钟后）。il y a 是过去回溯，depuis 是从过去延续到现在，pendant 是持续时段。",
+          "locales": {
+            "fr": {
+              "explain": "part indique une action imminente, cinq minutes est le délai à partir du présent : dans (« dans cinq minutes »). il y a renvoie au passé, depuis à une continuation depuis le passé jusqu'au présent, pendant à une durée."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q10",
@@ -1251,9 +1771,19 @@
             "u"
           ],
           "translation": "医生二十分钟后给您看诊。",
-          "explain": "recevra 表示将来，vingt minutes 从现在起算的延后时间，用 dans。il y a 表过去，depuis 要与现在延续，pendant 表持续时长。答案是一个词，不要加空格。"
+          "explain": "recevra 表示将来，vingt minutes 从现在起算的延后时间，用 dans。il y a 表过去，depuis 要与现在延续，pendant 表持续时长。答案是一个词，不要加空格。",
+          "locales": {
+            "fr": {
+              "explain": "recevra est au futur, vingt minutes est le délai à partir du présent : dans. il y a renvoie au passé, depuis exige une continuation jusqu'au présent, pendant une durée. La réponse est un seul mot, sans espace."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Durée, point de départ, point d'arrivée et échéance (1)"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-l4-2",
@@ -1273,7 +1803,12 @@
           ],
           "answer": 0,
           "translation": "她两小时写完了报告，三天后出发。",
-          "explain": "第一空 finir 是可完成的动作，deux heures 是完成所需的时间，用 en；第二空 partir 是将来动作，trois jours 从现在起算的延后，用 dans。两组时间关系不能互换。"
+          "explain": "第一空 finir 是可完成的动作，deux heures 是完成所需的时间，用 en；第二空 partir 是将来动作，trois jours 从现在起算的延后，用 dans。两组时间关系不能互换。",
+          "locales": {
+            "fr": {
+              "explain": "Premier blanc : finir est une action perfectible, deux heures est le temps nécessaire pour l'accomplir : en. Second blanc : partir est une action future, trois jours est le délai à partir du présent : dans. Les deux rapports temporels ne sont pas interchangeables."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q12",
@@ -1306,7 +1841,12 @@
             "construire"
           ],
           "translation": "工人用两天砌好了这堵墙。",
-          "explain": "mettre + 时段 + pour + 动词 表示花费时间；改写成 en 结构时，把时段放到 en 后：« L'ouvrier a construit ce mur en deux jours »。en 强调完成所需的时间；pendant 只强调持续，dans 指向将来，depuis 强调从过去延续到现在。"
+          "explain": "mettre + 时段 + pour + 动词 表示花费时间；改写成 en 结构时，把时段放到 en 后：« L'ouvrier a construit ce mur en deux jours »。en 强调完成所需的时间；pendant 只强调持续，dans 指向将来，depuis 强调从过去延续到现在。",
+          "locales": {
+            "fr": {
+              "explain": "mettre + durée + pour + verbe exprime le temps passé ; en le reformulant avec en, on place la durée après en : « L'ouvrier a construit ce mur en deux jours ». en insiste sur le temps nécessaire à l'achèvement ; pendant sur la durée, dans sur le futur, depuis sur la continuation depuis le passé jusqu'au présent."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q13",
@@ -1320,7 +1860,12 @@
           ],
           "answer": 2,
           "translation": "我们用一个半小时走完了这段路。",
-          "explain": "faire le trajet 是完成的动作，une heure et demie 是完成它所用的时间，用 en。dans 表将来延时，il y a 表过去回溯，pour 表预定持续时间。"
+          "explain": "faire le trajet 是完成的动作，une heure et demie 是完成它所用的时间，用 en。dans 表将来延时，il y a 表过去回溯，pour 表预定持续时间。",
+          "locales": {
+            "fr": {
+              "explain": "faire le trajet est une action accomplie, une heure et demie est le temps employé pour l'accomplir : en. dans indique un délai futur, il y a un retour en arrière, pour une durée prévue."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q14",
@@ -1350,7 +1895,12 @@
             "mis"
           ],
           "translation": "他两小时做完了作业。",
-          "explain": "mettre + 时段 + pour + 动词 表示花费时间；改写成 en 结构时，把时段放到 en 后：« Il a fait ses devoirs en deux heures »。en 强调完成所需时间；dans 指向将来，pour 表预定持续，mis 不能留在这个结构里。"
+          "explain": "mettre + 时段 + pour + 动词 表示花费时间；改写成 en 结构时，把时段放到 en 后：« Il a fait ses devoirs en deux heures »。en 强调完成所需时间；dans 指向将来，pour 表预定持续，mis 不能留在这个结构里。",
+          "locales": {
+            "fr": {
+              "explain": "mettre + durée + pour + verbe exprime le temps passé ; en le reformulant avec en, on place la durée après en : « Il a fait ses devoirs en deux heures ». en insiste sur le temps nécessaire à l'achèvement ; dans renvoie au futur, pour à une durée prévue, et mis ne reste pas dans cette structure."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q15",
@@ -1364,7 +1914,12 @@
           ],
           "answer": 0,
           "translation": "我订了三晚的房间。",
-          "explain": "预订的时长是事先安排好的，用 pour。depuis 要与现在延续，dans 表将来延时，en 强调完成用时。"
+          "explain": "预订的时长是事先安排好的，用 pour。depuis 要与现在延续，dans 表将来延时，en 强调完成用时。",
+          "locales": {
+            "fr": {
+              "explain": "La durée de la réservation est fixée à l'avance : pour. depuis exige une continuation jusqu'au présent, dans un délai futur, en le temps d'accomplissement."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q16",
@@ -1378,7 +1933,12 @@
           ],
           "answer": 0,
           "translation": "我今天工作了八小时，然后要去度假一周。",
-          "explain": "第一空是已经发生的实际持续时间，用 pendant；第二空是出发类动词加计划中的停留时长，用 pour。两组不能互换：pour 不说明实际持续，pendant 不强调预定安排。"
+          "explain": "第一空是已经发生的实际持续时间，用 pendant；第二空是出发类动词加计划中的停留时长，用 pour。两组不能互换：pour 不说明实际持续，pendant 不强调预定安排。",
+          "locales": {
+            "fr": {
+              "explain": "Premier blanc : durée réelle déjà écoulée, pendant. Second blanc : verbe de départ + durée prévue du séjour, pour. Les deux ne sont pas interchangeables : pour n'indique pas la durée réelle, pendant n'insiste pas sur la prévision."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q17",
@@ -1392,7 +1952,12 @@
           ],
           "answer": 1,
           "translation": "选出与回答「自 2018 年起」对应的问题。",
-          "explain": "回答给的是起点年份，用 Depuis quand 提问。Jusqu'à quand 问终点，Depuis combien de temps 问从起点延续至今的时长（回答应是 trois ans 之类），Dans combien de temps 问将来还有多久。"
+          "explain": "回答给的是起点年份，用 Depuis quand 提问。Jusqu'à quand 问终点，Depuis combien de temps 问从起点延续至今的时长（回答应是 trois ans 之类），Dans combien de temps 问将来还有多久。",
+          "locales": {
+            "fr": {
+              "explain": "La réponse donne l'année de départ : on interroge avec Depuis quand. Jusqu'à quand demande le point d'arrivée, Depuis combien de temps la durée écoulée depuis le départ (réponse du type trois ans), Dans combien de temps le délai futur."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q18",
@@ -1406,7 +1971,12 @@
           ],
           "answer": 2,
           "translation": "你在里昂待到什么时候？——到周日。",
-          "explain": "回答 jusqu'à dimanche 给的是终点，问句用 Jusqu'à quand。Depuis quand 问起点，Depuis combien de temps 问延续时长，Dans combien de temps 问将来延时。"
+          "explain": "回答 jusqu'à dimanche 给的是终点，问句用 Jusqu'à quand。Depuis quand 问起点，Depuis combien de temps 问延续时长，Dans combien de temps 问将来延时。",
+          "locales": {
+            "fr": {
+              "explain": "La réponse jusqu'à dimanche donne le point d'arrivée : la question est Jusqu'à quand. Depuis quand demande le point de départ, Depuis combien de temps la durée de continuation, Dans combien de temps le délai futur."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q19",
@@ -1420,9 +1990,19 @@
           ],
           "answer": 3,
           "translation": "你学钢琴多久了？——三年了。",
-          "explain": "回答 depuis trois ans 是「从起点延续至今的时长」，用 Depuis combien de temps。Depuis quand 期待一个具体时间点，Jusqu'à quand 问终点，Dans combien de temps 问将来多久以后。"
+          "explain": "回答 depuis trois ans 是「从起点延续至今的时长」，用 Depuis combien de temps。Depuis quand 期待一个具体时间点，Jusqu'à quand 问终点，Dans combien de temps 问将来多久以后。",
+          "locales": {
+            "fr": {
+              "explain": "La réponse depuis trois ans est la durée écoulée depuis le point de départ : Depuis combien de temps. Depuis quand attend un point précis, Jusqu'à quand le point d'arrivée, Dans combien de temps le délai futur."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Durée, point de départ, point d'arrivée et échéance (2)"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-l4-3",
@@ -1456,7 +2036,12 @@
             "pour"
           ],
           "translation": "你从什么时候起在这里工作？",
-          "explain": "原句 depuis 2019 提供起点，问起点用 Depuis quand。用 est-ce que 构成标准问句，语序是 Depuis quand + est-ce que + 主语 + 动词 + 补语。不能问 Jusqu'à quand（终点）或 Dans combien de temps（将来延时）。"
+          "explain": "原句 depuis 2019 提供起点，问起点用 Depuis quand。用 est-ce que 构成标准问句，语序是 Depuis quand + est-ce que + 主语 + 动词 + 补语。不能问 Jusqu'à quand（终点）或 Dans combien de temps（将来延时）。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase d'origine depuis 2019 fournit le point de départ : on demande Depuis quand. Avec est-ce que, l'ordre est Depuis quand + est-ce que + sujet + verbe + complément. On ne demande pas Jusqu'à quand (point d'arrivée) ni Dans combien de temps (délai futur)."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q21",
@@ -1489,7 +2074,12 @@
             "pour"
           ],
           "translation": "你在这里住多久了？",
-          "explain": "原句给的是从起点延续至今的时长，问句用 Depuis combien de temps。用 est-ce que 时语序为 Depuis combien de temps + est-ce que + 主语 + 动词 + 补语。不能用 Depuis quand（问起点，回答应是 depuis 2019 之类），也不能用 Jusqu'à quand（问终点）。"
+          "explain": "原句给的是从起点延续至今的时长，问句用 Depuis combien de temps。用 est-ce que 时语序为 Depuis combien de temps + est-ce que + 主语 + 动词 + 补语。不能用 Depuis quand（问起点，回答应是 depuis 2019 之类），也不能用 Jusqu'à quand（问终点）。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase d'origine donne la durée écoulée depuis le point de départ : on demande Depuis combien de temps. Avec est-ce que, l'ordre est Depuis combien de temps + est-ce que + sujet + verbe + complément. On n'emploie pas Depuis quand (point de départ, réponse du type depuis 2019) ni Jusqu'à quand (point d'arrivée)."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q22",
@@ -1503,7 +2093,12 @@
           ],
           "answer": 0,
           "translation": "商店从九点开到十九点。",
-          "explain": "neuf heures、dix-neuf heures 是钟点，钟点前不用定冠词，直接用 de … à 表起止。du … au 要求后面是带定冠词的阳性名词；à … de 顺序相反；dans … à 不能构成范围。"
+          "explain": "neuf heures、dix-neuf heures 是钟点，钟点前不用定冠词，直接用 de … à 表起止。du … au 要求后面是带定冠词的阳性名词；à … de 顺序相反；dans … à 不能构成范围。",
+          "locales": {
+            "fr": {
+              "explain": "neuf heures et dix-neuf heures sont des heures, sans article défini : on emploie de... à pour l'intervalle. du... au exige un nom masculin avec article défini ; à... de inverse l'ordre ; dans... à ne forme pas un intervalle."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q23",
@@ -1517,7 +2112,12 @@
           ],
           "answer": 1,
           "translation": "他从早工作到晚。",
-          "explain": "matin、soir 是带定冠词的阳性单数名词，de + le 缩合为 du，à + le 缩合为 au，所以是 du matin au soir。de … à 缺少缩合，des … aux 用于复数，de … au 混用了两种形式。"
+          "explain": "matin、soir 是带定冠词的阳性单数名词，de + le 缩合为 du，à + le 缩合为 au，所以是 du matin au soir。de … à 缺少缩合，des … aux 用于复数，de … au 混用了两种形式。",
+          "locales": {
+            "fr": {
+              "explain": "matin et soir sont des noms masculins singuliers avec article défini : de + le se contracte en du, à + le en au, d'où du matin au soir. de... à sans contraction est incomplet, des... aux est pluriel, de... au mélange deux formes."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q24",
@@ -1531,7 +2131,12 @@
             "s"
           ],
           "translation": "市场从周二开到周六。",
-          "explain": "de + le 缩合为 du，à + le 缩合为 au。mardi 到 samedi 的范围写成 du mardi au samedi；不能只写 à，也不能写 aux（aux 用于复数）。答案不含空格。"
+          "explain": "de + le 缩合为 du，à + le 缩合为 au。mardi 到 samedi 的范围写成 du mardi au samedi；不能只写 à，也不能写 aux（aux 用于复数）。答案不含空格。",
+          "locales": {
+            "fr": {
+              "explain": "de + le se contracte en du, à + le en au. L'intervalle de mardi à samedi s'écrit du mardi au samedi ; on n'écrit ni à seul ni aux (réservé au pluriel). La réponse ne contient pas d'espace."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q25",
@@ -1571,7 +2176,12 @@
             "dans"
           ],
           "translation": "我从周一到周五工作，周末休息。",
-          "explain": "周一到周五的范围用 du lundi au vendredi（de + le → du，à + le → au）；「在周末」是一段有限时间，用 pendant le week-end。两个规则同时出现在一句里：范围表达加持续时段。"
+          "explain": "周一到周五的范围用 du lundi au vendredi（de + le → du，à + le → au）；「在周末」是一段有限时间，用 pendant le week-end。两个规则同时出现在一句里：范围表达加持续时段。",
+          "locales": {
+            "fr": {
+              "explain": "L'intervalle du lundi au vendredi s'écrit du lundi au vendredi (de + le → du, à + le → au) ; « le week-end » est une durée limitée, d'où pendant le week-end. Les deux règles apparaissent ensemble : intervalle et durée."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q26",
@@ -1585,7 +2195,12 @@
           ],
           "answer": 3,
           "translation": "艺术节从 8 月 3 日到 15 日举行，我们整个艺术节期间都留下。",
-          "explain": "日期范围用 du 3 au 15 août（de + le → du，à + le → au）；rester 持续整个节日期间，用 pendant。pour 表预定安排，depuis 要与现在延续，dans 表将来延时，都不符合。"
+          "explain": "日期范围用 du 3 au 15 août（de + le → du，à + le → au）；rester 持续整个节日期间，用 pendant。pour 表预定安排，depuis 要与现在延续，dans 表将来延时，都不符合。",
+          "locales": {
+            "fr": {
+              "explain": "L'intervalle de dates s'écrit du 3 au 15 août (de + le → du, à + le → au) ; rester pendant toute la durée du festival emploie pendant. pour indique une prévision, depuis une continuation jusqu'au présent, dans un délai futur : aucun ne convient."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q27",
@@ -1616,7 +2231,12 @@
             "pour"
           ],
           "translation": "你从什么时候起在这里工作？",
-          "explain": "口语可以把 depuis quand 留在句末；标准问句把疑问词组提到句首，用 est-ce que 构成：Depuis quand est-ce que + 主语 + 动词 + 补语。这里问的是起点，不能用 Jusqu'à quand（问终点）或 Depuis combien de temps（问延续时长）。"
+          "explain": "口语可以把 depuis quand 留在句末；标准问句把疑问词组提到句首，用 est-ce que 构成：Depuis quand est-ce que + 主语 + 动词 + 补语。这里问的是起点，不能用 Jusqu'à quand（问终点）或 Depuis combien de temps（问延续时长）。",
+          "locales": {
+            "fr": {
+              "explain": "À l'oral, on peut laisser depuis quand en fin de phrase ; la question standard place le groupe interrogatif en tête avec est-ce que : Depuis quand est-ce que + sujet + verbe + complément. On demande le point de départ, non Jusqu'à quand (point d'arrivée) ni Depuis combien de temps (durée de continuation)."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l4-q28",
@@ -1630,9 +2250,19 @@
           ],
           "answer": 0,
           "translation": "「Vous travaillez ici depuis quand ?」用 est-ce que 的标准问句形式是哪一句？",
-          "explain": "口语把 depuis quand 放在句末；标准问句把疑问词组提到句首，用 est-ce que 构成：Depuis quand est-ce que vous travaillez ici ? 选项 1 缺少 est-ce que；Jusqu'à quand 问终点；Depuis combien de temps 问从起点延续至今的时长，不是问起点。"
+          "explain": "口语把 depuis quand 放在句末；标准问句把疑问词组提到句首，用 est-ce que 构成：Depuis quand est-ce que vous travaillez ici ? 选项 1 缺少 est-ce que；Jusqu'à quand 问终点；Depuis combien de temps 问从起点延续至今的时长，不是问起点。",
+          "locales": {
+            "fr": {
+              "explain": "À l'oral, on place depuis quand en fin de phrase ; la question standard met le groupe interrogatif en tête avec est-ce que : Depuis quand est-ce que vous travaillez ici ? L'option 1 omet est-ce que ; Jusqu'à quand demande le point d'arrivée ; Depuis combien de temps demande la durée écoulée depuis le point de départ, non le point de départ."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Durée, point de départ, point d'arrivée et échéance (3)"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-l5-1",
@@ -1652,7 +2282,12 @@
           ],
           "answer": 0,
           "translation": "我们坐公交去火车站。",
-          "explain": "交通工具前用 en 加零冠词：en bus。à 用于 à vélo、à pied 等固定方式；dans 强调进入某个空间内部（dans le bus 指在公交车里面）；par 不用于这种交通方式表达。"
+          "explain": "交通工具前用 en 加零冠词：en bus。à 用于 à vélo、à pied 等固定方式；dans 强调进入某个空间内部（dans le bus 指在公交车里面）；par 不用于这种交通方式表达。",
+          "locales": {
+            "fr": {
+              "explain": "Devant un moyen de transport, on emploie en sans article : en bus. à s'emploie dans les expressions figées à vélo, à pied ; dans insiste sur l'entrée dans un espace (dans le bus signifie à l'intérieur du bus) ; par ne s'emploie pas dans cette expression de moyen de transport."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l5-q2",
@@ -1666,7 +2301,12 @@
           ],
           "answer": 1,
           "translation": "她骑自行车去上班。",
-          "explain": "骑行用固定短语 à vélo，不加冠词。en 用于 en voiture、en train 等交通工具；dans 强调内部空间；avec 表伴随或携带，不能构成这种出行方式短语。"
+          "explain": "骑行用固定短语 à vélo，不加冠词。en 用于 en voiture、en train 等交通工具；dans 强调内部空间；avec 表伴随或携带，不能构成这种出行方式短语。",
+          "locales": {
+            "fr": {
+              "explain": "Pour le vélo, on emploie l'expression figée à vélo, sans article. en s'emploie pour en voiture, en train, etc. ; dans insiste sur l'espace intérieur ; avec exprime l'accompagnement ou le fait de porter, et ne forme pas cette expression de déplacement."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l5-q3",
@@ -1695,7 +2335,12 @@
             "une"
           ],
           "translation": "我们坐火车旅行，带着两个行李箱。",
-          "explain": "交通方式用 en train，不带冠词；携带物品要用 avec 加名词，名词保留限定词 deux valises，写成 avec deux valises。用 sans 会变成「没带行李」，与提示不符。à 只用于 à vélo、à pied 等固定方式，dans 强调车厢内部。"
+          "explain": "交通方式用 en train，不带冠词；携带物品要用 avec 加名词，名词保留限定词 deux valises，写成 avec deux valises。用 sans 会变成「没带行李」，与提示不符。à 只用于 à vélo、à pied 等固定方式，dans 强调车厢内部。",
+          "locales": {
+            "fr": {
+              "explain": "Le moyen de transport s'exprime avec en train, sans article ; pour les objets transportés, on emploie avec + nom, en gardant le déterminant deux valises, d'où avec deux valises. sans signifierait « sans bagages », ce qui contredit l'indication. à ne s'emploie que dans les expressions figées à vélo, à pied, etc. ; dans insiste sur l'intérieur du wagon."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l5-q4",
@@ -1709,7 +2354,12 @@
           ],
           "answer": 2,
           "translation": "我每周去两次游泳池。",
-          "explain": "表示频率「每周两次」用 par 加时间单位：deux fois par semaine。sur 用于比例，pour 用于百分比，dans 表将来延时或空间内部。"
+          "explain": "表示频率「每周两次」用 par 加时间单位：deux fois par semaine。sur 用于比例，pour 用于百分比，dans 表将来延时或空间内部。",
+          "locales": {
+            "fr": {
+              "explain": "Pour exprimer la fréquence « deux fois par semaine », on emploie par + unité de temps : deux fois par semaine. sur sert aux proportions, pour aux pourcentages, dans au délai futur ou à l'espace intérieur."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l5-q5",
@@ -1723,7 +2373,12 @@
           ],
           "answer": 3,
           "translation": "五个学生中有一个获得奖学金。",
-          "explain": "「五个之中有一个」用 sur 表比例：un sur cinq。par 表逐次分配，pour 多用于百分比，en 不表比例。"
+          "explain": "「五个之中有一个」用 sur 表比例：un sur cinq。par 表逐次分配，pour 多用于百分比，en 不表比例。",
+          "locales": {
+            "fr": {
+              "explain": "« Un sur cinq » s'exprime avec sur, qui marque la proportion : un sur cinq. par marque la distribution successive, pour sert surtout aux pourcentages, en n'exprime pas la proportion."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l5-q6",
@@ -1737,9 +2392,19 @@
           ],
           "answer": 1,
           "translation": "百分之三十的居民投了票。",
-          "explain": "百分比固定用 pour cent：trente pour cent。par 表逐次分配，en 和 de 不能构成百分比表达。"
+          "explain": "百分比固定用 pour cent：trente pour cent。par 表逐次分配，en 和 de 不能构成百分比表达。",
+          "locales": {
+            "fr": {
+              "explain": "Le pourcentage s'exprime avec la formule figée pour cent : trente pour cent. par marque la distribution successive ; en et de ne forment pas un pourcentage."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Transport, matériau, manière, distribution et proportion (1)"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-l5-2",
@@ -1759,7 +2424,12 @@
           ],
           "answer": 1,
           "translation": "她没带伞就出门了，因为当时没有下雨。",
-          "explain": "后半句说没有下雨，说明她没带伞，用 sans 表缺少。avec 表携带，与句意矛盾；pour 表目的，contre 表反对。sans 后接名词通常不加冠词，但这里保留主有形容词 son。"
+          "explain": "后半句说没有下雨，说明她没带伞，用 sans 表缺少。avec 表携带，与句意矛盾；pour 表目的，contre 表反对。sans 后接名词通常不加冠词，但这里保留主有形容词 son。",
+          "locales": {
+            "fr": {
+              "explain": "La seconde partie indique qu'il ne pleuvait pas : elle n'avait donc pas de parapluie, d'où sans, qui exprime l'absence. avec exprime le fait de porter et contredit le sens ; pour exprime le but, contre l'opposition. Après sans, le nom ne prend généralement pas d'article, mais il garde ici le déterminant possessif son."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l5-q8",
@@ -1773,7 +2443,12 @@
           ],
           "answer": 0,
           "translation": "她投票支持这项改革，因为她觉得它有用；她弟弟则投了反对票。",
-          "explain": "前半句 car elle la trouve utile 说明她支持改革，用 pour；son frère, lui 引出对比，说明弟弟立场相反，用 contre。sans 表缺少，avec 表伴随，都不能表示投票立场。"
+          "explain": "前半句 car elle la trouve utile 说明她支持改革，用 pour；son frère, lui 引出对比，说明弟弟立场相反，用 contre。sans 表缺少，avec 表伴随，都不能表示投票立场。",
+          "locales": {
+            "fr": {
+              "explain": "La première partie, car elle la trouve utile, indique qu'elle soutient la réforme : pour. La comparaison son frère, lui, introduit une position opposée : contre. sans exprime l'absence, avec l'accompagnement ; aucun ne peut exprimer une position de vote."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l5-q9",
@@ -1787,7 +2462,12 @@
           ],
           "answer": 3,
           "translation": "这张桌子是木头的。",
-          "explain": "材料用 en 加材料名词，不带冠词：en bois。à 不表材料，dans 表空间内部，avec 表伴随或工具。"
+          "explain": "材料用 en 加材料名词，不带冠词：en bois。à 不表材料，dans 表空间内部，avec 表伴随或工具。",
+          "locales": {
+            "fr": {
+              "explain": "Le matériau s'exprime avec en + nom de matériau, sans article : en bois. à n'exprime pas le matériau, dans l'espace intérieur, avec l'accompagnement ou l'outil."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l5-q10",
@@ -1801,7 +2481,12 @@
           ],
           "answer": 3,
           "translation": "她既不坐火车也不坐飞机；她坐公交车。",
-          "explain": "交通工具前用 en，且不加冠词：en train、en avion。否定并列用 ne … ni … ni，第二个 ni 连接并列成分，句中不再用 pas。à 只用于 à vélo、à pied 等固定方式；dans 强调进入车厢内部；avec 表伴随或工具，不能构成这种交通方式表达。"
+          "explain": "交通工具前用 en，且不加冠词：en train、en avion。否定并列用 ne … ni … ni，第二个 ni 连接并列成分，句中不再用 pas。à 只用于 à vélo、à pied 等固定方式；dans 强调进入车厢内部；avec 表伴随或工具，不能构成这种交通方式表达。",
+          "locales": {
+            "fr": {
+              "explain": "Devant un moyen de transport, on emploie en, sans article : en train, en avion. La négation coordonnée emploie ne... ni... ni : le second ni relie les deux éléments et la phrase n'ajoute pas « pas ». à ne s'emploie que dans les expressions figées à vélo, à pied, etc. ; dans insiste sur l'intérieur du wagon ; avec exprime l'accompagnement ou l'outil et ne forme pas cette expression de transport."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l5-q11",
@@ -1836,9 +2521,19 @@
             "voyageons"
           ],
           "translation": "她既不坐火车也不坐飞机旅行。",
-          "explain": "否定并列 ne … ni … ni 把肯定句的 et 换成第二个 ni，并去掉 pas：Elle ne voyage ni en train ni en avion。交通工具前保留 en，且不加冠词；à、dans、avec 都不能替换这里的 en。"
+          "explain": "否定并列 ne … ni … ni 把肯定句的 et 换成第二个 ni，并去掉 pas：Elle ne voyage ni en train ni en avion。交通工具前保留 en，且不加冠词；à、dans、avec 都不能替换这里的 en。",
+          "locales": {
+            "fr": {
+              "explain": "La négation coordonnée ne... ni... ni remplace le et de la phrase affirmative par un second ni et supprime pas : Elle ne voyage ni en train ni en avion. Devant le moyen de transport, en est conservé, sans article ; à, dans et avec ne peuvent pas remplacer ce en."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Transport, matériau, manière, distribution et proportion (2)"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-l6",
@@ -1858,7 +2553,12 @@
           ],
           "answer": 0,
           "translation": "她发表了一篇关于气候变暖的文章。",
-          "explain": "文章的主题用 sur 引出，表示「关于」：un article sur le réchauffement climatique。dans 表示「在……里面／在……之中」，不能引出主题；devant 和 sous 在这里仍是方位义，与 article 搭配不成立。"
+          "explain": "文章的主题用 sur 引出，表示「关于」：un article sur le réchauffement climatique。dans 表示「在……里面／在……之中」，不能引出主题；devant 和 sous 在这里仍是方位义，与 article 搭配不成立。",
+          "locales": {
+            "fr": {
+              "explain": "Le thème d'un article s'introduit avec sur, au sens de « à propos de » : un article sur le réchauffement climatique. dans signifie « à l'intérieur de / au sein de » et ne peut pas introduire un thème ; devant et sous gardent ici leur sens spatial et ne se construisent pas avec article."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l6-q2",
@@ -1872,7 +2572,12 @@
           ],
           "answer": 2,
           "translation": "我在昨天的报纸上读到了这条新闻。",
-          "explain": "报纸、杂志、作品这类载体前用 dans，表示内容出现在其中：dans le journal d'hier。sur 表示「关于」或「在……上面」，à 和 chez 都不能表示「在报刊上」。"
+          "explain": "报纸、杂志、作品这类载体前用 dans，表示内容出现在其中：dans le journal d'hier。sur 表示「关于」或「在……上面」，à 和 chez 都不能表示「在报刊上」。",
+          "locales": {
+            "fr": {
+              "explain": "Devant un journal, une revue ou une œuvre, on emploie dans pour indiquer que le contenu s'y trouve : dans le journal d'hier. sur signifie « à propos de » ou « sur », à et chez ne peuvent pas exprimer « dans le journal »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l6-q3",
@@ -1886,7 +2591,18 @@
           ],
           "answer": 1,
           "translation": "在 « Nous sommes devant une situation difficile » 这句中，devant 是什么意思？",
-          "explain": "situation difficile 是抽象名词，不能真正处在物体的前方；devant 在这里表示「面对、面临」，整句意思是「我们面临一个困难的局面」。若说 devant la porte，才是空间义「在门前」。"
+          "explain": "situation difficile 是抽象名词，不能真正处在物体的前方；devant 在这里表示「面对、面临」，整句意思是「我们面临一个困难的局面」。若说 devant la porte，才是空间义「在门前」。",
+          "locales": {
+            "fr": {
+              "explain": "situation difficile est un nom abstrait, qui ne peut pas réellement se trouver devant un objet ; devant signifie ici « face à, confronté à », et la phrase veut dire « nous sommes confrontés à une situation difficile ». Si l'on disait devant la porte, il s'agirait du sens spatial « devant la porte ».",
+              "options": [
+                "devant (position dans l'espace)",
+                "face à (situation abstraite)",
+                "pendant (durée)",
+                "sous (position inférieure)"
+              ]
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l6-q4",
@@ -1900,7 +2616,12 @@
           ],
           "answer": 3,
           "translation": "这个传闻背后有一个非常简单的解释。",
-          "explain": "表示「在……背后、隐藏在……后面」用 derrière：derrière cette rumeur。devant 表示「在……前面／面对」，sous 表示「在……之下」，entre 需要两个并列对象，都不符合。"
+          "explain": "表示「在……背后、隐藏在……后面」用 derrière：derrière cette rumeur。devant 表示「在……前面／面对」，sous 表示「在……之下」，entre 需要两个并列对象，都不符合。",
+          "locales": {
+            "fr": {
+              "explain": "Pour exprimer « derrière, caché derrière », on emploie derrière : derrière cette rumeur. devant signifie « devant / face à », sous « sous », entre exige deux éléments coordonnés : aucun ne convient."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-l6-q5",
@@ -1914,9 +2635,19 @@
           ],
           "answer": 1,
           "translation": "在雨果的作品中，贫困是一个核心主题。",
-          "explain": "chez 加作者名表示「在某个作者的作品或思想中」：chez Victor Hugo。dans 后面通常接具体的作品名（dans Les Misérables），不直接接作者名；sur 表示「关于」，parmi 表示「在……之中」，都不符合这里的意思。"
+          "explain": "chez 加作者名表示「在某个作者的作品或思想中」：chez Victor Hugo。dans 后面通常接具体的作品名（dans Les Misérables），不直接接作者名；sur 表示「关于」，parmi 表示「在……之中」，都不符合这里的意思。",
+          "locales": {
+            "fr": {
+              "explain": "chez + nom d'auteur signifie « dans l'œuvre ou la pensée d'un auteur » : chez Victor Hugo. dans se construit généralement avec le titre précis d'une œuvre (dans Les Misérables), non directement avec le nom de l'auteur ; sur signifie « à propos de », parmi « parmi » : aucun ne convient ici."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Sens figurés des prépositions de lieu"
+        }
+      }
     }
   ],
   "challenges": [
@@ -1938,7 +2669,12 @@
           ],
           "answer": 2,
           "translation": "我们住在城里，孩子们上学，我父母住在乡下。",
-          "explain": "en ville、à l'école、à la campagne 都是固定或机构性的地点表达：en ville 是整体短语，不能换成 à la ville；学校等机构名词前用 à 并与冠词缩合，à l'école；à la campagne 也是固定短语，不能按普通名词改成 en campagne。dans l'école 强调在学校建筑内部，与「上学」的机构义不同。"
+          "explain": "en ville、à l'école、à la campagne 都是固定或机构性的地点表达：en ville 是整体短语，不能换成 à la ville；学校等机构名词前用 à 并与冠词缩合，à l'école；à la campagne 也是固定短语，不能按普通名词改成 en campagne。dans l'école 强调在学校建筑内部，与「上学」的机构义不同。",
+          "locales": {
+            "fr": {
+              "explain": "en ville, à l'école et à la campagne sont des expressions figées ou institutionnelles : en ville est un groupe figé, qu'on ne remplace pas par à la ville ; devant un nom d'institution comme école, on emploie à, avec contraction de l'article, d'où à l'école ; à la campagne est aussi une expression figée, qu'on ne transforme pas en en campagne. dans l'école insiste sur l'intérieur du bâtiment, différent du sens institutionnel « être scolarisé »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x1-q2",
@@ -1952,7 +2688,12 @@
           ],
           "answer": 0,
           "translation": "纳迪娅出生在里斯本，在葡萄牙上大学。",
-          "explain": "城市名前用裸介词 à，不加冠词：à Lisbonne。国家名前按名词的性、数和首音选择介词：Portugal 是以辅音开头的阳性单数，所在地用 au，所以 au Portugal。个别地名有惯用例外，要按词条记。au Lisbonne 给城市加了冠词；en Portugal 用错了阳性国家的形式；de Lisbonne 表示来源，与出生的地点不符。"
+          "explain": "城市名前用裸介词 à，不加冠词：à Lisbonne。国家名前按名词的性、数和首音选择介词：Portugal 是以辅音开头的阳性单数，所在地用 au，所以 au Portugal。个别地名有惯用例外，要按词条记。au Lisbonne 给城市加了冠词；en Portugal 用错了阳性国家的形式；de Lisbonne 表示来源，与出生的地点不符。",
+          "locales": {
+            "fr": {
+              "explain": "Devant un nom de ville, on emploie à directement, sans article : à Lisbonne. Devant un nom de pays, on choisit la préposition selon le genre, le nombre et l'initiale : Portugal est masculin singulier et commence par une consonne ; pour le lieu où l'on se trouve, on emploie au, d'où au Portugal. Certains noms de lieux ont des exceptions d'usage, à apprendre par entrée. au Lisbonne ajoute un article à une ville ; en Portugal emploie la mauvaise forme pour un pays masculin ; de Lisbonne exprime la provenance, non le lieu de naissance."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x1-q3",
@@ -1966,7 +2707,12 @@
           ],
           "answer": 1,
           "translation": "我们六月在科西嘉待一周，九月在巴利阿里群岛待两天。",
-          "explain": "岛屿名的冠词状态要按词条记：Corse 是带定冠词的阴性单数岛名，用 en 和 de；Baléares 是复数群岛名，用 aux 和 des。à la Corse 不符合 Corse 的惯用形式，à les Baléares 没有缩合，au Corse 既加了阳性冠词又用错介词。"
+          "explain": "岛屿名的冠词状态要按词条记：Corse 是带定冠词的阴性单数岛名，用 en 和 de；Baléares 是复数群岛名，用 aux 和 des。à la Corse 不符合 Corse 的惯用形式，à les Baléares 没有缩合，au Corse 既加了阳性冠词又用错介词。",
+          "locales": {
+            "fr": {
+              "explain": "L'article des noms d'îles s'apprend par entrée lexicale : Corse est une île féminine singulière avec article défini, d'où en et de ; Baléares est un archipel pluriel, d'où aux et des. à la Corse ne correspond pas à la forme usuelle de Corse, à les Baléares ne se contracte pas, au Corse ajoute un article masculin et emploie la mauvaise préposition."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x1-q4",
@@ -2001,7 +2747,12 @@
             "Paris"
           ],
           "translation": "他在纽约工作，来自美国。",
-          "explain": "城市名 New York 前用 à，不加冠词：à New York。les États-Unis 是复数国名，来源用 de + les，缩合为 des：des États-Unis。不能用 aux（那是「去往」方向），也不能保留 de les。"
+          "explain": "城市名 New York 前用 à，不加冠词：à New York。les États-Unis 是复数国名，来源用 de + les，缩合为 des：des États-Unis。不能用 aux（那是「去往」方向），也不能保留 de les。",
+          "locales": {
+            "fr": {
+              "explain": "Devant le nom de ville New York, on emploie à, sans article : à New York. les États-Unis est un nom de pays pluriel : la provenance s'exprime avec de + les, contracté en des : des États-Unis. aux indiquerait l'aller, et « de les » ne se conserve pas."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x1-q5",
@@ -2015,7 +2766,12 @@
           ],
           "answer": 3,
           "translation": "我在沙发下面找过眼镜，但哪儿都找不到。",
-          "explain": "sous 表示「在……下面」，与 chercher 搭配自然：chercher sous le canapé。nulle part 表示「哪儿都不」，必须与 ne 连用：je ne les trouve nulle part。quelque part 用于肯定语境；ailleurs 表示「别处」，与「找不到」矛盾；dans le canapé 是「在沙发里面」，不符合找眼镜的常见场景。"
+          "explain": "sous 表示「在……下面」，与 chercher 搭配自然：chercher sous le canapé。nulle part 表示「哪儿都不」，必须与 ne 连用：je ne les trouve nulle part。quelque part 用于肯定语境；ailleurs 表示「别处」，与「找不到」矛盾；dans le canapé 是「在沙发里面」，不符合找眼镜的常见场景。",
+          "locales": {
+            "fr": {
+              "explain": "sous signifie « sous » et se construit naturellement avec chercher : chercher sous le canapé. nulle part signifie « nulle part » et doit s'employer avec ne : je ne les trouve nulle part. quelque part s'emploie à la forme affirmative ; ailleurs signifie « ailleurs » et contredit « ne pas trouver » ; dans le canapé signifie « à l'intérieur du canapé », ce qui ne correspond pas à la recherche habituelle de lunettes."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x1-q6",
@@ -2029,9 +2785,19 @@
           ],
           "answer": 2,
           "translation": "药店在银行和面包店之间，就在广场对面。",
-          "explain": "entre 接两个并列对象，用 et 连接：entre la banque et la boulangerie。en face de 是复合方位短语，后面要接 de + 名词：en face de la place。parmi 用于群体，不用于两个并列对象；devant de 不是正确组合；au milieu 和 en face 后面都必须加 de。"
+          "explain": "entre 接两个并列对象，用 et 连接：entre la banque et la boulangerie。en face de 是复合方位短语，后面要接 de + 名词：en face de la place。parmi 用于群体，不用于两个并列对象；devant de 不是正确组合；au milieu 和 en face 后面都必须加 de。",
+          "locales": {
+            "fr": {
+              "explain": "entre relie deux éléments coordonnés par et : entre la banque et la boulangerie. en face de est un groupe de lieu composé, suivi de de + nom : en face de la place. parmi s'emploie pour un groupe, non pour deux éléments coordonnés ; devant de n'est pas une combinaison correcte ; au milieu et en face doivent être suivis de de."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse des prépositions spatiales : villes, pays, institutions et positions (1)"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-x1-2",
@@ -2051,7 +2817,12 @@
           ],
           "answer": 0,
           "translation": "放学后孩子们去奶奶家，然后回家。",
-          "explain": "chez 后面接人，表示「在某人那里、去某人那里」：chez leur grand-mère。rentrer à la maison 是固定短语「回家」，不能改成 rentrer en maison。dans la maison 强调进入房屋内部，与「回家」这一固定说法的意思不同。"
+          "explain": "chez 后面接人，表示「在某人那里、去某人那里」：chez leur grand-mère。rentrer à la maison 是固定短语「回家」，不能改成 rentrer en maison。dans la maison 强调进入房屋内部，与「回家」这一固定说法的意思不同。",
+          "locales": {
+            "fr": {
+              "explain": "chez est suivi d'une personne et signifie « chez / au domicile de » : chez leur grand-mère. rentrer à la maison est l'expression figée « rentrer chez soi », qu'on ne remplace pas par rentrer en maison. dans la maison insiste sur l'entrée dans le bâtiment, différent de l'expression figée « rentrer chez soi »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x1-q8",
@@ -2065,7 +2836,12 @@
           ],
           "answer": 1,
           "translation": "高铁八点从巴黎出发，中午到达里昂。",
-          "explain": "城市名前用裸介词：出发地 de Paris，目的地 à Lyon，不加冠词，也不缩合为 du / au。具体时刻前用 à：à huit heures、à midi。en 不能表示钟点；arriver de Lyon 表示「从里昂到达」，与句意相反。"
+          "explain": "城市名前用裸介词：出发地 de Paris，目的地 à Lyon，不加冠词，也不缩合为 du / au。具体时刻前用 à：à huit heures、à midi。en 不能表示钟点；arriver de Lyon 表示「从里昂到达」，与句意相反。",
+          "locales": {
+            "fr": {
+              "explain": "Devant un nom de ville, on emploie la préposition simple : de Paris pour le départ, à Lyon pour l'arrivée, sans article ni contraction en du / au. Devant une heure précise, on emploie à : à huit heures, à midi. en ne peut pas indiquer l'heure ; arriver de Lyon signifierait « arriver depuis Lyon », contraire au sens."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x1-q9",
@@ -2101,7 +2877,12 @@
             "Suisses"
           ],
           "translation": "他到了瑞士，又从日内瓦出发。",
-          "explain": "Suisse 是阴性单数国名，去往或所在地用 en：en Suisse；le Canada 是阳性单数，原本用 au，两者不能类推。城市名前来源用裸 de：de Genève，不缩合为 du。repartir 的变位 repart 保持不变。"
+          "explain": "Suisse 是阴性单数国名，去往或所在地用 en：en Suisse；le Canada 是阳性单数，原本用 au，两者不能类推。城市名前来源用裸 de：de Genève，不缩合为 du。repartir 的变位 repart 保持不变。",
+          "locales": {
+            "fr": {
+              "explain": "Suisse est un pays féminin singulier : pour aller ou se trouver, on emploie en : en Suisse ; le Canada est masculin singulier et employait au, on ne les calque pas l'un sur l'autre. Devant un nom de ville, la provenance s'exprime avec de directement : de Genève, sans contraction en du. La forme repart de repartir reste inchangée."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x1-q10",
@@ -2115,7 +2896,12 @@
           ],
           "answer": 3,
           "translation": "我把钞票放进了口袋，把钥匙放在了桌上。",
-          "explain": "poche 是容器，东西在内部用 dans：dans ma poche。table 是平面，东西放在表面用 sur：sur la table。dans la table 会表示「在桌子内部」，à ma poche 不表示「在口袋里」。"
+          "explain": "poche 是容器，东西在内部用 dans：dans ma poche。table 是平面，东西放在表面用 sur：sur la table。dans la table 会表示「在桌子内部」，à ma poche 不表示「在口袋里」。",
+          "locales": {
+            "fr": {
+              "explain": "poche est un contenant : les objets à l'intérieur s'expriment avec dans : dans ma poche. table est une surface : les objets posés dessus s'expriment avec sur : sur la table. dans la table signifierait « à l'intérieur de la table », et à ma poche n'exprime pas « dans la poche »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x1-q11",
@@ -2129,7 +2915,12 @@
           ],
           "answer": 2,
           "translation": "图书馆在市中心，就在市政厅对面。",
-          "explain": "说明人或物所在位置用 être + 方位短语：la bibliothèque est au centre de la ville。en face de 是复合方位短语，de 不能省：en face de la mairie。a 是 avoir 的变位，不能表示位置；devant de 不是正确组合。"
+          "explain": "说明人或物所在位置用 être + 方位短语：la bibliothèque est au centre de la ville。en face de 是复合方位短语，de 不能省：en face de la mairie。a 是 avoir 的变位，不能表示位置；devant de 不是正确组合。",
+          "locales": {
+            "fr": {
+              "explain": "Pour indiquer où se trouve une personne ou une chose, on emploie être + groupe de lieu : la bibliothèque est au centre de la ville. en face de est un groupe de lieu composé ; de ne s'omet pas : en face de la mairie. a est une forme d'avoir et ne peut pas indiquer la position ; devant de n'est pas correct."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x1-q12",
@@ -2143,9 +2934,19 @@
           ],
           "answer": 0,
           "translation": "我们沿国道从里昂去了马赛。",
-          "explain": "城市名前的起点和终点都用裸介词：de Lyon、à Marseille，不能缩合为 du / au。表示经过的路线用 par：par la route nationale。sur 表示「在……上面」，不能引出经过的路线；en 不能连接两个城市表示「从……到……」。"
+          "explain": "城市名前的起点和终点都用裸介词：de Lyon、à Marseille，不能缩合为 du / au。表示经过的路线用 par：par la route nationale。sur 表示「在……上面」，不能引出经过的路线；en 不能连接两个城市表示「从……到……」。",
+          "locales": {
+            "fr": {
+              "explain": "Devant les noms de villes, le point de départ et le point d'arrivée emploient les prépositions simples : de Lyon, à Marseille, sans contraction en du / au. L'itinéraire s'exprime avec par : par la route nationale. sur signifie « sur » et ne peut pas introduire un itinéraire ; en ne relie pas deux villes pour exprimer « de... à... »."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse des prépositions spatiales : villes, pays, institutions et positions (2)"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-x2-1",
@@ -2165,7 +2966,12 @@
           ],
           "answer": 2,
           "translation": "电影八点开始；我们两小时后出来。",
-          "explain": "具体时刻前用 à：à huit heures。表示从现在起若干时间之后用 dans + 时段：dans deux heures（两小时后）。en 表示完成动作所用的时间，pendant 表示一段持续的时间，都不能表示「从现在起的延时」。"
+          "explain": "具体时刻前用 à：à huit heures。表示从现在起若干时间之后用 dans + 时段：dans deux heures（两小时后）。en 表示完成动作所用的时间，pendant 表示一段持续的时间，都不能表示「从现在起的延时」。",
+          "locales": {
+            "fr": {
+              "explain": "Devant une heure précise, on emploie à : à huit heures. Pour exprimer un délai à partir du présent, on emploie dans + durée : dans deux heures (« dans deux heures »). en exprime le temps nécessaire à l'accomplissement, pendant une durée de continuation : aucun ne peut exprimer « dans deux heures »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x2-q2",
@@ -2179,7 +2985,12 @@
           ],
           "answer": 0,
           "translation": "今天是五月三日，现在九点。",
-          "explain": "日期用 nous sommes le + 日期，日期前保留定冠词 le：nous sommes le 3 mai。钟点用无人称 il est + 时间：il est neuf heures，il 不指代具体的人或物。au 不能代替日期前的 le；il a 是 avoir 的变位，不能表达钟点。"
+          "explain": "日期用 nous sommes le + 日期，日期前保留定冠词 le：nous sommes le 3 mai。钟点用无人称 il est + 时间：il est neuf heures，il 不指代具体的人或物。au 不能代替日期前的 le；il a 是 avoir 的变位，不能表达钟点。",
+          "locales": {
+            "fr": {
+              "explain": "La date emploie nous sommes le + date, avec l'article défini le devant la date : nous sommes le 3 mai. L'heure emploie l'impersonnel il est + heure : il est neuf heures, il ne renvoie à aucune personne ni objet précis. au ne remplace pas le devant la date ; il a est une forme d'avoir et ne peut pas exprimer l'heure."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x2-q3",
@@ -2193,7 +3004,12 @@
           ],
           "answer": 1,
           "translation": "我三年前认识了索菲，从那次相遇起我们就是朋友。",
-          "explain": "il y a + 时段表示从现在回溯的「……以前」，常与过去时搭配：il y a trois ans。depuis + 时间点表示从那时开始并持续到现在，常与现在时搭配：depuis cette rencontre。dans 指向将来，pendant 只表示一段有限时间，不能表示持续至今。"
+          "explain": "il y a + 时段表示从现在回溯的「……以前」，常与过去时搭配：il y a trois ans。depuis + 时间点表示从那时开始并持续到现在，常与现在时搭配：depuis cette rencontre。dans 指向将来，pendant 只表示一段有限时间，不能表示持续至今。",
+          "locales": {
+            "fr": {
+              "explain": "il y a + durée exprime « il y a... » à partir du présent, souvent avec un temps du passé : il y a trois ans. depuis + point de repère exprime un état commencé à ce moment et qui continue jusqu'au présent, souvent avec le présent : depuis cette rencontre. dans renvoie au futur, pendant à une durée limitée sans continuation jusqu'au présent."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x2-q4",
@@ -2207,7 +3023,12 @@
           ],
           "answer": 3,
           "translation": "我在这家公司工作了三年，然后去国外待了一年。",
-          "explain": "pendant + 时段表示一段有限的实际持续时间：pendant trois ans。pour + 时段表示计划、预定的持续时间，常与出发类动词连用：partir pour un an。pour 不能替换已经完成的实际持续；en 强调完成用时，depuis 强调持续到现在。"
+          "explain": "pendant + 时段表示一段有限的实际持续时间：pendant trois ans。pour + 时段表示计划、预定的持续时间，常与出发类动词连用：partir pour un an。pour 不能替换已经完成的实际持续；en 强调完成用时，depuis 强调持续到现在。",
+          "locales": {
+            "fr": {
+              "explain": "pendant + durée exprime une durée réelle et limitée : pendant trois ans. pour + durée exprime une durée prévue ou programmée, souvent avec un verbe de départ : partir pour un an. pour ne remplace pas une durée réelle accomplie ; en insiste sur le temps d'accomplissement, depuis sur la continuation jusqu'au présent."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x2-q5",
@@ -2221,7 +3042,12 @@
           ],
           "answer": 0,
           "translation": "她两小时就完成了报告，而她原以为要三天才能完成。",
-          "explain": "en + 时段表示完成某动作所花的时间：finir en deux heures。dans + 时段表示从现在起的将来延时：dans trois jours（三天后）。两个方向相反，不能互换；pendant 只强调持续，不强调「完成」。"
+          "explain": "en + 时段表示完成某动作所花的时间：finir en deux heures。dans + 时段表示从现在起的将来延时：dans trois jours（三天后）。两个方向相反，不能互换；pendant 只强调持续，不强调「完成」。",
+          "locales": {
+            "fr": {
+              "explain": "en + durée exprime le temps nécessaire pour accomplir une action : finir en deux heures. dans + durée exprime un délai à partir du présent : dans trois jours. Les deux directions sont opposées et ne sont pas interchangeables ; pendant insiste sur la durée, non sur l'achèvement."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x2-q6",
@@ -2235,9 +3061,19 @@
           ],
           "answer": 2,
           "translation": "游泳池从九点开到十九点；星期一闭馆。",
-          "explain": "钟点范围用 de ... à ...，不能用 du ... au ...，因为 du / au 是 de + le / à + le 的缩合，后面要接带冠词的名词，而 9 heures 前没有冠词。星期前表示惯常的「每星期一」用 le：le lundi。"
+          "explain": "钟点范围用 de ... à ...，不能用 du ... au ...，因为 du / au 是 de + le / à + le 的缩合，后面要接带冠词的名词，而 9 heures 前没有冠词。星期前表示惯常的「每星期一」用 le：le lundi。",
+          "locales": {
+            "fr": {
+              "explain": "L'intervalle d'heures s'écrit de... à..., non du... au..., car du / au sont les contractions de de + le / à + le et doivent être suivis d'un nom avec article défini, tandis que 9 heures ne prend pas d'article. Devant un jour de la semaine exprimant une habitude, on emploie le : le lundi."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse des prépositions de temps : heures, durée et intervalle (1)"
+        }
+      }
     },
     {
       "id": "pub-c16-time-space-prepositions-x2-2",
@@ -2257,7 +3093,12 @@
           ],
           "answer": 1,
           "translation": "打折活动从一月十日到二月十日；三天前就开始了。",
-          "explain": "日期范围用 du ... au ...：du 10 janvier au 10 février，因为日期名词前有定冠词，de + le 缩合为 du，à + le 缩合为 au。il y a + 时段表示「……以前」：il y a trois jours。depuis 表示持续到现在，与「三天前开始」的定位不同。"
+          "explain": "日期范围用 du ... au ...：du 10 janvier au 10 février，因为日期名词前有定冠词，de + le 缩合为 du，à + le 缩合为 au。il y a + 时段表示「……以前」：il y a trois jours。depuis 表示持续到现在，与「三天前开始」的定位不同。",
+          "locales": {
+            "fr": {
+              "explain": "L'intervalle de dates s'écrit du... au... : du 10 janvier au 10 février, car le nom de date est précédé de l'article défini et de + le se contracte en du, à + le en au. il y a + durée exprime « il y a... » : il y a trois jours. depuis exprime une continuation jusqu'au présent, différente de « il y a trois jours »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x2-q8",
@@ -2286,7 +3127,12 @@
             "travailler"
           ],
           "translation": "他在这里工作三年了。",
-          "explain": "原句用 pendant 表示已经结束的三年；改成 depuis 后，动作从过去持续到现在，动词要用现在时 travaille，不能用复合过去时 a travaillé。depuis 后接时段 trois ans，表示「三年来」。"
+          "explain": "原句用 pendant 表示已经结束的三年；改成 depuis 后，动作从过去持续到现在，动词要用现在时 travaille，不能用复合过去时 a travaillé。depuis 后接时段 trois ans，表示「三年来」。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase d'origine emploie pendant pour trois années terminées ; avec depuis, l'action continue du passé jusqu'au présent et le verbe se met au présent travaille, non au passé composé a travaillé. depuis est suivi de la durée trois ans et signifie « depuis trois ans »."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x2-q9",
@@ -2300,7 +3146,12 @@
           ],
           "answer": 3,
           "translation": "你学法语多久了？——三年了；以前我学过两年英语。",
-          "explain": "回答 « depuis trois ans » 给的是从起点延续至今的时长，问句用 depuis combien de temps。depuis quand 问起点，回答应是 « depuis 2023 » 这样的时间点；jusqu'à quand 问终点；combien de temps 单独问一段时长，不与 depuis 的持续义对应。第二空表示已结束的两年，用 pendant。"
+          "explain": "回答 « depuis trois ans » 给的是从起点延续至今的时长，问句用 depuis combien de temps。depuis quand 问起点，回答应是 « depuis 2023 » 这样的时间点；jusqu'à quand 问终点；combien de temps 单独问一段时长，不与 depuis 的持续义对应。第二空表示已结束的两年，用 pendant。",
+          "locales": {
+            "fr": {
+              "explain": "La réponse « depuis trois ans » donne la durée écoulée depuis le point de départ : on emploie depuis combien de temps. depuis quand demande le point de départ, avec une réponse du type « depuis 2023 » ; jusqu'à quand demande le point d'arrivée ; combien de temps seul demande une durée sans le sens de continuation de depuis. Le second blanc exprime deux années terminées : pendant."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x2-q10",
@@ -2314,7 +3165,12 @@
           ],
           "answer": 2,
           "translation": "他身无分文地离开了，在朋友家住了三个月。",
-          "explain": "sans 表示缺少某物，后面的名词通常不加冠词：sans argent。pendant + 时段表示一段有限的实际持续时间：pendant trois mois。depuis 要求动作持续到现在，这里说的是已经结束的过去；en 强调完成用时，不强调持续。"
+          "explain": "sans 表示缺少某物，后面的名词通常不加冠词：sans argent。pendant + 时段表示一段有限的实际持续时间：pendant trois mois。depuis 要求动作持续到现在，这里说的是已经结束的过去；en 强调完成用时，不强调持续。",
+          "locales": {
+            "fr": {
+              "explain": "sans exprime l'absence d'une chose, et le nom qui suit ne prend généralement pas d'article : sans argent. pendant + durée exprime une durée réelle et limitée : pendant trois mois. depuis exige une continuation jusqu'au présent, alors qu'il s'agit ici d'un passé terminé ; en insiste sur le temps d'accomplissement, non sur la durée."
+            }
+          }
         },
         {
           "id": "pub-c16-time-space-prepositions-x2-q11",
@@ -2328,9 +3184,28 @@
           ],
           "answer": 0,
           "translation": "我们七点坐火车出发，两小时后到达。",
-          "explain": "交通工具前用 en，且不加冠词：en train。具体时刻前用 à：à sept heures。表示从现在起两小时之后用 dans + 时段：dans deux heures。à 不能表示将来的延时，en 也不能接在 arriverons 后表示「两小时后」。"
+          "explain": "交通工具前用 en，且不加冠词：en train。具体时刻前用 à：à sept heures。表示从现在起两小时之后用 dans + 时段：dans deux heures。à 不能表示将来的延时，en 也不能接在 arriverons 后表示「两小时后」。",
+          "locales": {
+            "fr": {
+              "explain": "Devant un moyen de transport, on emploie en sans article : en train. Devant une heure précise, on emploie à : à sept heures. Pour exprimer un délai de deux heures à partir du présent, on emploie dans + durée : dans deux heures. à ne peut pas exprimer un délai futur, et en ne se place pas après arriverons pour signifier « deux heures plus tard »."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse des prépositions de temps : heures, durée et intervalle (2)"
+        }
+      }
     }
-  ]
+  ],
+  "locales": {
+    "fr": {
+      "sectionTitles": {
+        "s1": "Repères spatiaux et noms géographiques",
+        "s2": "Dates, heures et prépositions de temps",
+        "s3": "Manière, matière, distribution et sens figurés"
+      }
+    }
+  }
 }

@@ -6,132 +6,288 @@
     {
       "id": "pub-c22-aspect-modality-card-u1-1",
       "title": "体貌：事件与背景的分工",
-      "body": "<p>法语过去叙事里，复合过去时（passé composé）和未完成过去时（imparfait）的分工首先不是「时间远近」，而是<strong>体貌</strong>（aspect）：说话人把动作呈现为有界限、已完成的事件，还是呈现为当时正在展开、没有突出边界的背景。</p><p>复合过去时由助动词 avoir 或 être 的现在时加过去分词构成：elle a ouvert、ils sont partis。它把动作呈现为一个<strong>完成的事件</strong>，常用于推进叙事：Il a ouvert la porte, il est entré et il a allumé la lumière.（他打开门，走进去，点亮了灯。）三个动作依次发生，每一步都给故事增加新信息。</p><p>未完成过去时把动作呈现为当时<strong>持续的背景、状态或习惯</strong>，不推动情节：La porte était ouverte, la pièce sentait le bois et un feu brûlait dans la cheminée.（门开着，房间里有木头的气味，壁炉里燃着火。）这些句子描写「当时是什么样子」，而不是「接着发生了什么」。</p><p>同一个动词可以有两种呈现：Il écrivait une lettre.（他当时在写信。）/ Il a écrit une lettre.（他写了一封信。）前者是进行中的过程，后者是完成的事件。</p><p>注意：体貌选择不能只按时间词机械判断，也不能把未完成过去时等同于「时间长」、把复合过去时等同于「时间短」。</p>"
+      "body": "<p>法语过去叙事里，复合过去时（passé composé）和未完成过去时（imparfait）的分工首先不是「时间远近」，而是<strong>体貌</strong>（aspect）：说话人把动作呈现为有界限、已完成的事件，还是呈现为当时正在展开、没有突出边界的背景。</p><p>复合过去时由助动词 avoir 或 être 的现在时加过去分词构成：elle a ouvert、ils sont partis。它把动作呈现为一个<strong>完成的事件</strong>，常用于推进叙事：Il a ouvert la porte, il est entré et il a allumé la lumière.（他打开门，走进去，点亮了灯。）三个动作依次发生，每一步都给故事增加新信息。</p><p>未完成过去时把动作呈现为当时<strong>持续的背景、状态或习惯</strong>，不推动情节：La porte était ouverte, la pièce sentait le bois et un feu brûlait dans la cheminée.（门开着，房间里有木头的气味，壁炉里燃着火。）这些句子描写「当时是什么样子」，而不是「接着发生了什么」。</p><p>同一个动词可以有两种呈现：Il écrivait une lettre.（他当时在写信。）/ Il a écrit une lettre.（他写了一封信。）前者是进行中的过程，后者是完成的事件。</p><p>注意：体貌选择不能只按时间词机械判断，也不能把未完成过去时等同于「时间长」、把复合过去时等同于「时间短」。</p>",
+      "locales": {
+        "fr": {
+          "title": "Aspect : la répartition entre événements et arrière-plan",
+          "body": "<p>Dans le récit au passé en français, la répartition entre le passé composé et l'imparfait ne repose d'abord pas sur « la distance temporelle », mais sur l'<strong>aspect</strong> : le locuteur présente l'action comme un événement borné et accompli, ou comme un arrière-plan en cours de déroulement à ce moment-là, sans limite mise en avant.</p><p>Le passé composé se forme avec l'auxiliaire avoir ou être au présent suivi du participe passé : elle a ouvert, ils sont partis. Il présente l'action comme un <strong>événement accompli</strong> et sert souvent à faire avancer le récit : Il a ouvert la porte, il est entré et il a allumé la lumière. Trois actions se succèdent, et chaque étape apporte une information nouvelle à l'histoire.</p><p>L'imparfait présente l'action comme un <strong>arrière-plan durable, un état ou une habitude</strong> à ce moment-là, sans faire avancer l'intrigue : La porte était ouverte, la pièce sentait le bois et un feu brûlait dans la cheminée. Ces phrases décrivent « comment c'était à ce moment-là », non « ce qui s'est passé ensuite ».</p><p>Un même verbe peut recevoir les deux présentations : Il écrivait une lettre. / Il a écrit une lettre. La première est un processus en cours, la seconde un événement accompli.</p><p>Attention : le choix d'aspect ne se décide pas mécaniquement d'après les indicateurs de temps, et l'imparfait ne signifie pas « action longue », pas plus que le passé composé ne signifie « action courte ».</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u1-2",
       "title": "复合过去时：完成事件与叙事推进",
-      "body": "<p>复合过去时的典型功能是把动作呈现为<strong>有界限的完成事件</strong>：有起点和终点，或产生一个结果。它适合按顺序讲述发生了什么。</p><ul><li>Le week-end dernier, Camille est rentrée au village, elle a ouvert la vieille maison et elle a trouvé une lettre sur la table.（上周末，卡米耶回到村里，打开老房子，在桌上发现一封信。）——三个完成事件依次推进。</li><li>Elle a lu la lettre en deux minutes.（她用两分钟读完了信。）——有明确终点。</li><li>La lettre a disparu le lendemain.（那封信第二天不见了。）——结果性事件。</li></ul><p>叙事里出现 soudain、tout à coup、puis、ensuite 等词时，常提示一个新的完成事件；但标志词本身不能代替判断。若动词被呈现为读者眼前展开的过程，即使有时间词，也可能用未完成过去时。</p><p>复合过去时也可表示一个阶段整体：Il a travaillé dix ans dans cette usine.（他在这家工厂工作了十年。）这里十年的长度不是关键；说话人把这段经历整体呈现为有始有终的完成阶段。</p><p>注意：不要因为动作「持续很久」就改用未完成过去时；先问说话人是在推进一个事件，还是在描写当时的背景。</p>"
+      "body": "<p>复合过去时的典型功能是把动作呈现为<strong>有界限的完成事件</strong>：有起点和终点，或产生一个结果。它适合按顺序讲述发生了什么。</p><ul><li>Le week-end dernier, Camille est rentrée au village, elle a ouvert la vieille maison et elle a trouvé une lettre sur la table.（上周末，卡米耶回到村里，打开老房子，在桌上发现一封信。）——三个完成事件依次推进。</li><li>Elle a lu la lettre en deux minutes.（她用两分钟读完了信。）——有明确终点。</li><li>La lettre a disparu le lendemain.（那封信第二天不见了。）——结果性事件。</li></ul><p>叙事里出现 soudain、tout à coup、puis、ensuite 等词时，常提示一个新的完成事件；但标志词本身不能代替判断。若动词被呈现为读者眼前展开的过程，即使有时间词，也可能用未完成过去时。</p><p>复合过去时也可表示一个阶段整体：Il a travaillé dix ans dans cette usine.（他在这家工厂工作了十年。）这里十年的长度不是关键；说话人把这段经历整体呈现为有始有终的完成阶段。</p><p>注意：不要因为动作「持续很久」就改用未完成过去时；先问说话人是在推进一个事件，还是在描写当时的背景。</p>",
+      "locales": {
+        "fr": {
+          "title": "Le passé composé : événement accompli et progression du récit",
+          "body": "<p>La fonction typique du passé composé est de présenter l'action comme un <strong>événement accompli et borné</strong> : avec un début et une fin, ou produisant un résultat. Il convient pour raconter dans l'ordre ce qui s'est passé.</p><ul><li>Le week-end dernier, Camille est rentrée au village, elle a ouvert la vieille maison et elle a trouvé une lettre sur la table. — trois événements accomplis qui font avancer le récit l'un après l'autre.</li><li>Elle a lu la lettre en deux minutes. — avec une fin clairement marquée.</li><li>La lettre a disparu le lendemain. — un événement à conséquence.</li></ul><p>Dans un récit, la présence de soudain, tout à coup, puis, ensuite, etc. annonce souvent un nouvel événement accompli ; mais l'indicateur lui-même ne remplace pas le jugement. Si le verbe est présenté comme un processus qui se déroule sous les yeux du lecteur, l'imparfait reste possible même en présence d'un indicateur de temps.</p><p>Le passé composé peut aussi présenter une étape dans son ensemble : Il a travaillé dix ans dans cette usine. La durée de dix ans n'est pas l'essentiel ici ; le locuteur présente cette expérience comme une étape accomplie, avec un début et une fin.</p><p>Attention : ne passez pas à l'imparfait sous prétexte que l'action « dure longtemps » ; demandez-vous d'abord si le locuteur fait avancer un événement ou décrit l'arrière-plan de ce moment-là.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u1-3",
       "title": "未完成过去时：背景、状态与习惯",
-      "body": "<p>未完成过去时把动作呈现为<strong>当时已经存在、尚未被事件切断的背景</strong>。它常见的三类用途是：</p><ul><li>环境与状态：La maison était vieille, les volets étaient fermés et le jardin semblait abandonné.（房子很旧，百叶窗关着，花园看上去荒废了。）</li><li>当时正在进行、尚未结束的过程：Camille lisait dans le salon quand on a sonné.（有人按门铃时，卡米耶正在客厅看书。）</li><li>过去反复发生的习惯：Chaque été, elle passait quelques jours chez ses grands-parents.（每年夏天，她都会在祖父母家住几天。）</li></ul><p>状态动词（表示状态而非动作的动词，如 être、avoir、savoir、vouloir、pouvoir 等）常以未完成过去时描写当时的心理或物质状态：Elle voulait partir, mais elle n'avait pas de voiture.（她想走，但没有车。）</p><p>注意：未完成过去时不等于「动作很长」；它只是不把动作呈现为有界限的事件。状态动词也并非一律用未完成过去时：如果状态本身被呈现为一个完成的阶段，也可能用复合过去时。见讲复合过去时的那张卡片。</p>"
+      "body": "<p>未完成过去时把动作呈现为<strong>当时已经存在、尚未被事件切断的背景</strong>。它常见的三类用途是：</p><ul><li>环境与状态：La maison était vieille, les volets étaient fermés et le jardin semblait abandonné.（房子很旧，百叶窗关着，花园看上去荒废了。）</li><li>当时正在进行、尚未结束的过程：Camille lisait dans le salon quand on a sonné.（有人按门铃时，卡米耶正在客厅看书。）</li><li>过去反复发生的习惯：Chaque été, elle passait quelques jours chez ses grands-parents.（每年夏天，她都会在祖父母家住几天。）</li></ul><p>状态动词（表示状态而非动作的动词，如 être、avoir、savoir、vouloir、pouvoir 等）常以未完成过去时描写当时的心理或物质状态：Elle voulait partir, mais elle n'avait pas de voiture.（她想走，但没有车。）</p><p>注意：未完成过去时不等于「动作很长」；它只是不把动作呈现为有界限的事件。状态动词也并非一律用未完成过去时：如果状态本身被呈现为一个完成的阶段，也可能用复合过去时。见讲复合过去时的那张卡片。</p>",
+      "locales": {
+        "fr": {
+          "title": "L'imparfait : arrière-plan, état et habitude",
+          "body": "<p>L'imparfait présente l'action comme un <strong>arrière-plan déjà présent à ce moment-là et non encore interrompu par un événement</strong>. Trois emplois sont fréquents :</p><ul><li>Le cadre et l'état : La maison était vieille, les volets étaient fermés et le jardin semblait abandonné.</li><li>Un processus en cours, non terminé à ce moment-là : Camille lisait dans le salon quand on a sonné.</li><li>Une habitude qui se répétait dans le passé : Chaque été, elle passait quelques jours chez ses grands-parents.</li></ul><p>Les verbes d'état (qui expriment un état et non une action, comme être, avoir, savoir, vouloir, pouvoir, etc.) se mettent souvent à l'imparfait pour décrire un état psychologique ou matériel à ce moment-là : Elle voulait partir, mais elle n'avait pas de voiture.</p><p>Attention : l'imparfait n'équivaut pas à « action très longue » ; il se contente de ne pas présenter l'action comme un événement borné. Les verbes d'état ne se mettent pas non plus systématiquement à l'imparfait : si l'état lui-même est présenté comme une étape accomplie, le passé composé est possible. Voir la fiche consacrée au passé composé.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u1-4",
       "title": "两种时态的交替：背景与事件如何配合",
-      "body": "<p>一段自然的过去叙事常常两种时态交替：未完成过去时铺设<strong>场景、状态和习惯</strong>，复合过去时推出<strong>新的完成事件</strong>。事件可以打断背景，也可以依次发生。</p><ul><li>Ce matin-là, il pleuvait et les rues étaient désertes. Camille a pris son parapluie et elle est sortie.（那天早上，下着雨，街上空无一人。卡米耶拿了伞就出门了。）——前两句是背景，后两句是事件。</li><li>Nous dînions tranquillement quand quelqu'un a frappé à la porte.（我们正安静地吃晚饭，忽然有人敲门。）——进行中的过程被事件打断。</li><li>Il a ouvert la porte, a posé sa valise et est entré dans le salon.（他打开门，放下箱子，走进客厅。）——连续事件，每一步都推进叙事。</li></ul><p>判断时可以问三个问题：这个动作是给故事「添了一步」，还是只是说明当时「是什么样子」？它是被呈现为完整的、有界限的事件，还是当时正在展开的过程？动词本身是状态还是动作？</p><p>注意：两个动作有先后，并不自动要求其中一句用愈过去时；如果两句都作为连续事件呈现，可以都用复合过去时。真正的「更早完成」及其参照点，见后面讲愈过去时的卡片。</p>"
+      "body": "<p>一段自然的过去叙事常常两种时态交替：未完成过去时铺设<strong>场景、状态和习惯</strong>，复合过去时推出<strong>新的完成事件</strong>。事件可以打断背景，也可以依次发生。</p><ul><li>Ce matin-là, il pleuvait et les rues étaient désertes. Camille a pris son parapluie et elle est sortie.（那天早上，下着雨，街上空无一人。卡米耶拿了伞就出门了。）——前两句是背景，后两句是事件。</li><li>Nous dînions tranquillement quand quelqu'un a frappé à la porte.（我们正安静地吃晚饭，忽然有人敲门。）——进行中的过程被事件打断。</li><li>Il a ouvert la porte, a posé sa valise et est entré dans le salon.（他打开门，放下箱子，走进客厅。）——连续事件，每一步都推进叙事。</li></ul><p>判断时可以问三个问题：这个动作是给故事「添了一步」，还是只是说明当时「是什么样子」？它是被呈现为完整的、有界限的事件，还是当时正在展开的过程？动词本身是状态还是动作？</p><p>注意：两个动作有先后，并不自动要求其中一句用愈过去时；如果两句都作为连续事件呈现，可以都用复合过去时。真正的「更早完成」及其参照点，见后面讲愈过去时的卡片。</p>",
+      "locales": {
+        "fr": {
+          "title": "L'alternance des deux temps : comment arrière-plan et événements se combinent",
+          "body": "<p>Un récit passé naturel alterne souvent les deux temps : l'imparfait installe le <strong>décor, les états et les habitudes</strong>, le passé composé introduit un <strong>nouvel événement accompli</strong>. L'événement peut interrompre l'arrière-plan ou se succéder à un autre événement.</p><ul><li>Ce matin-là, il pleuvait et les rues étaient désertes. Camille a pris son parapluie et elle est sortie. — les deux premières phrases donnent l'arrière-plan, les deux suivantes les événements.</li><li>Nous dînions tranquillement quand quelqu'un a frappé à la porte. — un processus en cours interrompu par un événement.</li><li>Il a ouvert la porte, a posé sa valise et est entré dans le salon. — des événements successifs, dont chacun fait avancer le récit.</li></ul><p>Pour décider, posez trois questions : cette action ajoute-t-elle « un pas » à l'histoire, ou indique-t-elle seulement « comment c'était » à ce moment-là ? Est-elle présentée comme un événement complet et borné, ou comme un processus alors en cours ? Le verbe exprime-t-il un état ou une action ?</p><p>Attention : ce n'est pas parce que deux actions sont successives que l'une d'elles doit automatiquement se mettre au plus-que-parfait ; si les deux sont présentées comme des événements successifs, elles peuvent toutes deux être au passé composé. Pour la véritable « antériorité accomplie » et son point de référence, voir plus loin la fiche sur le plus-que-parfait.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u1-5",
       "title": "形式与配合：助动词、过去分词、否定与被动",
-      "body": "<p>复合过去时的形式错误会直接破坏叙事，因此把相关形式一并整理。</p><p><strong>助动词</strong>：绝大多数动词用 avoir；表示位置移动或状态变化的<strong>不及物动词</strong>（aller、venir、arriver、partir、entrer、sortir、monter、descendre、naître、mourir 等）以及代词式动词（带 se、me、te 等自反代词的动词）用 être。</p><p><strong>过去分词</strong>：-er 动词 → -é（parler → parlé）；规则 -ir 动词 → -i（finir → fini）；常见不规则分词包括：-ert（ouvrir → ouvert、couvrir → couvert）、-aint/-eint/-oint（craindre → craint、peindre → peint、joindre → joint）、-u（voir → vu、boire → bu、répondre → répondu、venir → venu）、-i/-is（prendre → pris、mettre → mis、comprendre → compris）；其他常见不规则形式：dire → dit、écrire → écrit、faire → fait。</p><p><strong>配合</strong>：用 être 作助动词的不及物动词，分词与主语性数配合：Elles sont arrivées.（她们到了。）用 avoir 时，分词不随主语变化；但直接宾语若前置，分词与它配合：Les photos qu'elle a prises.（她拍的那些照片。）</p><p><strong>否定与副词</strong>：ne...pas 夹住助动词：Elle n'a pas compris. 短副词 déjà、souvent、toujours 放在助动词与分词之间：Il a déjà vu ce film. 否定代词 rien、personne 和否定限定词 aucun 放在分词后：Il n'a rien dit. / Il n'a vu personne. / Elle n'a acheté aucune fleur.</p><p><strong>被动</strong>：être 加过去分词，分词与被动主语配合；复合过去时的被动是 a été + 分词：Les travaux ont été terminés.（工程已经完成。）</p><p>注意：不要看到复数主语就给 avoir 的分词加 -s；先确认助动词，再看有没有前置直接宾语。</p>"
+      "body": "<p>复合过去时的形式错误会直接破坏叙事，因此把相关形式一并整理。</p><p><strong>助动词</strong>：绝大多数动词用 avoir；表示位置移动或状态变化的<strong>不及物动词</strong>（aller、venir、arriver、partir、entrer、sortir、monter、descendre、naître、mourir 等）以及代词式动词（带 se、me、te 等自反代词的动词）用 être。</p><p><strong>过去分词</strong>：-er 动词 → -é（parler → parlé）；规则 -ir 动词 → -i（finir → fini）；常见不规则分词包括：-ert（ouvrir → ouvert、couvrir → couvert）、-aint/-eint/-oint（craindre → craint、peindre → peint、joindre → joint）、-u（voir → vu、boire → bu、répondre → répondu、venir → venu）、-i/-is（prendre → pris、mettre → mis、comprendre → compris）；其他常见不规则形式：dire → dit、écrire → écrit、faire → fait。</p><p><strong>配合</strong>：用 être 作助动词的不及物动词，分词与主语性数配合：Elles sont arrivées.（她们到了。）用 avoir 时，分词不随主语变化；但直接宾语若前置，分词与它配合：Les photos qu'elle a prises.（她拍的那些照片。）</p><p><strong>否定与副词</strong>：ne...pas 夹住助动词：Elle n'a pas compris. 短副词 déjà、souvent、toujours 放在助动词与分词之间：Il a déjà vu ce film. 否定代词 rien、personne 和否定限定词 aucun 放在分词后：Il n'a rien dit. / Il n'a vu personne. / Elle n'a acheté aucune fleur.</p><p><strong>被动</strong>：être 加过去分词，分词与被动主语配合；复合过去时的被动是 a été + 分词：Les travaux ont été terminés.（工程已经完成。）</p><p>注意：不要看到复数主语就给 avoir 的分词加 -s；先确认助动词，再看有没有前置直接宾语。</p>",
+      "locales": {
+        "fr": {
+          "title": "Formes et accords : auxiliaire, participe passé, négation et voix passive",
+          "body": "<p>Une erreur de forme au passé composé casse directement le récit : voici donc un rappel des formes concernées.</p><p><strong>Auxiliaire</strong> : la grande majorité des verbes emploient avoir ; les <strong>verbes intransitifs</strong> exprimant un déplacement ou un changement d'état (aller, venir, arriver, partir, entrer, sortir, monter, descendre, naître, mourir, etc.) ainsi que les verbes pronominaux (avec se, me, te, etc.) emploient être.</p><p><strong>Participe passé</strong> : verbes en -er → -é (parler → parlé) ; verbes réguliers en -ir → -i (finir → fini) ; parmi les participes irréguliers fréquents : -ert (ouvrir → ouvert, couvrir → couvert), -aint/-eint/-oint (craindre → craint, peindre → peint, joindre → joint), -u (voir → vu, boire → bu, répondre → répondu, venir → venu), -i/-is (prendre → pris, mettre → mis, comprendre → compris) ; autres formes irrégulières courantes : dire → dit, écrire → écrit, faire → fait.</p><p><strong>Accord</strong> : avec être, le participe passé d'un verbe intransitif s'accorde en genre et en nombre avec le sujet : Elles sont arrivées. Avec avoir, le participe ne varie pas avec le sujet ; mais si le complément d'objet direct est placé avant, le participe s'accorde avec lui : Les photos qu'elle a prises.</p><p><strong>Négation et adverbes</strong> : ne...pas encadre l'auxiliaire : Elle n'a pas compris. Les adverbes courts déjà, souvent, toujours se placent entre l'auxiliaire et le participe : Il a déjà vu ce film. Les pronoms négatifs rien, personne et le déterminant négatif aucun se placent après le participe : Il n'a rien dit. / Il n'a vu personne. / Elle n'a acheté aucune fleur.</p><p><strong>Voix passive</strong> : être suivi du participe passé, qui s'accorde avec le sujet passif ; au passé composé, la forme passive est a été + participe : Les travaux ont été terminés.</p><p>Attention : n'ajoutez pas -s au participe d'un verbe conjugué avec avoir sous prétexte que le sujet est pluriel ; vérifiez d'abord l'auxiliaire, puis l'éventuel complément d'objet direct placé avant.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u1-6",
       "title": "判断顺序与常见误区",
-      "body": "<p>遇到过去时态填空，可以按下面顺序判断：</p><ol><li>先看篇章功能：这句话是在推进一个新事件，还是在描写当时的背景、状态或习惯？</li><li>再看参照点：动作是否在另一个过去动作之前完成？如果是，才考虑愈过去时。</li><li>再看动词意义：状态动词倾向于未完成过去时；有明确结果的瞬间动作倾向于复合过去时。</li><li>最后检查形式：助动词、分词、性数配合、否定与副词位置。</li></ol><p>例：Hier, il pleuvait. Camille a pris son parapluie et elle est sortie.（昨天在下雨。卡米耶拿了伞就出门了。）——pleuvait 是背景，a pris 和 est sortie 是先后事件；sortir 用 être，分词与 Camille 阴性配合。</p><p>常见误区：把「时间长」当成未完成过去时的理由；把「短」当成复合过去时的理由；看到 puis、ensuite 就机械全用复合过去时；看到 chaque 就机械全用未完成过去时。这些词只是线索，最终要看说话人如何呈现动作。</p><p>注意：同一段话里两种时态可以交替；判断依据是体貌和叙事组织，而不是逐句套时间词。</p>"
+      "body": "<p>遇到过去时态填空，可以按下面顺序判断：</p><ol><li>先看篇章功能：这句话是在推进一个新事件，还是在描写当时的背景、状态或习惯？</li><li>再看参照点：动作是否在另一个过去动作之前完成？如果是，才考虑愈过去时。</li><li>再看动词意义：状态动词倾向于未完成过去时；有明确结果的瞬间动作倾向于复合过去时。</li><li>最后检查形式：助动词、分词、性数配合、否定与副词位置。</li></ol><p>例：Hier, il pleuvait. Camille a pris son parapluie et elle est sortie.（昨天在下雨。卡米耶拿了伞就出门了。）——pleuvait 是背景，a pris 和 est sortie 是先后事件；sortir 用 être，分词与 Camille 阴性配合。</p><p>常见误区：把「时间长」当成未完成过去时的理由；把「短」当成复合过去时的理由；看到 puis、ensuite 就机械全用复合过去时；看到 chaque 就机械全用未完成过去时。这些词只是线索，最终要看说话人如何呈现动作。</p><p>注意：同一段话里两种时态可以交替；判断依据是体貌和叙事组织，而不是逐句套时间词。</p>",
+      "locales": {
+        "fr": {
+          "title": "Ordre de décision et erreurs fréquentes",
+          "body": "<p>Face à un exercice sur les temps du passé, procédez dans cet ordre :</p><ol><li>Regardez d'abord la fonction dans le texte : cette phrase fait-elle avancer un nouvel événement, ou décrit-elle l'arrière-plan, l'état ou l'habitude de ce moment-là ?</li><li>Cherchez ensuite le point de référence : l'action s'achève-t-elle avant une autre action passée ? Si oui, envisagez le plus-que-parfait.</li><li>Observez le sens du verbe : les verbes d'état tendent vers l'imparfait ; les actions ponctuelles à résultat net tendent vers le passé composé.</li><li>Vérifiez enfin la forme : auxiliaire, participe, accord en genre et en nombre, négation et place des adverbes.</li></ol><p>Exemple : Hier, il pleuvait. Camille a pris son parapluie et elle est sortie. — pleuvait est l'arrière-plan, a pris et est sortie sont des événements successifs ; sortir se conjugue avec être, et le participe s'accorde au féminin avec Camille.</p><p>Erreurs fréquentes : justifier l'imparfait par « la durée longue » ; justifier le passé composé par « la durée courte » ; employer mécaniquement le passé composé partout dès qu'on voit puis, ensuite ; employer mécaniquement l'imparfait partout dès qu'on voit chaque. Ces mots ne sont que des indices : c'est finalement la manière dont le locuteur présente l'action qui décide.</p><p>Attention : dans un même passage, les deux temps peuvent alterner ; on décide d'après l'aspect et l'organisation du récit, non en appliquant un indicateur de temps phrase par phrase.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u2-1",
       "title": "愈过去时：过去参照点之前的完成",
-      "body": "<p><strong>愈过去时</strong>（plus-que-parfait）由助动词 avoir 或 être 的<strong>未完成过去时</strong>加过去分词构成：avait fini、était partie、s'était levé。它表示一个动作在另一个过去动作或过去时刻<strong>之前</strong>已经完成，也就是带一个「过去的参照点」的<strong>先完成性</strong>。</p><ul><li>Quand nous sommes arrivés, le film avait déjà commencé.（我们到的时候，电影已经开始了。）——开始早于「到达」。</li><li>Elle avait préparé le dîner avant l'arrivée des invités.（她在客人到之前就做好了晚饭。）</li><li>La maison était silencieuse : tout le monde s'était couché.（房子里很安静：大家都已经睡下了。）</li></ul><p>愈过去时本身不说明「多久以前」；它只把一个动作放到参照点之前。参照点可以是另一个过去动作（quand nous sommes arrivés），也可以是一个过去时间（ce jour-là、en 2010）。</p><p>注意：先完成性需要过去参照点。孤立地说 Il avait fini 时，听者会等待或推断一个过去的参照背景；不能把它当作普通的过去完成事件来用。</p>"
+      "body": "<p><strong>愈过去时</strong>（plus-que-parfait）由助动词 avoir 或 être 的<strong>未完成过去时</strong>加过去分词构成：avait fini、était partie、s'était levé。它表示一个动作在另一个过去动作或过去时刻<strong>之前</strong>已经完成，也就是带一个「过去的参照点」的<strong>先完成性</strong>。</p><ul><li>Quand nous sommes arrivés, le film avait déjà commencé.（我们到的时候，电影已经开始了。）——开始早于「到达」。</li><li>Elle avait préparé le dîner avant l'arrivée des invités.（她在客人到之前就做好了晚饭。）</li><li>La maison était silencieuse : tout le monde s'était couché.（房子里很安静：大家都已经睡下了。）</li></ul><p>愈过去时本身不说明「多久以前」；它只把一个动作放到参照点之前。参照点可以是另一个过去动作（quand nous sommes arrivés），也可以是一个过去时间（ce jour-là、en 2010）。</p><p>注意：先完成性需要过去参照点。孤立地说 Il avait fini 时，听者会等待或推断一个过去的参照背景；不能把它当作普通的过去完成事件来用。</p>",
+      "locales": {
+        "fr": {
+          "title": "Le plus-que-parfait : l'accompli avant un point de référence passé",
+          "body": "<p>Le <strong>plus-que-parfait</strong> se forme avec l'auxiliaire avoir ou être à l'<strong>imparfait</strong> suivi du participe passé : avait fini, était partie, s'était levé. Il exprime une action accomplie <strong>avant</strong> une autre action passée ou un moment passé, c'est-à-dire une <strong>antériorité accomplie</strong> par rapport à un « point de référence passé ».</p><ul><li>Quand nous sommes arrivés, le film avait déjà commencé. — le début est antérieur à l'arrivée.</li><li>Elle avait préparé le dîner avant l'arrivée des invités.</li><li>La maison était silencieuse : tout le monde s'était couché.</li></ul><p>Le plus-que-parfait n'indique pas en lui-même « il y a combien de temps » ; il place seulement une action avant le point de référence. Ce point peut être une autre action passée (quand nous sommes arrivés) ou un moment passé (ce jour-là, en 2010).</p><p>Attention : l'antériorité accomplie exige un point de référence passé. Si l'on dit isolément Il avait fini, l'auditeur attend ou suppose un arrière-plan passé de référence ; on ne peut pas l'employer comme un simple événement passé accompli.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u2-2",
       "title": "愈过去时与复合过去时：谁先谁后",
-      "body": "<p>两个过去事件有先后时，<strong>先完成</strong>的用愈过去时，<strong>后发生</strong>的用复合过去时。顺序不按句子出现的先后机械决定，而按参照点和意义决定。</p><ul><li>Il avait rangé la cuisine, puis il est sorti.（他收拾好厨房，然后出门了。）——收拾在前，出门在后。</li><li>Quand elle a ouvert la porte, le chat s'était déjà enfui.（她开门时，猫已经逃走了。）——逃走在前，开门在后，尽管「开门」先出现在句子里。</li><li>Comme il avait oublié ses clés, il est resté devant la porte.（因为忘了钥匙，他被关在门外。）——因果关系也提示「忘记」在先。</li></ul><p>时间标记（déjà、avant、la veille、une fois、après que 等）和因果关系都能提示先后，但都要结合参照点。两个事件也可以都呈现为连续的完成事件，此时都用复合过去时：Il a rangé la cuisine et il est sorti.（他收拾了厨房就出门了。）——说话人把它们看作一条事件链，而不是「更早／后来」两层。</p><p>注意：不要把愈过去时当成「更早」的机械标签；先找参照点，再看说话人是否要把两个事件分成前后两层。</p>"
+      "body": "<p>两个过去事件有先后时，<strong>先完成</strong>的用愈过去时，<strong>后发生</strong>的用复合过去时。顺序不按句子出现的先后机械决定，而按参照点和意义决定。</p><ul><li>Il avait rangé la cuisine, puis il est sorti.（他收拾好厨房，然后出门了。）——收拾在前，出门在后。</li><li>Quand elle a ouvert la porte, le chat s'était déjà enfui.（她开门时，猫已经逃走了。）——逃走在前，开门在后，尽管「开门」先出现在句子里。</li><li>Comme il avait oublié ses clés, il est resté devant la porte.（因为忘了钥匙，他被关在门外。）——因果关系也提示「忘记」在先。</li></ul><p>时间标记（déjà、avant、la veille、une fois、après que 等）和因果关系都能提示先后，但都要结合参照点。两个事件也可以都呈现为连续的完成事件，此时都用复合过去时：Il a rangé la cuisine et il est sorti.（他收拾了厨房就出门了。）——说话人把它们看作一条事件链，而不是「更早／后来」两层。</p><p>注意：不要把愈过去时当成「更早」的机械标签；先找参照点，再看说话人是否要把两个事件分成前后两层。</p>",
+      "locales": {
+        "fr": {
+          "title": "Plus-que-parfait et passé composé : qui vient avant qui",
+          "body": "<p>Quand deux événements passés sont successifs, l'action <strong>achevée en premier</strong> se met au plus-que-parfait et l'action <strong>postérieure</strong> au passé composé. L'ordre ne se décide pas mécaniquement d'après l'ordre des phrases, mais d'après le point de référence et le sens.</p><ul><li>Il avait rangé la cuisine, puis il est sorti. — ranger d'abord, sortir ensuite.</li><li>Quand elle a ouvert la porte, le chat s'était déjà enfui. — la fuite précède l'ouverture, bien que l'ouverture apparaisse d'abord dans la phrase.</li><li>Comme il avait oublié ses clés, il est resté devant la porte. — la relation de cause à effet indique elle aussi que l'oubli est antérieur.</li></ul><p>Les marqueurs temporels (déjà, avant, la veille, une fois, après que, etc.) et les relations de cause à effet peuvent signaler l'antériorité, mais toujours en lien avec le point de référence. Les deux événements peuvent aussi être présentés tous deux comme des événements accomplis successifs ; dans ce cas, on emploie le passé composé pour les deux : Il a rangé la cuisine et il est sorti. — le locuteur les voit comme une chaîne d'événements, non comme deux niveaux « plus tôt / plus tard ».</p><p>Attention : ne faites pas du plus-que-parfait une étiquette mécanique du « plus tôt » ; cherchez d'abord le point de référence, puis voyez si le locuteur veut répartir les deux événements en deux niveaux.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u2-3",
       "title": "未完成过去时与愈过去时：背景与更早的事件",
-      "body": "<p>未完成过去时描写<strong>当时的状态、背景或持续情况</strong>；愈过去时表示<strong>在这个状态之前已经完成、并影响该状态的事件</strong>。两者常在同一段话里配合：</p><ul><li>La maison était silencieuse. Tout le monde s'était couché.（房子里很安静，大家都已经睡下了。）——silencieuse 是当时的状态；s'était couché 是造成这个状态、发生得更早的事件。</li><li>Les rues étaient mouillées : il avait plu pendant la nuit.（街道湿漉漉的：夜里下过雨。）——状态用未完成过去时；更早的完成事件用愈过去时。</li><li>Elle était fatiguée parce qu'elle avait mal dormi.（她很累，因为没睡好。）——状态与原因事件分层。</li></ul><p>判断时先问：这句话是在描写当时「是什么样子」，还是在交代「在此之前发生了什么」？前者用未完成过去时，后者用愈过去时。</p><p>注意：状态动词并非一律用未完成过去时。如果状态本身被呈现为一个有界限的完成阶段，也可以用复合过去时：La journée a été longue.（那一天很漫长。）因此不能只按动词类别判断。</p>"
+      "body": "<p>未完成过去时描写<strong>当时的状态、背景或持续情况</strong>；愈过去时表示<strong>在这个状态之前已经完成、并影响该状态的事件</strong>。两者常在同一段话里配合：</p><ul><li>La maison était silencieuse. Tout le monde s'était couché.（房子里很安静，大家都已经睡下了。）——silencieuse 是当时的状态；s'était couché 是造成这个状态、发生得更早的事件。</li><li>Les rues étaient mouillées : il avait plu pendant la nuit.（街道湿漉漉的：夜里下过雨。）——状态用未完成过去时；更早的完成事件用愈过去时。</li><li>Elle était fatiguée parce qu'elle avait mal dormi.（她很累，因为没睡好。）——状态与原因事件分层。</li></ul><p>判断时先问：这句话是在描写当时「是什么样子」，还是在交代「在此之前发生了什么」？前者用未完成过去时，后者用愈过去时。</p><p>注意：状态动词并非一律用未完成过去时。如果状态本身被呈现为一个有界限的完成阶段，也可以用复合过去时：La journée a été longue.（那一天很漫长。）因此不能只按动词类别判断。</p>",
+      "locales": {
+        "fr": {
+          "title": "Imparfait et plus-que-parfait : arrière-plan et événement antérieur",
+          "body": "<p>L'imparfait décrit <strong>l'état, l'arrière-plan ou la situation durable de ce moment-là</strong> ; le plus-que-parfait exprime <strong>un événement déjà accompli avant cet état et qui l'explique</strong>. Les deux se combinent souvent dans un même passage :</p><ul><li>La maison était silencieuse. Tout le monde s'était couché. — silencieuse est l'état de ce moment-là ; s'était couché est l'événement antérieur qui a produit cet état.</li><li>Les rues étaient mouillées : il avait plu pendant la nuit. — l'état à l'imparfait ; l'événement accompli antérieur au plus-que-parfait.</li><li>Elle était fatiguée parce qu'elle avait mal dormi. — l'état et l'événement causal sont sur deux niveaux.</li></ul><p>Demandez-vous d'abord : cette phrase décrit-elle « comment c'était » à ce moment-là, ou indique-t-elle « ce qui s'était passé avant » ? La première utilise l'imparfait, la seconde le plus-que-parfait.</p><p>Attention : les verbes d'état ne se mettent pas systématiquement à l'imparfait. Si l'état lui-même est présenté comme une étape accomplie et bornée, le passé composé est également possible : La journée a été longue. On ne peut donc pas décider uniquement d'après la catégorie du verbe.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u2-4",
       "title": "愈过去时的另外两种用法：先前的习惯与委婉语气",
-      "body": "<p>除了「更早完成的一次事件」，愈过去时还有两种需要<strong>识别</strong>的用法。</p><p><strong>更早阶段的反复习惯</strong>：愈过去时可以表示在一个过去参照点之前反复发生的习惯，这个习惯相对于参照点已经结束。</p><ul><li>Avant 2010, il avait toujours travaillé à la campagne. Cette année-là, il a déménagé en ville.（2010 年之前，他一直在乡下工作。那一年，他搬到了城里。）——「一直乡下工作」是 2010 年之前的习惯，搬家之后结束。</li></ul><p>这与单纯的过去习惯不同：单纯的过去习惯用未完成过去时（Avant 2010, il travaillait à la campagne.），只是描写当时反复发生；愈过去时则把这段习惯放在参照点之前，强调它已先行结束。</p><p><strong>委婉语气</strong>：愈过去时也可用来弱化请求或表达客气，常见于 venir 等动词，此时不强调时间先后。</p><ul><li>J'étais venu vous demander un petit service.（我来是想请您帮个小忙。）——并不是说「在另一个过去动作之前来过」，而是把请求说得委婉。</li><li>Nous étions venus vous remercier.（我们是来向您道谢的。）</li></ul><p>注意：委婉用法依赖语境和动词，不能推广到所有愈过去时；它也不改变愈过去时的构成。</p>"
+      "body": "<p>除了「更早完成的一次事件」，愈过去时还有两种需要<strong>识别</strong>的用法。</p><p><strong>更早阶段的反复习惯</strong>：愈过去时可以表示在一个过去参照点之前反复发生的习惯，这个习惯相对于参照点已经结束。</p><ul><li>Avant 2010, il avait toujours travaillé à la campagne. Cette année-là, il a déménagé en ville.（2010 年之前，他一直在乡下工作。那一年，他搬到了城里。）——「一直乡下工作」是 2010 年之前的习惯，搬家之后结束。</li></ul><p>这与单纯的过去习惯不同：单纯的过去习惯用未完成过去时（Avant 2010, il travaillait à la campagne.），只是描写当时反复发生；愈过去时则把这段习惯放在参照点之前，强调它已先行结束。</p><p><strong>委婉语气</strong>：愈过去时也可用来弱化请求或表达客气，常见于 venir 等动词，此时不强调时间先后。</p><ul><li>J'étais venu vous demander un petit service.（我来是想请您帮个小忙。）——并不是说「在另一个过去动作之前来过」，而是把请求说得委婉。</li><li>Nous étions venus vous remercier.（我们是来向您道谢的。）</li></ul><p>注意：委婉用法依赖语境和动词，不能推广到所有愈过去时；它也不改变愈过去时的构成。</p>",
+      "locales": {
+        "fr": {
+          "title": "Deux autres emplois du plus-que-parfait : habitude antérieure et atténuation",
+          "body": "<p>Outre l'« événement accompli plus tôt », le plus-que-parfait a deux emplois qu'il faut savoir <strong>reconnaître</strong>.</p><p><strong>Habitude répétée dans une étape antérieure</strong> : le plus-que-parfait peut exprimer une habitude répétée avant un point de référence passé, habitude qui est déjà terminée par rapport à ce point.</p><ul><li>Avant 2010, il avait toujours travaillé à la campagne. Cette année-là, il a déménagé en ville. — « avoir toujours travaillé à la campagne » est l'habitude antérieure à 2010, terminée après le déménagement.</li></ul><p>Cela diffère d'une simple habitude passée : celle-ci se met à l'imparfait (Avant 2010, il travaillait à la campagne.) et décrit seulement ce qui se répétait alors ; le plus-que-parfait place cette habitude avant le point de référence et souligne qu'elle est déjà terminée.</p><p><strong>Atténuation</strong> : le plus-que-parfait peut aussi adoucir une demande ou exprimer la politesse, souvent avec venir, sans insister sur l'ordre temporel.</p><ul><li>J'étais venu vous demander un petit service. — il ne s'agit pas de dire « être venu avant une autre action passée », mais d'adoucir la demande.</li><li>Nous étions venus vous remercier.</li></ul><p>Attention : l'emploi atténué dépend du contexte et du verbe ; il ne s'étend pas à tous les plus-que-parfaits et ne change pas leur formation.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u2-5",
       "title": "愈过去时的形式细节：否定、副词、代词式动词与配合",
-      "body": "<p><strong>否定</strong>：ne...pas 夹住助动词：Elle n'avait pas fini.（她还没做完。）否定代词 rien、personne 放在分词后：Il n'avait rien dit. / Elle n'avait vu personne.</p><p><strong>副词</strong>：déjà、souvent、toujours 等短副词放在助动词与分词之间：le film avait déjà commencé。encore 在否定中放在 pas 后：n'avait pas encore préparé。</p><p><strong>代词式动词</strong>：自反代词与主语一致，放在助动词前：elle s'était levée、ils s'étaient parlé。分词配合要看自反代词的角色：se 是直接宾语时与主语配合（Elle s'était levée.）；se 是间接宾语时不配合（Elles s'étaient parlé. / Elle s'était lavé les mains.）。</p><p><strong>前置直接宾语</strong>：用 avoir 时，直接宾语若在分词前，分词与它配合：Les lettres qu'elle avait écrites（她写过的那些信）；La décision qu'il avait prise（他做出的那个决定）。</p><p><strong>被动</strong>：愈过去时的被动是 avait été + 过去分词：Les travaux avaient été terminés avant l'été.（工程在夏天之前已经完成。）</p><p>注意：先确定助动词，再看主语、前置直接宾语和自反代词的角色；不要看到复数就给所有分词加 -s。</p>"
+      "body": "<p><strong>否定</strong>：ne...pas 夹住助动词：Elle n'avait pas fini.（她还没做完。）否定代词 rien、personne 放在分词后：Il n'avait rien dit. / Elle n'avait vu personne.</p><p><strong>副词</strong>：déjà、souvent、toujours 等短副词放在助动词与分词之间：le film avait déjà commencé。encore 在否定中放在 pas 后：n'avait pas encore préparé。</p><p><strong>代词式动词</strong>：自反代词与主语一致，放在助动词前：elle s'était levée、ils s'étaient parlé。分词配合要看自反代词的角色：se 是直接宾语时与主语配合（Elle s'était levée.）；se 是间接宾语时不配合（Elles s'étaient parlé. / Elle s'était lavé les mains.）。</p><p><strong>前置直接宾语</strong>：用 avoir 时，直接宾语若在分词前，分词与它配合：Les lettres qu'elle avait écrites（她写过的那些信）；La décision qu'il avait prise（他做出的那个决定）。</p><p><strong>被动</strong>：愈过去时的被动是 avait été + 过去分词：Les travaux avaient été terminés avant l'été.（工程在夏天之前已经完成。）</p><p>注意：先确定助动词，再看主语、前置直接宾语和自反代词的角色；不要看到复数就给所有分词加 -s。</p>",
+      "locales": {
+        "fr": {
+          "title": "Détails de forme du plus-que-parfait : négation, adverbes, verbes pronominaux et accords",
+          "body": "<p><strong>Négation</strong> : ne...pas encadre l'auxiliaire : Elle n'avait pas fini. Les pronoms négatifs rien, personne se placent après le participe : Il n'avait rien dit. / Elle n'avait vu personne.</p><p><strong>Adverbes</strong> : les adverbes courts déjà, souvent, toujours se placent entre l'auxiliaire et le participe : le film avait déjà commencé. Dans une négation, encore se place après pas : n'avait pas encore préparé.</p><p><strong>Verbes pronominaux</strong> : le pronom réfléchi s'accorde avec le sujet et se place devant l'auxiliaire : elle s'était levée, ils s'étaient parlé. L'accord du participe dépend du rôle du pronom réfléchi : si se est complément d'objet direct, le participe s'accorde avec le sujet (Elle s'était levée.) ; si se est complément d'objet indirect, il ne s'accorde pas (Elles s'étaient parlé. / Elle s'était lavé les mains.).</p><p><strong>Complément d'objet direct antéposé</strong> : avec avoir, si le complément d'objet direct précède le participe, celui-ci s'accorde avec lui : Les lettres qu'elle avait écrites ; La décision qu'il avait prise.</p><p><strong>Voix passive</strong> : le passif du plus-que-parfait est avait été + participe passé : Les travaux avaient été terminés avant l'été.</p><p>Attention : déterminez d'abord l'auxiliaire, puis le rôle du sujet, du complément d'objet direct antéposé et du pronom réfléchi ; n'ajoutez pas -s à tous les participes dès que le sujet est pluriel.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u3-1",
       "title": "条件式过去时的构成：助动词的条件式现在时加过去分词",
-      "body": "<p>条件式过去时（conditionnel passé）由助动词的条件式现在时加过去分词构成。它把「本来会」「本来能」这类与现实相反或未经证实的内容放在过去的时间框架里。</p><p>构成公式：avoir 或 être 的条件式现在时 + 过去分词。条件式现在时（conditionnel présent）是表示假设结果、传闻等语气的动词形式，词干来自简单将来时（futur simple，表示将来或对现在作推测的时态），词尾是 -ais、-ais、-ait、-ions、-iez、-aient。助动词的选择与复合过去时相同：绝大多数动词用 avoir，表示移动或状态变化的不及物动词以及代词式动词用 être。</p><p>avoir 的条件式现在时：j'aurais、tu aurais、il/elle aurait、nous aurions、vous auriez、ils/elles auraient。être 的条件式现在时：je serais、tu serais、il/elle serait、nous serions、vous seriez、ils/elles seraient。</p><ul><li>J'aurais fini avant midi.（我本来中午前就会完成。）</li><li>Elle serait partie plus tôt.（她本来会更早出发。）</li><li>Nous aurions choisi l'autre route.（我们本来会选另一条路。）</li><li>Ils se seraient trompés.（他们本来会弄错。）</li></ul><p>用 être 时，过去分词与主语性数配合：Elle serait partie、Elles seraient parties、Ils seraient partis。代词式动词同理：se tromper 的 se 是直接宾语，分词与主语配合。用 avoir 时，分词通常不随主语变化；直接宾语前置时，分词与该宾语配合。</p><p>注意：dû（devoir 的过去分词）带长音符号，pu、voulu、eu 不带；不要按读音多写字母。</p>"
+      "body": "<p>条件式过去时（conditionnel passé）由助动词的条件式现在时加过去分词构成。它把「本来会」「本来能」这类与现实相反或未经证实的内容放在过去的时间框架里。</p><p>构成公式：avoir 或 être 的条件式现在时 + 过去分词。条件式现在时（conditionnel présent）是表示假设结果、传闻等语气的动词形式，词干来自简单将来时（futur simple，表示将来或对现在作推测的时态），词尾是 -ais、-ais、-ait、-ions、-iez、-aient。助动词的选择与复合过去时相同：绝大多数动词用 avoir，表示移动或状态变化的不及物动词以及代词式动词用 être。</p><p>avoir 的条件式现在时：j'aurais、tu aurais、il/elle aurait、nous aurions、vous auriez、ils/elles auraient。être 的条件式现在时：je serais、tu serais、il/elle serait、nous serions、vous seriez、ils/elles seraient。</p><ul><li>J'aurais fini avant midi.（我本来中午前就会完成。）</li><li>Elle serait partie plus tôt.（她本来会更早出发。）</li><li>Nous aurions choisi l'autre route.（我们本来会选另一条路。）</li><li>Ils se seraient trompés.（他们本来会弄错。）</li></ul><p>用 être 时，过去分词与主语性数配合：Elle serait partie、Elles seraient parties、Ils seraient partis。代词式动词同理：se tromper 的 se 是直接宾语，分词与主语配合。用 avoir 时，分词通常不随主语变化；直接宾语前置时，分词与该宾语配合。</p><p>注意：dû（devoir 的过去分词）带长音符号，pu、voulu、eu 不带；不要按读音多写字母。</p>",
+      "locales": {
+        "fr": {
+          "title": "Formation du conditionnel passé : conditionnel présent de l'auxiliaire + participe passé",
+          "body": "<p>Le conditionnel passé se forme avec le conditionnel présent de l'auxiliaire suivi du participe passé. Il situe dans un cadre passé ce qui « aurait eu lieu » ou « aurait pu avoir lieu », c'est-à-dire un contenu contraire à la réalité ou non confirmé.</p><p>Formule : conditionnel présent de avoir ou être + participe passé. Le conditionnel présent est la forme verbale qui exprime le résultat d'une hypothèse, une rumeur, etc. ; son radical vient du futur simple (le temps qui exprime le futur ou une conjecture sur le présent) et ses terminaisons sont -ais, -ais, -ait, -ions, -iez, -aient. Le choix de l'auxiliaire est le même qu'au passé composé : avoir pour la grande majorité des verbes, être pour les verbes intransitifs de déplacement ou de changement d'état et pour les verbes pronominaux.</p><p>Conditionnel présent de avoir : j'aurais, tu aurais, il/elle aurait, nous aurions, vous auriez, ils/elles auraient. Conditionnel présent de être : je serais, tu serais, il/elle serait, nous serions, vous seriez, ils/elles seraient.</p><ul><li>J'aurais fini avant midi.</li><li>Elle serait partie plus tôt.</li><li>Nous aurions choisi l'autre route.</li><li>Ils se seraient trompés.</li></ul><p>Avec être, le participe passé s'accorde en genre et en nombre avec le sujet : Elle serait partie, Elles seraient parties, Ils seraient partis. Même chose pour les verbes pronominaux : dans se tromper, se est complément d'objet direct et le participe s'accorde avec le sujet. Avec avoir, le participe ne varie généralement pas avec le sujet ; si le complément d'objet direct est antéposé, le participe s'accorde avec lui.</p><p>Attention : dû (participe passé de devoir) porte un accent circonflexe, contrairement à pu, voulu, eu ; n'ajoutez pas de lettre d'après la prononciation.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u3-2",
       "title": "未实现的愿望、遗憾与事后评价",
-      "body": "<p>条件式过去时最常见的用法之一，是说明过去本可实现却未实现的愿望、遗憾或事后评价。句子的重点不在叙述发生了什么，而在现实结果与原先可能之间的反差。</p><ul><li>J'aurais aimé venir, mais j'étais en déplacement.（我本来想来，但我当时出差在外。）</li><li>Elle aurait préféré ne rien dire.（她本来宁愿什么都不说。）</li><li>Nous aurions voulu rester un peu plus longtemps.（我们本来想多待一会儿。）</li><li>Avec le recul, il aurait fallu réserver plus tôt.（事后看来，本来应该早点预订。）</li></ul><p>这类句子常与 mais 引出的现实结果配合：前面的条件式过去时表示没有实现的可能，mais 后面用事实时态（未完成过去时、复合过去时等）说明实际发生的情况。例如 J'aurais aimé venir, mais je n'ai pas osé（我本来想来，但我没敢）中，两个时间层次形成对照。</p><p>要与条件式现在时的愿望区分：J'aimerais venir 指现在或将来还可能实现的愿望；J'aurais aimé venir 指过去没有实现的愿望。</p><p>注意：条件式过去时本身不总带遗憾；是否有「遗憾」要由语境决定，尤其是 mais 后的相反事实或 j'ai tout gâché 这类评价。</p>"
+      "body": "<p>条件式过去时最常见的用法之一，是说明过去本可实现却未实现的愿望、遗憾或事后评价。句子的重点不在叙述发生了什么，而在现实结果与原先可能之间的反差。</p><ul><li>J'aurais aimé venir, mais j'étais en déplacement.（我本来想来，但我当时出差在外。）</li><li>Elle aurait préféré ne rien dire.（她本来宁愿什么都不说。）</li><li>Nous aurions voulu rester un peu plus longtemps.（我们本来想多待一会儿。）</li><li>Avec le recul, il aurait fallu réserver plus tôt.（事后看来，本来应该早点预订。）</li></ul><p>这类句子常与 mais 引出的现实结果配合：前面的条件式过去时表示没有实现的可能，mais 后面用事实时态（未完成过去时、复合过去时等）说明实际发生的情况。例如 J'aurais aimé venir, mais je n'ai pas osé（我本来想来，但我没敢）中，两个时间层次形成对照。</p><p>要与条件式现在时的愿望区分：J'aimerais venir 指现在或将来还可能实现的愿望；J'aurais aimé venir 指过去没有实现的愿望。</p><p>注意：条件式过去时本身不总带遗憾；是否有「遗憾」要由语境决定，尤其是 mais 后的相反事实或 j'ai tout gâché 这类评价。</p>",
+      "locales": {
+        "fr": {
+          "title": "Souhaits non réalisés, regrets et jugement rétrospectif",
+          "body": "<p>L'un des emplois les plus fréquents du conditionnel passé est d'exprimer un souhait, un regret ou un jugement rétrospectif sur ce qui aurait pu se réaliser dans le passé mais ne s'est pas réalisé. L'essentiel de la phrase n'est pas de raconter ce qui s'est passé, mais de marquer l'écart entre le résultat réel et ce qui était possible auparavant.</p><ul><li>J'aurais aimé venir, mais j'étais en déplacement.</li><li>Elle aurait préféré ne rien dire.</li><li>Nous aurions voulu rester un peu plus longtemps.</li><li>Avec le recul, il aurait fallu réserver plus tôt.</li></ul><p>Ces phrases se combinent souvent avec le résultat réel introduit par mais : le conditionnel passé qui précède exprime une possibilité non réalisée, et après mais un temps du réel (imparfait, passé composé, etc.) indique ce qui s'est effectivement produit. Dans J'aurais aimé venir, mais je n'ai pas osé, les deux niveaux temporels se font contraste.</p><p>Il faut distinguer cet emploi du souhait au conditionnel présent : J'aimerais venir renvoie à un souhait encore réalisable dans le présent ou le futur ; J'aurais aimé venir renvoie à un souhait passé non réalisé.</p><p>Attention : le conditionnel passé n'exprime pas toujours un regret ; la présence d'un regret dépend du contexte, notamment du fait contraire après mais ou d'une appréciation comme j'ai tout gâché.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u3-3",
       "title": "情态动词的条件式过去：未能实现的能力、义务与需要",
-      "body": "<p>pouvoir、devoir、falloir 等情态动词（verbes modaux，表示能力、义务、需要等语气的动词）用条件式过去时，可以表示过去未能实现的能力、义务或需要。情态动词不同，意义也不同。</p><ul><li>pouvoir → aurait pu + 不定式：表示「本来能」「本来可以」。Avec ton aide, j'aurais pu finir plus vite.（有你的帮助，我本来能更快完成。）</li><li>devoir → aurait dû + 不定式：表示「本来应该」，常带责备或后悔。Tu aurais dû me prévenir.（你本该提前告诉我。）</li><li>falloir → il aurait fallu + 不定式：表示「本来需要」，只用于无人称结构。Il aurait fallu réserver plus tôt.（本来应该早点预订。）</li></ul><p>这类用法常与过去假设从句配合：si + 愈过去时（plus-que-parfait，表示更早的过去的时态），主句用条件式过去时。Si j'avais su, j'aurais pu venir.（要是我当时知道，我本来能来。）</p><p>注意：devoir 的条件式过去时表示事后评价，不表示现在的义务；pouvoir 的条件式过去时表示过去没实现的能力或机会，不表示现在的许可。</p>"
+      "body": "<p>pouvoir、devoir、falloir 等情态动词（verbes modaux，表示能力、义务、需要等语气的动词）用条件式过去时，可以表示过去未能实现的能力、义务或需要。情态动词不同，意义也不同。</p><ul><li>pouvoir → aurait pu + 不定式：表示「本来能」「本来可以」。Avec ton aide, j'aurais pu finir plus vite.（有你的帮助，我本来能更快完成。）</li><li>devoir → aurait dû + 不定式：表示「本来应该」，常带责备或后悔。Tu aurais dû me prévenir.（你本该提前告诉我。）</li><li>falloir → il aurait fallu + 不定式：表示「本来需要」，只用于无人称结构。Il aurait fallu réserver plus tôt.（本来应该早点预订。）</li></ul><p>这类用法常与过去假设从句配合：si + 愈过去时（plus-que-parfait，表示更早的过去的时态），主句用条件式过去时。Si j'avais su, j'aurais pu venir.（要是我当时知道，我本来能来。）</p><p>注意：devoir 的条件式过去时表示事后评价，不表示现在的义务；pouvoir 的条件式过去时表示过去没实现的能力或机会，不表示现在的许可。</p>",
+      "locales": {
+        "fr": {
+          "title": "Conditionnel passé des verbes modaux : capacité, obligation et nécessité non réalisées",
+          "body": "<p>Les verbes modaux (verbes qui expriment la capacité, l'obligation, la nécessité, etc.), comme pouvoir, devoir, falloir, au conditionnel passé peuvent exprimer une capacité, une obligation ou une nécessité qui ne s'est pas réalisée dans le passé. Le sens varie selon le verbe modal.</p><ul><li>pouvoir → aurait pu + infinitif : exprime « aurait été capable de », « aurait pu ». Avec ton aide, j'aurais pu finir plus vite.</li><li>devoir → aurait dû + infinitif : exprime « aurait dû », souvent avec un reproche ou un regret. Tu aurais dû me prévenir.</li><li>falloir → il aurait fallu + infinitif : exprime « il aurait fallu », uniquement dans une construction impersonnelle. Il aurait fallu réserver plus tôt.</li></ul><p>Ces emplois se combinent souvent avec une subordonnée hypothétique passée : si + plus-que-parfait (temps qui exprime un passé plus ancien), et conditionnel passé dans la principale. Si j'avais su, j'aurais pu venir.</p><p>Attention : le conditionnel passé de devoir exprime un jugement rétrospectif, non une obligation présente ; le conditionnel passé de pouvoir exprime une capacité ou une occasion non réalisée dans le passé, non une permission présente.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u3-4",
       "title": "对过去的推测与转述：不把消息当作事实",
-      "body": "<p>条件式过去时还可以报道未经证实的信息：说话人把某件过去的事提出来，但不把它当作已确认的事实。这种推测（supposition，根据消息或迹象作出的判断）在新闻、调查报道和转述传闻中很常见。</p><ul><li>Selon la presse, le ministre aurait démissionné.（据新闻界说，部长可能已经辞职。）</li><li>Le vol aurait eu lieu vers minuit.（据说盗窃发生在午夜前后。）</li><li>Les deux hommes auraient été arrêtés.（据称两名男子已被逮捕。）</li></ul><p>这类句子的信息来源常由 selon、d'après、nos informations 等成分标出。即使没有这些标记，条件式本身仍表示说话人不担保，不会自动变成确认的事实。中文常译成「据说」「据称」「可能已经」，但法语的条件式过去时本身只表示说话人不担保，并不等于确定的可能程度。</p><p>与遗憾的区别：推测句没有愿望落空或事后责备的意思，也不与 mais 引出的相反事实配合；它只是把消息来源和事实判断分开。</p><p>注意：être 作助动词时，过去分词仍要与主语配合：Les deux hommes auraient été arrêtés；被动语态里的 été 是过去分词，永远不配合，不要写 étés。</p>"
+      "body": "<p>条件式过去时还可以报道未经证实的信息：说话人把某件过去的事提出来，但不把它当作已确认的事实。这种推测（supposition，根据消息或迹象作出的判断）在新闻、调查报道和转述传闻中很常见。</p><ul><li>Selon la presse, le ministre aurait démissionné.（据新闻界说，部长可能已经辞职。）</li><li>Le vol aurait eu lieu vers minuit.（据说盗窃发生在午夜前后。）</li><li>Les deux hommes auraient été arrêtés.（据称两名男子已被逮捕。）</li></ul><p>这类句子的信息来源常由 selon、d'après、nos informations 等成分标出。即使没有这些标记，条件式本身仍表示说话人不担保，不会自动变成确认的事实。中文常译成「据说」「据称」「可能已经」，但法语的条件式过去时本身只表示说话人不担保，并不等于确定的可能程度。</p><p>与遗憾的区别：推测句没有愿望落空或事后责备的意思，也不与 mais 引出的相反事实配合；它只是把消息来源和事实判断分开。</p><p>注意：être 作助动词时，过去分词仍要与主语配合：Les deux hommes auraient été arrêtés；被动语态里的 été 是过去分词，永远不配合，不要写 étés。</p>",
+      "locales": {
+        "fr": {
+          "title": "Conjecture et reprise d'information au passé : ne pas présenter la nouvelle comme un fait",
+          "body": "<p>Le conditionnel passé peut aussi rapporter une information non confirmée : le locuteur évoque un fait passé sans le présenter comme établi. Cette conjecture (supposition fondée sur une information ou des indices) est fréquente dans la presse, les enquêtes et la reprise de rumeurs.</p><ul><li>Selon la presse, le ministre aurait démissionné.</li><li>Le vol aurait eu lieu vers minuit.</li><li>Les deux hommes auraient été arrêtés.</li></ul><p>La source de l'information est souvent indiquée par selon, d'après, nos informations, etc. Même sans ces marques, le conditionnel indique à lui seul que le locuteur ne garantit pas le fait ; il ne devient pas automatiquement un fait confirmé. En français, on rend souvent cela par « dit-on », « serait », « peut-être déjà », mais le conditionnel passé français indique seulement que le locuteur ne garantit pas l'information ; il n'équivaut pas à un degré de probabilité déterminé.</p><p>Différence avec le regret : une phrase de conjecture n'exprime ni souhait déçu ni reproche rétrospectif, et ne se combine pas avec un fait contraire introduit par mais ; elle sépare seulement la source de l'information du jugement sur le fait.</p><p>Attention : avec être comme auxiliaire, le participe passé s'accorde toujours avec le sujet : Les deux hommes auraient été arrêtés ; dans la voix passive, été est un participe passé qui ne s'accorde jamais, on n'écrit pas étés.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u3-5",
       "title": "三种解读的辨别与形式检查",
-      "body": "<p>同一个条件式过去时可以有三种解读，判断依据是语境，不是形式：</p><ol><li>未实现的愿望或遗憾：J'aurais dû partir plus tôt.（我本来应该早点走。）——常与 mais、事后评价、责备共现。</li><li>未能实现的能力、义务或需要：Si j'avais su, j'aurais pu t'aider.（要是我当时知道，我本来能帮你。）——常与 si + 愈过去时配合。</li><li>对过去的推测或转述：Le suspect aurait quitté le pays.（嫌疑人据称已经离开该国。）——常有消息来源，没有遗憾或责备。</li></ol><p>做题时按顺序检查：先看有没有 si + 愈过去时，确定是否为过去假设；再看有没有 selon、d'après 等消息来源，判断是否为推测；最后看有没有 mais 和评价性词语，判断是否为遗憾。</p><p>然后检查形式：助动词用 avoir 还是 être；主语是单数还是复数；用 être 时过去分词是否与主语配合；dû 是否带长音符号。</p><p>注意：不要看到 aurait 就一律判为遗憾。形式相同的句子，语境不同，意义可能完全不同。</p>"
+      "body": "<p>同一个条件式过去时可以有三种解读，判断依据是语境，不是形式：</p><ol><li>未实现的愿望或遗憾：J'aurais dû partir plus tôt.（我本来应该早点走。）——常与 mais、事后评价、责备共现。</li><li>未能实现的能力、义务或需要：Si j'avais su, j'aurais pu t'aider.（要是我当时知道，我本来能帮你。）——常与 si + 愈过去时配合。</li><li>对过去的推测或转述：Le suspect aurait quitté le pays.（嫌疑人据称已经离开该国。）——常有消息来源，没有遗憾或责备。</li></ol><p>做题时按顺序检查：先看有没有 si + 愈过去时，确定是否为过去假设；再看有没有 selon、d'après 等消息来源，判断是否为推测；最后看有没有 mais 和评价性词语，判断是否为遗憾。</p><p>然后检查形式：助动词用 avoir 还是 être；主语是单数还是复数；用 être 时过去分词是否与主语配合；dû 是否带长音符号。</p><p>注意：不要看到 aurait 就一律判为遗憾。形式相同的句子，语境不同，意义可能完全不同。</p>",
+      "locales": {
+        "fr": {
+          "title": "Distinguer les trois interprétations et vérifier la forme",
+          "body": "<p>Un même conditionnel passé peut recevoir trois interprétations ; c'est le contexte qui décide, non la forme :</p><ol><li>Souhait ou regret non réalisé : J'aurais dû partir plus tôt. — souvent avec mais, un jugement rétrospectif ou un reproche.</li><li>Capacité, obligation ou nécessité non réalisée : Si j'avais su, j'aurais pu t'aider. — souvent avec si + plus-que-parfait.</li><li>Conjecture ou reprise d'information au passé : Le suspect aurait quitté le pays. — souvent avec une source, sans regret ni reproche.</li></ol><p>En exercice, vérifiez dans l'ordre : cherchez d'abord si + plus-que-parfait pour savoir s'il s'agit d'une hypothèse passée ; cherchez ensuite une source comme selon, d'après, pour savoir s'il s'agit d'une conjecture ; cherchez enfin mais et des mots évaluatifs pour savoir s'il s'agit d'un regret.</p><p>Vérifiez ensuite la forme : auxiliaire avoir ou être ; sujet singulier ou pluriel ; accord du participe avec le sujet avec être ; accent circonflexe sur dû.</p><p>Attention : ne concluez pas au regret dès que vous voyez aurait. Des phrases de forme identique peuvent avoir des sens totalement différents selon le contexte.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u4-1",
       "title": "条件式现在时的传闻用法",
-      "body": "<p>条件式现在时（conditionnel présent）由简单将来时的词干加未完成过去时的词尾构成：-ais、-ais、-ait、-ions、-iez、-aient。它除了表示过去将来，还可以报道未经证实的信息或传闻（rumeur，来源不明、尚未确认的消息）：说话人把消息说出来，但不为它的真实性担保。</p><ul><li>Le ministre serait prêt à démissionner.（据说部长准备辞职。）</li><li>Selon nos informations, le chanteur se produirait à Paris en juin.（据我们的消息，这位歌手可能在六月去巴黎演出。）</li><li>Le musée fermerait ses portes le lundi.（据说博物馆周一闭馆。）</li></ul><p>这种用法常见于新闻、转述和不确定的传闻，句子里常有 selon、d'après、nos informations 等来源标记。中文常译成「据说」「据称」「可能」，但要注意：条件式只表示说话人不担保，不表示事情一定发生。</p><p>注意：条件式现在时的传闻用法与简单将来时的确定预告不同。Le musée fermera ses portes le lundi 是确定的安排；Le musée fermerait ses portes le lundi 是未经证实的消息。</p>"
+      "body": "<p>条件式现在时（conditionnel présent）由简单将来时的词干加未完成过去时的词尾构成：-ais、-ais、-ait、-ions、-iez、-aient。它除了表示过去将来，还可以报道未经证实的信息或传闻（rumeur，来源不明、尚未确认的消息）：说话人把消息说出来，但不为它的真实性担保。</p><ul><li>Le ministre serait prêt à démissionner.（据说部长准备辞职。）</li><li>Selon nos informations, le chanteur se produirait à Paris en juin.（据我们的消息，这位歌手可能在六月去巴黎演出。）</li><li>Le musée fermerait ses portes le lundi.（据说博物馆周一闭馆。）</li></ul><p>这种用法常见于新闻、转述和不确定的传闻，句子里常有 selon、d'après、nos informations 等来源标记。中文常译成「据说」「据称」「可能」，但要注意：条件式只表示说话人不担保，不表示事情一定发生。</p><p>注意：条件式现在时的传闻用法与简单将来时的确定预告不同。Le musée fermera ses portes le lundi 是确定的安排；Le musée fermerait ses portes le lundi 是未经证实的消息。</p>",
+      "locales": {
+        "fr": {
+          "title": "L'emploi de rumeur du conditionnel présent",
+          "body": "<p>Le conditionnel présent se forme avec le radical du futur simple et les terminaisons de l'imparfait : -ais, -ais, -ait, -ions, -iez, -aient. Outre le futur dans le passé, il peut rapporter une information non confirmée ou une rumeur (une nouvelle d'origine incertaine, non encore confirmée) : le locuteur rapporte la nouvelle sans garantir sa véracité.</p><ul><li>Le ministre serait prêt à démissionner.</li><li>Selon nos informations, le chanteur se produirait à Paris en juin.</li><li>Le musée fermerait ses portes le lundi.</li></ul><p>Cet emploi est courant dans la presse, la reprise d'informations et les rumeurs incertaines ; la phrase comporte souvent une marque de source comme selon, d'après, nos informations. En chinois, on traduit souvent par « dit-on », « serait », « peut-être », mais attention : le conditionnel indique seulement que le locuteur ne garantit pas l'information, non que le fait se produira nécessairement.</p><p>Attention : l'emploi de rumeur du conditionnel présent diffère de l'annonce certaine au futur simple. Le musée fermera ses portes le lundi est un programme certain ; Le musée fermerait ses portes le lundi est une information non confirmée.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u4-2",
       "title": "简单将来时的推测（识别）",
-      "body": "<p>简单将来时（futur simple，表示将来或对现在作推测的时态）也可以对现在的情况作推测：说话人根据眼前的迹象，推断此刻大概是什么情况。形式上仍是将来时，意义上却指向现在。</p><ul><li>On sonne. Ce sera le facteur.（有人按门铃。大概是邮递员。）</li><li>Il n'est pas là ; il sera sans doute chez sa sœur.（他不在；他大概在他姐姐家。）</li><li>Elle ne répond pas : elle aura sans doute un problème de réseau.（她不回消息：她大概网络出了点问题。）</li></ul><p>这类推测常与 sans doute、probablement、certainement、sûrement、encore 等词共现，也常出现在「根据迹象推断」的语境里。中文常译成「大概」「可能」，但法语用的是简单将来时，不是条件式。</p><p>识别要点：句子没有明确的将来时间，推测的是现在；如果出现 demain、la semaine prochaine 等将来时间词，通常就是将来陈述，而不是推测。</p><p>注意：识别这种用法时，先看时间指向，再看是否有推断依据；不要只凭「将来时」三个字就判成将来陈述。</p>"
+      "body": "<p>简单将来时（futur simple，表示将来或对现在作推测的时态）也可以对现在的情况作推测：说话人根据眼前的迹象，推断此刻大概是什么情况。形式上仍是将来时，意义上却指向现在。</p><ul><li>On sonne. Ce sera le facteur.（有人按门铃。大概是邮递员。）</li><li>Il n'est pas là ; il sera sans doute chez sa sœur.（他不在；他大概在他姐姐家。）</li><li>Elle ne répond pas : elle aura sans doute un problème de réseau.（她不回消息：她大概网络出了点问题。）</li></ul><p>这类推测常与 sans doute、probablement、certainement、sûrement、encore 等词共现，也常出现在「根据迹象推断」的语境里。中文常译成「大概」「可能」，但法语用的是简单将来时，不是条件式。</p><p>识别要点：句子没有明确的将来时间，推测的是现在；如果出现 demain、la semaine prochaine 等将来时间词，通常就是将来陈述，而不是推测。</p><p>注意：识别这种用法时，先看时间指向，再看是否有推断依据；不要只凭「将来时」三个字就判成将来陈述。</p>",
+      "locales": {
+        "fr": {
+          "title": "La conjecture au futur simple (reconnaissance)",
+          "body": "<p>Le futur simple (le temps qui exprime le futur ou une conjecture sur le présent) peut aussi exprimer une conjecture sur la situation présente : à partir d'indices visibles, le locuteur infère ce qui se passe probablement à cet instant. La forme reste celle du futur, mais le sens renvoie au présent.</p><ul><li>On sonne. Ce sera le facteur.</li><li>Il n'est pas là ; il sera sans doute chez sa sœur.</li><li>Elle ne répond pas : elle aura sans doute un problème de réseau.</li></ul><p>Cette conjecture s'accompagne souvent de sans doute, probablement, certainement, sûrement, encore, et apparaît fréquemment dans un contexte d'inférence à partir d'indices. En chinois, on traduit souvent par « probablement », « peut-être », mais le français emploie le futur simple, non le conditionnel.</p><p>Point de reconnaissance : la phrase ne comporte pas de moment futur explicite et porte sur le présent ; si apparaissent demain, la semaine prochaine, etc., il s'agit généralement d'un énoncé au futur, non d'une conjecture.</p><p>Attention : pour reconnaître cet emploi, regardez d'abord la référence temporelle, puis la présence d'indices d'inférence ; ne concluez pas à un énoncé au futur sur la seule présence du « futur ».</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u4-3",
       "title": "传闻条件式与将来推测的区别",
-      "body": "<p>条件式现在时的传闻用法和简单将来时的推测都可以译成「可能」「大概」，但两者不同：前者报道别人的消息，后者根据迹象自己推断。</p><ul><li>条件式现在时 + 来源标记：Selon la radio, le pont serait fermé.（据电台说，桥可能封闭了。）——说话人转述消息，不担保真假。</li><li>简单将来时 + 观察依据：Le pont est fermé ? Ce sera un accident.（桥封了？大概是事故。）——说话人根据眼前情况推断现在。</li><li>条件式过去时 + 过去事件：Le pont aurait été fermé toute la nuit.（据说桥整夜封闭。）——报道过去未证实的事件。</li></ul><p>判断顺序：先看时态。条件式现在时指向现在或将来，条件式过去时指向过去；简单将来时在推测句里指向现在。再看语境：有 selon、d'après 等来源标记，多半是传闻；有「按门铃」「车停着」这类观察依据，多半是推测。</p><p>注意：同一个「可能」在法语里可能对应三种形式；不要只按中文译文判断，要回到时态和语境。</p>"
+      "body": "<p>条件式现在时的传闻用法和简单将来时的推测都可以译成「可能」「大概」，但两者不同：前者报道别人的消息，后者根据迹象自己推断。</p><ul><li>条件式现在时 + 来源标记：Selon la radio, le pont serait fermé.（据电台说，桥可能封闭了。）——说话人转述消息，不担保真假。</li><li>简单将来时 + 观察依据：Le pont est fermé ? Ce sera un accident.（桥封了？大概是事故。）——说话人根据眼前情况推断现在。</li><li>条件式过去时 + 过去事件：Le pont aurait été fermé toute la nuit.（据说桥整夜封闭。）——报道过去未证实的事件。</li></ul><p>判断顺序：先看时态。条件式现在时指向现在或将来，条件式过去时指向过去；简单将来时在推测句里指向现在。再看语境：有 selon、d'après 等来源标记，多半是传闻；有「按门铃」「车停着」这类观察依据，多半是推测。</p><p>注意：同一个「可能」在法语里可能对应三种形式；不要只按中文译文判断，要回到时态和语境。</p>",
+      "locales": {
+        "fr": {
+          "title": "Conditionnel de rumeur et conjecture au futur : la différence",
+          "body": "<p>L'emploi de rumeur du conditionnel présent et la conjecture au futur simple peuvent tous deux se traduire par « peut-être », « probablement », mais ils diffèrent : le premier rapporte la nouvelle d'autrui, le second infère soi-même à partir d'indices.</p><ul><li>Conditionnel présent + marque de source : Selon la radio, le pont serait fermé. — le locuteur rapporte une information sans garantir sa véracité.</li><li>Futur simple + indice observable : Le pont est fermé ? Ce sera un accident. — le locuteur infère le présent à partir de la situation visible.</li><li>Conditionnel passé + événement passé : Le pont aurait été fermé toute la nuit. — il rapporte un événement passé non confirmé.</li></ul><p>Ordre de décision : regardez d'abord le temps. Le conditionnel présent renvoie au présent ou au futur, le conditionnel passé au passé ; le futur simple, dans une phrase de conjecture, renvoie au présent. Regardez ensuite le contexte : avec une marque de source comme selon, d'après, il s'agit le plus souvent d'une rumeur ; avec un indice d'observation comme « on sonne », « la voiture est garée là », il s'agit le plus souvent d'une conjecture.</p><p>Attention : un même « peut-être » chinois peut correspondre à trois formes françaises ; ne décidez pas d'après la traduction chinoise, revenez au temps et au contexte.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u5-1",
       "title": "叙事现在时：把过去拉到眼前",
-      "body": "<p>「叙事现在时」（présent de narration，也叫 présent historique）指在讲述过去事件时改用现在时，让场景像在眼前发生。它不表示动作真的发生在现在，而是改变叙述视角，使叙述更直接、更有现场感。</p><p>例：</p><ul><li>Hier soir, je rentre chez moi : la porte est ouverte, la lumière est allumée. Je monte lentement et je découvre un chat endormi sur mon lit.（昨晚我回到家：门开着，灯亮着。我慢慢上楼，发现一只猫睡在我床上。）</li><li>En 1789, le peuple prend la Bastille.（1789 年，民众攻占了巴士底狱。）</li></ul><p>识别时看篇章功能：时间词（hier、en 1789、ce jour-là）和上下文都指向过去，但叙述者用现在时把关键场面拉到眼前。叙事现在时常与复合过去时（passé composé，表示完成事件的过去时）、未完成过去时（imparfait，表示背景、持续或习惯的过去时）交替：过去时提供背景或交代结果，现在时推进最生动的场景。</p><p>习惯性现在时说的是反复发生的规律，如 Chaque matin, je me lève à sept heures.（我每天早上七点起床。）它不是叙事现在时；判断依据是整段话在讲故事还是在说明习惯。</p><p>注意：叙事现在时不会把事实变成现在；不要因为看到现在时就把时间理解成说话当下。</p>"
+      "body": "<p>「叙事现在时」（présent de narration，也叫 présent historique）指在讲述过去事件时改用现在时，让场景像在眼前发生。它不表示动作真的发生在现在，而是改变叙述视角，使叙述更直接、更有现场感。</p><p>例：</p><ul><li>Hier soir, je rentre chez moi : la porte est ouverte, la lumière est allumée. Je monte lentement et je découvre un chat endormi sur mon lit.（昨晚我回到家：门开着，灯亮着。我慢慢上楼，发现一只猫睡在我床上。）</li><li>En 1789, le peuple prend la Bastille.（1789 年，民众攻占了巴士底狱。）</li></ul><p>识别时看篇章功能：时间词（hier、en 1789、ce jour-là）和上下文都指向过去，但叙述者用现在时把关键场面拉到眼前。叙事现在时常与复合过去时（passé composé，表示完成事件的过去时）、未完成过去时（imparfait，表示背景、持续或习惯的过去时）交替：过去时提供背景或交代结果，现在时推进最生动的场景。</p><p>习惯性现在时说的是反复发生的规律，如 Chaque matin, je me lève à sept heures.（我每天早上七点起床。）它不是叙事现在时；判断依据是整段话在讲故事还是在说明习惯。</p><p>注意：叙事现在时不会把事实变成现在；不要因为看到现在时就把时间理解成说话当下。</p>",
+      "locales": {
+        "fr": {
+          "title": "Le présent de narration : amener le passé sous les yeux",
+          "body": "<p>Le « présent de narration » (aussi appelé présent historique) consiste à passer au présent pour raconter des événements passés, afin de donner l'impression que la scène se déroule sous les yeux. Il n'indique pas que l'action se produit réellement maintenant : il modifie le point de vue du récit pour le rendre plus direct et plus vivant.</p><p>Exemples :</p><ul><li>Hier soir, je rentre chez moi : la porte est ouverte, la lumière est allumée. Je monte lentement et je découvre un chat endormi sur mon lit.</li><li>En 1789, le peuple prend la Bastille.</li></ul><p>Pour le reconnaître, regardez la fonction dans le texte : les indicateurs de temps (hier, en 1789, ce jour-là) et le contexte renvoient au passé, mais le narrateur emploie le présent pour amener la scène clé sous les yeux. Le présent de narration alterne souvent avec le passé composé (temps du passé qui exprime l'événement accompli) et l'imparfait (temps du passé qui exprime l'arrière-plan, la durée ou l'habitude) : les temps du passé fournissent l'arrière-plan ou le résultat, le présent fait avancer la scène la plus vivante.</p><p>Le présent d'habitude exprime une régularité qui se répète, comme Chaque matin, je me lève à sept heures. Ce n'est pas un présent de narration ; on décide d'après la question de savoir si tout le passage raconte une histoire ou décrit une habitude.</p><p>Attention : le présent de narration ne transforme pas les faits en présent ; ne comprenez pas le temps comme le moment où l'on parle simplement parce que vous voyez un présent.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u5-2",
       "title": "现在时表最近将来：已定或临近的安排",
-      "body": "<p>最近将来时（futur proche）通常用 aller + 不定式（infinitif，动词原形）表示。除此之外，现在时也可以代替最近将来时，表示按计划、安排或即将发生的事，常与 tout de suite、dans un instant、dans cinq minutes、ce soir、demain、lundi prochain 等时间状语连用。</p><ul><li>Le train part dans trois minutes.（火车三分钟后开。）</li><li>Je te rappelle ce soir.（我今晚给你回电话。）</li><li>Nous dînons chez mes parents demain.（我们明天在父母家吃晚饭。）</li></ul><p>这种现在时带有「事情已经定好或马上就来」的语气，常见于日程、交通、约会等语境。若只是临时决定或强调意图，aller + 不定式更常见：Je vais partir.（我这就走。）</p><p>注意：不是所有「现在时 + 未来时间词」都自动表示最近将来；要看事件是否被呈现为已定或临近的安排。远期的计划更常用简单将来时。</p>"
+      "body": "<p>最近将来时（futur proche）通常用 aller + 不定式（infinitif，动词原形）表示。除此之外，现在时也可以代替最近将来时，表示按计划、安排或即将发生的事，常与 tout de suite、dans un instant、dans cinq minutes、ce soir、demain、lundi prochain 等时间状语连用。</p><ul><li>Le train part dans trois minutes.（火车三分钟后开。）</li><li>Je te rappelle ce soir.（我今晚给你回电话。）</li><li>Nous dînons chez mes parents demain.（我们明天在父母家吃晚饭。）</li></ul><p>这种现在时带有「事情已经定好或马上就来」的语气，常见于日程、交通、约会等语境。若只是临时决定或强调意图，aller + 不定式更常见：Je vais partir.（我这就走。）</p><p>注意：不是所有「现在时 + 未来时间词」都自动表示最近将来；要看事件是否被呈现为已定或临近的安排。远期的计划更常用简单将来时。</p>",
+      "locales": {
+        "fr": {
+          "title": "Le présent pour le futur proche : programme fixé ou imminent",
+          "body": "<p>Le futur proche s'exprime généralement par aller + infinitif. Le présent peut aussi remplacer le futur proche pour exprimer un fait prévu, programmé ou imminent ; il s'emploie souvent avec tout de suite, dans un instant, dans cinq minutes, ce soir, demain, lundi prochain, etc.</p><ul><li>Le train part dans trois minutes.</li><li>Je te rappelle ce soir.</li><li>Nous dînons chez mes parents demain.</li></ul><p>Ce présent donne l'impression que « la chose est déjà fixée ou arrive tout de suite » ; il est courant dans les horaires, les transports, les rendez-vous. Si la décision est prise sur le moment ou si l'on insiste sur l'intention, aller + infinitif est plus fréquent : Je vais partir.</p><p>Attention : tout « présent + indication de temps futur » n'exprime pas automatiquement le futur proche ; il faut voir si l'événement est présenté comme un programme fixé ou imminent. Pour un projet éloigné, le futur simple est plus courant.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u5-3",
       "title": "现在时表最近过去：刚刚发生的事",
-      "body": "<p>最近过去时（passé récent）通常用 venir de + 不定式表示。现在时有时也能代替最近过去时，表示刚刚发生的事，常与 à l'instant、à peine 等词语同现，多见于口语对话。</p><ul><li>Le facteur passe à l'instant.（邮递员刚刚经过。）</li><li>— Tu es encore au bureau ? — Non, je sors à l'instant.（——你还在办公室吗？——不，我刚出来。）</li><li>Le film commence à peine ; vous n'avez rien manqué.（电影刚开始；你什么都没错过。）</li></ul><p>这种用法依赖「刚刚」的时间副词和对话语境；离开这些线索，单独的现在时通常就是当前动作。专门的 venir de + 不定式更明确，如 Il vient de sortir.（他刚出去。）</p><p>注意：现在时表最近过去需要「刚刚」类时间词支撑；不要把 venir de + 不定式与 sortir de + 地点混为一谈。</p>"
+      "body": "<p>最近过去时（passé récent）通常用 venir de + 不定式表示。现在时有时也能代替最近过去时，表示刚刚发生的事，常与 à l'instant、à peine 等词语同现，多见于口语对话。</p><ul><li>Le facteur passe à l'instant.（邮递员刚刚经过。）</li><li>— Tu es encore au bureau ? — Non, je sors à l'instant.（——你还在办公室吗？——不，我刚出来。）</li><li>Le film commence à peine ; vous n'avez rien manqué.（电影刚开始；你什么都没错过。）</li></ul><p>这种用法依赖「刚刚」的时间副词和对话语境；离开这些线索，单独的现在时通常就是当前动作。专门的 venir de + 不定式更明确，如 Il vient de sortir.（他刚出去。）</p><p>注意：现在时表最近过去需要「刚刚」类时间词支撑；不要把 venir de + 不定式与 sortir de + 地点混为一谈。</p>",
+      "locales": {
+        "fr": {
+          "title": "Le présent pour le passé récent : ce qui vient de se passer",
+          "body": "<p>Le passé récent s'exprime généralement par venir de + infinitif. Le présent peut parfois remplacer le passé récent pour exprimer un fait qui vient de se produire ; il s'emploie souvent avec à l'instant, à peine, etc., surtout à l'oral.</p><ul><li>Le facteur passe à l'instant.</li><li>— Tu es encore au bureau ? — Non, je sors à l'instant.</li><li>Le film commence à peine ; vous n'avez rien manqué.</li></ul><p>Cet emploi dépend de l'adverbe de temps « juste » et du contexte dialogué ; sans ces indices, un présent seul renvoie normalement à l'action en cours. La tournure spécialisée venir de + infinitif est plus explicite, comme Il vient de sortir.</p><p>Attention : le présent pour le passé récent exige un adverbe de type « juste » ; ne confondez pas venir de + infinitif avec sortir de + lieu.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u5-4",
       "title": "être en train de + 不定式：强调进行中的过程",
-      "body": "<p>être en train de + 不定式表示主语在某个参照时刻正处在动作进行中，强调动作的过程，而不是完成或习惯。être 按主语和时间变位，de 后面的动词保持不定式。</p><ul><li>Elle est en train de préparer le dîner.（她正在准备晚饭。）</li><li>Nous sommes en train d'écrire un rapport.（我们正在写报告。）</li><li>Ils étaient en train de dormir quand le téléphone a sonné.（电话响时他们正在睡觉。）</li><li>Ne dérange pas ton frère : il est en train de réviser.（别打扰你弟弟，他正在复习。）</li></ul><p>简单现在时也可以表示当前动作（Je lis），但 être en train de 更突出「正在进行、尚未结束」的过程，常用来解释为什么不能做别的事。</p><p>de 遇元音或哑音 h 开头的动词要省音为 d'：d'écrire、d'arriver、d'hésiter。不能写成 de écrire。</p><p>注意：de 后只能接不定式，不能接变位动词；être en train de 不表示习惯，也不表示将来。</p>"
+      "body": "<p>être en train de + 不定式表示主语在某个参照时刻正处在动作进行中，强调动作的过程，而不是完成或习惯。être 按主语和时间变位，de 后面的动词保持不定式。</p><ul><li>Elle est en train de préparer le dîner.（她正在准备晚饭。）</li><li>Nous sommes en train d'écrire un rapport.（我们正在写报告。）</li><li>Ils étaient en train de dormir quand le téléphone a sonné.（电话响时他们正在睡觉。）</li><li>Ne dérange pas ton frère : il est en train de réviser.（别打扰你弟弟，他正在复习。）</li></ul><p>简单现在时也可以表示当前动作（Je lis），但 être en train de 更突出「正在进行、尚未结束」的过程，常用来解释为什么不能做别的事。</p><p>de 遇元音或哑音 h 开头的动词要省音为 d'：d'écrire、d'arriver、d'hésiter。不能写成 de écrire。</p><p>注意：de 后只能接不定式，不能接变位动词；être en train de 不表示习惯，也不表示将来。</p>",
+      "locales": {
+        "fr": {
+          "title": "être en train de + infinitif : insister sur le processus en cours",
+          "body": "<p>être en train de + infinitif indique que le sujet est en pleine action à un moment de référence, en insistant sur le processus plutôt que sur l'achèvement ou l'habitude. être se conjugue selon le sujet et le temps, et le verbe après de reste à l'infinitif.</p><ul><li>Elle est en train de préparer le dîner.</li><li>Nous sommes en train d'écrire un rapport.</li><li>Ils étaient en train de dormir quand le téléphone a sonné.</li><li>Ne dérange pas ton frère : il est en train de réviser.</li></ul><p>Le présent simple peut aussi exprimer l'action actuelle (Je lis), mais être en train de met davantage en avant le processus « en cours, non terminé » ; on l'emploie souvent pour expliquer pourquoi on ne peut pas faire autre chose.</p><p>de s'élide en d' devant un verbe commençant par une voyelle ou un h muet : d'écrire, d'arriver, d'hésiter. On n'écrit pas de écrire.</p><p>Attention : après de, seul un infinitif est possible, jamais un verbe conjugué ; être en train de n'exprime ni l'habitude ni le futur.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u5-5",
       "title": "aller + 不定式的两种过去读法",
-      "body": "<p>aller 的未完成过去时（imparfait，表示背景、持续或习惯的过去时：allais、allait、allions 等）加不定式，表示过去某个参照点上「即将做某事」，动作当时还没有发生；aller 的复合过去时（passé composé，表示完成事件的过去时：suis allé、est allé 等）加不定式，表示「去了并做了某事」，动作已经完成。</p><ul><li>Il allait partir quand le téléphone a sonné.（他正要走，电话响了。）</li><li>Elle est allée chercher les enfants à l'école.（她去学校接了孩子。）</li><li>Nous allions fermer le magasin quand un client est entré.（我们正要关店，一位顾客进来了。）</li><li>Ils sont allés voir leur grand-mère à l'hôpital.（他们去医院看望了祖母。）</li></ul><p>复合过去时用 être 作助动词，过去分词 allé 与主语性数配合：elle est allée、ils sont allés；后面的不定式不变位。</p><p>判断要看语境：allait + 不定式常是「正要」，但有些句子也可理解为「当时正走在去做某事的路上」，例如 Il allait acheter du pain 既可指「他正要去买面包」，也可指「他当时正走在去买面包的路上」。单句可能有歧义，上下文才能定。</p><p>注意：不要把这组对比套到其他动词上；也不要看到 allait 就一律读成「即将」，它也可能只是移动义。</p>"
+      "body": "<p>aller 的未完成过去时（imparfait，表示背景、持续或习惯的过去时：allais、allait、allions 等）加不定式，表示过去某个参照点上「即将做某事」，动作当时还没有发生；aller 的复合过去时（passé composé，表示完成事件的过去时：suis allé、est allé 等）加不定式，表示「去了并做了某事」，动作已经完成。</p><ul><li>Il allait partir quand le téléphone a sonné.（他正要走，电话响了。）</li><li>Elle est allée chercher les enfants à l'école.（她去学校接了孩子。）</li><li>Nous allions fermer le magasin quand un client est entré.（我们正要关店，一位顾客进来了。）</li><li>Ils sont allés voir leur grand-mère à l'hôpital.（他们去医院看望了祖母。）</li></ul><p>复合过去时用 être 作助动词，过去分词 allé 与主语性数配合：elle est allée、ils sont allés；后面的不定式不变位。</p><p>判断要看语境：allait + 不定式常是「正要」，但有些句子也可理解为「当时正走在去做某事的路上」，例如 Il allait acheter du pain 既可指「他正要去买面包」，也可指「他当时正走在去买面包的路上」。单句可能有歧义，上下文才能定。</p><p>注意：不要把这组对比套到其他动词上；也不要看到 allait 就一律读成「即将」，它也可能只是移动义。</p>",
+      "locales": {
+        "fr": {
+          "title": "aller + infinitif : deux lectures au passé",
+          "body": "<p>L'imparfait de aller (allais, allait, allions, etc.) suivi d'un infinitif exprime, à un point de référence passé, l'imminence d'une action qui n'avait pas encore eu lieu à ce moment-là ; le passé composé de aller (suis allé, est allé, etc.) suivi d'un infinitif exprime « être allé et avoir fait quelque chose », l'action étant accomplie.</p><ul><li>Il allait partir quand le téléphone a sonné.</li><li>Elle est allée chercher les enfants à l'école.</li><li>Nous allions fermer le magasin quand un client est entré.</li><li>Ils sont allés voir leur grand-mère à l'hôpital.</li></ul><p>Au passé composé, aller prend l'auxiliaire être, et le participe allé s'accorde en genre et en nombre avec le sujet : elle est allée, ils sont allés ; l'infinitif qui suit ne se conjugue pas.</p><p>Le contexte décide : allait + infinitif exprime souvent « être sur le point de », mais certaines phrases peuvent aussi se comprendre comme « être en chemin pour faire quelque chose » ; par exemple, Il allait acheter du pain peut signifier « il était sur le point d'acheter du pain » ou « il était en chemin pour acheter du pain ». Une phrase isolée peut être ambiguë ; seul le contexte tranche.</p><p>Attention : n'étendez pas ce contraste à d'autres verbes, et ne lisez pas systématiquement allait comme « sur le point de » : il peut aussi garder son sens de déplacement.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u6-1",
       "title": "ce + pouvoir / devoir：中性主语的推测",
-      "body": "<p>认识情态（modalité épistémique）指说话人对命题真实性或可能性的判断，如「可能」「应该」「想必」，而不是对动作的指令，也不是主语的能力。中性主语 ce 与 pouvoir、devoir 搭配时，常表达这种认识情态。</p><ul><li>Ce doit être le facteur.（应该是邮递员。）——较强的推测。</li><li>Ce peut être une erreur.（可能是弄错了。）——可能性。</li><li>Ce pouvait être vrai, mais personne ne l'a vérifié.（那可能是真的，但没人核实过。）——过去的可能性。</li><li>Cette maison ? Ce doit être la sienne.（这栋房子？应该是他的。）——ce 不随 maison 的阴性变化。</li></ul><p>ce 是中性指示代词，作主语时不体现所指对象的性别和数：即使所指是 une maison、une erreur，仍用 ce，不能换成 cette。devoir 在这里表示推测「应该、想必」，不表示义务「必须」；pouvoir 表示可能，不表示能力「能够」。</p><p>注意：ce 本身不变，但后面的 doit/devait、peut/pouvait 要按时间变位；判断时先看主语是不是中性 ce，再看整句是不是在评估命题。</p>"
+      "body": "<p>认识情态（modalité épistémique）指说话人对命题真实性或可能性的判断，如「可能」「应该」「想必」，而不是对动作的指令，也不是主语的能力。中性主语 ce 与 pouvoir、devoir 搭配时，常表达这种认识情态。</p><ul><li>Ce doit être le facteur.（应该是邮递员。）——较强的推测。</li><li>Ce peut être une erreur.（可能是弄错了。）——可能性。</li><li>Ce pouvait être vrai, mais personne ne l'a vérifié.（那可能是真的，但没人核实过。）——过去的可能性。</li><li>Cette maison ? Ce doit être la sienne.（这栋房子？应该是他的。）——ce 不随 maison 的阴性变化。</li></ul><p>ce 是中性指示代词，作主语时不体现所指对象的性别和数：即使所指是 une maison、une erreur，仍用 ce，不能换成 cette。devoir 在这里表示推测「应该、想必」，不表示义务「必须」；pouvoir 表示可能，不表示能力「能够」。</p><p>注意：ce 本身不变，但后面的 doit/devait、peut/pouvait 要按时间变位；判断时先看主语是不是中性 ce，再看整句是不是在评估命题。</p>",
+      "locales": {
+        "fr": {
+          "title": "ce + pouvoir / devoir : conjecture sur un sujet neutre",
+          "body": "<p>La modalité épistémique désigne le jugement du locuteur sur la vérité ou la possibilité d'une proposition (« peut-être », « devrait », « sans doute »), et non une injonction ni la capacité du sujet. Le sujet neutre ce, associé à pouvoir ou devoir, exprime souvent cette modalité épistémique.</p><ul><li>Ce doit être le facteur. — conjecture assez forte.</li><li>Ce peut être une erreur. — possibilité.</li><li>Ce pouvait être vrai, mais personne ne l'a vérifié. — possibilité passée.</li><li>Cette maison ? Ce doit être la sienne. — ce ne varie pas avec le féminin de maison.</li></ul><p>ce est un pronom démonstratif neutre ; comme sujet, il ne marque ni le genre ni le nombre de ce qu'il désigne : même si l'on parle d'une maison ou d'une erreur, on garde ce et non cette. devoir exprime ici la conjecture (« devrait », « sans doute »), non l'obligation (« doit ») ; pouvoir exprime la possibilité, non la capacité (« peut »).</p><p>Attention : ce lui-même ne varie pas, mais doit/devait, peut/pouvait se conjuguent selon le temps ; pour décider, vérifiez d'abord si le sujet est le ce neutre, puis si la phrase évalue une proposition. devoir de l'argent est une autre construction, sans rapport ici.</p>"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-card-u6-2",
       "title": "识别 ce 认识情态：四步与对比",
-      "body": "<p>识别 ce 的认识情态，可以按四步：</p><ol><li>看主语：是中性 ce，而不是 il、elle 或指具体人的名词。</li><li>看动词：是 pouvoir 或 devoir 加不定式，最常见的是 ce doit être、ce peut être。</li><li>看功能：说话人在评估「事情可能／应该是这样」，不是要求某人做某事，也不是说某人有能力。</li><li>看时间：ce doit être 是现在推测；ce devait être 是过去推测；ce pouvait être 是过去可能。</li></ol><p>对比：</p><ul><li>Ce doit être une erreur.（这应该是弄错了。）——推测，ce 是主语。</li><li>Tu dois corriger cette erreur.（你必须改正这个错误。）——义务，主语是人，动作由人执行。</li><li>Ce peut être vrai.（这可能是真的。）——可能。</li><li>Elle peut venir.（她能来。）——能力。</li></ul><p>注意：不要把 devoir 的推测义与义务义混在一起；判断关键是中性主语 ce 和整句的评估功能，而不是单独看 doit 这个词。</p>"
+      "body": "<p>识别 ce 的认识情态，可以按四步：</p><ol><li>看主语：是中性 ce，而不是 il、elle 或指具体人的名词。</li><li>看动词：是 pouvoir 或 devoir 加不定式，最常见的是 ce doit être、ce peut être。</li><li>看功能：说话人在评估「事情可能／应该是这样」，不是要求某人做某事，也不是说某人有能力。</li><li>看时间：ce doit être 是现在推测；ce devait être 是过去推测；ce pouvait être 是过去可能。</li></ol><p>对比：</p><ul><li>Ce doit être une erreur.（这应该是弄错了。）——推测，ce 是主语。</li><li>Tu dois corriger cette erreur.（你必须改正这个错误。）——义务，主语是人，动作由人执行。</li><li>Ce peut être vrai.（这可能是真的。）——可能。</li><li>Elle peut venir.（她能来。）——能力。</li></ul><p>注意：不要把 devoir 的推测义与义务义混在一起；判断关键是中性主语 ce 和整句的评估功能，而不是单独看 doit 这个词。</p>",
+      "locales": {
+        "fr": {
+          "title": "Reconnaître la modalité épistémique de ce : quatre étapes et comparaisons",
+          "body": "<p>Pour reconnaître la modalité épistémique de ce, procédez en quatre étapes :</p><ol><li>Regardez le sujet : c'est le ce neutre, non il, elle ni un nom désignant une personne précise.</li><li>Regardez le verbe : pouvoir ou devoir suivi d'un infinitif, le plus souvent ce doit être, ce peut être.</li><li>Regardez la fonction : le locuteur évalue « ce à quoi les choses ressemblent », il ne demande pas à quelqu'un de faire quelque chose et ne dit pas que quelqu'un en est capable.</li><li>Regardez le temps : ce doit être est une conjecture présente ; ce devait être une conjecture passée ; ce pouvait être une possibilité passée.</li></ol><p>Comparaisons :</p><ul><li>Ce doit être une erreur. — conjecture, ce est sujet.</li><li>Tu dois corriger cette erreur. — obligation, le sujet est une personne et l'action est exécutée par elle.</li><li>Ce peut être vrai. — possibilité.</li><li>Elle peut venir. — capacité.</li></ul><p>Attention : ne mélangez pas le sens de conjecture et le sens d'obligation de devoir ; le critère est le sujet neutre ce et la fonction d'évaluation de la phrase, non le mot doit pris isolément.</p>"
+        }
+      }
     }
   ],
   "lessons": [
@@ -153,7 +309,12 @@
           ],
           "answer": 1,
           "translation": "每年夏天，父母上班时，卡米耶在祖父母家___几天。她很喜欢那座老房子和村里的宁静。",
-          "explain": "pendant que 引出的从句和主句都描写过去持续的背景，Camille 的停留用未完成过去时 passait。复合过去时 a passé 会把停留呈现为一次有界限的完成事件，与「每年夏天」的反复背景不符；avait passé 是愈过去时，需要更早的过去参照点；passerait 是条件式，改变语气。"
+          "explain": "pendant que 引出的从句和主句都描写过去持续的背景，Camille 的停留用未完成过去时 passait。复合过去时 a passé 会把停留呈现为一次有界限的完成事件，与「每年夏天」的反复背景不符；avait passé 是愈过去时，需要更早的过去参照点；passerait 是条件式，改变语气。",
+          "locales": {
+            "fr": {
+              "explain": "La subordonnée introduite par pendant que et la principale décrivent toutes deux un arrière-plan durable dans le passé : le séjour de Camille se met donc à l'imparfait, passait. Le passé composé a passé présenterait le séjour comme un événement accompli et borné, ce qui contredit l'arrière-plan répété de « chaque été » ; avait passé est un plus-que-parfait qui exige un point de référence passé antérieur ; passerait est un conditionnel et change la modalité."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q2",
@@ -167,7 +328,12 @@
           ],
           "answer": 2,
           "translation": "太阳正在落山时，我们终于___山顶。",
-          "explain": "se couchait 提供背景；enfin 引出的到达被呈现为打断背景的有界限事件，用复合过去时 sommes arrivés。arrivions 会把「到达」也写成正在进行的背景，与 enfin 不符；étions arrivés 是愈过去时，表示先于另一过去动作；sommes arrivé 缺少与 nous 的复数配合。"
+          "explain": "se couchait 提供背景；enfin 引出的到达被呈现为打断背景的有界限事件，用复合过去时 sommes arrivés。arrivions 会把「到达」也写成正在进行的背景，与 enfin 不符；étions arrivés 是愈过去时，表示先于另一过去动作；sommes arrivé 缺少与 nous 的复数配合。",
+          "locales": {
+            "fr": {
+              "explain": "se couchait fournit l'arrière-plan ; l'arrivée introduite par enfin est présentée comme un événement borné qui interrompt cet arrière-plan, d'où le passé composé sommes arrivés. arrivions ferait de l'arrivée un arrière-plan en cours, ce qui contredit enfin ; étions arrivés est un plus-que-parfait qui situe l'arrivée avant une autre action passée ; sommes arrivé omet l'accord au pluriel avec nous."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q3",
@@ -181,7 +347,12 @@
           ],
           "answer": 0,
           "translation": "卡米耶打开门，___箱子在门厅，___客厅。",
-          "explain": "三个有界限的动作依次推进叙事，都用复合过去时：a ouvert、a posé、est entrée。未完成过去时 posait / entrait 会把动作降为背景，破坏事件链；愈过去时 avait posé / était entrée 表示在另一过去动作之前完成，改变叙事层次。entrer 用 être，分词 entrée 与 Camille 阴性单数配合。"
+          "explain": "三个有界限的动作依次推进叙事，都用复合过去时：a ouvert、a posé、est entrée。未完成过去时 posait / entrait 会把动作降为背景，破坏事件链；愈过去时 avait posé / était entrée 表示在另一过去动作之前完成，改变叙事层次。entrer 用 être，分词 entrée 与 Camille 阴性单数配合。",
+          "locales": {
+            "fr": {
+              "explain": "Trois actions bornées font avancer le récit l'une après l'autre ; elles se mettent toutes au passé composé : a ouvert, a posé, est entrée. L'imparfait posait / entrait réduirait les actions à un arrière-plan et briserait la chaîne événementielle ; le plus-que-parfait avait posé / était entrée situerait les actions avant une autre action passée et changerait les niveaux du récit. entrer se conjugue avec être, et le participe entrée s'accorde au féminin singulier avec Camille."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q4",
@@ -194,7 +365,12 @@
             "a"
           ],
           "translation": "莱娅和她的妹妹___了花园。",
-          "explain": "entrer 是表示位置移动的不及物动词，复合过去时用 être 作助动词；过去分词与主语「Léa et sa sœur」（阴性复数）配合，写成 entrées。只写 entré 或 entrée 都缺少性数配合；也不能按 avoir 助动词的规则让分词保持不变。"
+          "explain": "entrer 是表示位置移动的不及物动词，复合过去时用 être 作助动词；过去分词与主语「Léa et sa sœur」（阴性复数）配合，写成 entrées。只写 entré 或 entrée 都缺少性数配合；也不能按 avoir 助动词的规则让分词保持不变。",
+          "locales": {
+            "fr": {
+              "explain": "entrer est un verbe intransitif de déplacement : au passé composé, il prend l'auxiliaire être, et le participe passé s'accorde avec le sujet « Léa et sa sœur » (féminin pluriel), d'où entrées. Écrire seulement entré ou entrée laisse manquer l'accord en genre et en nombre ; on ne peut pas non plus laisser le participe invariable selon la règle de l'auxiliaire avoir."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q5",
@@ -208,7 +384,12 @@
           ],
           "answer": 3,
           "translation": "我们安静地___晚饭时，忽然有人___门。",
-          "explain": "tout à coup 引出打断进行中动作的完成事件：dîner 是当时正在进行的背景，用未完成过去时 dînions；frapper 是有界限的瞬间事件，用复合过去时 a frappé。avons dîné 会把晚饭写成完成事件，frappait 会把敲门写成背景，都颠倒了叙事层次；avions dîné 表示更早完成，与「正在吃」不符。"
+          "explain": "tout à coup 引出打断进行中动作的完成事件：dîner 是当时正在进行的背景，用未完成过去时 dînions；frapper 是有界限的瞬间事件，用复合过去时 a frappé。avons dîné 会把晚饭写成完成事件，frappait 会把敲门写成背景，都颠倒了叙事层次；avions dîné 表示更早完成，与「正在吃」不符。",
+          "locales": {
+            "fr": {
+              "explain": "tout à coup introduit un événement accompli qui interrompt une action en cours : dîner est l'arrière-plan alors en cours, d'où l'imparfait dînions ; frapper est un événement ponctuel borné, d'où le passé composé a frappé. avons dîné ferait du dîner un événement accompli et frappait ferait de la frappe un arrière-plan : les deux inversent les niveaux du récit ; avions dîné exprime un accompli antérieur, incompatible avec « en train de dîner »."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q6",
@@ -222,7 +403,12 @@
           ],
           "answer": 2,
           "translation": "为什么这段文字主要用未完成过去时？「村子沉睡着。远处有只狗在叫。忽然，一盏灯亮了。」",
-          "explain": "前两句用未完成过去时描写当时的环境和持续状态，为后面的 s'alluma 提供背景；s'allumer 用复合过去时才推出新的完成事件。这段文字里的未完成过去时描写环境和持续状态，不表示反复；它也不表示「更早」，先完成性是愈过去时的作用。第一项把背景误认成事件链，第二项把背景误认成习惯，第四项把它误认成先完成性。"
+          "explain": "前两句用未完成过去时描写当时的环境和持续状态，为后面的 s'alluma 提供背景；s'allumer 用复合过去时才推出新的完成事件。这段文字里的未完成过去时描写环境和持续状态，不表示反复；它也不表示「更早」，先完成性是愈过去时的作用。第一项把背景误认成事件链，第二项把背景误认成习惯，第四项把它误认成先完成性。",
+          "locales": {
+            "fr": {
+              "explain": "Les deux premières phrases à l'imparfait décrivent le cadre et l'état durable de ce moment-là et fournissent l'arrière-plan au s'alluma qui suit ; c'est le passé composé de s'allumer qui introduit le nouvel événement accompli. Dans ce passage, l'imparfait décrit le cadre et un état durable, il n'exprime pas la répétition ; il n'exprime pas non plus l'antériorité, qui est le rôle du plus-que-parfait. La première proposition confond l'arrière-plan avec une chaîne d'événements, la deuxième le confond avec une habitude, la quatrième avec une antériorité accomplie."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q7",
@@ -236,7 +422,12 @@
           ],
           "answer": 3,
           "translation": "哪一句把一个动作呈现为完成的、推动叙事的事件？",
-          "explain": "最后一句用复合过去时呈现两个先后完成的事件，故事因此向前推进。其余三句都用未完成过去时：第一句是环境描写，第二句是过去习惯，第三句是持续过程中的姿态描写，都没有推出新的完成事件。"
+          "explain": "最后一句用复合过去时呈现两个先后完成的事件，故事因此向前推进。其余三句都用未完成过去时：第一句是环境描写，第二句是过去习惯，第三句是持续过程中的姿态描写，都没有推出新的完成事件。",
+          "locales": {
+            "fr": {
+              "explain": "La dernière phrase emploie le passé composé pour présenter deux événements accomplis successifs : le récit avance donc. Les trois autres phrases sont à l'imparfait : la première décrit le cadre, la deuxième une habitude passée, la troisième une attitude dans un processus durable ; aucune n'introduit un nouvel événement accompli."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q8",
@@ -250,7 +441,12 @@
           ],
           "answer": 1,
           "translation": "那天晚上，他回到家时，在街上___看见任何人：大家都已经回家了。",
-          "explain": "叙事以复合过去时推进这次「没看见」的完成事件：n'a vu personne。personne 作否定代词放在过去分词后；avoir 助动词，vu 不随主语变化。avait 会构成愈过去时，需要更早的过去参照点；était 与 vu 会组成被动（n'était vu），不能表示「没看见任何人」；a été vu 同样是被动结构，personne 不能这样作它的宾语。"
+          "explain": "叙事以复合过去时推进这次「没看见」的完成事件：n'a vu personne。personne 作否定代词放在过去分词后；avoir 助动词，vu 不随主语变化。avait 会构成愈过去时，需要更早的过去参照点；était 与 vu 会组成被动（n'était vu），不能表示「没看见任何人」；a été vu 同样是被动结构，personne 不能这样作它的宾语。",
+          "locales": {
+            "fr": {
+              "explain": "Le récit fait avancer cet événement accompli « ne pas voir » au passé composé : n'a vu personne. Le pronom négatif personne se place après le participe passé ; l'auxiliaire est avoir et vu ne varie pas avec le sujet. avait formerait un plus-que-parfait qui exige un point de référence passé antérieur ; était avec vu donnerait un passif (n'était vu), incapable d'exprimer « n'avoir vu personne » ; a été vu est également une structure passive, dont personne ne peut être le complément d'objet de cette manière."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q9",
@@ -263,9 +459,19 @@
             "t"
           ],
           "translation": "昨天，她在中午前___了报告。",
-          "explain": "finir 是规则 -ir 动词，过去分词为 fini；复合过去时 a fini 把「完成报告」呈现为有界限的事件。avoir 作助动词，分词不随 elle 变化；不要写成 finie 或 finit。"
+          "explain": "finir 是规则 -ir 动词，过去分词为 fini；复合过去时 a fini 把「完成报告」呈现为有界限的事件。avoir 作助动词，分词不随 elle 变化；不要写成 finie 或 finit。",
+          "locales": {
+            "fr": {
+              "explain": "finir est un verbe régulier en -ir et son participe passé est fini ; le passé composé a fini présente « avoir terminé le rapport » comme un événement borné. L'auxiliaire est avoir : le participe ne varie pas avec elle. On n'écrit ni finie ni finit."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Répartition d'aspect entre passé composé et imparfait (1)"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-l1-2",
@@ -297,7 +503,12 @@
             "regardé"
           ],
           "translation": "她看过这部电影。",
-          "explain": "短副词 déjà 放在助动词 a 与过去分词 vu 之间：Elle a déjà vu ce film。复合过去时呈现一次有界限的观看经历；avait vu 是愈过去时，需要更早的参照点；voyait 是未完成过去时，与「已经看过」的完成意义不符；regardé 虽然意思接近，但不是 voir 的过去分词。"
+          "explain": "短副词 déjà 放在助动词 a 与过去分词 vu 之间：Elle a déjà vu ce film。复合过去时呈现一次有界限的观看经历；avait vu 是愈过去时，需要更早的参照点；voyait 是未完成过去时，与「已经看过」的完成意义不符；regardé 虽然意思接近，但不是 voir 的过去分词。",
+          "locales": {
+            "fr": {
+              "explain": "L'adverbe court déjà se place entre l'auxiliaire a et le participe passé vu : Elle a déjà vu ce film. Le passé composé présente une expérience de vision bornée ; avait vu est un plus-que-parfait qui exige un point de référence antérieur ; voyait est un imparfait incompatible avec le sens accompli de « avoir déjà vu » ; regardé, de sens proche, n'est pas le participe passé de voir."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q11",
@@ -325,7 +536,12 @@
             "téléphonait"
           ],
           "translation": "她给姐姐打了电话。",
-          "explain": "复合过去时的否定把 ne...pas 夹在助动词周围：Elle n'a pas téléphoné。过去分词 téléphoné 留在 pas 之后，不能写成 Elle n'a téléphoné pas。téléphoner 是 -er 动词，分词以 -é 结尾；不能拆成 ne 和 a 两个词块。"
+          "explain": "复合过去时的否定把 ne...pas 夹在助动词周围：Elle n'a pas téléphoné。过去分词 téléphoné 留在 pas 之后，不能写成 Elle n'a téléphoné pas。téléphoner 是 -er 动词，分词以 -é 结尾；不能拆成 ne 和 a 两个词块。",
+          "locales": {
+            "fr": {
+              "explain": "À la forme négative du passé composé, ne...pas encadre l'auxiliaire : Elle n'a pas téléphoné. Le participe passé téléphoné reste après pas ; on n'écrit pas Elle n'a téléphoné pas. téléphoner est un verbe en -er et son participe se termine par -é ; on ne peut pas le décomposer en deux blocs ne et a."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q12",
@@ -338,7 +554,12 @@
             "t"
           ],
           "translation": "他们没有___我的问题。",
-          "explain": "répondre 的过去分词是 répondu（-u 类不规则分词），不是 répondé。否定 ne...pas 夹住助动词 ont，分词 répondu 放在 pas 后；avoir 助动词，分词不随 ils 配合。"
+          "explain": "répondre 的过去分词是 répondu（-u 类不规则分词），不是 répondé。否定 ne...pas 夹住助动词 ont，分词 répondu 放在 pas 后；avoir 助动词，分词不随 ils 配合。",
+          "locales": {
+            "fr": {
+              "explain": "Le participe passé de répondre est répondu (participe irrégulier en -u), non répondé. La négation ne...pas encadre l'auxiliaire ont et le participe répondu se place après pas ; l'auxiliaire est avoir, donc le participe ne s'accorde pas avec ils."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q13",
@@ -352,7 +573,12 @@
           ],
           "answer": 0,
           "translation": "去年夏天，我们___一座旧农舍，在乡下___了两周。",
-          "explain": "两个有界限、先后发生的完成事件用复合过去时：avons loué、avons passé。louer 和 passer 都是 -er 动词，分词为 loué、passé；avoir 助动词，分词不随 nous 变化。未完成过去时会把它写成背景或习惯；愈过去时要求更早的参照点；avons loué / passions 则时态不一致。"
+          "explain": "两个有界限、先后发生的完成事件用复合过去时：avons loué、avons passé。louer 和 passer 都是 -er 动词，分词为 loué、passé；avoir 助动词，分词不随 nous 变化。未完成过去时会把它写成背景或习惯；愈过去时要求更早的参照点；avons loué / passions 则时态不一致。",
+          "locales": {
+            "fr": {
+              "explain": "Deux événements accomplis, bornés et successifs se mettent au passé composé : avons loué, avons passé. louer et passer sont des verbes en -er, leurs participes sont loué et passé ; l'auxiliaire est avoir et le participe ne varie pas avec nous. L'imparfait en ferait un arrière-plan ou une habitude ; le plus-que-parfait exigerait un point de référence antérieur ; avons loué / passions mélangerait deux temps incompatibles."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q14",
@@ -392,7 +618,12 @@
             "ont"
           ],
           "translation": "她在一小时内准备好晚饭，孩子们同时玩耍。",
-          "explain": "en une heure 把 préparer 呈现为有明确终点的完成事件，用复合过去时 a préparé；pendant que 引出同时进行的背景，jouer 用未完成过去时 jouaient。préparer → préparé（-er 动词），avoir 助动词不随主语配合。préparait 会把主句也写成背景，与 en une heure 的完成意义不符。"
+          "explain": "en une heure 把 préparer 呈现为有明确终点的完成事件，用复合过去时 a préparé；pendant que 引出同时进行的背景，jouer 用未完成过去时 jouaient。préparer → préparé（-er 动词），avoir 助动词不随主语配合。préparait 会把主句也写成背景，与 en une heure 的完成意义不符。",
+          "locales": {
+            "fr": {
+              "explain": "en une heure présente préparer comme un événement accompli avec une fin claire, d'où le passé composé a préparé ; pendant que introduit un arrière-plan simultané, d'où l'imparfait jouaient pour jouer. préparer → préparé (verbe en -er), l'auxiliaire avoir ne demande pas d'accord avec le sujet. préparait ferait aussi de la principale un arrière-plan, ce qui contredit le sens accompli de en une heure."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q15",
@@ -406,7 +637,12 @@
           ],
           "answer": 3,
           "translation": "他进来时，大厅___满的，学生们___。",
-          "explain": "entrer 用复合过去时推出事件；la salle était pleine 与 les élèves bavardaient 是事件发生时的背景状态和持续过程，用未完成过去时。a été / ont bavardé 会把描写变成完成事件；était / ont bavardé 又把「聊天」写成完成事件，与同时描写不一致；avait été 是愈过去时，表示更早完成，与「进来时」的同时描写不符。"
+          "explain": "entrer 用复合过去时推出事件；la salle était pleine 与 les élèves bavardaient 是事件发生时的背景状态和持续过程，用未完成过去时。a été / ont bavardé 会把描写变成完成事件；était / ont bavardé 又把「聊天」写成完成事件，与同时描写不一致；avait été 是愈过去时，表示更早完成，与「进来时」的同时描写不符。",
+          "locales": {
+            "fr": {
+              "explain": "entrer au passé composé introduit l'événement ; la salle était pleine et les élèves bavardaient sont l'état d'arrière-plan et le processus durable au moment de l'événement, d'où l'imparfait. a été / ont bavardé transformeraient la description en événements accomplis ; était / ont bavardé fait de « bavarder » un événement accompli, en contradiction avec la description simultanée ; avait été est un plus-que-parfait qui exprime un accompli antérieur, incompatible avec la description simultanée « au moment où il est entré »."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q16",
@@ -420,7 +656,12 @@
           ],
           "answer": 1,
           "translation": "我们到达房子前时，百叶窗___，门___。",
-          "explain": "到达是一个完成事件（sommes arrivés），随后描写当时看到的状态：百叶窗关着、门开着。状态用未完成过去时的被动形式 étaient fermés / était ouverte，过去分词与各自主语（volets 阳性复数、porte 阴性单数）配合。复合过去时的被动会把这些状态写成事件；avait été fermés 是愈过去时被动，表示更早完成，与「到达时看到」的共时描写不符。"
+          "explain": "到达是一个完成事件（sommes arrivés），随后描写当时看到的状态：百叶窗关着、门开着。状态用未完成过去时的被动形式 étaient fermés / était ouverte，过去分词与各自主语（volets 阳性复数、porte 阴性单数）配合。复合过去时的被动会把这些状态写成事件；avait été fermés 是愈过去时被动，表示更早完成，与「到达时看到」的共时描写不符。",
+          "locales": {
+            "fr": {
+              "explain": "L'arrivée est un événement accompli (sommes arrivés), puis l'on décrit l'état constaté alors : volets fermés, porte ouverte. Cet état se met à l'imparfait passif : étaient fermés / était ouverte, le participe s'accordant avec chaque sujet (volets masculin pluriel, porte féminin singulier). Le passif au passé composé ferait de ces états des événements ; avait été fermés est un passif au plus-que-parfait qui exprime un accompli antérieur, incompatible avec la description simultanée « au moment de notre arrivée »."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q17",
@@ -434,7 +675,12 @@
           ],
           "answer": 2,
           "translation": "那天早上，他___窗户，立刻___到冬天的寒冷。",
-          "explain": "两个动作先后完成并推进叙事：a ouvert、a senti；tout de suite 说明「感觉」紧跟「开窗」，本身也是一个完成事件。ouvrir 的过去分词是 ouvert，sentir 的是 senti。未完成过去时会把动作写成背景或习惯；愈过去时表示两个动作都在另一参照点之前完成。"
+          "explain": "两个动作先后完成并推进叙事：a ouvert、a senti；tout de suite 说明「感觉」紧跟「开窗」，本身也是一个完成事件。ouvrir 的过去分词是 ouvert，sentir 的是 senti。未完成过去时会把动作写成背景或习惯；愈过去时表示两个动作都在另一参照点之前完成。",
+          "locales": {
+            "fr": {
+              "explain": "Deux actions accomplies successives font avancer le récit : a ouvert, a senti ; tout de suite indique que la sensation suit immédiatement l'ouverture de la fenêtre et constitue elle aussi un événement accompli. Le participe passé de ouvrir est ouvert, celui de sentir est senti. L'imparfait ferait des actions un arrière-plan ou une habitude ; le plus-que-parfait situerait les deux actions avant un autre point de référence."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q18",
@@ -447,9 +693,19 @@
             "u"
           ],
           "translation": "她把墙___成了蓝色。",
-          "explain": "peindre 的过去分词是 peint，属于 -eint 类不规则分词，不能按规则写成 peindu。复合过去时 a peint 呈现一次完成事件；avoir 助动词，分词不随 elle 变化。"
+          "explain": "peindre 的过去分词是 peint，属于 -eint 类不规则分词，不能按规则写成 peindu。复合过去时 a peint 呈现一次完成事件；avoir 助动词，分词不随 elle 变化。",
+          "locales": {
+            "fr": {
+              "explain": "Le participe passé de peindre est peint, un participe irrégulier en -eint ; on ne peut pas l'écrire régulièrement peindu. Le passé composé a peint présente un événement accompli ; l'auxiliaire est avoir et le participe ne varie pas avec elle."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Répartition d'aspect entre passé composé et imparfait (2)"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-l1-3",
@@ -469,7 +725,12 @@
           ],
           "answer": 0,
           "translation": "那时，他在一家小书店___；去年，他___了自己的店。",
-          "explain": "À cette époque 引出过去持续的状态或习惯，用未完成过去时 travaillait；l'année dernière 的创业是有界限的完成事件，用复合过去时 a ouvert。a travaillé 会把「那时的工作」写成完成阶段，ouvrait 会把创业写成背景；avait travaillé 表示在另一过去动作之前已经工作，与「那时」这一背景锚点不符。"
+          "explain": "À cette époque 引出过去持续的状态或习惯，用未完成过去时 travaillait；l'année dernière 的创业是有界限的完成事件，用复合过去时 a ouvert。a travaillé 会把「那时的工作」写成完成阶段，ouvrait 会把创业写成背景；avait travaillé 表示在另一过去动作之前已经工作，与「那时」这一背景锚点不符。",
+          "locales": {
+            "fr": {
+              "explain": "À cette époque introduit un état ou une habitude durable dans le passé, d'où l'imparfait travaillait ; la création de l'année dernière est un événement accompli et borné, d'où le passé composé a ouvert. a travaillé ferait du travail de cette époque une étape accomplie et ouvrait ferait de la création un arrière-plan ; avait travaillé exprime un travail accompli avant une autre action passée, ce qui ne correspond pas à l'ancrage d'arrière-plan « à cette époque »."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q20",
@@ -483,7 +744,12 @@
           ],
           "answer": 3,
           "translation": "他在这家工厂___了十年，然后___了辞呈。",
-          "explain": "dix ans 这一有始有终的经历被整体呈现为完成阶段，puis 又把它接到下一个完成事件上，所以用复合过去时 a travaillé、a donné。持续时间长并不自动要求未完成过去时；travaillait 更适合描写背景或习惯，而且与「十年」这样的计量搭配不自然；donnait 会把递辞呈写成背景；avait travaillé 需要更早的参照点。"
+          "explain": "dix ans 这一有始有终的经历被整体呈现为完成阶段，puis 又把它接到下一个完成事件上，所以用复合过去时 a travaillé、a donné。持续时间长并不自动要求未完成过去时；travaillait 更适合描写背景或习惯，而且与「十年」这样的计量搭配不自然；donnait 会把递辞呈写成背景；avait travaillé 需要更早的参照点。",
+          "locales": {
+            "fr": {
+              "explain": "L'expérience de dix ans, avec un début et une fin, est présentée dans son ensemble comme une étape accomplie, et puis la relie à l'événement accompli suivant : d'où le passé composé a travaillé, a donné. Une durée longue n'impose pas l'imparfait ; travaillait conviendrait mieux à un arrière-plan ou à une habitude et s'accorde mal avec une mesure comme « dix ans » ; donnait ferait de la démission un arrière-plan ; avait travaillé exigerait un point de référence antérieur."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q21",
@@ -497,7 +763,12 @@
           ],
           "answer": 2,
           "translation": "这个决定在长时间讨论后终于___，所有人都鼓了掌。",
-          "explain": "被动语态由 être 加过去分词构成；这里把「作出决定」呈现为一次完成事件，用复合过去时被动 a été prise，分词与 la décision 阴性单数配合。était prise 会把它写成当时的状态；a pris 是主动结构，la décision 会变成「拿」这个动作的发出者，意义不通；avait été prise 是愈过去时被动，需要更早的过去参照点。"
+          "explain": "被动语态由 être 加过去分词构成；这里把「作出决定」呈现为一次完成事件，用复合过去时被动 a été prise，分词与 la décision 阴性单数配合。était prise 会把它写成当时的状态；a pris 是主动结构，la décision 会变成「拿」这个动作的发出者，意义不通；avait été prise 是愈过去时被动，需要更早的过去参照点。",
+          "locales": {
+            "fr": {
+              "explain": "La voix passive se forme avec être et le participe passé ; ici, « prendre la décision » est présenté comme un événement accompli, d'où le passif au passé composé a été prise, le participe s'accordant au féminin singulier avec la décision. était prise en ferait l'état de ce moment-là ; a pris est une structure active où la décision deviendrait l'auteur de l'action « prendre », ce qui n'a pas de sens ; avait été prise est un passif au plus-que-parfait qui exige un point de référence passé antérieur."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q22",
@@ -510,7 +781,12 @@
             "t"
           ],
           "translation": "上周日她们___看我们。",
-          "explain": "venir 的过去分词是 venu（-u 类不规则分词）；复合过去时用 être 作助动词，分词与主语 elles 阴性复数配合，写成 venues。不能只写 venu 或 venue；dimanche dernier 表明这是一次完成事件。"
+          "explain": "venir 的过去分词是 venu（-u 类不规则分词）；复合过去时用 être 作助动词，分词与主语 elles 阴性复数配合，写成 venues。不能只写 venu 或 venue；dimanche dernier 表明这是一次完成事件。",
+          "locales": {
+            "fr": {
+              "explain": "Le participe passé de venir est venu (participe irrégulier en -u) ; au passé composé, venir prend l'auxiliaire être et le participe s'accorde au féminin pluriel avec elles, d'où venues. On n'écrit pas seulement venu ou venue ; dimanche dernier indique qu'il s'agit d'un événement accompli."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q23",
@@ -533,7 +809,12 @@
             "dire"
           ],
           "translation": "她说了些什么。",
-          "explain": "rien 是否定代词，放在助动词与过去分词之间：Elle n'a rien dit。否定里不再叠加 pas。dire 的过去分词是 dit（不规则形式）；复合过去时把「什么也没说」呈现为一次完成事件。disait 是未完成过去时，dire 是不定式，都不能作这里的谓语。"
+          "explain": "rien 是否定代词，放在助动词与过去分词之间：Elle n'a rien dit。否定里不再叠加 pas。dire 的过去分词是 dit（不规则形式）；复合过去时把「什么也没说」呈现为一次完成事件。disait 是未完成过去时，dire 是不定式，都不能作这里的谓语。",
+          "locales": {
+            "fr": {
+              "explain": "rien est un pronom négatif et se place entre l'auxiliaire et le participe passé : Elle n'a rien dit. On n'ajoute pas pas dans cette négation. Le participe passé de dire est dit (forme irrégulière) ; le passé composé présente « n'avoir rien dit » comme un événement accompli. disait est un imparfait et dire un infinitif : ni l'un ni l'autre ne peut être le verbe conjugué de cette phrase."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q24",
@@ -546,7 +827,12 @@
             "a"
           ],
           "translation": "他___了六点的火车。",
-          "explain": "prendre 的过去分词是 pris（-is 类不规则分词），不是 prendu，也不是未完成过去时 prenait。复合过去时 a pris 呈现一次完成事件；avoir 助动词，分词不随 il 变化。"
+          "explain": "prendre 的过去分词是 pris（-is 类不规则分词），不是 prendu，也不是未完成过去时 prenait。复合过去时 a pris 呈现一次完成事件；avoir 助动词，分词不随 il 变化。",
+          "locales": {
+            "fr": {
+              "explain": "Le participe passé de prendre est pris (participe irrégulier en -is), non prendu, et ce n'est pas non plus l'imparfait prenait. Le passé composé a pris présente un événement accompli ; l'auxiliaire est avoir et le participe ne varie pas avec il."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q25",
@@ -560,7 +846,12 @@
           ],
           "answer": 2,
           "translation": "她___答案，于是她___了问题。",
-          "explain": "两个先后完成的动作：先「没有得到答案」，再「提出问题」，都用复合过去时。否定 ne...pas 夹住助动词 a；avoir 的过去分词是 eu（-u 类），poser 的是 posé（-er 类）。n'avait pas / posait 会把两句都写成背景；n'a pas eu / posait 时态不一致；n'avait pas eu 是愈过去时，表示更早完成，与 alors 的连续事件不符。"
+          "explain": "两个先后完成的动作：先「没有得到答案」，再「提出问题」，都用复合过去时。否定 ne...pas 夹住助动词 a；avoir 的过去分词是 eu（-u 类），poser 的是 posé（-er 类）。n'avait pas / posait 会把两句都写成背景；n'a pas eu / posait 时态不一致；n'avait pas eu 是愈过去时，表示更早完成，与 alors 的连续事件不符。",
+          "locales": {
+            "fr": {
+              "explain": "Deux actions accomplies successives : d'abord « ne pas obtenir la réponse », puis « poser la question », toutes deux au passé composé. La négation ne...pas encadre l'auxiliaire a ; le participe passé de avoir est eu (en -u), celui de poser est posé (en -er). n'avait pas / posait ferait des deux phrases un arrière-plan ; n'a pas eu / posait mélange les temps ; n'avait pas eu est un plus-que-parfait qui exprime un accompli antérieur, incompatible avec la succession marquée par alors."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q26",
@@ -574,9 +865,19 @@
           ],
           "answer": 0,
           "translation": "那天早上，他___了那封信；三点一刻，他___。",
-          "explain": "两个有界限的动作先后完成：a lu、est sorti。时间词 ce matin-là 与 à trois heures et quart 标出先后，不依赖连接词。lisait / sortait 会把它们写成背景或习惯；lisait / est sorti 时态不一致；avait lu / sortait 改变叙事层次。"
+          "explain": "两个有界限的动作先后完成：a lu、est sorti。时间词 ce matin-là 与 à trois heures et quart 标出先后，不依赖连接词。lisait / sortait 会把它们写成背景或习惯；lisait / est sorti 时态不一致；avait lu / sortait 改变叙事层次。",
+          "locales": {
+            "fr": {
+              "explain": "Deux actions bornées accomplies successivement : a lu, est sorti. Les indications ce matin-là et à trois heures et quart marquent la succession sans dépendre d'un connecteur. lisait / sortait en ferait un arrière-plan ou une habitude ; lisait / est sorti mélange les temps ; avait lu / sortait changerait les niveaux du récit."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Répartition d'aspect entre passé composé et imparfait (3)"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-l1-4",
@@ -596,7 +897,12 @@
           ],
           "answer": 2,
           "translation": "老师提出问题的时候，我立刻___有一处错误。",
-          "explain": "「立刻明白」是一个有界限的瞬间完成事件，用复合过去时 ai compris；comprendre 的过去分词是 compris（-i/-is 类）。comprenais 会把理解写成持续状态，与 tout de suite 的瞬间性不符；avais compris 表示在另一过去动作之前已经明白；comprendrais 是条件式。从句 il y avait 是当时的状态，保持不变。"
+          "explain": "「立刻明白」是一个有界限的瞬间完成事件，用复合过去时 ai compris；comprendre 的过去分词是 compris（-i/-is 类）。comprenais 会把理解写成持续状态，与 tout de suite 的瞬间性不符；avais compris 表示在另一过去动作之前已经明白；comprendrais 是条件式。从句 il y avait 是当时的状态，保持不变。",
+          "locales": {
+            "fr": {
+              "explain": "« Comprendre immédiatement » est un événement ponctuel accompli et borné, d'où le passé composé ai compris ; le participe passé de comprendre est compris (type -i/-is). comprenais ferait de la compréhension un état durable, ce qui contredit le caractère instantané de tout de suite ; avais compris exprime un accompli antérieur à une autre action passée ; comprendrais est un conditionnel. La subordonnée il y avait exprime l'état de ce moment-là et reste inchangée."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q28",
@@ -610,7 +916,12 @@
           ],
           "answer": 3,
           "translation": "昨晚，我们___了一部电影，然后___了一杯。",
-          "explain": "两个先后完成的动作：voir → vu（-u 类），prendre → pris（-i/-is 类）；都用复合过去时，avoir 助动词。voyions / prenions 会把动作写成背景或习惯；avons vu / prenions 时态不一致；avions vu 是愈过去时，需要更早的参照点。"
+          "explain": "两个先后完成的动作：voir → vu（-u 类），prendre → pris（-i/-is 类）；都用复合过去时，avoir 助动词。voyions / prenions 会把动作写成背景或习惯；avons vu / prenions 时态不一致；avions vu 是愈过去时，需要更早的参照点。",
+          "locales": {
+            "fr": {
+              "explain": "Deux actions accomplies successives : voir → vu (en -u), prendre → pris (en -i/-is) ; toutes deux au passé composé avec l'auxiliaire avoir. voyions / prenions en ferait un arrière-plan ou une habitude ; avons vu / prenions mélange les temps ; avions vu est un plus-que-parfait qui exige un point de référence antérieur."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q29",
@@ -623,7 +934,12 @@
             "t"
           ],
           "translation": "她___更早出发。",
-          "explain": "devoir 的过去分词是 dû，带长音符；avoir 助动词，分词不随主语 elle 变化。a dû + 不定式可以表示过去一次「不得不」。不要写成 du 或 dut；这里也不需要阴性配合。"
+          "explain": "devoir 的过去分词是 dû，带长音符；avoir 助动词，分词不随主语 elle 变化。a dû + 不定式可以表示过去一次「不得不」。不要写成 du 或 dut；这里也不需要阴性配合。",
+          "locales": {
+            "fr": {
+              "explain": "Le participe passé de devoir est dû, avec un accent circonflexe ; l'auxiliaire est avoir et le participe ne varie pas avec elle. a dû + infinitif peut exprimer un « avoir été obligé de » passé. On n'écrit ni du ni dut ; aucun accord au féminin n'est nécessaire ici."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q30",
@@ -637,7 +953,12 @@
           ],
           "answer": 1,
           "translation": "工程在三个月内___；六月时房子___就绪。",
-          "explain": "工程是被完成的，用被动语态；en trois mois 把它呈现为有界限的完成事件，用复合过去时被动 ont été terminés，分词与 les travaux（阳性复数）配合。后半句描写六月时的状态，用未完成过去时 était prête。étaient terminés 会把工程写成当时的状态；ont terminé 是主动结构，les travaux 不能这样作 terminer 的主语；ont été terminé 缺少配合。"
+          "explain": "工程是被完成的，用被动语态；en trois mois 把它呈现为有界限的完成事件，用复合过去时被动 ont été terminés，分词与 les travaux（阳性复数）配合。后半句描写六月时的状态，用未完成过去时 était prête。étaient terminés 会把工程写成当时的状态；ont terminé 是主动结构，les travaux 不能这样作 terminer 的主语；ont été terminé 缺少配合。",
+          "locales": {
+            "fr": {
+              "explain": "Les travaux sont subis, d'où la voix passive ; en trois mois les présente comme un événement accompli et borné, d'où le passif au passé composé ont été terminés, le participe s'accordant avec les travaux (masculin pluriel). La seconde partie décrit l'état en juin, d'où l'imparfait était prête. étaient terminés ferait des travaux l'état de ce moment-là ; ont terminé est une structure active où les travaux ne peuvent pas être le sujet de terminer ; ont été terminé omet l'accord."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q31",
@@ -661,7 +982,12 @@
             "aucun"
           ],
           "translation": "她买了一些花。",
-          "explain": "aucun 是否定限定词，要与名词性数一致：des fleurs 是阴性复数，改成 aucune fleur（单数）。整个否定宾语放在过去分词后：Elle n'a acheté aucune fleur。否定里不再加 pas；acheter 的过去分词是 acheté（-er 类）。"
+          "explain": "aucun 是否定限定词，要与名词性数一致：des fleurs 是阴性复数，改成 aucune fleur（单数）。整个否定宾语放在过去分词后：Elle n'a acheté aucune fleur。否定里不再加 pas；acheter 的过去分词是 acheté（-er 类）。",
+          "locales": {
+            "fr": {
+              "explain": "aucun est un déterminant négatif et doit s'accorder en genre et en nombre avec le nom : des fleurs est féminin pluriel, d'où aucune fleur (au singulier). Tout le complément négatif se place après le participe passé : Elle n'a acheté aucune fleur. On n'ajoute pas pas dans cette négation ; le participe passé de acheter est acheté (type -er)."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q32",
@@ -674,7 +1000,12 @@
             "t"
           ],
           "translation": "我们___了最简单的菜单。",
-          "explain": "choisir 是规则 -ir 动词，过去分词为 choisi；复合过去时 avons choisi 把选择呈现为一次完成事件。avoir 助动词，分词不随 nous 配合；不要写成 choisit 或 choisie。"
+          "explain": "choisir 是规则 -ir 动词，过去分词为 choisi；复合过去时 avons choisi 把选择呈现为一次完成事件。avoir 助动词，分词不随 nous 配合；不要写成 choisit 或 choisie。",
+          "locales": {
+            "fr": {
+              "explain": "choisir est un verbe régulier en -ir et son participe passé est choisi ; le passé composé avons choisi présente le choix comme un événement accompli. L'auxiliaire est avoir et le participe ne varie pas avec nous ; on n'écrit ni choisit ni choisie."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q33",
@@ -688,7 +1019,12 @@
           ],
           "answer": 1,
           "translation": "他___门：外面___黑。",
-          "explain": "「没有开门」是一次有界限的完成事件，用复合过去时否定 n'a pas ouvert；ouvrir 的过去分词是 ouvert（-ert 类）。外面天黑是当时持续的背景状态，用未完成过去时 faisait。n'ouvrait pas 会把「没开门」写成背景；a fait 会把天黑写成完成的天气事件，与原因背景不符。"
+          "explain": "「没有开门」是一次有界限的完成事件，用复合过去时否定 n'a pas ouvert；ouvrir 的过去分词是 ouvert（-ert 类）。外面天黑是当时持续的背景状态，用未完成过去时 faisait。n'ouvrait pas 会把「没开门」写成背景；a fait 会把天黑写成完成的天气事件，与原因背景不符。",
+          "locales": {
+            "fr": {
+              "explain": "« Ne pas ouvrir la porte » est un événement accompli et borné, d'où le passé composé négatif n'a pas ouvert ; le participe passé de ouvrir est ouvert (type -ert). Le froid et la nuit dehors sont l'état d'arrière-plan durable de ce moment-là, d'où l'imparfait faisait. n'ouvrait pas ferait de « ne pas ouvrir » un arrière-plan ; a fait ferait de la nuit un événement météorologique accompli, incompatible avec l'arrière-plan causal."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q34",
@@ -702,9 +1038,19 @@
           ],
           "answer": 1,
           "translation": "哪一段用有界限的事件推动叙事？",
-          "explain": "第二段先用 il pleuvait 描写背景，再用 a pris、est sortie 两个完成事件推进叙事。第一段全是未完成过去时，只有背景，没有事件推进；第三段把「拿伞」写成背景、把「出门」写成事件，层次不一致；第四段把天气写成完成事件，却把两个动作写成背景，重心颠倒。"
+          "explain": "第二段先用 il pleuvait 描写背景，再用 a pris、est sortie 两个完成事件推进叙事。第一段全是未完成过去时，只有背景，没有事件推进；第三段把「拿伞」写成背景、把「出门」写成事件，层次不一致；第四段把天气写成完成事件，却把两个动作写成背景，重心颠倒。",
+          "locales": {
+            "fr": {
+              "explain": "Le deuxième passage commence par il pleuvait pour décrire l'arrière-plan, puis fait avancer le récit avec deux événements accomplis, a pris et est sortie. Le premier passage est tout à l'imparfait : il n'y a qu'un arrière-plan, sans progression événementielle ; le troisième fait de « prendre le parapluie » un arrière-plan et de « sortir » un événement, ce qui mélange les niveaux ; le quatrième fait du temps un événement accompli mais des deux actions un arrière-plan, ce qui inverse l'équilibre."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Répartition d'aspect entre passé composé et imparfait (4)"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-l1-5",
@@ -724,7 +1070,12 @@
           ],
           "answer": 1,
           "translation": "哪一句是正确的？",
-          "explain": "被动语态由 être 加过去分词构成，助动词用 avoir 的复数形式 ont：ont été + écrit。过去分词 écrit 与被动主语 les lettres（阴性复数）配合，写成 écrites。第一项缺少配合；第三项助动词与主语不一致；第四项缺少 être，且 ont écrites 结构错误。"
+          "explain": "被动语态由 être 加过去分词构成，助动词用 avoir 的复数形式 ont：ont été + écrit。过去分词 écrit 与被动主语 les lettres（阴性复数）配合，写成 écrites。第一项缺少配合；第三项助动词与主语不一致；第四项缺少 être，且 ont écrites 结构错误。",
+          "locales": {
+            "fr": {
+              "explain": "La voix passive se forme avec être et le participe passé, et l'auxiliaire avoir se met au pluriel : ont été + écrit. Le participe écrit s'accorde avec le sujet passif les lettres (féminin pluriel), d'où écrites. La première proposition omet l'accord ; la troisième a un auxiliaire incompatible avec le sujet ; la quatrième omet être et la structure ont écrites est fautive."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q36",
@@ -738,7 +1089,12 @@
           ],
           "answer": 2,
           "translation": "那天，她___跟任何人说话，十八点___了家。",
-          "explain": "两个完成事件：n'a parlé à personne、est rentrée。personne 作否定代词放在过去分词后；parler 的分词是 parlé（-er 类）。rentrer 表示位置移动，用 être，分词与 elle 阴性单数配合 rentrée。ne parlait / rentrait 会把两句写成背景；n'a parlé / rentrait 时态不一致；n'avait parlé 是愈过去时，需要更早的参照点。"
+          "explain": "两个完成事件：n'a parlé à personne、est rentrée。personne 作否定代词放在过去分词后；parler 的分词是 parlé（-er 类）。rentrer 表示位置移动，用 être，分词与 elle 阴性单数配合 rentrée。ne parlait / rentrait 会把两句写成背景；n'a parlé / rentrait 时态不一致；n'avait parlé 是愈过去时，需要更早的参照点。",
+          "locales": {
+            "fr": {
+              "explain": "Deux événements accomplis : n'a parlé à personne, est rentrée. personne est un pronom négatif qui se place après le participe passé ; le participe de parler est parlé (type -er). rentrer exprime un déplacement et se conjugue avec être ; le participe s'accorde au féminin singulier avec elle, d'où rentrée. ne parlait / rentrait ferait des deux phrases un arrière-plan ; n'a parlé / rentrait mélange les temps ; n'avait parlé est un plus-que-parfait qui exige un point de référence antérieur."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q37",
@@ -751,7 +1107,12 @@
             "t"
           ],
           "translation": "他们___了这个故事。",
-          "explain": "croire 的过去分词是 cru（-u 类不规则分词），不是 croyu 或 croit。复合过去时 ont cru 呈现一次完成事件；avoir 助动词，分词不随 ils 配合。"
+          "explain": "croire 的过去分词是 cru（-u 类不规则分词），不是 croyu 或 croit。复合过去时 ont cru 呈现一次完成事件；avoir 助动词，分词不随 ils 配合。",
+          "locales": {
+            "fr": {
+              "explain": "Le participe passé de croire est cru (participe irrégulier en -u), non croyu ni croit. Le passé composé ont cru présente un événement accompli ; l'auxiliaire est avoir et le participe ne varie pas avec ils."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q38",
@@ -789,7 +1150,12 @@
             "resté"
           ],
           "translation": "昨天晚上，下雨，我们留在家里。",
-          "explain": "il pleuvait 是当时持续的背景天气，用未完成过去时；nous sommes restés 是有界限的完成事件。rester 用 être 作助动词，分词与 nous 配合，写成 restés。pleuvoir 的复合过去时 il a plu 会把天气写成一次完成事件，与背景作用不符；restions 会把「留在家里」写成背景。题目明确要求「留在家里」是完成事件，所以用 nous sommes restés；restions 只写背景，不符合要求。"
+          "explain": "il pleuvait 是当时持续的背景天气，用未完成过去时；nous sommes restés 是有界限的完成事件。rester 用 être 作助动词，分词与 nous 配合，写成 restés。pleuvoir 的复合过去时 il a plu 会把天气写成一次完成事件，与背景作用不符；restions 会把「留在家里」写成背景。题目明确要求「留在家里」是完成事件，所以用 nous sommes restés；restions 只写背景，不符合要求。",
+          "locales": {
+            "fr": {
+              "explain": "il pleuvait est le temps qu'il faisait, un arrière-plan durable, d'où l'imparfait ; nous sommes restés est un événement accompli et borné. rester prend l'auxiliaire être et le participe s'accorde avec nous, d'où restés. Le passé composé il a plu ferait de la pluie un événement accompli, incompatible avec son rôle d'arrière-plan ; restions ferait de « rester à la maison » un arrière-plan. L'énoncé demande explicitement que « rester à la maison » soit un événement accompli : on emploie donc nous sommes restés ; restions ne décrit qu'un arrière-plan et ne répond pas à la consigne."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q39",
@@ -803,7 +1169,12 @@
           ],
           "answer": 0,
           "translation": "昨天，两姐妹很早___，她们___了火车，晚上又___。",
-          "explain": "三个有界限的完成事件依次发生，用复合过去时；partir 和 revenir 用 être，分词与 les deux sœurs（阴性复数）配合：sont parties、sont revenues；prendre 用 avoir，分词 pris（-i/-is 类）。第二项全部缺少阴性复数配合；第三项把「乘火车」写成未完成过去时，破坏事件链；第四项把「出发」和「回来」都写成背景，只剩「乘火车」是事件。"
+          "explain": "三个有界限的完成事件依次发生，用复合过去时；partir 和 revenir 用 être，分词与 les deux sœurs（阴性复数）配合：sont parties、sont revenues；prendre 用 avoir，分词 pris（-i/-is 类）。第二项全部缺少阴性复数配合；第三项把「乘火车」写成未完成过去时，破坏事件链；第四项把「出发」和「回来」都写成背景，只剩「乘火车」是事件。",
+          "locales": {
+            "fr": {
+              "explain": "Trois événements accomplis et bornés se succèdent, au passé composé ; partir et revenir prennent être et leur participe s'accorde au féminin pluriel avec les deux sœurs : sont parties, sont revenues ; prendre prend avoir et son participe est pris (type -i/-is). La deuxième proposition omet partout l'accord féminin pluriel ; la troisième met « prendre le train » à l'imparfait et brise la chaîne événementielle ; la quatrième fait du départ et du retour un arrière-plan et ne laisse comme événement que « prendre le train »."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q40",
@@ -817,7 +1188,12 @@
           ],
           "answer": 2,
           "translation": "一家人___了布列塔尼，___了大海，立刻___为什么有人向他们推荐这个村子。",
-          "explain": "三个动作依次完成，用复合过去时。arriver 用 être，分词与 la famille（阴性单数）配合 arrivée；apercevoir 和 comprendre 用 avoir，分词分别为 aperçu（-u 类）和 compris（-i/-is 类），不随主语配合。第一项 arrivé 缺少配合；第二项 aperçue、comprise 错误地与主语配合；第四项 comprise 同样错误。"
+          "explain": "三个动作依次完成，用复合过去时。arriver 用 être，分词与 la famille（阴性单数）配合 arrivée；apercevoir 和 comprendre 用 avoir，分词分别为 aperçu（-u 类）和 compris（-i/-is 类），不随主语配合。第一项 arrivé 缺少配合；第二项 aperçue、comprise 错误地与主语配合；第四项 comprise 同样错误。",
+          "locales": {
+            "fr": {
+              "explain": "Trois actions accomplies successives, au passé composé. arriver prend être et le participe s'accorde au féminin singulier avec la famille : arrivée ; apercevoir et comprendre prennent avoir, avec les participes aperçu (type -u) et compris (type -i/-is), sans accord avec le sujet. La première proposition omet l'accord de arrivé ; la deuxième accorde à tort aperçue et comprise avec le sujet ; la quatrième commet la même erreur avec comprise."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q41",
@@ -831,7 +1207,12 @@
           ],
           "answer": 1,
           "translation": "徒步者们早上___，他们___了很久，___了两个小时才回来。",
-          "explain": "三个完成事件依次发生：repartir 用 être，分词与 les randonneurs（阳性复数）配合 sont repartis；marcher 用 avoir，分词 marché（-er 类）；mettre 用 avoir，分词 mis（-i/-is 类）。第一项缺少配合；第三项把「走路」和「花时间」写成背景；第四项把「再出发」写成背景，破坏事件链。"
+          "explain": "三个完成事件依次发生：repartir 用 être，分词与 les randonneurs（阳性复数）配合 sont repartis；marcher 用 avoir，分词 marché（-er 类）；mettre 用 avoir，分词 mis（-i/-is 类）。第一项缺少配合；第三项把「走路」和「花时间」写成背景；第四项把「再出发」写成背景，破坏事件链。",
+          "locales": {
+            "fr": {
+              "explain": "Trois événements accomplis successifs : repartir prend être et le participe s'accorde au masculin pluriel avec les randonneurs, d'où sont repartis ; marcher prend avoir, d'où ont marché (type -er) ; mettre prend avoir, d'où ont mis (type -i/-is). La première proposition omet l'accord ; la troisième fait de « marcher » et de « mettre du temps » un arrière-plan ; la quatrième fait du nouveau départ un arrière-plan et brise la chaîne événementielle."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l1-q42",
@@ -845,9 +1226,19 @@
           ],
           "answer": 3,
           "translation": "女孩们___了阁楼，她们___祖母的旧箱子。",
-          "explain": "两个完成事件：monter 用 être，分词与 les filles（阴性复数）配合 sont montées；reconnaître 用 avoir，分词 reconnu（-u 类），不随主语配合。第一项缺少配合；第二项 reconnue 错误地与主语配合；第三项 montaient 把「上楼」写成背景，与 et 后的完成事件层次不一致。"
+          "explain": "两个完成事件：monter 用 être，分词与 les filles（阴性复数）配合 sont montées；reconnaître 用 avoir，分词 reconnu（-u 类），不随主语配合。第一项缺少配合；第二项 reconnue 错误地与主语配合；第三项 montaient 把「上楼」写成背景，与 et 后的完成事件层次不一致。",
+          "locales": {
+            "fr": {
+              "explain": "Deux événements accomplis : monter prend être et le participe s'accorde au féminin pluriel avec les filles, d'où sont montées ; reconnaître prend avoir et son participe est reconnu (type -u), sans accord avec le sujet. La première proposition omet l'accord ; la deuxième accorde à tort reconnue avec le sujet ; la troisième met « monter au grenier » à l'imparfait, ce qui rompt l'homogénéité avec l'événement accompli introduit par et."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Répartition d'aspect entre passé composé et imparfait (5)"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-l2-1",
@@ -867,7 +1258,12 @@
           ],
           "answer": 2,
           "translation": "我们到电影院时，电影___十分钟了。",
-          "explain": "电影开始于「我们到达」这一过去参照点之前，并且持续到参照点，用愈过去时 avait déjà commencé；depuis dix minutes 与愈过去时搭配，表示状态从更早持续到参照点。a déjà commencé 是复合过去时，把开始呈现为与到达同一层的事件；commencer 是点事件；表示「已经开始十分钟」要用愈过去时 avait commencé。未完成过去时 commençait 只描写开始的动作本身，不表示状态持续到参照点。aurait commencé 是条件式，表示推测或转述，不是这里的事实陈述。"
+          "explain": "电影开始于「我们到达」这一过去参照点之前，并且持续到参照点，用愈过去时 avait déjà commencé；depuis dix minutes 与愈过去时搭配，表示状态从更早持续到参照点。a déjà commencé 是复合过去时，把开始呈现为与到达同一层的事件；commencer 是点事件；表示「已经开始十分钟」要用愈过去时 avait commencé。未完成过去时 commençait 只描写开始的动作本身，不表示状态持续到参照点。aurait commencé 是条件式，表示推测或转述，不是这里的事实陈述。",
+          "locales": {
+            "fr": {
+              "explain": "Le film a commencé avant le point de référence passé « notre arrivée » et durait encore à ce point : d'où le plus-que-parfait avait déjà commencé ; depuis dix minutes avec le plus-que-parfait indique un état qui se prolonge depuis un moment antérieur jusqu'au point de référence. a déjà commencé est un passé composé qui situerait le début au même niveau que l'arrivée ; commencer est un événement ponctuel, et « déjà commencé depuis dix minutes » appelle le plus-que-parfait avait commencé. L'imparfait commençait décrit seulement l'action de commencer, non un état qui se prolonge jusqu'au point de référence. aurait commencé est un conditionnel qui exprime une conjecture ou une reprise d'information, non un fait constaté ici."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q2",
@@ -881,7 +1277,12 @@
           ],
           "answer": 0,
           "translation": "房子里___安静：大家都已经___。",
-          "explain": "silencieuse 是当时的状态，用未完成过去时 était；tout le monde 已经睡下，这个动作发生在「当时」之前并造成安静的状态，用愈过去时 s'était couché。代词式动词的助动词用 être 的未完成过去时 était，自反代词 se 与 tout le monde 一致。a été / s'est couché 会把状态和动作都写成同一层完成事件；était / s'est couché 缺少先完成性；avait été 是愈过去时的被动或状态，与 silencieuse 的描写不搭。"
+          "explain": "silencieuse 是当时的状态，用未完成过去时 était；tout le monde 已经睡下，这个动作发生在「当时」之前并造成安静的状态，用愈过去时 s'était couché。代词式动词的助动词用 être 的未完成过去时 était，自反代词 se 与 tout le monde 一致。a été / s'est couché 会把状态和动作都写成同一层完成事件；était / s'est couché 缺少先完成性；avait été 是愈过去时的被动或状态，与 silencieuse 的描写不搭。",
+          "locales": {
+            "fr": {
+              "explain": "silencieuse est l'état de ce moment-là, d'où l'imparfait était ; tout le monde s'était déjà couché, action antérieure à ce moment et à l'origine du silence, d'où le plus-que-parfait s'était couché. Pour un verbe pronominal, l'auxiliaire être se met à l'imparfait : était, et le pronom réfléchi se s'accorde avec tout le monde. a été / s'est couché situerait l'état et l'action au même niveau d'événements accomplis ; était / s'est couché omet l'antériorité accomplie ; avait été est un plus-que-parfait passif ou d'état, incompatible avec la description silencieuse."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q3",
@@ -894,7 +1295,12 @@
             "t"
           ],
           "translation": "她把前一天___的那些信寄了出去。",
-          "explain": "关系代词 que 指 les lettres，是 écrire 的直接宾语，并且位于过去分词之前，所以分词要与它配合：阴性复数 écrites。愈过去时 avait écrit 表示「写信」在「寄信」之前完成；主句 a envoyé 是复合过去时的完成事件。不能写 écrit 或 écrite。"
+          "explain": "关系代词 que 指 les lettres，是 écrire 的直接宾语，并且位于过去分词之前，所以分词要与它配合：阴性复数 écrites。愈过去时 avait écrit 表示「写信」在「寄信」之前完成；主句 a envoyé 是复合过去时的完成事件。不能写 écrit 或 écrite。",
+          "locales": {
+            "fr": {
+              "explain": "Le pronom relatif que reprend les lettres, complément d'objet direct de écrire, et il est placé avant le participe passé : le participe s'accorde donc avec lui, au féminin pluriel, écrites. Le plus-que-parfait avait écrit indique que « écrire les lettres » est accompli avant « les envoyer » ; la principale a envoyé est un événement accompli au passé composé. On n'écrit ni écrit ni écrite."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q4",
@@ -924,7 +1330,12 @@
             "avant"
           ],
           "translation": "他吃了饭。他出门了。",
-          "explain": "「吃饭」先于「出门」完成，用愈过去时 avait mangé；「出门」是较晚的完成事件，用复合过去时 est sorti。déjà 放在助动词 avait 与分词 mangé 之间。题目要求以「Quand il est sorti」开头，因此先出现的从句是「出门」：Quand il est sorti, il avait déjà mangé。mangeait 是未完成过去时，a mangé 没有体现先完成性，avant 单独也不能构成完整的连接。"
+          "explain": "「吃饭」先于「出门」完成，用愈过去时 avait mangé；「出门」是较晚的完成事件，用复合过去时 est sorti。déjà 放在助动词 avait 与分词 mangé 之间。题目要求以「Quand il est sorti」开头，因此先出现的从句是「出门」：Quand il est sorti, il avait déjà mangé。mangeait 是未完成过去时，a mangé 没有体现先完成性，avant 单独也不能构成完整的连接。",
+          "locales": {
+            "fr": {
+              "explain": "« Manger » est accompli avant « sortir » : d'où le plus-que-parfait avait mangé ; « sortir » est l'événement accompli postérieur, au passé composé est sorti. déjà se place entre l'auxiliaire avait et le participe mangé. La consigne impose de commencer par « Quand il est sorti » : la subordonnée qui apparaît d'abord est donc « sortir » : Quand il est sorti, il avait déjà mangé. mangeait est un imparfait, a mangé n'exprime pas l'antériorité accomplie, et avant seul ne suffit pas à construire une liaison complète."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q5",
@@ -938,7 +1349,12 @@
           ],
           "answer": 3,
           "translation": "卡米耶把旅行中___的那些照片给朋友们看。",
-          "explain": "关系代词 que 指 les photos，是 prendre 的直接宾语，并且位于过去分词之前，分词要与它配合：阴性复数 prises。愈过去时 avait pris 表示拍照早于「给朋友看」这一过去事件；主句 a montré 是复合过去时。pris 缺少配合，prise 只与单数配合，prenait 是未完成过去时，不能构成愈过去时。"
+          "explain": "关系代词 que 指 les photos，是 prendre 的直接宾语，并且位于过去分词之前，分词要与它配合：阴性复数 prises。愈过去时 avait pris 表示拍照早于「给朋友看」这一过去事件；主句 a montré 是复合过去时。pris 缺少配合，prise 只与单数配合，prenait 是未完成过去时，不能构成愈过去时。",
+          "locales": {
+            "fr": {
+              "explain": "Le pronom relatif que reprend les photos, complément d'objet direct de prendre, et il est placé avant le participe passé : le participe s'accorde donc au féminin pluriel, prises. Le plus-que-parfait avait pris indique que les photos ont été prises avant l'événement passé « les montrer à ses amis » ; la principale a montré est au passé composé. pris omet l'accord, prise n'accorde qu'au singulier, prenait est un imparfait et ne peut pas former un plus-que-parfait."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q6",
@@ -951,7 +1367,12 @@
             "t"
           ],
           "translation": "他___的那个决定让所有人吃惊。",
-          "explain": "que 指 la décision，阴性单数，是 prendre 的直接宾语并前置，所以分词配合为 prise。愈过去时 avait pris 表示决定在「让所有人吃惊」之前已经作出；主句 a surpris 是复合过去时的完成事件。不能写 pris，也不要因为主语 il 而写成 pris。"
+          "explain": "que 指 la décision，阴性单数，是 prendre 的直接宾语并前置，所以分词配合为 prise。愈过去时 avait pris 表示决定在「让所有人吃惊」之前已经作出；主句 a surpris 是复合过去时的完成事件。不能写 pris，也不要因为主语 il 而写成 pris。",
+          "locales": {
+            "fr": {
+              "explain": "que reprend la décision, féminin singulier, complément d'objet direct de prendre et placé avant le participe : le participe s'accorde donc en prise. Le plus-que-parfait avait pris indique que la décision était déjà prise avant « surprendre tout le monde » ; la principale a surpris est un événement accompli au passé composé. On n'écrit pas pris, et ce n'est pas le sujet il qui commande l'accord."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q7",
@@ -965,7 +1386,12 @@
           ],
           "answer": 2,
           "translation": "我们到的时候，她还没有___。",
-          "explain": "「我们到达」是过去参照点；她「还没做完」在这个参照点之前已开始并持续到那时，用愈过去时 n'avait pas encore fini。否定 ne...pas 夹住助动词 avait，encore 放在 pas 后；finir 的分词是 fini。n'a pas encore fini 是复合过去时，会把「没做完」呈现为与到达同一层的事件；n'était pas encore fini 结构与配合都不对；n'aurait pas encore fini 是条件式过去时，表示推测或反事实。"
+          "explain": "「我们到达」是过去参照点；她「还没做完」在这个参照点之前已开始并持续到那时，用愈过去时 n'avait pas encore fini。否定 ne...pas 夹住助动词 avait，encore 放在 pas 后；finir 的分词是 fini。n'a pas encore fini 是复合过去时，会把「没做完」呈现为与到达同一层的事件；n'était pas encore fini 结构与配合都不对；n'aurait pas encore fini 是条件式过去时，表示推测或反事实。",
+          "locales": {
+            "fr": {
+              "explain": "« Notre arrivée » est le point de référence passé ; « elle n'a pas encore fini » a commencé avant ce point et se prolonge jusqu'à lui, d'où le plus-que-parfait n'avait pas encore fini. La négation ne...pas encadre l'auxiliaire avait et encore se place après pas ; le participe de finir est fini. n'a pas encore fini est un passé composé qui situerait « ne pas avoir fini » au même niveau que l'arrivée ; n'était pas encore fini a une structure et un accord fautifs ; n'aurait pas encore fini est un conditionnel passé qui exprime une conjecture ou un irréel."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q8",
@@ -991,7 +1417,12 @@
             "prévenait"
           ],
           "translation": "他通知了父母。",
-          "explain": "愈过去时的否定把 ne...pas 夹在助动词 avait 周围：Il n'avait pas prévenu ses parents。prévenir 的过去分词是 prévenu（-u 类）；不能保留复合过去时的 a，也不能拆成 ne 和 avait 两个词块。"
+          "explain": "愈过去时的否定把 ne...pas 夹在助动词 avait 周围：Il n'avait pas prévenu ses parents。prévenir 的过去分词是 prévenu（-u 类）；不能保留复合过去时的 a，也不能拆成 ne 和 avait 两个词块。",
+          "locales": {
+            "fr": {
+              "explain": "À la forme négative du plus-que-parfait, ne...pas encadre l'auxiliaire avait : Il n'avait pas prévenu ses parents. Le participe passé de prévenir est prévenu (type -u) ; on ne garde pas le a du passé composé et l'on ne sépare pas ne et avait en deux blocs."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q9",
@@ -1005,9 +1436,19 @@
           ],
           "answer": 1,
           "translation": "我走进大厅时，那里___空荡荡的：学生们已经___了。",
-          "explain": "salle 的空是当时的状态，用未完成过去时 était vide；学生离开发生得更早，并造成这个状态，用愈过去时 avaient quitté。quitter 用 avoir 作助动词，过去分词 quitté 不随主语配合。a été / ont 会把状态和离开都写成同一层事件；était / ont 缺少先完成性；avait été 表示「空」在另一参照点之前已经如此，与「我进来时」的共时描写不符。"
+          "explain": "salle 的空是当时的状态，用未完成过去时 était vide；学生离开发生得更早，并造成这个状态，用愈过去时 avaient quitté。quitter 用 avoir 作助动词，过去分词 quitté 不随主语配合。a été / ont 会把状态和离开都写成同一层事件；était / ont 缺少先完成性；avait été 表示「空」在另一参照点之前已经如此，与「我进来时」的共时描写不符。",
+          "locales": {
+            "fr": {
+              "explain": "Le vide de la salle est l'état de ce moment-là, d'où l'imparfait était vide ; le départ des élèves s'est produit plus tôt et a produit cet état, d'où le plus-que-parfait avaient quitté. quitter prend l'auxiliaire avoir et son participe quitté ne s'accorde pas avec le sujet. a été / ont situerait l'état et le départ au même niveau d'événements ; était / ont omet l'antériorité accomplie ; avait été indique que « vide » l'était déjà avant un autre point de référence, ce qui ne correspond pas à la description simultanée « quand je suis entré »."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Plus-que-parfait : antériorité, habitude et atténuation (1)"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-l2-2",
@@ -1026,7 +1467,12 @@
             "e"
           ],
           "translation": "他们___不得不更早出发。",
-          "explain": "愈过去时由 avoir 的未完成过去时加过去分词构成：ils avaient dû，表示在某过去参照点之前已经发生。主语 ils 要求 avaient，不能写 avait；ont dû 是复合过去时，时态不符。"
+          "explain": "愈过去时由 avoir 的未完成过去时加过去分词构成：ils avaient dû，表示在某过去参照点之前已经发生。主语 ils 要求 avaient，不能写 avait；ont dû 是复合过去时，时态不符。",
+          "locales": {
+            "fr": {
+              "explain": "Le plus-que-parfait se forme avec l'imparfait de avoir et le participe passé : ils avaient dû, ce qui situe l'obligation accomplie avant un point de référence passé. Le sujet ils impose avaient, non avait ; ont dû est un passé composé et ne correspond pas au temps demandé."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q11",
@@ -1040,7 +1486,12 @@
           ],
           "answer": 1,
           "translation": "在「2010 年之前，他一直在乡下工作」中，愈过去时表达什么？",
-          "explain": "这里的参照点是 2010 年（那一年他搬到城里）。愈过去时 avait travaillé 把「一直乡下工作」呈现为这个参照点之前反复发生的习惯，并暗示该习惯在参照点已经结束。它不表示习惯延续到今天，也不表示搬家之后的动作，更不是将来时。若只是描写过去习惯而不强调参照点之前的完成，用未完成过去时 travaillait。"
+          "explain": "这里的参照点是 2010 年（那一年他搬到城里）。愈过去时 avait travaillé 把「一直乡下工作」呈现为这个参照点之前反复发生的习惯，并暗示该习惯在参照点已经结束。它不表示习惯延续到今天，也不表示搬家之后的动作，更不是将来时。若只是描写过去习惯而不强调参照点之前的完成，用未完成过去时 travaillait。",
+          "locales": {
+            "fr": {
+              "explain": "Le point de référence est ici l'année 2010 (celle où il a déménagé en ville). Le plus-que-parfait avait travaillé présente « avoir toujours travaillé à la campagne » comme une habitude répétée avant ce point, et suggère que cette habitude était terminée à ce point. Il n'indique ni une habitude qui dure encore aujourd'hui, ni une action postérieure au déménagement, et ce n'est pas un futur. Pour décrire simplement une habitude passée sans insister sur son achèvement avant un point de référence, on emploie l'imparfait travaillait."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q12",
@@ -1054,7 +1505,12 @@
           ],
           "answer": 1,
           "translation": "「J'étais venu vous demander un petit service」是什么意思？",
-          "explain": "这是愈过去时的委婉用法：说话人用「我本来是为了……」弱化请求，重点不在时间先后。它不表示「在另一个过去动作之前来过」，也不是将来或否定。这种用法常见于 venir 等动词，依赖语境，不能推广到所有愈过去时。"
+          "explain": "这是愈过去时的委婉用法：说话人用「我本来是为了……」弱化请求，重点不在时间先后。它不表示「在另一个过去动作之前来过」，也不是将来或否定。这种用法常见于 venir 等动词，依赖语境，不能推广到所有愈过去时。",
+          "locales": {
+            "fr": {
+              "explain": "Il s'agit de l'emploi atténué du plus-que-parfait : le locuteur adoucit sa demande avec « j'étais venu pour... », sans mettre l'accent sur l'ordre temporel. Cela ne signifie pas « être venu avant un autre événement passé », ce n'est ni un futur ni une négation. Cet emploi, fréquent avec venir, dépend du contexte et ne s'étend pas à tous les plus-que-parfaits."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q13",
@@ -1068,7 +1524,12 @@
           ],
           "answer": 0,
           "translation": "她在日出前就___了。",
-          "explain": "代词式动词的愈过去时由 s'être 的未完成过去时加过去分词构成：s'était levé(e)。se lever 中 se 是直接宾语，分词与主语 elle 阴性单数配合，写成 levée。levé 缺少配合；lever 是不定式；levait 是未完成过去时，不能与 s'était 组合。"
+          "explain": "代词式动词的愈过去时由 s'être 的未完成过去时加过去分词构成：s'était levé(e)。se lever 中 se 是直接宾语，分词与主语 elle 阴性单数配合，写成 levée。levé 缺少配合；lever 是不定式；levait 是未完成过去时，不能与 s'était 组合。",
+          "locales": {
+            "fr": {
+              "explain": "Le plus-que-parfait d'un verbe pronominal se forme avec l'imparfait de s'être et le participe passé : s'était levé(e). Dans se lever, se est complément d'objet direct ; le participe s'accorde donc au féminin singulier avec elle, d'où levée. levé omet l'accord ; lever est un infinitif ; levait est un imparfait et ne peut pas se combiner avec s'était."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q14",
@@ -1081,7 +1542,12 @@
             "t"
           ],
           "translation": "她们在会议前___过。",
-          "explain": "se parler 中 se 是间接宾语（「互相说」），所以过去分词不配合，写 parlé，不加 -e 或 -s。愈过去时由 s'étaient 加过去分词构成；不要因为主语 elles 是阴性复数就写成 parlées。"
+          "explain": "se parler 中 se 是间接宾语（「互相说」），所以过去分词不配合，写 parlé，不加 -e 或 -s。愈过去时由 s'étaient 加过去分词构成；不要因为主语 elles 是阴性复数就写成 parlées。",
+          "locales": {
+            "fr": {
+              "explain": "Dans se parler, se est complément d'objet indirect (« se parler l'un à l'autre ») : le participe passé ne s'accorde donc pas et reste parlé, sans -e ni -s. Le plus-que-parfait se forme avec s'étaient et le participe ; on n'écrit pas parlées sous prétexte que le sujet elles est féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q15",
@@ -1095,7 +1561,12 @@
           ],
           "answer": 0,
           "translation": "因为他___了钥匙，他___在门外。",
-          "explain": "「忘记钥匙」先于「留在门外」，先完成的事件用愈过去时 avait oublié，后发生的结果用复合过去时 est resté。rester 用 être 作助动词，分词 resté 与 il 阳性单数一致。a oublié 会把两件事压在同一层；restait 会把结果写成背景；était oublié 是被动或状态，不是「忘记了」的愈过去时。"
+          "explain": "「忘记钥匙」先于「留在门外」，先完成的事件用愈过去时 avait oublié，后发生的结果用复合过去时 est resté。rester 用 être 作助动词，分词 resté 与 il 阳性单数一致。a oublié 会把两件事压在同一层；restait 会把结果写成背景；était oublié 是被动或状态，不是「忘记了」的愈过去时。",
+          "locales": {
+            "fr": {
+              "explain": "« Oublier ses clés » précède « rester devant la porte » : l'événement antérieur se met au plus-que-parfait avait oublié, le résultat postérieur au passé composé est resté. rester prend l'auxiliaire être et le participe resté s'accorde au masculin singulier avec il. a oublié écraserait les deux faits au même niveau ; restait ferait du résultat un arrière-plan ; était oublié est un passif ou un état, non le plus-que-parfait de « oublier »."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q16",
@@ -1129,7 +1600,12 @@
             "lisait"
           ],
           "translation": "她没有看报纸。她出门了。",
-          "explain": "「没看报纸」先于「出门」，用愈过去时 n'avait pas lu；否定 ne...pas 夹住助动词 avait；「出门」是较晚的完成事件，用复合过去时 est sortie。lire 的过去分词是 lu（-u 类）。不能保留 a，也不能把 ne 和 avait 拆开。"
+          "explain": "「没看报纸」先于「出门」，用愈过去时 n'avait pas lu；否定 ne...pas 夹住助动词 avait；「出门」是较晚的完成事件，用复合过去时 est sortie。lire 的过去分词是 lu（-u 类）。不能保留 a，也不能把 ne 和 avait 拆开。",
+          "locales": {
+            "fr": {
+              "explain": "« Ne pas lire le journal » précède « sortir » : d'où le plus-que-parfait n'avait pas lu ; la négation ne...pas encadre l'auxiliaire avait ; « sortir » est l'événement accompli postérieur, au passé composé est sortie. Le participe passé de lire est lu (type -u). On ne garde pas a et l'on ne sépare pas ne et avait."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q17",
@@ -1143,7 +1619,12 @@
           ],
           "answer": 3,
           "translation": "房子里___安静：孩子们还没有___。",
-          "explain": "silencieuse 是当时的状态，用未完成过去时 était；孩子还没醒是更早开始、持续到参照点的状态，用愈过去时否定 ne s'étaient pas encore réveillés。否定夹住助动词 s'étaient；se réveiller 的 se 是直接宾语，分词与 les enfants 阳性复数配合 réveillés。a été / se sont 会把状态和动作都写成同一层；se sont 缺少先完成性；réveillé 缺少复数配合。"
+          "explain": "silencieuse 是当时的状态，用未完成过去时 était；孩子还没醒是更早开始、持续到参照点的状态，用愈过去时否定 ne s'étaient pas encore réveillés。否定夹住助动词 s'étaient；se réveiller 的 se 是直接宾语，分词与 les enfants 阳性复数配合 réveillés。a été / se sont 会把状态和动作都写成同一层；se sont 缺少先完成性；réveillé 缺少复数配合。",
+          "locales": {
+            "fr": {
+              "explain": "silencieuse est l'état de ce moment-là, d'où l'imparfait était ; « les enfants ne sont pas encore réveillés » est un état commencé plus tôt et qui dure jusqu'au point de référence, d'où le plus-que-parfait négatif ne s'étaient pas encore réveillés. La négation encadre l'auxiliaire s'étaient ; dans se réveiller, se est complément d'objet direct et le participe s'accorde au masculin pluriel avec les enfants, d'où réveillés. a été / se sont situerait l'état et l'action au même niveau ; se sont omet l'antériorité accomplie ; réveillé omet l'accord au pluriel."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l2-q18",
@@ -1180,9 +1661,19 @@
             "était"
           ],
           "translation": "她还没准备晚饭。我们到了。",
-          "explain": "「我们到达」是过去参照点；她「还没准备晚饭」在这个参照点之前的状态持续到那时，用愈过去时 n'avait pas encore préparé。否定 ne...pas 夹住助动词 avait，encore 放在 pas 后；préparer 的分词是 préparé（-er 类）。arriver 用 être，分词 arrivés 与 nous 配合。不能保留 a，也不能把 ne 与 avait 拆开。"
+          "explain": "「我们到达」是过去参照点；她「还没准备晚饭」在这个参照点之前的状态持续到那时，用愈过去时 n'avait pas encore préparé。否定 ne...pas 夹住助动词 avait，encore 放在 pas 后；préparer 的分词是 préparé（-er 类）。arriver 用 être，分词 arrivés 与 nous 配合。不能保留 a，也不能把 ne 与 avait 拆开。",
+          "locales": {
+            "fr": {
+              "explain": "« Notre arrivée » est le point de référence passé ; « elle n'a pas encore préparé le dîner » est un état commencé avant ce point et qui dure jusqu'à lui, d'où le plus-que-parfait n'avait pas encore préparé. La négation ne...pas encadre l'auxiliaire avait et encore se place après pas ; le participe de préparer est préparé (type -er). arriver prend être et le participe arrivés s'accorde avec nous. On ne garde pas a et l'on ne sépare pas ne de avait."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Plus-que-parfait : antériorité, habitude et atténuation (2)"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-l3-1",
@@ -1202,7 +1693,12 @@
           ],
           "answer": 3,
           "translation": "如果你当时通知了我，我___早点来。",
-          "explain": "si 从句 m'avais prévenu 是愈过去时，表示与过去事实相反的条件；主句必须用条件式过去时。pouvoir 的条件式过去时是 aurais pu（avoir 的条件式现在时 aurais 加过去分词 pu）。avais pu 是愈过去时，不能作主句；ai pu 是复合过去时；avais dû 是 devoir 的愈过去时，都不表示与过去事实相反的结果。"
+          "explain": "si 从句 m'avais prévenu 是愈过去时，表示与过去事实相反的条件；主句必须用条件式过去时。pouvoir 的条件式过去时是 aurais pu（avoir 的条件式现在时 aurais 加过去分词 pu）。avais pu 是愈过去时，不能作主句；ai pu 是复合过去时；avais dû 是 devoir 的愈过去时，都不表示与过去事实相反的结果。",
+          "locales": {
+            "fr": {
+              "explain": "La subordonnée si m'avais prévenu est au plus-que-parfait et exprime une condition contraire à la réalité passée ; la principale doit donc être au conditionnel passé. Le conditionnel passé de pouvoir est aurais pu (conditionnel présent de avoir, aurais, suivi du participe pu). avais pu est un plus-que-parfait et ne peut pas former la principale ; ai pu est un passé composé ; avais dû est un plus-que-parfait de devoir : aucun ne convient au résultat contraire à la réalité passée."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l3-q2",
@@ -1216,7 +1712,12 @@
           ],
           "answer": 2,
           "translation": "我___听你的建议；我把一切都搞砸了。",
-          "explain": "分号后的 j'ai tout gâché 说明现实结果已经发生，前面是对过去的反事实评价。devoir 的条件式过去时 aurais dû 加不定式表示「本该做而没做」，常带后悔或责备。ai dû 是复合过去时，表示当时确实不得不；avais dû 是愈过去时；avais pu 是 pouvoir 的愈过去时，都没有「本该」的责备语气。"
+          "explain": "分号后的 j'ai tout gâché 说明现实结果已经发生，前面是对过去的反事实评价。devoir 的条件式过去时 aurais dû 加不定式表示「本该做而没做」，常带后悔或责备。ai dû 是复合过去时，表示当时确实不得不；avais dû 是愈过去时；avais pu 是 pouvoir 的愈过去时，都没有「本该」的责备语气。",
+          "locales": {
+            "fr": {
+              "explain": "Le j'ai tout gâché après le point-virgule constate le résultat réel ; ce qui précède est un jugement rétrospectif sur le passé. Le conditionnel passé de devoir, aurais dû, suivi de l'infinitif, exprime « ce qu'il aurait fallu faire et qui n'a pas été fait », souvent avec un regret ou un reproche. ai dû est un passé composé et exprime une obligation réelle ; avais dû est un plus-que-parfait ; avais pu est un plus-que-parfait de pouvoir : aucun n'a le ton de reproche de « aurait dû »."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l3-q3",
@@ -1229,7 +1730,12 @@
             "x"
           ],
           "translation": "如果没有罢工，她们本来会一起出发。",
-          "explain": "Sans la grève 引出与过去事实相反的条件，主句用条件式过去时 seraient parties。助动词 être 要求过去分词与主语配合；elles 是阴性复数，所以用 parties。parti 是阳性单数，partie 是阴性单数，都不符合主语。"
+          "explain": "Sans la grève 引出与过去事实相反的条件，主句用条件式过去时 seraient parties。助动词 être 要求过去分词与主语配合；elles 是阴性复数，所以用 parties。parti 是阳性单数，partie 是阴性单数，都不符合主语。",
+          "locales": {
+            "fr": {
+              "explain": "Sans la grève introduit une condition contraire à la réalité passée, et la principale se met au conditionnel passé : seraient parties. L'auxiliaire être exige l'accord du participe passé avec le sujet ; elles est féminin pluriel, d'où parties. parti est masculin singulier, partie féminin singulier : aucun ne convient au sujet."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l3-q4",
@@ -1272,7 +1778,12 @@
             "verrait"
           ],
           "translation": "她没有看见路牌，所以走错了路。",
-          "explain": "源句是已完成的事实；改成与过去事实相反的条件句时，si 从句用愈过去时 avait vu，主句用条件式过去时。主句在前时不用逗号：Elle ne se serait pas trompée de route si elle avait vu le panneau。主语 elle 是阴性单数，代词式动词 se tromper 的 se 是直接宾语，过去分词 trompée 与主语配合。"
+          "explain": "源句是已完成的事实；改成与过去事实相反的条件句时，si 从句用愈过去时 avait vu，主句用条件式过去时。主句在前时不用逗号：Elle ne se serait pas trompée de route si elle avait vu le panneau。主语 elle 是阴性单数，代词式动词 se tromper 的 se 是直接宾语，过去分词 trompée 与主语配合。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase source est un fait accompli ; pour passer à l'irréel du passé, la subordonnée si se met au plus-que-parfait avait vu et la principale au conditionnel passé. Quand la principale vient en tête, on n'ajoute pas de virgule : Elle ne se serait pas trompée de route si elle avait vu le panneau. Le sujet elle est féminin singulier ; dans le verbe pronominal se tromper, se est complément d'objet direct et le participe passé trompée s'accorde avec le sujet."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l3-q5",
@@ -1286,7 +1797,12 @@
           ],
           "answer": 1,
           "translation": "如果我们当时想确保有座位，本来___在一月就预订。",
-          "explain": "si + 愈过去时 nous avions voulu 设定与过去事实相反的条件，主句必须用条件式过去时：il aurait fallu 加不定式。avait fallu 是愈过去时；faudrait 是条件式现在时；fallait 是未完成过去时，都不能与 si + 愈过去时搭配表示过去反事实的结果。"
+          "explain": "si + 愈过去时 nous avions voulu 设定与过去事实相反的条件，主句必须用条件式过去时：il aurait fallu 加不定式。avait fallu 是愈过去时；faudrait 是条件式现在时；fallait 是未完成过去时，都不能与 si + 愈过去时搭配表示过去反事实的结果。",
+          "locales": {
+            "fr": {
+              "explain": "si + plus-que-parfait nous avions voulu pose une condition contraire à la réalité passée ; la principale doit se mettre au conditionnel passé : il aurait fallu suivi de l'infinitif. avait fallu est un plus-que-parfait ; faudrait un conditionnel présent ; fallait un imparfait : aucun ne peut s'associer à si + plus-que-parfait pour exprimer un résultat contraire à la réalité passée."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l3-q6",
@@ -1312,7 +1828,12 @@
             "pas"
           ],
           "translation": "你没有提前通知我。",
-          "explain": "对过去未做之事的责备用 devoir 的条件式过去时 aurais dû 加不定式。me 是 prévenir 的直接宾语，放在不定式前；prévenir 保持不定式。devrais 是条件式现在时，指向现在；avais 是愈过去时的助动词，构成 Tu avais dû 会变成愈过去时；prévenu 是过去分词，不能直接跟在 dû 后；pas 在这里没有对应的否定结构。"
+          "explain": "对过去未做之事的责备用 devoir 的条件式过去时 aurais dû 加不定式。me 是 prévenir 的直接宾语，放在不定式前；prévenir 保持不定式。devrais 是条件式现在时，指向现在；avais 是愈过去时的助动词，构成 Tu avais dû 会变成愈过去时；prévenu 是过去分词，不能直接跟在 dû 后；pas 在这里没有对应的否定结构。",
+          "locales": {
+            "fr": {
+              "explain": "Pour reprocher à quelqu'un de ne pas avoir fait quelque chose dans le passé, on emploie le conditionnel passé de devoir, aurais dû, suivi de l'infinitif. me est complément d'objet direct de prévenir et se place devant l'infinitif ; prévenir reste à l'infinitif. devrais est un conditionnel présent tourné vers le présent ; avais est l'auxiliaire du plus-que-parfait et Tu avais dû formerait un plus-que-parfait ; prévenu est un participe passé qui ne peut pas suivre directement dû ; pas ne correspond ici à aucune structure négative."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l3-q7",
@@ -1326,9 +1847,19 @@
           ],
           "answer": 0,
           "translation": "据我们的消息，这位歌手去年秘密___一张新专辑。",
-          "explain": "Selon nos informations 标明消息来源，说明这条信息未经确认；l'année dernière 把事件定位在过去，对已发生的事作未经证实的报道要用条件式过去时 aurait enregistré。a enregistré 把它当作确认事实；enregistrerait 是条件式现在时，通常报道现在或将来；avait enregistré 是愈过去时，需要另一个过去参照点。"
+          "explain": "Selon nos informations 标明消息来源，说明这条信息未经确认；l'année dernière 把事件定位在过去，对已发生的事作未经证实的报道要用条件式过去时 aurait enregistré。a enregistré 把它当作确认事实；enregistrerait 是条件式现在时，通常报道现在或将来；avait enregistré 是愈过去时，需要另一个过去参照点。",
+          "locales": {
+            "fr": {
+              "explain": "Selon nos informations marque la source et indique que l'information n'est pas confirmée ; l'année dernière situe l'événement dans le passé, et l'on emploie le conditionnel passé aurait enregistré pour rapporter sans garantie un fait déjà accompli. a enregistré le présenterait comme un fait confirmé ; enregistrerait est un conditionnel présent, qui rapporte plutôt le présent ou le futur ; avait enregistré est un plus-que-parfait et exige un autre point de référence passé."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Conditionnel passé : regret, non-réalisé et conjecture (1)"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-l3-2",
@@ -1350,7 +1881,12 @@
             "n"
           ],
           "translation": "据调查人员说，两名徒步者可能已被大雪___。",
-          "explain": "Selon les enquêteurs 提示这是未经证实的消息，条件式过去时 auraient été bloqués 表示对过去事件的推测。结构是 avoir 的条件式现在时 auraient + été + 过去分词 bloqués；主语 les deux randonneurs 是阳性复数，bloqués 加 -s。"
+          "explain": "Selon les enquêteurs 提示这是未经证实的消息，条件式过去时 auraient été bloqués 表示对过去事件的推测。结构是 avoir 的条件式现在时 auraient + été + 过去分词 bloqués；主语 les deux randonneurs 是阳性复数，bloqués 加 -s。",
+          "locales": {
+            "fr": {
+              "explain": "Selon les enquêteurs signale une information non confirmée ; le conditionnel passé auraient été bloqués exprime une conjecture sur un événement passé. La structure est le conditionnel présent de avoir, auraient, + été + participe passé bloqués ; le sujet les deux randonneurs est masculin pluriel, d'où le -s de bloqués."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l3-q9",
@@ -1380,7 +1916,12 @@
             "hier"
           ],
           "translation": "据说盗窃发生在午夜。",
-          "explain": "On dit que 引出的消息在转述时可用条件式过去时，表示说话人不确认：Le vol aurait eu lieu à minuit。a eu lieu 是确认的复合过去时；avait eu lieu 是愈过去时；serait 是条件式现在时，不能表示已完成的过去事件；seront 是简单将来时。"
+          "explain": "On dit que 引出的消息在转述时可用条件式过去时，表示说话人不确认：Le vol aurait eu lieu à minuit。a eu lieu 是确认的复合过去时；avait eu lieu 是愈过去时；serait 是条件式现在时，不能表示已完成的过去事件；seront 是简单将来时。",
+          "locales": {
+            "fr": {
+              "explain": "On dit que introduit une information que l'on peut rapporter au conditionnel passé pour marquer que le locuteur ne la confirme pas : Le vol aurait eu lieu à minuit. a eu lieu est un passé composé confirmé ; avait eu lieu est un plus-que-parfait ; serait est un conditionnel présent qui ne peut pas exprimer un événement passé accompli ; seront est un futur simple."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l3-q10",
@@ -1394,7 +1935,12 @@
           ],
           "answer": 2,
           "translation": "据警方说，这些画夜间___盗走。",
-          "explain": "主语 les tableaux 是阳性复数，助动词用 auraient；被动结构中 être 的过去分词 été 永远不配合，所以是 auraient été volés，不能写 auraient étés。aurait été 是单数，与复数主语不符；avaient été 是愈过去时，把推测变成已确认的先后关系。"
+          "explain": "主语 les tableaux 是阳性复数，助动词用 auraient；被动结构中 être 的过去分词 été 永远不配合，所以是 auraient été volés，不能写 auraient étés。aurait été 是单数，与复数主语不符；avaient été 是愈过去时，把推测变成已确认的先后关系。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet les tableaux est masculin pluriel, d'où l'auxiliaire auraient ; dans une structure passive, le participe passé été ne s'accorde jamais, d'où auraient été volés, et non auraient étés. aurait été est au singulier et ne s'accorde pas avec le sujet pluriel ; avaient été est un plus-que-parfait qui transforme la conjecture en relation d'antériorité confirmée."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l3-q11",
@@ -1408,7 +1954,12 @@
           ],
           "answer": 3,
           "translation": "哪一句表达遗憾？",
-          "explain": "J'aurais aimé venir 是条件式过去时，mais j'étais en déplacement 给出相反的现实，说明愿望没有实现，属于遗憾。J'aimerais 是条件式现在时，愿望仍可能实现；Je viendrai 是简单将来时；Je suis venu 是已完成的复合过去时，都没有「本来想却没能」的反差。"
+          "explain": "J'aurais aimé venir 是条件式过去时，mais j'étais en déplacement 给出相反的现实，说明愿望没有实现，属于遗憾。J'aimerais 是条件式现在时，愿望仍可能实现；Je viendrai 是简单将来时；Je suis venu 是已完成的复合过去时，都没有「本来想却没能」的反差。",
+          "locales": {
+            "fr": {
+              "explain": "J'aurais aimé venir est un conditionnel passé, et mais j'étais en déplacement donne la réalité contraire : le souhait ne s'est pas réalisé, c'est un regret. J'aimerais est un conditionnel présent et le souhait reste réalisable ; Je viendrai est un futur simple ; Je suis venu est un passé composé accompli : aucun n'exprime l'écart entre « vouloir » et « ne pas avoir pu »."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l3-q12",
@@ -1421,7 +1972,12 @@
             "e"
           ],
           "translation": "昨晚我___宁可什么都不说，但我没敢。",
-          "explain": "hier soir 把情境定位在过去，mais je n'ai pas osé 说明现实与意愿相反，前面是对过去未实现意愿的表述。avoir 的条件式现在时第一人称是 aurais，加过去分词 préféré，构成条件式过去时 j'aurais préféré。答案是一个词，不带空格。"
+          "explain": "hier soir 把情境定位在过去，mais je n'ai pas osé 说明现实与意愿相反，前面是对过去未实现意愿的表述。avoir 的条件式现在时第一人称是 aurais，加过去分词 préféré，构成条件式过去时 j'aurais préféré。答案是一个词，不带空格。",
+          "locales": {
+            "fr": {
+              "explain": "hier soir situe la situation dans le passé, et mais je n'ai pas osé montre que la réalité contredit l'intention : ce qui précède exprime donc un souhait passé non réalisé. La première personne du conditionnel présent de avoir est aurais ; avec le participe préféré, on obtient le conditionnel passé j'aurais préféré. La réponse est un seul mot, sans espace."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l3-q13",
@@ -1435,7 +1991,12 @@
           ],
           "answer": 1,
           "translation": "昨天，如果多一点耐心，你___避免这场争吵。",
-          "explain": "Hier 和 avec un peu plus de patience 提出与过去事实相反的条件，主句用条件式过去时 aurais pu 加不定式 éviter。avais pu 是愈过去时；pourrais 是条件式现在时；as pu 是复合过去时，表示确实能够，都与「本来能却没有」相反。"
+          "explain": "Hier 和 avec un peu plus de patience 提出与过去事实相反的条件，主句用条件式过去时 aurais pu 加不定式 éviter。avais pu 是愈过去时；pourrais 是条件式现在时；as pu 是复合过去时，表示确实能够，都与「本来能却没有」相反。",
+          "locales": {
+            "fr": {
+              "explain": "Hier et avec un peu plus de patience posent une condition contraire à la réalité passée ; la principale se met au conditionnel passé aurais pu suivi de l'infinitif éviter. avais pu est un plus-que-parfait ; pourrais un conditionnel présent ; as pu un passé composé qui exprime une capacité réelle : tous contredisent « avoir pu mais ne pas l'avoir fait »."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l3-q14",
@@ -1462,9 +2023,19 @@
             "aurons"
           ],
           "translation": "这幅画当时在出售，但我们没有买。",
-          "explain": "条件式过去时 aurions pu 表示过去有机会或能力却没有实现；pu 后接不定式 acheter。avons 是现在时助动词，acheté 是过去分词，devions 是未完成过去时，aurons 是简单将来时，都不能表达「本来能买」。"
+          "explain": "条件式过去时 aurions pu 表示过去有机会或能力却没有实现；pu 后接不定式 acheter。avons 是现在时助动词，acheté 是过去分词，devions 是未完成过去时，aurons 是简单将来时，都不能表达「本来能买」。",
+          "locales": {
+            "fr": {
+              "explain": "Le conditionnel passé aurions pu exprime une occasion ou une capacité passée qui ne s'est pas réalisée ; pu est suivi de l'infinitif acheter. avons est un auxiliaire au présent, acheté un participe passé, devions un imparfait, aurons un futur simple : aucun ne peut exprimer « nous aurions pu acheter »."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Conditionnel passé : regret, non-réalisé et conjecture (2)"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-l4",
@@ -1484,7 +2055,12 @@
           ],
           "answer": 3,
           "translation": "这句话是什么意思？",
-          "explain": "serait 是条件式现在时，在这里表示传闻：消息来自别处，说话人不确认其真实性。选项一把它当成确定的意图，选项三把它变成确定预测，选项二把它理解成遗憾（那需要条件式过去时）。"
+          "explain": "serait 是条件式现在时，在这里表示传闻：消息来自别处，说话人不确认其真实性。选项一把它当成确定的意图，选项三把它变成确定预测，选项二把它理解成遗憾（那需要条件式过去时）。",
+          "locales": {
+            "fr": {
+              "explain": "serait est un conditionnel présent qui exprime ici une rumeur : la nouvelle vient d'ailleurs et le locuteur n'en confirme pas la vérité. La première proposition en fait une intention certaine, la troisième une prédiction certaine, la deuxième un regret (qui exigerait un conditionnel passé)."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l4-q2",
@@ -1498,7 +2074,12 @@
           ],
           "answer": 0,
           "translation": "据一条未经证实的消息，博物馆周一___关门。",
-          "explain": "Selon une information non confirmée 标明消息来源且未经证实，fermerait 是条件式现在时，正好表示说话人不担保的传闻；fermera 是简单将来时，表示确定预告；a fermé 是已确认的复合过去时；fermait 是未完成过去时，描述过去的习惯。"
+          "explain": "Selon une information non confirmée 标明消息来源且未经证实，fermerait 是条件式现在时，正好表示说话人不担保的传闻；fermera 是简单将来时，表示确定预告；a fermé 是已确认的复合过去时；fermait 是未完成过去时，描述过去的习惯。",
+          "locales": {
+            "fr": {
+              "explain": "Selon une information non confirmée marque une source et l'absence de confirmation ; fermerait est un conditionnel présent qui exprime précisément une rumeur que le locuteur ne garantit pas ; fermera est un futur simple et présente une annonce certaine ; a fermé est un passé composé confirmé ; fermait est un imparfait qui décrit une habitude passée."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l4-q3",
@@ -1511,7 +2092,12 @@
             "d"
           ],
           "translation": "据一条未经证实的消息，经理___在度假。",
-          "explain": "主语 le directeur 是第三人称单数，être 的条件式现在时是 serait（词干 ser- 加词尾 -ait），表示未经证实的现状。sera 是简单将来时，est 是已确认的现在时，都不能表达传闻。"
+          "explain": "主语 le directeur 是第三人称单数，être 的条件式现在时是 serait（词干 ser- 加词尾 -ait），表示未经证实的现状。sera 是简单将来时，est 是已确认的现在时，都不能表达传闻。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet le directeur est à la troisième personne du singulier ; le conditionnel présent de être est serait (radical ser- et terminaison -ait) et exprime une situation présente non confirmée. sera est un futur simple et est un présent confirmé : aucun ne peut exprimer la rumeur."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l4-q4",
@@ -1537,7 +2123,12 @@
             "est"
           ],
           "translation": "据说这对夫妇住在巴黎。",
-          "explain": "On dit que 引出的消息在转述时用条件式现在时，表示说话人不担保：Le couple habiterait à Paris。habiterait 由简单将来时词干 habiter- 加未完成过去时词尾 -ait 构成；habite 是已确认的现在时，habitera 是简单将来时，habiteraient 与单数主语 le couple 不配合，déjà 在这里没有对应的位置。"
+          "explain": "On dit que 引出的消息在转述时用条件式现在时，表示说话人不担保：Le couple habiterait à Paris。habiterait 由简单将来时词干 habiter- 加未完成过去时词尾 -ait 构成；habite 是已确认的现在时，habitera 是简单将来时，habiteraient 与单数主语 le couple 不配合，déjà 在这里没有对应的位置。",
+          "locales": {
+            "fr": {
+              "explain": "On dit que introduit une information que l'on peut rapporter au conditionnel présent pour marquer que le locuteur ne la garantit pas : Le couple habiterait à Paris. habiterait se forme avec le radical du futur simple habiter- et la terminaison d'imparfait -ait ; habite est un présent confirmé, habitera un futur simple, habiteraient ne s'accorde pas avec le sujet singulier le couple, et déjà ne correspond ici à aucune place."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l4-q5",
@@ -1550,7 +2141,12 @@
             "o"
           ],
           "translation": "据新闻界说，两名演员___在谈判中；尚无确认。",
-          "explain": "主语 les deux acteurs 是复数，être 的条件式现在时用 seraient；serait 是单数，seront 是简单将来时，sont 是已确认的现在时。句末 rien n'est confirmé 进一步说明这是未经证实的传闻。"
+          "explain": "主语 les deux acteurs 是复数，être 的条件式现在时用 seraient；serait 是单数，seront 是简单将来时，sont 是已确认的现在时。句末 rien n'est confirmé 进一步说明这是未经证实的传闻。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet les deux acteurs est pluriel, d'où le conditionnel présent seraient ; serait est au singulier, seront est un futur simple, sont un présent confirmé. La fin de phrase rien n'est confirmé précise qu'il s'agit d'une rumeur non confirmée."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l4-q6",
@@ -1564,7 +2160,12 @@
           ],
           "answer": 2,
           "translation": "这句话是什么意思？",
-          "explain": "sera 是简单将来时，但句子没有将来时间，而是根据「有人按门铃」推断此刻门外是谁，属于对现在的推测。它不是宣布明天的事，也不是转述别人的消息（那用条件式），更不是遗憾（那用条件式过去时）。"
+          "explain": "sera 是简单将来时，但句子没有将来时间，而是根据「有人按门铃」推断此刻门外是谁，属于对现在的推测。它不是宣布明天的事，也不是转述别人的消息（那用条件式），更不是遗憾（那用条件式过去时）。",
+          "locales": {
+            "fr": {
+              "explain": "sera est un futur simple, mais la phrase ne comporte pas de moment futur : le locuteur infère, à partir du fait que l'on sonne à la porte, qui se trouve derrière en ce moment ; c'est une supposition sur le présent. Il n'annonce pas le lendemain, ne rapporte pas la nouvelle d'autrui (ce qui demanderait le conditionnel) et n'exprime pas un regret (qui demanderait un conditionnel passé)."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l4-q7",
@@ -1578,9 +2179,19 @@
           ],
           "answer": 1,
           "translation": "哪一句中的简单将来时表达的是对现在的推测？",
-          "explain": "Elle sera sans doute encore au bureau 中，sera 是简单将来时，sans doute 和 encore 提示说话人根据现有信息推断她现在还在办公室，时间指向现在，属于简单将来时的推测。其余三句都有明确的将来时间或安排，是将来陈述。"
+          "explain": "Elle sera sans doute encore au bureau 中，sera 是简单将来时，sans doute 和 encore 提示说话人根据现有信息推断她现在还在办公室，时间指向现在，属于简单将来时的推测。其余三句都有明确的将来时间或安排，是将来陈述。",
+          "locales": {
+            "fr": {
+              "explain": "Dans Elle sera sans doute encore au bureau, sera est un futur simple, et sans doute avec encore indique que le locuteur infère, d'après les informations dont il dispose, qu'elle est encore au bureau maintenant : la référence temporelle est le présent, c'est une conjecture au futur simple. Les trois autres phrases comportent un moment futur ou un programme explicites et sont des énoncés au futur."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Conditionnel de rumeur et conjecture au futur"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-l5",
@@ -1600,7 +2211,12 @@
           ],
           "answer": 2,
           "translation": "在下面这段话里，现在时是什么用法？「昨晚我回到家。门开着。我走进去，发现一只猫睡在我床上。」",
-          "explain": "时间词 hier soir 和一连串推进的动作说明事情发生在过去；现在时把过去场景拉到眼前，这是叙事现在时。习惯现在时要有 chaque soir 这类反复标记；真理现在时陈述普遍规律；最近将来要指即将发生的事，这里都不符合。"
+          "explain": "时间词 hier soir 和一连串推进的动作说明事情发生在过去；现在时把过去场景拉到眼前，这是叙事现在时。习惯现在时要有 chaque soir 这类反复标记；真理现在时陈述普遍规律；最近将来要指即将发生的事，这里都不符合。",
+          "locales": {
+            "fr": {
+              "explain": "L'indicateur hier soir et la série d'actions qui avancent montrent que les faits se sont produits dans le passé ; le présent amène la scène passée sous les yeux : c'est le présent de narration. Le présent d'habitude exigerait une marque de répétition comme chaque soir ; le présent de vérité générale énonce une règle universelle ; le futur proche renvoie à un fait imminent : aucun ne correspond ici."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l5-q2",
@@ -1614,7 +2230,12 @@
           ],
           "answer": 3,
           "translation": "哪句话里的现在时表示最近将来？",
-          "explain": "Je te rappelle ce soir 用现在时加 ce soir，把今晚要发生的事呈现为已定或即将发生的安排，是最近将来用法。rappelais 是未完成过去时，ai rappelé 是复合过去时，rappellerai 是简单将来时，都不是现在时。"
+          "explain": "Je te rappelle ce soir 用现在时加 ce soir，把今晚要发生的事呈现为已定或即将发生的安排，是最近将来用法。rappelais 是未完成过去时，ai rappelé 是复合过去时，rappellerai 是简单将来时，都不是现在时。",
+          "locales": {
+            "fr": {
+              "explain": "Je te rappelle ce soir emploie le présent avec ce soir pour présenter un fait à venir comme un programme fixé ou imminent : c'est l'emploi de futur proche. rappelais est un imparfait, ai rappelé un passé composé, rappellerai un futur simple : aucun n'est un présent."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l5-q3",
@@ -1628,7 +2249,12 @@
           ],
           "answer": 0,
           "translation": "哪句话里的现在时表示刚刚发生的过去？",
-          "explain": "raccroche 是现在时，配合 à l'instant 表示「刚刚挂断」，属于现在时替代最近过去。raccrochait 是未完成过去时；a raccroché 是复合过去时；raccrochera 是将来时，虽然都谈过去或将来，但不是「现在时表最近过去」。"
+          "explain": "raccroche 是现在时，配合 à l'instant 表示「刚刚挂断」，属于现在时替代最近过去。raccrochait 是未完成过去时；a raccroché 是复合过去时；raccrochera 是将来时，虽然都谈过去或将来，但不是「现在时表最近过去」。",
+          "locales": {
+            "fr": {
+              "explain": "raccroche est un présent ; avec à l'instant, il exprime « venir de raccrocher », c'est-à-dire le présent employé pour le passé récent. raccrochait est un imparfait ; a raccroché un passé composé ; raccrochera un futur : tous parlent du passé ou du futur, mais aucun n'est un présent exprimant le passé récent."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l5-q4",
@@ -1642,7 +2268,12 @@
           ],
           "answer": 1,
           "translation": "哪句话正确？",
-          "explain": "être en train de 后接不定式，表示正在做某事。de 遇元音开头的 écrire 要省音为 d'，所以是 d'écrire。de écrire 缺少省音；en train écrire 少了 de；d'écrit 把不定式写成了变位形式。"
+          "explain": "être en train de 后接不定式，表示正在做某事。de 遇元音开头的 écrire 要省音为 d'，所以是 d'écrire。de écrire 缺少省音；en train écrire 少了 de；d'écrit 把不定式写成了变位形式。",
+          "locales": {
+            "fr": {
+              "explain": "être en train de se construit avec un infinitif et exprime une action en cours. Devant écrire, qui commence par une voyelle, de s'élide en d', d'où d'écrire. de écrire omet l'élision ; en train écrire omet de ; d'écrit met un verbe conjugué à la place de l'infinitif."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l5-q5",
@@ -1656,7 +2287,12 @@
           ],
           "answer": 1,
           "translation": "电话响的时候，他___动身。",
-          "explain": "quand le téléphone a sonné 给出一个过去参照点；allait partir 表示当时「正要走」，动作尚未发生。est allé partir 不成立，aller 的复合过去时不能这样接不定式表示「正要」；va 和 ira 分别是现在时和将来时，与过去语境不符。"
+          "explain": "quand le téléphone a sonné 给出一个过去参照点；allait partir 表示当时「正要走」，动作尚未发生。est allé partir 不成立，aller 的复合过去时不能这样接不定式表示「正要」；va 和 ira 分别是现在时和将来时，与过去语境不符。",
+          "locales": {
+            "fr": {
+              "explain": "quand le téléphone a sonné fournit un point de référence passé ; allait partir exprime qu'à ce moment-là il était sur le point de partir, l'action n'ayant pas encore eu lieu. est allé partir ne se dit pas : le passé composé de aller ne peut pas se construire ainsi avec un infinitif pour exprimer l'imminence ; va et ira sont respectivement présent et futur, incompatibles avec le contexte passé."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l5-q6",
@@ -1693,7 +2329,12 @@
             "va"
           ],
           "translation": "「玛丽去火车站接她弟弟。」（昨天）",
-          "explain": "aller 的复合过去时加不定式表示「去了并做了某事」：est allée chercher。助动词用 être，过去分词 allée 与主语 Marie 的阴性单数配合；chercher 保持不定式。不能用 avoir（a allé），也不能把 allée 写成 allé；allait 是未完成过去时，会变成「正要去」。"
+          "explain": "aller 的复合过去时加不定式表示「去了并做了某事」：est allée chercher。助动词用 être，过去分词 allée 与主语 Marie 的阴性单数配合；chercher 保持不定式。不能用 avoir（a allé），也不能把 allée 写成 allé；allait 是未完成过去时，会变成「正要去」。",
+          "locales": {
+            "fr": {
+              "explain": "Le passé composé de aller suivi d'un infinitif exprime « être allé et avoir fait quelque chose » : est allée chercher. L'auxiliaire est être et le participe allée s'accorde au féminin singulier avec Marie ; chercher reste à l'infinitif. On n'emploie pas avoir (a allé), on n'écrit pas allé au lieu de allée ; allait est un imparfait qui donnerait « être sur le point de »."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l5-q7",
@@ -1707,7 +2348,12 @@
           ],
           "answer": 0,
           "translation": "在「Elle allait téléphoner quand la panne a commencé」中，allait téléphoner 是什么意思？",
-          "explain": "aller 的未完成过去时加不定式表示过去某个参照点「即将做某事」，所以是「她正要打电话」。说电话已经打了，方向相反；把 allait 读成过去习惯，或读成复合过去时的「去了并打电话」，也都不是这里的意义。"
+          "explain": "aller 的未完成过去时加不定式表示过去某个参照点「即将做某事」，所以是「她正要打电话」。说电话已经打了，方向相反；把 allait 读成过去习惯，或读成复合过去时的「去了并打电话」，也都不是这里的意义。",
+          "locales": {
+            "fr": {
+              "explain": "L'imparfait de aller suivi d'un infinitif exprime qu'à un point de référence passé, on était sur le point de faire quelque chose : elle allait donc téléphoner. Dire que le téléphone a déjà été passé inverse le sens ; lire allait comme une habitude passée, ou comme le passé composé « être allé téléphoner », ne correspond pas non plus au sens ici."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l5-q8",
@@ -1723,7 +2369,12 @@
             "t"
           ],
           "translation": "昨天，索菲去学校接孩子了。",
-          "explain": "aller 的复合过去时用 être 作助动词，过去分词要跟主语性数配合：Sophie 是阴性单数，所以是 allée。allé 缺少阴性标记；allées 会变成阴性复数；allait 是未完成过去时，不是过去分词。"
+          "explain": "aller 的复合过去时用 être 作助动词，过去分词要跟主语性数配合：Sophie 是阴性单数，所以是 allée。allé 缺少阴性标记；allées 会变成阴性复数；allait 是未完成过去时，不是过去分词。",
+          "locales": {
+            "fr": {
+              "explain": "Le passé composé de aller prend l'auxiliaire être et le participe passé s'accorde en genre et en nombre avec le sujet : Sophie est féminin singulier, d'où allée. allé omet la marque du féminin ; allées serait féminin pluriel ; allait est un imparfait, non un participe passé."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l5-q9",
@@ -1759,7 +2410,12 @@
             "avait"
           ],
           "translation": "他要去坐火车，但改了主意。",
-          "explain": "va prendre 是最近将来，改为过去时用 aller 的未完成过去时 allait + 不定式 prendre，表示「正要坐」。change 是有明确结果的完成事件，用复合过去时 a changé；不能写成 est allé prendre（那会变成「去坐了火车」），也不能把 changer 写成 changeait（未完成过去时会把它变成背景）。"
+          "explain": "va prendre 是最近将来，改为过去时用 aller 的未完成过去时 allait + 不定式 prendre，表示「正要坐」。change 是有明确结果的完成事件，用复合过去时 a changé；不能写成 est allé prendre（那会变成「去坐了火车」），也不能把 changer 写成 changeait（未完成过去时会把它变成背景）。",
+          "locales": {
+            "fr": {
+              "explain": "va prendre est un futur proche ; pour le mettre au passé, on emploie l'imparfait de aller, allait, suivi de l'infinitif prendre, ce qui exprime « être sur le point de prendre ». change est un événement accompli à résultat net, d'où le passé composé a changé ; on n'écrit pas est allé prendre (qui signifierait « être allé prendre le train »), ni changeait (l'imparfait en ferait un arrière-plan)."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l5-q10",
@@ -1773,9 +2429,19 @@
           ],
           "answer": 3,
           "translation": "下面哪句话不表示最近将来？",
-          "explain": "前三句都用现在时加未来时间状语，表示按计划或即将发生的事。Elle vient de sortir 是 venir de + 不定式，专门的最近过去结构，表示「她刚出去」，不是最近将来。"
+          "explain": "前三句都用现在时加未来时间状语，表示按计划或即将发生的事。Elle vient de sortir 是 venir de + 不定式，专门的最近过去结构，表示「她刚出去」，不是最近将来。",
+          "locales": {
+            "fr": {
+              "explain": "Les trois premières phrases emploient le présent avec une indication de temps futur et expriment un fait prévu ou imminent. Elle vient de sortir est la tournure venir de + infinitif, structure spécialisée du passé récent : elle signifie « elle est sortie il y a un instant » et n'exprime pas le futur proche."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Présent : narration, passé récent, futur proche et expression de l'action en cours"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-l6",
@@ -1795,7 +2461,12 @@
           ],
           "answer": 1,
           "translation": "「Ce doit être le facteur」是什么意思？",
-          "explain": "ce 是中性主语，devoir 在这里表示推测「应该是、想必是」，整句是对门外来人的判断。它不是义务（那要说 Le facteur doit venir），也不是能力；devoir de l'argent 是「欠钱」的另一结构，与这里无关。"
+          "explain": "ce 是中性主语，devoir 在这里表示推测「应该是、想必是」，整句是对门外来人的判断。它不是义务（那要说 Le facteur doit venir），也不是能力；devoir de l'argent 是「欠钱」的另一结构，与这里无关。",
+          "locales": {
+            "fr": {
+              "explain": "ce est un sujet neutre et devoir exprime ici une conjecture (« ce doit être », « sans doute ») : la phrase juge qui se trouve derrière la porte. Ce n'est ni une obligation (il faudrait dire Le facteur doit venir), ni une capacité ; devoir de l'argent est une autre construction, sans rapport ici."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l6-q2",
@@ -1809,7 +2480,12 @@
           ],
           "answer": 1,
           "translation": "别担心：这___是邮局的简单失误，但我不确定。",
-          "explain": "ce + pouvoir 表示可能性「可能是」；后半句「我不确定」说明说话人不愿把话说死，所以用 peut。doit 表示较强的推测「应该是」，与不确定语气冲突；doive 是虚拟式，这里不需要；pourra 是将来时，改变时间。"
+          "explain": "ce + pouvoir 表示可能性「可能是」；后半句「我不确定」说明说话人不愿把话说死，所以用 peut。doit 表示较强的推测「应该是」，与不确定语气冲突；doive 是虚拟式，这里不需要；pourra 是将来时，改变时间。",
+          "locales": {
+            "fr": {
+              "explain": "ce + pouvoir exprime la possibilité (« ce peut être ») ; la fin « je n'en suis pas sûr » montre que le locuteur ne veut pas trancher, d'où peut. doit exprime une conjecture plus forte (« ce doit être ») et contredit le ton d'incertitude ; doive est un subjonctif dont on n'a pas besoin ici ; pourra est un futur et change le temps."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l6-q3",
@@ -1823,7 +2499,12 @@
           ],
           "answer": 0,
           "translation": "哪句话里的 doit 表示推测（而不是义务）？",
-          "explain": "Ce doit être une erreur 的主语是中性 ce，devoir 后面是 être + 名词，整句在评估命题的可能性，属于认识情态。其余三句的主语都是人，devoir 后接具体动作，表示义务「必须做」。"
+          "explain": "Ce doit être une erreur 的主语是中性 ce，devoir 后面是 être + 名词，整句在评估命题的可能性，属于认识情态。其余三句的主语都是人，devoir 后接具体动作，表示义务「必须做」。",
+          "locales": {
+            "fr": {
+              "explain": "Dans Ce doit être une erreur, le sujet est le ce neutre, devoir est suivi de être + nom et toute la phrase évalue la possibilité d'une proposition : c'est la modalité épistémique. Dans les trois autres phrases, le sujet est une personne, devoir est suivi d'une action concrète et exprime l'obligation « être obligé de »."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-l6-q4",
@@ -1837,9 +2518,19 @@
           ],
           "answer": 2,
           "translation": "那时候，没有电的生活___很艰难；人们点蜡烛照明。",
-          "explain": "à l'époque 和 s'éclairaient 把参照点放在过去，ce + devoir 的过去推测用未完成过去时 devait，表示「当时想必很艰难」。doit 是现在推测；devra 是将来；doive 是虚拟式，都不能与过去语境配合。"
+          "explain": "à l'époque 和 s'éclairaient 把参照点放在过去，ce + devoir 的过去推测用未完成过去时 devait，表示「当时想必很艰难」。doit 是现在推测；devra 是将来；doive 是虚拟式，都不能与过去语境配合。",
+          "locales": {
+            "fr": {
+              "explain": "à l'époque et s'éclairaient placent le point de référence dans le passé ; la conjecture passée avec ce + devoir se met à l'imparfait, devait, et signifie « ce devait être difficile à l'époque ». doit est une conjecture présente ; devra un futur ; doive un subjonctif : aucun ne convient au contexte passé."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "ce et la modalité épistémique"
+        }
+      }
     }
   ],
   "challenges": [
@@ -1861,7 +2552,12 @@
           ],
           "answer": 1,
           "translation": "我到达时，雨已经___一个小时，街道___冷清；我___第一家咖啡馆。",
-          "explain": "本句的持续背景用未完成过去时 pleuvait，表示到达时雨已经持续了一个小时；depuis 与未完成过去时搭配表示持续到参照点的状态。街道冷清同样是背景，用 étaient。走进咖啡馆是推进叙事的完成事件，用复合过去时 suis entré。不能只按 quand 机械判断，要看动作是背景还是事件。"
+          "explain": "本句的持续背景用未完成过去时 pleuvait，表示到达时雨已经持续了一个小时；depuis 与未完成过去时搭配表示持续到参照点的状态。街道冷清同样是背景，用 étaient。走进咖啡馆是推进叙事的完成事件，用复合过去时 suis entré。不能只按 quand 机械判断，要看动作是背景还是事件。",
+          "locales": {
+            "fr": {
+              "explain": "L'arrière-plan durable de la phrase se met à l'imparfait pleuvait : à l'arrivée, la pluie durait depuis une heure ; avec depuis, l'imparfait indique un état qui se prolonge jusqu'au point de référence. Les rues désertes sont elles aussi un arrière-plan, d'où étaient. L'entrée dans le premier café est l'événement accompli qui fait avancer le récit, d'où le passé composé suis entré. On ne décide pas mécaniquement d'après quand : il faut voir si l'action est un arrière-plan ou un événement."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x1-q2",
@@ -1875,7 +2571,12 @@
           ],
           "answer": 0,
           "translation": "她发现门关着：她弟弟已经___ ___。",
-          "explain": "门关着是过去参照点，弟弟离开发生在此之前，要用愈过去时 était parti；aller 的复合过去时用 être，parti 与主语阳性单数配合。avait parti 错在助动词，avait partait 结构不成立，est parti 只表示完成事件，不能体现先完成。"
+          "explain": "门关着是过去参照点，弟弟离开发生在此之前，要用愈过去时 était parti；aller 的复合过去时用 être，parti 与主语阳性单数配合。avait parti 错在助动词，avait partait 结构不成立，est parti 只表示完成事件，不能体现先完成。",
+          "locales": {
+            "fr": {
+              "explain": "La porte fermée est le point de référence passé ; le départ du frère s'est produit avant, d'où le plus-que-parfait était parti ; au passé composé, aller prend être et le participe parti s'accorde au masculin singulier avec le sujet. avait parti est fautif par l'auxiliaire, avait partait est structurellement impossible, et est parti exprime seulement un événement accompli sans marquer l'antériorité."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x1-q3",
@@ -1889,7 +2590,12 @@
           ],
           "answer": 1,
           "translation": "在「Avant de s'installer à Lyon, elle avait chanté chaque dimanche dans la chorale du village」中，愈过去时表达什么？",
-          "explain": "chaque dimanche 表示反复发生的活动；avant de s'installer 给出一个过去参照点，愈过去时说明这个习惯在此前已经结束。它不是将来、不是委婉请求，也不是当时仍在持续的动作。"
+          "explain": "chaque dimanche 表示反复发生的活动；avant de s'installer 给出一个过去参照点，愈过去时说明这个习惯在此前已经结束。它不是将来、不是委婉请求，也不是当时仍在持续的动作。",
+          "locales": {
+            "fr": {
+              "explain": "chaque dimanche exprime une activité répétée ; avant de s'installer fournit un point de référence passé, et le plus-que-parfait indique que cette habitude était terminée avant ce point. Il ne s'agit ni d'un futur, ni d'une demande atténuée, ni d'une action encore en cours à un moment passé donné."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x1-q4",
@@ -1903,7 +2609,12 @@
           ],
           "answer": 3,
           "translation": "「J'étais venu vous demander un petit service」中的愈过去时表达什么？",
-          "explain": "venir 的愈过去时在请求语境里可以弱化语气，相当于「我来是想请您帮个小忙」，重点不在时间先后。句中只有一个动作，没有更早的参照事件；也不是习惯或后悔。"
+          "explain": "venir 的愈过去时在请求语境里可以弱化语气，相当于「我来是想请您帮个小忙」，重点不在时间先后。句中只有一个动作，没有更早的参照事件；也不是习惯或后悔。",
+          "locales": {
+            "fr": {
+              "explain": "Dans un contexte de demande, le plus-que-parfait de venir peut atténuer le ton : il est proche, ici, de « je venais vous demander un petit service », sans insister sur l'ordre temporel. La phrase ne comporte qu'une action, sans événement de référence antérieur ; ce n'est ni une habitude ni un regret."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x1-q5",
@@ -1935,7 +2646,12 @@
             "suis"
           ],
           "translation": "把句子改为过去（昨天），保持分句顺序：「今天，玛丽出去的时候我在工作。」",
-          "explain": "sortir 是有明确界限的完成事件，用复合过去时 est sortie；助动词 être，过去分词与 Marie 阴性单数配合。je travaille 是同时进行的背景，用未完成过去时 travaillais。a sorti 错在助动词，sortait 会把它变成背景，travaillait 与 je 不搭配。"
+          "explain": "sortir 是有明确界限的完成事件，用复合过去时 est sortie；助动词 être，过去分词与 Marie 阴性单数配合。je travaille 是同时进行的背景，用未完成过去时 travaillais。a sorti 错在助动词，sortait 会把它变成背景，travaillait 与 je 不搭配。",
+          "locales": {
+            "fr": {
+              "explain": "sortir est un événement accompli à limite nette, d'où le passé composé est sortie ; l'auxiliaire est être et le participe s'accorde au féminin singulier avec Marie. je travaille est l'arrière-plan simultané, d'où l'imparfait travaillais. a sorti est fautif par l'auxiliaire, sortait en ferait un arrière-plan, et travaillait ne s'accorde pas avec je."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x1-q6",
@@ -1951,7 +2667,12 @@
             "t"
           ],
           "translation": "我们到的时候，聚会已经___。",
-          "explain": "愈过去时由 avoir 的未完成过去时 avait 加过去分词构成；commencer 的过去分词是 commencé（-er 变 -é）。这里助动词是 avoir，分词不跟主语配合，不能写 commencée；commençait 是未完成过去时，不是分词。"
+          "explain": "愈过去时由 avoir 的未完成过去时 avait 加过去分词构成；commencer 的过去分词是 commencé（-er 变 -é）。这里助动词是 avoir，分词不跟主语配合，不能写 commencée；commençait 是未完成过去时，不是分词。",
+          "locales": {
+            "fr": {
+              "explain": "Le plus-que-parfait se forme avec l'imparfait de avoir, avait, et le participe passé ; le participe de commencer est commencé (-er devient -é). L'auxiliaire est avoir : le participe ne s'accorde pas avec le sujet, on n'écrit pas commencée ; commençait est un imparfait, non un participe."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x1-q7",
@@ -1965,7 +2686,12 @@
           ],
           "answer": 1,
           "translation": "我小时候，经常___奶奶家；有一个夏天，我在那里___三周。",
-          "explain": "souvent 和 quand j'étais enfant 表示反复的习惯，用未完成过去时 allais；un été 和 trois semaines 把第二个动作限定为有界限的完成事件，用复合过去时 suis resté。两个都用来完成过去时会失去事件性，两个都用复合过去时会把习惯说成一次完成。"
+          "explain": "souvent 和 quand j'étais enfant 表示反复的习惯，用未完成过去时 allais；un été 和 trois semaines 把第二个动作限定为有界限的完成事件，用复合过去时 suis resté。两个都用来完成过去时会失去事件性，两个都用复合过去时会把习惯说成一次完成。",
+          "locales": {
+            "fr": {
+              "explain": "souvent et quand j'étais enfant expriment une habitude répétée, d'où l'imparfait allais ; un été et trois semaines délimitent la seconde action comme un événement accompli et borné, d'où le passé composé suis resté. Deux imparfaits feraient perdre le caractère événementiel, deux passés composés feraient de l'habitude un événement unique."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x1-q8",
@@ -1979,7 +2705,12 @@
           ],
           "answer": 0,
           "translation": "我们___放映厅时，电影___十分钟了，厅里___几乎空着。",
-          "explain": "电影开始于我们进场之前，用愈过去时 avait commencé；进场是有界限的完成事件，用复合过去时 sommes entrés；厅里空着是背景状态，用未完成过去时 était。commençait 无法与 depuis dix minutes 搭配表示「已经开始十分钟」，entrions 会把进场变成背景，a été 是完成事件，不适合描写状态。"
+          "explain": "电影开始于我们进场之前，用愈过去时 avait commencé；进场是有界限的完成事件，用复合过去时 sommes entrés；厅里空着是背景状态，用未完成过去时 était。commençait 无法与 depuis dix minutes 搭配表示「已经开始十分钟」，entrions 会把进场变成背景，a été 是完成事件，不适合描写状态。",
+          "locales": {
+            "fr": {
+              "explain": "Le film a commencé avant notre entrée, d'où le plus-que-parfait avait commencé ; l'entrée est un événement accompli et borné, d'où le passé composé sommes entrés ; la salle presque vide est un état d'arrière-plan, d'où l'imparfait était. commençait ne peut pas se combiner avec depuis dix minutes pour exprimer « avoir commencé depuis dix minutes » ; entrions ferait de l'entrée un arrière-plan ; a été est un événement accompli, impropre à la description d'un état."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x1-q9",
@@ -1993,7 +2724,12 @@
           ],
           "answer": 1,
           "translation": "他告诉我这个消息时，我___：他姐姐已经跟我___。",
-          "explain": "savais 是未完成过去时，表示当时已经处于「知道」的状态；l' 指 la nouvelle，是 raconter 的前置直接宾语，阴性单数，过去分词用 racontée。ai su 会变成「那一刻才知道」，与 déjà 矛盾；raconté 缺少与 l'（la nouvelle）的配合。"
+          "explain": "savais 是未完成过去时，表示当时已经处于「知道」的状态；l' 指 la nouvelle，是 raconter 的前置直接宾语，阴性单数，过去分词用 racontée。ai su 会变成「那一刻才知道」，与 déjà 矛盾；raconté 缺少与 l'（la nouvelle）的配合。",
+          "locales": {
+            "fr": {
+              "explain": "savais est un imparfait : à ce moment-là, le locuteur était déjà dans l'état « savoir » ; l' représente la nouvelle, complément d'objet direct antéposé de raconter, au féminin singulier, d'où le participe racontée. ai su signifierait « apprendre à cet instant », ce qui contredit déjà ; raconté omet l'accord avec l' (la nouvelle)."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x1-q10",
@@ -2007,9 +2743,19 @@
           ],
           "answer": 3,
           "translation": "窗户开着：___是风，因为那天夜里没有人___屋里。",
-          "explain": "叙事参照点在过去，ce + devoir 的过去推测用 devait，表示「想必是风」；personne n'était entré 用愈过去时，说明在那个参照点之前没有人进过屋，事件已经完成。doit 是现在推测；devrait 是条件式；entrait 是未完成过去时，只描写背景或习惯，不能表示一次已完成的进入。"
+          "explain": "叙事参照点在过去，ce + devoir 的过去推测用 devait，表示「想必是风」；personne n'était entré 用愈过去时，说明在那个参照点之前没有人进过屋，事件已经完成。doit 是现在推测；devrait 是条件式；entrait 是未完成过去时，只描写背景或习惯，不能表示一次已完成的进入。",
+          "locales": {
+            "fr": {
+              "explain": "Le point de référence narratif est passé ; la conjecture passée avec ce + devoir se met à l'imparfait devait (« ce devait être le vent ») ; personne n'était entré se met au plus-que-parfait pour indiquer que, avant ce point de référence, personne n'était entré : l'événement était accompli. doit est une conjecture présente ; devrait un conditionnel ; entrait un imparfait qui décrit seulement un arrière-plan ou une habitude et ne peut pas exprimer une entrée accomplie."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse des temps et des aspects : arrière-plan, événements et antériorité"
+        }
+      }
     },
     {
       "id": "pub-c22-aspect-modality-x2",
@@ -2029,7 +2775,12 @@
           ],
           "answer": 2,
           "translation": "我___来，但我得工作到午夜。",
-          "explain": "条件式过去时 aurais aimé 表示过去未能实现的愿望或遗憾；mais j'ai dû travailler 说明最终没能来。avais aimé 是愈过去时，表示更早的喜爱；aimerais 是条件式现在时；ai aimé 是复合过去时，会把「喜欢」说成已发生。"
+          "explain": "条件式过去时 aurais aimé 表示过去未能实现的愿望或遗憾；mais j'ai dû travailler 说明最终没能来。avais aimé 是愈过去时，表示更早的喜爱；aimerais 是条件式现在时；ai aimé 是复合过去时，会把「喜欢」说成已发生。",
+          "locales": {
+            "fr": {
+              "explain": "Le conditionnel passé aurais aimé exprime un souhait ou un regret passé non réalisé ; mais j'ai dû travailler indique qu'il n'a finalement pas pu venir. avais aimé est un plus-que-parfait (« avoir aimé plus tôt ») ; aimerais est un conditionnel présent ; ai aimé est un passé composé qui présenterait « aimer » comme réalisé."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x2-q2",
@@ -2043,7 +2794,12 @@
           ],
           "answer": 1,
           "translation": "他___通知父母，但他忘了。",
-          "explain": "aurait dû 表示过去本应做而未做的义务，mais il a oublié 点明未实现。avait dû 是愈过去时，表示当时不得不或想必已经；devrait 是条件式现在时；a dû 是复合过去时，可能表示「不得不」或「想必」，都不能表达「本应做却没做」。"
+          "explain": "aurait dû 表示过去本应做而未做的义务，mais il a oublié 点明未实现。avait dû 是愈过去时，表示当时不得不或想必已经；devrait 是条件式现在时；a dû 是复合过去时，可能表示「不得不」或「想必」，都不能表达「本应做却没做」。",
+          "locales": {
+            "fr": {
+              "explain": "aurait dû exprime une obligation passée qui aurait dû être accomplie et ne l'a pas été ; mais il a oublié confirme la non-réalisation. avait dû est un plus-que-parfait et exprime une obligation ou une conjecture passée ; devrait est un conditionnel présent ; a dû est un passé composé qui peut signifier « avoir été obligé » ou « avoir supposé », sans l'idée de « aurait dû et ne l'a pas fait »."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x2-q3",
@@ -2057,7 +2813,12 @@
           ],
           "answer": 0,
           "translation": "据一则流传的说法，火灾___由短路引起。",
-          "explain": "rumeur persistante 说明消息未经证实；条件式过去时 aurait été provoqué 表示说话人不把「短路引起火灾」当作已确认事实。a été 把它说成事实；avait été 表示更早完成；serait provoqué 是条件式现在时的被动，时间关系不符。分词 provoqué 与阳性单数 incendie 配合。"
+          "explain": "rumeur persistante 说明消息未经证实；条件式过去时 aurait été provoqué 表示说话人不把「短路引起火灾」当作已确认事实。a été 把它说成事实；avait été 表示更早完成；serait provoqué 是条件式现在时的被动，时间关系不符。分词 provoqué 与阳性单数 incendie 配合。",
+          "locales": {
+            "fr": {
+              "explain": "rumeur persistante indique une information non confirmée ; le conditionnel passé aurait été provoqué exprime que le locuteur ne tient pas « l'incendie provoqué par un court-circuit » pour un fait établi. a été le présenterait comme un fait ; avait été exprime une antériorité accomplie ; serait provoqué est un passif au conditionnel présent, dont le rapport temporel ne convient pas. Le participe provoqué s'accorde au masculin singulier avec incendie."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x2-q4",
@@ -2071,7 +2832,12 @@
           ],
           "answer": 0,
           "translation": "据一位消息人士（未经证实）说，这位歌手___已经在国外。",
-          "explain": "source non confirmée 标明消息未经证实；条件式现在时 serait 报道这类信息，说话人不予担保，这是传闻用法。sera 是将来时，était 把消息说成已确认的过去事实，aurait été 是对过去状态的推测；句中 déjà à l'étranger 说的是现在的状态，用 serait 最合适。"
+          "explain": "source non confirmée 标明消息未经证实；条件式现在时 serait 报道这类信息，说话人不予担保，这是传闻用法。sera 是将来时，était 把消息说成已确认的过去事实，aurait été 是对过去状态的推测；句中 déjà à l'étranger 说的是现在的状态，用 serait 最合适。",
+          "locales": {
+            "fr": {
+              "explain": "source non confirmée marque une information non confirmée ; le conditionnel présent serait rapporte ce type d'information sans garantie du locuteur : c'est l'emploi de rumeur. sera est un futur, était présente l'information comme un fait passé confirmé, aurait été est une conjecture sur un état passé ; comme déjà à l'étranger décrit un état présent, serait convient le mieux."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x2-q5",
@@ -2085,7 +2851,12 @@
           ],
           "answer": 2,
           "translation": "这___是个错误：没人核对过数字。",
-          "explain": "ce 作中性主语，devoir 表示推测「应该是」；参照点是现在，用 doit。doive 是虚拟式；devait 是过去推测；devra 是将来时，都与 personne n'a vérifié 的现在语境不合。"
+          "explain": "ce 作中性主语，devoir 表示推测「应该是」；参照点是现在，用 doit。doive 是虚拟式；devait 是过去推测；devra 是将来时，都与 personne n'a vérifié 的现在语境不合。",
+          "locales": {
+            "fr": {
+              "explain": "ce est un sujet neutre et devoir exprime une conjecture (« ce doit être ») ; le point de référence est le présent, d'où doit. doive est un subjonctif ; devait une conjecture passée ; devra un futur : aucun ne convient au contexte présent de personne n'a vérifié."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x2-q6",
@@ -2099,7 +2870,12 @@
           ],
           "answer": 0,
           "translation": "当时，这___是真的，但我们对此一无所知。",
-          "explain": "à l'époque 和 savions 把参照点放在过去，ce + pouvoir 的过去可能用未完成过去时 pouvait。peut 是现在可能；pourra 是将来；pourrait 是条件式，通常需要假设或转述语境，这里不如 pouvait 直接。"
+          "explain": "à l'époque 和 savions 把参照点放在过去，ce + pouvoir 的过去可能用未完成过去时 pouvait。peut 是现在可能；pourra 是将来；pourrait 是条件式，通常需要假设或转述语境，这里不如 pouvait 直接。",
+          "locales": {
+            "fr": {
+              "explain": "à l'époque et savions placent le point de référence dans le passé ; la possibilité passée avec ce + pouvoir se met à l'imparfait pouvait. peut est une possibilité présente ; pourra un futur ; pourrait un conditionnel qui demanderait normalement un contexte d'hypothèse ou de reprise d'information, moins direct ici que pouvait."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x2-q7",
@@ -2113,7 +2889,12 @@
           ],
           "answer": 2,
           "translation": "车已经不在房子前了：我弟弟在天亮前___；所以___是他拿走了钥匙。",
-          "explain": "出发发生在那辆车不见之前，用愈过去时 était parti；ce devait donc être lui 是对过去情况的推测，用 devait。partait 只描写背景，不能表示先完成；doit 是现在推测，与整段过去叙事不一致。"
+          "explain": "出发发生在那辆车不见之前，用愈过去时 était parti；ce devait donc être lui 是对过去情况的推测，用 devait。partait 只描写背景，不能表示先完成；doit 是现在推测，与整段过去叙事不一致。",
+          "locales": {
+            "fr": {
+              "explain": "Le départ a eu lieu avant la disparition de la voiture, d'où le plus-que-parfait était parti ; ce devait donc être lui exprime une conjecture sur la situation passée, d'où devait. partait décrit seulement un arrière-plan et ne peut pas exprimer l'antériorité accomplie ; doit est une conjecture présente, incompatible avec tout le récit au passé."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x2-q8",
@@ -2127,7 +2908,12 @@
           ],
           "answer": 3,
           "translation": "如果她知道会议取消了，她___待在家里。",
-          "explain": "si 从句用愈过去时 avait su，主句要用条件式过去时，表示与过去事实相反的结果：aurait pu rester。avait pu 与 si 从句搭配时不能表示这种与过去事实相反的结果；pourrait 是条件式现在时，与过去假设不匹配；a pu 是复合过去时，会把结果说成已发生。"
+          "explain": "si 从句用愈过去时 avait su，主句要用条件式过去时，表示与过去事实相反的结果：aurait pu rester。avait pu 与 si 从句搭配时不能表示这种与过去事实相反的结果；pourrait 是条件式现在时，与过去假设不匹配；a pu 是复合过去时，会把结果说成已发生。",
+          "locales": {
+            "fr": {
+              "explain": "La subordonnée si emploie le plus-que-parfait avait su ; la principale doit se mettre au conditionnel passé pour exprimer un résultat contraire à la réalité passée : aurait pu rester. avait pu ne peut pas exprimer ce résultat avec si + plus-que-parfait ; pourrait est un conditionnel présent, incompatible avec l'hypothèse passée ; a pu est un passé composé qui présenterait le résultat comme réalisé."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x2-q9",
@@ -2165,7 +2951,12 @@
             "volés"
           ],
           "translation": "据我们掌握的信息，这幅画在夜间被盗。",
-          "explain": "条件式过去时 aurait été volé 表示报道者不确认这幅画确实被盗；被动式由 être 加过去分词构成，volé 与阳性单数 tableau 配合。avait été 是愈过去时，把盗窃说成已确认的往事；serait volé 是条件式现在时的被动；volée、volés 与 tableau 的性数不符。"
+          "explain": "条件式过去时 aurait été volé 表示报道者不确认这幅画确实被盗；被动式由 être 加过去分词构成，volé 与阳性单数 tableau 配合。avait été 是愈过去时，把盗窃说成已确认的往事；serait volé 是条件式现在时的被动；volée、volés 与 tableau 的性数不符。",
+          "locales": {
+            "fr": {
+              "explain": "Le conditionnel passé aurait été volé indique que le rédacteur ne confirme pas le vol du tableau ; la forme passive se construit avec être et le participe passé, et volé s'accorde au masculin singulier avec tableau. avait été est un plus-que-parfait qui présenterait le vol comme un fait passé confirmé ; serait volé est un passif au conditionnel présent ; volée et volés ne s'accordent pas avec tableau."
+            }
+          }
         },
         {
           "id": "pub-c22-aspect-modality-x2-q10",
@@ -2179,9 +2970,28 @@
           ],
           "answer": 0,
           "translation": "保罗的外套不见了：想必是他拿走的。",
-          "explain": "ce 与 devoir 搭配可表达推测：ce devait être lui 表示「想必是他」。doit 是现在时，时间不符；a dû 不用 ce；aurait dû 表示「本应」。"
+          "explain": "ce 与 devoir 搭配可表达推测：ce devait être lui 表示「想必是他」。doit 是现在时，时间不符；a dû 不用 ce；aurait dû 表示「本应」。",
+          "locales": {
+            "fr": {
+              "explain": "ce associé à devoir peut exprimer une conjecture : ce devait être lui signifie « ce devait être lui ». doit est un présent et ne correspond pas au temps ; a dû ne se construit pas avec ce dans ce sens ; aurait dû exprime « aurait dû »."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse des modalités et de la conjecture : conditionnel et ce"
+        }
+      }
     }
-  ]
+  ],
+  "locales": {
+    "fr": {
+      "sectionTitles": {
+        "s1": "Aspect du passé composé, de l'imparfait et du plus-que-parfait",
+        "s2": "Conditionnel passé, rumeur et conjecture",
+        "s3": "Présent de narration, passé récent, futur proche et modalité avec ce"
+      }
+    }
+  }
 }

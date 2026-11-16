@@ -6,107 +6,233 @@
     {
       "id": "pub-c08-imperative-emphasis-card-u1-1",
       "title": "命令式的基本构成：取 tu / nous / vous 三个人称",
-      "body": "<p>命令式（l'impératif）一般取直陈式现在时的 tu、nous、vous 三个人称形式，并删去主语代词。命令式只有这三个人称，没有 je、il/elle、ils/elles 形式。</p><ul><li>Tu manges. → Mange !（吃吧！）</li><li>Nous mangeons. → Mangeons !（我们吃吧！）</li><li>Vous mangez. → Mangez !（您/你们吃吧！）</li><li>Tu finis. → Finis !（完成吧！）</li><li>Nous finissons. → Finissons !（我们完成吧！）</li><li>Vous finissez. → Finissez !（您/你们完成吧！）</li></ul><p>要点：</p><ul><li>先写出现在时对应人称，再删主语代词；不要保留 tu / nous / vous。</li><li>三个人称的选择由说话对象决定：对一个人用 tu，对一群人（或礼貌称呼）用 vous，把说话人自己包括进去时用 nous。</li><li>这条一般对应只适用于规则形式；être、avoir 见第 4 张，savoir 见第 7 张。</li></ul>"
+      "body": "<p>命令式（l'impératif）一般取直陈式现在时的 tu、nous、vous 三个人称形式，并删去主语代词。命令式只有这三个人称，没有 je、il/elle、ils/elles 形式。</p><ul><li>Tu manges. → Mange !（吃吧！）</li><li>Nous mangeons. → Mangeons !（我们吃吧！）</li><li>Vous mangez. → Mangez !（您/你们吃吧！）</li><li>Tu finis. → Finis !（完成吧！）</li><li>Nous finissons. → Finissons !（我们完成吧！）</li><li>Vous finissez. → Finissez !（您/你们完成吧！）</li></ul><p>要点：</p><ul><li>先写出现在时对应人称，再删主语代词；不要保留 tu / nous / vous。</li><li>三个人称的选择由说话对象决定：对一个人用 tu，对一群人（或礼貌称呼）用 vous，把说话人自己包括进去时用 nous。</li><li>这条一般对应只适用于规则形式；être、avoir 见第 4 张，savoir 见第 7 张。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "Formation de base de l'impératif : les personnes tu / nous / vous",
+          "body": "<p>L'impératif se forme généralement à partir des personnes tu, nous, vous du présent de l'indicatif, en supprimant le pronom sujet. Il ne possède que ces trois personnes, sans formes pour je, il/elle, ils/elles.</p><ul><li>Tu manges. → Mange !</li><li>Nous mangeons. → Mangeons !</li><li>Vous mangez. → Mangez !</li><li>Tu finis. → Finis !</li><li>Nous finissons. → Finissons !</li><li>Vous finissez. → Finissez !</li></ul><p>À retenir :</p><ul><li>Écrivez d'abord la forme du présent à la personne voulue, puis supprimez le pronom sujet ; ne conservez pas tu / nous / vous.</li><li>Le choix de la personne dépend de l'interlocuteur : tu pour une personne, vous pour un groupe (ou par politesse), nous pour inclure celui qui parle.</li><li>Cette correspondance générale ne vaut que pour les formes régulières ; être et avoir sont traités sur la quatrième fiche, savoir sur la septième.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u1-2",
       "title": "tu 命令式去 s：第一组动词与 ouvrir 类",
-      "body": "<p>第一组 -er 动词的 tu 命令式去掉词尾 s；ouvrir、offrir、cueillir、souffrir、couvrir 等 tu 现在时以 -es 结尾的动词也去 s。第二组 -ir 动词保留 s。</p><ul><li>Tu parles. → Parle !（说吧！）</li><li>Tu regardes. → Regarde !（看吧！）</li><li>Tu ouvres. → Ouvre !（打开吧！）</li><li>Tu offres. → Offre !（送吧！）</li><li>Tu finis. → Finis !（完成吧！）——第二组保留 s</li><li>Tu choisis. → Choisis !（选择吧！）</li></ul><p>判断步骤：</p><ul><li>看动词原形：-er 动词通常去 s。</li><li>看 tu 现在时词尾：以 -es 结尾的 ouvrir / offrir 等也去 s。</li><li>第二组 -ir 动词的 tu 形式以 -is 结尾，命令式保留 s。</li></ul><p>注意：aller 虽不是第一组，tu 命令式也写 va；不要把去 s 规则推广到 finir、partir 等保留 s 的动词。</p>"
+      "body": "<p>第一组 -er 动词的 tu 命令式去掉词尾 s；ouvrir、offrir、cueillir、souffrir、couvrir 等 tu 现在时以 -es 结尾的动词也去 s。第二组 -ir 动词保留 s。</p><ul><li>Tu parles. → Parle !（说吧！）</li><li>Tu regardes. → Regarde !（看吧！）</li><li>Tu ouvres. → Ouvre !（打开吧！）</li><li>Tu offres. → Offre !（送吧！）</li><li>Tu finis. → Finis !（完成吧！）——第二组保留 s</li><li>Tu choisis. → Choisis !（选择吧！）</li></ul><p>判断步骤：</p><ul><li>看动词原形：-er 动词通常去 s。</li><li>看 tu 现在时词尾：以 -es 结尾的 ouvrir / offrir 等也去 s。</li><li>第二组 -ir 动词的 tu 形式以 -is 结尾，命令式保留 s。</li></ul><p>注意：aller 虽不是第一组，tu 命令式也写 va；不要把去 s 规则推广到 finir、partir 等保留 s 的动词。</p>",
+      "locales": {
+        "fr": {
+          "title": "Suppression du s à l'impératif avec tu : verbes du premier groupe et type ouvrir",
+          "body": "<p>À l'impératif avec tu, les verbes du premier groupe en -er perdent le s final ; les verbes comme ouvrir, offrir, cueillir, souffrir, couvrir, dont le présent avec tu se termine par -es, perdent aussi le s. Les verbes du deuxième groupe en -ir conservent le s.</p><ul><li>Tu parles. → Parle !</li><li>Tu regardes. → Regarde !</li><li>Tu ouvres. → Ouvre !</li><li>Tu offres. → Offre !</li><li>Tu finis. → Finis ! — le s est conservé au deuxième groupe</li><li>Tu choisis. → Choisis !</li></ul><p>Démarche :</p><ul><li>Regardez l'infinitif : les verbes en -er perdent généralement le s.</li><li>Regardez la terminaison du présent avec tu : ouvrir / offrir et autres verbes en -es perdent aussi le s.</li><li>Les verbes du deuxième groupe en -ir ont une forme avec tu en -is : l'impératif conserve le s.</li></ul><p>Attention : aller n'appartient pas au premier groupe, mais son impératif avec tu est va ; ne généralisez pas la suppression du s à finir, partir et autres verbes qui conservent le s.</p>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u1-3",
       "title": "常用不规则命令式：faire、dire、venir、prendre 等",
-      "body": "<p>许多常用动词的命令式要按各自的现在时词干记忆，不能一律套第一组规则。常见形式：</p><ul><li>faire：fais / faisons / faites</li><li>dire：dis / disons / dites</li><li>venir：viens / venons / venez</li><li>tenir：tiens / tenons / tenez</li><li>recevoir：reçois / recevons / recevez</li><li>écrire：écris / écrivons / écrivez</li><li>boire：bois / buvons / buvez</li><li>prendre：prends / prenons / prenez</li><li>partir：pars / partons / partez</li><li>répondre：réponds / répondons / répondez</li><li>vendre：vends / vendons / vendez</li><li>suivre：suis / suivons / suivez</li><li>devenir：deviens / devenons / devenez</li></ul><p>例：</p><ul><li>Fais attention !（小心！）</li><li>Dites la vérité.（说实话。）</li><li>Viens avec nous.（跟我们一起来。）</li><li>Recevez ce colis.（收下这个包裹。）</li><li>Écrivez votre nom.（写下您的名字。）</li></ul><p>要点：</p><ul><li>三个人称都要能辨认和产出；注意 dites、faites 等 vous 形式虽与现在时同形，tu 形式却可能保留 s。</li><li>ouvrir / offrir 的 tu 形式虽属第三组，仍按 -es 去 s：ouvre、offre。</li><li>不要把一个动词的命令式词干推广到同组其他动词：dire 的 vous 是 dites，不是 disez。</li></ul>"
+      "body": "<p>许多常用动词的命令式要按各自的现在时词干记忆，不能一律套第一组规则。常见形式：</p><ul><li>faire：fais / faisons / faites</li><li>dire：dis / disons / dites</li><li>venir：viens / venons / venez</li><li>tenir：tiens / tenons / tenez</li><li>recevoir：reçois / recevons / recevez</li><li>écrire：écris / écrivons / écrivez</li><li>boire：bois / buvons / buvez</li><li>prendre：prends / prenons / prenez</li><li>partir：pars / partons / partez</li><li>répondre：réponds / répondons / répondez</li><li>vendre：vends / vendons / vendez</li><li>suivre：suis / suivons / suivez</li><li>devenir：deviens / devenons / devenez</li></ul><p>例：</p><ul><li>Fais attention !（小心！）</li><li>Dites la vérité.（说实话。）</li><li>Viens avec nous.（跟我们一起来。）</li><li>Recevez ce colis.（收下这个包裹。）</li><li>Écrivez votre nom.（写下您的名字。）</li></ul><p>要点：</p><ul><li>三个人称都要能辨认和产出；注意 dites、faites 等 vous 形式虽与现在时同形，tu 形式却可能保留 s。</li><li>ouvrir / offrir 的 tu 形式虽属第三组，仍按 -es 去 s：ouvre、offre。</li><li>不要把一个动词的命令式词干推广到同组其他动词：dire 的 vous 是 dites，不是 disez。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "Impératifs irréguliers courants : faire, dire, venir, prendre, etc.",
+          "body": "<p>De nombreux verbes courants ont un impératif à mémoriser à partir de leur propre radical du présent ; on ne peut pas leur appliquer uniformément la règle du premier groupe. Formes courantes :</p><ul><li>faire : fais / faisons / faites</li><li>dire : dis / disons / dites</li><li>venir : viens / venons / venez</li><li>tenir : tiens / tenons / tenez</li><li>recevoir : reçois / recevons / recevez</li><li>écrire : écris / écrivons / écrivez</li><li>boire : bois / buvons / buvez</li><li>prendre : prends / prenons / prenez</li><li>partir : pars / partons / partez</li><li>répondre : réponds / répondons / répondez</li><li>vendre : vends / vendons / vendez</li><li>suivre : suis / suivons / suivez</li><li>devenir : deviens / devenons / devenez</li></ul><p>Exemples :</p><ul><li>Fais attention !</li><li>Dites la vérité.</li><li>Viens avec nous.</li><li>Recevez ce colis.</li><li>Écrivez votre nom.</li></ul><p>À retenir :</p><ul><li>Les trois personnes doivent être reconnues et produites ; remarquez que dites, faites et d'autres formes avec vous sont identiques au présent, alors que la forme avec tu peut conserver le s.</li><li>Les formes avec tu d'ouvrir / offrir appartiennent au troisième groupe mais perdent le -s de la terminaison -es du présent : ouvre, offre.</li><li>Ne généralisez pas le radical de l'impératif d'un verbe aux autres verbes du même groupe : le « vous » de dire est dites, non disez.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u1-4",
       "title": "être 与 avoir 的命令式：sois / soyez，aie / ayez",
-      "body": "<p>être 的命令式是 sois / soyons / soyez，avoir 的命令式是 aie / ayons / ayez。它们与现在时变位不同，必须独立记忆。</p><ul><li>Sois patient !（耐心点！）</li><li>Soyons prêts !（我们准备好！）</li><li>Soyez à l'heure.（请准时。）</li><li>Aie confiance !（要有信心！）</li><li>Ayons du courage !（我们要有勇气！）</li><li>Ayez de la patience !（请耐心一点！）</li></ul><p>对比：</p><ul><li>Tu es → Sois !（不是 Es !）</li><li>Vous êtes → Soyez !（不是 Êtes !）</li><li>Tu as → Aie !（不是 As !）</li><li>Vous avez → Ayez !（不是 Avez !）</li></ul><p>要点：</p><ul><li>三个人称成套记忆：sois / soyons / soyez；aie / ayons / ayez。</li><li>否定时 ne...pas 夹住这些形式：Ne sois pas triste. / N'ayez pas peur.</li><li>不要把 être 与 avoir 的形式互换，也不要按现在时直接推导。</li></ul><p>注意：其他不规则动词见上一张。</p>"
+      "body": "<p>être 的命令式是 sois / soyons / soyez，avoir 的命令式是 aie / ayons / ayez。它们与现在时变位不同，必须独立记忆。</p><ul><li>Sois patient !（耐心点！）</li><li>Soyons prêts !（我们准备好！）</li><li>Soyez à l'heure.（请准时。）</li><li>Aie confiance !（要有信心！）</li><li>Ayons du courage !（我们要有勇气！）</li><li>Ayez de la patience !（请耐心一点！）</li></ul><p>对比：</p><ul><li>Tu es → Sois !（不是 Es !）</li><li>Vous êtes → Soyez !（不是 Êtes !）</li><li>Tu as → Aie !（不是 As !）</li><li>Vous avez → Ayez !（不是 Avez !）</li></ul><p>要点：</p><ul><li>三个人称成套记忆：sois / soyons / soyez；aie / ayons / ayez。</li><li>否定时 ne...pas 夹住这些形式：Ne sois pas triste. / N'ayez pas peur.</li><li>不要把 être 与 avoir 的形式互换，也不要按现在时直接推导。</li></ul><p>注意：其他不规则动词见上一张。</p>",
+      "locales": {
+        "fr": {
+          "title": "Impératif d'être et avoir : sois / soyez, aie / ayez",
+          "body": "<p>L'impératif d'être est sois / soyons / soyez ; celui d'avoir est aie / ayons / ayez. Ces formes diffèrent du présent de l'indicatif et doivent être mémorisées séparément.</p><ul><li>Sois patient !</li><li>Soyons prêts !</li><li>Soyez à l'heure.</li><li>Aie confiance !</li><li>Ayons du courage !</li><li>Ayez de la patience !</li></ul><p>Comparaison :</p><ul><li>Tu es → Sois ! (et non Es !)</li><li>Vous êtes → Soyez ! (et non Êtes !)</li><li>Tu as → Aie ! (et non As !)</li><li>Vous avez → Ayez ! (et non Avez !)</li></ul><p>À retenir :</p><ul><li>Mémorisez les trois personnes ensemble : sois / soyons / soyez ; aie / ayons / ayez.</li><li>À la forme négative, ne...pas encadre ces formes : Ne sois pas triste. / N'ayez pas peur.</li><li>Ne pas intervertir les formes d'être et d'avoir, ni les déduire directement du présent.</li></ul><p>Attention : les autres verbes irréguliers sont traités sur la fiche précédente.</p>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u1-5",
       "title": "aller 的 tu 命令式：va（去 s）",
-      "body": "<p>aller 的现在时是 tu vas、nous allons、vous allez；命令式分别是 va、allons、allez。tu 形式由 vas 去掉 s 得到，虽然 aller 不属于第一组动词。</p><ul><li>Va au marché !（去市场！）</li><li>Allons au cinéma !（我们去看电影吧！）</li><li>Allez tout droit !（一直往前走！）</li><li>Va voir le médecin.（去看医生。）</li></ul><p>要点：</p><ul><li>tu 命令式写 va，不写 vas；不要与将来时 va（aller 的第三人称单数）混淆。</li><li>nous / vous 形式 allons / allez 与现在时同形，删去主语即可。</li></ul>"
+      "body": "<p>aller 的现在时是 tu vas、nous allons、vous allez；命令式分别是 va、allons、allez。tu 形式由 vas 去掉 s 得到，虽然 aller 不属于第一组动词。</p><ul><li>Va au marché !（去市场！）</li><li>Allons au cinéma !（我们去看电影吧！）</li><li>Allez tout droit !（一直往前走！）</li><li>Va voir le médecin.（去看医生。）</li></ul><p>要点：</p><ul><li>tu 命令式写 va，不写 vas；不要与将来时 va（aller 的第三人称单数）混淆。</li><li>nous / vous 形式 allons / allez 与现在时同形，删去主语即可。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "Impératif d'aller avec tu : va (sans s)",
+          "body": "<p>Le présent d'aller est tu vas, nous allons, vous allez ; les impératifs correspondants sont va, allons, allez. La forme avec tu s'obtient en retirant le s de vas, bien que aller n'appartienne pas au premier groupe.</p><ul><li>Va au marché !</li><li>Allons au cinéma !</li><li>Allez tout droit !</li><li>Va voir le médecin.</li></ul><p>À retenir :</p><ul><li>L'impératif avec tu s'écrit va, non vas ; ne pas le confondre avec le va du futur (troisième personne du singulier d'aller).</li><li>Les formes avec nous / vous, allons / allez, sont identiques au présent : il suffit de supprimer le sujet.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u1-6",
       "title": "非代词式动词的命令式：肯定与否定",
-      "body": "<p>非代词式动词的肯定命令式第二人称单数一般取自现在时去掉主语的形式：-er 动词通常不带 -s，其他动词多保留 -s，aller 等有例外。</p><ul><li>Parle ! / Finis ! / Va ! / Fais ! / Viens !</li><li>Ne parle pas ! / Ne finis pas ! / Ne va pas ! / Ne fais pas ! / Ne viens pas !</li></ul><p>nous 与 vous 形式：</p><ul><li>Nous parlons. → Parlons !</li><li>Vous parlez. → Parlez !</li><li>Nous finissons. → Finissons !</li><li>Vous finissez. → Finissez !</li></ul><p>要点：</p><ul><li>肯定命令式不加主语代词；否定命令式仍用 ne...pas，ne 在动词前，pas 在动词后。</li><li>否定不改变 tu 形式的去 s 结果：Parle ! → Ne parle pas !（不是 Ne parles pas）。</li><li>aller 的 tu 命令式是 va。</li><li>不要把 aller 的 va 与将来时 va 混同：命令式的 va 表示「去」，不表示「将要」。</li></ul><p>注意：否定命令式的系统讲解见第 2 单元。</p>"
+      "body": "<p>非代词式动词的肯定命令式第二人称单数一般取自现在时去掉主语的形式：-er 动词通常不带 -s，其他动词多保留 -s，aller 等有例外。</p><ul><li>Parle ! / Finis ! / Va ! / Fais ! / Viens !</li><li>Ne parle pas ! / Ne finis pas ! / Ne va pas ! / Ne fais pas ! / Ne viens pas !</li></ul><p>nous 与 vous 形式：</p><ul><li>Nous parlons. → Parlons !</li><li>Vous parlez. → Parlez !</li><li>Nous finissons. → Finissons !</li><li>Vous finissez. → Finissez !</li></ul><p>要点：</p><ul><li>肯定命令式不加主语代词；否定命令式仍用 ne...pas，ne 在动词前，pas 在动词后。</li><li>否定不改变 tu 形式的去 s 结果：Parle ! → Ne parle pas !（不是 Ne parles pas）。</li><li>aller 的 tu 命令式是 va。</li><li>不要把 aller 的 va 与将来时 va 混同：命令式的 va 表示「去」，不表示「将要」。</li></ul><p>注意：否定命令式的系统讲解见第 2 单元。</p>",
+      "locales": {
+        "fr": {
+          "title": "Impératif des verbes non pronominaux : forme affirmative et forme négative",
+          "body": "<p>À l'impératif affirmatif, la deuxième personne du singulier des verbes non pronominaux reprend généralement le présent sans le sujet : les verbes en -er n'ont généralement pas de -s, les autres verbes conservent le plus souvent le -s, avec des exceptions comme aller.</p><ul><li>Parle ! / Finis ! / Va ! / Fais ! / Viens !</li><li>Ne parle pas ! / Ne finis pas ! / Ne va pas ! / Ne fais pas ! / Ne viens pas !</li></ul><p>Formes avec nous et vous :</p><ul><li>Nous parlons. → Parlons !</li><li>Vous parlez. → Parlez !</li><li>Nous finissons. → Finissons !</li><li>Vous finissez. → Finissez !</li></ul><p>À retenir :</p><ul><li>L'impératif affirmatif ne prend pas de pronom sujet ; l'impératif négatif emploie ne...pas, ne devant le verbe et pas après.</li><li>La négation ne change pas le résultat de la suppression du s avec tu : Parle ! → Ne parle pas ! (et non Ne parles pas).</li><li>L'impératif d'aller avec tu est va.</li><li>Ne pas confondre le va de l'impératif avec le va du futur : le va de l'impératif signifie « va », non « ira ».</li></ul><p>Attention : l'exposé systématique de l'impératif négatif figure dans l'unité 2.</p>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u1-7",
       "title": "savoir 的命令式：sache / sachons / sachez（仅识别）",
-      "body": "<p>savoir 的命令式是 sache / sachons / sachez，词干为 sach-，与现在时变位不同。</p><ul><li>Sache que je suis là.（你要知道我在。）</li><li>Sachons attendre.（我们要懂得等待。）</li><li>Sachez que ce n'est pas facile.（您要知道这不容易。）</li></ul><p>要点（仅要求识别）：</p><ul><li>三个人称都以 sach- 为词干：sache、sachons、sachez。</li><li>不要写成 savez / savons / sais；这些是现在时形式。</li><li>不把 sach- 词干推广到其他动词。</li></ul>"
+      "body": "<p>savoir 的命令式是 sache / sachons / sachez，词干为 sach-，与现在时变位不同。</p><ul><li>Sache que je suis là.（你要知道我在。）</li><li>Sachons attendre.（我们要懂得等待。）</li><li>Sachez que ce n'est pas facile.（您要知道这不容易。）</li></ul><p>要点（仅要求识别）：</p><ul><li>三个人称都以 sach- 为词干：sache、sachons、sachez。</li><li>不要写成 savez / savons / sais；这些是现在时形式。</li><li>不把 sach- 词干推广到其他动词。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "Impératif de savoir : sache / sachons / sachez (reconnaissance seulement)",
+          "body": "<p>L'impératif de savoir est sache / sachons / sachez, sur le radical sach-, différent du présent de l'indicatif.</p><ul><li>Sache que je suis là.</li><li>Sachons attendre.</li><li>Sachez que ce n'est pas facile.</li></ul><p>À retenir (reconnaissance seulement) :</p><ul><li>Les trois personnes ont le radical sach- : sache, sachons, sachez.</li><li>On n'écrit pas savez / savons / sais : ce sont des formes du présent.</li><li>Ne généralisez pas le radical sach- à d'autres verbes.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u2-1",
       "title": "否定命令式：ne...pas 包住动词",
-      "body": "<p>否定命令式用 ne...pas 包住变位动词：ne 在动词前，pas 在动词后；ne 在元音或哑音 h 前省音为 n'。</p><ul><li>Parle ! → Ne parle pas !（别说话！）</li><li>Finis ! → Ne finis pas !（别结束！）</li><li>Fais du bruit. → Ne fais pas de bruit.（别弄出声音。）</li><li>Sois triste. → Ne sois pas triste.（别难过。）</li><li>Ayez peur. → N'ayez pas peur.（别害怕。）</li><li>Va là-bas. → Ne va pas là-bas.（别去那边。）</li></ul><p>要点：</p><ul><li>肯定命令式的 tu 去 s 规则在否定中仍然有效：parle → ne parle pas；finis → ne finis pas。</li><li>être / avoir 的命令式形式不变：sois → ne sois pas；ayez → n'ayez pas。</li><li>直接宾语前的不定冠词或部分冠词在绝对否定中变为 de：du bruit → de bruit。</li><li>否定词不止 pas 时（ne...plus、ne...jamais 等），ne 仍在动词前，另一个否定词在动词后。</li></ul>"
+      "body": "<p>否定命令式用 ne...pas 包住变位动词：ne 在动词前，pas 在动词后；ne 在元音或哑音 h 前省音为 n'。</p><ul><li>Parle ! → Ne parle pas !（别说话！）</li><li>Finis ! → Ne finis pas !（别结束！）</li><li>Fais du bruit. → Ne fais pas de bruit.（别弄出声音。）</li><li>Sois triste. → Ne sois pas triste.（别难过。）</li><li>Ayez peur. → N'ayez pas peur.（别害怕。）</li><li>Va là-bas. → Ne va pas là-bas.（别去那边。）</li></ul><p>要点：</p><ul><li>肯定命令式的 tu 去 s 规则在否定中仍然有效：parle → ne parle pas；finis → ne finis pas。</li><li>être / avoir 的命令式形式不变：sois → ne sois pas；ayez → n'ayez pas。</li><li>直接宾语前的不定冠词或部分冠词在绝对否定中变为 de：du bruit → de bruit。</li><li>否定词不止 pas 时（ne...plus、ne...jamais 等），ne 仍在动词前，另一个否定词在动词后。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "Impératif négatif : ne...pas encadre le verbe",
+          "body": "<p>L'impératif négatif emploie ne...pas autour du verbe : ne devant le verbe, pas après ; devant une voyelle ou un h muet, ne s'élide en n'.</p><ul><li>Parle ! → Ne parle pas !</li><li>Finis ! → Ne finis pas !</li><li>Fais du bruit. → Ne fais pas de bruit.</li><li>Sois triste. → Ne sois pas triste.</li><li>Ayez peur. → N'ayez pas peur.</li><li>Va là-bas. → Ne va pas là-bas.</li></ul><p>À retenir :</p><ul><li>La suppression du s à l'impératif affirmatif avec tu reste valable à la forme négative : parle → ne parle pas ; finis → ne finis pas.</li><li>Les formes de l'impératif d'être / avoir ne changent pas : sois → ne sois pas ; ayez → n'ayez pas.</li><li>L'article indéfini ou partitif devant un complément d'objet direct devient de dans la négation absolue : du bruit → de bruit.</li><li>Quand la négation ne se limite pas à pas (ne...plus, ne...jamais, etc.), ne reste devant le verbe et l'autre mot négatif se place après le verbe.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u2-2",
       "title": "命令式的交际功能：命令、禁止、请求、建议、鼓励（仅识别）",
-      "body": "<p>同一个命令式形式可以表达不同的交际功能，具体语气由语境、语调和肯定/否定形式决定。</p><ul><li>命令：Ferme la porte !（把门关上！）</li><li>禁止：Ne traversez pas ici !（不要从这里穿过去！）</li><li>请求：Fermez la fenêtre, s'il vous plaît.（请把窗户关上。）</li><li>建议：Prenez le train, c'est plus rapide.（坐火车吧，更快。）</li><li>鼓励：Essayez encore, vous y êtes presque !（再试试，您就差一点了！）</li></ul><p>要点（仅要求识别）：</p><ul><li>否定形式常表达禁止，但也可表达劝阻或请求；不能把 ne...pas 固定等同于某一种功能。</li><li>带 s'il vous plaît、语气缓和的结构更接近请求；感叹号、短促形式更接近命令或鼓励。</li><li>判断依据是语境和说话意图，不是动词形式本身。</li></ul><p>注意：不把命令式与陈述句将来时混同。</p>"
+      "body": "<p>同一个命令式形式可以表达不同的交际功能，具体语气由语境、语调和肯定/否定形式决定。</p><ul><li>命令：Ferme la porte !（把门关上！）</li><li>禁止：Ne traversez pas ici !（不要从这里穿过去！）</li><li>请求：Fermez la fenêtre, s'il vous plaît.（请把窗户关上。）</li><li>建议：Prenez le train, c'est plus rapide.（坐火车吧，更快。）</li><li>鼓励：Essayez encore, vous y êtes presque !（再试试，您就差一点了！）</li></ul><p>要点（仅要求识别）：</p><ul><li>否定形式常表达禁止，但也可表达劝阻或请求；不能把 ne...pas 固定等同于某一种功能。</li><li>带 s'il vous plaît、语气缓和的结构更接近请求；感叹号、短促形式更接近命令或鼓励。</li><li>判断依据是语境和说话意图，不是动词形式本身。</li></ul><p>注意：不把命令式与陈述句将来时混同。</p>",
+      "locales": {
+        "fr": {
+          "title": "Fonctions communicatives de l'impératif : ordre, interdiction, demande, conseil, encouragement (reconnaissance seulement)",
+          "body": "<p>Une même forme impérative peut remplir différentes fonctions communicatives ; le ton dépend du contexte, de l'intonation et de la forme affirmative ou négative.</p><ul><li>Ordre : Ferme la porte !</li><li>Interdiction : Ne traversez pas ici !</li><li>Demande : Fermez la fenêtre, s'il vous plaît.</li><li>Conseil : Prenez le train, c'est plus rapide.</li><li>Encouragement : Essayez encore, vous y êtes presque !</li></ul><p>À retenir (reconnaissance seulement) :</p><ul><li>La forme négative exprime souvent l'interdiction, mais peut aussi exprimer une dissuasion ou une demande ; ne pas l'associer systématiquement à une seule fonction.</li><li>Une structure avec s'il vous plaît ou un ton adouci se rapproche de la demande ; un point d'exclamation et une forme brève se rapprochent de l'ordre ou de l'encouragement.</li><li>Le critère est le contexte et l'intention du locuteur, non la forme verbale elle-même.</li></ul><p>Attention : ne pas confondre l'impératif avec le futur de l'indicatif.</p>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u3-1",
       "title": "c'est / ce sont：首次指认人与物",
-      "body": "<p>c'est 和 ce sont 用来首次指认、介绍人或物。用哪一个，取决于后面被指认对象是单数还是复数：单数用 c'est，复数用 ce sont。</p><ul><li>C'est mon frère.（这是我哥哥。）</li><li>C'est une étudiante.（这是一名女学生。）</li><li>Ce sont mes parents.（这是我父母。）</li><li>Ce sont des étudiants.（这些是学生。）</li><li>— Qui est-ce ? — C'est Julie.（——这是谁？——是朱莉。）</li></ul><p>ce 是中性指示代词，本身不随表语名词的阴阳变化：C'est un acteur. / C'est une actrice. 都用 c'est。变化只发生在后面的名词和限定词上。</p><p>指认复数对象时，规范书面语用 ce sont；口语里常听到 C'est des étudiants，但这是语域变体，书面标准按数配合。</p><p>要点：</p><ul><li>先判断被指认对象是单数还是复数，再选 c'est / ce sont。</li><li>ce 不随表语阴阳变化，不能写 cette est / ces sont。</li><li>首次介绍与后续复指要衔接：Ce sont mes parents. Ils sont professeurs.（这是我父母。他们是老师。）</li></ul><p>注意：c'est 与 il est 的功能分工见下一张。</p>"
+      "body": "<p>c'est 和 ce sont 用来首次指认、介绍人或物。用哪一个，取决于后面被指认对象是单数还是复数：单数用 c'est，复数用 ce sont。</p><ul><li>C'est mon frère.（这是我哥哥。）</li><li>C'est une étudiante.（这是一名女学生。）</li><li>Ce sont mes parents.（这是我父母。）</li><li>Ce sont des étudiants.（这些是学生。）</li><li>— Qui est-ce ? — C'est Julie.（——这是谁？——是朱莉。）</li></ul><p>ce 是中性指示代词，本身不随表语名词的阴阳变化：C'est un acteur. / C'est une actrice. 都用 c'est。变化只发生在后面的名词和限定词上。</p><p>指认复数对象时，规范书面语用 ce sont；口语里常听到 C'est des étudiants，但这是语域变体，书面标准按数配合。</p><p>要点：</p><ul><li>先判断被指认对象是单数还是复数，再选 c'est / ce sont。</li><li>ce 不随表语阴阳变化，不能写 cette est / ces sont。</li><li>首次介绍与后续复指要衔接：Ce sont mes parents. Ils sont professeurs.（这是我父母。他们是老师。）</li></ul><p>注意：c'est 与 il est 的功能分工见下一张。</p>",
+      "locales": {
+        "fr": {
+          "title": "c'est / ce sont : première identification d'une personne ou d'une chose",
+          "body": "<p>c'est et ce sont servent à identifier ou présenter pour la première fois une personne ou une chose. Le choix dépend du nombre de l'élément identifié : singulier → c'est, pluriel → ce sont.</p><ul><li>C'est mon frère.</li><li>C'est une étudiante.</li><li>Ce sont mes parents.</li><li>Ce sont des étudiants.</li><li>— Qui est-ce ? — C'est Julie.</li></ul><p>« ce » est un pronom démonstratif neutre : il ne varie pas selon le genre de l'attribut. C'est un acteur. et C'est une actrice. emploient tous deux c'est. Seuls le nom et le déterminant qui suivent varient.</p><p>Pour identifier plusieurs éléments, la langue écrite soignée emploie ce sont ; à l'oral, on entend souvent C'est des étudiants, mais il s'agit d'une variante de registre : la norme écrite suit l'accord en nombre.</p><p>À retenir :</p><ul><li>Déterminez d'abord si l'élément identifié est singulier ou pluriel, puis choisissez c'est / ce sont.</li><li>ce ne varie pas selon le genre de l'attribut : on n'écrit ni « cette est » ni « ces sont ».</li><li>La première présentation et la reprise ensuite doivent s'enchaîner : Ce sont mes parents. Ils sont professeurs.</li></ul><p>Attention : la répartition des fonctions de c'est et de il est est traitée sur la fiche suivante.</p>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u3-2",
       "title": "c'est / ce sont 的数配合：名词与重读代词",
-      "body": "<p>选择 c'est 还是 ce sont，看的不是主语 ce，而是后面被指认对象的数：单数名词或单数重读代词用 c'est，复数名词或第三人称复数重读代词用 ce sont。ce 的形式始终不变。</p><p>单数：</p><ul><li>C'est le professeur de ma sœur.（这是我姐姐的老师。）</li><li>C'est moi.（是我。）</li><li>C'est toi.（是你。）</li></ul><p>复数：</p><ul><li>Ce sont les professeurs de ma sœur.（这些是我姐姐的老师。）</li><li>Ce sont eux.（是他们。）</li><li>Ce sont elles.（是她们。）</li></ul><p>第一、二人称复数重读代词 nous、vous 是例外：它们虽然表示复数，前面仍用 c'est。</p><ul><li>C'est nous.（是我们。）</li><li>C'est vous.（是您/你们。）</li></ul><p>指示形容词要与名词数配合：C'est cet étudiant. → Ce sont ces étudiants.（这是这名学生。→ 这些是这些学生。）</p><p>要点：</p><ul><li>不要按主语 ce 判断，ce 没有单复数变化。</li><li>ce sont 不能类推到 nous、vous：不说 Ce sont nous。</li><li>口语中 c'est 可泛用于复数，规范书面语仍按数配合。</li></ul><p>注意：指认与描述的分工见下一张。</p>"
+      "body": "<p>选择 c'est 还是 ce sont，看的不是主语 ce，而是后面被指认对象的数：单数名词或单数重读代词用 c'est，复数名词或第三人称复数重读代词用 ce sont。ce 的形式始终不变。</p><p>单数：</p><ul><li>C'est le professeur de ma sœur.（这是我姐姐的老师。）</li><li>C'est moi.（是我。）</li><li>C'est toi.（是你。）</li></ul><p>复数：</p><ul><li>Ce sont les professeurs de ma sœur.（这些是我姐姐的老师。）</li><li>Ce sont eux.（是他们。）</li><li>Ce sont elles.（是她们。）</li></ul><p>第一、二人称复数重读代词 nous、vous 是例外：它们虽然表示复数，前面仍用 c'est。</p><ul><li>C'est nous.（是我们。）</li><li>C'est vous.（是您/你们。）</li></ul><p>指示形容词要与名词数配合：C'est cet étudiant. → Ce sont ces étudiants.（这是这名学生。→ 这些是这些学生。）</p><p>要点：</p><ul><li>不要按主语 ce 判断，ce 没有单复数变化。</li><li>ce sont 不能类推到 nous、vous：不说 Ce sont nous。</li><li>口语中 c'est 可泛用于复数，规范书面语仍按数配合。</li></ul><p>注意：指认与描述的分工见下一张。</p>",
+      "locales": {
+        "fr": {
+          "title": "Accord en nombre de c'est / ce sont : noms et pronoms toniques",
+          "body": "<p>Le choix entre c'est et ce sont dépend non du sujet ce, mais du nombre de l'élément identifié : un nom singulier ou un pronom tonique singulier appelle c'est ; un nom pluriel ou un pronom tonique de troisième personne du pluriel appelle ce sont. La forme de ce reste toujours invariable.</p><p>Singulier :</p><ul><li>C'est le professeur de ma sœur.</li><li>C'est moi.</li><li>C'est toi.</li></ul><p>Pluriel :</p><ul><li>Ce sont les professeurs de ma sœur.</li><li>Ce sont eux.</li><li>Ce sont elles.</li></ul><p>Les pronoms toniques de première et de deuxième personne du pluriel, nous et vous, font exception : bien qu'ils désignent plusieurs personnes, ils se construisent avec c'est.</p><ul><li>C'est nous.</li><li>C'est vous.</li></ul><p>L'adjectif démonstratif s'accorde en nombre avec le nom : C'est cet étudiant. → Ce sont ces étudiants.</p><p>À retenir :</p><ul><li>Ne jugez pas d'après le sujet ce : ce n'a pas de variation en nombre.</li><li>ce sont ne s'étend pas à nous et vous : on ne dit pas Ce sont nous.</li><li>À l'oral, c'est peut s'employer devant un pluriel, mais la langue écrite soignée suit l'accord en nombre.</li></ul><p>Attention : la répartition entre identification et description est traitée sur la fiche suivante.</p>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u3-3",
       "title": "c'est 指认 vs il est 描述：功能不同",
-      "body": "<p>c'est 与 il/elle est 都可以译成「是」，但功能不同：c'est 用于首次指认人或物，后接名词；il/elle est 用于描述已确定的人或物的属性，后接形容词，或职业、身份表语。</p><p>指认：</p><ul><li>C'est un médecin.（这是一位医生。）</li><li>Ce sont des amis de Marie.（这些是玛丽的朋友。）</li><li>C'est mon voisin.（这是我的邻居。）</li></ul><p>描述已确定的人：</p><ul><li>Il est médecin.（他是医生。）</li><li>Elle est très gentille.（她很和善。）</li><li>Ils sont étudiants.（他们是学生。）</li></ul><p>职业名词作 il/elle est 的表语时，前面一般不加冠词：Il est professeur. / Elle est avocate. 而 c'est 指认时保留冠词：C'est un professeur. / C'est une avocate.</p><p>c'est 还可后接形容词，对情况或行为作评价：C'est difficile.（这很难。）C'est très gentil de ta part.（你真好。）这时 c'est 指代的是情况，不是某个已确定的人。</p><p>要点：</p><ul><li>先判断是在「指认是谁/是什么」还是在「描述已知的人怎样」。</li><li>不能只看后面是名词还是形容词：Il est médecin 与 C'est un médecin 都对，区别在功能。</li><li>描述已知的人不用 c'est + 形容词：不说 C'est très gentil avec tout le monde 来指 Paul。</li></ul><p>注意：不把 c'est 后的形容词评价与 il est + 形容词的人称描述混为一谈。</p>"
+      "body": "<p>c'est 与 il/elle est 都可以译成「是」，但功能不同：c'est 用于首次指认人或物，后接名词；il/elle est 用于描述已确定的人或物的属性，后接形容词，或职业、身份表语。</p><p>指认：</p><ul><li>C'est un médecin.（这是一位医生。）</li><li>Ce sont des amis de Marie.（这些是玛丽的朋友。）</li><li>C'est mon voisin.（这是我的邻居。）</li></ul><p>描述已确定的人：</p><ul><li>Il est médecin.（他是医生。）</li><li>Elle est très gentille.（她很和善。）</li><li>Ils sont étudiants.（他们是学生。）</li></ul><p>职业名词作 il/elle est 的表语时，前面一般不加冠词：Il est professeur. / Elle est avocate. 而 c'est 指认时保留冠词：C'est un professeur. / C'est une avocate.</p><p>c'est 还可后接形容词，对情况或行为作评价：C'est difficile.（这很难。）C'est très gentil de ta part.（你真好。）这时 c'est 指代的是情况，不是某个已确定的人。</p><p>要点：</p><ul><li>先判断是在「指认是谁/是什么」还是在「描述已知的人怎样」。</li><li>不能只看后面是名词还是形容词：Il est médecin 与 C'est un médecin 都对，区别在功能。</li><li>描述已知的人不用 c'est + 形容词：不说 C'est très gentil avec tout le monde 来指 Paul。</li></ul><p>注意：不把 c'est 后的形容词评价与 il est + 形容词的人称描述混为一谈。</p>",
+      "locales": {
+        "fr": {
+          "title": "c'est pour identifier et il est pour décrire : des fonctions différentes",
+          "body": "<p>c'est et il/elle est peuvent tous deux se traduire par « est », mais leurs fonctions diffèrent : c'est sert à identifier pour la première fois une personne ou une chose et se construit avec un nom ; il/elle est sert à décrire une propriété d'une personne ou d'une chose déjà déterminée, avec un adjectif ou un nom de profession ou d'identité attribut.</p><p>Identification :</p><ul><li>C'est un médecin.</li><li>Ce sont des amis de Marie.</li><li>C'est mon voisin.</li></ul><p>Description d'une personne déterminée :</p><ul><li>Il est médecin.</li><li>Elle est très gentille.</li><li>Ils sont étudiants.</li></ul><p>Quand un nom de profession est attribut de il/elle est, il ne prend généralement pas d'article : Il est professeur. / Elle est avocate. Avec c'est, l'identification conserve l'article : C'est un professeur. / C'est une avocate.</p><p>c'est peut aussi être suivi d'un adjectif pour évaluer une situation ou un comportement : C'est difficile. C'est très gentil de ta part. c'est renvoie alors à la situation, non à une personne déjà déterminée.</p><p>À retenir :</p><ul><li>Déterminez d'abord s'il s'agit d'identifier qui ou quoi, ou de décrire comment est une personne déjà connue.</li><li>Ne regardez pas seulement si le mot suivant est un nom ou un adjectif : Il est médecin et C'est un médecin sont tous deux corrects, la différence est fonctionnelle.</li><li>Pour décrire une personne connue, on n'emploie pas c'est + adjectif : on ne dit pas « C'est très gentil avec tout le monde » pour parler de Paul.</li></ul><p>Attention : ne pas confondre l'évaluation d'une situation avec c'est + adjectif et la description d'une personne avec il est + adjectif.</p>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u3-4",
       "title": "c'est 介绍与 il est 介绍（仅识别）",
-      "body": "<p>c'est 用来介绍或识别一个名词性对象，后接名词或重读代词；il/elle est 用来交代已知人物的职业或状态，职业名词前一般不用冠词。两者都能译成「是」，但信息结构不同。</p><ul><li>Je vous présente Paul. C'est un collègue.（我给您介绍保罗。这是一位同事。）</li><li>Paul est architecte. Il est architecte depuis dix ans.（保罗是建筑师。他当建筑师十年了。）</li><li>— Qui est cette femme ? — C'est la directrice.（——这位女士是谁？——是经理。）</li><li>Elle est en vacances.（她在度假。）</li></ul><p>判断线索：</p><ul><li>c'est 后面常常出现名词短语（un collègue, la directrice）或重读代词（moi, eux）。</li><li>il/elle est 后面常出现形容词、职业名词或状态短语（architecte, en vacances）。</li><li>il/elle est 也可回指上文已经确定的人；c'est 更适合首次介绍或识别。</li></ul><p>要点（仅要求识别）：</p><ul><li>冠词有无只是线索之一，不能单凭职业名词前有没有冠词就判定用哪个结构。</li><li>不要把 c'est 当作 il/elle est 的同义替换；先看是在介绍新对象还是在描述已知对象。</li></ul>"
+      "body": "<p>c'est 用来介绍或识别一个名词性对象，后接名词或重读代词；il/elle est 用来交代已知人物的职业或状态，职业名词前一般不用冠词。两者都能译成「是」，但信息结构不同。</p><ul><li>Je vous présente Paul. C'est un collègue.（我给您介绍保罗。这是一位同事。）</li><li>Paul est architecte. Il est architecte depuis dix ans.（保罗是建筑师。他当建筑师十年了。）</li><li>— Qui est cette femme ? — C'est la directrice.（——这位女士是谁？——是经理。）</li><li>Elle est en vacances.（她在度假。）</li></ul><p>判断线索：</p><ul><li>c'est 后面常常出现名词短语（un collègue, la directrice）或重读代词（moi, eux）。</li><li>il/elle est 后面常出现形容词、职业名词或状态短语（architecte, en vacances）。</li><li>il/elle est 也可回指上文已经确定的人；c'est 更适合首次介绍或识别。</li></ul><p>要点（仅要求识别）：</p><ul><li>冠词有无只是线索之一，不能单凭职业名词前有没有冠词就判定用哪个结构。</li><li>不要把 c'est 当作 il/elle est 的同义替换；先看是在介绍新对象还是在描述已知对象。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "Présenter avec c'est et présenter avec il est (reconnaissance seulement)",
+          "body": "<p>c'est sert à présenter ou à identifier un objet nominal et se construit avec un nom ou un pronom tonique ; il/elle est sert à indiquer la profession ou l'état d'une personne connue, le nom de profession étant généralement sans article. Les deux se traduisent par « est », mais la structure de l'information diffère.</p><ul><li>Je vous présente Paul. C'est un collègue.</li><li>Paul est architecte. Il est architecte depuis dix ans.</li><li>— Qui est cette femme ? — C'est la directrice.</li><li>Elle est en vacances.</li></ul><p>Indices :</p><ul><li>Après c'est apparaît souvent un groupe nominal (un collègue, la directrice) ou un pronom tonique (moi, eux).</li><li>Après il/elle est apparaissent souvent un adjectif, un nom de profession ou un groupe exprimant un état (architecte, en vacances).</li><li>il/elle est peut aussi reprendre une personne déjà déterminée dans le contexte ; c'est convient mieux à une première présentation ou à une identification.</li></ul><p>À retenir (reconnaissance seulement) :</p><ul><li>La présence ou l'absence d'article n'est qu'un indice : on ne choisit pas la structure sur ce seul critère.</li><li>Ne pas traiter c'est comme un synonyme de il/elle est ; regardez d'abord s'il s'agit de présenter un nouvel objet ou de décrire un objet connu.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u3-5",
       "title": "c'est...qui/que 分裂结构（仅识别）",
-      "body": "<p>强调句用 c'est / ce sont 引出被强调成分，后面用 qui 或 que 引导关系从句。被强调成分在从句中作主语时用 qui，作直接宾语时用 que。</p><ul><li>C'est Marie qui prépare le dîner.（是玛丽在做晚饭。）——Marie 在从句中作主语。</li><li>C'est ce livre que je préfère.（我更喜欢的是这本书。）——ce livre 在从句中作 préférer 的直接宾语。</li><li>Ce sont mes parents qui arrivent demain.（明天到的是我父母。）——被强调成分是复数，用 ce sont。</li></ul><p>识别方法：把 c'est / ce sont 和后面的名词拿掉，看剩余部分缺什么：</p><ul><li>缺主语 → qui：C'est Paul qui téléphone.（是保罗打电话。）</li><li>缺直接宾语 → que：C'est Paul que je cherche.（我找的是保罗。）</li></ul><p>que 在元音开头的词前省音为 qu'：C'est Paul qu'elle cherche.（她找的是保罗。）</p><p>要点（仅要求识别）：</p><ul><li>只处理 qui / que 分裂结构；不把 dont 直接套进 c'est...dont。</li><li>识别时先找从句的谓语，再判断被强调成分在从句中的句法角色。</li></ul><p>注意：强调句的产出与配合规则见第 4 单元。</p>"
+      "body": "<p>强调句用 c'est / ce sont 引出被强调成分，后面用 qui 或 que 引导关系从句。被强调成分在从句中作主语时用 qui，作直接宾语时用 que。</p><ul><li>C'est Marie qui prépare le dîner.（是玛丽在做晚饭。）——Marie 在从句中作主语。</li><li>C'est ce livre que je préfère.（我更喜欢的是这本书。）——ce livre 在从句中作 préférer 的直接宾语。</li><li>Ce sont mes parents qui arrivent demain.（明天到的是我父母。）——被强调成分是复数，用 ce sont。</li></ul><p>识别方法：把 c'est / ce sont 和后面的名词拿掉，看剩余部分缺什么：</p><ul><li>缺主语 → qui：C'est Paul qui téléphone.（是保罗打电话。）</li><li>缺直接宾语 → que：C'est Paul que je cherche.（我找的是保罗。）</li></ul><p>que 在元音开头的词前省音为 qu'：C'est Paul qu'elle cherche.（她找的是保罗。）</p><p>要点（仅要求识别）：</p><ul><li>只处理 qui / que 分裂结构；不把 dont 直接套进 c'est...dont。</li><li>识别时先找从句的谓语，再判断被强调成分在从句中的句法角色。</li></ul><p>注意：强调句的产出与配合规则见第 4 单元。</p>",
+      "locales": {
+        "fr": {
+          "title": "Structure clivée c'est...qui/que (reconnaissance seulement)",
+          "body": "<p>La phrase emphatique emploie c'est / ce sont pour introduire l'élément mis en relief, puis qui ou que pour introduire la proposition relative. L'élément mis en relief est sujet de la subordonnée → qui ; il est complément d'objet direct → que.</p><ul><li>C'est Marie qui prépare le dîner. — Marie est sujet dans la subordonnée.</li><li>C'est ce livre que je préfère. — ce livre est complément d'objet direct de préférer dans la subordonnée.</li><li>Ce sont mes parents qui arrivent demain. — l'élément mis en relief est pluriel, d'où ce sont.</li></ul><p>Méthode : retirez c'est / ce sont et le nom qui suit, puis regardez ce qui manque dans le reste :</p><ul><li>Il manque le sujet → qui : C'est Paul qui téléphone.</li><li>Il manque le complément d'objet direct → que : C'est Paul que je cherche.</li></ul><p>Devant une voyelle, que s'élide en qu' : C'est Paul qu'elle cherche.</p><p>À retenir (reconnaissance seulement) :</p><ul><li>On ne traite ici que les structures clivées avec qui / que ; ne pas introduire directement dont dans c'est...dont.</li><li>Pour reconnaître, repérez d'abord le verbe de la subordonnée, puis la fonction de l'élément mis en relief dans cette subordonnée.</li></ul><p>Attention : la production des phrases emphatiques et leurs règles d'accord sont traitées dans l'unité 4.</p>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u4-1",
       "title": "强调句的连接词：主语用 qui，直宾用 que",
-      "body": "<p>强调句的基本框架是：c'est / ce sont + 被强调成分 + qui / que + 其余部分。连接词由被强调成分在关系从句中的句法角色决定。</p><p>强调主语 → qui：</p><ul><li>C'est Marie qui prépare le dîner.（是玛丽在做晚饭。）</li><li>Ce sont mes parents qui arrivent demain.（明天到的是我父母。）</li><li>C'est moi qui ai raison.（有道理的是我。）</li></ul><p>强调直接宾语 → que：</p><ul><li>C'est ce livre que je préfère.（我更喜欢的是这本书。）</li><li>C'est Paul que je cherche.（我找的是保罗。）</li><li>Ce sont ces photos que nous regardons.（我们看的是这些照片。）</li></ul><p>que 在元音或哑音 h 前省音为 qu'：C'est Paul qu'elle invite.（她邀请的是保罗。）</p><p>判断步骤：</p><ul><li>先找出被强调成分在从句中作什么成分。</li><li>作主语用 qui；作直接宾语用 que。</li><li>被强调成分是复数时，c'est 改为 ce sont（见下一张）。</li></ul><p>要点：</p><ul><li>qui 后面直接跟变位动词；que 后面通常先出现从句主语，再出现动词。</li><li>不要按中文「的」来选连接词，要看句法角色。</li></ul>"
+      "body": "<p>强调句的基本框架是：c'est / ce sont + 被强调成分 + qui / que + 其余部分。连接词由被强调成分在关系从句中的句法角色决定。</p><p>强调主语 → qui：</p><ul><li>C'est Marie qui prépare le dîner.（是玛丽在做晚饭。）</li><li>Ce sont mes parents qui arrivent demain.（明天到的是我父母。）</li><li>C'est moi qui ai raison.（有道理的是我。）</li></ul><p>强调直接宾语 → que：</p><ul><li>C'est ce livre que je préfère.（我更喜欢的是这本书。）</li><li>C'est Paul que je cherche.（我找的是保罗。）</li><li>Ce sont ces photos que nous regardons.（我们看的是这些照片。）</li></ul><p>que 在元音或哑音 h 前省音为 qu'：C'est Paul qu'elle invite.（她邀请的是保罗。）</p><p>判断步骤：</p><ul><li>先找出被强调成分在从句中作什么成分。</li><li>作主语用 qui；作直接宾语用 que。</li><li>被强调成分是复数时，c'est 改为 ce sont（见下一张）。</li></ul><p>要点：</p><ul><li>qui 后面直接跟变位动词；que 后面通常先出现从句主语，再出现动词。</li><li>不要按中文「的」来选连接词，要看句法角色。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "Les connecteurs de la phrase emphatique : qui pour le sujet, que pour le complément d'objet direct",
+          "body": "<p>Le cadre de base de la phrase emphatique est : c'est / ce sont + élément mis en relief + qui / que + le reste. Le connecteur dépend de la fonction de l'élément mis en relief dans la proposition relative.</p><p>Mise en relief du sujet → qui :</p><ul><li>C'est Marie qui prépare le dîner.</li><li>Ce sont mes parents qui arrivent demain.</li><li>C'est moi qui ai raison.</li></ul><p>Mise en relief du complément d'objet direct → que :</p><ul><li>C'est ce livre que je préfère.</li><li>C'est Paul que je cherche.</li><li>Ce sont ces photos que nous regardons.</li></ul><p>Devant une voyelle ou un h muet, que s'élide en qu' : C'est Paul qu'elle invite.</p><p>Démarche :</p><ul><li>Identifiez d'abord la fonction de l'élément mis en relief dans la subordonnée.</li><li>Sujet → qui ; complément d'objet direct → que.</li><li>Si l'élément mis en relief est pluriel, c'est devient ce sont (voir la fiche suivante).</li></ul><p>À retenir :</p><ul><li>qui est suivi directement du verbe conjugué ; après que viennent généralement le sujet de la subordonnée, puis le verbe.</li><li>Ne choisissez pas le connecteur d'après un mot de liaison d'une autre langue : regardez la fonction syntaxique.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u4-2",
       "title": "强调句的两处配合：ce sont 与 qui 后动词",
-      "body": "<p>强调句有两处配合：引出成分 c'est / ce sont 与被强调成分的数配合；qui 后的动词与被强调成分的人称和数配合。</p><p>ce sont + 复数：</p><ul><li>Ce sont mes parents qui arrivent demain.（明天到的是我父母。）</li><li>Ce sont eux qui ont raison.（有道理的是他们。）</li><li>Ce sont mes sœurs qui préparent le dîner.（是我姐妹们在做晚饭。）</li></ul><p>重读代词决定 qui 后动词的人称：</p><ul><li>C'est moi qui ai raison.（有道理的是我。）</li><li>C'est toi qui as raison.（有道理的是你。）</li><li>C'est nous qui avons raison.（有道理的是我们。）</li><li>C'est vous qui avez raison.（有道理的是您/你们。）</li><li>Ce sont eux qui ont raison.（有道理的是他们。）</li></ul><p>注意：nous、vous 前仍用 c'est，但 qui 后的动词按 nous、vous 变位；eux、elles 前用 ce sont。</p><p>要点：</p><ul><li>先看被强调成分的数，决定 c'est / ce sont。</li><li>再看被强调成分的人称，决定 qui 后动词的词形。</li><li>两个配合点可能同时出现：Ce sont mes parents qui arrivent. 中 ce sont 与 mes parents 配合，arrivent 也与 mes parents 配合。</li></ul><p>注意：口语中 c'est 可接复数，但规范书面语用 ce sont。</p>"
+      "body": "<p>强调句有两处配合：引出成分 c'est / ce sont 与被强调成分的数配合；qui 后的动词与被强调成分的人称和数配合。</p><p>ce sont + 复数：</p><ul><li>Ce sont mes parents qui arrivent demain.（明天到的是我父母。）</li><li>Ce sont eux qui ont raison.（有道理的是他们。）</li><li>Ce sont mes sœurs qui préparent le dîner.（是我姐妹们在做晚饭。）</li></ul><p>重读代词决定 qui 后动词的人称：</p><ul><li>C'est moi qui ai raison.（有道理的是我。）</li><li>C'est toi qui as raison.（有道理的是你。）</li><li>C'est nous qui avons raison.（有道理的是我们。）</li><li>C'est vous qui avez raison.（有道理的是您/你们。）</li><li>Ce sont eux qui ont raison.（有道理的是他们。）</li></ul><p>注意：nous、vous 前仍用 c'est，但 qui 后的动词按 nous、vous 变位；eux、elles 前用 ce sont。</p><p>要点：</p><ul><li>先看被强调成分的数，决定 c'est / ce sont。</li><li>再看被强调成分的人称，决定 qui 后动词的词形。</li><li>两个配合点可能同时出现：Ce sont mes parents qui arrivent. 中 ce sont 与 mes parents 配合，arrivent 也与 mes parents 配合。</li></ul><p>注意：口语中 c'est 可接复数，但规范书面语用 ce sont。</p>",
+      "locales": {
+        "fr": {
+          "title": "Les deux accords de la phrase emphatique : ce sont et le verbe après qui",
+          "body": "<p>La phrase emphatique comporte deux accords : celui de c'est / ce sont avec le nombre de l'élément mis en relief, et celui du verbe après qui avec la personne et le nombre de cet élément.</p><p>ce sont + pluriel :</p><ul><li>Ce sont mes parents qui arrivent demain.</li><li>Ce sont eux qui ont raison.</li><li>Ce sont mes sœurs qui préparent le dîner.</li></ul><p>Le pronom tonique détermine la personne du verbe après qui :</p><ul><li>C'est moi qui ai raison.</li><li>C'est toi qui as raison.</li><li>C'est nous qui avons raison.</li><li>C'est vous qui avez raison.</li><li>Ce sont eux qui ont raison.</li></ul><p>Attention : nous et vous se construisent avec c'est, mais le verbe après qui se conjugue avec nous et vous ; eux et elles appellent ce sont.</p><p>À retenir :</p><ul><li>Regardez d'abord le nombre de l'élément mis en relief pour choisir c'est / ce sont.</li><li>Regardez ensuite sa personne pour choisir la forme du verbe après qui.</li><li>Les deux accords peuvent apparaître ensemble : dans Ce sont mes parents qui arrivent, ce sont s'accorde avec mes parents et arrivent aussi.</li></ul><p>Attention : à l'oral, c'est peut introduire un pluriel, mais la langue écrite soignée emploie ce sont.</p>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u5-1",
       "title": "口语疑问句与规范疑问句：语域差异与改写总则",
-      "body": "<p>口语疑问句常把疑问词留在原位，句末升调，或使用 c'est quoi / c'est qui 等结构；规范书面语则把疑问词放到句首，再用 est-ce que + 陈述词序或主谓倒装。两种形式都合法，差别在语域，不在真假。</p><ul><li>Tu habites où ? → Où est-ce que tu habites ? / Où habites-tu ?（你住在哪里？）</li><li>Le film commence quand ? → Quand est-ce que le film commence ?（电影什么时候开始？）</li><li>On va où ? → Où allons-nous ?（我们去哪儿？）</li><li>C'est quoi, ce document ? → Qu'est-ce que c'est, ce document ?（这份文件是什么？）</li></ul><p>改写步骤：</p><ul><li>先找疑问词（où, quand, comment, pourquoi, qui, combien...），把它移到句首。</li><li>再选结构：疑问词 + est-ce que + 主语 + 变位动词，或疑问词 + 变位动词 + -主语代词。</li><li>时态、人称和其余成分保持不变；口语的 on 在规范改写中常改为 nous。</li></ul><p>注意：est-ce que 后不再倒装，不能说 Où est-ce que vas-tu ?；倒装要加连字符；口语形式不应被判为错误。</p>"
+      "body": "<p>口语疑问句常把疑问词留在原位，句末升调，或使用 c'est quoi / c'est qui 等结构；规范书面语则把疑问词放到句首，再用 est-ce que + 陈述词序或主谓倒装。两种形式都合法，差别在语域，不在真假。</p><ul><li>Tu habites où ? → Où est-ce que tu habites ? / Où habites-tu ?（你住在哪里？）</li><li>Le film commence quand ? → Quand est-ce que le film commence ?（电影什么时候开始？）</li><li>On va où ? → Où allons-nous ?（我们去哪儿？）</li><li>C'est quoi, ce document ? → Qu'est-ce que c'est, ce document ?（这份文件是什么？）</li></ul><p>改写步骤：</p><ul><li>先找疑问词（où, quand, comment, pourquoi, qui, combien...），把它移到句首。</li><li>再选结构：疑问词 + est-ce que + 主语 + 变位动词，或疑问词 + 变位动词 + -主语代词。</li><li>时态、人称和其余成分保持不变；口语的 on 在规范改写中常改为 nous。</li></ul><p>注意：est-ce que 后不再倒装，不能说 Où est-ce que vas-tu ?；倒装要加连字符；口语形式不应被判为错误。</p>",
+      "locales": {
+        "fr": {
+          "title": "Interrogation orale et interrogation soignée : différences de registre et principe de reformulation",
+          "body": "<p>L'interrogation orale laisse souvent le mot interrogatif en place, avec une intonation montante en fin de phrase, ou emploie des structures comme c'est quoi / c'est qui ; la langue écrite soignée place le mot interrogatif en tête, puis emploie est-ce que + ordre déclaratif ou l'inversion du sujet et du verbe. Les deux formes sont correctes ; la différence est de registre, non de vérité.</p><ul><li>Tu habites où ? → Où est-ce que tu habites ? / Où habites-tu ?</li><li>Le film commence quand ? → Quand est-ce que le film commence ?</li><li>On va où ? → Où allons-nous ?</li><li>C'est quoi, ce document ? → Qu'est-ce que c'est, ce document ?</li></ul><p>Étapes de la reformulation :</p><ul><li>Repérez le mot interrogatif (où, quand, comment, pourquoi, qui, combien...) et placez-le en tête.</li><li>Choisissez ensuite la structure : mot interrogatif + est-ce que + sujet + verbe conjugué, ou mot interrogatif + verbe conjugué + pronom sujet.</li><li>Conservez le temps, la personne et les autres éléments ; à l'oral, on remplace souvent on par nous dans la reformulation soignée.</li></ul><p>Attention : on n'inverse pas de nouveau après est-ce que ; on ne dit pas Où est-ce que vas-tu ? L'inversion exige un trait d'union ; les formes orales ne doivent pas être considérées comme fautives.</p>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u5-2",
       "title": "规范疑问词的选择：问人、问物、介词与直接宾语",
-      "body": "<p>改写时除了语序，还要选对疑问词。问人用 qui 系列，问物用 que / quoi 系列；选择取决于所问对象，不取决于中文。</p><ul><li>Tu cherches qui ? → Qui est-ce que tu cherches ?（你在找谁？）</li><li>Tu cherches quoi ? → Qu'est-ce que tu cherches ?（你在找什么？）</li><li>Tu téléphones à qui ? → À qui est-ce que tu téléphones ?（你在给谁打电话？）</li><li>Tu penses à quoi ? → À quoi est-ce que tu penses ?（你在想什么？）</li><li>C'est qui ? → Qui est-ce ?（这是谁？）</li><li>C'est quoi ? → Qu'est-ce que c'est ?（这是什么？）</li></ul><p>要点：</p><ul><li>直接宾语问人用 qui est-ce que，问物用 qu'est-ce que。不能写成 Qui est-ce qui tu cherches ?，因为那是主语疑问的形式。</li><li>介词必须保留并一起前置：à qui, de qui, à quoi, de quoi。que 不能直接放在介词后，不说 à que。</li><li>身份辨认用 qui est-ce / qu'est-ce que c'est；不要用 il y a 回答身份问题。</li></ul>"
+      "body": "<p>改写时除了语序，还要选对疑问词。问人用 qui 系列，问物用 que / quoi 系列；选择取决于所问对象，不取决于中文。</p><ul><li>Tu cherches qui ? → Qui est-ce que tu cherches ?（你在找谁？）</li><li>Tu cherches quoi ? → Qu'est-ce que tu cherches ?（你在找什么？）</li><li>Tu téléphones à qui ? → À qui est-ce que tu téléphones ?（你在给谁打电话？）</li><li>Tu penses à quoi ? → À quoi est-ce que tu penses ?（你在想什么？）</li><li>C'est qui ? → Qui est-ce ?（这是谁？）</li><li>C'est quoi ? → Qu'est-ce que c'est ?（这是什么？）</li></ul><p>要点：</p><ul><li>直接宾语问人用 qui est-ce que，问物用 qu'est-ce que。不能写成 Qui est-ce qui tu cherches ?，因为那是主语疑问的形式。</li><li>介词必须保留并一起前置：à qui, de qui, à quoi, de quoi。que 不能直接放在介词后，不说 à que。</li><li>身份辨认用 qui est-ce / qu'est-ce que c'est；不要用 il y a 回答身份问题。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "Choix du mot interrogatif soigné : personne, chose, préposition et complément d'objet direct",
+          "body": "<p>Lors d'une reformulation, il faut aussi choisir le bon mot interrogatif, pas seulement l'ordre des mots. On emploie la série qui pour une personne et la série que / quoi pour une chose ; le choix dépend de l'objet visé, non d'une autre langue.</p><ul><li>Tu cherches qui ? → Qui est-ce que tu cherches ?</li><li>Tu cherches quoi ? → Qu'est-ce que tu cherches ?</li><li>Tu téléphones à qui ? → À qui est-ce que tu téléphones ?</li><li>Tu penses à quoi ? → À quoi est-ce que tu penses ?</li><li>C'est qui ? → Qui est-ce ?</li><li>C'est quoi ? → Qu'est-ce que c'est ?</li></ul><p>À retenir :</p><ul><li>Complément d'objet direct : qui est-ce que pour une personne, qu'est-ce que pour une chose. On n'écrit pas Qui est-ce qui tu cherches ?, qui est la forme de l'interrogation sur le sujet.</li><li>La préposition doit être conservée et placée en tête avec le mot interrogatif : à qui, de qui, à quoi, de quoi. que ne se place pas directement après une préposition : on ne dit pas à que.</li><li>Pour identifier une personne ou une chose, on emploie qui est-ce / qu'est-ce que c'est ; on ne répond pas à une question d'identité par il y a.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u5-3",
       "title": "口语感叹与规范感叹：que / comme 引导整句",
-      "body": "<p>口语感叹常用强调框架 c'est fou ce que...、c'est incroyable comme...，或直接用 vachement、super、trop 等口语程度词。规范书面语把感叹意义收进 que 或 comme 引导的整句：Que / Comme + 主语 + 谓语 + !，程度意义保留，语域提高。</p><ul><li>C'est fou ce qu'il est gentil ! → Qu'il est gentil !（他多好啊！）</li><li>C'est incroyable comme elle chante bien ! → Comme elle chante bien !（她唱得多好啊！）</li><li>Il conduit super vite ! → Comme il conduit vite !（他开得超快！）</li><li>Elle est vachement sympa ! → Qu'elle est sympa !（她人真好！）</li></ul><p>要点：</p><ul><li>que / comme 后接完整的主语和谓语，词序与陈述句基本相同，不倒装：Qu'il est gentil !，不是 Qu'est-il gentil !</li><li>口语强调框架（c'est fou ce que、c'est incroyable comme）在规范改写中删去，程度意义由 que / comme 承担。</li><li>口语程度词（vachement, super, trop）可删去或改为 très，规范改写中不保留超口语形式。</li><li>感叹句用感叹号；换成问号会改变交际功能。</li></ul><p>注意：qu'est-ce que 引导的感叹（Qu'est-ce qu'il est drôle !）属口语语域变体，不是错误。</p>"
+      "body": "<p>口语感叹常用强调框架 c'est fou ce que...、c'est incroyable comme...，或直接用 vachement、super、trop 等口语程度词。规范书面语把感叹意义收进 que 或 comme 引导的整句：Que / Comme + 主语 + 谓语 + !，程度意义保留，语域提高。</p><ul><li>C'est fou ce qu'il est gentil ! → Qu'il est gentil !（他多好啊！）</li><li>C'est incroyable comme elle chante bien ! → Comme elle chante bien !（她唱得多好啊！）</li><li>Il conduit super vite ! → Comme il conduit vite !（他开得超快！）</li><li>Elle est vachement sympa ! → Qu'elle est sympa !（她人真好！）</li></ul><p>要点：</p><ul><li>que / comme 后接完整的主语和谓语，词序与陈述句基本相同，不倒装：Qu'il est gentil !，不是 Qu'est-il gentil !</li><li>口语强调框架（c'est fou ce que、c'est incroyable comme）在规范改写中删去，程度意义由 que / comme 承担。</li><li>口语程度词（vachement, super, trop）可删去或改为 très，规范改写中不保留超口语形式。</li><li>感叹句用感叹号；换成问号会改变交际功能。</li></ul><p>注意：qu'est-ce que 引导的感叹（Qu'est-ce qu'il est drôle !）属口语语域变体，不是错误。</p>",
+      "locales": {
+        "fr": {
+          "title": "Exclamation orale et exclamation soignée : que / comme devant une phrase entière",
+          "body": "<p>L'exclamation orale emploie souvent des cadres d'insistance comme c'est fou ce que..., c'est incroyable comme..., ou directement des adverbes de degré familiers comme vachement, super, trop. La langue écrite soignée intègre le sens exclamatif dans une phrase entière introduite par que ou comme : Que / Comme + sujet + prédicat + !, en conservant le degré et en élevant le registre.</p><ul><li>C'est fou ce qu'il est gentil ! → Qu'il est gentil !</li><li>C'est incroyable comme elle chante bien ! → Comme elle chante bien !</li><li>Il conduit super vite ! → Comme il conduit vite !</li><li>Elle est vachement sympa ! → Qu'elle est sympa !</li></ul><p>À retenir :</p><ul><li>Après que / comme viennent un sujet et un prédicat complets, dans un ordre proche de la phrase déclarative, sans inversion : Qu'il est gentil !, et non Qu'est-il gentil !</li><li>Les cadres d'insistance oraux (c'est fou ce que, c'est incroyable comme) disparaissent dans la reformulation soignée ; le sens du degré est porté par que / comme.</li><li>Les adverbes de degré familiers (vachement, super, trop) peuvent être supprimés ou remplacés par très ; on ne conserve pas les formes trop familières dans une reformulation soignée.</li><li>L'exclamation se termine par un point d'exclamation ; un point d'interrogation changerait sa fonction communicative.</li></ul><p>Attention : l'exclamation introduite par qu'est-ce que (Qu'est-ce qu'il est drôle !) est une variante de registre oral, non une faute.</p>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u5-4",
       "title": "que / comme 感叹句的内部结构：语序、配合与补语",
-      "body": "<p>que 和 comme 置于句首，后面是主语 + 谓语，语序与陈述句相同；形容词与主语配合，程度副词或不定式补语留在原位。</p><ul><li>Qu'il fait beau aujourd'hui !（今天天气多好啊！）</li><li>Comme il est difficile de choisir !（做选择多难啊！）</li><li>Qu'elles sont belles, ces photos !（这些照片多美啊！）</li><li>Comme elles travaillent bien !（她们工作得多好啊！）</li></ul><p>要点：</p><ul><li>que 在元音或哑音 h 前省音为 qu'：qu'il, qu'elle, qu'on, qu'elles；comme 不省音。</li><li>主语代词不能重复：Qu'il fait beau，不写 Qu'il il fait beau。</li><li>形容词与主语性数配合：elles → belles / fortes；主语是 il 时用阳性单数。</li><li>不定式补语前的 de 保留：Comme il est difficile de choisir ! 不能省略 de。</li><li>不倒装：Comme il est grand !，不是 Comme est-il grand !</li></ul>"
+      "body": "<p>que 和 comme 置于句首，后面是主语 + 谓语，语序与陈述句相同；形容词与主语配合，程度副词或不定式补语留在原位。</p><ul><li>Qu'il fait beau aujourd'hui !（今天天气多好啊！）</li><li>Comme il est difficile de choisir !（做选择多难啊！）</li><li>Qu'elles sont belles, ces photos !（这些照片多美啊！）</li><li>Comme elles travaillent bien !（她们工作得多好啊！）</li></ul><p>要点：</p><ul><li>que 在元音或哑音 h 前省音为 qu'：qu'il, qu'elle, qu'on, qu'elles；comme 不省音。</li><li>主语代词不能重复：Qu'il fait beau，不写 Qu'il il fait beau。</li><li>形容词与主语性数配合：elles → belles / fortes；主语是 il 时用阳性单数。</li><li>不定式补语前的 de 保留：Comme il est difficile de choisir ! 不能省略 de。</li><li>不倒装：Comme il est grand !，不是 Comme est-il grand !</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "Structure interne des exclamations avec que / comme : ordre des mots, accord et compléments",
+          "body": "<p>que et comme se placent en tête, suivis du sujet puis du prédicat, dans l'ordre de la phrase déclarative ; l'adjectif s'accorde avec le sujet, et l'adverbe de degré ou le complément infinitif reste en place.</p><ul><li>Qu'il fait beau aujourd'hui !</li><li>Comme il est difficile de choisir !</li><li>Qu'elles sont belles, ces photos !</li><li>Comme elles travaillent bien !</li></ul><p>À retenir :</p><ul><li>que s'élide en qu' devant une voyelle ou un h muet : qu'il, qu'elle, qu'on, qu'elles ; comme ne s'élide pas.</li><li>Le pronom sujet ne se répète pas : Qu'il fait beau, et non Qu'il il fait beau.</li><li>L'adjectif s'accorde en genre et en nombre avec le sujet : elles → belles / fortes ; avec il, on emploie le masculin singulier.</li><li>La préposition de devant le complément infinitif est conservée : Comme il est difficile de choisir ! On n'omet pas de.</li><li>Pas d'inversion : Comme il est grand !, et non Comme est-il grand !</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-card-u5-5",
       "title": "改写检查清单：先判语域，再定疑问词与结构",
-      "body": "<p>遇到口语/规范改写题，按固定顺序检查，避免只改一个词却留下另一个口语标记。</p><p>步骤：</p><ul><li>判断原句是疑问还是感叹，找出要保留的交际意义。</li><li>疑问句：找疑问词 → 前置 → 选 est-ce que 或倒装 → 保留时态、人称和其余成分。</li><li>感叹句：找感叹核心 → 用 que / comme 重写整句 → 保留程度和补语 → 用感叹号。</li><li>检查口语标记是否清除：on、c'est quoi、c'est fou ce que、vachement、super 等。</li></ul><p>对比：</p><ul><li>On part quand ? → Quand partons-nous ?（我们什么时候出发？）——on 改 nous，动词随 nous 变 partons。</li><li>C'est quoi, cette clé ? → Qu'est-ce que c'est, cette clé ?（这把钥匙是什么？）——问物，不能改成 Qui est-ce ?</li><li>C'est fou ce qu'elle est patiente ! → Qu'elle est patiente !（她多耐心啊！）——删去口语框架，保留感叹。</li></ul><p>易错点：</p><ul><li>不要在 est-ce que 后再倒装：Quand est-ce que partons-nous ? 错。</li><li>不要把介词留在句末：Tu parles à qui ? → À qui est-ce que tu parles ?</li><li>不要给 que / comme 感叹句加倒装或问号。</li></ul>"
+      "body": "<p>遇到口语/规范改写题，按固定顺序检查，避免只改一个词却留下另一个口语标记。</p><p>步骤：</p><ul><li>判断原句是疑问还是感叹，找出要保留的交际意义。</li><li>疑问句：找疑问词 → 前置 → 选 est-ce que 或倒装 → 保留时态、人称和其余成分。</li><li>感叹句：找感叹核心 → 用 que / comme 重写整句 → 保留程度和补语 → 用感叹号。</li><li>检查口语标记是否清除：on、c'est quoi、c'est fou ce que、vachement、super 等。</li></ul><p>对比：</p><ul><li>On part quand ? → Quand partons-nous ?（我们什么时候出发？）——on 改 nous，动词随 nous 变 partons。</li><li>C'est quoi, cette clé ? → Qu'est-ce que c'est, cette clé ?（这把钥匙是什么？）——问物，不能改成 Qui est-ce ?</li><li>C'est fou ce qu'elle est patiente ! → Qu'elle est patiente !（她多耐心啊！）——删去口语框架，保留感叹。</li></ul><p>易错点：</p><ul><li>不要在 est-ce que 后再倒装：Quand est-ce que partons-nous ? 错。</li><li>不要把介词留在句末：Tu parles à qui ? → À qui est-ce que tu parles ?</li><li>不要给 que / comme 感叹句加倒装或问号。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "Liste de vérification pour la reformulation : registre d'abord, puis mot interrogatif et structure",
+          "body": "<p>Face à un exercice de reformulation oral/soigné, procédez dans un ordre fixe pour éviter de ne corriger qu'un mot en laissant une autre marque orale.</p><p>Étapes :</p><ul><li>Déterminez si la phrase d'origine est une question ou une exclamation et identifiez le sens communicatif à conserver.</li><li>Question : repérer le mot interrogatif → le placer en tête → choisir est-ce que ou l'inversion → conserver le temps, la personne et les autres éléments.</li><li>Exclamation : repérer le noyau exclamatif → réécrire la phrase entière avec que / comme → conserver le degré et les compléments → employer un point d'exclamation.</li><li>Vérifiez que les marques orales ont disparu : on, c'est quoi, c'est fou ce que, vachement, super, etc.</li></ul><p>Comparaison :</p><ul><li>On part quand ? → Quand partons-nous ? — on devient nous et le verbe se conjugue avec nous en partons.</li><li>C'est quoi, cette clé ? → Qu'est-ce que c'est, cette clé ? — on interroge sur une chose ; on ne peut pas employer Qui est-ce ?</li><li>C'est fou ce qu'elle est patiente ! → Qu'elle est patiente ! — le cadre oral disparaît, l'exclamation est conservée.</li></ul><p>Pièges :</p><ul><li>Ne pas inverser de nouveau après est-ce que : Quand est-ce que partons-nous ? est fautif.</li><li>Ne pas laisser la préposition en fin de phrase : Tu parles à qui ? → À qui est-ce que tu parles ?</li><li>Ne pas ajouter d'inversion ni de point d'interrogation aux exclamations avec que / comme.</li></ul>"
+        }
+      }
     }
   ],
   "lessons": [
@@ -128,7 +254,12 @@
           ],
           "answer": 1,
           "translation": "哪些人称有命令式形式？",
-          "explain": "命令式只取直陈式现在时的 tu、nous、vous 三个人称，并删去主语代词；没有 je、il/elle/on、ils/elles 的命令式形式。因此正确组合是 tu, nous, vous。"
+          "explain": "命令式只取直陈式现在时的 tu、nous、vous 三个人称，并删去主语代词；没有 je、il/elle/on、ils/elles 的命令式形式。因此正确组合是 tu, nous, vous。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif ne prend que les personnes tu, nous, vous du présent de l'indicatif, en supprimant le pronom sujet ; il n'existe pas de formes impératives pour je, il/elle/on, ils/elles. La combinaison correcte est donc tu, nous, vous."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q2",
@@ -141,7 +272,12 @@
             "t"
           ],
           "translation": "请把门关上。",
-          "explain": "fermer 是第一组 -er 动词，tu 现在时是 fermes；构成命令式时删去词尾 s，写 ferme。s'il te plaît 说明说话对象是 tu。"
+          "explain": "fermer 是第一组 -er 动词，tu 现在时是 fermes；构成命令式时删去词尾 s，写 ferme。s'il te plaît 说明说话对象是 tu。",
+          "locales": {
+            "fr": {
+              "explain": "fermer est un verbe du premier groupe en -er : au présent avec tu, il donne fermes ; à l'impératif, on supprime le s final et on écrit ferme. s'il te plaît montre que l'on s'adresse à tu."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q3",
@@ -162,7 +298,12 @@
             "vite."
           ],
           "translation": "你说话慢一点。→ 说慢一点。",
-          "explain": "parler 属第一组，tu 命令式去 s：parles → parle。副词 plus lentement 保持原位，不能因为去 s 而移动。"
+          "explain": "parler 属第一组，tu 命令式去 s：parles → parle。副词 plus lentement 保持原位，不能因为去 s 而移动。",
+          "locales": {
+            "fr": {
+              "explain": "parler appartient au premier groupe : à l'impératif avec tu, le s disparaît, parles → parle. L'adverbe plus lentement reste en place et ne se déplace pas du fait de la suppression du s."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q4",
@@ -176,7 +317,12 @@
           ],
           "answer": 2,
           "translation": "哪一组 tu 命令式正确？",
-          "explain": "parler 是第一组 -er 动词，tu 命令式去 s，写 Parle !；finir 是第二组 -ir 动词，tu 命令式保留 s，写 Finis !。Finit 是第三人称单数，Fini 缺少第二组词尾。"
+          "explain": "parler 是第一组 -er 动词，tu 命令式去 s，写 Parle !；finir 是第二组 -ir 动词，tu 命令式保留 s，写 Finis !。Finit 是第三人称单数，Fini 缺少第二组词尾。",
+          "locales": {
+            "fr": {
+              "explain": "parler est un verbe du premier groupe en -er : l'impératif avec tu perd le s et s'écrit Parle ! ; finir est un verbe du deuxième groupe en -ir : l'impératif avec tu conserve le s et s'écrit Finis !. Finit est la troisième personne du singulier, Fini n'a pas la terminaison du deuxième groupe."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q5",
@@ -189,7 +335,12 @@
             "r"
           ],
           "translation": "出门前完成这道练习。",
-          "explain": "finir 属第二组 -ir 动词，tu 现在时是 finis，命令式保留词尾 s；不要按第一组规则写成 fini。"
+          "explain": "finir 属第二组 -ir 动词，tu 现在时是 finis，命令式保留词尾 s；不要按第一组规则写成 fini。",
+          "locales": {
+            "fr": {
+              "explain": "finir appartient au deuxième groupe en -ir : au présent avec tu, il donne finis, et l'impératif conserve le s final ; on n'écrit pas fini sur le modèle du premier groupe."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q6",
@@ -208,7 +359,12 @@
             "Commencer"
           ],
           "translation": "我们现在开始。→ 我们现在开始吧。",
-          "explain": "取 nous 的现在时 commençons，删去主语 nous 即得命令式。com- 后的 ç 在 o 前必须保留，写 Commençons，不能写 Commencons。"
+          "explain": "取 nous 的现在时 commençons，删去主语 nous 即得命令式。com- 后的 ç 在 o 前必须保留，写 Commençons，不能写 Commencons。",
+          "locales": {
+            "fr": {
+              "explain": "On prend la forme du présent avec nous, commençons, et on supprime le sujet nous pour obtenir l'impératif. Le ç après com- doit être conservé devant o : on écrit Commençons, non Commencons."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q7",
@@ -227,7 +383,12 @@
             "Attendons"
           ],
           "translation": "您/你们在这里等。→ 请在这里等。",
-          "explain": "attendre 的 vous 现在时是 attendez，删去主语 vous 得命令式 Attendez；地点副词 ici 保持原位。Attendent 是第三人称复数，不能用于 vous。"
+          "explain": "attendre 的 vous 现在时是 attendez，删去主语 vous 得命令式 Attendez；地点副词 ici 保持原位。Attendent 是第三人称复数，不能用于 vous。",
+          "locales": {
+            "fr": {
+              "explain": "La forme d'attendre avec vous au présent est attendez ; en supprimant le sujet vous, on obtient l'impératif Attendez. L'adverbe de lieu ici reste en place. Attendent est la troisième personne du pluriel et ne convient pas avec vous."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q8",
@@ -241,7 +402,12 @@
           ],
           "answer": 1,
           "translation": "aller 的第二人称单数命令式是什么？",
-          "explain": "aller 的 tu 现在时是 vas；命令式删去主语并去掉词尾 s，写 Va。虽然 aller 不属于第一组动词，tu 形式仍按去 s 处理。Vais 是 je 的形式，Allez 是 vous 的命令式。"
+          "explain": "aller 的 tu 现在时是 vas；命令式删去主语并去掉词尾 s，写 Va。虽然 aller 不属于第一组动词，tu 形式仍按去 s 处理。Vais 是 je 的形式，Allez 是 vous 的命令式。",
+          "locales": {
+            "fr": {
+              "explain": "La forme d'aller avec tu au présent est vas ; à l'impératif, on supprime le sujet et le s final, d'où Va. Bien que aller n'appartienne pas au premier groupe, la forme avec tu suit la suppression du s. Vais est la forme avec je, Allez l'impératif avec vous."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q9",
@@ -262,7 +428,12 @@
             "marché"
           ],
           "translation": "你去市场。→ 去市场吧。",
-          "explain": "aller 的 tu 命令式是 va，由 vas 去 s 得到；au marché 保持不变。不能写 Vas au marché，因为命令式 tu 形式不带 s。"
+          "explain": "aller 的 tu 命令式是 va，由 vas 去 s 得到；au marché 保持不变。不能写 Vas au marché，因为命令式 tu 形式不带 s。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif d'aller avec tu est va, obtenu en retirant le s de vas ; au marché reste inchangé. On n'écrit pas Vas au marché, car la forme impérative avec tu ne prend pas de s."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q10",
@@ -275,9 +446,19 @@
             "e"
           ],
           "translation": "天气很好，去市场吧！",
-          "explain": "aller 的 tu 现在时是 vas，命令式去 s 写 va；aller 虽属第三组，tu 形式仍按去 s 处理。不要写 vas。"
+          "explain": "aller 的 tu 现在时是 vas，命令式去 s 写 va；aller 虽属第三组，tu 形式仍按去 s 处理。不要写 vas。",
+          "locales": {
+            "fr": {
+              "explain": "La forme d'aller avec tu au présent est vas ; à l'impératif, on retire le s et on écrit va. Bien que aller appartienne au troisième groupe, la forme avec tu suit la suppression du s. On n'écrit pas vas."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Formation de base de l'impératif, suppression du s et formes irrégulières (1)"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-l1-2",
@@ -297,7 +478,12 @@
           ],
           "answer": 0,
           "translation": "请把窗户打开。",
-          "explain": "ouvrir 的 tu 现在时是 ouvres，词尾以 -es 结尾；命令式按去 s 规则写 Ouvre。Ouvrez 是 vous 形式，Ouvrir 是不定式。"
+          "explain": "ouvrir 的 tu 现在时是 ouvres，词尾以 -es 结尾；命令式按去 s 规则写 Ouvre。Ouvrez 是 vous 形式，Ouvrir 是不定式。",
+          "locales": {
+            "fr": {
+              "explain": "La forme d'ouvrir avec tu au présent est ouvres, terminée par -es ; à l'impératif, on applique la suppression du s et on écrit Ouvre. Ouvrez est la forme avec vous, Ouvrir l'infinitif."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q12",
@@ -317,7 +503,12 @@
             "portes."
           ],
           "translation": "你打开门。→ 把门打开。",
-          "explain": "ouvrir 虽属第三组，tu 现在时 ouvres 以 -es 结尾，命令式同样去 s，写 Ouvre；定冠词 la 和名词 porte 不变。"
+          "explain": "ouvrir 虽属第三组，tu 现在时 ouvres 以 -es 结尾，命令式同样去 s，写 Ouvre；定冠词 la 和名词 porte 不变。",
+          "locales": {
+            "fr": {
+              "explain": "ouvrir appartient au troisième groupe, mais sa forme avec tu au présent, ouvres, se termine par -es : à l'impératif, le s disparaît aussi et l'on écrit Ouvre ; l'article défini la et le nom porte ne changent pas."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q13",
@@ -330,7 +521,12 @@
             "z"
           ],
           "translation": "现在，把真相告诉你们的父母。",
-          "explain": "dire 的 vous 现在时是 dites，命令式与现在时同形；不能按一般规则写 disez。vous 形式不涉及 tu 的去 s 规则。"
+          "explain": "dire 的 vous 现在时是 dites，命令式与现在时同形；不能按一般规则写 disez。vous 形式不涉及 tu 的去 s 规则。",
+          "locales": {
+            "fr": {
+              "explain": "La forme de dire avec vous au présent est dites, identique à l'impératif ; on n'écrit pas disez sur le modèle général. La forme avec vous n'est pas concernée par la suppression du s avec tu."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q14",
@@ -344,7 +540,12 @@
           ],
           "answer": 2,
           "translation": "小心，路很滑！",
-          "explain": "faire 的 vous 命令式是 faites，属于不规则形式；faisez 不存在，fait 是第三人称单数，faisons 是 nous 命令式。"
+          "explain": "faire 的 vous 命令式是 faites，属于不规则形式；faisez 不存在，fait 是第三人称单数，faisons 是 nous 命令式。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif de faire avec vous est faites, forme irrégulière ; faisez n'existe pas, fait est la troisième personne du singulier et faisons l'impératif avec nous."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q15",
@@ -365,7 +566,12 @@
             "Recevait"
           ],
           "translation": "我们接待客人。→ 我们来接待客人吧。",
-          "explain": "recevoir 的 nous 现在时是 recevons，删去 nous 即得命令式；recevez 是 vous 形式，invité 是单数，均不符合原句的 nous 和复数宾语。"
+          "explain": "recevoir 的 nous 现在时是 recevons，删去 nous 即得命令式；recevez 是 vous 形式，invité 是单数，均不符合原句的 nous 和复数宾语。",
+          "locales": {
+            "fr": {
+              "explain": "La forme de recevoir avec nous au présent est recevons ; en supprimant nous, on obtient l'impératif. recevez est la forme avec vous et invité est singulier : ni l'un ni l'autre ne correspond au nous et au complément pluriel de la phrase d'origine."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q16",
@@ -378,7 +584,12 @@
             "t"
           ],
           "translation": "明天早上收下这个包裹。",
-          "explain": "recevoir 的 vous 现在时是 recevez，命令式同形；注意词尾是 -ez，不是 -er 或其他形式。"
+          "explain": "recevoir 的 vous 现在时是 recevez，命令式同形；注意词尾是 -ez，不是 -er 或其他形式。",
+          "locales": {
+            "fr": {
+              "explain": "La forme de recevoir avec vous au présent est recevez, identique à l'impératif ; la terminaison est -ez, non -er ni une autre forme."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q17",
@@ -392,7 +603,12 @@
           ],
           "answer": 3,
           "translation": "请把您的名字写在页面顶部。",
-          "explain": "écrire 的 vous 命令式是 écrivez，由现在时 écrivez 删去主语得到；écris 是 tu 形式，écriviez 是未完成过去时，écrivons 是 nous 形式。"
+          "explain": "écrire 的 vous 命令式是 écrivez，由现在时 écrivez 删去主语得到；écris 是 tu 形式，écriviez 是未完成过去时，écrivons 是 nous 形式。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif d'écrire avec vous est écrivez, obtenu en supprimant le sujet de la forme du présent écrivez ; écris est la forme avec tu, écriviez l'imparfait, écrivons la forme avec nous."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q18",
@@ -413,7 +629,12 @@
             "vous."
           ],
           "translation": "你和我们一起来。→ 和我们一起来吧。",
-          "explain": "venir 的 tu 命令式是 viens，保留词尾 s；avec nous 保持原样。Venez 是 vous 形式，不能与 tu 混用。"
+          "explain": "venir 的 tu 命令式是 viens，保留词尾 s；avec nous 保持原样。Venez 是 vous 形式，不能与 tu 混用。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif de venir avec tu est viens, avec conservation du s final ; avec nous reste inchangé. Venez est la forme avec vous et ne peut pas s'employer avec tu."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q19",
@@ -427,9 +648,19 @@
           ],
           "answer": 0,
           "translation": "耐心点，一切都会顺利的。",
-          "explain": "être 的命令式是 sois / soyons / soyez，与现在时 es / sommes / êtes 不同；tu 形式用 Sois。Soit 是第三人称虚拟式形式，Soyez 是 vous 命令式。"
+          "explain": "être 的命令式是 sois / soyons / soyez，与现在时 es / sommes / êtes 不同；tu 形式用 Sois。Soit 是第三人称虚拟式形式，Soyez 是 vous 命令式。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif d'être est sois / soyons / soyez, différent du présent es / sommes / êtes ; la forme avec tu est Sois. Soit est une forme de troisième personne du subjonctif, Soyez l'impératif avec vous."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Formation de base de l'impératif, suppression du s et formes irrégulières (2)"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-l1-3",
@@ -448,7 +679,12 @@
             "t"
           ],
           "translation": "明天请准时。",
-          "explain": "être 的 vous 命令式是 soyez，词干为 soy-；不能按现在时写 êtes。命令式形式需独立记忆。"
+          "explain": "être 的 vous 命令式是 soyez，词干为 soy-；不能按现在时写 êtes。命令式形式需独立记忆。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif d'être avec vous est soyez, sur le radical soy- ; on ne l'écrit pas êtes sur le modèle du présent. Les formes impératives doivent être mémorisées séparément."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q21",
@@ -466,7 +702,12 @@
             "prudent."
           ],
           "translation": "我们很谨慎。→ 我们谨慎一点吧。",
-          "explain": "être 的 nous 命令式是 soyons，不是现在时的 sommes；形容词 prudents 与 nous 保持阳性复数配合。"
+          "explain": "être 的 nous 命令式是 soyons，不是现在时的 sommes；形容词 prudents 与 nous 保持阳性复数配合。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif d'être avec nous est soyons, non sommes au présent ; l'adjectif prudents s'accorde avec nous au masculin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q22",
@@ -479,7 +720,12 @@
             "e"
           ],
           "translation": "你能成功：相信你自己。",
-          "explain": "avoir 的命令式是 aie / ayons / ayez；tu 形式用 aie，不是现在时的 as。confiance 前不加冠词，构成固定搭配 avoir confiance en soi。"
+          "explain": "avoir 的命令式是 aie / ayons / ayez；tu 形式用 aie，不是现在时的 as。confiance 前不加冠词，构成固定搭配 avoir confiance en soi。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif d'avoir est aie / ayons / ayez ; la forme avec tu est aie, non as au présent. confiance ne prend pas d'article dans l'expression figée avoir confiance en soi."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q23",
@@ -493,7 +739,12 @@
           ],
           "answer": 2,
           "translation": "耐心一点！",
-          "explain": "avoir 的 vous 命令式是 ayez，与现在时 avez 不同；Ayons 是 nous 形式，Aie 是 tu 形式。de la patience 是部分冠词短语，保持不变。"
+          "explain": "avoir 的 vous 命令式是 ayez，与现在时 avez 不同；Ayons 是 nous 形式，Aie 是 tu 形式。de la patience 是部分冠词短语，保持不变。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif d'avoir avec vous est ayez, différent du présent avez ; Ayons est la forme avec nous, Aie la forme avec tu. de la patience est un groupe avec article partitif et reste inchangé."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q24",
@@ -514,7 +765,12 @@
             "courage"
           ],
           "translation": "我们有勇气。→ 我们要有勇气。",
-          "explain": "avoir 的 nous 命令式是 ayons，不是 avons；肯定句中部分冠词 du 保留，不变成 de。"
+          "explain": "avoir 的 nous 命令式是 ayons，不是 avons；肯定句中部分冠词 du 保留，不变成 de。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif d'avoir avec nous est ayons, non avons ; à la forme affirmative, l'article partitif du est conservé et ne devient pas de."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q25",
@@ -528,7 +784,12 @@
           ],
           "answer": 0,
           "translation": "savoir 对应 vous 的命令式是哪个？",
-          "explain": "savoir 的命令式是 sache / sachons / sachez，词干为 sach-；savez 是现在时，sachiez 是虚拟式现在时形式，sais 是 je/tu 现在时。本题只要求识别形式。"
+          "explain": "savoir 的命令式是 sache / sachons / sachez，词干为 sach-；savez 是现在时，sachiez 是虚拟式现在时形式，sais 是 je/tu 现在时。本题只要求识别形式。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif de savoir est sache / sachons / sachez, sur le radical sach- ; savez est le présent, sachiez le subjonctif présent, sais la forme avec je/tu au présent. Cet exercice ne demande que la reconnaissance des formes."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q26",
@@ -542,7 +803,12 @@
           ],
           "answer": 3,
           "translation": "哪个形式不是 parler 的独立命令式形式？",
-          "explain": "第一组 -er 动词的 tu 命令式去 s，写 Parle；Parlons、Parlez 分别是 nous、vous 命令式。Parles 带 s，是直陈式 tu 形式，不能独立作命令式。"
+          "explain": "第一组 -er 动词的 tu 命令式去 s，写 Parle；Parlons、Parlez 分别是 nous、vous 命令式。Parles 带 s，是直陈式 tu 形式，不能独立作命令式。",
+          "locales": {
+            "fr": {
+              "explain": "À l'impératif avec tu, les verbes du premier groupe en -er perdent le s et s'écrivent Parle ; Parlons et Parlez sont les impératifs avec nous et vous. Parles, avec s, est la forme du présent de l'indicatif avec tu et ne peut pas s'employer seul comme impératif."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q27",
@@ -556,7 +822,12 @@
           ],
           "answer": 1,
           "translation": "哪个形式不能是正确命令式？",
-          "explain": "manger 是第一组 -er 动词，tu 命令式去 s，应写 Mange；Manges 带 s，是直陈式 tu 形式，不能作命令式。Finis 是第二组保留 s 的正确形式，Venez 是 vous 命令式。"
+          "explain": "manger 是第一组 -er 动词，tu 命令式去 s，应写 Mange；Manges 带 s，是直陈式 tu 形式，不能作命令式。Finis 是第二组保留 s 的正确形式，Venez 是 vous 命令式。",
+          "locales": {
+            "fr": {
+              "explain": "manger est un verbe du premier groupe en -er : l'impératif avec tu perd le s et s'écrit Mange ; Manges, avec s, est la forme du présent avec tu et ne peut pas être un impératif. Finis est la forme correcte du deuxième groupe, avec s conservé, et Venez l'impératif avec vous."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l1-q28",
@@ -578,9 +849,19 @@
             "travaux."
           ],
           "translation": "你想着你的工作。→ 想想你的工作。",
-          "explain": "penser 属第一组，tu 现在时 penses，命令式去 s 写 Pense；介词短语 à ton travail 保持不变。Penses 是直陈式形式，不能作命令式。"
+          "explain": "penser 属第一组，tu 现在时 penses，命令式去 s 写 Pense；介词短语 à ton travail 保持不变。Penses 是直陈式形式，不能作命令式。",
+          "locales": {
+            "fr": {
+              "explain": "penser appartient au premier groupe : au présent avec tu, penses, et à l'impératif le s disparaît, d'où Pense ; le groupe prépositionnel à ton travail reste inchangé. Penses est une forme du présent de l'indicatif et ne peut pas être un impératif."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Formation de base de l'impératif, suppression du s et formes irrégulières (3)"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-l2",
@@ -600,7 +881,12 @@
           ],
           "answer": 0,
           "translation": "别拿这本书，它是玛丽的。",
-          "explain": "否定命令式用 ne + 变位动词 + pas 包住动词；prendre 的 tu 命令式是 prends，保留 s，因此写 Ne prends pas。Ne prend 缺 s，Ne pas prends 词序错误，Prends ne pas 也把否定词放错位置。"
+          "explain": "否定命令式用 ne + 变位动词 + pas 包住动词；prendre 的 tu 命令式是 prends，保留 s，因此写 Ne prends pas。Ne prend 缺 s，Ne pas prends 词序错误，Prends ne pas 也把否定词放错位置。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif négatif encadre le verbe avec ne + verbe + pas ; l'impératif de prendre avec tu est prends, avec conservation du s, d'où Ne prends pas. Ne prend manque le s, Ne pas prends a un ordre fautif et Prends ne pas place mal la négation."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l2-q2",
@@ -613,7 +899,12 @@
             "t"
           ],
           "translation": "别说得那么大声！",
-          "explain": "否定命令式仍使用 tu 的命令式形式；parler 是第一组 -er 动词，命令式去 s，写 parle。否定词 ne...pas 不改变去 s 的结果，不能说 Ne parles pas。"
+          "explain": "否定命令式仍使用 tu 的命令式形式；parler 是第一组 -er 动词，命令式去 s，写 parle。否定词 ne...pas 不改变去 s 的结果，不能说 Ne parles pas。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif négatif conserve la forme impérative avec tu ; parler est un verbe du premier groupe en -er, dont l'impératif perd le s et s'écrit parle. ne...pas ne modifie pas ce résultat : on n'écrit pas Ne parles pas."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l2-q3",
@@ -637,7 +928,12 @@
             "portes."
           ],
           "translation": "把门关上。→ 别关门。",
-          "explain": "否定命令式把 ne 放在动词前、pas 放在动词后：Ne ferme pas la porte。fermer 的第一组 tu 命令式 ferme 在否定中仍不带 s；ferme 以辅音开头，ne 不省音。"
+          "explain": "否定命令式把 ne 放在动词前、pas 放在动词后：Ne ferme pas la porte。fermer 的第一组 tu 命令式 ferme 在否定中仍不带 s；ferme 以辅音开头，ne 不省音。",
+          "locales": {
+            "fr": {
+              "explain": "À l'impératif négatif, ne se place devant le verbe et pas derrière : Ne ferme pas la porte. La forme ferme du premier groupe avec tu reste sans s à la forme négative ; ferme commençant par une consonne, ne ne s'élide pas."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l2-q4",
@@ -662,7 +958,12 @@
             "faisons"
           ],
           "translation": "做些运动。→ 别做运动。",
-          "explain": "faire 的 tu 命令式是不规则的 fais，否定式为 Ne fais pas；直接宾语 du sport 在绝对否定中按规则变为 de sport。否定词包住 fais，不包住后面的名词。"
+          "explain": "faire 的 tu 命令式是不规则的 fais，否定式为 Ne fais pas；直接宾语 du sport 在绝对否定中按规则变为 de sport。否定词包住 fais，不包住后面的名词。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif de faire avec tu est la forme irrégulière fais, d'où Ne fais pas ; le complément d'objet direct du sport devient de sport dans la négation absolue. La négation encadre fais, non le nom qui suit."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l2-q5",
@@ -676,7 +977,12 @@
           ],
           "answer": 1,
           "translation": "别怕，我在。",
-          "explain": "avoir 的 vous 命令式是 ayez；ne 在元音 a 前省音为 n'，写 N'ayez pas peur。N'avez 是现在时否定，N'aie 是 tu 形式，Ne ayez 没有省音。"
+          "explain": "avoir 的 vous 命令式是 ayez；ne 在元音 a 前省音为 n'，写 N'ayez pas peur。N'avez 是现在时否定，N'aie 是 tu 形式，Ne ayez 没有省音。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif d'avoir avec vous est ayez ; ne s'élide en n' devant la voyelle a, d'où N'ayez pas peur. N'avez est une forme négative du présent, N'aie la forme avec tu, et Ne ayez ne marque pas l'élision."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l2-q6",
@@ -699,7 +1005,12 @@
             "sérieuse."
           ],
           "translation": "严肃点。→ 别这么严肃。",
-          "explain": "être 的 tu 命令式是 sois，否定式为 Ne sois pas；sois 以辅音开头，ne 不省音。sérieux 是形容词，与 tu 的单数配合，不加 s。"
+          "explain": "être 的 tu 命令式是 sois，否定式为 Ne sois pas；sois 以辅音开头，ne 不省音。sérieux 是形容词，与 tu 的单数配合，不加 s。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif d'être avec tu est sois, d'où Ne sois pas ; sois commençant par une consonne, « ne » ne s'élide pas. sérieux est un adjectif qui s'accorde au singulier avec tu et ne prend pas de s."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l2-q7",
@@ -713,7 +1024,12 @@
           ],
           "answer": 2,
           "translation": "哪一句否定命令式正确？「别去那边！」",
-          "explain": "aller 的 tu 命令式是 va（由 vas 去 s），否定时写 Ne va pas là-bas。ne...pas 包住 va；Ne vas 多 s，Ne pas va 词序错误，Va ne pas 也把否定词放错位置。"
+          "explain": "aller 的 tu 命令式是 va（由 vas 去 s），否定时写 Ne va pas là-bas。ne...pas 包住 va；Ne vas 多 s，Ne pas va 词序错误，Va ne pas 也把否定词放错位置。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif d'aller avec tu est va (issu de vas sans s) ; à la forme négative, on écrit Ne va pas là-bas. ne...pas encadre va ; Ne vas a un s superflu, Ne pas va a un ordre fautif et Va ne pas place mal la négation."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l2-q8",
@@ -727,7 +1043,12 @@
           ],
           "answer": 3,
           "translation": "在「Ne traversez pas ici, c'est dangereux !」中，命令式主要用来……",
-          "explain": "否定命令式配合危险语境，表达禁止、劝阻，即「不要从这里穿过去」。它不是鼓励、礼貌请求或祝贺。判断功能要看语境和否定形式，不能只看动词。"
+          "explain": "否定命令式配合危险语境，表达禁止、劝阻，即「不要从这里穿过去」。它不是鼓励、礼貌请求或祝贺。判断功能要看语境和否定形式，不能只看动词。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif négatif, associé à un contexte de danger, exprime l'interdiction et la dissuasion : « ne traversez pas ici ». Il n'exprime ni encouragement, ni demande polie, ni félicitation. La fonction dépend du contexte et de la forme négative, non du seul verbe."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l2-q9",
@@ -741,9 +1062,19 @@
           ],
           "answer": 0,
           "translation": "在「再试试，您快到了！」中，命令式表达……",
-          "explain": "「再试试，您快到了」是在给对方打气，属于鼓励。它不是禁止、严厉命令，也不是询问信息。命令式的功能由语境和语调决定，不能固定对应一种语气。"
+          "explain": "「再试试，您快到了」是在给对方打气，属于鼓励。它不是禁止、严厉命令，也不是询问信息。命令式的功能由语境和语调决定，不能固定对应一种语气。",
+          "locales": {
+            "fr": {
+              "explain": "« Essayez encore, vous êtes presque arrivé » encourage l'interlocuteur : il s'agit d'un encouragement. Ce n'est ni une interdiction, ni un ordre sévère, ni une demande d'information. La fonction de l'impératif dépend du contexte et de l'intonation, sans correspondance fixe avec un seul ton."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Impératif négatif et fonctions communicatives de l'impératif"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-l3-1",
@@ -763,7 +1094,12 @@
           ],
           "answer": 1,
           "translation": "——这是谁？——是我哥哥。",
-          "explain": "回答 Qui est-ce ? 时，用 c'est 指认单数的人，后接单数名词 mon frère。Ce sont 用于复数；Il est / Ils sont 用于描述已知人物的身份或属性，不用于这个指认问答。"
+          "explain": "回答 Qui est-ce ? 时，用 c'est 指认单数的人，后接单数名词 mon frère。Ce sont 用于复数；Il est / Ils sont 用于描述已知人物的身份或属性，不用于这个指认问答。",
+          "locales": {
+            "fr": {
+              "explain": "Pour répondre à Qui est-ce ?, on emploie c'est pour identifier une personne au singulier, suivi du nom singulier mon frère. Ce sont s'emploie au pluriel ; Il est / Ils sont décrivent l'identité ou les propriétés d'une personne connue et ne conviennent pas à ce dialogue d'identification."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l3-q2",
@@ -777,7 +1113,12 @@
           ],
           "answer": 0,
           "translation": "这个图书馆里有一千多本书。",
-          "explain": "表示某处存在某物用 il y a；c'est 用于指认某个对象，ce sont 用于复数指认，ils sont 后接表语。plus de mille livres 是首次出现的存在信息，不能用 c'est 指认。"
+          "explain": "表示某处存在某物用 il y a；c'est 用于指认某个对象，ce sont 用于复数指认，ils sont 后接表语。plus de mille livres 是首次出现的存在信息，不能用 c'est 指认。",
+          "locales": {
+            "fr": {
+              "explain": "Pour indiquer l'existence de quelque chose en un lieu, on emploie il y a ; c'est identifie un objet, ce sont identifie un pluriel, et la forme ils sont introduit un attribut. plus de mille livres est une information existentielle introduite pour la première fois : on ne peut pas l'identifier avec c'est."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l3-q3",
@@ -791,7 +1132,12 @@
           ],
           "answer": 2,
           "translation": "我父亲在这家医院当医生。",
-          "explain": "描述已确定的人的职业用 il/elle est + 职业名词，职业名词前不加冠词：Mon père est médecin。c'est 用于指认（C'est un médecin），sont 与复数主语配合，ce sont 用于复数指认，都不能填入单数主语 mon père 后的空位。"
+          "explain": "描述已确定的人的职业用 il/elle est + 职业名词，职业名词前不加冠词：Mon père est médecin。c'est 用于指认（C'est un médecin），sont 与复数主语配合，ce sont 用于复数指认，都不能填入单数主语 mon père 后的空位。",
+          "locales": {
+            "fr": {
+              "explain": "Pour décrire la profession d'une personne déterminée, on emploie il/elle est + nom de profession, sans article devant le nom : Mon père est médecin. c'est sert à identifier (C'est un médecin), sont s'accorde avec un sujet pluriel et ce sont identifie un pluriel : aucune de ces formes ne convient après le sujet singulier mon père."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l3-q4",
@@ -820,7 +1166,12 @@
             "aux"
           ],
           "translation": "这是那个男孩的笔记本。→ 这些是那些男孩的笔记本。",
-          "explain": "单数指认 c'est 在复数中变为 ce sont；定冠词 le 随名词变 les，cahier 加 -s。du garçon 是 de + le，复数变为 des garçons（de + les）。冠词与名词的数要同时配合。"
+          "explain": "单数指认 c'est 在复数中变为 ce sont；定冠词 le 随名词变 les，cahier 加 -s。du garçon 是 de + le，复数变为 des garçons（de + les）。冠词与名词的数要同时配合。",
+          "locales": {
+            "fr": {
+              "explain": "L'identification au singulier c'est devient ce sont au pluriel ; l'article défini le devient les avec le nom et cahier prend un -s. du garçon est la contraction de de + le ; au pluriel, elle devient des garçons (de + les). L'article et le nom s'accordent en nombre en même temps."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l3-q5",
@@ -844,7 +1195,12 @@
             "étudient"
           ],
           "translation": "这是这名学生。→ 这些是这几名学生。",
-          "explain": "c'est + 单数名词变 ce sont + 复数名词；指示形容词 cet 随阳性复数名词变 ces，étudiant 加 -s。ce 本身不变，变的只是后面的限定词、名词和 être 的形式。"
+          "explain": "c'est + 单数名词变 ce sont + 复数名词；指示形容词 cet 随阳性复数名词变 ces，étudiant 加 -s。ce 本身不变，变的只是后面的限定词、名词和 être 的形式。",
+          "locales": {
+            "fr": {
+              "explain": "c'est + nom singulier devient ce sont + nom pluriel ; l'adjectif démonstratif cet devient ces devant le masculin pluriel et étudiant prend un -s. ce reste inchangé : seuls le déterminant, le nom et la forme d'être varient."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l3-q6",
@@ -857,7 +1213,12 @@
             "t"
           ],
           "translation": "这是我的表兄弟们。",
-          "explain": "表语 mes cousins 是复数，指示代词 ce 后要用 être 的第三人称复数形式 sont，构成 ce sont；不能按单数写 ce est。"
+          "explain": "表语 mes cousins 是复数，指示代词 ce 后要用 être 的第三人称复数形式 sont，构成 ce sont；不能按单数写 ce est。",
+          "locales": {
+            "fr": {
+              "explain": "L'attribut mes cousins est pluriel : après le pronom démonstratif ce, il faut la troisième personne du pluriel sont d'être, d'où ce sont ; on n'écrit pas « ce est » au singulier."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l3-q7",
@@ -870,9 +1231,19 @@
             "s"
           ],
           "translation": "——今晚谁来？——是我们。",
-          "explain": "第一人称复数重读代词 nous 前仍用 c'est，不用 ce sont；c' 是 ce 的省音形式，后面接 être 的第三人称单数 est。"
+          "explain": "第一人称复数重读代词 nous 前仍用 c'est，不用 ce sont；c' 是 ce 的省音形式，后面接 être 的第三人称单数 est。",
+          "locales": {
+            "fr": {
+              "explain": "Devant le pronom tonique de première personne du pluriel nous, on emploie toujours c'est, non ce sont ; c' est la forme élidée de ce, suivie de la troisième personne du singulier est d'être."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "c'est / ce sont et il est : répartition des fonctions (1)"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-l3-2",
@@ -892,7 +1263,12 @@
           ],
           "answer": 3,
           "translation": "书面语：这些是你的书。",
-          "explain": "被指认对象 tes livres 是复数，规范书面语用 ce sont；主有形容词 tes 与复数名词 livres 配合。C'est tes livres 属口语泛用，ton livres 中 ton 与复数名词不配合。"
+          "explain": "被指认对象 tes livres 是复数，规范书面语用 ce sont；主有形容词 tes 与复数名词 livres 配合。C'est tes livres 属口语泛用，ton livres 中 ton 与复数名词不配合。",
+          "locales": {
+            "fr": {
+              "explain": "L'élément identifié tes livres est pluriel : la langue écrite soignée emploie ce sont ; l'adjectif possessif tes s'accorde avec le nom pluriel livres. C'est tes livres relève de l'usage oral étendu, et ton livres ne s'accorde pas avec un nom pluriel."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l3-q9",
@@ -906,7 +1282,12 @@
           ],
           "answer": 2,
           "translation": "保罗吗？是的，他对所有人都很和善。",
-          "explain": "对已确定的人 Paul 描述性格，用 il est + 形容词：il est très gentil。c'est 用于指认或评价情况，ce sont / ils sont 与单数主语 Paul 不配合。"
+          "explain": "对已确定的人 Paul 描述性格，用 il est + 形容词：il est très gentil。c'est 用于指认或评价情况，ce sont / ils sont 与单数主语 Paul 不配合。",
+          "locales": {
+            "fr": {
+              "explain": "Pour décrire le caractère d'une personne déterminée, Paul, on emploie il est + adjectif : il est très gentil. c'est sert à identifier ou à évaluer une situation ; ce sont / ils sont ne s'accordent pas avec le sujet singulier Paul."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l3-q10",
@@ -932,7 +1313,12 @@
             "étaient"
           ],
           "translation": "这是一个有趣的想法。→ 这些是有趣的想法。",
-          "explain": "c'est + 单数名词变 ce sont + 复数名词；不定冠词 une 变 des，名词 idée 加 -s，形容词 intéressante 变阴性复数 intéressantes。"
+          "explain": "c'est + 单数名词变 ce sont + 复数名词；不定冠词 une 变 des，名词 idée 加 -s，形容词 intéressante 变阴性复数 intéressantes。",
+          "locales": {
+            "fr": {
+              "explain": "c'est + nom singulier devient ce sont + nom pluriel ; l'article indéfini une devient des, le nom idée prend un -s et l'adjectif intéressante devient intéressantes au féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l3-q11",
@@ -946,7 +1332,12 @@
           ],
           "answer": 2,
           "translation": "哪一句用 c'est + 名词来指认一个人？",
-          "explain": "C'est une avocate 用 c'est + 名词首次指认身份；Elle est avocate 描述已知者的职业，Il est grand 和 Elle est fatiguée 描述已知者的属性。判断依据是功能：指认新对象还是描述已知对象。"
+          "explain": "C'est une avocate 用 c'est + 名词首次指认身份；Elle est avocate 描述已知者的职业，Il est grand 和 Elle est fatiguée 描述已知者的属性。判断依据是功能：指认新对象还是描述已知对象。",
+          "locales": {
+            "fr": {
+              "explain": "C'est une avocate emploie c'est + nom pour identifier une identité pour la première fois ; Elle est avocate décrit la profession d'une personne connue, Il est grand et Elle est fatiguée décrivent les propriétés d'une personne connue. Le critère est fonctionnel : identifier un nouvel objet ou décrire un objet connu."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l3-q12",
@@ -970,7 +1361,12 @@
             "voisine."
           ],
           "translation": "这是我的邻居。→ 这些是我的邻居。",
-          "explain": "c'est + 单数名词变 ce sont + 复数名词；主有形容词 mon 随名词变复数 mes，voisin 加 -s 变 voisins。"
+          "explain": "c'est + 单数名词变 ce sont + 复数名词；主有形容词 mon 随名词变复数 mes，voisin 加 -s 变 voisins。",
+          "locales": {
+            "fr": {
+              "explain": "c'est + nom singulier devient ce sont + nom pluriel ; l'adjectif possessif mon suit le nom au pluriel en mes et voisin prend un -s, d'où voisins."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l3-q13",
@@ -984,7 +1380,12 @@
           ],
           "answer": 0,
           "translation": "这是我的表弟；他十岁，是学生。",
-          "explain": "年龄用 avoir：il a dix ans，不能按汉语「是十岁」写成 il est dix ans；职业用 il est + 职业名词，étudiant 前不加冠词。C'est mon cousin 是首次指认，后面的 il 复指同一个人。"
+          "explain": "年龄用 avoir：il a dix ans，不能按汉语「是十岁」写成 il est dix ans；职业用 il est + 职业名词，étudiant 前不加冠词。C'est mon cousin 是首次指认，后面的 il 复指同一个人。",
+          "locales": {
+            "fr": {
+              "explain": "L'âge s'exprime avec avoir : il a dix ans, et non il est dix ans sur le modèle d'une autre langue ; la profession s'exprime avec il est + nom de profession, sans article devant étudiant. C'est mon cousin est une première identification, et le pronom il qui suit reprend la même personne."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l3-q14",
@@ -1013,9 +1414,19 @@
             "aux"
           ],
           "translation": "这是那个女孩的报纸。→ 这些是那些女孩的报纸。",
-          "explain": "单数指认 c'est 变复数 ce sont；定冠词 le 随阳性名词变 les，journal 的复数是不规则的 journaux（-al 变 -aux）。de la 是介词 de + 定冠词 la，复数时 de + les 缩合为 des，fille 加 -s。冠词、名词和缩合形式必须同时配合，不能只把 c'est 改成 ce sont。"
+          "explain": "单数指认 c'est 变复数 ce sont；定冠词 le 随阳性名词变 les，journal 的复数是不规则的 journaux（-al 变 -aux）。de la 是介词 de + 定冠词 la，复数时 de + les 缩合为 des，fille 加 -s。冠词、名词和缩合形式必须同时配合，不能只把 c'est 改成 ce sont。",
+          "locales": {
+            "fr": {
+              "explain": "L'identification au singulier c'est devient ce sont au pluriel ; l'article défini le suit le nom masculin en les, et le pluriel de journal est irrégulier : journaux (-al → -aux). de la est la préposition de + l'article défini la ; au pluriel, de + les se contracte en des, et fille prend un -s. L'article, le nom et la contraction doivent s'accorder ensemble : on ne change pas seulement c'est en ce sont."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "c'est / ce sont et il est : répartition des fonctions (2)"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-l4",
@@ -1035,7 +1446,12 @@
           ],
           "answer": 1,
           "translation": "是保罗在做晚饭。",
-          "explain": "被强调成分 Paul 在关系从句中作主语，用 qui 引导；que 用于被强调成分作直接宾语，dont 不能直接套入这个结构，qu' 只在元音前省音且这里不需要。"
+          "explain": "被强调成分 Paul 在关系从句中作主语，用 qui 引导；que 用于被强调成分作直接宾语，dont 不能直接套入这个结构，qu' 只在元音前省音且这里不需要。",
+          "locales": {
+            "fr": {
+              "explain": "L'élément mis en relief Paul est sujet de la proposition relative : on emploie qui. que s'emploie quand l'élément mis en relief est complément d'objet direct ; dont ne s'intègre pas directement à cette structure, et « qu' » ne marque l'élision que devant une voyelle, ce qui n'est pas le cas ici."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l4-q2",
@@ -1049,7 +1465,12 @@
           ],
           "answer": 3,
           "translation": "我更喜欢的是这部电影。",
-          "explain": "被强调成分 ce film 是 préférer 的直接宾语，用 que 引导关系从句；qui 要求被强调成分作主语，dont 代替 de + 名词，où 作地点或时间状语。"
+          "explain": "被强调成分 ce film 是 préférer 的直接宾语，用 que 引导关系从句；qui 要求被强调成分作主语，dont 代替 de + 名词，où 作地点或时间状语。",
+          "locales": {
+            "fr": {
+              "explain": "L'élément mis en relief ce film est complément d'objet direct de préférer : on emploie que pour introduire la relative. qui exige que l'élément mis en relief soit sujet, dont remplace de + nom, où exprime le lieu ou le temps."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l4-q3",
@@ -1063,7 +1484,12 @@
           ],
           "answer": 0,
           "translation": "明天到的是我父母。",
-          "explain": "被强调成分 mes parents 是复数名词，规范书面语用 ce sont；qui 后的动词 arrivent 也与复数主语配合。C'est 接复数属口语用法，Il est / Ils sont 不能用于这个强调框架。"
+          "explain": "被强调成分 mes parents 是复数名词，规范书面语用 ce sont；qui 后的动词 arrivent 也与复数主语配合。C'est 接复数属口语用法，Il est / Ils sont 不能用于这个强调框架。",
+          "locales": {
+            "fr": {
+              "explain": "L'élément mis en relief mes parents est un nom pluriel : la langue écrite soignée emploie ce sont ; le verbe arrivent après qui s'accorde aussi avec le sujet pluriel. C'est suivi d'un pluriel relève de l'oral, et Il est / Ils sont ne s'emploient pas dans ce cadre emphatique."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l4-q4",
@@ -1077,7 +1503,12 @@
           ],
           "answer": 2,
           "translation": "有道理的是我。",
-          "explain": "qui 后的动词要与被强调的重读代词人称配合：moi 对应 je，avoir 的第一人称单数是 ai。a 是第三人称单数，as 是 tu，avons 是 nous。"
+          "explain": "qui 后的动词要与被强调的重读代词人称配合：moi 对应 je，avoir 的第一人称单数是 ai。a 是第三人称单数，as 是 tu，avons 是 nous。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe après qui s'accorde avec la personne du pronom tonique mis en relief : moi correspond à je, et la première personne du singulier d'avoir est ai. a est la troisième personne du singulier, as la forme avec tu, avons la forme avec nous."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l4-q5",
@@ -1090,7 +1521,12 @@
             "z"
           ],
           "translation": "有道理的是您/你们。",
-          "explain": "被强调的重读代词 vous 决定 qui 后动词的人称，avoir 的 vous 形式是 avez；不能因为 c'est 是单数就写成 a。"
+          "explain": "被强调的重读代词 vous 决定 qui 后动词的人称，avoir 的 vous 形式是 avez；不能因为 c'est 是单数就写成 a。",
+          "locales": {
+            "fr": {
+              "explain": "Le pronom tonique mis en relief vous détermine la personne du verbe après qui ; la forme d'avoir avec vous est avez. On n'écrit pas a sous prétexte que c'est est au singulier."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l4-q6",
@@ -1118,7 +1554,12 @@
             "préfères"
           ],
           "translation": "我更喜欢的是这本书。",
-          "explain": "强调直接宾语 ce livre 用 c'est...que；que 后保留从句主语 je 和变位动词 préfère。不能用 qui，因为 ce livre 不是从句主语；cette / livres 与单数阳性 livre 不配合。"
+          "explain": "强调直接宾语 ce livre 用 c'est...que；que 后保留从句主语 je 和变位动词 préfère。不能用 qui，因为 ce livre 不是从句主语；cette / livres 与单数阳性 livre 不配合。",
+          "locales": {
+            "fr": {
+              "explain": "Pour mettre en relief le complément d'objet direct ce livre, on emploie c'est...que ; après que, on conserve le sujet de la subordonnée je et le verbe conjugué préfère. On n'emploie pas qui, car ce livre n'est pas sujet de la subordonnée ; cette / livres ne s'accordent pas avec le masculin singulier livre."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l4-q7",
@@ -1150,9 +1591,19 @@
             "dîners."
           ],
           "translation": "是我姐妹们在做晚饭。",
-          "explain": "被强调成分 mes sœurs 是复数，用 ce sont...qui；qui 后的动词 préparent 与复数主语 mes sœurs 配合。若用 c'est 则不符合规范书面语的数配合。"
+          "explain": "被强调成分 mes sœurs 是复数，用 ce sont...qui；qui 后的动词 préparent 与复数主语 mes sœurs 配合。若用 c'est 则不符合规范书面语的数配合。",
+          "locales": {
+            "fr": {
+              "explain": "L'élément mis en relief mes sœurs est pluriel : on emploie ce sont...qui ; le verbe préparent après qui s'accorde avec le sujet pluriel mes sœurs. L'emploi de c'est ne respecterait pas l'accord en nombre de la langue écrite soignée."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Phrase emphatique c'est...qui/que"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-l5-1",
@@ -1172,7 +1623,12 @@
           ],
           "answer": 1,
           "translation": "你去哪儿？",
-          "explain": "规范问句把疑问词 où 移到句首，再用主谓倒装：Où vas-tu ?。选项 0 保留口语词序；选项 2 把 est-ce que 和倒装混用，est-ce que 后不能再倒装；选项 3 仍是口语原句。"
+          "explain": "规范问句把疑问词 où 移到句首，再用主谓倒装：Où vas-tu ?。选项 0 保留口语词序；选项 2 把 est-ce que 和倒装混用，est-ce que 后不能再倒装；选项 3 仍是口语原句。",
+          "locales": {
+            "fr": {
+              "explain": "La question soignée place le mot interrogatif où en tête, puis emploie l'inversion du sujet et du verbe : Où vas-tu ? L'option 0 conserve l'ordre oral ; l'option 2 mélange est-ce que et inversion, or on n'inverse pas de nouveau après est-ce que ; l'option 3 reste la phrase orale d'origine."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l5-q2",
@@ -1186,7 +1642,12 @@
           ],
           "answer": 2,
           "translation": "电影什么时候开始？",
-          "explain": "疑问词 quand 前置，后接 est-ce que + 陈述词序 le film commence。est-ce que 已经承担疑问标记，后面不能再倒装，所以不能写 commence le film-t-il。选项 0 缺疑问结构，选项 1 把 est-ce que 放到 quand 前。"
+          "explain": "疑问词 quand 前置，后接 est-ce que + 陈述词序 le film commence。est-ce que 已经承担疑问标记，后面不能再倒装，所以不能写 commence le film-t-il。选项 0 缺疑问结构，选项 1 把 est-ce que 放到 quand 前。",
+          "locales": {
+            "fr": {
+              "explain": "Le mot interrogatif quand se place en tête, suivi de est-ce que + l'ordre déclaratif le film commence. est-ce que porte déjà la marque interrogative : on n'inverse pas de nouveau ensuite, donc on n'écrit pas commence le film-t-il. L'option 0 manque la structure interrogative, l'option 1 place est-ce que avant quand."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l5-q3",
@@ -1200,7 +1661,12 @@
           ],
           "answer": 0,
           "translation": "你在找谁？",
-          "explain": "qui 是 chercher 的直接宾语，问人用 qui est-ce que，后接陈述词序 tu cherches。qui est-ce qui 用于主语疑问；qu'est-ce que 问物；Qui tu cherches ? 缺少 est-ce que 或倒装，属口语词序。"
+          "explain": "qui 是 chercher 的直接宾语，问人用 qui est-ce que，后接陈述词序 tu cherches。qui est-ce qui 用于主语疑问；qu'est-ce que 问物；Qui tu cherches ? 缺少 est-ce que 或倒装，属口语词序。",
+          "locales": {
+            "fr": {
+              "explain": "qui est le complément d'objet direct de chercher ; pour interroger sur une personne, on emploie qui est-ce que, suivi de l'ordre déclaratif tu cherches. qui est-ce qui sert à interroger sur le sujet ; qu'est-ce que interroge sur une chose ; Qui tu cherches ? manque est-ce que ou l'inversion et relève de l'ordre oral."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l5-q4",
@@ -1214,7 +1680,12 @@
           ],
           "answer": 3,
           "translation": "你在给谁打电话？",
-          "explain": "téléphoner 的配价要求介词 à；问人时保留 à 并一起前置，写成 à qui，再用 est-ce que + tu téléphones。选项 0 虽保留了 à qui，但仍是口语词序，缺少 est-ce que 或倒装；规范书面语也不把介词留在句末，所以选项 1 不合适；à qui est-ce qui 把 qui 同时当作介词宾语和主语标记，结构错误。"
+          "explain": "téléphoner 的配价要求介词 à；问人时保留 à 并一起前置，写成 à qui，再用 est-ce que + tu téléphones。选项 0 虽保留了 à qui，但仍是口语词序，缺少 est-ce que 或倒装；规范书面语也不把介词留在句末，所以选项 1 不合适；à qui est-ce qui 把 qui 同时当作介词宾语和主语标记，结构错误。",
+          "locales": {
+            "fr": {
+              "explain": "La construction de téléphoner exige la préposition à ; pour interroger sur une personne, on conserve à et on le place en tête avec qui, puis on emploie est-ce que + tu téléphones. L'option 0 conserve à qui mais garde l'ordre oral, sans est-ce que ni inversion ; la langue écrite soignée ne laisse pas non plus la préposition en fin de phrase, donc l'option 1 ne convient pas ; à qui est-ce qui fait de qui à la fois un complément prépositionnel et une marque de sujet, structure fautive."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l5-q5",
@@ -1228,7 +1699,12 @@
           ],
           "answer": 1,
           "translation": "这份文件是什么？",
-          "explain": "问物用 qu'est-ce que c'est；ce document 是后置的话题成分，用逗号隔开。qui est-ce 用来问人；Qu'est-ce que ce document est ? 词序不成立；选项 3 仍是口语原句。"
+          "explain": "问物用 qu'est-ce que c'est；ce document 是后置的话题成分，用逗号隔开。qui est-ce 用来问人；Qu'est-ce que ce document est ? 词序不成立；选项 3 仍是口语原句。",
+          "locales": {
+            "fr": {
+              "explain": "Pour interroger sur une chose, on emploie qu'est-ce que c'est ; ce document est un élément thématique rejeté en fin de phrase et séparé par une virgule. qui est-ce interroge sur une personne ; Qu'est-ce que ce document est ? a un ordre des mots qui ne tient pas ; l'option 3 reste la phrase orale d'origine."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l5-q6",
@@ -1241,7 +1717,12 @@
             "z"
           ],
           "translation": "我们去哪儿？",
-          "explain": "口语的 on 在规范改写中改为 nous，这里两者指同一群人，语义人称不变，只是把口语代词换成规范形式；aller 的 nous 现在时是 allons，倒装写作 Où allons-nous ?。原句的 va 是 on 的第三人称单数形式，不能直接搬到 nous 后。"
+          "explain": "口语的 on 在规范改写中改为 nous，这里两者指同一群人，语义人称不变，只是把口语代词换成规范形式；aller 的 nous 现在时是 allons，倒装写作 Où allons-nous ?。原句的 va 是 on 的第三人称单数形式，不能直接搬到 nous 后。",
+          "locales": {
+            "fr": {
+              "explain": "À l'oral, on devient nous dans la reformulation soignée : les deux renvoient au même groupe et la personne sémantique ne change pas, seul le pronom oral est remplacé par la forme soignée ; la forme d'aller avec nous au présent est allons, d'où l'inversion Où allons-nous ?. Le va de la phrase d'origine est la troisième personne du singulier avec on et ne peut pas être reporté directement après nous."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l5-q7",
@@ -1268,9 +1749,19 @@
             "commence ?"
           ],
           "translation": "火车什么时候出发？",
-          "explain": "疑问词 quand 前置，后接 est-ce que + 陈述词序 le train part。est-ce que 后不再倒装，所以不用 part-il / part-t-il；名词主语 le train 保持在动词前。"
+          "explain": "疑问词 quand 前置，后接 est-ce que + 陈述词序 le train part。est-ce que 后不再倒装，所以不用 part-il / part-t-il；名词主语 le train 保持在动词前。",
+          "locales": {
+            "fr": {
+              "explain": "Le mot interrogatif quand se place en tête, suivi de est-ce que + l'ordre déclaratif le train part. On n'inverse pas de nouveau après est-ce que : on n'écrit donc ni part-il ni part-t-il ; le sujet nominal le train reste devant le verbe."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Exclamation et conversion entre oral et langue soignée (1)"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-l5-2",
@@ -1290,7 +1781,12 @@
           ],
           "answer": 3,
           "translation": "他多好啊！",
-          "explain": "规范感叹用 que + 主语 + 谓语：Qu'il est gentil !。que 在 il 前必须省音为 qu'，写成 Quil 缺撇号，是拼写错误；vachement 是口语程度词，改写时删去，程度意义由 que 承担。que 后不用虚拟式；qu'est-ce que 感叹属口语语域。"
+          "explain": "规范感叹用 que + 主语 + 谓语：Qu'il est gentil !。que 在 il 前必须省音为 qu'，写成 Quil 缺撇号，是拼写错误；vachement 是口语程度词，改写时删去，程度意义由 que 承担。que 后不用虚拟式；qu'est-ce que 感叹属口语语域。",
+          "locales": {
+            "fr": {
+              "explain": "L'exclamation soignée emploie que + sujet + prédicat : Qu'il est gentil ! Devant il, que doit s'élider en qu' ; « Quil », sans apostrophe, est une faute d'orthographe. vachement est un adverbe de degré familier : on le supprime dans la reformulation et le sens du degré est porté par que. On n'emploie pas le subjonctif après que ; l'exclamation avec qu'est-ce que relève du registre oral."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l5-q9",
@@ -1313,7 +1809,12 @@
             "vite."
           ],
           "translation": "他开得超快！",
-          "explain": "comme 置于句首，后接主语 il 和变位动词 conduit，语序与陈述句相同；super 是口语程度词，改写时删去，程度意义由 comme 承担。comme 后不倒装，所以不用 conduit-il。"
+          "explain": "comme 置于句首，后接主语 il 和变位动词 conduit，语序与陈述句相同；super 是口语程度词，改写时删去，程度意义由 comme 承担。comme 后不倒装，所以不用 conduit-il。",
+          "locales": {
+            "fr": {
+              "explain": "comme se place en tête, suivi du sujet il et du verbe conjugué conduit, dans l'ordre déclaratif ; super est un adverbe de degré familier, supprimé dans la reformulation, et le sens du degré est porté par comme. On n'inverse pas après comme : on n'écrit pas conduit-il."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l5-q10",
@@ -1327,7 +1828,12 @@
           ],
           "answer": 3,
           "translation": "她工作得多好啊！",
-          "explain": "口语框架 c'est fou ce que 在规范改写中删去，改用 que + 主语 elle + 动词 travaille + 程度副词 bien；感叹句用感叹号。qu'est-ce que 版本属口语语域；que 后不用虚拟式，选项 2 还多出动词 soit，结构错误。"
+          "explain": "口语框架 c'est fou ce que 在规范改写中删去，改用 que + 主语 elle + 动词 travaille + 程度副词 bien；感叹句用感叹号。qu'est-ce que 版本属口语语域；que 后不用虚拟式，选项 2 还多出动词 soit，结构错误。",
+          "locales": {
+            "fr": {
+              "explain": "Le cadre oral c'est fou ce que disparaît dans la reformulation soignée ; on emploie que + le sujet elle + le verbe travaille + l'adverbe de degré bien, et l'exclamation se termine par un point d'exclamation. La version avec qu'est-ce que relève du registre oral ; on n'emploie pas le subjonctif après que, et l'option 2 ajoute en plus le verbe soit, ce qui est fautif."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l5-q11",
@@ -1351,7 +1857,12 @@
             "vachement"
           ],
           "translation": "我们多开心啊！",
-          "explain": "comme 置于句首，后接主语 nous、变位动词 sommes 和形容词 contents，语序与陈述句相同；vachement 是口语程度词，规范改写中删去，程度意义由 comme 承担。主语 nous 在这里用默认阳性复数 contents；comme 后不倒装。"
+          "explain": "comme 置于句首，后接主语 nous、变位动词 sommes 和形容词 contents，语序与陈述句相同；vachement 是口语程度词，规范改写中删去，程度意义由 comme 承担。主语 nous 在这里用默认阳性复数 contents；comme 后不倒装。",
+          "locales": {
+            "fr": {
+              "explain": "comme se place en tête, suivi du sujet nous, du verbe conjugué sommes et de l'adjectif contents, dans l'ordre déclaratif ; vachement est un adverbe de degré familier, supprimé dans la reformulation soignée, et le sens du degré est porté par comme. Avec nous, l'adjectif se met au masculin pluriel par défaut : contents. On n'inverse pas après comme."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l5-q12",
@@ -1365,7 +1876,12 @@
           ],
           "answer": 0,
           "translation": "做选择很难。→ 做选择多难啊！",
-          "explain": "comme 引出整句感叹，后接主语 il、动词 est 和形容词 difficile；不定式补语 choisir 前的 de 必须保留。comme 后不倒装，所以 est-il 错误；感叹句要用感叹号，问号会改变交际功能；difficile de choisir 中的 de 也不能省。"
+          "explain": "comme 引出整句感叹，后接主语 il、动词 est 和形容词 difficile；不定式补语 choisir 前的 de 必须保留。comme 后不倒装，所以 est-il 错误；感叹句要用感叹号，问号会改变交际功能；difficile de choisir 中的 de 也不能省。",
+          "locales": {
+            "fr": {
+              "explain": "comme introduit une exclamation portant sur la phrase entière, suivie du sujet il, du verbe est et de l'adjectif difficile ; la préposition de devant le complément infinitif choisir doit être conservée. On n'inverse pas après comme, d'où est-il fautif ; l'exclamation se termine par un point d'exclamation, un point d'interrogation changerait sa fonction communicative ; on n'omet pas non plus de dans difficile de choisir."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-l5-q13",
@@ -1397,9 +1913,19 @@
             "fêtes ?"
           ],
           "translation": "你邀请谁参加聚会？",
-          "explain": "qui 是 inviter 的直接宾语，问人用 qui est-ce que，后接陈述词序 tu invites，介词短语 à la fête 保持原位。qui est-ce qui 用于主语疑问；qu'est-ce que 问物；est-ce que 后不能再倒装，所以不用 invites-tu。"
+          "explain": "qui 是 inviter 的直接宾语，问人用 qui est-ce que，后接陈述词序 tu invites，介词短语 à la fête 保持原位。qui est-ce qui 用于主语疑问；qu'est-ce que 问物；est-ce que 后不能再倒装，所以不用 invites-tu。",
+          "locales": {
+            "fr": {
+              "explain": "qui est le complément d'objet direct d'inviter ; pour interroger sur une personne, on emploie qui est-ce que, suivi de l'ordre déclaratif tu invites, et le groupe prépositionnel à la fête reste en place. qui est-ce qui sert à interroger sur le sujet ; qu'est-ce que interroge sur une chose ; on n'inverse pas de nouveau après est-ce que, donc on n'écrit pas invites-tu."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Exclamation et conversion entre oral et langue soignée (2)"
+        }
+      }
     }
   ],
   "challenges": [
@@ -1421,7 +1947,12 @@
           ],
           "answer": 3,
           "translation": "把盒子打开，它是关着的。",
-          "explain": "ouvrir 的 tu 现在时是 ouvres，命令式删去词尾 s，写成 Ouvre；ouvrir 虽以 -ir 结尾，却和第一组动词一样去 s，这是需要单独记住的特例。Ouvrez 是 vous 形式，Ouvrir 是不定式，Ouvres 是直陈式 tu 形式，都不能填入 tu 的命令式。"
+          "explain": "ouvrir 的 tu 现在时是 ouvres，命令式删去词尾 s，写成 Ouvre；ouvrir 虽以 -ir 结尾，却和第一组动词一样去 s，这是需要单独记住的特例。Ouvrez 是 vous 形式，Ouvrir 是不定式，Ouvres 是直陈式 tu 形式，都不能填入 tu 的命令式。",
+          "locales": {
+            "fr": {
+              "explain": "La forme d'ouvrir avec tu au présent est ouvres ; à l'impératif, on supprime le s final et on écrit Ouvre. Bien que ouvrir se termine par -ir, il perd le s comme les verbes du premier groupe : c'est un cas particulier à mémoriser. Ouvrez est la forme avec vous, Ouvrir l'infinitif et Ouvres la forme du présent avec tu : aucune ne convient à l'impératif avec tu."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x1-q2",
@@ -1435,7 +1966,12 @@
           ],
           "answer": 1,
           "translation": "别怕，我在！",
-          "explain": "avoir 的 tu 命令式是 aie，与现在时 as 不同；否定命令式用 ne...pas 包住动词，ne 在 aie 前省音为 n'，写成 N'aie pas peur。N'ayez 是 vous 形式，N'ayes 多加了 s，Ne aie 没有省音。"
+          "explain": "avoir 的 tu 命令式是 aie，与现在时 as 不同；否定命令式用 ne...pas 包住动词，ne 在 aie 前省音为 n'，写成 N'aie pas peur。N'ayez 是 vous 形式，N'ayes 多加了 s，Ne aie 没有省音。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif d'avoir avec tu est aie, différent du présent as ; à l'impératif négatif, ne...pas encadre le verbe, et ne s'élide en n' devant aie, d'où N'aie pas peur. N'ayez est la forme avec vous, N'ayes ajoute un s, et Ne aie ne marque pas l'élision."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x1-q3",
@@ -1449,7 +1985,12 @@
           ],
           "answer": 2,
           "translation": "快走，火车要开了！",
-          "explain": "aller 的 tu 现在时是 vas，命令式去掉 s，写成 va；aller 虽属第三组，tu 命令式仍按去 s 处理。Vas 保留了现在时的 s，Vais 是第一人称单数，Allez 是 vous 形式。"
+          "explain": "aller 的 tu 现在时是 vas，命令式去掉 s，写成 va；aller 虽属第三组，tu 命令式仍按去 s 处理。Vas 保留了现在时的 s，Vais 是第一人称单数，Allez 是 vous 形式。",
+          "locales": {
+            "fr": {
+              "explain": "La forme d'aller avec tu au présent est vas ; à l'impératif, on retire le s et on écrit va ; bien que aller appartienne au troisième groupe, la forme avec tu suit la suppression du s. Vas conserve le s du présent, Vais est la première personne du singulier, Allez la forme avec vous."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x1-q4",
@@ -1463,7 +2004,12 @@
           ],
           "answer": 0,
           "translation": "中午之前把这些练习做完。",
-          "explain": "faire 的 vous 现在时是 faites，命令式直接取该形式并删去主语 vous；它是不规则词干，不能按 -er 规则写成 faisez。Fait 是 il 形式，Fais 是 tu 形式，都与 vous 不匹配。"
+          "explain": "faire 的 vous 现在时是 faites，命令式直接取该形式并删去主语 vous；它是不规则词干，不能按 -er 规则写成 faisez。Fait 是 il 形式，Fais 是 tu 形式，都与 vous 不匹配。",
+          "locales": {
+            "fr": {
+              "explain": "La forme de faire avec vous au présent est faites, reprise telle quelle à l'impératif après suppression du sujet vous ; le radical est irrégulier et l'on n'écrit pas faisez sur le modèle des verbes en -er. Fait est la forme avec il, Fais la forme avec tu : aucune ne correspond à vous."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x1-q5",
@@ -1476,7 +2022,12 @@
             "a"
           ],
           "translation": "给您母亲送一份礼物。",
-          "explain": "offrir 的 vous 现在时是 offrez，命令式与现在时同形；offrir 的 tu 形式 offre 按 -es 去 s，但 vous 形式不涉及去 s。答案位于句首，首字母大写为 O，词尾保留 -ez。"
+          "explain": "offrir 的 vous 现在时是 offrez，命令式与现在时同形；offrir 的 tu 形式 offre 按 -es 去 s，但 vous 形式不涉及去 s。答案位于句首，首字母大写为 O，词尾保留 -ez。",
+          "locales": {
+            "fr": {
+              "explain": "La forme d'offrir avec vous au présent est offrez, identique à l'impératif ; la forme avec tu offre perd le s après -es, mais la forme avec vous n'est pas concernée par cette suppression. La réponse est en tête de phrase : la majuscule O s'impose et la terminaison -ez est conservée."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x1-q6",
@@ -1489,9 +2040,19 @@
             "z"
           ],
           "translation": "穿上外套，天冷。",
-          "explain": "prendre 的 tu 现在时是 prends，命令式保留词尾 s，因为 prendre 不属于第一组动词，不适用去 s 规则。不能写成 prent 或 pren。"
+          "explain": "prendre 的 tu 现在时是 prends，命令式保留词尾 s，因为 prendre 不属于第一组动词，不适用去 s 规则。不能写成 prent 或 pren。",
+          "locales": {
+            "fr": {
+              "explain": "La forme de prendre avec tu au présent est prends, et l'impératif conserve le s final, car prendre n'appartient pas au premier groupe et ne suit pas la suppression du s. On n'écrit ni prent ni pren."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse : formes de l'impératif, suppression du s et négation (1)"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-x1-2",
@@ -1510,7 +2071,12 @@
             "t"
           ],
           "translation": "耐心点，医生马上来。",
-          "explain": "être 的 vous 命令式是 soyez，与现在时 êtes 完全不同，需要独立记忆；形容词 patients 在这里用默认阳性复数。不能按现在时写成 êtes。"
+          "explain": "être 的 vous 命令式是 soyez，与现在时 êtes 完全不同，需要独立记忆；形容词 patients 在这里用默认阳性复数。不能按现在时写成 êtes。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif d'être avec vous est soyez, totalement différent du présent êtes et à mémoriser séparément ; l'adjectif patients se met ici au masculin pluriel par défaut. On ne l'écrit pas êtes sur le modèle du présent."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x1-q8",
@@ -1537,7 +2103,12 @@
             "frères."
           ],
           "translation": "跟你兄弟说话。→ 别跟你兄弟说话。",
-          "explain": "parler 的 tu 命令式去掉现在时词尾 s，写作 parle；否定时 ne 在动词前、pas 在其后，写成 Ne parle pas。介词短语 à ton frère 保持原样，不能因为否定而改动。"
+          "explain": "parler 的 tu 命令式去掉现在时词尾 s，写作 parle；否定时 ne 在动词前、pas 在其后，写成 Ne parle pas。介词短语 à ton frère 保持原样，不能因为否定而改动。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif de parler avec tu perd le s du présent et s'écrit parle ; à la forme négative, ne se place devant le verbe et pas derrière, d'où Ne parle pas. Le groupe prépositionnel à ton frère reste inchangé et ne se modifie pas du fait de la négation."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x1-q9",
@@ -1560,7 +2131,12 @@
             "ceci."
           ],
           "translation": "做这个。→ 别做这个。",
-          "explain": "faire 的 tu 命令式是 fais，词尾本来就有 s，不适用第一组动词的去 s 规则；否定词夹住 fais：Ne fais pas。指示代词 cela 作直接宾语，放在 pas 之后，形式不变。"
+          "explain": "faire 的 tu 命令式是 fais，词尾本来就有 s，不适用第一组动词的去 s 规则；否定词夹住 fais：Ne fais pas。指示代词 cela 作直接宾语，放在 pas 之后，形式不变。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif de faire avec tu est fais, dont le radical se termine déjà par s : la suppression du s des verbes du premier groupe ne s'applique pas. La négation encadre fais : Ne fais pas. Le pronom démonstratif cela, complément d'objet direct, se place après pas et reste inchangé."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x1-q10",
@@ -1585,7 +2161,12 @@
             "soirs."
           ],
           "translation": "我们今晚出去。→ 我们今晚别出去。",
-          "explain": "nous 的命令式取现在时 nous 形式 sortons 并删去主语 nous；否定时 ne 在 sortons 前、pas 在其后，时间状语 ce soir 不变。sortez 是 vous 形式，sors 是 tu 形式。"
+          "explain": "nous 的命令式取现在时 nous 形式 sortons 并删去主语 nous；否定时 ne 在 sortons 前、pas 在其后，时间状语 ce soir 不变。sortez 是 vous 形式，sors 是 tu 形式。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif avec nous reprend la forme du présent sortons et supprime le sujet nous ; à la forme négative, ne se place devant sortons et pas derrière, et le complément de temps ce soir ne change pas. sortez est la forme avec vous, sors la forme avec tu."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x1-q11",
@@ -1615,9 +2196,19 @@
             "vérités."
           ],
           "translation": "你们不害怕，而且说真话。→ 别害怕，说实话。",
-          "explain": "avoir 的 vous 命令式是 ayez，ne 在元音前省音为 n'，写成 N'ayez pas peur；dire 的 vous 命令式是不规则的 dites，不能写成 disez。两个命令式由 et 并列，否定只包住第一个动词，第二个保持肯定形式。"
+          "explain": "avoir 的 vous 命令式是 ayez，ne 在元音前省音为 n'，写成 N'ayez pas peur；dire 的 vous 命令式是不规则的 dites，不能写成 disez。两个命令式由 et 并列，否定只包住第一个动词，第二个保持肯定形式。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif d'avoir avec vous est ayez ; ne s'élide en n' devant une voyelle, d'où N'ayez pas peur. L'impératif de dire avec vous est la forme irrégulière dites, et non « disez ». Les deux impératifs sont coordonnés par et : la négation n'encadre que le premier verbe, le second reste à la forme affirmative."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse : formes de l'impératif, suppression du s et négation (2)"
+        }
+      }
     },
     {
       "id": "pub-c08-imperative-emphasis-x2",
@@ -1637,7 +2228,12 @@
           ],
           "answer": 2,
           "translation": "是我的邻居们筹办这场聚会。",
-          "explain": "被强调的是原句的复数主语 mes voisins，规范书面语用 ce sont；强调主语用 qui 引导关系从句，从句动词 organisent 与 mes voisins 保持第三人称复数一致。C'est 在口语中可接复数，但规范书面语按数配合；Ce sont eux 后不能直接再跟名词主语；Il est 不用于这种分裂结构。"
+          "explain": "被强调的是原句的复数主语 mes voisins，规范书面语用 ce sont；强调主语用 qui 引导关系从句，从句动词 organisent 与 mes voisins 保持第三人称复数一致。C'est 在口语中可接复数，但规范书面语按数配合；Ce sont eux 后不能直接再跟名词主语；Il est 不用于这种分裂结构。",
+          "locales": {
+            "fr": {
+              "explain": "L'élément mis en relief est le sujet pluriel mes voisins de la phrase d'origine : la langue écrite soignée emploie ce sont ; pour mettre en relief le sujet, on introduit la relative par qui, et le verbe organisent s'accorde à la troisième personne du pluriel avec mes voisins. À l'oral, c'est peut introduire un pluriel, mais la langue écrite soignée suit l'accord en nombre ; Ce sont eux ne peut pas être suivi directement d'un nom sujet ; Il est ne s'emploie pas dans cette structure clivée."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x2-q2",
@@ -1651,7 +2247,12 @@
           ],
           "answer": 3,
           "translation": "我找的是这些书。",
-          "explain": "被强调的是复数直接宾语 ces livres，规范书面语用 ce sont；强调宾语用 que 引导关系从句，que 在从句中作 chercher 的直接宾语。C'est 与复数名词的规范配合不符；Ce sont les 会多出冠词；Il est 不能用于分裂句。"
+          "explain": "被强调的是复数直接宾语 ces livres，规范书面语用 ce sont；强调宾语用 que 引导关系从句，que 在从句中作 chercher 的直接宾语。C'est 与复数名词的规范配合不符；Ce sont les 会多出冠词；Il est 不能用于分裂句。",
+          "locales": {
+            "fr": {
+              "explain": "L'élément mis en relief est le complément d'objet direct pluriel ces livres : la langue écrite soignée emploie ce sont ; pour mettre en relief l'objet, on introduit la relative par que, qui est complément d'objet direct de chercher dans la subordonnée. C'est ne respecte pas l'accord avec un nom pluriel dans la norme écrite ; Ce sont les ajouterait un article ; Il est ne s'emploie pas dans une phrase clivée."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x2-q3",
@@ -1665,7 +2266,12 @@
           ],
           "answer": 1,
           "translation": "这是勒鲁瓦女士。她是我们的新主任；她很和蔼。",
-          "explain": "第一空用 c'est + 名词短语指认人物；第二空描述已经确定的第三人称女性，用 elle est + 形容词，不用 c'est。directrice 是阴性名词，sympathique 为通性形容词；Ce sont / elles sont 与单数 Mme Leroy 不匹配。"
+          "explain": "第一空用 c'est + 名词短语指认人物；第二空描述已经确定的第三人称女性，用 elle est + 形容词，不用 c'est。directrice 是阴性名词，sympathique 为通性形容词；Ce sont / elles sont 与单数 Mme Leroy 不匹配。",
+          "locales": {
+            "fr": {
+              "explain": "Le premier blanc emploie c'est + groupe nominal pour identifier une personne ; le second blanc décrit une troisième personne féminine déjà déterminée avec elle est + adjectif, non c'est. directrice est un nom féminin et sympathique un adjectif épicène ; Ce sont / elles sont ne s'accordent pas avec le singulier Mme Leroy."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x2-q4",
@@ -1679,7 +2285,12 @@
           ],
           "answer": 0,
           "translation": "——这是什么？——是一些度假照片。",
-          "explain": "问物用固定的 qu'est-ce que c'est，即使答句是复数也不改成 ce sont；答句的表语是复数名词 des photos，规范书面语用 ce sont 指认。Qui est-ce 问人；答句用 C'est 与复数表语不配合；Qu'est-ce que ce sont 不是规范问法。"
+          "explain": "问物用固定的 qu'est-ce que c'est，即使答句是复数也不改成 ce sont；答句的表语是复数名词 des photos，规范书面语用 ce sont 指认。Qui est-ce 问人；答句用 C'est 与复数表语不配合；Qu'est-ce que ce sont 不是规范问法。",
+          "locales": {
+            "fr": {
+              "explain": "Pour interroger sur une chose, on emploie la formule figée qu'est-ce que c'est, même si la réponse est au pluriel : on ne la transforme pas en ce sont. L'attribut de la réponse est le nom pluriel des photos : la langue écrite soignée emploie ce sont pour l'identification. Qui est-ce interroge sur une personne ; C'est ne s'accorde pas avec un attribut pluriel ; Qu'est-ce que ce sont n'est pas une forme interrogative soignée."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x2-q5",
@@ -1693,7 +2304,12 @@
           ],
           "answer": 2,
           "translation": "她唱得多好啊！",
-          "explain": "口语框架 c'est incroyable comme 在规范改写中删去，改用 comme + 主语 elle + 动词 chante + 程度副词 bien，感叹意义由 comme 承担，句末用感叹号。原句用 comme，改写也保留 comme；问号会改变交际功能；comme 后不用虚拟式，选项 3 还多出动词 soit，结构错误。"
+          "explain": "口语框架 c'est incroyable comme 在规范改写中删去，改用 comme + 主语 elle + 动词 chante + 程度副词 bien，感叹意义由 comme 承担，句末用感叹号。原句用 comme，改写也保留 comme；问号会改变交际功能；comme 后不用虚拟式，选项 3 还多出动词 soit，结构错误。",
+          "locales": {
+            "fr": {
+              "explain": "Le cadre oral c'est incroyable comme disparaît dans la reformulation soignée ; on emploie comme + le sujet elle + le verbe chante + l'adverbe de degré bien, le sens exclamatif étant porté par comme, avec un point d'exclamation final. La phrase d'origine emploie comme et la reformulation le conserve ; un point d'interrogation changerait la fonction communicative ; on n'emploie pas le subjonctif après comme, et l'option 3 ajoute en plus le verbe soit, ce qui est fautif."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x2-q6",
@@ -1707,7 +2323,12 @@
           ],
           "answer": 1,
           "translation": "她们数学超强！",
-          "explain": "comme 置于句首，后接主语 elles、动词 sont 和形容词 fortes，语序与陈述句相同；fortes 与 elles 保持阴性复数配合。vachement 是口语程度词，规范改写中删去。ils 与 elles 性别不符；fort 缺阴性复数词尾；comme 后不倒装。"
+          "explain": "comme 置于句首，后接主语 elles、动词 sont 和形容词 fortes，语序与陈述句相同；fortes 与 elles 保持阴性复数配合。vachement 是口语程度词，规范改写中删去。ils 与 elles 性别不符；fort 缺阴性复数词尾；comme 后不倒装。",
+          "locales": {
+            "fr": {
+              "explain": "comme se place en tête, suivi du sujet elles, du verbe sont et de l'adjectif fortes, dans l'ordre déclaratif ; fortes s'accorde avec elles au féminin pluriel. vachement est un adverbe de degré familier, supprimé dans la reformulation soignée. ils ne correspond pas au genre de elles ; fort n'a pas la terminaison du féminin pluriel ; on n'inverse pas après comme."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x2-q7",
@@ -1739,7 +2360,12 @@
             "enfant"
           ],
           "translation": "这些孩子需要帮助。→ 需要帮助的是这些孩子。",
-          "explain": "原句主语 ces enfants 是复数，分裂句用 ce sont；强调主语用 qui 引导关系从句，从句动词 ont 与 ces enfants 保持第三人称复数一致。不能用 C'est（口语可接受，规范书面语按数配合），也不能用强调宾语的 que。"
+          "explain": "原句主语 ces enfants 是复数，分裂句用 ce sont；强调主语用 qui 引导关系从句，从句动词 ont 与 ces enfants 保持第三人称复数一致。不能用 C'est（口语可接受，规范书面语按数配合），也不能用强调宾语的 que。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet de la phrase d'origine, ces enfants, est pluriel : la phrase clivée emploie ce sont ; pour mettre en relief le sujet, on introduit la relative par qui, et le verbe ont s'accorde à la troisième personne du pluriel avec ces enfants. C'est est acceptable à l'oral, mais la langue écrite soignée suit l'accord en nombre ; on n'emploie pas que, réservé à la mise en relief de l'objet."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x2-q8",
@@ -1767,7 +2393,12 @@
             "à"
           ],
           "translation": "你在跟谁说话？",
-          "explain": "parler à 的介词 à 必须保留，并与问人的 qui 一起前置为 à qui；规范问句用 est-ce que + 陈述词序 tu parles。不能把介词留在句末，也不能用问物的 quoi；qui 已在介词后作宾语，不能再套 est-ce qui。"
+          "explain": "parler à 的介词 à 必须保留，并与问人的 qui 一起前置为 à qui；规范问句用 est-ce que + 陈述词序 tu parles。不能把介词留在句末，也不能用问物的 quoi；qui 已在介词后作宾语，不能再套 est-ce qui。",
+          "locales": {
+            "fr": {
+              "explain": "La préposition à de parler à doit être conservée et se place en tête avec qui, pronom réservé aux personnes : à qui. La question soignée emploie est-ce que + l'ordre déclaratif tu parles. On ne laisse pas la préposition en fin de phrase et on n'emploie pas quoi, réservé aux choses ; qui est déjà complément après la préposition, on ne peut pas ajouter est-ce qui."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x2-q9",
@@ -1791,7 +2422,12 @@
             "bien."
           ],
           "translation": "她们唱得超好！",
-          "explain": "comme 置于句首，后接主语 elles、变位动词 chantent 和程度副词 bien，语序与陈述句相同；vachement 是口语程度词，规范改写中删去，程度意义由 comme 承担。主语是 elles，不能用 ils；动词 chantent 要与 elles 配合；感叹句用感叹号。"
+          "explain": "comme 置于句首，后接主语 elles、变位动词 chantent 和程度副词 bien，语序与陈述句相同；vachement 是口语程度词，规范改写中删去，程度意义由 comme 承担。主语是 elles，不能用 ils；动词 chantent 要与 elles 配合；感叹句用感叹号。",
+          "locales": {
+            "fr": {
+              "explain": "comme se place en tête, suivi du sujet elles, du verbe conjugué chantent et de l'adverbe de degré bien, dans l'ordre déclaratif ; vachement est un adverbe de degré familier, supprimé dans la reformulation soignée, et le sens du degré est porté par comme. Le sujet est elles : on n'emploie pas ils ; le verbe chantent s'accorde avec elles ; l'exclamation se termine par un point d'exclamation."
+            }
+          }
         },
         {
           "id": "pub-c08-imperative-emphasis-x2-q10",
@@ -1804,9 +2440,28 @@
             "z"
           ],
           "translation": "明天来的是我父母。",
-          "explain": "ce sont 与复数表语 mes parents 配合；关系代词 qui 在从句中作主语，指代 mes parents，因此 arriver 用第三人称复数 arrivent。不能因为先行词在 qui 前就误用单数 arrive。"
+          "explain": "ce sont 与复数表语 mes parents 配合；关系代词 qui 在从句中作主语，指代 mes parents，因此 arriver 用第三人称复数 arrivent。不能因为先行词在 qui 前就误用单数 arrive。",
+          "locales": {
+            "fr": {
+              "explain": "ce sont s'accorde avec l'attribut pluriel mes parents ; le pronom relatif qui est sujet de la subordonnée et reprend mes parents, d'où la troisième personne du pluriel arrivent d'arriver. On ne met pas arrive au singulier en s'appuyant sur la forme qui précède qui."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse : identification, phrases clivées et reformulation"
+        }
+      }
     }
-  ]
+  ],
+  "locales": {
+    "fr": {
+      "sectionTitles": {
+        "s1": "Formes de l'impératif et négation",
+        "s2": "c'est / il est et phrase emphatique",
+        "s3": "Registre et reformulation"
+      }
+    }
+  }
 }

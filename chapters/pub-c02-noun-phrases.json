@@ -6,117 +6,255 @@
     {
       "id": "pub-c02-noun-phrases-card-u1-1",
       "title": "名词的性与冠词配合",
-      "body": "<p>名词的语法性是词条的一部分，不随说话人的性别改变。冠词要与名词的性和数配合：阳性单数用 un/le，阴性单数用 une/la，复数用 des/les。</p><p>例：un livre → le livre（一本书 → 这本书）；une table → la table（一张桌子 → 这张桌子）；des livres → les livres（一些书 → 这些书）。</p><p>以元音或哑音 h 开头的名词前，le/la 省音为 l'：un ami → l'ami（一位朋友 → 这位朋友）；une école → l'école（一所学校 → 这所学校）。嘘音 h 前不省音：le héros（这位主人公）。</p><p>词尾可以提示性别，但只是倾向，遇到例外要按词记。</p>"
+      "body": "<p>名词的语法性是词条的一部分，不随说话人的性别改变。冠词要与名词的性和数配合：阳性单数用 un/le，阴性单数用 une/la，复数用 des/les。</p><p>例：un livre → le livre（一本书 → 这本书）；une table → la table（一张桌子 → 这张桌子）；des livres → les livres（一些书 → 这些书）。</p><p>以元音或哑音 h 开头的名词前，le/la 省音为 l'：un ami → l'ami（一位朋友 → 这位朋友）；une école → l'école（一所学校 → 这所学校）。嘘音 h 前不省音：le héros（这位主人公）。</p><p>词尾可以提示性别，但只是倾向，遇到例外要按词记。</p>",
+      "locales": {
+        "fr": {
+          "title": "Genre du nom et accord de l'article",
+          "body": "<p>Le genre grammatical fait partie de l'entrée du nom ; il ne change pas selon le sexe du locuteur. L'article s'accorde en genre et en nombre avec le nom : un/le au masculin singulier, une/la au féminin singulier, des/les au pluriel.</p><p>Ex. : un livre → le livre ; une table → la table ; des livres → les livres.</p><p>Devant un nom commençant par une voyelle ou un h muet, le/la s'élide en l' : un ami → l'ami ; une école → l'école. Devant un h aspiré, il n'y a pas d'élision : le héros.</p><p>La terminaison peut donner une indication de genre, mais seulement une tendance : devant une exception, on retient le mot tel qu'il est.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u1-2",
       "title": "名词短语的性数与配合对象",
-      "body": "<p>名词短语以名词为中心：冠词等限定词与中心名词的性和数一致，介词 de 引出的补语不改变中心名词的性数。例：le livre de la fille（女孩的书）中，le 与阳性单数 livre 配合，la 属于补语 fille；les élèves de la classe（班上的学生们）中，les 与复数 élèves 配合，不随 la classe 变。</p><p>形容词修饰名词或作表语时，也以被修饰的名词或主语为配合对象：Les élèves de la classe sont attentifs.（班上的学生们很专心。）这里 attentifs 与 les élèves 配合，而不是与 la classe 配合；形容词的具体词形变化在后续章节学习。</p>"
+      "body": "<p>名词短语以名词为中心：冠词等限定词与中心名词的性和数一致，介词 de 引出的补语不改变中心名词的性数。例：le livre de la fille（女孩的书）中，le 与阳性单数 livre 配合，la 属于补语 fille；les élèves de la classe（班上的学生们）中，les 与复数 élèves 配合，不随 la classe 变。</p><p>形容词修饰名词或作表语时，也以被修饰的名词或主语为配合对象：Les élèves de la classe sont attentifs.（班上的学生们很专心。）这里 attentifs 与 les élèves 配合，而不是与 la classe 配合；形容词的具体词形变化在后续章节学习。</p>",
+      "locales": {
+        "fr": {
+          "title": "Genre et nombre du groupe nominal, et contrôle de l'accord",
+          "body": "<p>Le groupe nominal est organisé autour du nom : les déterminants comme l'article s'accordent en genre et en nombre avec le nom noyau ; le complément introduit par de ne change pas le genre ni le nombre du nom noyau. Ex. : dans le livre de la fille, le s'accorde avec livre, masculin singulier, et la appartient au complément fille ; dans les élèves de la classe, les s'accorde avec élèves, pluriel, et ne suit pas la classe.</p><p>L'adjectif qui qualifie le nom ou qui sert d'attribut s'accorde lui aussi avec le nom qualifié ou avec le sujet : Les élèves de la classe sont attentifs. Ici, attentifs s'accorde avec les élèves, non avec la classe ; les formes précises de l'adjectif sont étudiées dans le chapitre suivant.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u1-3",
       "title": "性别改变词义的名词对",
-      "body": "<p>有些名词阴阳性同形而意义不同，必须连冠词一起记，不能当作普通阴阳对应词。</p><p>例：un livre（书）/ une livre（磅）；un poste（职位）/ la poste（邮政、邮局）；un tour（一圈、轮次）/ une tour（塔）；un mode（方式）/ une mode（时尚）；un manche（柄）/ la manche（袖子）。</p>"
+      "body": "<p>有些名词阴阳性同形而意义不同，必须连冠词一起记，不能当作普通阴阳对应词。</p><p>例：un livre（书）/ une livre（磅）；un poste（职位）/ la poste（邮政、邮局）；un tour（一圈、轮次）/ une tour（塔）；un mode（方式）/ une mode（时尚）；un manche（柄）/ la manche（袖子）。</p>",
+      "locales": {
+        "fr": {
+          "title": "Paires de noms dont le genre change le sens",
+          "body": "<p>Certains noms ont la même forme au masculin et au féminin mais un sens différent : il faut les retenir avec leur article, et non les traiter comme de simples paires masculin/féminin.</p><p>Ex. : un livre (un ouvrage) / une livre (une unité de poids) ; un poste (un emploi, un appareil) / la poste (le service postal, le bureau de poste) ; un tour (un tour de circuit, un tour de rôle) / une tour (une construction haute) ; un mode (une manière) / une mode (la tendance vestimentaire) ; un manche (un manche d'outil) / la manche (la partie du vêtement).</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u3-3",
       "title": "词尾判性：常见倾向与例外",
-      "body": "<p>词尾只是倾向，不是绝对规则；遇到例外要按词记。</p><p>常见阴性词尾：-ée（une année 一年、une idée 一个想法）、-ie（une vie 生活、une philosophie 哲学）、-ure（une nature 自然、une peinture 绘画）、-ière（une matière 材料、une carrière 职业生涯）、-esse（une jeunesse 青春、une tristesse 悲伤）、-tion（une nation 民族、une action 行动）、-té（une beauté 美、une société 社会）。</p><p>常见阳性词尾：-age（un village 村庄）、-ment（un mouvement 运动）、-isme（un tourisme 旅游业）、-eau（un bureau 办公室）、-oir（un miroir 镜子）、-ier（un escalier 楼梯）。</p><p>重要例外：-ée 有 un lycée（高中）、un trophée（奖杯）、un musée（博物馆）；-té 有 un été（夏天）、un pâté（肉酱）、un comité（委员会）；-age 有 une page（一页）、une plage（海滩）、une image（图像）等（见后文「-age 例外与按词确认的词尾变化」）。不能把词尾倾向当成判性公式。</p>"
+      "body": "<p>词尾只是倾向，不是绝对规则；遇到例外要按词记。</p><p>常见阴性词尾：-ée（une année 一年、une idée 一个想法）、-ie（une vie 生活、une philosophie 哲学）、-ure（une nature 自然、une peinture 绘画）、-ière（une matière 材料、une carrière 职业生涯）、-esse（une jeunesse 青春、une tristesse 悲伤）、-tion（une nation 民族、une action 行动）、-té（une beauté 美、une société 社会）。</p><p>常见阳性词尾：-age（un village 村庄）、-ment（un mouvement 运动）、-isme（un tourisme 旅游业）、-eau（un bureau 办公室）、-oir（un miroir 镜子）、-ier（un escalier 楼梯）。</p><p>重要例外：-ée 有 un lycée（高中）、un trophée（奖杯）、un musée（博物馆）；-té 有 un été（夏天）、un pâté（肉酱）、un comité（委员会）；-age 有 une page（一页）、une plage（海滩）、une image（图像）等（见后文「-age 例外与按词确认的词尾变化」）。不能把词尾倾向当成判性公式。</p>",
+      "locales": {
+        "fr": {
+          "title": "Genre selon la terminaison : tendances fréquentes et exceptions",
+          "body": "<p>La terminaison n'est qu'une tendance, pas une règle absolue ; devant une exception, on retient le mot.</p><p>Terminaisons souvent féminines : -ée (une année, une idée), -ie (une vie, une philosophie), -ure (une nature, une peinture), -ière (une matière, une carrière), -esse (une jeunesse, une tristesse), -tion (une nation, une action), -té (une beauté, une société).</p><p>Terminaisons souvent masculines : -age (un village), -ment (un mouvement), -isme (un tourisme), -eau (un bureau), -oir (un miroir), -ier (un escalier).</p><p>Exceptions importantes : -ée compte un lycée, un trophée, un musée ; -té compte un été, un pâté, un comité ; -age compte une page, une plage, une image, etc. (voir plus loin « Exceptions de -age et terminaisons à vérifier mot par mot »). On ne transforme pas une tendance de terminaison en formule pour déterminer le genre.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u2-1",
       "title": "最常用规则：阳性加 -e",
-      "body": "<p>有阴阳对应形式的人或动物名词，最常用的阴性构成方式是在阳性词后加 -e：un marchand → une marchande（商人 → 女商人）；un client → une cliente（顾客 → 女顾客）；un employé → une employée（职员 → 女职员）。冠词同时从 un 变为 une。</p><p>注意：以 -e 结尾的阳性词可能阴阳同形，如 un secrétaire → une secrétaire（秘书）；père → mère（父亲 → 母亲）等不规则词不能按加 -e 推导。</p>"
+      "body": "<p>有阴阳对应形式的人或动物名词，最常用的阴性构成方式是在阳性词后加 -e：un marchand → une marchande（商人 → 女商人）；un client → une cliente（顾客 → 女顾客）；un employé → une employée（职员 → 女职员）。冠词同时从 un 变为 une。</p><p>注意：以 -e 结尾的阳性词可能阴阳同形，如 un secrétaire → une secrétaire（秘书）；père → mère（父亲 → 母亲）等不规则词不能按加 -e 推导。</p>",
+      "locales": {
+        "fr": {
+          "title": "La règle la plus courante : ajouter -e au masculin",
+          "body": "<p>Pour les noms de personnes ou d'animaux qui ont une forme masculine et une forme féminine, la façon la plus courante de former le féminin est d'ajouter -e au masculin : un marchand → une marchande ; un client → une cliente ; un employé → une employée. L'article passe aussi de « un » à « une ».</p><p>Attention : un masculin terminé par -e peut être identique au féminin, comme un secrétaire → une secrétaire ; les formes irrégulières comme père → mère ne se construisent pas en ajoutant -e.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u2-2",
       "title": "-er/-ier → -ère/-ière",
-      "body": "<p>以 -er 结尾的阳性名词，阴性通常改为 -ère；以 -ier 结尾的改为 -ière。</p><p>例：un étranger → une étrangère（外国人）；un ouvrier → une ouvrière（工人）；un banquier → une banquière（银行家）。</p><p>注意 -er 与 -ier 的词形差别，并保留应有的重音。père → mère 是不同词干的不规则词，不能当作 -er 的例外。</p>"
+      "body": "<p>以 -er 结尾的阳性名词，阴性通常改为 -ère；以 -ier 结尾的改为 -ière。</p><p>例：un étranger → une étrangère（外国人）；un ouvrier → une ouvrière（工人）；un banquier → une banquière（银行家）。</p><p>注意 -er 与 -ier 的词形差别，并保留应有的重音。père → mère 是不同词干的不规则词，不能当作 -er 的例外。</p>",
+      "locales": {
+        "fr": {
+          "title": "-er/-ier → -ère/-ière",
+          "body": "<p>Un nom masculin terminé par -er forme généralement son féminin en -ère ; un nom terminé par -ier le forme en -ière.</p><p>Ex. : un étranger → une étrangère ; un ouvrier → une ouvrière ; un banquier → une banquière.</p><p>Attention à la différence entre -er et -ier, et conservez l'accent nécessaire. Père → mère est un mot irrégulier à radical différent : ce n'est pas une exception de la règle -er.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u2-3",
       "title": "鼻音双写 n 与部分 -t 双写",
-      "body": "<p>鼻音词尾：部分 -ien、-éen、-ion、-on 结尾的阳性词，阴性双写 n 再加 -e，形成 -ienne、-éenne、-ionne、-onne。</p><p>例：un chien → une chienne（狗）；un lion → une lionne（狮子）。形容词例：bon → bonne（好的）。</p><p>-t 双写：部分 -t 结尾名词双写 t 再加 -e，如 un sot → une sotte（傻瓜）；但许多 -t 名词只加 -e，如 un idiot → une idiote（傻瓜、白痴），不能一概双写。</p><p>-ain 通常变 -aine（nain → naine，矮人），但 copain → copine（朋友）等要按词记；-et → -ette 是另一条有限规则，不能和普通 -t 双写混同。</p>"
+      "body": "<p>鼻音词尾：部分 -ien、-éen、-ion、-on 结尾的阳性词，阴性双写 n 再加 -e，形成 -ienne、-éenne、-ionne、-onne。</p><p>例：un chien → une chienne（狗）；un lion → une lionne（狮子）。形容词例：bon → bonne（好的）。</p><p>-t 双写：部分 -t 结尾名词双写 t 再加 -e，如 un sot → une sotte（傻瓜）；但许多 -t 名词只加 -e，如 un idiot → une idiote（傻瓜、白痴），不能一概双写。</p><p>-ain 通常变 -aine（nain → naine，矮人），但 copain → copine（朋友）等要按词记；-et → -ette 是另一条有限规则，不能和普通 -t 双写混同。</p>",
+      "locales": {
+        "fr": {
+          "title": "Double n des nasales et double t de certains mots",
+          "body": "<p>Terminaisons nasales : certains masculins en -ien, -éen, -ion, -on doublent le n et ajoutent -e au féminin, ce qui donne -ienne, -éenne, -ionne, -onne.</p><p>Ex. : un chien → une chienne ; un lion → une lionne. Exemple d'adjectif : bon → bonne.</p><p>Double t : certains noms en -t doublent le t et ajoutent -e, comme un sot → une sotte ; mais beaucoup de noms en -t ajoutent seulement -e, comme un idiot → une idiote : on ne double pas systématiquement.</p><p>-ain devient généralement -aine (nain → naine), mais copain → copine et d'autres mots s'apprennent mot par mot ; -et → -ette est une autre règle limitée, à ne pas confondre avec le double t des mots en -t.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u3-1",
       "title": "-e → -esse 只适用于部分词",
-      "body": "<p>部分以 -e 结尾的阳性名词变阴性时改为 -esse，但这是一份有限的词表，不是所有 -e 结尾名词的通则。</p><p>例：un tigre → une tigresse（老虎）；un âne → une ânesse（驴）；un poète → une poétesse（诗人）。</p><p>反例：un secrétaire → une secrétaire（秘书）；un collègue → une collègue（同事）。这些词阴阳同形，不能强行加 -esse。以 -esse 结尾的名词也多为阴性，如 une jeunesse（青春）、une tristesse（悲伤），但词尾仍只是倾向。</p>"
+      "body": "<p>部分以 -e 结尾的阳性名词变阴性时改为 -esse，但这是一份有限的词表，不是所有 -e 结尾名词的通则。</p><p>例：un tigre → une tigresse（老虎）；un âne → une ânesse（驴）；un poète → une poétesse（诗人）。</p><p>反例：un secrétaire → une secrétaire（秘书）；un collègue → une collègue（同事）。这些词阴阳同形，不能强行加 -esse。以 -esse 结尾的名词也多为阴性，如 une jeunesse（青春）、une tristesse（悲伤），但词尾仍只是倾向。</p>",
+      "locales": {
+        "fr": {
+          "title": "-e → -esse ne concerne que certains mots",
+          "body": "<p>Certains noms masculins terminés par -e forment leur féminin en -esse, mais il s'agit d'une liste limitée, non d'une règle pour tous les noms en -e.</p><p>Ex. : un tigre → une tigresse ; un âne → une ânesse ; un poète → une poétesse.</p><p>Contre-exemples : un secrétaire → une secrétaire ; un collègue → une collègue. Ces mots ont la même forme aux deux genres : on ne leur ajoute pas -esse de force. Les noms en -esse sont souvent féminins, comme une jeunesse, une tristesse, mais la terminaison reste une tendance.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u3-2",
       "title": "-eur 的两条阴性路径：-euse 与 -rice",
-      "body": "<p>以 -eur 结尾的阳性名词，阴性可能走 -euse，也可能走 -rice，必须按词记。</p><p>-euse：un vendeur → une vendeuse（售货员）；un coiffeur → une coiffeuse（理发师）；un serveur → une serveuse（服务员）。</p><p>-rice：un créateur → une créatrice（创作者）；un traducteur → une traductrice（译者）；un imitateur → une imitatrice（模仿者）。</p><p>不要仅凭 -eur 判断：两组没有可靠的统一词尾规则。部分职业名词的阴性用法仍在变化，如 professeur → professeure（教师）、auteur → autrice（作者），写作时按语境和规范确认。</p>"
+      "body": "<p>以 -eur 结尾的阳性名词，阴性可能走 -euse，也可能走 -rice，必须按词记。</p><p>-euse：un vendeur → une vendeuse（售货员）；un coiffeur → une coiffeuse（理发师）；un serveur → une serveuse（服务员）。</p><p>-rice：un créateur → une créatrice（创作者）；un traducteur → une traductrice（译者）；un imitateur → une imitatrice（模仿者）。</p><p>不要仅凭 -eur 判断：两组没有可靠的统一词尾规则。部分职业名词的阴性用法仍在变化，如 professeur → professeure（教师）、auteur → autrice（作者），写作时按语境和规范确认。</p>",
+      "locales": {
+        "fr": {
+          "title": "Les deux voies du féminin en -eur : -euse et -rice",
+          "body": "<p>Un nom masculin terminé par -eur peut former son féminin en -euse ou en -rice : le choix se retient mot par mot.</p><p>-euse : un vendeur → une vendeuse ; un coiffeur → une coiffeuse ; un serveur → une serveuse.</p><p>-rice : un créateur → une créatrice ; un traducteur → une traductrice ; un imitateur → une imitatrice.</p><p>Ne décidez pas à partir de -eur seul : les deux groupes n'ont pas de terminaison commune fiable. L'usage de certains noms de métier évolue, comme professeur → professeure, auteur → autrice : à l'écrit, vérifiez le contexte et la norme retenue.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u4-1",
       "title": "-age 例外与按词确认的词尾变化",
-      "body": "<p>这一组变化都只适用于部分词，不能从一个词推到整类。-age 通常提示阳性，但有阴性例外：une page（一页）、une plage（海滩）、une cage（笼子）、une rage（狂怒）、une image（图像）；例外不止这些。</p><p>-c → -que：un Turc → une Turque（土耳其人，名词）；但形容词 blanc → blanche（白的）、sec → sèche（干的）走另一条变化，不能类推。</p><p>-et → -ette：un cadet → une cadette（军校学员、幼子，名词）双写 t；形容词 complet → complète（完整的）不双写 t，只把 -et 写成 -ète。</p><p>-f → -ve：un veuf → une veuve（鳏夫 → 寡妇，名词）、un sportif → une sportive（运动员，名词）；但 un chef → une cheffe（厨师 → 女厨师）双写 f 再加 -e，要按词记。</p><p>-x → -se：形容词 heureux → heureuse（幸福的）可作为 -x → -se 的识别例。形容词 roux → rousse（红棕色的）和 doux → douce（柔软的）虽也以 -se/-ce 收尾，但属于按词确认的例外，不能归入普通 -x → -se 规则。名词的完整阴性体系以词条为准；形容词的阴性词形在形容词章节系统学习。</p>"
+      "body": "<p>这一组变化都只适用于部分词，不能从一个词推到整类。-age 通常提示阳性，但有阴性例外：une page（一页）、une plage（海滩）、une cage（笼子）、une rage（狂怒）、une image（图像）；例外不止这些。</p><p>-c → -que：un Turc → une Turque（土耳其人，名词）；但形容词 blanc → blanche（白的）、sec → sèche（干的）走另一条变化，不能类推。</p><p>-et → -ette：un cadet → une cadette（军校学员、幼子，名词）双写 t；形容词 complet → complète（完整的）不双写 t，只把 -et 写成 -ète。</p><p>-f → -ve：un veuf → une veuve（鳏夫 → 寡妇，名词）、un sportif → une sportive（运动员，名词）；但 un chef → une cheffe（厨师 → 女厨师）双写 f 再加 -e，要按词记。</p><p>-x → -se：形容词 heureux → heureuse（幸福的）可作为 -x → -se 的识别例。形容词 roux → rousse（红棕色的）和 doux → douce（柔软的）虽也以 -se/-ce 收尾，但属于按词确认的例外，不能归入普通 -x → -se 规则。名词的完整阴性体系以词条为准；形容词的阴性词形在形容词章节系统学习。</p>",
+      "locales": {
+        "fr": {
+          "title": "Exceptions de -age et terminaisons à vérifier mot par mot",
+          "body": "<p>Ces changements ne concernent que certains mots : on ne peut pas les étendre d'un mot à toute une catégorie. -age indique souvent le masculin, mais il y a des exceptions féminines : une page, une plage, une cage, une rage, une image ; la liste des exceptions ne s'arrête pas là.</p><p>-c → -que : un Turc → une Turque (nom) ; mais les adjectifs blanc → blanche, sec → sèche suivent une autre voie : pas d'analogie.</p><p>-et → -ette : un cadet → une cadette (nom) double le t ; l'adjectif complet → complète ne double pas le t et écrit seulement -et en -ète.</p><p>-f → -ve : un veuf → une veuve (nom), un sportif → une sportive (nom) ; mais un chef → une cheffe double le f et ajoute -e : à retenir mot par mot.</p><p>-x → -se : l'adjectif heureux → heureuse peut servir d'exemple repère pour -x → -se. Les adjectifs roux → rousse et doux → douce se terminent aussi par -se/-ce, mais ce sont des exceptions à vérifier mot par mot, non la règle générale -x → -se. Pour les noms, le système complet du féminin dépend de l'entrée ; les formes féminines des adjectifs sont étudiées systématiquement dans le chapitre des adjectifs.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u4-2",
       "title": "不规则阴性、阴阳同形与复合名词",
-      "body": "<p>不规则阴性要通过整词记忆：un roi → une reine（国王 → 女王、王后）；un héros → une héroïne（主人公 → 女主人公）。它们不能由阳性词尾直接推导。</p><p>阴阳同形名词只靠冠词或上下文区分性别：un enfant / une enfant（孩子）、un élève / une élève（学生）、un journaliste / une journaliste（记者）、un collègue / une collègue（同事）。</p><p>复合名词按构成成分分别处理，没有统一公式：un grand-oncle → une grand-tante（叔祖父 → 姑祖母；只有 oncle 变 tante，grand 保持不变）；un beau-frère → une belle-sœur（姻亲兄弟 → 姻亲姐妹；两个成分都变）。并非所有复合词都两个成分同时变化，必须按词核查，不能把某一复合词的变化推广到全部复合词。</p>"
+      "body": "<p>不规则阴性要通过整词记忆：un roi → une reine（国王 → 女王、王后）；un héros → une héroïne（主人公 → 女主人公）。它们不能由阳性词尾直接推导。</p><p>阴阳同形名词只靠冠词或上下文区分性别：un enfant / une enfant（孩子）、un élève / une élève（学生）、un journaliste / une journaliste（记者）、un collègue / une collègue（同事）。</p><p>复合名词按构成成分分别处理，没有统一公式：un grand-oncle → une grand-tante（叔祖父 → 姑祖母；只有 oncle 变 tante，grand 保持不变）；un beau-frère → une belle-sœur（姻亲兄弟 → 姻亲姐妹；两个成分都变）。并非所有复合词都两个成分同时变化，必须按词核查，不能把某一复合词的变化推广到全部复合词。</p>",
+      "locales": {
+        "fr": {
+          "title": "Féminins irréguliers, formes identiques et noms composés",
+          "body": "<p>Les féminins irréguliers s'apprennent comme un mot entier : un roi → une reine ; un héros → une héroïne. Ils ne se déduisent pas directement de la terminaison du masculin.</p><p>Les noms de forme identique ne distinguent le genre que par l'article ou le contexte : un enfant / une enfant ; un élève / une élève ; un journaliste / une journaliste ; un collègue / une collègue.</p><p>Les noms composés se traitent selon leurs éléments, sans formule unique : un grand-oncle → une grand-tante (seul oncle devient tante, grand reste inchangé) ; un beau-frère → une belle-sœur (les deux éléments changent). Tous les composés ne changent pas leurs deux éléments : il faut vérifier mot par mot et ne pas généraliser la transformation d'un composé à tous les autres.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u4-3",
       "title": "阳性 -eur 与 -ion 的小词表",
-      "body": "<p>一些职业或身份名词的阳性以 -eur 收尾：un chanteur（歌手）、un danseur（舞者）、un vendeur（售货员）的阴性走 -euse（chanteuse、danseuse、vendeuse）；un acteur（演员）、un directeur（经理、导演）等走 -rice（actrice、directrice）。单看阳性 -eur 不能决定整个词族，必须按词记。</p><p>-ion 阳性是一个小词表，不是性别规则：un avion（飞机）、un camion（卡车）、un lion（狮子）、un million（百万）、un espion（间谍）、un bastion（堡垒）。它们要与阴性 -tion/-sion 名词区分，如 une nation（民族）、une décision（决定）；不要把“以 -ion 结尾”直接当成阳性规则。</p>"
+      "body": "<p>一些职业或身份名词的阳性以 -eur 收尾：un chanteur（歌手）、un danseur（舞者）、un vendeur（售货员）的阴性走 -euse（chanteuse、danseuse、vendeuse）；un acteur（演员）、un directeur（经理、导演）等走 -rice（actrice、directrice）。单看阳性 -eur 不能决定整个词族，必须按词记。</p><p>-ion 阳性是一个小词表，不是性别规则：un avion（飞机）、un camion（卡车）、un lion（狮子）、un million（百万）、un espion（间谍）、un bastion（堡垒）。它们要与阴性 -tion/-sion 名词区分，如 une nation（民族）、une décision（决定）；不要把“以 -ion 结尾”直接当成阳性规则。</p>",
+      "locales": {
+        "fr": {
+          "title": "Petites listes de masculins en -eur et en -ion",
+          "body": "<p>Certains noms de métier ou d'identité sont masculins en -eur : un chanteur, un danseur, un vendeur forment leur féminin en -euse (chanteuse, danseuse, vendeuse) ; un acteur, un directeur et d'autres forment leur féminin en -rice (actrice, directrice). Le -eur du masculin ne suffit pas à décider pour toute la famille : chaque mot se retient.</p><p>Les masculins en -ion constituent une petite liste, non une règle de genre : un avion, un camion, un lion, un million, un espion, un bastion. Il faut les distinguer des noms féminins en -tion/-sion, comme une nation, une décision ; ne faites pas de « terminé par -ion » une règle du masculin.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u5-1",
       "title": "复数基础：加 -s 与 -s/-x/-z 不变",
-      "body": "<p>多数名词在单数形式后加 -s 构成复数：un livre → des livres（一本书 → 一些书）；une fleur → des fleurs（一朵花 → 一些花）。以 -s、-x、-z 结尾的名词单复数同形，数量靠冠词或数词区分：un nez → des nez（鼻子）；une voix → des voix（嗓音）；un gaz → des gaz（气体）。</p><p>注意：-al/-ail/-eau/-eu/-ou 等词尾另有规则，不能把所有名词都套上加 -s；遇到生词仍要按词条确认。</p><p>de 连接所属者或其他补语时，补语是否变复数取决于所指是否也变为多个，而不是跟着中心名词自动变化：le cahier de l'élève（这个学生的笔记本）→ les cahiers de l'élève（这些笔记本仍属于同一个学生）；如果学生也变为多个，才说 les cahiers des élèves（这些学生的笔记本）。这里的 des élèves 中，des = de + les，表示所属，不是不定冠词 des。</p>"
+      "body": "<p>多数名词在单数形式后加 -s 构成复数：un livre → des livres（一本书 → 一些书）；une fleur → des fleurs（一朵花 → 一些花）。以 -s、-x、-z 结尾的名词单复数同形，数量靠冠词或数词区分：un nez → des nez（鼻子）；une voix → des voix（嗓音）；un gaz → des gaz（气体）。</p><p>注意：-al/-ail/-eau/-eu/-ou 等词尾另有规则，不能把所有名词都套上加 -s；遇到生词仍要按词条确认。</p><p>de 连接所属者或其他补语时，补语是否变复数取决于所指是否也变为多个，而不是跟着中心名词自动变化：le cahier de l'élève（这个学生的笔记本）→ les cahiers de l'élève（这些笔记本仍属于同一个学生）；如果学生也变为多个，才说 les cahiers des élèves（这些学生的笔记本）。这里的 des élèves 中，des = de + les，表示所属，不是不定冠词 des。</p>",
+      "locales": {
+        "fr": {
+          "title": "Bases du pluriel : ajouter -s et les mots en -s/-x/-z invariables",
+          "body": "<p>La plupart des noms forment leur pluriel en ajoutant -s au singulier : un livre → des livres ; une fleur → des fleurs. Les noms terminés par -s, -x ou -z ont la même forme au singulier et au pluriel ; le nombre est indiqué par l'article ou le quantifieur : un nez → des nez ; une voix → des voix ; un gaz → des gaz.</p><p>Attention : les terminaisons -al/-ail/-eau/-eu/-ou ont d'autres règles ; on n'ajoute pas -s à tous les noms. Devant un mot nouveau, vérifiez l'entrée du dictionnaire.</p><p>Quand de introduit le possesseur ou un autre complément, le complément passe ou non au pluriel selon que le référent devient lui aussi multiple, et non automatiquement avec le nom noyau : le cahier de l'élève → les cahiers de l'élève (les cahiers appartiennent toujours au même élève) ; si les élèves deviennent plusieurs, on dit les cahiers des élèves. Dans des élèves, des = de + les et marque l'appartenance, ce n'est pas l'article indéfini des.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u5-2",
       "title": "特殊复数词尾：-al/-ail、-eau/-eu/-ou 及 -eu 的 -s 例外",
-      "body": "<p>-al 结尾的名词多数变 -aux：un journal → des journaux（报纸）；但 bal（舞会）、festival（节日）、carnaval（狂欢节）、récital（独奏会）等加 -s：un festival → des festivals。-ail 结尾多数加 -s：un détail → des détails（细节）；少数变 -aux：un travail → des travaux（工作），bail → baux（租约），vitrail → vitraux（彩绘玻璃）。-eau、-eu 通常加 -x：un bureau → des bureaux（办公室）；un jeu → des jeux（游戏）。-ou 通常加 -s：un clou → des clous（钉子）；只有 bijou（首饰）、chou（卷心菜）、caillou（石子）、genou（膝盖）、hibou（猫头鹰）、joujou（玩具）、pou（虱子）这七个词加 -x：un bijou → des bijoux。-eu 还有少数加 -s 的词条，如 pneu → pneus（轮胎）、bleu → bleus（蓝色）；不能据此把 -eu 都改成加 -s。</p>"
+      "body": "<p>-al 结尾的名词多数变 -aux：un journal → des journaux（报纸）；但 bal（舞会）、festival（节日）、carnaval（狂欢节）、récital（独奏会）等加 -s：un festival → des festivals。-ail 结尾多数加 -s：un détail → des détails（细节）；少数变 -aux：un travail → des travaux（工作），bail → baux（租约），vitrail → vitraux（彩绘玻璃）。-eau、-eu 通常加 -x：un bureau → des bureaux（办公室）；un jeu → des jeux（游戏）。-ou 通常加 -s：un clou → des clous（钉子）；只有 bijou（首饰）、chou（卷心菜）、caillou（石子）、genou（膝盖）、hibou（猫头鹰）、joujou（玩具）、pou（虱子）这七个词加 -x：un bijou → des bijoux。-eu 还有少数加 -s 的词条，如 pneu → pneus（轮胎）、bleu → bleus（蓝色）；不能据此把 -eu 都改成加 -s。</p>",
+      "locales": {
+        "fr": {
+          "title": "Terminaisons du pluriel : -al/-ail, -eau/-eu/-ou et exceptions en -s de -eu",
+          "body": "<p>Les noms en -al font le plus souvent -aux : un journal → des journaux ; mais bal, festival, carnaval, récital et d'autres ajoutent -s : un festival → des festivals. Les noms en -ail ajoutent le plus souvent -s : un détail → des détails ; quelques-uns font -aux : un travail → des travaux, bail → baux, vitrail → vitraux. Les noms en -eau et -eu ajoutent généralement -x : un bureau → des bureaux ; un jeu → des jeux. Les noms en -ou ajoutent généralement -s : un clou → des clous ; seuls bijou, chou, caillou, genou, hibou, joujou et pou ajoutent -x : un bijou → des bijoux. -eu compte aussi quelques mots en -s, comme pneu → pneus, bleu → bleus ; on n'étend pas ce -s à tous les mots en -eu.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u5-3",
       "title": "不规则复数：按词条整体记忆",
-      "body": "<p>有些名词的复数不是机械加 -s 或 -x，需要整体记忆：un œil → des yeux（眼睛，指人的眼睛，不是复合词中的 œil）；monsieur → messieurs（先生们）；madame → mesdames（女士们）；mademoiselle → mesdemoiselles（小姐们）。un jeune homme 的常用复数对应 des jeunes gens（年轻人），这是词汇性替换，不是把 homme 直接加 -s 的结果。</p>"
+      "body": "<p>有些名词的复数不是机械加 -s 或 -x，需要整体记忆：un œil → des yeux（眼睛，指人的眼睛，不是复合词中的 œil）；monsieur → messieurs（先生们）；madame → mesdames（女士们）；mademoiselle → mesdemoiselles（小姐们）。un jeune homme 的常用复数对应 des jeunes gens（年轻人），这是词汇性替换，不是把 homme 直接加 -s 的结果。</p>",
+      "locales": {
+        "fr": {
+          "title": "Pluriels irréguliers : mémoriser le mot entier",
+          "body": "<p>Certains noms ne forment pas leur pluriel en ajoutant mécaniquement -s ou -x ; il faut les mémoriser entièrement : un œil → des yeux (les yeux d'une personne, non l'œil conservé dans certains composés) ; monsieur → messieurs ; madame → mesdames ; mademoiselle → mesdemoiselles. Le pluriel courant d'un jeune homme est des jeunes gens : c'est un remplacement lexical, non le résultat de l'ajout de -s à homme.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u7-1",
       "title": "数量副词与数量名词后的 de",
-      "body": "<p>数量副词 beaucoup（很多）、peu（很少）、trop（太多）、assez（足够）、un peu（一点）等后面用 de 引出名词：beaucoup de livres（很多书）；un peu d'eau（一点水，de 在元音前省音为 d'）。数量名词或容器也用 de 引出内容：un kilo de pommes（一公斤苹果）；deux bouteilles d'eau（两瓶水）。普通基数词直接修饰名词，不加 de：trois pommes（三个苹果）；deux livres（两本书）。容器表达属于数量名词结构，不是部分冠词。</p>"
+      "body": "<p>数量副词 beaucoup（很多）、peu（很少）、trop（太多）、assez（足够）、un peu（一点）等后面用 de 引出名词：beaucoup de livres（很多书）；un peu d'eau（一点水，de 在元音前省音为 d'）。数量名词或容器也用 de 引出内容：un kilo de pommes（一公斤苹果）；deux bouteilles d'eau（两瓶水）。普通基数词直接修饰名词，不加 de：trois pommes（三个苹果）；deux livres（两本书）。容器表达属于数量名词结构，不是部分冠词。</p>",
+      "locales": {
+        "fr": {
+          "title": "de après les adverbes et les noms de quantité",
+          "body": "<p>Après des adverbes de quantité comme beaucoup, peu, trop, assez, un peu, on introduit le nom avec de : beaucoup de livres ; un peu d'eau (de s'élide en d' devant une voyelle). Les noms de quantité ou de contenant introduisent aussi leur contenu avec de : un kilo de pommes ; deux bouteilles d'eau. Les nombres cardinaux ordinaires modifient directement le nom, sans de : trois pommes ; deux livres. L'expression avec un contenant relève de la structure nom de quantité, non de l'article partitif.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u7-2",
       "title": "数词直接修饰与数量名词 + de 的对比",
-      "body": "<p>对比两组结构：deux pommes（两个苹果，数词直接修饰名词）与 deux kilos de pommes（两公斤苹果，数量名词后用 de 引出内容）；trois livres（三本书）与 trois bouteilles d'eau（三瓶水）。判断关键是前面是不是容器或计量名词；普通数词后不插入 de，避免 *trois de pommes、*deux kilos pommes 这类错误。</p>"
+      "body": "<p>对比两组结构：deux pommes（两个苹果，数词直接修饰名词）与 deux kilos de pommes（两公斤苹果，数量名词后用 de 引出内容）；trois livres（三本书）与 trois bouteilles d'eau（三瓶水）。判断关键是前面是不是容器或计量名词；普通数词后不插入 de，避免 *trois de pommes、*deux kilos pommes 这类错误。</p>",
+      "locales": {
+        "fr": {
+          "title": "Nombre directement devant le nom et nom de quantité + de",
+          "body": "<p>Comparez les deux structures : deux pommes (le nombre modifie directement le nom) et deux kilos de pommes (après le nom de quantité, de introduit le contenu) ; trois livres et trois bouteilles d'eau. Le critère est la présence d'un contenant ou d'un nom de mesure devant : après un nombre ordinaire, on n'insère pas de, ce qui évite les formes fautives *trois de pommes, *deux kilos pommes.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u8-1",
       "title": "名词 + à + 名词：用途与特征",
-      "body": "<p>à + 名词常用来说明用途、功能或典型特征，多见于工具、容器、交通等固定搭配：une machine à café（咖啡机）、une brosse à dents（牙刷）、un verre à vin（葡萄酒杯）。</p><p>对比语义：un verre de vin 是“一杯葡萄酒”，de 引出内容/数量；un verre à vin 是“葡萄酒杯”，à 引出用途。不能只看名词，要看想表达什么。</p><p>与 de、en 的分工：de 可表材料、类别或所属，en 常表材料或形式（un pull en laine）。这些是语义和固定搭配问题，不是把所有名词组合都套 à。</p>"
+      "body": "<p>à + 名词常用来说明用途、功能或典型特征，多见于工具、容器、交通等固定搭配：une machine à café（咖啡机）、une brosse à dents（牙刷）、un verre à vin（葡萄酒杯）。</p><p>对比语义：un verre de vin 是“一杯葡萄酒”，de 引出内容/数量；un verre à vin 是“葡萄酒杯”，à 引出用途。不能只看名词，要看想表达什么。</p><p>与 de、en 的分工：de 可表材料、类别或所属，en 常表材料或形式（un pull en laine）。这些是语义和固定搭配问题，不是把所有名词组合都套 à。</p>",
+      "locales": {
+        "fr": {
+          "title": "Nom + à + nom : usage et caractéristique",
+          "body": "<p>à + nom sert souvent à exprimer l'usage, la fonction ou une caractéristique typique ; on le trouve surtout dans des collocations d'outils, de contenants ou de transports : une machine à café, une brosse à dents, un verre à vin.</p><p>Comparez le sens : un verre de vin est « un verre rempli de vin », de introduit le contenu ou la quantité ; un verre à vin est « un verre destiné au vin », à introduit l'usage. Il ne faut pas regarder le nom seul, mais ce que l'on veut exprimer.</p><p>Répartition avec de et en : de peut indiquer la matière, la catégorie ou l'appartenance ; en indique souvent la matière ou la forme (un pull en laine). Ce sont des questions de sens et de collocation : on n'applique pas à à toutes les combinaisons de noms.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u8-2",
       "title": "名词 + de + 名词：材料、类别与所属",
-      "body": "<p>de + 名词可表材料、类别、内容或所属。表分类/材料的补语常不带冠词：une table de bois（木桌）、un professeur de musique（音乐老师）。表内容/数量的 de 也可不带冠词：une tasse de thé（一杯茶）。</p><p>补语确指时保留定冠词，并按第一章「冠词与基本拼写规则」的规则缩合或省音：la porte du garage（车库的门，de + le → du）、les toits des maisons（房子的屋顶，de + les → des）、la couleur de la mer（大海的颜色，de + la 不变）、le nom de l'école（学校的名字，de + l' 不变；l' 是省音冠词）。</p><p>注意：只有 de + le/les 才缩合，de + la/de + l' 保持分写。不要因为形式相同就把所有 des 都叫部分冠词：这里 des 通常是 de + les 的缩合，或复数不定冠词；du/de la/de l' 才与部分冠词同形。部分冠词的语义对照见第一章「部分冠词」一张。</p><p>与 en 对照：une bague en or（金戒指）用 en 讲材质；de 也能出现在材料/类别组合中，需按固定搭配和语义逐词判断。</p>"
+      "body": "<p>de + 名词可表材料、类别、内容或所属。表分类/材料的补语常不带冠词：une table de bois（木桌）、un professeur de musique（音乐老师）。表内容/数量的 de 也可不带冠词：une tasse de thé（一杯茶）。</p><p>补语确指时保留定冠词，并按第一章「冠词与基本拼写规则」的规则缩合或省音：la porte du garage（车库的门，de + le → du）、les toits des maisons（房子的屋顶，de + les → des）、la couleur de la mer（大海的颜色，de + la 不变）、le nom de l'école（学校的名字，de + l' 不变；l' 是省音冠词）。</p><p>注意：只有 de + le/les 才缩合，de + la/de + l' 保持分写。不要因为形式相同就把所有 des 都叫部分冠词：这里 des 通常是 de + les 的缩合，或复数不定冠词；du/de la/de l' 才与部分冠词同形。部分冠词的语义对照见第一章「部分冠词」一张。</p><p>与 en 对照：une bague en or（金戒指）用 en 讲材质；de 也能出现在材料/类别组合中，需按固定搭配和语义逐词判断。</p>",
+      "locales": {
+        "fr": {
+          "title": "Nom + de + nom : matière, catégorie et appartenance",
+          "body": "<p>de + nom peut exprimer la matière, la catégorie, le contenu ou l'appartenance. Le complément de catégorie ou de matière se construit souvent sans article : une table de bois, un professeur de musique. Le « de » de contenu ou de quantité peut aussi aller sans article : une tasse de thé.</p><p>Quand le complément est défini, on garde l'article défini et on applique les règles du premier chapitre « Articles et règles de base de l'écriture » : la porte du garage (de + le → du), les toits des maisons (de + les → des), la couleur de la mer (de + la reste séparé), le nom de l'école (de + l' reste séparé ; l' est l'article élidé).</p><p>Attention : seuls de + le/les se contractent ; de + la et de + l' restent séparés. N'appelez pas tous les des partitifs sous prétexte que la forme est identique : ici, des est généralement la contraction de de + les, ou l'article indéfini pluriel ; du/de la/de l' ont la même forme que le partitif. Le contraste de sens du partitif est présenté dans la carte « L'article partitif » du premier chapitre.</p><p>Comparez avec en : une bague en or emploie en pour la matière ; de peut aussi apparaître dans des combinaisons de matière ou de catégorie : il faut décider mot par mot selon la collocation et le sens.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u8-3",
       "title": "名词 + en + 名词：材质与形式（识别）",
-      "body": "<p>en + 名词（通常不带冠词）可说明材质、形式或语言：une bague en or（金戒指）、un pull en laine（羊毛衫）、un texte en français（法语文本）。</p><p>与 à 表用途、de 表材料/类别/所属区分：un verre à vin 是用途，un verre de vin 是内容；une bague en or 强调材质。有些材料表达中 de 和 en 都可能出现，不能机械替换，要看固定搭配和语义。</p>"
+      "body": "<p>en + 名词（通常不带冠词）可说明材质、形式或语言：une bague en or（金戒指）、un pull en laine（羊毛衫）、un texte en français（法语文本）。</p><p>与 à 表用途、de 表材料/类别/所属区分：un verre à vin 是用途，un verre de vin 是内容；une bague en or 强调材质。有些材料表达中 de 和 en 都可能出现，不能机械替换，要看固定搭配和语义。</p>",
+      "locales": {
+        "fr": {
+          "title": "Nom + en + nom : matière et forme (reconnaissance)",
+          "body": "<p>en + nom (généralement sans article) peut indiquer la matière, la forme ou la langue : une bague en or, un pull en laine, un texte en français.</p><p>Distinguez à pour l'usage, de pour la matière, la catégorie ou l'appartenance : un verre à vin indique l'usage, un verre de vin le contenu ; une bague en or insiste sur la matière. Dans certaines expressions de matière, de et en sont tous deux possibles : pas de remplacement mécanique, il faut regarder la collocation et le sens.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u8-4",
       "title": "身体部位与外观：定冠词与识别边界",
-      "body": "<p>描述五官、头发、身体部位的外观时，常用定冠词而不是主有形容词：Elle a les yeux bleus.（她有一双蓝眼睛。）Il a les cheveux courts.（他留着短发。）</p><p>成对或多个部位用复数 les，单个部位用 le/la：Elle se lave les mains.（她洗手。）J'ai mal à la tête.（我头疼。）</p><p>代词式动词、avoir mal à、间接宾语人称代词等结构中，身体部位前通常用定冠词：Il se lave les mains. / J'ai mal à la tête.</p><p>注意：身体部位并非一概排斥不定冠词或主有形容词。强调所属、对比，或名词带形容词修饰时，主有形容词可以出现；真实法语中 des yeux bleus 在有些语境也成立。</p>"
+      "body": "<p>描述五官、头发、身体部位的外观时，常用定冠词而不是主有形容词：Elle a les yeux bleus.（她有一双蓝眼睛。）Il a les cheveux courts.（他留着短发。）</p><p>成对或多个部位用复数 les，单个部位用 le/la：Elle se lave les mains.（她洗手。）J'ai mal à la tête.（我头疼。）</p><p>代词式动词、avoir mal à、间接宾语人称代词等结构中，身体部位前通常用定冠词：Il se lave les mains. / J'ai mal à la tête.</p><p>注意：身体部位并非一概排斥不定冠词或主有形容词。强调所属、对比，或名词带形容词修饰时，主有形容词可以出现；真实法语中 des yeux bleus 在有些语境也成立。</p>",
+      "locales": {
+        "fr": {
+          "title": "Parties du corps et apparence : article défini et limites",
+          "body": "<p>Pour décrire l'apparence des yeux, des cheveux ou d'une partie du corps, on emploie souvent l'article défini plutôt qu'un possessif : Elle a les yeux bleus. Il a les cheveux courts.</p><p>On emploie les au pluriel pour des parties par paire ou multiples, et le/la au singulier pour une partie unique : Elle se lave les mains. J'ai mal à la tête.</p><p>Avec un verbe pronominal, avoir mal à, un pronom complément d'objet indirect et d'autres structures, la partie du corps est normalement précédée de l'article défini : Il se lave les mains. / J'ai mal à la tête.</p><p>Attention : les parties du corps n'excluent pas systématiquement l'article indéfini ni le possessif. Quand on insiste sur l'appartenance, qu'on oppose deux personnes ou qu'un adjectif qualifie le nom, le possessif peut apparaître ; en français réel, des yeux bleus est aussi possible dans certains contextes.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u9-1",
       "title": "单复数转换：中心名词与补语所指",
-      "body": "<p>名词短语变复数时，中心名词及其冠词变复数，de 补语是否变复数取决于所指是否也变为多个。</p><p>中心名词变多、补语所指不变：le cahier de l'élève → les cahiers de l'élève（这个学生的笔记本 → 这些笔记本，仍属于同一个学生）。中心名词和补语所指都变多：le cahier de l'élève → les cahiers des élèves（这个学生的笔记本 → 这些学生的笔记本）。同理，une visite au musée → des visites au musée（这个博物馆的参观 → 多次参观，仍是同一个博物馆）；des visites aux musées 表示参观多个博物馆。</p><p>冠词随中心名词变。补语确需变复数时，才由 de+les/à+les 形成 des/aux。de/à 与定冠词的缩合按第一章「冠词与基本拼写规则」的规则：de+le→du、de+les→des，à+le→au、à+les→aux；de+la/de+l'、à+la/à+l' 保持分写。</p><p>名词单复数同形时要逐词判断：nez（鼻子）、voix（嗓音）、cours（课程）不变；œil→yeux（眼睛）、monsieur→messieurs（先生们）等要整体记。</p>"
+      "body": "<p>名词短语变复数时，中心名词及其冠词变复数，de 补语是否变复数取决于所指是否也变为多个。</p><p>中心名词变多、补语所指不变：le cahier de l'élève → les cahiers de l'élève（这个学生的笔记本 → 这些笔记本，仍属于同一个学生）。中心名词和补语所指都变多：le cahier de l'élève → les cahiers des élèves（这个学生的笔记本 → 这些学生的笔记本）。同理，une visite au musée → des visites au musée（这个博物馆的参观 → 多次参观，仍是同一个博物馆）；des visites aux musées 表示参观多个博物馆。</p><p>冠词随中心名词变。补语确需变复数时，才由 de+les/à+les 形成 des/aux。de/à 与定冠词的缩合按第一章「冠词与基本拼写规则」的规则：de+le→du、de+les→des，à+le→au、à+les→aux；de+la/de+l'、à+la/à+l' 保持分写。</p><p>名词单复数同形时要逐词判断：nez（鼻子）、voix（嗓音）、cours（课程）不变；œil→yeux（眼睛）、monsieur→messieurs（先生们）等要整体记。</p>",
+      "locales": {
+        "fr": {
+          "title": "Passage au pluriel : nom noyau et référent du complément",
+          "body": "<p>Quand un groupe nominal passe au pluriel, le nom noyau et son article se mettent au pluriel ; le complément en de passe au pluriel seulement si son référent devient lui aussi multiple.</p><p>Le nom noyau devient multiple, le complément ne change pas : le cahier de l'élève → les cahiers de l'élève (les cahiers appartiennent toujours au même élève). Le nom noyau et le référent du complément deviennent multiples : le cahier de l'élève → les cahiers des élèves. De même, une visite au musée → des visites au musée (plusieurs visites du même musée) ; des visites aux musées signifie des visites de plusieurs musées.</p><p>L'article suit le nom noyau. C'est seulement si le complément doit devenir pluriel que de + les / à + les donnent des / aux. Les contractions de de/à avec l'article défini suivent les règles du premier chapitre : de + le → du, de + les → des, à + le → au, à + les → aux ; de + la / de + l' et à + la / à + l' restent séparés.</p><p>Quand le nom a la même forme aux deux nombres, décidez mot par mot : nez, voix, cours ne changent pas ; œil → yeux, monsieur → messieurs s'apprennent globalement.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u9-2",
       "title": "复数词尾与例外：逐词核对",
-      "body": "<p>一般加 -s：étudiant→étudiants（学生）、fleur→fleurs（花）、livre→livres（书）。</p><p>-al 多数变 -aux：animal→animaux（动物）、hôpital→hôpitaux（医院）；但 bal（舞会）、festival（节日）、carnaval（狂欢节）、récital（独奏会）只加 -s。<br>-ail 多数加 -s：détail→détails（细节）；travail（工作）、bail（租约）、vitrail（彩绘玻璃）等改 -aux，按词记。<br>-eau/-eu 通常加 -x：bateau→bateaux（船）、jeu→jeux（游戏）；pneu（轮胎）、bleu（蓝色）等少数加 -s。<br>-ou 通常加 -s；只有 bijou（首饰）、chou（卷心菜）、caillou（石子）、genou（膝盖）、hibou（猫头鹰）、joujou（玩具）、pou（虱子）加 -x。<br>-s/-x/-z 结尾通常不变：nez→nez（鼻子）、voix→voix（嗓音）、cours→cours（课程）。</p><p>不规则：œil→yeux（眼睛）、monsieur→messieurs（先生们）、madame→mesdames（女士们）、mademoiselle→mesdemoiselles（小姐们）；un jeune homme 的常用复数对应是 des jeunes gens（年轻人），属词汇性替换，不是 homme 的机械复数。</p>"
+      "body": "<p>一般加 -s：étudiant→étudiants（学生）、fleur→fleurs（花）、livre→livres（书）。</p><p>-al 多数变 -aux：animal→animaux（动物）、hôpital→hôpitaux（医院）；但 bal（舞会）、festival（节日）、carnaval（狂欢节）、récital（独奏会）只加 -s。<br>-ail 多数加 -s：détail→détails（细节）；travail（工作）、bail（租约）、vitrail（彩绘玻璃）等改 -aux，按词记。<br>-eau/-eu 通常加 -x：bateau→bateaux（船）、jeu→jeux（游戏）；pneu（轮胎）、bleu（蓝色）等少数加 -s。<br>-ou 通常加 -s；只有 bijou（首饰）、chou（卷心菜）、caillou（石子）、genou（膝盖）、hibou（猫头鹰）、joujou（玩具）、pou（虱子）加 -x。<br>-s/-x/-z 结尾通常不变：nez→nez（鼻子）、voix→voix（嗓音）、cours→cours（课程）。</p><p>不规则：œil→yeux（眼睛）、monsieur→messieurs（先生们）、madame→mesdames（女士们）、mademoiselle→mesdemoiselles（小姐们）；un jeune homme 的常用复数对应是 des jeunes gens（年轻人），属词汇性替换，不是 homme 的机械复数。</p>",
+      "locales": {
+        "fr": {
+          "title": "Terminaisons du pluriel et exceptions : vérifier mot par mot",
+          "body": "<p>Règle générale : ajouter -s : étudiant → étudiants, fleur → fleurs, livre → livres.</p><p>-al fait le plus souvent -aux : animal → animaux, hôpital → hôpitaux ; mais bal, festival, carnaval, récital ajoutent seulement -s.<br>-ail ajoute le plus souvent -s : détail → détails ; travail, bail, vitrail et d'autres font -aux : à retenir mot par mot.<br>-eau/-eu ajoutent généralement -x : bateau → bateaux, jeu → jeux ; pneu, bleu et quelques autres ajoutent -s.<br>-ou ajoute généralement -s ; seuls bijou, chou, caillou, genou, hibou, joujou, pou ajoutent -x.<br>-s/-x/-z restent généralement invariables : nez → nez, voix → voix, cours → cours.</p><p>Irréguliers : œil → yeux, monsieur → messieurs, madame → mesdames, mademoiselle → mesdemoiselles ; le pluriel courant d'un jeune homme est des jeunes gens, remplacement lexical et non pluriel mécanique d'homme.</p>"
+        }
+      }
     }
   ],
   "lessons": [
@@ -139,7 +277,12 @@
           "answer": 0,
           "translation": "这座房子出售。",
           "explain": "maison 是阴性单数名词，定冠词用 la；le 用于阳性，les 用于复数，l' 只用于元音或哑音 h 开头的名词前。",
-          "example": "un livre → le livre ; une table → la table"
+          "example": "un livre → le livre ; une table → la table",
+          "locales": {
+            "fr": {
+              "explain": "maison est un nom féminin singulier : l'article défini est la ; le s'emploie au masculin, les au pluriel, et l' ne se met que devant un nom commençant par une voyelle ou un h muet."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l1-q2",
@@ -153,7 +296,12 @@
           ],
           "answer": 1,
           "translation": "一名男大学生在教室里。",
-          "explain": "étudiant 是阳性单数名词，不定冠词用 un；une 用于阴性，des 用于复数，名词 étudiants 才带 s。"
+          "explain": "étudiant 是阳性单数名词，不定冠词用 un；une 用于阴性，des 用于复数，名词 étudiants 才带 s。",
+          "locales": {
+            "fr": {
+              "explain": "étudiant est un nom masculin singulier : l'article indéfini est un ; une s'emploie au féminin, des au pluriel, et le nom prend -s seulement au pluriel (étudiants)."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l1-q3",
@@ -167,7 +315,12 @@
           ],
           "answer": 2,
           "translation": "我们和经理说话。",
-          "explain": "à + le 缩合为 au；directeur 是阳性单数，所以用 au directeur。à + la 不缩合，但 directeur 不是阴性；aux 用于复数。"
+          "explain": "à + le 缩合为 au；directeur 是阳性单数，所以用 au directeur。à + la 不缩合，但 directeur 不是阴性；aux 用于复数。",
+          "locales": {
+            "fr": {
+              "explain": "à + le se contracte en au ; directeur est masculin singulier, d'où au directeur. à + la ne se contracte pas, mais directeur n'est pas féminin ; aux s'emploie au pluriel."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l1-q4",
@@ -181,7 +334,12 @@
           ],
           "answer": 3,
           "translation": "在「Marie 和她的姐妹准备好了」中，形容词 prêtes 与哪个主语配合？",
-          "explain": "形容词作表语时与主语配合；这里主语是并列的 Marie et sa sœur，两个都是阴性，所以用阴性复数 prêtes，而不是只跟最近的名词。"
+          "explain": "形容词作表语时与主语配合；这里主语是并列的 Marie et sa sœur，两个都是阴性，所以用阴性复数 prêtes，而不是只跟最近的名词。",
+          "locales": {
+            "fr": {
+              "explain": "L'adjectif attribut s'accorde avec le sujet ; ici le sujet est le groupe coordonné Marie et sa sœur, toutes deux au féminin, d'où le féminin pluriel prêtes, et non un accord avec le nom le plus proche."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l1-q5",
@@ -195,7 +353,12 @@
           ],
           "answer": 0,
           "translation": "在「厨房的窗户开着」中，形容词 ouvertes 与哪个名词配合？",
-          "explain": "主语是 les fenêtres；de la cuisine 只是限定主语的补语，不控制形容词配合。"
+          "explain": "主语是 les fenêtres；de la cuisine 只是限定主语的补语，不控制形容词配合。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet est les fenêtres ; de la cuisine n'est qu'un complément qui détermine le sujet et ne commande pas l'accord de l'adjectif."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l1-q6",
@@ -209,7 +372,12 @@
           ],
           "answer": 1,
           "translation": "在「Paul 和 Marie 很满意」中，形容词 contents 与哪个成分配合？",
-          "explain": "主语是 Paul et Marie；形容词作表语时与整个并列主语配合。本题只判断控制语，不展开混合性别的形容词词尾规则。"
+          "explain": "主语是 Paul et Marie；形容词作表语时与整个并列主语配合。本题只判断控制语，不展开混合性别的形容词词尾规则。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet est Paul et Marie ; l'adjectif attribut s'accorde avec l'ensemble du sujet coordonné. Cette question ne vérifie que le contrôleur de l'accord, sans entrer dans les terminaisons de l'adjectif avec des genres mélangés."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l1-q7",
@@ -223,7 +391,13 @@
           ],
           "answer": 2,
           "translation": "哪一个词组表示「塔」？",
-          "explain": "une tour 是阴性，意为塔；un tour 是阳性，意为一圈或轮次。un livre 是书，une livre 是磅。性别改变词义，要连冠词一起记。"
+          "explain": "une tour 是阴性，意为塔；un tour 是阳性，意为一圈或轮次。un livre 是书，une livre 是磅。性别改变词义，要连冠词一起记。",
+          "locales": {
+            "fr": {
+              "prompt": "Quel groupe signifie « tour » (construction haute) ?",
+              "explain": "une tour est féminin et signifie « tour » ; un tour est masculin et signifie « tour de circuit » ou « tour de rôle ». un livre est un ouvrage, une livre est une unité de poids. Le genre change le sens : il faut retenir l'article avec le nom."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l1-q8",
@@ -237,9 +411,19 @@
           ],
           "answer": 3,
           "translation": "在「她们准备好了」中，形容词 prêtes 与哪个代词配合？",
-          "explain": "主语代词 Elles 是阴性复数，形容词 prêtes 与它配合；sont 是动词，不控制配合。"
+          "explain": "主语代词 Elles 是阴性复数，形容词 prêtes 与它配合；sont 是动词，不控制配合。",
+          "locales": {
+            "fr": {
+              "explain": "Le pronom sujet Elles est féminin pluriel et l'adjectif prêtes s'accorde avec lui ; sont est le verbe et ne commande pas l'accord."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Genre du nom et accord de l'article"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-l2-1",
@@ -253,7 +437,12 @@
           "prompt": "Écrivez le nom féminin (forme complète) : un voisin → une ___",
           "answer": "voisine",
           "translation": "邻居（阳性→阴性）",
-          "explain": "voisin 的阴性一般在词尾加 -e，写成 voisine；-in 在这里不加双 n。"
+          "explain": "voisin 的阴性一般在词尾加 -e，写成 voisine；-in 在这里不加双 n。",
+          "locales": {
+            "fr": {
+              "explain": "Le féminin de voisin se forme généralement en ajoutant -e : voisine ; -in ne double pas le n ici."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l2-q2",
@@ -264,7 +453,12 @@
           "explain": "-er 结尾的阳性名词变阴性时改为 -ère，并加必要重音：boulanger → boulangère。",
           "accentKeys": [
             "è"
-          ]
+          ],
+          "locales": {
+            "fr": {
+              "explain": "Un masculin en -er passe au féminin en -ère, avec l'accent nécessaire : boulanger → boulangère."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l2-q3",
@@ -272,7 +466,12 @@
           "prompt": "Écrivez le nom féminin (forme complète) : un musicien → une ___",
           "answer": "musicienne",
           "translation": "音乐家（阳性→阴性）",
-          "explain": "-ien 结尾变阴性时双写 n 再加 -e：musicien → musicienne。"
+          "explain": "-ien 结尾变阴性时双写 n 再加 -e：musicien → musicienne。",
+          "locales": {
+            "fr": {
+              "explain": "Un masculin en -ien double le n et ajoute -e au féminin : musicien → musicienne."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l2-q4",
@@ -280,7 +479,13 @@
           "prompt": "Écrivez le nom féminin (forme complète) : un chat → une ___（指母猫）",
           "answer": "chatte",
           "translation": "猫（阳性→阴性，指母猫）",
-          "explain": "部分 -t 结尾名词变阴性时双写 t 再加 -e：chat → chatte；不要推广到所有 -t 名词，如 avocat → avocate。"
+          "explain": "部分 -t 结尾名词变阴性时双写 t 再加 -e：chat → chatte；不要推广到所有 -t 名词，如 avocat → avocate。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez le nom féminin (forme complète) : un chat → une ___ (chat femelle).",
+              "explain": "Certains noms en -t doublent le t et ajoutent -e au féminin : chat → chatte ; il ne faut pas généraliser à tous les noms en -t, comme avocat → avocate."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l2-q5",
@@ -294,7 +499,12 @@
           ],
           "answer": 2,
           "translation": "男大学生→女大学生。",
-          "explain": "一般规则是在阳性名词后加 -e：étudiant → étudiante；-ant 不双写 n，也不加 -te。冠词同时变为 une。"
+          "explain": "一般规则是在阳性名词后加 -e：étudiant → étudiante；-ant 不双写 n，也不加 -te。冠词同时变为 une。",
+          "locales": {
+            "fr": {
+              "explain": "La règle générale ajoute -e au masculin : étudiant → étudiante ; -ant ne double pas le n et n'ajoute pas -te. L'article devient une."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l2-q6",
@@ -305,9 +515,19 @@
           "explain": "-ier 结尾变阴性时改为 -ière：infirmier → infirmière；注意重音 è 和 -ier → -ière 的词尾变化。",
           "accentKeys": [
             "è"
-          ]
+          ],
+          "locales": {
+            "fr": {
+              "explain": "Un masculin en -ier passe au féminin en -ière : infirmier → infirmière ; attention à l'accent è et au changement -ier → -ière."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Formes du féminin : -e, -er/-ier, double n nasal et double t (1)"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-l2-2",
@@ -321,7 +541,12 @@
           "prompt": "Écrivez le nom féminin (forme complète) : un gardien → une ___",
           "answer": "gardienne",
           "translation": "守卫、看守（阳性→阴性）",
-          "explain": "-ien 结尾双写 n 再加 -e：gardien → gardienne。"
+          "explain": "-ien 结尾双写 n 再加 -e：gardien → gardienne。",
+          "locales": {
+            "fr": {
+              "explain": "Un masculin en -ien double le n et ajoute -e : gardien → gardienne."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l2-q8",
@@ -339,7 +564,12 @@
             "cuisinières"
           ],
           "translation": "男厨师→女厨师。",
-          "explain": "-ier 变 -ière，冠词用 une；注意不要把阳性 cuisinier 直接放在 une 后。"
+          "explain": "-ier 变 -ière，冠词用 une；注意不要把阳性 cuisinier 直接放在 une 后。",
+          "locales": {
+            "fr": {
+              "explain": "-ier devient -ière et l'article est une ; ne placez pas le masculin cuisinier après une."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l2-q9",
@@ -353,7 +583,12 @@
           ],
           "answer": 0,
           "translation": "「un copain」（朋友、伙伴）的正确阴性形式是？",
-          "explain": "-ain 通常变 -aine，但 copain 是常用例外，阴性为 copine，不按 -aine 或 -ienne 类推。"
+          "explain": "-ain 通常变 -aine，但 copain 是常用例外，阴性为 copine，不按 -aine 或 -ienne 类推。",
+          "locales": {
+            "fr": {
+              "explain": "-ain donne généralement -aine, mais copain est une exception courante : son féminin est copine, sans -aine ni -ienne."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l2-q10",
@@ -367,7 +602,12 @@
           ],
           "answer": 3,
           "translation": "「un avocat」（律师）的正确阴性形式是？",
-          "explain": "avocat 只加 -e：avocate；不要把所有 -t 结尾都双写。"
+          "explain": "avocat 只加 -e：avocate；不要把所有 -t 结尾都双写。",
+          "locales": {
+            "fr": {
+              "explain": "avocat ajoute seulement -e : avocate ; on ne double pas le t de tous les noms en -t."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l2-q11",
@@ -375,7 +615,12 @@
           "prompt": "un ami → une ___",
           "answer": "amie",
           "translation": "朋友（阳性→阴性）",
-          "explain": "以 -i 结尾的阳性名词一般加 -e：ami → amie。"
+          "explain": "以 -i 结尾的阳性名词一般加 -e：ami → amie。",
+          "locales": {
+            "fr": {
+              "explain": "Un masculin en -i ajoute généralement -e : ami → amie."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l2-q12",
@@ -389,9 +634,19 @@
           ],
           "answer": 1,
           "translation": "欧洲人（阳性→阴性）。",
-          "explain": "-éen 结尾变阴性时双写 n 再加 -e：Européen → Européenne。"
+          "explain": "-éen 结尾变阴性时双写 n 再加 -e：Européen → Européenne。",
+          "locales": {
+            "fr": {
+              "explain": "Un masculin en -éen double le n et ajoute -e : Européen → Européenne."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Formes du féminin : -e, -er/-ier, double n nasal et double t (2)"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-l3-1",
@@ -405,7 +660,12 @@
           "prompt": "un prince → une ___",
           "answer": "princesse",
           "translation": "王子→公主。",
-          "explain": "部分以 -e 结尾的阳性名词变阴性时改为 -esse：prince → princesse；这不是所有 -e 结尾名词的规则。"
+          "explain": "部分以 -e 结尾的阳性名词变阴性时改为 -esse：prince → princesse；这不是所有 -e 结尾名词的规则。",
+          "locales": {
+            "fr": {
+              "explain": "Certains masculins en -e forment leur féminin en -esse : prince → princesse ; ce n'est pas une règle pour tous les noms en -e."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q2",
@@ -423,7 +683,12 @@
             "maîtresses"
           ],
           "translation": "男教师→女教师。",
-          "explain": "-e → -esse 并保留词干：maître → maîtresse；冠词改为 une。"
+          "explain": "-e → -esse 并保留词干：maître → maîtresse；冠词改为 une。",
+          "locales": {
+            "fr": {
+              "explain": "-e devient -esse et le radical est conservé : maître → maîtresse ; l'article devient une."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q3",
@@ -431,7 +696,12 @@
           "prompt": "un chanteur → une ___",
           "answer": "chanteuse",
           "translation": "歌手（阳性→阴性）。",
-          "explain": "部分 -eur 名词变阴性为 -euse：chanteur → chanteuse；与 -rice 路径按词区分。"
+          "explain": "部分 -eur 名词变阴性为 -euse：chanteur → chanteuse；与 -rice 路径按词区分。",
+          "locales": {
+            "fr": {
+              "explain": "Certains noms en -eur font leur féminin en -euse : chanteur → chanteuse ; à distinguer mot par mot de la voie -rice."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q4",
@@ -449,7 +719,12 @@
             "danseuses"
           ],
           "translation": "舞者（阳性→阴性）。",
-          "explain": "-eur → -euse：danseur → danseuse；冠词用 une。"
+          "explain": "-eur → -euse：danseur → danseuse；冠词用 une。",
+          "locales": {
+            "fr": {
+              "explain": "-eur devient -euse : danseur → danseuse ; l'article est une."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q5",
@@ -457,7 +732,12 @@
           "prompt": "un acteur → une ___",
           "answer": "actrice",
           "translation": "演员（阳性→阴性）。",
-          "explain": "部分 -eur 名词走 -rice 路径：acteur → actrice；不能按 -euse 类推。"
+          "explain": "部分 -eur 名词走 -rice 路径：acteur → actrice；不能按 -euse 类推。",
+          "locales": {
+            "fr": {
+              "explain": "Certains noms en -eur suivent la voie -rice : acteur → actrice ; on ne peut pas appliquer -euse par analogie."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q6",
@@ -475,7 +755,12 @@
             "directrices"
           ],
           "translation": "经理、导演（阳性→阴性）。",
-          "explain": "-eur → -rice：directeur → directrice；与 chanteur → chanteuse 对比记忆。"
+          "explain": "-eur → -rice：directeur → directrice；与 chanteur → chanteuse 对比记忆。",
+          "locales": {
+            "fr": {
+              "explain": "-eur devient -rice : directeur → directrice ; à mémoriser par contraste avec chanteur → chanteuse."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q7",
@@ -489,7 +774,12 @@
           ],
           "answer": 0,
           "translation": "「食品店和文化」：选择正确的单数名词短语组合。",
-          "explain": "épicerie 是以 -ie 结尾的阴性名词，因以元音开头，定冠词省音为 l'épicerie；culture 是以 -ure 结尾的阴性名词，用 la culture。La épicerie 未省音，le culture 误作阳性，复数选项不符合单数要求。"
+          "explain": "épicerie 是以 -ie 结尾的阴性名词，因以元音开头，定冠词省音为 l'épicerie；culture 是以 -ure 结尾的阴性名词，用 la culture。La épicerie 未省音，le culture 误作阳性，复数选项不符合单数要求。",
+          "locales": {
+            "fr": {
+              "explain": "épicerie est un nom féminin en -ie ; comme il commence par une voyelle, l'article défini s'élide en l'épicerie. culture est un nom féminin en -ure : la culture. La épicerie ne fait pas l'élision, le culture attribue à tort le masculin, et la forme plurielle ne répond pas à la consigne du singulier."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q8",
@@ -503,7 +793,12 @@
           ],
           "answer": 1,
           "translation": "选择正确的名词短语：这种文化让我喜欢。（名词以 -ure 结尾）",
-          "explain": "culture 是以 -ure 结尾的阴性名词，用 la；le 用于阳性，les 用于复数，l' 只用于元音或哑音 h 前。"
+          "explain": "culture 是以 -ure 结尾的阴性名词，用 la；le 用于阳性，les 用于复数，l' 只用于元音或哑音 h 前。",
+          "locales": {
+            "fr": {
+              "explain": "culture est un nom féminin en -ure : on emploie la ; le est masculin, les pluriel, et l' ne s'emploie que devant une voyelle ou un h muet."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q9",
@@ -517,9 +812,19 @@
           ],
           "answer": 2,
           "translation": "「地址和财富」：选择正确的单数名词短语组合。",
-          "explain": "adresse 和 richesse 都是以 -esse 结尾的阴性名词；adresse 以元音开头，用 l'adresse，richesse 以辅音 r 开头，用 la richesse。La adresse 未省音，le richesse 误作阳性，复数选项不符合单数要求。"
+          "explain": "adresse 和 richesse 都是以 -esse 结尾的阴性名词；adresse 以元音开头，用 l'adresse，richesse 以辅音 r 开头，用 la richesse。La adresse 未省音，le richesse 误作阳性，复数选项不符合单数要求。",
+          "locales": {
+            "fr": {
+              "explain": "adresse et richesse sont des noms féminins en -esse ; adresse commence par une voyelle, d'où l'adresse, tandis que richesse commence par la consonne r, d'où la richesse. La adresse ne fait pas l'élision, le richesse attribue à tort le masculin, et la forme plurielle ne répond pas à la consigne du singulier."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Terminaisons -esse, deux voies de -eur et genre selon la terminaison (1)"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-l3-2",
@@ -539,7 +844,12 @@
           ],
           "answer": 3,
           "translation": "选择正确的名词短语：这篇文章的丰富性清晰可见。（名词以 -esse 结尾）",
-          "explain": "richesse 是以 -esse 结尾的阴性名词，用 la；它以辅音 r 开头，不需要省音。"
+          "explain": "richesse 是以 -esse 结尾的阴性名词，用 la；它以辅音 r 开头，不需要省音。",
+          "locales": {
+            "fr": {
+              "explain": "richesse est un nom féminin en -esse : on emploie la ; il commence par la consonne r, donc pas d'élision."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q11",
@@ -553,7 +863,12 @@
           ],
           "answer": 0,
           "translation": "「注意力和自由」：选择正确的单数名词短语组合。",
-          "explain": "attention 是以 -tion 结尾的阴性名词，以元音开头，用 l'attention；liberté 是以 -té 结尾的阴性名词，以辅音 l 开头，用 la liberté。La attention 未省音，le liberté 误作阳性，复数选项不符合单数要求。"
+          "explain": "attention 是以 -tion 结尾的阴性名词，以元音开头，用 l'attention；liberté 是以 -té 结尾的阴性名词，以辅音 l 开头，用 la liberté。La attention 未省音，le liberté 误作阳性，复数选项不符合单数要求。",
+          "locales": {
+            "fr": {
+              "explain": "attention est un nom féminin en -tion qui commence par une voyelle : l'attention ; liberté est un nom féminin en -té qui commence par la consonne l : la liberté. La attention ne fait pas l'élision, le liberté attribue à tort le masculin, et la forme plurielle ne répond pas à la consigne du singulier."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q12",
@@ -567,7 +882,12 @@
           ],
           "answer": 1,
           "translation": "自由是一种价值：选择正确的名词短语。",
-          "explain": "liberté 是以 -té 结尾的阴性名词，用 la；以辅音 l 开头，不需要省音。"
+          "explain": "liberté 是以 -té 结尾的阴性名词，用 la；以辅音 l 开头，不需要省音。",
+          "locales": {
+            "fr": {
+              "explain": "liberté est un nom féminin en -té : on emploie la ; il commence par la consonne l, donc pas d'élision."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q13",
@@ -581,7 +901,12 @@
           ],
           "answer": 2,
           "translation": "「用法和纪念碑」：选择正确的单数名词短语组合。",
-          "explain": "usage 是以 -age 结尾的阳性名词，以元音开头，用 l'usage；monument 是以 -ment 结尾的阳性名词，以辅音 m 开头，用 le monument。Le usage 未省音，la monument 误作阴性，复数选项不符合单数要求。"
+          "explain": "usage 是以 -age 结尾的阳性名词，以元音开头，用 l'usage；monument 是以 -ment 结尾的阳性名词，以辅音 m 开头，用 le monument。Le usage 未省音，la monument 误作阴性，复数选项不符合单数要求。",
+          "locales": {
+            "fr": {
+              "explain": "usage est un nom masculin en -age qui commence par une voyelle : l'usage ; monument est un nom masculin en -ment qui commence par la consonne m : le monument. Le usage ne fait pas l'élision, la monument attribue à tort le féminin, et la forme plurielle ne répond pas à la consigne du singulier."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q14",
@@ -595,7 +920,12 @@
           ],
           "answer": 3,
           "translation": "选择正确的名词短语：这座纪念碑让我喜欢。（名词以 -ment 结尾）",
-          "explain": "monument 是以 -ment 结尾的阳性名词，用 le；以辅音 m 开头，不需要省音。"
+          "explain": "monument 是以 -ment 结尾的阳性名词，用 le；以辅音 m 开头，不需要省音。",
+          "locales": {
+            "fr": {
+              "explain": "monument est un nom masculin en -ment : on emploie le ; il commence par la consonne m, donc pas d'élision."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q15",
@@ -609,7 +939,12 @@
           ],
           "answer": 3,
           "translation": "下列名词中，哪一个的阴性形式以 -rice 结尾？",
-          "explain": "acteur → actrice 走 -rice；chanteur → chanteuse、vendeur → vendeuse、danseur → danseuse 走 -euse。两组要按词记。"
+          "explain": "acteur → actrice 走 -rice；chanteur → chanteuse、vendeur → vendeuse、danseur → danseuse 走 -euse。两组要按词记。",
+          "locales": {
+            "fr": {
+              "explain": "acteur → actrice suit la voie -rice ; chanteur → chanteuse, vendeur → vendeuse et danseur → danseuse suivent -euse. Les deux groupes s'apprennent mot par mot."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q16",
@@ -623,7 +958,12 @@
           ],
           "answer": 2,
           "translation": "下列以 -ée 结尾的名词中，哪一个是阳性？",
-          "explain": "-ée 多为阴性，但 musée 是阳性例外；idée、année、journée 都是阴性。词尾只是倾向，不是绝对规则。"
+          "explain": "-ée 多为阴性，但 musée 是阳性例外；idée、année、journée 都是阴性。词尾只是倾向，不是绝对规则。",
+          "locales": {
+            "fr": {
+              "explain": "-ée est le plus souvent féminin, mais musée est une exception masculine ; idée, année et journée sont féminins. La terminaison est une tendance, non une règle absolue."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q17",
@@ -637,7 +977,12 @@
           ],
           "answer": 1,
           "translation": "下列以 -té 结尾的名词中，哪一个是阳性？",
-          "explain": "-té 多为阴性，但 comité 是阳性例外；liberté、qualité、société 都是阴性。"
+          "explain": "-té 多为阴性，但 comité 是阳性例外；liberté、qualité、société 都是阴性。",
+          "locales": {
+            "fr": {
+              "explain": "-té est le plus souvent féminin, mais comité est une exception masculine ; liberté, qualité et société sont féminins."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l3-q18",
@@ -655,9 +1000,19 @@
             "inspectrices"
           ],
           "translation": "检查员（阳性→阴性）。",
-          "explain": "-eur → -rice：inspecteur → inspectrice；冠词用 une。"
+          "explain": "-eur → -rice：inspecteur → inspectrice；冠词用 une。",
+          "locales": {
+            "fr": {
+              "explain": "-eur devient -rice : inspecteur → inspectrice ; l'article est une."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Terminaisons -esse, deux voies de -eur et genre selon la terminaison (2)"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-l4-1",
@@ -682,7 +1037,12 @@
             "mère"
           ],
           "translation": "继父、岳父→继母、岳母。",
-          "explain": "beau-père 是复合名词，变阴性时两个成分都变：beau → belle，père → mère，写成 belle-mère；冠词用 une。复合名词不能一概类推，要按词确认。"
+          "explain": "beau-père 是复合名词，变阴性时两个成分都变：beau → belle，père → mère，写成 belle-mère；冠词用 une。复合名词不能一概类推，要按词确认。",
+          "locales": {
+            "fr": {
+              "explain": "beau-père est un nom composé : les deux éléments changent au féminin, beau → belle et père → mère, d'où belle-mère ; l'article est une. Les composés ne se transforment pas tous de la même façon : vérifiez mot par mot."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l4-q2",
@@ -701,7 +1061,12 @@
             "grand-mère"
           ],
           "translation": "曾祖父→曾祖母。",
-          "explain": "arrière 和 grand 都不变，只有 père 变成 mère：grand-père → grand-mère，整体为 arrière-grand-mère；冠词用 une。不同复合名词的变化方式不同，需按词记。"
+          "explain": "arrière 和 grand 都不变，只有 père 变成 mère：grand-père → grand-mère，整体为 arrière-grand-mère；冠词用 une。不同复合名词的变化方式不同，需按词记。",
+          "locales": {
+            "fr": {
+              "explain": "arrière et grand restent inchangés ; seul père devient mère : grand-père → grand-mère, d'où arrière-grand-mère ; l'article est une. Les composés ne se transforment pas tous de la même façon : à retenir mot par mot."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l4-q3",
@@ -713,7 +1078,13 @@
           "accentKeys": [
             "é",
             "è"
-          ]
+          ],
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez le nom féminin, identique au masculin : une ___ (personne de sexe féminin qui étudie).",
+              "explain": "élève est un nom de forme identique aux deux genres : un élève / une élève ; le nom ne change pas, seuls l'article ou le contexte indiquent le genre."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l4-q4",
@@ -721,7 +1092,12 @@
           "prompt": "un homme → une ___",
           "answer": "femme",
           "translation": "男人→女人。",
-          "explain": "homme 的阴性是 femme，属于不同词根的不规则形式，不能按词尾规则推导。"
+          "explain": "homme 的阴性是 femme，属于不同词根的不规则形式，不能按词尾规则推导。",
+          "locales": {
+            "fr": {
+              "explain": "Le féminin d'homme est femme : radical différent, forme irrégulière que l'on ne peut pas déduire d'une terminaison."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l4-q5",
@@ -739,7 +1115,12 @@
             "impératrices"
           ],
           "translation": "皇帝→女皇、皇后。",
-          "explain": "empereur 的阴性是 impératrice，词根和词尾都发生变化，属于不规则阴性；冠词用 une。"
+          "explain": "empereur 的阴性是 impératrice，词根和词尾都发生变化，属于不规则阴性；冠词用 une。",
+          "locales": {
+            "fr": {
+              "explain": "Le féminin d'empereur est impératrice : le radical et la terminaison changent, c'est un féminin irrégulier ; l'article est une."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l4-q6",
@@ -747,9 +1128,20 @@
           "prompt": "Écrivez le nom masculin en -eur (forme complète) : un ___ (男演员)",
           "answer": "acteur",
           "translation": "男演员。",
-          "explain": "acteur 是阳性 -eur 名词；它的阴性是 actrice，说明 -eur 的阴性可能走 -euse 或 -rice，不能只凭阳性词尾判断。"
+          "explain": "acteur 是阳性 -eur 名词；它的阴性是 actrice，说明 -eur 的阴性可能走 -euse 或 -rice，不能只凭阳性词尾判断。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez le nom masculin en -eur (forme complète) : un ___ (artiste masculin qui joue un rôle).",
+              "explain": "acteur est un masculin en -eur ; son féminin est actrice, ce qui montre que -eur peut mener à -euse ou à -rice : la terminaison du masculin ne suffit pas."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Formes identiques, irrégulières, noms composés et exceptions lexicales (1)"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-l4-2",
@@ -763,7 +1155,13 @@
           "prompt": "Écrivez le nom masculin en -ion (forme complète) : un ___ (飞机)",
           "answer": "avion",
           "translation": "飞机。",
-          "explain": "avion 是阳性 -ion 名词，属于需要单独记的小词表，如 avion、camion、lion、million；不要把它和阴性 -tion/-sion 名词混为一谈。"
+          "explain": "avion 是阳性 -ion 名词，属于需要单独记的小词表，如 avion、camion、lion、million；不要把它和阴性 -tion/-sion 名词混为一谈。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez le nom masculin en -ion (forme complète) : un ___ (appareil de transport aérien).",
+              "explain": "avion est un masculin en -ion qui appartient à une petite liste à retenir, avec camion, lion, million ; ne le confondez pas avec les noms féminins en -tion/-sion."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l4-q8",
@@ -777,7 +1175,12 @@
           ],
           "answer": 2,
           "translation": "下列以 -age 结尾的名词中，哪一个是阴性？",
-          "explain": "-age 通常提示阳性，但 image 是阴性例外；page、plage、cage 等也常为阴性，需按词记。"
+          "explain": "-age 通常提示阳性，但 image 是阴性例外；page、plage、cage 等也常为阴性，需按词记。",
+          "locales": {
+            "fr": {
+              "explain": "-age indique souvent le masculin, mais image est une exception féminine ; page, plage, cage et d'autres sont aussi souvent féminins : à retenir mot par mot."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l4-q9",
@@ -791,7 +1194,12 @@
           ],
           "answer": 3,
           "translation": "「un Turc」（土耳其人）的正确阴性形式是？",
-          "explain": "部分 -c 结尾词变 -que：Turc → Turque；但 blanc → blanche、sec → sèche 等走 -che，不能一概而论。"
+          "explain": "部分 -c 结尾词变 -que：Turc → Turque；但 blanc → blanche、sec → sèche 等走 -che，不能一概而论。",
+          "locales": {
+            "fr": {
+              "explain": "Certains mots en -c passent à -que : Turc → Turque ; mais blanc → blanche, sec → sèche suivent -che : pas de généralisation."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l4-q10",
@@ -805,7 +1213,12 @@
           ],
           "answer": 0,
           "translation": "下列哪一组遵循 -et → -ette 的变化？",
-          "explain": "cadet → cadette 双写 t 再加 -e；complet → complète、secret → secrète、inquiet → inquiète 不双写 t，但词尾 -et 变 -ète，重音要写。这里只识别词形变化，不把 cadet 当成名词性别产出任务。"
+          "explain": "cadet → cadette 双写 t 再加 -e；complet → complète、secret → secrète、inquiet → inquiète 不双写 t，但词尾 -et 变 -ète，重音要写。这里只识别词形变化，不把 cadet 当成名词性别产出任务。",
+          "locales": {
+            "fr": {
+              "explain": "cadet → cadette double le t et ajoute -e ; complet → complète, secret → secrète, inquiet → inquiète ne doublent pas le t, mais -et devient -ète avec l'accent. Cette question ne vérifie que la forme, sans demander de produire un nom féminin."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l4-q11",
@@ -819,7 +1232,12 @@
           ],
           "answer": 1,
           "translation": "「un veuf」（鳏夫）的正确阴性形式是？",
-          "explain": "部分 -f 结尾形容词或名词变 -ve：veuf → veuve；但 chef → cheffe 双写 f 再加 -e，属于另一条按词记忆的变化，不能类推。"
+          "explain": "部分 -f 结尾形容词或名词变 -ve：veuf → veuve；但 chef → cheffe 双写 f 再加 -e，属于另一条按词记忆的变化，不能类推。",
+          "locales": {
+            "fr": {
+              "explain": "Certains adjectifs ou noms en -f passent à -ve : veuf → veuve ; mais chef → cheffe double le f et ajoute -e, autre changement à retenir mot par mot."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l4-q12",
@@ -833,9 +1251,19 @@
           ],
           "answer": 2,
           "translation": "形容词「heureux」的正确阴性形式是？",
-          "explain": "heureux 是形容词，部分 -x 结尾形容词变 -se：heureux → heureuse；但 roux → rousse、doux → douce、vieux → vieille 等结果不同，不能把 -x → -se 当成通则。本题只识别形容词，不涉及名词。"
+          "explain": "heureux 是形容词，部分 -x 结尾形容词变 -se：heureux → heureuse；但 roux → rousse、doux → douce、vieux → vieille 等结果不同，不能把 -x → -se 当成通则。本题只识别形容词，不涉及名词。",
+          "locales": {
+            "fr": {
+              "explain": "heureux est un adjectif ; certains adjectifs en -x passent à -se : heureux → heureuse ; mais roux → rousse, doux → douce, vieux → vieille donnent d'autres résultats : -x → -se n'est pas une règle générale. Cette question ne porte que sur l'adjectif, pas sur les noms."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Formes identiques, irrégulières, noms composés et exceptions lexicales (2)"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-l5-1",
@@ -849,7 +1277,13 @@
           "prompt": "把单数名词变为复数：travail → ___（只填名词，复数）",
           "answer": "travaux",
           "translation": "工作（复数名词，只填一个词）",
-          "explain": "travail 是以 -ail 结尾的少数例外，复数变 travaux，不是 travails。多数 -ail 名词加 -s，但这个词要单独记住。"
+          "explain": "travail 是以 -ail 结尾的少数例外，复数变 travaux，不是 travails。多数 -ail 名词加 -s，但这个词要单独记住。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez le nom singulier au pluriel : travail → ___ (indiquez seulement le nom au pluriel).",
+              "explain": "travail est une des rares exceptions en -ail : son pluriel est travaux, non travails. La plupart des noms en -ail ajoutent -s, mais ce mot s'apprend à part."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l5-q2",
@@ -857,7 +1291,13 @@
           "prompt": "把单数名词变为复数：détail → ___（只填名词，复数）",
           "answer": "détails",
           "translation": "细节（复数名词，只填一个词）",
-          "explain": "détail 以 -ail 结尾，属于多数情况，直接加 -s 变 détails；不要因为 travail 变 travaux 就把所有 -ail 都改成 -aux。"
+          "explain": "détail 以 -ail 结尾，属于多数情况，直接加 -s 变 détails；不要因为 travail 变 travaux 就把所有 -ail 都改成 -aux。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez le nom singulier au pluriel : détail → ___ (indiquez seulement le nom au pluriel).",
+              "explain": "détail est un nom en -ail du cas majoritaire : il ajoute -s et devient détails ; ce n'est pas parce que travail fait travaux que tous les -ail font -aux."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l5-q3",
@@ -865,7 +1305,13 @@
           "prompt": "把单数名词变为复数：festival → ___（只填名词，复数）",
           "answer": "festivals",
           "translation": "节日、联欢节（复数名词，只填一个词）",
-          "explain": "festival 以 -al 结尾，但属于加 -s 的例外，复数是 festivals，不是 festivaux。-al 多数变 -aux，bal、festival、carnaval、récital 等则加 -s。"
+          "explain": "festival 以 -al 结尾，但属于加 -s 的例外，复数是 festivals，不是 festivaux。-al 多数变 -aux，bal、festival、carnaval、récital 等则加 -s。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez le nom singulier au pluriel : festival → ___ (indiquez seulement le nom au pluriel).",
+              "explain": "festival est un nom en -al qui fait partie des exceptions en -s : son pluriel est festivals, non festivaux. La plupart des -al font -aux ; bal, festival, carnaval, récital et d'autres ajoutent -s."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l5-q4",
@@ -874,7 +1320,14 @@
           "example": "多数名词加 -s：livre → livres。",
           "answer": "nez",
           "translation": "鼻子（与常规加 -s 对照，只填一个词）",
-          "explain": "livre → livres 是多数名词加 -s 的常规复数；nez 以 -z 结尾，单复数同形，复数仍是 nez，数量靠冠词或数词体现，如 des nez。"
+          "explain": "livre → livres 是多数名词加 -s 的常规复数；nez 以 -z 结尾，单复数同形，复数仍是 nez，数量靠冠词或数词体现，如 des nez。",
+          "locales": {
+            "fr": {
+              "prompt": "En comparant avec le pluriel régulier livre → livres, mettez nez au pluriel : ___ (indiquez seulement le nom).",
+              "example": "La plupart des noms ajoutent -s : livre → livres.",
+              "explain": "livre → livres illustre le pluriel régulier en -s ; nez se termine par -z et reste identique au pluriel, le nombre étant marqué par l'article ou le quantifieur, comme dans des nez."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l5-q5",
@@ -882,7 +1335,13 @@
           "prompt": "把单数名词变为复数：œil → ___（只填名词，复数；指人的眼睛）",
           "answer": "yeux",
           "translation": "眼睛（人的眼睛，复数名词，只填一个词）",
-          "explain": "œil 的复数是不规则形式 yeux，需要整体记忆；这里指人的眼睛，不是复合词中保留 œil 的用法。"
+          "explain": "œil 的复数是不规则形式 yeux，需要整体记忆；这里指人的眼睛，不是复合词中保留 œil 的用法。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez le nom singulier au pluriel : œil → ___ (indiquez seulement le nom au pluriel ; il s'agit des yeux d'une personne).",
+              "explain": "Le pluriel d'œil est la forme irrégulière yeux, à mémoriser globalement ; il s'agit ici des yeux d'une personne, et non de l'œil conservé dans certains composés."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l5-q6",
@@ -890,7 +1349,13 @@
           "prompt": "把单数名词变为复数：bureau → ___（只填名词，复数）",
           "answer": "bureaux",
           "translation": "办公室、书桌（复数名词，只填一个词）",
-          "explain": "bureau 以 -eau 结尾，复数通常加 -x，变 bureaux；不要写成 bureaus。"
+          "explain": "bureau 以 -eau 结尾，复数通常加 -x，变 bureaux；不要写成 bureaus。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez le nom singulier au pluriel : bureau → ___ (indiquez seulement le nom au pluriel).",
+              "explain": "bureau se termine par -eau : son pluriel ajoute généralement -x et devient bureaux ; n'écrivez pas bureaus."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l5-q7",
@@ -904,7 +1369,13 @@
           ],
           "answer": 1,
           "translation": "识别 pneu 和 bleu 的复数例外（只识别，不要求推广到其他 -eu 词）。",
-          "explain": "pneu 和 bleu 是 -eu 加 -s 的少数例外：pneus、bleus；多数 -eu 名词加 -x，如 jeu → jeux。这里只要求识别这组例外，不能据此把其他 -eu 名词都改成加 -s。"
+          "explain": "pneu 和 bleu 是 -eu 加 -s 的少数例外：pneus、bleus；多数 -eu 名词加 -x，如 jeu → jeux。这里只要求识别这组例外，不能据此把其他 -eu 名词都改成加 -s。",
+          "locales": {
+            "fr": {
+              "prompt": "Reconnaissez les exceptions en -s de -eu : laquelle de ces séries donne le pluriel correct de pneu et bleu ?",
+              "explain": "pneu et bleu sont des exceptions en -s parmi les mots en -eu : pneus, bleus ; la plupart des noms en -eu ajoutent -x, comme jeu → jeux. Cette question ne demande que de reconnaître cette série d'exceptions, sans l'étendre aux autres mots en -eu."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l5-q8",
@@ -929,9 +1400,20 @@
             "fleurs"
           ],
           "translation": "那个男孩的朋友（单数短语改为复数短语）",
-          "explain": "l'ami 变为 les amis，冠词随复数变 les；du garçon 中的 du 是 de + le，改为复数后 de + les 缩合成 des，得到 les amis des garçons。"
+          "explain": "l'ami 变为 les amis，冠词随复数变 les；du garçon 中的 du 是 de + le，改为复数后 de + les 缩合成 des，得到 les amis des garçons。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez le groupe nominal singulier au pluriel : l'ami du garçon → ___ (tous les noms passent au pluriel, y compris le possesseur après de ; tous les référents deviennent multiples ; les articles suivent et la relation d'appartenance reste la même).",
+              "explain": "l'ami devient les amis et l'article suit le pluriel : les. Dans du garçon, du est de + le ; au pluriel, de + les se contracte en des, d'où les amis des garçons."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Règles et exceptions du pluriel (1)"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-l5-2",
@@ -962,7 +1444,13 @@
             "voisines"
           ],
           "translation": "那个邻居的孩子（单数短语改为复数短语）",
-          "explain": "l'enfant 变 les enfants，名词加 -s；du voisin 中 du 是 de + le，复数时 de + les 变为 des，所以是 les enfants des voisins。"
+          "explain": "l'enfant 变 les enfants，名词加 -s；du voisin 中 du 是 de + le，复数时 de + les 变为 des，所以是 les enfants des voisins。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez le groupe nominal singulier au pluriel : l'enfant du voisin → ___ (tous les noms passent au pluriel, y compris le possesseur après de ; tous les référents deviennent multiples ; les articles suivent et la relation d'appartenance reste la même).",
+              "explain": "l'enfant devient les enfants, avec -s ; dans du voisin, du est de + le ; au pluriel, de + les devient des, d'où les enfants des voisins."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l5-q10",
@@ -998,7 +1486,13 @@
             "garçon"
           ],
           "translation": "孩子的船；男孩的鼻子（两个单数短语都改为复数）",
-          "explain": "bateau 以 -eau 结尾，复数加 -x 变 bateaux；nez 以 -z 结尾，复数不变。两个短语中的 de l' 和 du 都要按复数改成 des，冠词 le 变 les，最后用 et 连接：les bateaux des enfants et les nez des garçons。"
+          "explain": "bateau 以 -eau 结尾，复数加 -x 变 bateaux；nez 以 -z 结尾，复数不变。两个短语中的 de l' 和 du 都要按复数改成 des，冠词 le 变 les，最后用 et 连接：les bateaux des enfants et les nez des garçons。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez les deux groupes nominaux singuliers au pluriel et reliez-les par et dans l'ordre de la liste : le bateau de l'enfant ; le nez du garçon → ___ (tous les noms, y compris le possesseur après de, passent au pluriel ; tous les référents deviennent multiples ; les articles suivent et la relation d'appartenance reste la même ; ne changez pas l'ordre des groupes ni des possesseurs).",
+              "explain": "bateau se termine par -eau et prend -x : bateaux ; nez se termine par -z et reste identique. Les de l' et du des deux groupes deviennent des au pluriel, l'article le devient les, puis on relie par et : les bateaux des enfants et les nez des garçons."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l5-q11",
@@ -1034,7 +1528,13 @@
             "livre"
           ],
           "translation": "学生的游戏；书的价格（两个单数短语都改为复数）",
-          "explain": "jeu 以 -eu 结尾，复数加 -x 变 jeux；prix 以 -x 结尾，复数不变。de l' 和 du 在复数中都要变为 des，冠词 le 变 les，得到 les jeux des étudiants et les prix des livres。"
+          "explain": "jeu 以 -eu 结尾，复数加 -x 变 jeux；prix 以 -x 结尾，复数不变。de l' 和 du 在复数中都要变为 des，冠词 le 变 les，得到 les jeux des étudiants et les prix des livres。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez les deux groupes nominaux singuliers au pluriel et reliez-les par et dans l'ordre de la liste : le jeu de l'étudiant ; le prix du livre → ___ (tous les noms, y compris le possesseur ou le complément après de, passent au pluriel ; tous les référents deviennent multiples ; les articles suivent et la relation d'appartenance reste la même ; ne changez pas l'ordre des groupes ni des possesseurs).",
+              "explain": "jeu se termine par -eu et prend -x : jeux ; prix se termine par -x et reste identique. De l' et du deviennent des au pluriel, l'article le devient les, d'où les jeux des étudiants et les prix des livres."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l5-q12",
@@ -1081,7 +1581,13 @@
             "garçon"
           ],
           "translation": "父亲的工作；主任的办公室；男孩的鼻子（三个单数短语都改为复数）",
-          "explain": "travail 是 -ail 的例外，变 travaux；bureau 是 -eau 词，加 -x 变 bureaux；nez 以 -z 结尾，复数不变。三处 du 都是 de + le，复数时与 les 缩合成 des，冠词 le 变 les：les travaux des pères et les bureaux des directeurs et les nez des garçons。"
+          "explain": "travail 是 -ail 的例外，变 travaux；bureau 是 -eau 词，加 -x 变 bureaux；nez 以 -z 结尾，复数不变。三处 du 都是 de + le，复数时与 les 缩合成 des，冠词 le 变 les：les travaux des pères et les bureaux des directeurs et les nez des garçons。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez les trois groupes nominaux singuliers au pluriel et reliez-les par et dans l'ordre de la liste : le travail du père ; le bureau du directeur ; le nez du garçon → ___ (tous les noms, y compris le possesseur après de, passent au pluriel ; tous les référents deviennent multiples ; les articles suivent et la relation d'appartenance reste la même ; ne changez pas l'ordre des groupes ni des possesseurs).",
+              "explain": "travail est l'exception de -ail qui devient travaux ; bureau, mot en -eau, prend -x et devient bureaux ; nez se termine par -z et reste identique. Les trois du sont de + le et se contractent en des au pluriel ; l'article le devient les : les travaux des pères et les bureaux des directeurs et les nez des garçons."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l5-q13",
@@ -1128,7 +1634,13 @@
             "livre"
           ],
           "translation": "村庄的节日；女孩的一件首饰；书的价格（三个单数短语都改为复数）",
-          "explain": "festival 是 -al 中加 -s 的例外，变 festivals；bijou 是 -ou 中加 -x 的七个词之一，变 bijoux；prix 以 -x 结尾，复数不变。du 和 de la 在复数中都要变为 des，冠词 le 变 les：les festivals des villages et les bijoux des filles et les prix des livres。"
+          "explain": "festival 是 -al 中加 -s 的例外，变 festivals；bijou 是 -ou 中加 -x 的七个词之一，变 bijoux；prix 以 -x 结尾，复数不变。du 和 de la 在复数中都要变为 des，冠词 le 变 les：les festivals des villages et les bijoux des filles et les prix des livres。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez les trois groupes nominaux singuliers au pluriel et reliez-les par et dans l'ordre de la liste : le festival du village ; le bijou de la fille ; le prix du livre → ___ (tous les noms, y compris le possesseur ou le complément après de, passent au pluriel ; tous les référents deviennent multiples ; les articles suivent et la relation d'appartenance reste la même ; ne changez pas l'ordre des groupes ni des possesseurs).",
+              "explain": "festival est l'exception de -al qui ajoute -s et devient festivals ; bijou est l'un des sept mots en -ou qui prennent -x et devient bijoux ; prix se termine par -x et reste identique. Du et de la deviennent des au pluriel, l'article le devient les : les festivals des villages et les bijoux des filles et les prix des livres."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l5-q14",
@@ -1164,7 +1676,13 @@
             "mère"
           ],
           "translation": "男孩的游戏；母亲的首饰（两个单数短语都改为复数）",
-          "explain": "jeu 以 -eu 结尾，复数加 -x 变 jeux；bijou 是 -ou 加 -x 的七个词之一，变 bijoux。du 与 de la 在复数中都变为 des，冠词 le 变 les，得到 les jeux des garçons et les bijoux des mères。"
+          "explain": "jeu 以 -eu 结尾，复数加 -x 变 jeux；bijou 是 -ou 加 -x 的七个词之一，变 bijoux。du 与 de la 在复数中都变为 des，冠词 le 变 les，得到 les jeux des garçons et les bijoux des mères。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez les deux groupes nominaux singuliers au pluriel et reliez-les par et dans l'ordre de la liste : le jeu du garçon ; le bijou de la mère → ___ (tous les noms, y compris le possesseur après de, passent au pluriel ; tous les référents deviennent multiples ; les articles suivent et la relation d'appartenance reste la même ; ne changez pas l'ordre des groupes ni des possesseurs).",
+              "explain": "jeu se termine par -eu et prend -x : jeux ; bijou est l'un des sept mots en -ou qui prennent -x : bijoux. Du et de la deviennent des au pluriel, l'article le devient les, d'où les jeux des garçons et les bijoux des mères."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l5-q15",
@@ -1201,7 +1719,13 @@
             "mur"
           ],
           "translation": "孩子的一根头发；墙上的钉子（两个单数短语都改为复数）",
-          "explain": "cheveu 以 -eu 结尾，通常加 -x 变 cheveux；clou 以 -ou 结尾，但不在 bijou、chou、caillou、genou、hibou、joujou、pou 这七个加 -x 的词里，所以按常规加 -s 变 clous。de l' 和 du 在复数中变为 des，冠词 le 变 les：les cheveux des enfants et les clous des murs。"
+          "explain": "cheveu 以 -eu 结尾，通常加 -x 变 cheveux；clou 以 -ou 结尾，但不在 bijou、chou、caillou、genou、hibou、joujou、pou 这七个加 -x 的词里，所以按常规加 -s 变 clous。de l' 和 du 在复数中变为 des，冠词 le 变 les：les cheveux des enfants et les clous des murs。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez les deux groupes nominaux singuliers au pluriel et reliez-les par et dans l'ordre de la liste : le cheveu de l'enfant ; le clou du mur → ___ (tous les noms, y compris le possesseur ou le complément après de, passent au pluriel ; tous les référents deviennent multiples ; les articles suivent et la relation d'appartenance reste la même ; ne changez pas l'ordre des groupes ni des possesseurs).",
+              "explain": "cheveu se termine par -eu et prend généralement -x : cheveux ; clou se termine par -ou mais ne fait pas partie des sept mots en -x (bijou, chou, caillou, genou, hibou, joujou, pou) : il ajoute -s et devient clous. De l' et du deviennent des au pluriel, l'article le devient les : les cheveux des enfants et les clous des murs."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l5-q16",
@@ -1236,9 +1760,20 @@
             "voix"
           ],
           "translation": "男孩的鼻子；汽车的价格（两个单数短语都改为复数）",
-          "explain": "nez 以 -z 结尾、prix 以 -x 结尾，复数都不变；冠词 le 变 les，du 和 de la 在复数中都变为 des，名词 voiture 加 -s：les nez des garçons et les prix des voitures。"
+          "explain": "nez 以 -z 结尾、prix 以 -x 结尾，复数都不变；冠词 le 变 les，du 和 de la 在复数中都变为 des，名词 voiture 加 -s：les nez des garçons et les prix des voitures。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez les deux groupes nominaux singuliers au pluriel et reliez-les par et dans l'ordre de la liste : le nez du garçon ; le prix de la voiture → ___ (tous les noms, y compris le possesseur ou le complément après de, passent au pluriel ; tous les référents deviennent multiples ; les articles suivent et la relation d'appartenance reste la même ; ne changez pas l'ordre des groupes ni des possesseurs).",
+              "explain": "nez se termine par -z et prix par -x : les deux restent identiques au pluriel. L'article le devient les, du et de la deviennent des, et voiture ajoute -s : les nez des garçons et les prix des voitures."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Règles et exceptions du pluriel (2)"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-l7",
@@ -1258,7 +1793,13 @@
           ],
           "answer": 2,
           "translation": "三个苹果。",
-          "explain": "普通基数词 trois 直接修饰名词 pommes，说 trois pommes，中间不加 de。un kilo de pommes 是“一公斤苹果”，beaucoup de pommes 是“很多苹果”。"
+          "explain": "普通基数词 trois 直接修饰名词 pommes，说 trois pommes，中间不加 de。un kilo de pommes 是“一公斤苹果”，beaucoup de pommes 是“很多苹果”。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la formulation correcte : « trois pommes ».",
+              "explain": "Le nombre cardinal trois modifie directement le nom pommes : on dit trois pommes, sans de entre les deux. un kilo de pommes signifie « un kilogramme de pommes » et beaucoup de pommes « beaucoup de pommes »."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l7-q2",
@@ -1272,7 +1813,13 @@
           ],
           "answer": 0,
           "translation": "很多书。",
-          "explain": "数量副词 beaucoup 后用 de 引出名词，名词前不再保留冠词：beaucoup de livres。beaucoup des livres 需要特指“这些书中的很多”，不符合这里的泛指。"
+          "explain": "数量副词 beaucoup 后用 de 引出名词，名词前不再保留冠词：beaucoup de livres。beaucoup des livres 需要特指“这些书中的很多”，不符合这里的泛指。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la formulation correcte : « beaucoup de livres » (au sens général, sans désigner certains livres en particulier).",
+              "explain": "Après l'adverbe de quantité beaucoup, on introduit le nom avec de et le nom ne garde pas d'article : beaucoup de livres. beaucoup des livres supposerait « beaucoup parmi ces livres », ce qui ne correspond pas au sens général demandé."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l7-q3",
@@ -1292,7 +1839,13 @@
             "les"
           ],
           "translation": "很多书（泛指）。",
-          "explain": "beaucoup 后接 de + 复数名词，名词不再带冠词：beaucoup de livres。livre 要随数量变为复数 livres。"
+          "explain": "beaucoup 后接 de + 复数名词，名词不再带冠词：beaucoup de livres。livre 要随数量变为复数 livres。",
+          "locales": {
+            "fr": {
+              "prompt": "Composez avec « beaucoup » et « un livre » l'expression de quantité signifiant « beaucoup de livres » (au sens général) : ___",
+              "explain": "beaucoup est suivi de « de » + nom pluriel, et le nom ne garde pas d'article : beaucoup de livres. livre passe au pluriel livres avec la quantité."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l7-q4",
@@ -1300,7 +1853,13 @@
           "prompt": "补出正确的数量结构：un peu + eau → un peu ___（只填一个词，注意省音）",
           "answer": "d'eau",
           "translation": "一点水（只填一个词）",
-          "explain": "un peu 后接 de + 名词；eau 以元音开头，de 省音为 d'，并与 eau 连写成 d'eau，所以是 un peu d'eau。"
+          "explain": "un peu 后接 de + 名词；eau 以元音开头，de 省音为 d'，并与 eau 连写成 d'eau，所以是 un peu d'eau。",
+          "locales": {
+            "fr": {
+              "prompt": "Complétez la structure de quantité correcte : un peu + eau → un peu ___ (un seul mot ; attention à l'élision).",
+              "explain": "un peu est suivi de « de » + nom ; eau commence par une voyelle, de s'élide en d' et s'écrit avec eau : d'eau, d'où un peu d'eau."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l7-q5",
@@ -1314,7 +1873,13 @@
           ],
           "answer": 1,
           "translation": "我去市场买一公斤苹果。",
-          "explain": "去市场用 aller au marché，à + le 缩合为 au；一公斤苹果是 un kilo de pommes，un kilo 前用不定冠词 un，kilo 后用 de 引出内容。因此是 au marché ; un kilo de pommes。"
+          "explain": "去市场用 aller au marché，à + le 缩合为 au；一公斤苹果是 un kilo de pommes，un kilo 前用不定冠词 un，kilo 后用 de 引出内容。因此是 au marché ; un kilo de pommes。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme correcte : « Je vais au marché acheter un kilo de pommes. »",
+              "explain": "Pour aller au marché, on contracte à + le en au ; un kilo de pommes s'écrit avec un devant kilo et de après kilo pour introduire le contenu. On obtient donc au marché ; un kilo de pommes."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l7-q6",
@@ -1336,7 +1901,13 @@
             "kilos"
           ],
           "translation": "一公斤苹果。",
-          "explain": "数量名词 un kilo 后用 de 引出内容，pomme 要变为复数 pommes：un kilo de pommes。不能说 un kilo des pommes 或 un kilo pommes。"
+          "explain": "数量名词 un kilo 后用 de 引出内容，pomme 要变为复数 pommes：un kilo de pommes。不能说 un kilo des pommes 或 un kilo pommes。",
+          "locales": {
+            "fr": {
+              "prompt": "Composez avec « un kilo » et « une pomme » l'expression correcte de « un kilo de pommes » : ___",
+              "explain": "Après le nom de quantité un kilo, de introduit le contenu et pomme passe au pluriel pommes : un kilo de pommes. On n'écrit ni un kilo des pommes ni un kilo pommes."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l7-q7",
@@ -1354,7 +1925,13 @@
             "des"
           ],
           "translation": "很多朋友。",
-          "explain": "beaucoup 后接 de + 名词；amis 以元音开头，de 省音为 d'，并与 amis 连写成 d'amis，所以是 beaucoup d'amis。"
+          "explain": "beaucoup 后接 de + 名词；amis 以元音开头，de 省音为 d'，并与 amis 连写成 d'amis，所以是 beaucoup d'amis。",
+          "locales": {
+            "fr": {
+              "prompt": "Composez avec « beaucoup » et « un ami » l'expression correcte de « beaucoup d'amis » : ___",
+              "explain": "beaucoup est suivi de « de » + nom ; amis commence par une voyelle, de s'élide en d' et s'écrit avec amis : d'amis, d'où beaucoup d'amis."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l7-q8",
@@ -1368,9 +1945,20 @@
           ],
           "answer": 3,
           "translation": "两个苹果；两公斤苹果。",
-          "explain": "普通数词 deux 直接修饰 pommes，说 deux pommes；数量名词 deux kilos 后要用 de 引出内容，说 deux kilos de pommes。两组结构不要混用。"
+          "explain": "普通数词 deux 直接修饰 pommes，说 deux pommes；数量名词 deux kilos 后要用 de 引出内容，说 deux kilos de pommes。两组结构不要混用。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la formulation correcte : « deux pommes ; deux kilos de pommes (au sens général) ».",
+              "explain": "Le nombre cardinal deux modifie directement pommes : deux pommes ; après le nom de quantité deux kilos, il faut de pour introduire le contenu : deux kilos de pommes. Les deux structures ne se mélangent pas."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Expressions de quantité et de"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-l8-1",
@@ -1390,7 +1978,13 @@
           ],
           "answer": 0,
           "translation": "一把牙刷。",
-          "explain": "brosse à dents 是固定搭配，à 引出用途/功能，不是材料或所属；a 缺少重音符号，de/en 不符合该搭配。"
+          "explain": "brosse à dents 是固定搭配，à 引出用途/功能，不是材料或所属；a 缺少重音符号，de/en 不符合该搭配。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la préposition correcte dans la collocation : une brosse ___ dents (objet servant à se brosser les dents).",
+              "explain": "brosse à dents est une collocation figée : à introduit l'usage ou la fonction, non la matière ni l'appartenance ; a sans accent ne convient pas, et de/en ne correspondent pas à cette collocation."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l8-q2",
@@ -1404,7 +1998,13 @@
           ],
           "answer": 1,
           "translation": "她有一双蓝眼睛。",
-          "explain": "描述眼睛外观时本课用定冠词 les（复数）；des yeux bleus 在有些语境也可成立，但不符合本题指定的外观描述模式；ses 强调所属，le 与复数 yeux 不配合。"
+          "explain": "描述眼睛外观时本课用定冠词 les（复数）；des yeux bleus 在有些语境也可成立，但不符合本题指定的外观描述模式；ses 强调所属，le 与复数 yeux 不配合。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez selon le modèle de la leçon « article défini pour décrire l'apparence des yeux » : Elle a ___ yeux bleus.",
+              "explain": "Pour décrire l'apparence des yeux, cette leçon emploie l'article défini les (pluriel) ; des yeux bleus est possible dans certains contextes, mais ne correspond pas au modèle demandé ; ses insiste sur l'appartenance, et le ne s'accorde pas avec le pluriel yeux."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l8-q3",
@@ -1418,7 +2018,13 @@
           ],
           "answer": 2,
           "translation": "一个运动包；车库的门；地图册的书页；那些房子的屋顶。",
-          "explain": "①首次提到用不定冠词 un（sac 阳性）；②de + le → du；③de + l'atlas，de 与省音冠词 l' 分写；④de + les → des。注意 de + la/de + l' 不缩合。"
+          "explain": "①首次提到用不定冠词 un（sac 阳性）；②de + le → du；③de + l'atlas，de 与省音冠词 l' 分写；④de + les → des。注意 de + la/de + l' 不缩合。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la série de formes correctes : ① ___ sac de sport (première mention) ② la porte ___ garage (garage déjà défini) ③ les pages ___ atlas (atlas déjà défini) ④ les toits ___ maisons (maisons déjà définies)",
+              "explain": "① première mention : article indéfini un (sac masculin) ; ② de + le → du ; ③ de + l'atlas : de reste séparé de l'article élidé l' ; ④ de + les → des. Attention : de + la et de + l' ne se contractent pas."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l8-q4",
@@ -1432,7 +2038,13 @@
           ],
           "answer": 3,
           "translation": "中学的学生们；教室的门；这个男人的名字；树上的果实。",
-          "explain": "①de+le→du；②de+la 保持分写；③de+l'homme，de 与省音冠词 l' 分写；④de+les→des。"
+          "explain": "①de+le→du；②de+la 保持分写；③de+l'homme，de 与省音冠词 l' 分写；④de+les→des。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la série de formes correctes : ① les élèves ___ collège ② la porte ___ salle ③ le nom ___ homme ④ les fruits ___ arbres",
+              "explain": "① de + le → du ; ② de + la reste séparé ; ③ de + l'homme : de reste séparé de l'article élidé l' ; ④ de + les → des."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l8-q5",
@@ -1446,7 +2058,13 @@
           ],
           "answer": 0,
           "translation": "一只水晶杯；邻居的杯子。",
-          "explain": "第1空首次提到用不定冠词 un（verre 阳性）；第2空 de 引出材料，材料补语不带冠词；第3空 de+le→du，voisin 已确指。不定/定冠词与 de 材料/所属的对照都实际影响选择。"
+          "explain": "第1空首次提到用不定冠词 un（verre 阳性）；第2空 de 引出材料，材料补语不带冠词；第3空 de+le→du，voisin 已确指。不定/定冠词与 de 材料/所属的对照都实际影响选择。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la série de formes correctes : ① ___ verre ___ cristal (première mention d'un verre en cristal, matière) ② le verre ___ voisin (le verre du voisin, appartenance)",
+              "explain": "① première mention : article indéfini un (verre masculin) ; ② de introduit la matière et le complément de matière ne prend pas d'article ; ③ de + le → du, voisin étant défini. L'opposition entre article indéfini/défini et entre de de matière/de d'appartenance intervient réellement dans le choix."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l8-q6",
@@ -1469,7 +2087,13 @@
             "une"
           ],
           "translation": "车库的门。",
-          "explain": "de + le 缩合为 du；la porte 为阴性单数，garage 为阳性单数。de le / des 都不符合这里的单数确指补语。"
+          "explain": "de + le 缩合为 du；la porte 为阴性单数，garage 为阳性单数。de le / des 都不符合这里的单数确指补语。",
+          "locales": {
+            "fr": {
+              "prompt": "Composez avec les étiquettes la phrase correcte : la porte du garage (cette porte est définie).",
+              "explain": "de + le se contracte en du ; la porte est féminin singulier et garage masculin singulier. de le et des ne conviennent pas pour un complément singulier défini."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l8-q7",
@@ -1483,9 +2107,20 @@
           ],
           "answer": 1,
           "translation": "一位音乐老师到了；这位音乐老师来自里昂。",
-          "explain": "首次提到用不定冠词 un，再次提到用定冠词 le（professeur 阳性）。de musique 是职业类别补语，不带冠词；de la musique 会读成特定音乐的所属，不符合这里的职业类别语义。"
+          "explain": "首次提到用不定冠词 un，再次提到用定冠词 le（professeur 阳性）。de musique 是职业类别补语，不带冠词；de la musique 会读成特定音乐的所属，不符合这里的职业类别语义。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la série correcte (① première mention, ② reprise ; il s'agit ici de la catégorie professionnelle « professeur de musique », non de l'appartenance à une musique précise) :",
+              "explain": "Première mention : article indéfini un, puis reprise avec l'article défini le (professeur masculin). de musique est un complément de catégorie professionnelle sans article ; de la musique se lirait comme l'appartenance à une musique précise, ce qui ne correspond pas au sens demandé."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Compléments du nom et parties du corps (1)"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-l8-2",
@@ -1513,7 +2148,13 @@
             "les"
           ],
           "translation": "岛上的一些居民。",
-          "explain": "un→des，habitant→habitants；补语 de l'île 确指，de 与省音冠词 l' 保持分写，不缩合。"
+          "explain": "un→des，habitant→habitants；补语 de l'île 确指，de 与省音冠词 l' 保持分写，不缩合。",
+          "locales": {
+            "fr": {
+              "prompt": "Transformez un habitant de l'île au pluriel avec les étiquettes pour former le groupe nominal complet (gardez le sens indéfini et laissez le complément de inchangé).",
+              "explain": "un → des, habitant → habitants ; le complément de l'île est défini, de reste séparé de l'article élidé l' et ne se contracte pas."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l8-q9",
@@ -1527,7 +2168,13 @@
           ],
           "answer": 2,
           "translation": "第一次提到的一杯苹果汁；元音前省音的一杯橙汁。",
-          "explain": "①首次提到用 un（jus 阳性），de pomme 是内容补语，不省音；②de 在元音 orange 前省音为 d'，写成 d'orange。"
+          "explain": "①首次提到用 un（jus 阳性），de pomme 是内容补语，不省音；②de 在元音 orange 前省音为 d'，写成 d'orange。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la série de formes correctes : ① ___ jus de pomme (première mention) ② un jus ___ orange (devant une voyelle)",
+              "explain": "① première mention : un (jus masculin), et de pomme est un complément de contenu sans élision ; ② de s'élide en d' devant la voyelle de orange et s'écrit d'orange."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l8-q10",
@@ -1541,7 +2188,13 @@
           ],
           "answer": 3,
           "translation": "米糕（复数）；烹饪书（复数）；桌游（复数）。",
-          "explain": "un→des；gâteau 以 -eau 结尾加 -x 成 gâteaux；livre 一般加 -s 成 livres；jeu 以 -eu 结尾加 -x 成 jeux；de riz / de cuisine / de société 是类别或内容补语，不带冠词，不能改成 du riz / de la cuisine。干扰项分别检验 -eau、一般 -s、-eu→-x 与补语不带冠词。"
+          "explain": "un→des；gâteau 以 -eau 结尾加 -x 成 gâteaux；livre 一般加 -s 成 livres；jeu 以 -eu 结尾加 -x 成 jeux；de riz / de cuisine / de société 是类别或内容补语，不带冠词，不能改成 du riz / de la cuisine。干扰项分别检验 -eau、一般 -s、-eu→-x 与补语不带冠词。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez les trois groupes nominaux au pluriel (gardez le sens indéfini et ne mettez au pluriel que le nom noyau) : un gâteau de riz / un livre de cuisine / un jeu de société",
+              "explain": "un → des ; gâteau se termine par -eau et prend -x : gâteaux ; livre ajoute -s : livres ; jeu se termine par -eu et prend -x : jeux. de riz / de cuisine / de société sont des compléments de catégorie ou de contenu sans article : on ne les transforme pas en du riz / de la cuisine. Les distracteurs vérifient respectivement -eau, le -s général, -eu → -x et l'absence d'article dans le complément."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l8-q11",
@@ -1577,7 +2230,13 @@
             "les"
           ],
           "translation": "几杯茶和几个城市里的孩子。",
-          "explain": "une/un→des；tasse→tasses，enfant→enfants；de thé 是内容补语，不带冠词；de la ville 中 de+la 保持分写。"
+          "explain": "une/un→des；tasse→tasses，enfant→enfants；de thé 是内容补语，不带冠词；de la ville 中 de+la 保持分写。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez au pluriel le nom noyau des deux groupes (gardez le sens indéfini et les compléments de inchangés), puis reliez par et dans l'ordre de la liste, sans réorganiser : une tasse de thé / un enfant de la ville",
+              "explain": "une/un → des ; tasse → tasses, enfant → enfants ; de thé est un complément de contenu sans article ; dans de la ville, de + la reste séparé."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l8-q12",
@@ -1591,7 +2250,13 @@
           ],
           "answer": 0,
           "translation": "识别代词式动词后身体部位前的冠词选择。",
-          "explain": "代词式动词 se laver 后，身体部位通常用定冠词 les：Il se lave les mains。ses 强调所属，不是本课模式；des 本身可作复数不定冠词，也能与复数 mains 搭配，但不符合本题指定的定冠词模式；la 与复数 mains 不配合。本题只要求识别，不要求产出代词式句子。"
+          "explain": "代词式动词 se laver 后，身体部位通常用定冠词 les：Il se lave les mains。ses 强调所属，不是本课模式；des 本身可作复数不定冠词，也能与复数 mains 搭配，但不符合本题指定的定冠词模式；la 与复数 mains 不配合。本题只要求识别，不要求产出代词式句子。",
+          "locales": {
+            "fr": {
+              "prompt": "Reconnaissez l'article à employer devant une partie du corps avec un verbe pronominal : Il se lave ___ mains. Choisissez l'article qui correspond au modèle de la leçon.",
+              "explain": "Après le verbe pronominal se laver, la partie du corps est normalement précédée de l'article défini les : Il se lave les mains. ses insiste sur l'appartenance et ne correspond pas au modèle de la leçon ; des peut être article indéfini pluriel et se construire avec mains, mais ne correspond pas au modèle défini demandé ; la ne s'accorde pas avec le pluriel mains. Cette question ne demande que de reconnaître, pas de produire une phrase pronominale."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l8-q13",
@@ -1605,7 +2270,13 @@
           ],
           "answer": 1,
           "translation": "识别 en 补语在“羊毛衫”中的功能。",
-          "explain": "en + 名词（通常不带冠词）说明材质/形式：un pull en laine 表示羊毛材质。à 常表用途，de 可表所属/类别/材料；有些材料表达 de 和 en 都可能，需按固定搭配判断。本题只要求识别 en 材质功能。"
+          "explain": "en + 名词（通常不带冠词）说明材质/形式：un pull en laine 表示羊毛材质。à 常表用途，de 可表所属/类别/材料；有些材料表达 de 和 en 都可能，需按固定搭配判断。本题只要求识别 en 材质功能。",
+          "locales": {
+            "fr": {
+              "prompt": "Reconnaissez ce que le complément introduit par en exprime dans un pull en laine.",
+              "explain": "en + nom (généralement sans article) indique la matière ou la forme : un pull en laine désigne la matière laine. à indique souvent l'usage ; de peut indiquer l'appartenance, la catégorie ou la matière ; certaines expressions de matière admettent de et en, à décider selon la collocation. Cette question ne demande que de reconnaître la fonction « matière » de en."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l8-q14",
@@ -1619,9 +2290,20 @@
           ],
           "answer": 2,
           "translation": "一杯水；学生们的物品；教室的门；学校的名字。",
-          "explain": "①首次提到一杯水用不定冠词 un（verre 阳性）；②de+les→des；③de+la 保持分写；④de+l'école 保持分写，l' 是省音冠词，不能写成 d'。四个空同时判断不定冠词、缩合、保持分写与省音。"
+          "explain": "①首次提到一杯水用不定冠词 un（verre 阳性）；②de+les→des；③de+la 保持分写；④de+l'école 保持分写，l' 是省音冠词，不能写成 d'。四个空同时判断不定冠词、缩合、保持分写与省音。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la série de formes correctes : ① ___ verre d'eau (première mention d'un verre d'eau) ② les affaires ___ élèves (les affaires des élèves, élèves définis) ③ la porte ___ salle (la porte de la salle, salle définie) ④ le nom ___ école (le nom de l'école, école définie)",
+              "explain": "① première mention d'un verre d'eau : article indéfini un (verre masculin) ; ② de + les → des ; ③ de + la reste séparé ; ④ de + l'école reste séparé, l' étant l'article élidé, et ne s'écrit pas d'. Les quatre cases font intervenir ensemble l'article indéfini, la contraction, la forme séparée et l'élision."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Compléments du nom et parties du corps (2)"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-l9-1",
@@ -1660,7 +2342,13 @@
             "animal."
           ],
           "translation": "我谈论那些动物；我去参加那些舞会。",
-          "explain": "de + l'animal 变复数：de + les → des，animal 以 -al 结尾变 animaux；au bal 变复数：à + les → aux，bal 是 -al 例外，只加 -s 成 bals。主语 Je 和动词 parle/vais 保持不变。"
+          "explain": "de + l'animal 变复数：de + les → des，animal 以 -al 结尾变 animaux；au bal 变复数：à + les → aux，bal 是 -al 例外，只加 -s 成 bals。主语 Je 和动词 parle/vais 保持不变。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez au pluriel tous les référents des deux phrases (y compris les noms après préposition), en gardant les correspondances ; gardez le sujet et la forme verbale, reliez dans l'ordre des phrases, sans réorganiser : Je parle de l'animal. / Je vais au bal.",
+              "explain": "de + l'animal au pluriel : de + les → des, et animal en -al devient animaux ; au bal au pluriel : à + les → aux, et bal, exception de -al, ajoute seulement -s et devient bals. Le sujet Je et les verbes parle/vais restent inchangés."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l9-q2",
@@ -1674,7 +2362,13 @@
           ],
           "answer": 3,
           "translation": "我去这些医院；我谈论这些节日。",
-          "explain": "①à + l'hôpital 变复数：à + les → aux，hôpital 变 hôpitaux；②de + le → du 变复数 de + les → des，festival 是 -al 例外，加 -s 成 festivals。"
+          "explain": "①à + l'hôpital 变复数：à + les → aux，hôpital 变 hôpitaux；②de + le → du 变复数 de + les → des，festival 是 -al 例外，加 -s 成 festivals。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez au pluriel tous les référents des deux phrases (y compris les noms après préposition), en gardant les correspondances ; gardez le sujet et la forme verbale : Je vais à l'hôpital. / Je parle du festival.",
+              "explain": "① à + l'hôpital au pluriel : à + les → aux, et hôpital devient hôpitaux ; ② de + le → du, puis au pluriel de + les → des, et festival, exception de -al, ajoute -s et devient festivals."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l9-q3",
@@ -1698,7 +2392,13 @@
             "élève"
           ],
           "translation": "这个学生的笔记本 → 这些学生的笔记本。",
-          "explain": "le→les，cahier→cahiers；de + l'élève 变复数时 de + les → des élèves，省音冠词 l' 不再出现。"
+          "explain": "le→les，cahier→cahiers；de + l'élève 变复数时 de + les → des élèves，省音冠词 l' 不再出现。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez tout le groupe nominal au pluriel : tous les référents deviennent multiples (cahier et élève passent au pluriel) et gardez la correspondance d'appartenance : le cahier de l'élève",
+              "explain": "le → les, cahier → cahiers ; de + l'élève au pluriel devient de + les → des élèves, et l'article élidé l' disparaît."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l9-q4",
@@ -1712,7 +2412,13 @@
           ],
           "answer": 0,
           "translation": "书的价格（复数）；博物馆参观（复数）。",
-          "explain": "①le→les，prix 单复数同形，du（de+le）变复数 des（de+les），livre→livres；②la→les，visite→visites，au（à+le）变复数 aux（à+les），musée→musées。"
+          "explain": "①le→les，prix 单复数同形，du（de+le）变复数 des（de+les），livre→livres；②la→les，visite→visites，au（à+le）变复数 aux（à+les），musée→musées。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez au pluriel tous les référents des deux groupes (y compris les noms après préposition), en gardant les relations d'appartenance/correspondance : le prix du livre / la visite au musée",
+              "explain": "① le → les, prix est invariable, du (de + le) devient des (de + les), livre → livres ; ② la → les, visite → visites, au (à + le) devient aux (à + les), musée → musées."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l9-q5",
@@ -1726,7 +2432,13 @@
           ],
           "answer": 1,
           "translation": "博物馆的一些入场券。",
-          "explain": "une→des，entrée→entrées；au 是 à+le，变复数时 à+les→aux，musée→musées。保持不定指，所以不能用 les。"
+          "explain": "une→des，entrée→entrées；au 是 à+le，变复数时 à+les→aux，musée→musées。保持不定指，所以不能用 les。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez au pluriel tous les référents d'une entrée au musée (y compris le nom après au), en gardant le sens indéfini et les correspondances.",
+              "explain": "une → des, entrée → entrées ; au est à + le et devient aux (à + les) au pluriel, musée → musées. Le sens reste indéfini, donc les est exclu."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l9-q6",
@@ -1740,7 +2452,13 @@
           ],
           "answer": 2,
           "translation": "车库的门（复数）。",
-          "explain": "la→les，porte→portes；du 是 de+le，变复数时 de+les→des，garage→garages。"
+          "explain": "la→les，porte→portes；du 是 de+le，变复数时 de+les→des，garage→garages。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez au pluriel tous les référents de la porte du garage (y compris le nom après du), en gardant la relation d'appartenance.",
+              "explain": "la → les, porte → portes ; du est de + le et devient des (de + les) au pluriel, garage → garages."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l9-q7",
@@ -1754,7 +2472,13 @@
           ],
           "answer": 3,
           "translation": "一些孩子；这些邻居。",
-          "explain": "un enfant→des enfants（不定复数）；le voisin→les voisins（定冠词复数）。冠词和名词都要变。"
+          "explain": "un enfant→des enfants（不定复数）；le voisin→les voisins（定冠词复数）。冠词和名词都要变。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez les deux groupes nominaux au pluriel, en gardant l'opposition indéfini/défini : un enfant / le voisin",
+              "explain": "un enfant → des enfants (indéfini pluriel) ; le voisin → les voisins (article défini pluriel). L'article et le nom changent tous les deux."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l9-q8",
@@ -1768,9 +2492,20 @@
           ],
           "answer": 0,
           "translation": "这些画/黑板；这些窗户。",
-          "explain": "le/la→les；tableau 以 -eau 结尾加 -x 成 tableaux；fenêtre 一般加 -s 成 fenêtres。"
+          "explain": "le/la→les；tableau 以 -eau 结尾加 -x 成 tableaux；fenêtre 一般加 -s 成 fenêtres。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez les deux groupes nominaux définis au pluriel : le tableau / la fenêtre",
+              "explain": "le/la → les ; tableau se termine par -eau et prend -x : tableaux ; fenêtre ajoute généralement -s : fenêtres."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Passage du singulier au pluriel dans le groupe nominal (1)"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-l9-2",
@@ -1790,7 +2525,13 @@
           ],
           "answer": 1,
           "translation": "一些大学生（阳性）；一些花。",
-          "explain": "un/une→des；étudiant 加 -s 成 étudiants（保留 é），fleur 加 -s 成 fleurs。"
+          "explain": "un/une→des；étudiant 加 -s 成 étudiants（保留 é），fleur 加 -s 成 fleurs。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez les deux groupes nominaux indéfinis au pluriel : un étudiant / une fleur",
+              "explain": "un/une → des ; étudiant ajoute -s et devient étudiants (avec é), fleur ajoute -s et devient fleurs."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l9-q10",
@@ -1809,7 +2550,13 @@
             "étudiantes"
           ],
           "translation": "一些大学生（阳性）。",
-          "explain": "un→des，étudiant→étudiants；不能选 les（定指）或 étudiantes（阴性）。"
+          "explain": "un→des，étudiant→étudiants；不能选 les（定指）或 étudiantes（阴性）。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez un étudiant au pluriel avec les étiquettes pour former le groupe nominal complet (gardez le sens indéfini).",
+              "explain": "un → des, étudiant → étudiants ; les (défini) et étudiantes (féminin) ne conviennent pas."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l9-q11",
@@ -1823,7 +2570,13 @@
           ],
           "answer": 2,
           "translation": "一些鼻子；一些课程。",
-          "explain": "un→des；nez 以 -z 结尾、cours 以 -s 结尾，复数都不加 -s，保持 nez / cours。courses 是另一个名词，不是 cours 的复数。"
+          "explain": "un→des；nez 以 -z 结尾、cours 以 -s 结尾，复数都不加 -s，保持 nez / cours。courses 是另一个名词，不是 cours 的复数。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez les deux groupes nominaux au pluriel : un nez / un cours",
+              "explain": "un → des ; nez se termine par -z et cours par -s : ils ne prennent pas de -s au pluriel et restent nez / cours. courses est un autre nom, ce n'est pas le pluriel de cours."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l9-q12",
@@ -1842,7 +2595,13 @@
             "nezs"
           ],
           "translation": "一些鼻子。",
-          "explain": "nez 以 -z 结尾，复数形式不变；只把冠词 un 改为 des。"
+          "explain": "nez 以 -z 结尾，复数形式不变；只把冠词 un 改为 des。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez un nez au pluriel avec les étiquettes pour former le groupe nominal complet (gardez le sens indéfini).",
+              "explain": "nez se termine par -z et sa forme ne change pas au pluriel ; seul l'article un devient des."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l9-q13",
@@ -1856,7 +2615,13 @@
           ],
           "answer": 3,
           "translation": "一些眼睛。",
-          "explain": "œil 的不规则复数是 yeux；不定冠词 un 变 des。les yeux 是定指，des œils/des oeils 不是这里的标准复数。"
+          "explain": "œil 的不规则复数是 yeux；不定冠词 un 变 des。les yeux 是定指，des œils/des oeils 不是这里的标准复数。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez un œil au pluriel, en gardant le sens indéfini.",
+              "explain": "Le pluriel irrégulier d'œil est yeux ; l'article indéfini un devient des. les yeux est défini, et des œils/des oeils ne sont pas le pluriel standard demandé."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l9-q14",
@@ -1875,7 +2640,13 @@
             "mesdames"
           ],
           "translation": "几位先生。",
-          "explain": "monsieur 的复数是不规则的 messieurs；冠词 un→des。"
+          "explain": "monsieur 的复数是不规则的 messieurs；冠词 un→des。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez un monsieur au pluriel avec les étiquettes pour former le groupe nominal complet (gardez le sens indéfini).",
+              "explain": "Le pluriel irrégulier de monsieur est messieurs ; l'article un → des."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l9-q15",
@@ -1889,7 +2660,13 @@
           ],
           "answer": 0,
           "translation": "一些村庄；一些学校。",
-          "explain": "un/une→des；village→villages，école→écoles，都是一般加 -s。"
+          "explain": "un/une→des；village→villages，école→écoles，都是一般加 -s。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez les deux groupes nominaux au pluriel : un village / une école",
+              "explain": "un/une → des ; village → villages, école → écoles, les deux suivant la règle générale du -s."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l9-q16",
@@ -1903,9 +2680,20 @@
           ],
           "answer": 1,
           "translation": "识别称呼 Madame 的复数形式。",
-          "explain": "作为称呼/称谓，Madame 的复数对应是 Mesdames；它是词汇性复数，不靠加 -s。Dames 是另一个名词 dame 的复数，Mesdemoiselles 是 Mademoiselle 的复数。本题只识别称呼形式，不构成 une/des 名词短语。"
+          "explain": "作为称呼/称谓，Madame 的复数对应是 Mesdames；它是词汇性复数，不靠加 -s。Dames 是另一个名词 dame 的复数，Mesdemoiselles 是 Mademoiselle 的复数。本题只识别称呼形式，不构成 une/des 名词短语。",
+          "locales": {
+            "fr": {
+              "prompt": "Reconnaissez le pluriel de l'appellatif donné dans cette leçon : comme terme d'adresse, le pluriel de Madame est :",
+              "explain": "Comme appellatif ou terme d'adresse, le pluriel de Madame est Mesdames : c'est un pluriel lexical, sans -s. Dames est le pluriel d'un autre nom, dame, et Mesdemoiselles celui de Mademoiselle. Cette question ne demande que de reconnaître la forme d'adresse, pas de construire un groupe une/des."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Passage du singulier au pluriel dans le groupe nominal (2)"
+        }
+      }
     }
   ],
   "challenges": [
@@ -1927,7 +2715,13 @@
           ],
           "answer": 2,
           "translation": "我喜欢音乐；我在听一些音乐。",
-          "explain": "①泛指类别、表达喜好用定冠词 la musique；②表示不确定数量的一部分用部分冠词 de la musique。判断依据是语义，不是名词本身。"
+          "explain": "①泛指类别、表达喜好用定冠词 la musique；②表示不确定数量的一部分用部分冠词 de la musique。判断依据是语义，不是名词本身。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la série de formes correctes : ① pour exprimer le goût général pour la musique : J'aime ___ musique. ② pour écouter un peu de musique : J'écoute ___ musique.",
+              "explain": "① Pour la catégorie générale et le goût, on emploie l'article défini la musique ; ② pour une quantité indéterminée, une partie, on emploie l'article partitif de la musique. Le critère est le sens, non le nom lui-même."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x1-q2",
@@ -1941,7 +2735,13 @@
           ],
           "answer": 0,
           "translation": "太阳从东方升起；今晚是满月。",
-          "explain": "独一无二的对象用定冠词；soleil 阳性用 le，lune 阴性用 la。"
+          "explain": "独一无二的对象用定冠词；soleil 阳性用 le，lune 阴性用 la。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la série de formes correctes : ___ soleil se lève à l'est. ___ lune est pleine.",
+              "explain": "Un objet unique appelle l'article défini ; soleil est masculin, d'où le, et lune est féminin, d'où la."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x1-q3",
@@ -1955,7 +2755,13 @@
           ],
           "answer": 3,
           "translation": "我在花园里看见一只猫；这只猫是黑色的。",
-          "explain": "首次提到用不定冠词 un；再次提到同一只猫用定冠词 le。"
+          "explain": "首次提到用不定冠词 un；再次提到同一只猫用定冠词 le。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la série de formes correctes (première mention indéfinie, puis reprise du même chat) : J'ai vu ___ chat dans le jardin. ___ chat était noir.",
+              "explain": "Première mention : article indéfini un ; reprise du même chat : article défini le."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x1-q4",
@@ -1969,7 +2775,13 @@
           ],
           "answer": 1,
           "translation": "运动后我喝一些水。",
-          "explain": "eau 是阴性不可数名词，部分冠词 de la 遇元音省音为 de l'；du 用于阳性，la 是定冠词，de la 未省音。"
+          "explain": "eau 是阴性不可数名词，部分冠词 de la 遇元音省音为 de l'；du 用于阳性，la 是定冠词，de la 未省音。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme correcte (un peu d'eau, pas une eau précise) : Je bois ___ eau après le sport.",
+              "explain": "eau est un nom féminin non comptable ; l'article partitif de la s'élide en de l' devant une voyelle ; du est masculin, la est défini, et de la ne s'élide pas."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x1-q5",
@@ -1983,7 +2795,13 @@
           ],
           "answer": 0,
           "translation": "我在市场买一些苹果，也买一些米。",
-          "explain": "pommes 是可数复数，用不定复数冠词 des；riz 是不可数阳性，用部分冠词 du。"
+          "explain": "pommes 是可数复数，用不定复数冠词 des；riz 是不可数阳性，用部分冠词 du。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la série de formes correctes (pommes non définies, on en achète quelques-unes ; riz prélevé en partie) : J'achète ___ pommes au marché, et je prends aussi ___ riz.",
+              "explain": "pommes est un nom comptable pluriel : article indéfini pluriel des ; riz est un nom non comptable masculin : article partitif du."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x1-q6",
@@ -1997,7 +2815,13 @@
           ],
           "answer": 2,
           "translation": "我有很多书；我有两本书；我有一公斤西红柿。",
-          "explain": "beaucoup 后接 de + 名词；普通基数词 deux 直接修饰名词，不加 de；数量名词 un kilo 后用 de 引出内容。"
+          "explain": "beaucoup 后接 de + 名词；普通基数词 deux 直接修饰名词，不加 de；数量名词 un kilo 后用 de 引出内容。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la série de formes correctes (— signifie qu'on n'ajoute aucun mot) : ① J'ai beaucoup ___ livres. ② J'ai deux ___ livres. ③ J'ai un kilo ___ tomates.",
+              "explain": "beaucoup est suivi de « de » + nom ; le nombre cardinal deux modifie directement le nom, sans de ; après le nom de quantité un kilo, de introduit le contenu."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x1-q7",
@@ -2011,7 +2835,13 @@
           ],
           "answer": 1,
           "translation": "一杯水；很多学生。",
-          "explain": "un verre 是数量名词，后接 de + 内容；beaucoup 是数量副词，后接 de + 名词。de 在元音前都省音为 d'：d'eau、d'étudiants。"
+          "explain": "un verre 是数量名词，后接 de + 内容；beaucoup 是数量副词，后接 de + 名词。de 在元音前都省音为 d'：d'eau、d'étudiants。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la série de formes correctes : un verre ___ eau ; beaucoup ___ étudiants",
+              "explain": "un verre est un nom de quantité suivi de « de » + contenu ; beaucoup est un adverbe de quantité suivi de de + nom. Devant une voyelle, de s'élide en d' dans les deux cas : d'eau, d'étudiants."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x1-q8",
@@ -2025,7 +2855,13 @@
           ],
           "answer": 3,
           "translation": "有一个问题和一个解决办法。",
-          "explain": "problème 是阳性，用 un；solution 是阴性，用 une。冠词要与名词性数配合。"
+          "explain": "problème 是阳性，用 un；solution 是阴性，用 une。冠词要与名词性数配合。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la série de formes correctes (première mention d'un problème et d'une solution, tous deux indéfinis) : Il y a ___ problème et ___ solution.",
+              "explain": "problème est masculin : un ; solution est féminin : une. L'article s'accorde avec le nom en genre et en nombre."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x1-q9",
@@ -2039,7 +2875,13 @@
           ],
           "answer": 0,
           "translation": "识别两个短语的意义差别。",
-          "explain": "livre 的性别改变词义：un livre 是“书”，une livre 是“磅”（重量单位，也可指旧货币单位）。这是词汇性别对，不是同一意义的两种冠词。"
+          "explain": "livre 的性别改变词义：un livre 是“书”，une livre 是“磅”（重量单位，也可指旧货币单位）。这是词汇性别对，不是同一意义的两种冠词。",
+          "locales": {
+            "fr": {
+              "prompt": "Reconnaissez la différence de sens entre un livre et une livre :",
+              "explain": "Le genre change le sens de livre : un livre est « un ouvrage », une livre est « une livre » (unité de poids, aussi ancienne unité monétaire). C'est une paire lexicale où le genre distingue le sens, non deux articles pour un même sens."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x1-q10",
@@ -2053,9 +2895,20 @@
           ],
           "answer": 2,
           "translation": "在市场，我买一些蔬菜和一些面包；我喜欢新鲜面包。",
-          "explain": "légumes 可数复数，用 des；pain 不可数，买一些用部分冠词 du；表达喜好、泛指类别用定冠词 le pain。"
+          "explain": "légumes 可数复数，用 des；pain 不可数，买一些用部分冠词 du；表达喜好、泛指类别用定冠词 le pain。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la série de formes correctes (légumes non définis, on en achète quelques-uns ; pain d'abord acheté en quantité, puis goût général) : Au marché, j'achète ___ légumes et ___ pain. J'aime ___ pain frais.",
+              "explain": "légumes est comptable pluriel : des ; pain est non comptable, et « en acheter un peu » appelle le partitif du ; pour le goût général et la catégorie, on emploie l'article défini le pain."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse : genre, nombre, articles et quantité"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-x2",
@@ -2075,7 +2928,13 @@
           ],
           "answer": 0,
           "translation": "我想到这些细节；我谈论这些动物。",
-          "explain": "①au（à+le）变复数 aux（à+les），détail 以 -ail 结尾多数加 -s 成 détails；②de+l'animal 变复数 de+les→des，animal 以 -al 结尾变 animaux。"
+          "explain": "①au（à+le）变复数 aux（à+les），détail 以 -ail 结尾多数加 -s 成 détails；②de+l'animal 变复数 de+les→des，animal 以 -al 结尾变 animaux。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez au pluriel tous les référents des deux phrases (y compris les noms après préposition), en gardant les correspondances ; gardez le sujet et la forme verbale : Je pense au détail. / Je parle de l'animal.",
+              "explain": "① au (à + le) devient aux (à + les) au pluriel, et détail, nom en -ail le plus souvent traité par -s, devient détails ; ② de + l'animal devient de + les → des, et animal en -al devient animaux."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x2-q2",
@@ -2089,7 +2948,13 @@
           ],
           "answer": 1,
           "translation": "沙堡（复数）；传家珠宝（复数）；烹饪书（复数）。",
-          "explain": "un→des；château→châteaux（-eau 加 -x）；bijou→bijoux（-ou 七个加 -x 的词之一）；livre→livres（一般加 -s）。de 补语保持不变。"
+          "explain": "un→des；château→châteaux（-eau 加 -x）；bijou→bijoux（-ou 七个加 -x 的词之一）；livre→livres（一般加 -s）。de 补语保持不变。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez au pluriel le nom noyau des trois groupes (laissez les compléments de inchangés) : un château de sable / un bijou de famille / un livre de cuisine",
+              "explain": "un → des ; château → châteaux (-eau + -x) ; bijou → bijoux (l'un des sept mots en -ou qui prennent -x) ; livre → livres (-s général). Les compléments de restent inchangés."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x2-q3",
@@ -2103,7 +2968,13 @@
           ],
           "answer": 2,
           "translation": "这些票价；这个学生的几个选择。",
-          "explain": "le→les；prix 以 -x 结尾、choix 以 -x 结尾，复数不变；du billet 和 de l'élève 是已给补语，本题保持原数和原所属，不把补语改复数。"
+          "explain": "le→les；prix 以 -x 结尾、choix 以 -x 结尾，复数不变；du billet 和 de l'élève 是已给补语，本题保持原数和原所属，不把补语改复数。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez au pluriel le nom noyau des deux groupes (laissez les compléments de inchangés) : le prix du billet / le choix de l'élève",
+              "explain": "le → les ; prix se termine par -x et choix par -x : ils restent identiques au pluriel ; du billet et de l'élève sont des compléments donnés, dont on garde ici le nombre et l'appartenance, sans les mettre au pluriel."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x2-q4",
@@ -2117,7 +2988,13 @@
           ],
           "answer": 3,
           "translation": "娃娃的眼睛（复数）。",
-          "explain": "œil→yeux，冠词 l' 相应改为 les；de la poupée 保持不变。des yeux 会改变定指，les œils 不是标准复数。"
+          "explain": "œil→yeux，冠词 l' 相应改为 les；de la poupée 保持不变。des yeux 会改变定指，les œils 不是标准复数。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez seulement œil au pluriel (l'article l' s'ajuste) et laissez le complément de inchangé : l'œil de la poupée",
+              "explain": "œil → yeux, et l'article l' devient les ; de la poupée reste inchangé. des yeux changerait le sens défini, et les œils n'est pas le pluriel standard."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x2-q5",
@@ -2131,7 +3008,13 @@
           ],
           "answer": 0,
           "translation": "他有一双蓝眼睛。",
-          "explain": "œil→yeux，un→les（身体部位外观用定冠词），形容词 bleu 随复数变 bleus（形式已给，本题不考形容词词形）。des yeux bleus/ses yeux bleus 在别的语境可成立，但不符合本题指定的外观描述模式。"
+          "explain": "œil→yeux，un→les（身体部位外观用定冠词），形容词 bleu 随复数变 bleus（形式已给，本题不考形容词词形）。des yeux bleus/ses yeux bleus 在别的语境可成立，但不符合本题指定的外观描述模式。",
+          "locales": {
+            "fr": {
+              "prompt": "Selon le modèle de la leçon « article défini pour décrire l'apparence », mettez au pluriel Il a un œil bleu (la forme de l'adjectif bleus est donnée) :",
+              "explain": "œil → yeux, un → les (article défini pour l'apparence d'une partie du corps), et l'adjectif bleu suit le pluriel en bleus (forme donnée ; cette question ne porte pas sur la forme de l'adjectif). des yeux bleus/ses yeux bleus sont possibles dans d'autres contextes, mais ne correspondent pas au modèle demandé."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x2-q6",
@@ -2145,7 +3028,13 @@
           ],
           "answer": 1,
           "translation": "几台咖啡机。",
-          "explain": "une→des，machine→machines；à café 是用途补语，保持 à，不加冠词，也不变成 de；café 在这个固定搭配中保持单数。"
+          "explain": "une→des，machine→machines；à café 是用途补语，保持 à，不加冠词，也不变成 de；café 在这个固定搭配中保持单数。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez une machine à café au pluriel.",
+              "explain": "une → des, machine → machines ; à café est un complément d'usage : on garde à, sans article, et on ne le change pas en de ; café reste au singulier dans cette collocation figée."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x2-q7",
@@ -2159,7 +3048,13 @@
           ],
           "answer": 2,
           "translation": "这些学校的名字。",
-          "explain": "le→les，nom→noms；de+l'école 变复数 de+les→des écoles，省音冠词 l' 不再出现。"
+          "explain": "le→les，nom→noms；de+l'école 变复数 de+les→des écoles，省音冠词 l' 不再出现。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez le nom de l'école au pluriel : tous les référents deviennent multiples (y compris le nom après de), en gardant la relation d'appartenance.",
+              "explain": "le → les, nom → noms ; de + l'école au pluriel devient de + les → des écoles, et l'article élidé l' disparaît."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x2-q8",
@@ -2173,7 +3068,13 @@
           ],
           "answer": 3,
           "translation": "识别“她刷牙”中身体部位前的冠词选择。",
-          "explain": "se brosser 后身体部位通常用定冠词 les：Elle se brosse les dents。ses 强调所属；des 是复数不定冠词，形式本身能与 dents 搭配，但不符合本题指定的定冠词模式；la 与复数 dents 不配合。仅识别，不要求产出代词式句子。"
+          "explain": "se brosser 后身体部位通常用定冠词 les：Elle se brosse les dents。ses 强调所属；des 是复数不定冠词，形式本身能与 dents 搭配，但不符合本题指定的定冠词模式；la 与复数 dents 不配合。仅识别，不要求产出代词式句子。",
+          "locales": {
+            "fr": {
+              "prompt": "Reconnaissez : Elle se brosse ___ dents. (action de se brosser les dents) Choisissez, pour la partie du corps après un verbe pronominal, l'article qui correspond au modèle de la leçon.",
+              "explain": "Après se brosser, la partie du corps est normalement précédée de l'article défini les : Elle se brosse les dents. ses insiste sur l'appartenance ; des est l'article indéfini pluriel et peut se construire avec dents, mais ne correspond pas au modèle défini demandé ; la ne s'accorde pas avec le pluriel dents. Cette question ne demande que de reconnaître, pas de produire une phrase pronominale."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x2-q9",
@@ -2187,7 +3088,13 @@
           ],
           "answer": 0,
           "translation": "几瓶葡萄酒；几个城市居民。",
-          "explain": "une/un→des；bouteille→bouteilles，habitant→habitants；de vin 是内容补语，不带冠词；de la ville 中 de+la 保持分写。"
+          "explain": "une/un→des；bouteille→bouteilles，habitant→habitants；de vin 是内容补语，不带冠词；de la ville 中 de+la 保持分写。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez au pluriel le nom noyau des deux groupes (laissez les compléments de inchangés) : une bouteille de vin / un habitant de la ville",
+              "explain": "une/un → des ; bouteille → bouteilles, habitant → habitants ; de vin est un complément de contenu sans article ; dans de la ville, de + la reste séparé."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-x2-q10",
@@ -2201,9 +3108,30 @@
           ],
           "answer": 1,
           "translation": "这些票的价格。",
-          "explain": "le→les，prix 单复数同形，billet→billets；du（de+le）变复数 des（de+les）。"
+          "explain": "le→les，prix 单复数同形，billet→billets；du（de+le）变复数 des（de+les）。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez au pluriel tous les référents du groupe le prix du billet (y compris le nom après du), en gardant la relation d'appartenance.",
+              "explain": "le → les, prix reste identique au pluriel, billet → billets ; du (de + le) devient des (de + les) au pluriel."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse : pluriel, compléments et contractions"
+        }
+      }
     }
-  ]
+  ],
+  "locales": {
+    "fr": {
+      "sectionTitles": {
+        "s1": "Genre et nombre du nom, sens et terminaisons",
+        "s2": "Formes du féminin, irrégularités et noms composés",
+        "s3": "Pluriel et expressions de quantité",
+        "s4": "Compléments du nom et passage du singulier au pluriel"
+      }
+    }
+  }
 }

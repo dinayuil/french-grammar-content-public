@@ -6,127 +6,277 @@
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u1-1",
       "title": "简单指示代词：celui, celle, ceux, celles",
-      "body": "<p>简单指示代词只有四个形式：celui（阳性单数）、celle（阴性单数）、ceux（阳性复数）、celles（阴性复数），用来代替上文已经提到的名词，避免重复。性、数必须与所代替的名词一致，不能被邻近的其他名词带偏。</p><ul><li>J'ai acheté ce manteau ; celui de ma sœur est plus léger.（我买了这件大衣；我姐姐那件更轻。）——celui 代替 manteau，阳性单数</li><li>Cette robe est jolie, mais celle de ta sœur est plus élégante.（这条裙子很漂亮，但你姐姐那条更优雅。）——celle 代替 robe，阴性单数</li><li>Ces livres sont à moi ; ceux de la bibliothèque sont plus récents.（这些书是我的；图书馆那些更新。）——ceux 代替 livres，阳性复数</li><li>Mes photos sont ici ; celles de Paul sont sur la table.（我的照片在这里；保罗的在桌上。）——celles 代替 photos，阴性复数</li></ul><p>要点：</p><ul><li>需要指示意义时要用 celui/celle/ceux/celles，不能只用一个定冠词代替。</li><li>后面常接 de 短语说明所属或出处；也可由关系从句限定。</li><li>代词本身不再重复名词：不说 *celui livre。</li></ul>"
+      "body": "<p>简单指示代词只有四个形式：celui（阳性单数）、celle（阴性单数）、ceux（阳性复数）、celles（阴性复数），用来代替上文已经提到的名词，避免重复。性、数必须与所代替的名词一致，不能被邻近的其他名词带偏。</p><ul><li>J'ai acheté ce manteau ; celui de ma sœur est plus léger.（我买了这件大衣；我姐姐那件更轻。）——celui 代替 manteau，阳性单数</li><li>Cette robe est jolie, mais celle de ta sœur est plus élégante.（这条裙子很漂亮，但你姐姐那条更优雅。）——celle 代替 robe，阴性单数</li><li>Ces livres sont à moi ; ceux de la bibliothèque sont plus récents.（这些书是我的；图书馆那些更新。）——ceux 代替 livres，阳性复数</li><li>Mes photos sont ici ; celles de Paul sont sur la table.（我的照片在这里；保罗的在桌上。）——celles 代替 photos，阴性复数</li></ul><p>要点：</p><ul><li>需要指示意义时要用 celui/celle/ceux/celles，不能只用一个定冠词代替。</li><li>后面常接 de 短语说明所属或出处；也可由关系从句限定。</li><li>代词本身不再重复名词：不说 *celui livre。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "Pronoms démonstratifs simples : celui, celle, ceux, celles",
+          "body": "<p>Les pronoms démonstratifs simples n'ont que quatre formes : celui (masculin singulier), celle (féminin singulier), ceux (masculin pluriel), celles (féminin pluriel). Ils remplacent un nom déjà mentionné pour éviter une répétition. Le genre et le nombre doivent correspondre au nom remplacé, sans se laisser influencer par un autre nom voisin.</p><ul><li>J'ai acheté ce manteau ; celui de ma sœur est plus léger. — celui remplace manteau, masculin singulier</li><li>Cette robe est jolie, mais celle de ta sœur est plus élégante. — celle remplace robe, féminin singulier</li><li>Ces livres sont à moi ; ceux de la bibliothèque sont plus récents. — ceux remplace livres, masculin pluriel</li><li>Mes photos sont ici ; celles de Paul sont sur la table. — celles remplace photos, féminin pluriel</li></ul><p>Points essentiels :</p><ul><li>Quand une valeur démonstrative est nécessaire, employer celui/celle/ceux/celles ; un simple article défini ne suffit pas à remplacer le nom.</li><li>Ces pronoms sont souvent suivis d'un groupe en de indiquant l'appartenance ou l'origine ; ils peuvent aussi être déterminés par une proposition relative.</li><li>Le pronom ne répète pas le nom : on n'écrit pas *celui livre.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u1-2",
       "title": "复合指示代词：celui-ci, celle-là 与近远对举",
-      "body": "<p>复合指示代词由简单形式加 -ci 或 -là 构成：celui-ci、celui-là、celle-ci、celle-là、ceux-ci、ceux-là、celles-ci、celles-là。-ci 传统上指较近的人或物，-là 指较远的人或物；对举时常用「这个……那个……」的结构。</p><ul><li>Tu préfères cette chemise ou celle-là ?（你喜欢这件衬衫还是那件？）</li><li>Prends ce livre-ci ; celui-là est trop lourd.（拿这本；那本太重了。）</li><li>Ces chaussures-ci sont confortables, mais celles-là sont plus jolies.（这些鞋很舒服，但那些更漂亮。）</li><li>Il y a deux candidats : celui-ci est très expérimenté, celui-là est plus jeune.（有两个候选人：这位经验丰富，那位更年轻。）</li></ul><p>要点：</p><ul><li>性数仍由所代替的名词决定：celle-ci 代替阴性单数，ceux-là 代替阳性复数。</li><li>口语中的 -là 不一定真的指远处，常只表示「另一个/那个」，不能只凭空间距离判断。</li><li>复数先行词可以整体用复数代词回指，也可以按个体逐一用单数代词：Ces deux tableaux ? Ceux-ci sont de Monet, ceux-là de Renoir. / Ces deux robes ? Celle de gauche est en soie, celle de droite en coton.</li></ul><p>注意：复合形式与简单形式的选择，要看是否需要明确区分近远或进行对举。</p>"
+      "body": "<p>复合指示代词由简单形式加 -ci 或 -là 构成：celui-ci、celui-là、celle-ci、celle-là、ceux-ci、ceux-là、celles-ci、celles-là。-ci 传统上指较近的人或物，-là 指较远的人或物；对举时常用「这个……那个……」的结构。</p><ul><li>Tu préfères cette chemise ou celle-là ?（你喜欢这件衬衫还是那件？）</li><li>Prends ce livre-ci ; celui-là est trop lourd.（拿这本；那本太重了。）</li><li>Ces chaussures-ci sont confortables, mais celles-là sont plus jolies.（这些鞋很舒服，但那些更漂亮。）</li><li>Il y a deux candidats : celui-ci est très expérimenté, celui-là est plus jeune.（有两个候选人：这位经验丰富，那位更年轻。）</li></ul><p>要点：</p><ul><li>性数仍由所代替的名词决定：celle-ci 代替阴性单数，ceux-là 代替阳性复数。</li><li>口语中的 -là 不一定真的指远处，常只表示「另一个/那个」，不能只凭空间距离判断。</li><li>复数先行词可以整体用复数代词回指，也可以按个体逐一用单数代词：Ces deux tableaux ? Ceux-ci sont de Monet, ceux-là de Renoir. / Ces deux robes ? Celle de gauche est en soie, celle de droite en coton.</li></ul><p>注意：复合形式与简单形式的选择，要看是否需要明确区分近远或进行对举。</p>",
+      "locales": {
+        "fr": {
+          "title": "Pronoms démonstratifs composés : celui-ci, celle-là et l'opposition proche/loin",
+          "body": "<p>Les pronoms démonstratifs composés se forment sur la forme simple + -ci ou -là : celui-ci, celui-là, celle-ci, celle-là, ceux-ci, ceux-là, celles-ci, celles-là. -ci désigne traditionnellement l'être ou la chose plus proche, -là le plus éloigné ; dans une opposition, on emploie couramment la structure « celui-ci... celui-là ».</p><ul><li>Tu préfères cette chemise ou celle-là ?</li><li>Prends ce livre-ci ; celui-là est trop lourd.</li><li>Ces chaussures-ci sont confortables, mais celles-là sont plus jolies.</li><li>Il y a deux candidats : celui-ci est très expérimenté, celui-là est plus jeune.</li></ul><p>Points essentiels :</p><ul><li>Le genre et le nombre restent ceux du nom remplacé : celle-ci remplace un féminin singulier, ceux-là un masculin pluriel.</li><li>À l'oral, -là ne renvoie pas nécessairement à un objet éloigné : il signifie souvent seulement « l'autre, celui dont je parle », et la distance spatiale ne suffit pas à décider.</li><li>Un antécédent pluriel peut être repris globalement par un pronom pluriel ou distribué en pronoms singuliers : Ces deux tableaux ? Ceux-ci sont de Monet, ceux-là de Renoir. / Ces deux robes ? Celle de gauche est en soie, celle de droite en coton.</li></ul><p>Attention : le choix entre forme simple et forme composée dépend de la nécessité de distinguer le proche et le loin ou d'opposer deux éléments.</p>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u1-3",
       "title": "de 补语与缩合：celui du, celles des",
-      "body": "<p>简单指示代词后接 de + 定冠词 + 名词，用来说明所属或出处。此时 de 与定冠词缩合：de + le = du，de + les = des；de + la 和 de + l' 不缩合。</p><ul><li>le stylo du directeur → celui du directeur（主任的那支笔）</li><li>les livres des étudiants → ceux des étudiants（学生们的那些书）</li><li>la robe de la voisine → celle de la voisine（女邻居的那条裙子）</li><li>les photos de l'exposition → celles de l'exposition（展览的那些照片）</li></ul><p>注意：缩合看 de 后面的定冠词名词的性与数，不看指示代词本身。</p><ul><li>celui du directeur（指示代词阳性单数，补语 directeur 也是阳性单数）</li><li>celle du directeur（指示代词阴性，但补语仍是阳性单数 directeur，所以仍用 du）</li><li>ceux des étudiantes（补语是阴性复数 étudiantes，定冠词 les 仍缩合为 des）</li></ul><p>要点：</p><ul><li>不能说 *celui de le directeur、*ceux de les étudiants。</li><li>de + la / de + l' 保留：celle de la directrice、ceux de l'école。</li><li>上下文允许单复数两种解读时，按语义判断：Je préfère celui de Marie 可能指「玛丽的那一个」，若指多件则用 ceux de Marie。</li></ul>"
+      "body": "<p>简单指示代词后接 de + 定冠词 + 名词，用来说明所属或出处。此时 de 与定冠词缩合：de + le = du，de + les = des；de + la 和 de + l' 不缩合。</p><ul><li>le stylo du directeur → celui du directeur（主任的那支笔）</li><li>les livres des étudiants → ceux des étudiants（学生们的那些书）</li><li>la robe de la voisine → celle de la voisine（女邻居的那条裙子）</li><li>les photos de l'exposition → celles de l'exposition（展览的那些照片）</li></ul><p>注意：缩合看 de 后面的定冠词名词的性与数，不看指示代词本身。</p><ul><li>celui du directeur（指示代词阳性单数，补语 directeur 也是阳性单数）</li><li>celle du directeur（指示代词阴性，但补语仍是阳性单数 directeur，所以仍用 du）</li><li>ceux des étudiantes（补语是阴性复数 étudiantes，定冠词 les 仍缩合为 des）</li></ul><p>要点：</p><ul><li>不能说 *celui de le directeur、*ceux de les étudiants。</li><li>de + la / de + l' 保留：celle de la directrice、ceux de l'école。</li><li>上下文允许单复数两种解读时，按语义判断：Je préfère celui de Marie 可能指「玛丽的那一个」，若指多件则用 ceux de Marie。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "Complément en de et contraction : celui du, celles des",
+          "body": "<p>Le pronom démonstratif simple peut être suivi de de + article défini + nom pour indiquer l'appartenance ou l'origine. de se contracte alors avec l'article défini : de + le = du, de + les = des ; de + la et de + l' restent inchangés.</p><ul><li>le stylo du directeur → celui du directeur</li><li>les livres des étudiants → ceux des étudiants</li><li>la robe de la voisine → celle de la voisine</li><li>les photos de l'exposition → celles de l'exposition</li></ul><p>Attention : la contraction dépend du genre et du nombre du nom introduit par de, non du pronom démonstratif lui-même.</p><ul><li>celui du directeur — pronom masculin singulier, complément directeur également masculin singulier</li><li>celle du directeur — pronom féminin, mais le complément directeur reste masculin singulier, donc du</li><li>ceux des étudiantes — le complément est féminin pluriel étudiantes, mais l'article les se contracte encore en des</li></ul><p>Points essentiels :</p><ul><li>Ne pas écrire *celui de le directeur ni *ceux de les étudiants.</li><li>de + la / de + l' restent séparés : celle de la directrice, ceux de l'école.</li><li>Quand le contexte permet le singulier et le pluriel, décider d'après le sens : Je préfère celui de Marie peut désigner un seul objet ; pour plusieurs, ceux de Marie.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u1-4",
       "title": "整体回指与个体回指：简单式、复合式怎么选",
-      "body": "<p>同一个复数先行词，可以用复数指示代词整体回指，也可以按个体分别用单数代词。选择取决于说话人想把它们看成一个集合，还是逐一点明。</p><p>整体：</p><ul><li>Ces robes ? Celles de gauche sont en soie.（那些裙子？左边那些是丝绸的。）——celles 整体回指多条裙子</li><li>Les romans de cet auteur ? Ceux de sa première période sont passionnants.（这位作者的小说？他早期那些很精彩。）——ceux 整体回指小说</li></ul><p>个体：</p><ul><li>Ces deux robes ? Celle de gauche est en soie, celle de droite en coton.（左边那条是丝绸，右边那条是棉的。）</li><li>Ces deux garçons ? Celui-ci est mon frère, celui-là mon cousin.（这两个男孩？这位是我哥哥，那位是我表弟。）</li></ul><p>简单式 vs 复合式：</p><ul><li>只回指、不区分近远：Je préfère celui de Marie.（我更喜欢玛丽那个。）</li><li>需要明确「这个/那个」：Je préfère celui-ci.（我更喜欢这个。）</li><li>有 de 补语时通常用简单形式：ceux de la classe；复合形式一般不再接 de 补语，不说 *ceux-ci de la classe。</li></ul><p>注意：口语 -là 的语用色彩要结合语境判断，不能机械对应「远」。</p>"
+      "body": "<p>同一个复数先行词，可以用复数指示代词整体回指，也可以按个体分别用单数代词。选择取决于说话人想把它们看成一个集合，还是逐一点明。</p><p>整体：</p><ul><li>Ces robes ? Celles de gauche sont en soie.（那些裙子？左边那些是丝绸的。）——celles 整体回指多条裙子</li><li>Les romans de cet auteur ? Ceux de sa première période sont passionnants.（这位作者的小说？他早期那些很精彩。）——ceux 整体回指小说</li></ul><p>个体：</p><ul><li>Ces deux robes ? Celle de gauche est en soie, celle de droite en coton.（左边那条是丝绸，右边那条是棉的。）</li><li>Ces deux garçons ? Celui-ci est mon frère, celui-là mon cousin.（这两个男孩？这位是我哥哥，那位是我表弟。）</li></ul><p>简单式 vs 复合式：</p><ul><li>只回指、不区分近远：Je préfère celui de Marie.（我更喜欢玛丽那个。）</li><li>需要明确「这个/那个」：Je préfère celui-ci.（我更喜欢这个。）</li><li>有 de 补语时通常用简单形式：ceux de la classe；复合形式一般不再接 de 补语，不说 *ceux-ci de la classe。</li></ul><p>注意：口语 -là 的语用色彩要结合语境判断，不能机械对应「远」。</p>",
+      "locales": {
+        "fr": {
+          "title": "Reprise collective ou individuelle : choisir entre forme simple et forme composée",
+          "body": "<p>Un même antécédent pluriel peut être repris globalement par un pronom démonstratif pluriel, ou distribué en pronoms singuliers. Le choix dépend de l'intention : considérer l'ensemble comme une collection ou désigner chaque élément séparément.</p><p>Reprise collective :</p><ul><li>Ces robes ? Celles de gauche sont en soie. — celles reprend globalement plusieurs robes</li><li>Les romans de cet auteur ? Ceux de sa première période sont passionnants. — ceux reprend globalement les romans</li></ul><p>Reprise individuelle :</p><ul><li>Ces deux robes ? Celle de gauche est en soie, celle de droite en coton.</li><li>Ces deux garçons ? Celui-ci est mon frère, celui-là mon cousin.</li></ul><p>Forme simple ou composée :</p><ul><li>Simple reprise, sans distinction de proximité : Je préfère celui de Marie.</li><li>Distinction explicite « ceci/cela » : Je préfère celui-ci.</li><li>Avec un complément en de, on emploie généralement la forme simple : ceux de la classe ; la forme composée ne reçoit normalement pas de complément en de, et l'on n'écrit pas *ceux-ci de la classe.</li></ul><p>Attention : la valeur d'usage de -là à l'oral dépend du contexte et ne correspond pas mécaniquement à « loin ».</p>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u2-1",
       "title": "主有代词的形式：定冠词 + 主有词干",
-      "body": "<p>主有代词代替「定冠词 + 主有形容词 + 名词」，形式由「定冠词 + 主有词干」构成。它同时携带两个信息：主有者是谁（人称与单复数），以及被拥有名词的性与数。</p><p>第一、二人称及第三人称单数 mien/tien/sien 类：</p><ul><li>je：le mien / la mienne / les miens / les miennes</li><li>tu：le tien / la tienne / les tiens / les tiennes</li><li>il/elle：le sien / la sienne / les siens / les siennes</li></ul><p>nôtre/vôtre/leur 类（词干本身不分性别）：</p><ul><li>nous：le nôtre / la nôtre / les nôtres</li><li>vous：le vôtre / la vôtre / les vôtres</li><li>ils/elles：le leur / la leur / les leurs</li></ul><p>例：</p><ul><li>Mon vélo est cassé ; prête-moi le tien.（我的自行车坏了；把你的借我。）</li><li>Tes clés ? Elles sont sur la table ; les miennes sont dans mon sac.（你的钥匙？在桌上；我的在包里。）</li><li>Leur maison est grande, mais la nôtre est plus ancienne.（他们的房子大，但我们的更老。）</li></ul><p>要点：</p><ul><li>mien/tien/sien 类四个形式都不同，必须逐格记。</li><li>nôtre/vôtre 类词干不分性别：单数靠冠词 le/la 区分，复数阴阳同形 les nôtres / les vôtres。</li><li>nôtre、vôtre 带长音符号，注意与主有形容词 notre、votre 区分。</li></ul>"
+      "body": "<p>主有代词代替「定冠词 + 主有形容词 + 名词」，形式由「定冠词 + 主有词干」构成。它同时携带两个信息：主有者是谁（人称与单复数），以及被拥有名词的性与数。</p><p>第一、二人称及第三人称单数 mien/tien/sien 类：</p><ul><li>je：le mien / la mienne / les miens / les miennes</li><li>tu：le tien / la tienne / les tiens / les tiennes</li><li>il/elle：le sien / la sienne / les siens / les siennes</li></ul><p>nôtre/vôtre/leur 类（词干本身不分性别）：</p><ul><li>nous：le nôtre / la nôtre / les nôtres</li><li>vous：le vôtre / la vôtre / les vôtres</li><li>ils/elles：le leur / la leur / les leurs</li></ul><p>例：</p><ul><li>Mon vélo est cassé ; prête-moi le tien.（我的自行车坏了；把你的借我。）</li><li>Tes clés ? Elles sont sur la table ; les miennes sont dans mon sac.（你的钥匙？在桌上；我的在包里。）</li><li>Leur maison est grande, mais la nôtre est plus ancienne.（他们的房子大，但我们的更老。）</li></ul><p>要点：</p><ul><li>mien/tien/sien 类四个形式都不同，必须逐格记。</li><li>nôtre/vôtre 类词干不分性别：单数靠冠词 le/la 区分，复数阴阳同形 les nôtres / les vôtres。</li><li>nôtre、vôtre 带长音符号，注意与主有形容词 notre、votre 区分。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "Forme des pronoms possessifs : article défini + radical possessif",
+          "body": "<p>Le pronom possessif remplace « article défini + adjectif possessif + nom » ; sa forme se compose d'un article défini et d'un radical possessif. Il porte deux informations : l'identité du possesseur (personne et nombre) et le genre et le nombre du nom possédé.</p><p>1re et 2e personnes, et 3e personne du singulier, type mien/tien/sien :</p><ul><li>je : le mien / la mienne / les miens / les miennes</li><li>tu : le tien / la tienne / les tiens / les tiennes</li><li>il/elle : le sien / la sienne / les siens / les siennes</li></ul><p>Type nôtre/vôtre/leur (radical non marqué en genre) :</p><ul><li>nous : le nôtre / la nôtre / les nôtres</li><li>vous : le vôtre / la vôtre / les vôtres</li><li>ils/elles : le leur / la leur / les leurs</li></ul><p>Exemples :</p><ul><li>Mon vélo est cassé ; prête-moi le tien.</li><li>Tes clés ? Elles sont sur la table ; les miennes sont dans mon sac.</li><li>Leur maison est grande, mais la nôtre est plus ancienne.</li></ul><p>Points essentiels :</p><ul><li>Les quatre formes mien/tien/sien sont toutes différentes et doivent être apprises une par une.</li><li>Le radical nôtre/vôtre ne distingue pas le genre : le singulier se marque par l'article le/la, et le pluriel est identique pour les deux genres : les nôtres / les vôtres.</li><li>nôtre et vôtre portent un accent circonflexe, à distinguer des adjectifs possessifs notre et votre.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u2-2",
       "title": "选形：先看主有者，再看被拥有名词",
-      "body": "<p>选主有代词的顺序：先看主有者的人称和单复数，确定词干；再看被拥有名词的性与数，确定冠词和词尾。</p><p>例：</p><ul><li>J'ai perdu mon stylo. → Peux-tu me prêter le tien ?（我丢了钢笔。能把你的借我吗？）——主有者 tu，被拥有名词 stylo 阳性单数</li><li>J'ai perdu mes lunettes. → Peux-tu me prêter les tiennes ?（我丢了眼镜。能把你的借我吗？）——主有者 tu，lunettes 阴性复数</li><li>Paul a vendu sa voiture. → Sophie a vendu la sienne aussi.（保罗卖了他的车。索菲也卖了她的。）——主有者 elle，voiture 阴性单数；主有者性别不影响词干，仍是 sien 类</li><li>Mes parents ont invité leurs amis ; nous avons invité les nôtres.（我父母邀请了他们的朋友；我们邀请了我们的。）——主有者 nous，amis 阳性复数</li></ul><p>判断要点：</p><ul><li>主有者是「谁」决定 mien/tien/sien/nôtre/vôtre/leur 这一组，而不是被拥有者的性别。</li><li>被拥有名词的性数决定 le/la/les 与 -ien/-ienne/-iens/-iennes 等词尾。</li><li>同一个主有者可以对应多个形式：mon frère → le mien；ma sœur → la mienne；mes frères → les miens；mes sœurs → les miennes。</li></ul><p>注意：主有形容词（mon/ton/son...）与主有代词的分工不同。</p>"
+      "body": "<p>选主有代词的顺序：先看主有者的人称和单复数，确定词干；再看被拥有名词的性与数，确定冠词和词尾。</p><p>例：</p><ul><li>J'ai perdu mon stylo. → Peux-tu me prêter le tien ?（我丢了钢笔。能把你的借我吗？）——主有者 tu，被拥有名词 stylo 阳性单数</li><li>J'ai perdu mes lunettes. → Peux-tu me prêter les tiennes ?（我丢了眼镜。能把你的借我吗？）——主有者 tu，lunettes 阴性复数</li><li>Paul a vendu sa voiture. → Sophie a vendu la sienne aussi.（保罗卖了他的车。索菲也卖了她的。）——主有者 elle，voiture 阴性单数；主有者性别不影响词干，仍是 sien 类</li><li>Mes parents ont invité leurs amis ; nous avons invité les nôtres.（我父母邀请了他们的朋友；我们邀请了我们的。）——主有者 nous，amis 阳性复数</li></ul><p>判断要点：</p><ul><li>主有者是「谁」决定 mien/tien/sien/nôtre/vôtre/leur 这一组，而不是被拥有者的性别。</li><li>被拥有名词的性数决定 le/la/les 与 -ien/-ienne/-iens/-iennes 等词尾。</li><li>同一个主有者可以对应多个形式：mon frère → le mien；ma sœur → la mienne；mes frères → les miens；mes sœurs → les miennes。</li></ul><p>注意：主有形容词（mon/ton/son...）与主有代词的分工不同。</p>",
+      "locales": {
+        "fr": {
+          "title": "Choisir la forme : d'abord le possesseur, puis le nom possédé",
+          "body": "<p>Pour choisir un pronom possessif : déterminer d'abord la personne et le nombre du possesseur, qui fixent le radical ; puis le genre et le nombre du nom possédé, qui fixent l'article et la terminaison.</p><p>Exemples :</p><ul><li>J'ai perdu mon stylo. → Peux-tu me prêter le tien ? — possesseur tu, nom possédé stylo masculin singulier</li><li>J'ai perdu mes lunettes. → Peux-tu me prêter les tiennes ? — possesseur tu, lunettes féminin pluriel</li><li>Paul a vendu sa voiture. → Sophie a vendu la sienne aussi. — possesseur elle, voiture féminin singulier ; le sexe du possesseur ne change pas le radical, qui reste du type sien</li><li>Mes parents ont invité leurs amis ; nous avons invité les nôtres. — possesseur nous, amis masculin pluriel</li></ul><p>Points de décision :</p><ul><li>C'est l'identité du possesseur qui détermine le groupe mien/tien/sien/nôtre/vôtre/leur, non le genre de l'objet possédé.</li><li>Le genre et le nombre du nom possédé déterminent le/la/les et les terminaisons -ien/-ienne/-iens/-iennes, etc.</li><li>Un même possesseur peut correspondre à plusieurs formes : mon frère → le mien ; ma sœur → la mienne ; mes frères → les miens ; mes sœurs → les miennes.</li></ul><p>Attention : les adjectifs possessifs (mon/ton/son...) et les pronoms possessifs n'ont pas la même fonction.</p>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u2-3",
       "title": "主有代词的常见错误与对比",
-      "body": "<p>常见错误集中在三处：冠词、性数、长音符号。</p><ol><li>漏掉定冠词：<ul><li>错：Ce livre est mien. 对：Ce livre est le mien.</li><li>错：Ces clés sont miennes. 对：Ces clés sont les miennes.</li></ul></li></ol><ol><li>把 nôtre/vôtre/leur 类当成 mien 类来变：<ul><li>错：*la notre。对：la nôtre。阳性单数是 le nôtre，复数是 les nôtres（阴阳同形）。</li><li>错：*les leur。对：les leurs。复数必须加 -s。</li></ul></li></ol><ol><li>主有者性别误判：<ul><li>Paul parle de sa sœur : « la sienne » 指 Paul 的姐姐/妹妹。主有者是 Paul（男性），但词干仍是 sien 类；不能因为主有者是男性就用 *le sien 来指阴性名词 sœur。</li><li>Marie parle de son frère : « le sien »。</li></ul></li></ol><ol><li>与主有形容词混淆：<ul><li>notre maison（我们的房子，形容词）→ la nôtre（我们的那座，代词）</li><li>votre voiture（你们的车）→ la vôtre</li></ul></li></ol>"
+      "body": "<p>常见错误集中在三处：冠词、性数、长音符号。</p><ol><li>漏掉定冠词：<ul><li>错：Ce livre est mien. 对：Ce livre est le mien.</li><li>错：Ces clés sont miennes. 对：Ces clés sont les miennes.</li></ul></li></ol><ol><li>把 nôtre/vôtre/leur 类当成 mien 类来变：<ul><li>错：*la notre。对：la nôtre。阳性单数是 le nôtre，复数是 les nôtres（阴阳同形）。</li><li>错：*les leur。对：les leurs。复数必须加 -s。</li></ul></li></ol><ol><li>主有者性别误判：<ul><li>Paul parle de sa sœur : « la sienne » 指 Paul 的姐姐/妹妹。主有者是 Paul（男性），但词干仍是 sien 类；不能因为主有者是男性就用 *le sien 来指阴性名词 sœur。</li><li>Marie parle de son frère : « le sien »。</li></ul></li></ol><ol><li>与主有形容词混淆：<ul><li>notre maison（我们的房子，形容词）→ la nôtre（我们的那座，代词）</li><li>votre voiture（你们的车）→ la vôtre</li></ul></li></ol>",
+      "locales": {
+        "fr": {
+          "title": "Erreurs fréquentes et comparaisons avec les pronoms possessifs",
+          "body": "<p>Les erreurs fréquentes portent sur trois points : l'article, le genre et le nombre, et l'accent circonflexe.</p><ol><li>Oublier l'article défini :<ul><li>Faux : Ce livre est mien. Correct : Ce livre est le mien.</li><li>Faux : Ces clés sont miennes. Correct : Ces clés sont les miennes.</li></ul></li></ol><ol><li>Traiter le type nôtre/vôtre/leur comme le type mien :<ul><li>Faux : *la notre. Correct : la nôtre. Le masculin singulier est le nôtre, le pluriel les nôtres (même forme pour les deux genres).</li><li>Faux : *les leur. Correct : les leurs. Le pluriel prend -s.</li></ul></li></ol><ol><li>Se tromper sur le sexe du possesseur :<ul><li>Paul parle de sa sœur : « la sienne » désigne la sœur de Paul. Le possesseur est Paul (masculin), mais le radical reste du type sien ; on n'emploie pas *le sien pour un nom féminin comme sœur.</li><li>Marie parle de son frère : « le sien ».</li></ul></li></ol><ol><li>Confondre avec l'adjectif possessif :<ul><li>notre maison (adjectif) → la nôtre (pronom)</li><li>votre voiture → la vôtre</li></ul></li></ol>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u3-1",
       "title": "un autre / une autre / d'autres：不定限定与泛指代词",
-      "body": "<p>autre 作限定词时，前面通常带不定冠词：un autre + 阳性单数名词，une autre + 阴性单数名词，表示「另一个」。复数用 d'autres + 名词，表示「另外一些」；d' 是 de 在元音前的省音，不是不定冠词 des 的省略。</p><ul><li>Je voudrais un autre café.（我想再来一杯咖啡。）</li><li>Elle a acheté une autre robe.（她又买了一条裙子。）</li><li>Il y a d'autres solutions.（还有别的解决办法。）</li><li>D'autres étudiants sont arrivés.（另一些学生到了。）</li></ul><p>d'autres 也可以单独作泛指代词，后面不再接名词：</p><ul><li>Certains préfèrent le thé ; d'autres préfèrent le café.（有些人喜欢茶；另一些人喜欢咖啡。）</li><li>J'ai déjà lu ce livre ; montre-moi d'autres.（这本我已经读过了；给我看几本别的。）</li></ul><p>要点：</p><ul><li>单数用 un/une autre，复数名词前用 d'autres，不能写 *des autres 来表示「另外一些」。</li><li>d'autres 作代词时是复数泛指，不指特定的「其余那些」；后者要用 les autres。</li><li>autre 是形容词性限定词时，与名词的性数配合只体现在冠词上：un autre / une autre。</li></ul>"
+      "body": "<p>autre 作限定词时，前面通常带不定冠词：un autre + 阳性单数名词，une autre + 阴性单数名词，表示「另一个」。复数用 d'autres + 名词，表示「另外一些」；d' 是 de 在元音前的省音，不是不定冠词 des 的省略。</p><ul><li>Je voudrais un autre café.（我想再来一杯咖啡。）</li><li>Elle a acheté une autre robe.（她又买了一条裙子。）</li><li>Il y a d'autres solutions.（还有别的解决办法。）</li><li>D'autres étudiants sont arrivés.（另一些学生到了。）</li></ul><p>d'autres 也可以单独作泛指代词，后面不再接名词：</p><ul><li>Certains préfèrent le thé ; d'autres préfèrent le café.（有些人喜欢茶；另一些人喜欢咖啡。）</li><li>J'ai déjà lu ce livre ; montre-moi d'autres.（这本我已经读过了；给我看几本别的。）</li></ul><p>要点：</p><ul><li>单数用 un/une autre，复数名词前用 d'autres，不能写 *des autres 来表示「另外一些」。</li><li>d'autres 作代词时是复数泛指，不指特定的「其余那些」；后者要用 les autres。</li><li>autre 是形容词性限定词时，与名词的性数配合只体现在冠词上：un autre / une autre。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "un autre / une autre / d'autres : déterminant indéfini et pronom indéfini",
+          "body": "<p>Comme déterminant, autre est généralement précédé d'un article indéfini : un autre + nom masculin singulier, une autre + nom féminin singulier, pour « un autre ». Au pluriel, d'autres + nom signifie « d'autres » ; le d' est l'élision de de devant une voyelle, et non l'élision de l'article indéfini des.</p><ul><li>Je voudrais un autre café.</li><li>Elle a acheté une autre robe.</li><li>Il y a d'autres solutions.</li><li>D'autres étudiants sont arrivés.</li></ul><p>d'autres peut aussi s'employer seul comme pronom indéfini, sans nom ensuite :</p><ul><li>Certains préfèrent le thé ; d'autres préfèrent le café.</li><li>J'ai déjà lu ce livre ; montre-moi d'autres.</li></ul><p>Points essentiels :</p><ul><li>Au singulier, un/une autre ; devant un nom pluriel, d'autres ; ne pas écrire *des autres pour « d'autres ».</li><li>Comme pronom, d'autres est un indéfini pluriel et ne désigne pas les « autres » déterminés d'un ensemble ; pour ceux-là, employer les autres.</li><li>Quand autre est déterminant adjectival, l'accord en genre et en nombre ne se voit que dans l'article : un autre / une autre.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u3-2",
       "title": "l'autre 与 les autres：定指的「另一个/其余」",
-      "body": "<p>l'autre 是定指的「另一个」，les autres 是定指的「其余那些」。它们用于上文已经确定的范围，性数随所指变化。</p><p>单数：</p><ul><li>J'ai deux sœurs : l'une est médecin, l'autre est avocate.（我有两个姐妹：一个是医生，另一个是律师。）</li><li>Ce livre est abîmé ; prends l'autre.（这本书坏了；拿另一本。）</li></ul><p>复数：</p><ul><li>Trois étudiants sont partis ; les autres sont restés.（三个学生走了；其余的都留下了。）</li><li>Les autres photos sont dans l'album.（其余的照片在相册里。）</li></ul><p>带 de 短语：</p><ul><li>L'autre jour, j'ai rencontré Paul.（前几天我遇到了保罗。）——l'autre jour 是固定时间表达</li><li>Les autres membres du groupe sont absents.（小组的其他成员缺席。）</li></ul><p>要点：</p><ul><li>l'autre 指确定范围内的另一项，通常暗示「两者中的另一个」；un autre 是不定的「随便另一个」。</li><li>les autres 指一个确定群体中除已提到部分之外的全部；d'autres 只表示「另外一些」，不一定是剩下的全部。</li><li>l'autre 中的 autre 形式不变，性数由冠词体现；les autres 加 -s。</li></ul>"
+      "body": "<p>l'autre 是定指的「另一个」，les autres 是定指的「其余那些」。它们用于上文已经确定的范围，性数随所指变化。</p><p>单数：</p><ul><li>J'ai deux sœurs : l'une est médecin, l'autre est avocate.（我有两个姐妹：一个是医生，另一个是律师。）</li><li>Ce livre est abîmé ; prends l'autre.（这本书坏了；拿另一本。）</li></ul><p>复数：</p><ul><li>Trois étudiants sont partis ; les autres sont restés.（三个学生走了；其余的都留下了。）</li><li>Les autres photos sont dans l'album.（其余的照片在相册里。）</li></ul><p>带 de 短语：</p><ul><li>L'autre jour, j'ai rencontré Paul.（前几天我遇到了保罗。）——l'autre jour 是固定时间表达</li><li>Les autres membres du groupe sont absents.（小组的其他成员缺席。）</li></ul><p>要点：</p><ul><li>l'autre 指确定范围内的另一项，通常暗示「两者中的另一个」；un autre 是不定的「随便另一个」。</li><li>les autres 指一个确定群体中除已提到部分之外的全部；d'autres 只表示「另外一些」，不一定是剩下的全部。</li><li>l'autre 中的 autre 形式不变，性数由冠词体现；les autres 加 -s。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "l'autre et les autres : l'autre déterminé et le reste",
+          "body": "<p>l'autre est « l'autre » déterminé, les autres « les autres » déterminés. Ils s'emploient dans un ensemble déjà fixé par le contexte, et varient en genre et en nombre selon le référent.</p><p>Singulier :</p><ul><li>J'ai deux sœurs : l'une est médecin, l'autre est avocate.</li><li>Ce livre est abîmé ; prends l'autre.</li></ul><p>Pluriel :</p><ul><li>Trois étudiants sont partis ; les autres sont restés.</li><li>Les autres photos sont dans l'album.</li></ul><p>Avec un groupe en de :</p><ul><li>L'autre jour, j'ai rencontré Paul. — l'autre jour est une expression de temps figée</li><li>Les autres membres du groupe sont absents.</li></ul><p>Points essentiels :</p><ul><li>l'autre désigne l'autre élément d'un ensemble déterminé, souvent « l'autre des deux » ; un autre est un « autre » indéterminé.</li><li>les autres désigne tout ce qui reste d'un groupe déterminé après ce qui a été mentionné ; d'autres signifie seulement « d'autres », pas nécessairement tout le reste.</li><li>Dans l'autre, autre reste invariable et le genre/nombre se marque dans l'article ; les autres prend -s.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u3-3",
       "title": "l'un...l'autre 与 les uns...les autres",
-      "body": "<p>两者之间的对应或相互关系统一用 l'un...l'autre；群体分组用 les uns...les autres。形式随所指对象的性和数变化：l'une...l'autre、les unes...les autres。</p><p>两者：</p><ul><li>L'un est grand, l'autre est petit.（一个高，一个矮。）</li><li>L'une est médecin, l'autre est avocate.（一个是医生，另一个是律师。）</li><li>Ils s'aident l'un l'autre.（他们互相帮助。）——不加介词时写作 l'un l'autre</li><li>Elles dépendent l'une de l'autre.（她们互相依赖。）——介词按动词搭配：dépendre de</li></ul><p>群体分组：</p><ul><li>Les uns préfèrent le thé, les autres préfèrent le café.（一些人喜欢茶，另一些人喜欢咖啡。）</li><li>Les unes sont arrivées en train, les autres en voiture.（一些人是坐火车到的，另一些是开车。）</li></ul><p>要点：</p><ul><li>单数对举用 l'un...l'autre；复数分组用 les uns...les autres。</li><li>性数跟着所指对象变：全女性用 l'une...l'autre / les unes...les autres。</li><li>相互意义中的介词由动词决定：l'un de l'autre、l'une à l'autre、l'un avec l'autre。</li><li>不能把 l'un...l'autre 与单独使用的 l'autre 混同：前者必须成对出现。</li></ul>"
+      "body": "<p>两者之间的对应或相互关系统一用 l'un...l'autre；群体分组用 les uns...les autres。形式随所指对象的性和数变化：l'une...l'autre、les unes...les autres。</p><p>两者：</p><ul><li>L'un est grand, l'autre est petit.（一个高，一个矮。）</li><li>L'une est médecin, l'autre est avocate.（一个是医生，另一个是律师。）</li><li>Ils s'aident l'un l'autre.（他们互相帮助。）——不加介词时写作 l'un l'autre</li><li>Elles dépendent l'une de l'autre.（她们互相依赖。）——介词按动词搭配：dépendre de</li></ul><p>群体分组：</p><ul><li>Les uns préfèrent le thé, les autres préfèrent le café.（一些人喜欢茶，另一些人喜欢咖啡。）</li><li>Les unes sont arrivées en train, les autres en voiture.（一些人是坐火车到的，另一些是开车。）</li></ul><p>要点：</p><ul><li>单数对举用 l'un...l'autre；复数分组用 les uns...les autres。</li><li>性数跟着所指对象变：全女性用 l'une...l'autre / les unes...les autres。</li><li>相互意义中的介词由动词决定：l'un de l'autre、l'une à l'autre、l'un avec l'autre。</li><li>不能把 l'un...l'autre 与单独使用的 l'autre 混同：前者必须成对出现。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "l'un...l'autre et les uns...les autres",
+          "body": "<p>Pour une relation entre deux éléments, on emploie l'un...l'autre ; pour des groupes, les uns...les autres. Les formes varient en genre et en nombre : l'une...l'autre, les unes...les autres.</p><p>Deux éléments :</p><ul><li>L'un est grand, l'autre est petit.</li><li>L'une est médecin, l'autre est avocate.</li><li>Ils s'aident l'un l'autre. — sans préposition, on écrit l'un l'autre</li><li>Elles dépendent l'une de l'autre. — la préposition suit la construction du verbe : dépendre de</li></ul><p>Groupes :</p><ul><li>Les uns préfèrent le thé, les autres préfèrent le café.</li><li>Les unes sont arrivées en train, les autres en voiture.</li></ul><p>Points essentiels :</p><ul><li>Opposition de deux éléments : l'un...l'autre ; groupes : les uns...les autres.</li><li>Le genre et le nombre suivent les référents : tout féminin l'une...l'autre / les unes...les autres.</li><li>Dans le sens réciproque, la préposition dépend du verbe : l'un de l'autre, l'une à l'autre, l'un avec l'autre.</li><li>Ne pas confondre l'un...l'autre avec l'autre employé seul : le premier doit apparaître en paire.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u3-4",
       "title": "quelqu'un d'autre, rien d'autre：固定补语 d'autre",
-      "body": "<p>quelqu'un、quelque chose、personne、rien 后加 d'autre，表示「别人/别的东西」。d' 是 de 在元音前的省音形式，不能写成 *de autre。</p><ul><li>Quelqu'un d'autre est venu ?（还有别人来过吗？）</li><li>Je cherche quelque chose d'autre.（我在找别的东西。）</li><li>Personne d'autre n'est venu.（没有别人来。）</li><li>Je n'ai rien vu d'autre.（我没看见别的东西。）</li></ul><p>要点：</p><ul><li>d'autre 形式固定，不随所指对象的性数变化：quelqu'un d'autre、personne d'autre、rien d'autre。</li><li>d'autre 是固定补语，不能拆成独立的 autre 使用：不说 *Je cherche autre。</li><li>否定句中 personne/rien 与 ne 连用：Personne d'autre n'est venu. / Je n'ai rien vu d'autre.</li><li>d'autre 与 d'autres 不同：前者用于单数不定代词后，后者是复数泛指代词或限定词。</li><li>语序：rien d'autre 作宾语时，rien 放在助动词与过去分词之间：Je n'ai rien vu d'autre.</li></ul>"
+      "body": "<p>quelqu'un、quelque chose、personne、rien 后加 d'autre，表示「别人/别的东西」。d' 是 de 在元音前的省音形式，不能写成 *de autre。</p><ul><li>Quelqu'un d'autre est venu ?（还有别人来过吗？）</li><li>Je cherche quelque chose d'autre.（我在找别的东西。）</li><li>Personne d'autre n'est venu.（没有别人来。）</li><li>Je n'ai rien vu d'autre.（我没看见别的东西。）</li></ul><p>要点：</p><ul><li>d'autre 形式固定，不随所指对象的性数变化：quelqu'un d'autre、personne d'autre、rien d'autre。</li><li>d'autre 是固定补语，不能拆成独立的 autre 使用：不说 *Je cherche autre。</li><li>否定句中 personne/rien 与 ne 连用：Personne d'autre n'est venu. / Je n'ai rien vu d'autre.</li><li>d'autre 与 d'autres 不同：前者用于单数不定代词后，后者是复数泛指代词或限定词。</li><li>语序：rien d'autre 作宾语时，rien 放在助动词与过去分词之间：Je n'ai rien vu d'autre.</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "quelqu'un d'autre, rien d'autre : le complément figé d'autre",
+          "body": "<p>Après quelqu'un, quelque chose, personne et rien, d'autre signifie « une autre personne / une autre chose ». Le d' est l'élision de de devant une voyelle ; on n'écrit pas *de autre.</p><ul><li>Quelqu'un d'autre est venu ?</li><li>Je cherche quelque chose d'autre.</li><li>Personne d'autre n'est venu.</li><li>Je n'ai rien vu d'autre.</li></ul><p>Points essentiels :</p><ul><li>d'autre est une forme figée et ne varie pas en genre ni en nombre : quelqu'un d'autre, personne d'autre, rien d'autre.</li><li>d'autre est un complément figé et ne se sépare pas en autre autonome : on ne dit pas *Je cherche autre.</li><li>À la forme négative, personne/rien s'emploient avec ne : Personne d'autre n'est venu. / Je n'ai rien vu d'autre.</li><li>d'autre et d'autres diffèrent : le premier suit un pronom indéfini singulier, le second est un pronom ou déterminant indéfini pluriel.</li><li>Place : quand rien d'autre est COD, rien se place entre l'auxiliaire et le participe : Je n'ai rien vu d'autre.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u4-1",
       "title": "chacun / chacune：群体中的每一个",
-      "body": "<p>代词 chacun 指一个群体中的每一个成员，形式永远是单数：所指为男性或男女混合时用 chacun，所指全为女性时用 chacune。它作主语时，谓语、助动词和表语都用第三人称单数。</p><ul><li>Chacun des étudiants a remis son devoir.（每个学生都交了作业。）</li><li>Chacune des candidates a présenté son projet.（每位女候选人都介绍了自己的方案。）</li><li>Chacun est libre de choisir.（每个人都可以自由选择。）</li><li>Chacun de nous a son propre rythme.（我们每个人都有自己的节奏。）</li></ul><p>chacun 也可以作同位语，说明主语中的每一个；这时谓语仍与原来的主语一致，不受 chacun 影响。</p><ul><li>Ils ont chacun une chambre.（他们每人有一个房间。）</li><li>Elles sont arrivées chacune avec un cadeau.（她们各自带着礼物到了。）</li></ul><p>要点：</p><ul><li>chacun de + 复数名词或代词时，谓语仍用单数：Chacun des élèves a compris。</li><li>作同位语时，chacun / chacune 不支配谓语数：Elles sont arrivées chacune...</li><li>chacun 没有复数形式，不能写 chacuns / chacunes。</li></ul><p>注意：chacun 强调逐个体，tout le monde 强调整体。</p>"
+      "body": "<p>代词 chacun 指一个群体中的每一个成员，形式永远是单数：所指为男性或男女混合时用 chacun，所指全为女性时用 chacune。它作主语时，谓语、助动词和表语都用第三人称单数。</p><ul><li>Chacun des étudiants a remis son devoir.（每个学生都交了作业。）</li><li>Chacune des candidates a présenté son projet.（每位女候选人都介绍了自己的方案。）</li><li>Chacun est libre de choisir.（每个人都可以自由选择。）</li><li>Chacun de nous a son propre rythme.（我们每个人都有自己的节奏。）</li></ul><p>chacun 也可以作同位语，说明主语中的每一个；这时谓语仍与原来的主语一致，不受 chacun 影响。</p><ul><li>Ils ont chacun une chambre.（他们每人有一个房间。）</li><li>Elles sont arrivées chacune avec un cadeau.（她们各自带着礼物到了。）</li></ul><p>要点：</p><ul><li>chacun de + 复数名词或代词时，谓语仍用单数：Chacun des élèves a compris。</li><li>作同位语时，chacun / chacune 不支配谓语数：Elles sont arrivées chacune...</li><li>chacun 没有复数形式，不能写 chacuns / chacunes。</li></ul><p>注意：chacun 强调逐个体，tout le monde 强调整体。</p>",
+      "locales": {
+        "fr": {
+          "title": "chacun / chacune : chaque membre d'un groupe",
+          "body": "<p>Le pronom chacun désigne chaque membre d'un groupe et reste toujours singulier : chacun pour un référent masculin ou mixte, chacune pour un ensemble entièrement féminin. Comme sujet, il impose la 3e personne du singulier au verbe, à l'auxiliaire et à l'attribut.</p><ul><li>Chacun des étudiants a remis son devoir.</li><li>Chacune des candidates a présenté son projet.</li><li>Chacun est libre de choisir.</li><li>Chacun de nous a son propre rythme.</li></ul><p>chacun peut aussi être apposition et désigner chaque membre du sujet ; le verbe reste alors accordé avec le sujet d'origine, sans être commandé par chacun.</p><ul><li>Ils ont chacun une chambre.</li><li>Elles sont arrivées chacune avec un cadeau.</li></ul><p>Points essentiels :</p><ul><li>chacun de + nom ou pronom pluriel : le verbe reste au singulier (Chacun des élèves a compris).</li><li>En apposition, chacun/chacune ne commande pas le nombre du verbe : Elles sont arrivées chacune...</li><li>chacun n'a pas de pluriel : ne pas écrire chacuns / chacunes.</li></ul><p>Attention : chacun insiste sur chaque individu, tout le monde sur l'ensemble.</p>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u4-2",
       "title": "quelqu'un 与 quelque chose：不确定的人与物",
-      "body": "<p>quelqu'un 指不确定的一个人，quelque chose 指不确定的一件事物。两者都是单数，可用于肯定陈述、疑问和条件等非绝对否定语境，可作主语、直接宾语或介词补语。</p><ul><li>Quelqu'un a téléphoné pour toi.（有人打电话找你。）</li><li>Est-ce que quelqu'un veut du café ?（有人要咖啡吗？）</li><li>Si quelque chose ne va pas, dis-le-moi.（如果有什么不对劲，就告诉我。）</li><li>Elle cherche quelque chose dans son sac.（她在包里找东西。）</li><li>Je pense à quelqu'un de très proche.（我在想一个很亲近的人。）</li></ul><p>要点：</p><ul><li>quelqu'un 形式固定为阳性单数，即使所指是女性也用 quelqu'un，后接形容词时用阳性单数（quelqu'un de gentil）。</li><li>quelque chose 也是阳性单数，后接 de + 形容词（quelque chose de bon）。</li><li>绝对否定时通常改用 personne / rien：Je n'ai vu personne ; Je n'ai rien vu。</li></ul><p>注意：quelqu'un 与 quelque chose 不能加冠词。</p>"
+      "body": "<p>quelqu'un 指不确定的一个人，quelque chose 指不确定的一件事物。两者都是单数，可用于肯定陈述、疑问和条件等非绝对否定语境，可作主语、直接宾语或介词补语。</p><ul><li>Quelqu'un a téléphoné pour toi.（有人打电话找你。）</li><li>Est-ce que quelqu'un veut du café ?（有人要咖啡吗？）</li><li>Si quelque chose ne va pas, dis-le-moi.（如果有什么不对劲，就告诉我。）</li><li>Elle cherche quelque chose dans son sac.（她在包里找东西。）</li><li>Je pense à quelqu'un de très proche.（我在想一个很亲近的人。）</li></ul><p>要点：</p><ul><li>quelqu'un 形式固定为阳性单数，即使所指是女性也用 quelqu'un，后接形容词时用阳性单数（quelqu'un de gentil）。</li><li>quelque chose 也是阳性单数，后接 de + 形容词（quelque chose de bon）。</li><li>绝对否定时通常改用 personne / rien：Je n'ai vu personne ; Je n'ai rien vu。</li></ul><p>注意：quelqu'un 与 quelque chose 不能加冠词。</p>",
+      "locales": {
+        "fr": {
+          "title": "quelqu'un et quelque chose : une personne ou une chose indéterminée",
+          "body": "<p>quelqu'un désigne une personne indéterminée, quelque chose une chose indéterminée. Les deux sont singuliers et s'emploient dans les énoncés affirmatifs, interrogatifs et conditionnels non absolument négatifs ; ils peuvent être sujets, COD ou compléments de préposition.</p><ul><li>Quelqu'un a téléphoné pour toi.</li><li>Est-ce que quelqu'un veut du café ?</li><li>Si quelque chose ne va pas, dis-le-moi.</li><li>Elle cherche quelque chose dans son sac.</li><li>Je pense à quelqu'un de très proche.</li></ul><p>Points essentiels :</p><ul><li>quelqu'un est fixement masculin singulier, même si la personne désignée est une femme ; l'adjectif qui suit se met au masculin singulier (quelqu'un de gentil).</li><li>quelque chose est également masculin singulier ; il est suivi de de + adjectif (quelque chose de bon).</li><li>Dans la négation absolue, on emploie normalement personne / rien : Je n'ai vu personne ; Je n'ai rien vu.</li></ul><p>Attention : quelqu'un et quelque chose ne prennent pas d'article.</p>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u4-3",
       "title": "de + 形容词：quelqu'un、quelque chose、personne、rien",
-      "body": "<p>这几个代词后接形容词补语时，要用介词 de 引导；形容词通常用阳性单数，因为这些代词本身是阳性或中性单数。de 在元音或哑音 h 前省音为 d'。</p><ul><li>quelque chose de bon（好东西）</li><li>quelqu'un de sérieux（一个严肃的人）</li><li>rien de grave（没什么严重的）</li><li>personne de blessé（没有人受伤）</li><li>C'est quelque chose d'intéressant.（这是一件有趣的事。）</li><li>Il n'y a rien d'étrange.（没有什么奇怪的。）</li><li>Elle a épousé quelqu'un de très gentil.（她嫁给了一个非常友善的人。）</li></ul><p>要点：</p><ul><li>形容词不随实际所指的性别变化：quelqu'un de gentil 即使指女性也不写 gentille。</li><li>de 后形容词的性数由代词的性质决定，而不是由上下文的人物决定。</li><li>常见搭配：quelque chose de nouveau、rien d'important、personne de blessé。</li></ul><p>注意：形容词作表语时直接搭配（Elle est gentille），不用 de；d'autre 是固定补语，见第 11 张，不要与 de + 形容词混为一谈。</p>"
+      "body": "<p>这几个代词后接形容词补语时，要用介词 de 引导；形容词通常用阳性单数，因为这些代词本身是阳性或中性单数。de 在元音或哑音 h 前省音为 d'。</p><ul><li>quelque chose de bon（好东西）</li><li>quelqu'un de sérieux（一个严肃的人）</li><li>rien de grave（没什么严重的）</li><li>personne de blessé（没有人受伤）</li><li>C'est quelque chose d'intéressant.（这是一件有趣的事。）</li><li>Il n'y a rien d'étrange.（没有什么奇怪的。）</li><li>Elle a épousé quelqu'un de très gentil.（她嫁给了一个非常友善的人。）</li></ul><p>要点：</p><ul><li>形容词不随实际所指的性别变化：quelqu'un de gentil 即使指女性也不写 gentille。</li><li>de 后形容词的性数由代词的性质决定，而不是由上下文的人物决定。</li><li>常见搭配：quelque chose de nouveau、rien d'important、personne de blessé。</li></ul><p>注意：形容词作表语时直接搭配（Elle est gentille），不用 de；d'autre 是固定补语，见第 11 张，不要与 de + 形容词混为一谈。</p>",
+      "locales": {
+        "fr": {
+          "title": "de + adjectif : quelqu'un, quelque chose, personne, rien",
+          "body": "<p>Quand ces pronoms sont suivis d'un adjectif complément, celui-ci est introduit par de et se met généralement au masculin singulier, car ces pronoms sont eux-mêmes masculins ou neutres singuliers. de s'élide en d' devant une voyelle ou un h muet.</p><ul><li>quelque chose de bon</li><li>quelqu'un de sérieux</li><li>rien de grave</li><li>personne de blessé</li><li>C'est quelque chose d'intéressant.</li><li>Il n'y a rien d'étrange.</li><li>Elle a épousé quelqu'un de très gentil.</li></ul><p>Points essentiels :</p><ul><li>L'adjectif ne varie pas selon le sexe réel du référent : quelqu'un de gentil ne devient pas gentille même pour une femme.</li><li>Le genre et le nombre de l'adjectif après de dépendent de la nature du pronom, non de la personne évoquée en contexte.</li><li>Associations courantes : quelque chose de nouveau, rien d'important, personne de blessé.</li></ul><p>Attention : l'adjectif attribut se construit directement (Elle est gentille), sans de ; d'autre est un complément figé (voir la carte 11) et ne se confond pas avec de + adjectif.</p>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u4-4",
       "title": "quelques-uns / quelques-unes：复数中的「一些」",
-      "body": "<p>代词 quelques-uns（阳性）和 quelques-unes（阴性）代替前文复数名词中的「一些」，性数与所指名词一致，谓语用第三人称复数。它可以单独使用，也可以接 de 短语限定范围。</p><ul><li>Quelques-uns sont déjà partis.（有些人已经走了。）</li><li>Quelques-unes de ces photos sont anciennes.（这些照片中有几张很旧。）</li><li>J'ai lu quelques-uns de ces romans.（这些小说我读了几本。）</li><li>Parmi les invités, quelques-uns venaient de Lyon.（客人中有几位来自里昂。）</li></ul><p>要点：</p><ul><li>quelques-uns 是代词，后面不能直接跟名词；要修饰名词时用形容词 quelques：quelques romans。</li><li>接 de + 限定范围时，谓语仍与 quelques-uns 一致，用复数：Quelques-uns des étudiants sont venus。</li><li>阴性形式 quelques-unes 不能写成 quelques-uns。</li></ul><p>注意：quelques-uns 的性数与所指名词一致，不要跟主语一致混为一谈。</p>"
+      "body": "<p>代词 quelques-uns（阳性）和 quelques-unes（阴性）代替前文复数名词中的「一些」，性数与所指名词一致，谓语用第三人称复数。它可以单独使用，也可以接 de 短语限定范围。</p><ul><li>Quelques-uns sont déjà partis.（有些人已经走了。）</li><li>Quelques-unes de ces photos sont anciennes.（这些照片中有几张很旧。）</li><li>J'ai lu quelques-uns de ces romans.（这些小说我读了几本。）</li><li>Parmi les invités, quelques-uns venaient de Lyon.（客人中有几位来自里昂。）</li></ul><p>要点：</p><ul><li>quelques-uns 是代词，后面不能直接跟名词；要修饰名词时用形容词 quelques：quelques romans。</li><li>接 de + 限定范围时，谓语仍与 quelques-uns 一致，用复数：Quelques-uns des étudiants sont venus。</li><li>阴性形式 quelques-unes 不能写成 quelques-uns。</li></ul><p>注意：quelques-uns 的性数与所指名词一致，不要跟主语一致混为一谈。</p>",
+      "locales": {
+        "fr": {
+          "title": "quelques-uns / quelques-unes : quelques éléments d'un ensemble pluriel",
+          "body": "<p>Les pronoms quelques-uns (masculin) et quelques-unes (féminin) remplacent « quelques-uns » parmi des noms pluriels déjà mentionnés ; leur genre et leur nombre suivent le nom auquel ils renvoient, et le verbe se met à la 3e personne du pluriel. Ils peuvent s'employer seuls ou avec un groupe en de qui limite l'ensemble.</p><ul><li>Quelques-uns sont déjà partis.</li><li>Quelques-unes de ces photos sont anciennes.</li><li>J'ai lu quelques-uns de ces romans.</li><li>Parmi les invités, quelques-uns venaient de Lyon.</li></ul><p>Points essentiels :</p><ul><li>quelques-uns est un pronom : il n'est pas suivi directement d'un nom. Pour déterminer un nom, employer l'adjectif quelques : quelques romans.</li><li>Avec de + ensemble limité, le verbe reste accordé avec quelques-uns au pluriel : Quelques-uns des étudiants sont venus.</li><li>La forme féminine quelques-unes ne s'écrit pas quelques-uns.</li></ul><p>Attention : le genre et le nombre de quelques-uns suivent le nom auquel il renvoie ; ne pas les confondre avec l'accord du sujet grammatical.</p>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u4-5",
       "title": "选择：chacun、quelqu'un、quelque chose、quelques-uns",
-      "body": "<p>这四个词都表示不确定的数量或指代，但侧重点不同：</p><ul><li>chacun / chacune：群体中的每一个，单数，谓语用第三人称单数。</li><li>quelqu'un：不确定的一个人，单数，谓语用第三人称单数。</li><li>quelque chose：不确定的一件事物，单数，谓语用第三人称单数。</li><li>quelques-uns / quelques-unes：复数名词中的一些，复数，谓语用第三人称复数。</li></ul><p>对比：</p><ul><li>Chacun des invités a reçu un cadeau.（每位客人都收到了一份礼物。）——逐个体</li><li>Quelqu'un a reçu un cadeau.（有人收到了一份礼物。）——不确定的一个人</li><li>Quelque chose est arrivé.（发生了某件事。）——不确定的一件事</li><li>Quelques-uns des invités sont partis.（客人中有几位走了。）——群体中的一些</li></ul><p>判断步骤：</p><ol><li>先看是「每一个」「某一个」还是「某一些」：每一个用 chacun，某一个用 quelqu'un，某一些用 quelques-uns。</li><li>再看所指是人还是物：quelqu'un 只指人，quelque chose 只指物；chacun 和 quelques-uns 可指人或物，性数随所指变化。</li><li>最后看单复数，决定谓语形式。</li></ol><p>注意：quelques-uns 与 quelqu'un 不是同一词的单复数对应，意义和句法都不同。</p>"
+      "body": "<p>这四个词都表示不确定的数量或指代，但侧重点不同：</p><ul><li>chacun / chacune：群体中的每一个，单数，谓语用第三人称单数。</li><li>quelqu'un：不确定的一个人，单数，谓语用第三人称单数。</li><li>quelque chose：不确定的一件事物，单数，谓语用第三人称单数。</li><li>quelques-uns / quelques-unes：复数名词中的一些，复数，谓语用第三人称复数。</li></ul><p>对比：</p><ul><li>Chacun des invités a reçu un cadeau.（每位客人都收到了一份礼物。）——逐个体</li><li>Quelqu'un a reçu un cadeau.（有人收到了一份礼物。）——不确定的一个人</li><li>Quelque chose est arrivé.（发生了某件事。）——不确定的一件事</li><li>Quelques-uns des invités sont partis.（客人中有几位走了。）——群体中的一些</li></ul><p>判断步骤：</p><ol><li>先看是「每一个」「某一个」还是「某一些」：每一个用 chacun，某一个用 quelqu'un，某一些用 quelques-uns。</li><li>再看所指是人还是物：quelqu'un 只指人，quelque chose 只指物；chacun 和 quelques-uns 可指人或物，性数随所指变化。</li><li>最后看单复数，决定谓语形式。</li></ol><p>注意：quelques-uns 与 quelqu'un 不是同一词的单复数对应，意义和句法都不同。</p>",
+      "locales": {
+        "fr": {
+          "title": "Choisir : chacun, quelqu'un, quelque chose, quelques-uns",
+          "body": "<p>Ces quatre mots expriment une quantité ou une référence indéterminée, mais avec des nuances différentes :</p><ul><li>chacun / chacune : chaque membre d'un groupe, singulier, verbe à la 3e personne du singulier.</li><li>quelqu'un : une personne indéterminée, singulier, verbe à la 3e personne du singulier.</li><li>quelque chose : une chose indéterminée, singulier, verbe à la 3e personne du singulier.</li><li>quelques-uns / quelques-unes : quelques éléments d'un ensemble pluriel, pluriel, verbe à la 3e personne du pluriel.</li></ul><p>Comparaison :</p><ul><li>Chacun des invités a reçu un cadeau. — chaque individu</li><li>Quelqu'un a reçu un cadeau. — une personne indéterminée</li><li>Quelque chose est arrivé. — une chose indéterminée</li><li>Quelques-uns des invités sont partis. — quelques éléments du groupe</li></ul><p>Ordre de décision :</p><ol><li>Voir s'il s'agit de « chacun », « quelqu'un » ou « quelques-uns » : chacun pour chaque membre, quelqu'un pour une personne, quelques-uns pour quelques éléments.</li><li>Voir si le référent est une personne ou une chose : quelqu'un ne désigne que des personnes, quelque chose que des choses ; chacun et quelques-uns peuvent désigner des personnes ou des choses selon le contexte et varient en genre et en nombre.</li><li>Vérifier enfin le singulier ou le pluriel, qui détermine la forme du verbe.</li></ol><p>Attention : quelques-uns et quelqu'un ne sont pas le pluriel et le singulier d'un même mot : leur sens et leur syntaxe diffèrent.</p>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u5-1",
       "title": "personne：没有人",
-      "body": "<p>personne 与 ne 连用构成否定，表示「没有人」。它形式固定为阳性单数：作主语时放在动词前，作宾语或介词补语时放在动词后；复合时态中作宾语时放在过去分词之后。</p><ul><li>Personne n'est venu à la réunion.（没有人来开会。）</li><li>Personne ne le sait.（没有人知道这件事。）</li><li>Je ne connais personne ici.（我在这里谁也不认识。）</li><li>Elle n'a parlé à personne.（她没跟任何人说话。）</li><li>Je n'ai vu personne.（我谁也没看见。）</li></ul><p>要点：</p><ul><li>ne 不能省略：Personne n'est venu，不能写 Personne est venu。</li><li>personne 作主语时，谓语用第三人称单数。</li><li>复合时态中 personne 作宾语放在过去分词后：Je n'ai vu personne；这一点与 rien 的位置不同。</li><li>可加 d'autre：Personne d'autre n'est venu.（没有别人来。）</li></ul><p>注意：名词 personne 表示「一个人」，可带冠词、有复数：Une personne est venue ; deux personnes。否定代词 personne 不能带冠词，也不能与 pas 同时使用。</p>"
+      "body": "<p>personne 与 ne 连用构成否定，表示「没有人」。它形式固定为阳性单数：作主语时放在动词前，作宾语或介词补语时放在动词后；复合时态中作宾语时放在过去分词之后。</p><ul><li>Personne n'est venu à la réunion.（没有人来开会。）</li><li>Personne ne le sait.（没有人知道这件事。）</li><li>Je ne connais personne ici.（我在这里谁也不认识。）</li><li>Elle n'a parlé à personne.（她没跟任何人说话。）</li><li>Je n'ai vu personne.（我谁也没看见。）</li></ul><p>要点：</p><ul><li>ne 不能省略：Personne n'est venu，不能写 Personne est venu。</li><li>personne 作主语时，谓语用第三人称单数。</li><li>复合时态中 personne 作宾语放在过去分词后：Je n'ai vu personne；这一点与 rien 的位置不同。</li><li>可加 d'autre：Personne d'autre n'est venu.（没有别人来。）</li></ul><p>注意：名词 personne 表示「一个人」，可带冠词、有复数：Une personne est venue ; deux personnes。否定代词 personne 不能带冠词，也不能与 pas 同时使用。</p>",
+      "locales": {
+        "fr": {
+          "title": "personne : « personne » (négation)",
+          "body": "<p>personne s'emploie avec ne pour former une négation et signifie « personne ». Sa forme est fixement masculine singulière : comme sujet, il se place devant le verbe ; comme objet ou complément de préposition, après le verbe ; au temps composé, comme objet, après le participe passé.</p><ul><li>Personne n'est venu à la réunion.</li><li>Personne ne le sait.</li><li>Je ne connais personne ici.</li><li>Elle n'a parlé à personne.</li><li>Je n'ai vu personne.</li></ul><p>Points essentiels :</p><ul><li>ne peut pas être omis : Personne n'est venu, et non Personne est venu.</li><li>Quand personne est sujet, le verbe se met à la 3e personne du singulier.</li><li>Au temps composé, personne objet se place après le participe : Je n'ai vu personne ; sa place diffère de celle de rien.</li><li>On peut ajouter d'autre : Personne d'autre n'est venu.</li></ul><p>Attention : le nom personne signifie « une personne » et peut prendre un article et un pluriel : Une personne est venue ; deux personnes. Le pronom négatif personne ne prend pas d'article et ne s'emploie pas avec pas.</p>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u5-2",
       "title": "rien：没有什么",
-      "body": "<p>rien 与 ne 连用，表示「没有什么」，指物，形式固定为阳性单数。作主语时放在动词前，作宾语时放在动词后；复合时态中作宾语时放在助动词与过去分词之间。</p><ul><li>Rien n'est impossible.（没有什么是不可能的。）</li><li>Je ne comprends rien.（我什么也不明白。）</li><li>Il n'a rien dit.（他什么也没说。）</li><li>Elle ne veut rien d'autre.（她别的什么也不要。）</li><li>Il n'y a rien de grave.（没什么严重的。）</li></ul><p>要点：</p><ul><li>rien 作主语时谓语用第三人称单数：Rien n'est prêt。</li><li>复合时态位置：Je n'ai rien vu（rien 在助动词与过去分词之间）；对比 Je n'ai vu personne（personne 在分词后）。</li><li>rien 后可接 de + 形容词（rien d'intéressant）或 d'autre（rien d'autre）。</li></ul><p>注意：不要把 rien 与 aucun 混同。rien 不能与 pas 同时使用。</p>"
+      "body": "<p>rien 与 ne 连用，表示「没有什么」，指物，形式固定为阳性单数。作主语时放在动词前，作宾语时放在动词后；复合时态中作宾语时放在助动词与过去分词之间。</p><ul><li>Rien n'est impossible.（没有什么是不可能的。）</li><li>Je ne comprends rien.（我什么也不明白。）</li><li>Il n'a rien dit.（他什么也没说。）</li><li>Elle ne veut rien d'autre.（她别的什么也不要。）</li><li>Il n'y a rien de grave.（没什么严重的。）</li></ul><p>要点：</p><ul><li>rien 作主语时谓语用第三人称单数：Rien n'est prêt。</li><li>复合时态位置：Je n'ai rien vu（rien 在助动词与过去分词之间）；对比 Je n'ai vu personne（personne 在分词后）。</li><li>rien 后可接 de + 形容词（rien d'intéressant）或 d'autre（rien d'autre）。</li></ul><p>注意：不要把 rien 与 aucun 混同。rien 不能与 pas 同时使用。</p>",
+      "locales": {
+        "fr": {
+          "title": "rien : « rien » (négation)",
+          "body": "<p>rien s'emploie avec ne et signifie « rien », pour les choses ; sa forme est fixement masculine singulière. Comme sujet, il se place devant le verbe ; comme objet, après le verbe ; au temps composé, comme objet, entre l'auxiliaire et le participe passé.</p><ul><li>Rien n'est impossible.</li><li>Je ne comprends rien.</li><li>Il n'a rien dit.</li><li>Elle ne veut rien d'autre.</li><li>Il n'y a rien de grave.</li></ul><p>Points essentiels :</p><ul><li>Quand rien est sujet, le verbe se met à la 3e personne du singulier : Rien n'est prêt.</li><li>Place au temps composé : Je n'ai rien vu (rien entre l'auxiliaire et le participe) ; à comparer avec Je n'ai vu personne (personne après le participe).</li><li>rien peut être suivi de de + adjectif (rien d'intéressant) ou de d'autre (rien d'autre).</li></ul><p>Attention : ne pas confondre rien avec aucun. rien ne s'emploie pas avec pas.</p>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u5-3",
       "title": "pas grand-chose：部分否定",
-      "body": "<p>ne...pas grand-chose（也写作 grand chose）表示「没多少东西」「没做什么」，是对事物的部分否定：数量很少，但不是零。它与完全否定的 rien 相对。</p><ul><li>Je n'ai pas grand-chose à te dire.（我没什么要跟你说的。）</li><li>Il n'y a pas grand-chose dans le frigo.（冰箱里没多少东西。）</li><li>Elle n'a pas fait grand-chose cet après-midi.（她下午没做什么事。）</li><li>On n'a pas grand-chose en commun.（我们没多少共同点。）</li></ul><p>要点：</p><ul><li>否定词是 ne...pas，grand-chose 放在 pas 后。</li><li>语义是「一点点 / 不多」，不是「完全没有」；要表达完全没有，用 rien。</li><li>不能写成 ne...pas rien，也不能与 rien 同时使用。</li></ul><p>注意：部分否定不等于完全否定。</p>"
+      "body": "<p>ne...pas grand-chose（也写作 grand chose）表示「没多少东西」「没做什么」，是对事物的部分否定：数量很少，但不是零。它与完全否定的 rien 相对。</p><ul><li>Je n'ai pas grand-chose à te dire.（我没什么要跟你说的。）</li><li>Il n'y a pas grand-chose dans le frigo.（冰箱里没多少东西。）</li><li>Elle n'a pas fait grand-chose cet après-midi.（她下午没做什么事。）</li><li>On n'a pas grand-chose en commun.（我们没多少共同点。）</li></ul><p>要点：</p><ul><li>否定词是 ne...pas，grand-chose 放在 pas 后。</li><li>语义是「一点点 / 不多」，不是「完全没有」；要表达完全没有，用 rien。</li><li>不能写成 ne...pas rien，也不能与 rien 同时使用。</li></ul><p>注意：部分否定不等于完全否定。</p>",
+      "locales": {
+        "fr": {
+          "title": "pas grand-chose : négation partielle",
+          "body": "<p>ne...pas grand-chose (aussi écrit grand chose) signifie « peu de choses » ou « pas grand-chose » : c'est une négation partielle portant sur les choses, une quantité faible mais non nulle. Elle s'oppose à la négation totale rien.</p><ul><li>Je n'ai pas grand-chose à te dire.</li><li>Il n'y a pas grand-chose dans le frigo.</li><li>Elle n'a pas fait grand-chose cet après-midi.</li><li>On n'a pas grand-chose en commun.</li></ul><p>Points essentiels :</p><ul><li>La négation est ne...pas, et grand-chole pronom se place après pas.</li><li>Le sens est « un peu / peu », non « pas du tout » ; pour l'absence totale, employer rien.</li><li>On n'écrit pas ne...pas rien et l'on n'emploie pas grand-chose avec rien.</li></ul><p>Attention : la négation partielle n'équivaut pas à la négation totale.</p>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u5-4",
       "title": "personne、rien、pas grand-chose 的对比与位置",
-      "body": "<p>三者都用于否定，但所指和否定程度不同：personne 指人，rien 指物且完全否定，pas grand-chose 指物且部分否定。</p><ul><li>— Qui est venu ? — Personne.（谁来了？——没有人。）</li><li>— Qu'est-ce que tu as vu ? — Rien.（你看见了什么？——什么也没看见。）</li><li>— Tu as beaucoup mangé ? — Non, pas grand-chose.（你吃得很多吗？——不，没吃多少。）</li><li>Personne ne dit rien.（没有人说什么。）——主语 personne 与宾语 rien 各司其职。</li></ul><p>位置复习：</p><ul><li>主语：Personne n'est venu. / Rien n'est arrivé.</li><li>复合时态宾语：Je n'ai vu personne. / Je n'ai rien vu.</li><li>部分否定：Je n'ai pas grand-chose à faire.</li></ul><p>注意：pas grand-chose 不是 rien 的同义词，不能互换；personne 指人，不能用来指物。</p>"
+      "body": "<p>三者都用于否定，但所指和否定程度不同：personne 指人，rien 指物且完全否定，pas grand-chose 指物且部分否定。</p><ul><li>— Qui est venu ? — Personne.（谁来了？——没有人。）</li><li>— Qu'est-ce que tu as vu ? — Rien.（你看见了什么？——什么也没看见。）</li><li>— Tu as beaucoup mangé ? — Non, pas grand-chose.（你吃得很多吗？——不，没吃多少。）</li><li>Personne ne dit rien.（没有人说什么。）——主语 personne 与宾语 rien 各司其职。</li></ul><p>位置复习：</p><ul><li>主语：Personne n'est venu. / Rien n'est arrivé.</li><li>复合时态宾语：Je n'ai vu personne. / Je n'ai rien vu.</li><li>部分否定：Je n'ai pas grand-chose à faire.</li></ul><p>注意：pas grand-chose 不是 rien 的同义词，不能互换；personne 指人，不能用来指物。</p>",
+      "locales": {
+        "fr": {
+          "title": "personne, rien et pas grand-chose : comparaison et place",
+          "body": "<p>Les trois servent à nier, mais diffèrent par le référent et le degré de négation : personne désigne une personne, rien une chose avec négation totale, pas grand-chose une chose avec négation partielle.</p><ul><li>— Qui est venu ? — Personne.</li><li>— Qu'est-ce que tu as vu ? — Rien.</li><li>— Tu as beaucoup mangé ? — Non, pas grand-chose.</li><li>Personne ne dit rien. — personne sujet et rien objet ont chacun leur rôle.</li></ul><p>Révision de la place :</p><ul><li>Sujet : Personne n'est venu. / Rien n'est arrivé.</li><li>Objet au temps composé : Je n'ai vu personne. / Je n'ai rien vu.</li><li>Négation partielle : Je n'ai pas grand-chose à faire.</li></ul><p>Attention : pas grand-chose n'est pas synonyme de rien et ne peut pas le remplacer ; personne désigne des personnes et ne peut pas désigner des choses.</p>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u6-1",
       "title": "ce：只能与少数动词搭配的中性代词",
-      "body": "<p>ce 是中性代词，可指物、事，也可指人，但它不能像 cela/ça 那样自由地充当各种动词的主语。它主要与 être、pouvoir、devoir 等少数动词搭配，后面直接跟变位动词，而不是名词。</p><ul><li>C'est une bonne idée.（这是个好主意。）</li><li>Ce sont mes voisins.（这些是我的邻居。）</li><li>Ce doit être lui.（应该是他。）</li><li>Ce peut être vrai.（这可能是真的。）</li><li>Ce sera difficile.（那会很难。）</li></ul><p>判断：ce 后若紧跟名词（ce livre、ce projet），ce 是指示限定词；ce 后若紧跟变位动词（c'est、ce sera、ce doit），ce 才是中性代词。</p><p>要点：</p><ul><li>ce 不能与普通动词自由组合：不说 *Ce me plaît，应说 Cela me plaît 或 Ça me plaît。</li><li>ce 与 être 连用时，元音前省音为 c'：c'est、c'était；但在 n'est 前不省音：ce n'est pas。</li><li>复数名词作表语时，规范写法用 Ce sont：Ce sont mes parents。</li></ul>"
+      "body": "<p>ce 是中性代词，可指物、事，也可指人，但它不能像 cela/ça 那样自由地充当各种动词的主语。它主要与 être、pouvoir、devoir 等少数动词搭配，后面直接跟变位动词，而不是名词。</p><ul><li>C'est une bonne idée.（这是个好主意。）</li><li>Ce sont mes voisins.（这些是我的邻居。）</li><li>Ce doit être lui.（应该是他。）</li><li>Ce peut être vrai.（这可能是真的。）</li><li>Ce sera difficile.（那会很难。）</li></ul><p>判断：ce 后若紧跟名词（ce livre、ce projet），ce 是指示限定词；ce 后若紧跟变位动词（c'est、ce sera、ce doit），ce 才是中性代词。</p><p>要点：</p><ul><li>ce 不能与普通动词自由组合：不说 *Ce me plaît，应说 Cela me plaît 或 Ça me plaît。</li><li>ce 与 être 连用时，元音前省音为 c'：c'est、c'était；但在 n'est 前不省音：ce n'est pas。</li><li>复数名词作表语时，规范写法用 Ce sont：Ce sont mes parents。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "ce : pronom neutre réservé à quelques verbes",
+          "body": "<p>ce est un pronom neutre qui peut désigner une chose, un fait ou même une personne, mais il ne peut pas, comme cela/ça, servir librement de sujet à toutes sortes de verbes. Il s'emploie surtout avec être, pouvoir, devoir, etc., suivi directement d'un verbe conjugué et non d'un nom.</p><ul><li>C'est une bonne idée.</li><li>Ce sont mes voisins.</li><li>Ce doit être lui.</li><li>Ce peut être vrai.</li><li>Ce sera difficile.</li></ul><p>Test : si ce est suivi d'un nom (ce livre, ce projet), ce est déterminant démonstratif ; si ce est suivi d'un verbe conjugué (c'est, ce sera, ce doit), ce est pronom neutre.</p><p>Points essentiels :</p><ul><li>ce ne se combine pas librement avec un verbe ordinaire : on ne dit pas *Ce me plaît, mais Cela me plaît ou Ça me plaît.</li><li>Avec être, ce s'élide en c' devant voyelle : c'est, c'était ; mais pas devant n'est : ce n'est pas.</li><li>Avec un attribut nominal pluriel, l'écrit soigné emploie Ce sont : Ce sont mes parents.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u6-2",
       "title": "c' 的省音与否定：c'est / ce n'est pas",
-      "body": "<p>ce 在元音或哑音 h 前省音为 c'，最常见的形式是 c'est 和 c'était。省音只发生在 ce 与元音开头的词之间。</p><ul><li>C'est mon frère.（这是我哥哥。）</li><li>C'était hier.（那是昨天。）</li><li>C'est difficile à croire.（这难以相信。）</li></ul><p>否定结构是 ce + ne + être + pas + 表语。因为 n'est 以辅音 n 开头，ce 不省音，写 ce n'est pas，不能写 *c'n'est pas。</p><ul><li>Ce n'est pas grave.（没关系。）</li><li>Ce ne sont pas mes affaires.（这不关我的事。）</li><li>Ce n'était pas vrai.（那不是真的。）</li></ul><p>疑问：Est-ce que c'est vrai ?（这是真的吗？）口语中也可用升调，但规范书写仍保留 c'est。</p><p>要点：</p><ul><li>肯定用 c'est，否定用 ce n'est pas；不要因为否定就把 ce 也省音。</li><li>复数表语用 ce sont / ce ne sont pas。</li><li>口语中常省略 ne（c'est pas），但正式书写要保留。</li></ul>"
+      "body": "<p>ce 在元音或哑音 h 前省音为 c'，最常见的形式是 c'est 和 c'était。省音只发生在 ce 与元音开头的词之间。</p><ul><li>C'est mon frère.（这是我哥哥。）</li><li>C'était hier.（那是昨天。）</li><li>C'est difficile à croire.（这难以相信。）</li></ul><p>否定结构是 ce + ne + être + pas + 表语。因为 n'est 以辅音 n 开头，ce 不省音，写 ce n'est pas，不能写 *c'n'est pas。</p><ul><li>Ce n'est pas grave.（没关系。）</li><li>Ce ne sont pas mes affaires.（这不关我的事。）</li><li>Ce n'était pas vrai.（那不是真的。）</li></ul><p>疑问：Est-ce que c'est vrai ?（这是真的吗？）口语中也可用升调，但规范书写仍保留 c'est。</p><p>要点：</p><ul><li>肯定用 c'est，否定用 ce n'est pas；不要因为否定就把 ce 也省音。</li><li>复数表语用 ce sont / ce ne sont pas。</li><li>口语中常省略 ne（c'est pas），但正式书写要保留。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "Élision de ce et négation : c'est / ce n'est pas",
+          "body": "<p>ce s'élide en c' devant une voyelle ou un h muet, surtout dans c'est et c'était. L'élision ne se produit qu'entre ce et un mot commençant par une voyelle.</p><ul><li>C'est mon frère.</li><li>C'était hier.</li><li>C'est difficile à croire.</li></ul><p>La négation se forme ce + ne + être + pas + attribut. Comme n'est commence par la consonne n, ce ne s'élide pas : on écrit ce n'est pas, et non *c'n'est pas.</p><ul><li>Ce n'est pas grave.</li><li>Ce ne sont pas mes affaires.</li><li>Ce n'était pas vrai.</li></ul><p>Interrogation : Est-ce que c'est vrai ? À l'oral, l'intonation suffit aussi, mais l'écrit soigné conserve c'est.</p><p>Points essentiels :</p><ul><li>Affirmatif : c'est ; négatif : ce n'est pas ; ne pas élider ce sous prétexte de négation.</li><li>Attribut pluriel : ce sont / ce ne sont pas.</li><li>À l'oral, on omet souvent ne (c'est pas), mais l'écrit formel le conserve.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u6-3",
       "title": "ceci 与 cela：近指/远指与上文/下文（识别）",
-      "body": "<p>ceci 和 cela 都是中性指示代词，可独立作主语、宾语或介词补语。ceci 多指向近处的东西或下文即将说明的内容；cela 多指远处、上文已经提到或整体情况。</p><ul><li>Ceci est à toi, cela est à moi.（这个是你的，那个是我的。）</li><li>Écoutez ceci : la réunion est reportée.（请听这个：会议推迟了。）——ceci 引出下文</li><li>Tout cela me paraît étrange.（这一切我觉得很奇怪。）——cela 总括上文</li><li>Cela ne me plaît pas.（我不喜欢这个。）</li></ul><p>语域：ceci 偏书面，口语中较少单独使用；cela 书面、口语都可，但口语更常用 ça。</p><p>要点：</p><ul><li>ceci/cela 是中性形式，不随所指名词的性数变化。</li><li>不要用阴性或复数指示代词 celle-ci、ceux-là 来代替中性代词。</li><li>ceci/cela 后面不能直接接名词；若看到 ce + 名词，那是限定词 ce，不是中性代词。</li></ul>"
+      "body": "<p>ceci 和 cela 都是中性指示代词，可独立作主语、宾语或介词补语。ceci 多指向近处的东西或下文即将说明的内容；cela 多指远处、上文已经提到或整体情况。</p><ul><li>Ceci est à toi, cela est à moi.（这个是你的，那个是我的。）</li><li>Écoutez ceci : la réunion est reportée.（请听这个：会议推迟了。）——ceci 引出下文</li><li>Tout cela me paraît étrange.（这一切我觉得很奇怪。）——cela 总括上文</li><li>Cela ne me plaît pas.（我不喜欢这个。）</li></ul><p>语域：ceci 偏书面，口语中较少单独使用；cela 书面、口语都可，但口语更常用 ça。</p><p>要点：</p><ul><li>ceci/cela 是中性形式，不随所指名词的性数变化。</li><li>不要用阴性或复数指示代词 celle-ci、ceux-là 来代替中性代词。</li><li>ceci/cela 后面不能直接接名词；若看到 ce + 名词，那是限定词 ce，不是中性代词。</li></ul>",
+      "locales": {
+        "fr": {
+          "title": "ceci et cela : proche/loin et renvoi à ce qui suit ou précède (reconnaissance)",
+          "body": "<p>ceci et cela sont tous deux des pronoms démonstratifs neutres, pouvant être sujets, objets ou compléments de préposition. ceci renvoie plutôt à ce qui est proche ou à ce qui va être dit ; cela renvoie plutôt à ce qui est éloigné, déjà mentionné, ou à la situation d'ensemble.</p><ul><li>Ceci est à toi, cela est à moi.</li><li>Écoutez ceci : la réunion est reportée. — ceci introduit ce qui suit</li><li>Tout cela me paraît étrange. — cela résume ce qui précède</li><li>Cela ne me plaît pas.</li></ul><p>Registre : ceci est plutôt écrit et s'emploie rarement seul à l'oral ; cela s'emploie à l'écrit et à l'oral, mais l'oral préfère souvent ça.</p><p>Points essentiels :</p><ul><li>ceci/cela sont neutres et ne varient pas selon le genre et le nombre du nom auquel ils renvoient.</li><li>Ne pas employer les pronoms démonstratifs féminins ou pluriels celle-ci, ceux-là pour remplacer un pronom neutre.</li><li>ceci/cela ne sont pas directement suivis d'un nom ; si l'on voit ce + nom, ce est déterminant, non pronom neutre.</li></ul>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u6-4",
       "title": "ça：口语中的中性指代与固定套语",
-      "body": "<p>ça 是 cela 的口语形式，用来指代上文提到的事物、情况或整体，可作主语、宾语和介词补语。它语域随意，不能带关系从句。</p><ul><li>Ça va ? — Ça va bien, merci.（你好吗？——很好，谢谢。）</li><li>Ça y est, j'ai terminé !（好了，我完成了！）</li><li>Tout ça est fini.（这一切都结束了。）</li><li>Ça ne me plaît pas.（我不喜欢这个。）</li><li>Ça dépend du temps.（这要看天气。）</li><li>Ça fait dix euros.（一共十欧元。）</li></ul><p>固定套语要整体记：Ça va、Ça y est、Ça alors !（哎呀！）、C'est ça（正是如此）、Comme ci comme ça（马马虎虎）、Ça dépend。</p><p>要点：</p><ul><li>这些套语不能把 ça 换成 ce：问候、感叹、数量确认都是固定搭配。</li><li>ça 不能带关系从句。</li><li>c'est 中的 ce 也不能换成 ça：C'est mon ami，不是 *Ça est mon ami。</li></ul><p>注意：正式书面语常用 cela；ça 的套语不能逐字替换成 ce。</p>"
+      "body": "<p>ça 是 cela 的口语形式，用来指代上文提到的事物、情况或整体，可作主语、宾语和介词补语。它语域随意，不能带关系从句。</p><ul><li>Ça va ? — Ça va bien, merci.（你好吗？——很好，谢谢。）</li><li>Ça y est, j'ai terminé !（好了，我完成了！）</li><li>Tout ça est fini.（这一切都结束了。）</li><li>Ça ne me plaît pas.（我不喜欢这个。）</li><li>Ça dépend du temps.（这要看天气。）</li><li>Ça fait dix euros.（一共十欧元。）</li></ul><p>固定套语要整体记：Ça va、Ça y est、Ça alors !（哎呀！）、C'est ça（正是如此）、Comme ci comme ça（马马虎虎）、Ça dépend。</p><p>要点：</p><ul><li>这些套语不能把 ça 换成 ce：问候、感叹、数量确认都是固定搭配。</li><li>ça 不能带关系从句。</li><li>c'est 中的 ce 也不能换成 ça：C'est mon ami，不是 *Ça est mon ami。</li></ul><p>注意：正式书面语常用 cela；ça 的套语不能逐字替换成 ce。</p>",
+      "locales": {
+        "fr": {
+          "title": "ça : reprise neutre et expressions figées à l'oral",
+          "body": "<p>ça est la forme orale de cela : il reprend une chose, une situation ou un ensemble déjà mentionné et peut être sujet, objet ou complément de préposition. Son registre est familier et il ne peut pas recevoir de proposition relative.</p><ul><li>Ça va ? — Ça va bien, merci.</li><li>Ça y est, j'ai terminé !</li><li>Tout ça est fini.</li><li>Ça ne me plaît pas.</li><li>Ça dépend du temps.</li><li>Ça fait dix euros.</li></ul><p>Les expressions figées s'apprennent globalement : Ça va, Ça y est, Ça alors !, C'est ça, Comme ci comme ça, Ça dépend.</p><p>Points essentiels :</p><ul><li>Dans ces expressions, on ne remplace pas ça par ce : salutations, exclamations et confirmation de quantité sont figées.</li><li>ça ne peut pas recevoir de proposition relative.</li><li>Le ce de c'est ne se remplace pas non plus par ça : C'est mon ami, et non *Ça est mon ami.</li></ul><p>Attention : l'écrit formel emploie souvent cela ; les expressions avec ça ne se remplacent pas mot pour mot par ce.</p>"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-card-u6-5",
       "title": "ce / ceci / cela / ça 的选择",
-      "body": "<p>四个形式都属中性指代，但搭配和语域不同。</p><ol><li>ce：只与 être、pouvoir、devoir 等少数动词搭配，不能直接带名词；元音前省音为 c'。<ul><li>C'est vrai. / Ce doit être lui. / Ce peut être utile.</li></ul></li></ol><ol><li>ceci：书面语，指向近处或下文；cela：书面或中性，指向远处、上文或整体。<ul><li>Ceci est un exemple ; cela suffit.（这是一个例子；这就够了。）</li></ul></li></ol><ol><li>ça：口语，替代 cela，广泛用于日常对话和固定套语。<ul><li>Ça va ? / Ça y est ! / Ça m'étonne.</li></ul></li></ol><p>对比：</p><ul><li>Cela me plaît. = Ça me plaît.（书面 / 口语）</li><li>*Ce me plaît. → 错：ce 不能作普通动词的主语。</li><li>*Ça est mon frère. → 错：应说 C'est mon frère。</li></ul><p>判断顺序：先看是否固定套语（用 ça）；再看是否书面且指近处或下文（ceci）或上文、整体（cela）；最后看后面是否直接跟 être、pouvoir、devoir（用 ce）。</p>"
+      "body": "<p>四个形式都属中性指代，但搭配和语域不同。</p><ol><li>ce：只与 être、pouvoir、devoir 等少数动词搭配，不能直接带名词；元音前省音为 c'。<ul><li>C'est vrai. / Ce doit être lui. / Ce peut être utile.</li></ul></li></ol><ol><li>ceci：书面语，指向近处或下文；cela：书面或中性，指向远处、上文或整体。<ul><li>Ceci est un exemple ; cela suffit.（这是一个例子；这就够了。）</li></ul></li></ol><ol><li>ça：口语，替代 cela，广泛用于日常对话和固定套语。<ul><li>Ça va ? / Ça y est ! / Ça m'étonne.</li></ul></li></ol><p>对比：</p><ul><li>Cela me plaît. = Ça me plaît.（书面 / 口语）</li><li>*Ce me plaît. → 错：ce 不能作普通动词的主语。</li><li>*Ça est mon frère. → 错：应说 C'est mon frère。</li></ul><p>判断顺序：先看是否固定套语（用 ça）；再看是否书面且指近处或下文（ceci）或上文、整体（cela）；最后看后面是否直接跟 être、pouvoir、devoir（用 ce）。</p>",
+      "locales": {
+        "fr": {
+          "title": "Choisir entre ce, ceci, cela et ça",
+          "body": "<p>Les quatre formes relèvent de la reprise neutre, mais leurs constructions et registres diffèrent.</p><ol><li>ce : réservé à être, pouvoir, devoir, etc., jamais directement suivi d'un nom ; s'élide en c' devant voyelle.<ul><li>C'est vrai. / Ce doit être lui. / Ce peut être utile.</li></ul></li></ol><ol><li>ceci : écrit, renvoie à ce qui est proche ou à ce qui suit ; cela : écrit ou neutre, renvoie à ce qui est éloigné, à ce qui précède ou à l'ensemble.<ul><li>Ceci est un exemple ; cela suffit.</li></ul></li></ol><ol><li>ça : oral, remplace cela, très employé dans la conversation et les expressions figées.<ul><li>Ça va ? / Ça y est ! / Ça m'étonne.</li></ul></li></ol><p>Comparaison :</p><ul><li>Cela me plaît. = Ça me plaît. (écrit / oral)</li><li>*Ce me plaît. → faux : ce ne peut pas être sujet d'un verbe ordinaire.</li><li>*Ça est mon frère. → faux : on dit C'est mon frère.</li></ul><p>Ordre de décision : voir d'abord s'il s'agit d'une expression figée (ça) ; puis si le registre est écrit et renvoie à ce qui est proche ou suit (ceci), ou à ce qui précède ou à l'ensemble (cela) ; enfin si ce est directement suivi d'être, pouvoir ou devoir (ce).</p>"
+        }
+      }
     }
   ],
   "lessons": [
@@ -148,7 +298,12 @@
           ],
           "answer": 3,
           "translation": "这不是我的钥匙；这是我哥哥的。",
-          "explain": "空白处代替 clés（阴性复数），因此用 celles；de mon frère 说明所属。ce sont 与复数表语一致。celui 是阳性单数，celle 是阴性单数，ceux 是阳性复数。"
+          "explain": "空白处代替 clés（阴性复数），因此用 celles；de mon frère 说明所属。ce sont 与复数表语一致。celui 是阳性单数，celle 是阴性单数，ceux 是阳性复数。",
+          "locales": {
+            "fr": {
+              "explain": "Le blanc reprend clés (féminin pluriel), d'où celles ; de mon frère indique l'appartenance. ce sont s'accorde avec l'attribut pluriel. celui est masculin singulier, celle féminin singulier et ceux masculin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l1-q2",
@@ -177,7 +332,12 @@
             "des"
           ],
           "translation": "这些书是玛丽的。",
-          "explain": "指示限定词 ce 变 ces，名词 livre 变 livres，动词 est 变 sont；简单指示代词 celui 代替 livre，变为阳性复数 ceux；de Marie 不变。ce sont 后接复数表语。"
+          "explain": "指示限定词 ce 变 ces，名词 livre 变 livres，动词 est 变 sont；简单指示代词 celui 代替 livre，变为阳性复数 ceux；de Marie 不变。ce sont 后接复数表语。",
+          "locales": {
+            "fr": {
+              "explain": "Le déterminant démonstratif ce devient ces, le nom livre devient livres et le verbe est devient sont ; le pronom démonstratif simple celui, qui reprend livre, devient masculin pluriel ceux ; de Marie reste inchangé. Après ce sont, l'attribut est au pluriel."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l1-q3",
@@ -191,7 +351,12 @@
           ],
           "answer": 2,
           "translation": "这条裙子比你姐姐那条更优雅。",
-          "explain": "先行词 robe 是阴性单数，简单指示代词用 celle；de ta sœur 说明所属。celui 是阳性单数，celles 是阴性复数，ceux 是阳性复数，均不配合。"
+          "explain": "先行词 robe 是阴性单数，简单指示代词用 celle；de ta sœur 说明所属。celui 是阳性单数，celles 是阴性复数，ceux 是阳性复数，均不配合。",
+          "locales": {
+            "fr": {
+              "explain": "L'antécédent robe est féminin singulier, d'où le pronom démonstratif simple celle ; de ta sœur indique l'appartenance. celui est masculin singulier, celles féminin pluriel et ceux masculin pluriel : aucun ne s'accorde."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l1-q4",
@@ -221,7 +386,12 @@
             ]
           ],
           "translation": "我更喜欢这个蛋糕。",
-          "explain": "ce gâteau 是阳性单数，复合指示代词用 celui-ci（近指）或 celui-là（远指）；这里用 celui-ci。celle-ci 是阴性单数，ceux-ci 是阳性复数，都不能代替 gâteau。"
+          "explain": "ce gâteau 是阳性单数，复合指示代词用 celui-ci（近指）或 celui-là（远指）；这里用 celui-ci。celle-ci 是阴性单数，ceux-ci 是阳性复数，都不能代替 gâteau。",
+          "locales": {
+            "fr": {
+              "explain": "ce gâteau est masculin singulier : le pronom démonstratif composé est celui-ci (proche) ou celui-là (éloigné) ; ici, on emploie celui-ci. celle-ci est féminin singulier, ceux-ci masculin pluriel : aucun ne peut remplacer gâteau."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l1-q5",
@@ -235,7 +405,12 @@
           ],
           "answer": 1,
           "translation": "你拿这个箱子还是那边那个？",
-          "explain": "valise 是阴性单数，复合指示代词用 celle-ci/celle-là。对举「这个……还是那个」时，第二项用 celle-là；là-bas 明示远指，排除 celle-ci。celui-là 是阳性，celles-là 是阴性复数，均不配合。"
+          "explain": "valise 是阴性单数，复合指示代词用 celle-ci/celle-là。对举「这个……还是那个」时，第二项用 celle-là；là-bas 明示远指，排除 celle-ci。celui-là 是阳性，celles-là 是阴性复数，均不配合。",
+          "locales": {
+            "fr": {
+              "explain": "valise est féminin singulier, d'où le pronom composé celle-ci/celle-là. Dans l'opposition « celle-ci ou celle-là », le second terme est celle-là ; là-bas marque explicitement l'éloignement et écarte celle-ci. celui-là est masculin, celles-là féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l1-q6",
@@ -249,7 +424,12 @@
           ],
           "answer": 0,
           "translation": "「这件衬衫？我更喜欢那件。」中 celle-là 指什么？",
-          "explain": "celle-là 是阴性单数复合指示代词，这里与 cette chemise 对举，指另一件衬衫；-là 不一定表示空间上很远，口语中常只表示「那一个/另一个」。它不能回指刚提到的同一件衬衫，也不是指听话人的衬衫，更不能指多件。"
+          "explain": "celle-là 是阴性单数复合指示代词，这里与 cette chemise 对举，指另一件衬衫；-là 不一定表示空间上很远，口语中常只表示「那一个/另一个」。它不能回指刚提到的同一件衬衫，也不是指听话人的衬衫，更不能指多件。",
+          "locales": {
+            "fr": {
+              "explain": "celle-là est un pronom démonstratif composé féminin singulier ; il oppose ici une autre chemise à cette chemise. -là ne marque pas nécessairement un grand éloignement spatial : à l'oral, il signifie souvent « celle-là, l'autre ». Il ne reprend pas la chemise déjà mentionnée, ne désigne pas celle de l'interlocuteur et ne renvoie pas à plusieurs chemises."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l1-q7",
@@ -262,7 +442,12 @@
             "a"
           ],
           "translation": "这双鞋比我姐姐的那双贵。",
-          "explain": "先行词 chaussures 是阴性复数，简单指示代词用 celles；de ma sœur 说明所属。不能写成 celle（阴性单数）或 ceux（阳性复数）。"
+          "explain": "先行词 chaussures 是阴性复数，简单指示代词用 celles；de ma sœur 说明所属。不能写成 celle（阴性单数）或 ceux（阳性复数）。",
+          "locales": {
+            "fr": {
+              "explain": "L'antécédent chaussures est féminin pluriel, d'où le pronom démonstratif simple celles ; de ma sœur indique l'appartenance. On n'écrit ni celle (féminin singulier) ni ceux (masculin pluriel)."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l1-q8",
@@ -275,7 +460,12 @@
             "s"
           ],
           "translation": "这个蛋糕比面包店的那个好吃。",
-          "explain": "先行词 gâteau 是阳性单数，用 celui；de la boulangerie 是 de 补语，la 不缩合。不能写成 celle（阴性）或 ceux（复数）。"
+          "explain": "先行词 gâteau 是阳性单数，用 celui；de la boulangerie 是 de 补语，la 不缩合。不能写成 celle（阴性）或 ceux（复数）。",
+          "locales": {
+            "fr": {
+              "explain": "L'antécédent gâteau est masculin singulier, d'où celui ; de la boulangerie est un complément en de, et la ne se contracte pas. On n'écrit ni celle (féminin) ni ceux (pluriel)."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l1-q9",
@@ -314,7 +504,12 @@
             "des"
           ],
           "translation": "莫奈的画比雷诺阿的画更有名。",
-          "explain": "重复的 les tableaux 用阳性复数简单指示代词 ceux 代替；de Renoir 保留，de 与专有名词不缩合。不能用 celles（阴性复数）或 celui（阳性单数）。"
+          "explain": "重复的 les tableaux 用阳性复数简单指示代词 ceux 代替；de Renoir 保留，de 与专有名词不缩合。不能用 celles（阴性复数）或 celui（阳性单数）。",
+          "locales": {
+            "fr": {
+              "explain": "Le groupe répété les tableaux se remplace par le pronom démonstratif simple masculin pluriel ceux ; de Renoir reste inchangé, et de ne se contracte pas devant un nom propre. On n'emploie ni celles (féminin pluriel) ni celui (masculin singulier)."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l1-q10",
@@ -328,9 +523,19 @@
           ],
           "answer": 1,
           "translation": "保罗的办公室比主任的办公室大。",
-          "explain": "bureau 是阳性单数，用 celui；de + le directeur 缩合为 du directeur，所以是 celui du directeur。de le 不缩合是错误形式；celle 是阴性；des 用于复数补语。"
+          "explain": "bureau 是阳性单数，用 celui；de + le directeur 缩合为 du directeur，所以是 celui du directeur。de le 不缩合是错误形式；celle 是阴性；des 用于复数补语。",
+          "locales": {
+            "fr": {
+              "explain": "bureau est masculin singulier, d'où celui ; de + le directeur se contracte en du directeur, d'où celui du directeur. de le non contracté est fautif ; celle est féminin et des s'emploie avec un complément pluriel."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Pronoms démonstratifs simples et composés ; complément en de"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-l2",
@@ -350,7 +555,12 @@
           ],
           "answer": 2,
           "translation": "我们的邻居有一个大花园；他们的花园很大。",
-          "explain": "主有者是 nos voisins（第三人称复数），被拥有名词 jardin 是阳性单数，因此用 le leur。la leur 是阴性单数，les leurs 是复数，leur 不能单独作主有代词。"
+          "explain": "主有者是 nos voisins（第三人称复数），被拥有名词 jardin 是阳性单数，因此用 le leur。la leur 是阴性单数，les leurs 是复数，leur 不能单独作主有代词。",
+          "locales": {
+            "fr": {
+              "explain": "Le possesseur est nos voisins (3e personne du pluriel) et le nom possédé jardin est masculin singulier, d'où le leur. la leur est féminin singulier, les leurs pluriel, et leur ne peut pas s'employer seul comme pronom possessif."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l2-q2",
@@ -363,7 +573,12 @@
             "s"
           ],
           "translation": "这支钢笔是我的吗？——是的，是你的。",
-          "explain": "问话人用 à moi 指自己，回答者则用第二人称单数 tu 指对方；被拥有名词 stylo 是阳性单数，所以用 le tien。这里补全词干 tien，冠词 le 已在题干中。不能写成 tienne（阴性）或 tiens（复数）。"
+          "explain": "问话人用 à moi 指自己，回答者则用第二人称单数 tu 指对方；被拥有名词 stylo 是阳性单数，所以用 le tien。这里补全词干 tien，冠词 le 已在题干中。不能写成 tienne（阴性）或 tiens（复数）。",
+          "locales": {
+            "fr": {
+              "explain": "L'interlocuteur emploie à moi pour parler de lui, mais le répondant s'adresse à lui avec tu ; le nom possédé stylo est masculin singulier, d'où le tien. Ici, on complète le radical tien, l'article le étant déjà dans l'énoncé. On n'écrit ni tienne (féminin) ni tiens (pluriel)."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l2-q3",
@@ -383,7 +598,12 @@
             "des"
           ],
           "translation": "这些钥匙是你的吗？——是的，是我的。",
-          "explain": "回答者用 les miennes 指自己的钥匙；主有者是第一人称单数 je，clés 是阴性复数，所以用 les miennes。mienne 是阴性单数，miens 是阳性复数，tiennes 是「你的」，均不符合。"
+          "explain": "回答者用 les miennes 指自己的钥匙；主有者是第一人称单数 je，clés 是阴性复数，所以用 les miennes。mienne 是阴性单数，miens 是阳性复数，tiennes 是「你的」，均不符合。",
+          "locales": {
+            "fr": {
+              "explain": "Le répondant désigne ses propres clés : le possesseur est je (1re personne du singulier) et clés est féminin pluriel, d'où les miennes. mienne est féminin singulier, miens masculin pluriel et tiennes signifie « les tiennes »."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l2-q4",
@@ -397,7 +617,12 @@
           ],
           "answer": 0,
           "translation": "这些大衣是你们的：这些就是你们的。",
-          "explain": "à vous 明确主有者是 vous；manteaux 是阳性复数，所以用 les vôtres。nôtre/vôtre 类复数阴阳同形，并保留长音符号；les votre 缺少 -s 和长音符号，les nôtres 是「我们的」，les leurs 是「他们的」。"
+          "explain": "à vous 明确主有者是 vous；manteaux 是阳性复数，所以用 les vôtres。nôtre/vôtre 类复数阴阳同形，并保留长音符号；les votre 缺少 -s 和长音符号，les nôtres 是「我们的」，les leurs 是「他们的」。",
+          "locales": {
+            "fr": {
+              "explain": "à vous indique clairement un possesseur de 2e personne du pluriel ; manteaux est masculin pluriel, d'où les vôtres. Dans le type nôtre/vôtre, le pluriel est identique pour les deux genres et porte l'accent circonflexe ; les votre omet le -s et l'accent, les nôtres signifie « les nôtres » et les leurs « les leurs »."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l2-q5",
@@ -410,7 +635,12 @@
             "n"
           ],
           "translation": "这辆车是她的吗？——是的，是她的。",
-          "explain": "主有者是 elle（第三人称单数），被拥有名词 voiture 是阴性单数，用 la sienne。sien 是阳性单数，siens/siennes 是复数；主有者的性别不影响词干，仍是 sien 类。"
+          "explain": "主有者是 elle（第三人称单数），被拥有名词 voiture 是阴性单数，用 la sienne。sien 是阳性单数，siens/siennes 是复数；主有者的性别不影响词干，仍是 sien 类。",
+          "locales": {
+            "fr": {
+              "explain": "Le possesseur est elle (3e personne du singulier) et le nom possédé voiture est féminin singulier, d'où la sienne. sien est masculin singulier, siens/siennes sont pluriels ; le sexe du possesseur ne change pas le radical, qui reste du type sien."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l2-q6",
@@ -424,9 +654,19 @@
           ],
           "answer": 3,
           "translation": "我父母有他们的计划；索菲和朱莉也有她们自己的。",
-          "explain": "主有者是 Sophie et Julie（第三人称复数），被拥有名词 projets 是阳性复数，用 les leurs。les leur 缺复数 -s；les siennes 是阴性复数且主有者为单数「她的」；les nôtres 是「我们的」。"
+          "explain": "主有者是 Sophie et Julie（第三人称复数），被拥有名词 projets 是阳性复数，用 les leurs。les leur 缺复数 -s；les siennes 是阴性复数且主有者为单数「她的」；les nôtres 是「我们的」。",
+          "locales": {
+            "fr": {
+              "explain": "Le possesseur est Sophie et Julie (3e personne du pluriel) et le nom possédé projets est masculin pluriel, d'où les leurs. les leur omet le -s du pluriel ; les siennes est féminin pluriel avec un possesseur singulier « elle » ; les nôtres signifie « les nôtres »."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Pronoms possessifs : formes, accord et choix"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-l3-1",
@@ -446,7 +686,12 @@
           ],
           "answer": 1,
           "translation": "有些人喜欢茶；另一些人喜欢咖啡，还有几个人两者都不喜欢。",
-          "explain": "d'autres 单独作泛指代词，表示「另一些人」，与 certains 对举；后面的 quelques-uns n'aiment ni l'un ni l'autre 说明并非「其余全部」，所以不能用 les autres。l'autre 是单数，un autre 是单数且不能直接作复数主语。"
+          "explain": "d'autres 单独作泛指代词，表示「另一些人」，与 certains 对举；后面的 quelques-uns n'aiment ni l'un ni l'autre 说明并非「其余全部」，所以不能用 les autres。l'autre 是单数，un autre 是单数且不能直接作复数主语。",
+          "locales": {
+            "fr": {
+              "explain": "d'autres s'emploie seul comme pronom indéfini et signifie « d'autres personnes », en opposition avec certains ; la suite quelques-uns n'aiment ni l'un ni l'autre montre qu'il ne s'agit pas de « tout le reste », donc les autres ne convient pas. l'autre est singulier et un autre est singulier et ne peut pas être sujet pluriel."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q2",
@@ -460,7 +705,12 @@
           ],
           "answer": 0,
           "translation": "有好几个款式。我不喜欢这件大衣；给我看另一件。",
-          "explain": "这里指单数的另一件大衣，用 un autre（后面省略名词 manteau）。l'autre 暗示只有两件且指确定的那一件；d'autres 是复数；autre 不能单独作宾语。"
+          "explain": "这里指单数的另一件大衣，用 un autre（后面省略名词 manteau）。l'autre 暗示只有两件且指确定的那一件；d'autres 是复数；autre 不能单独作宾语。",
+          "locales": {
+            "fr": {
+              "explain": "Il s'agit d'un autre manteau au singulier, d'où un autre, le nom manteau étant sous-entendu. l'autre suppose deux objets et désigne l'autre déterminé ; d'autres est pluriel ; autre ne peut pas s'employer seul comme objet."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q3",
@@ -484,7 +734,12 @@
             "les autres"
           ],
           "translation": "我还知道其他几条路。",
-          "explain": "复数不定限定词用 d'autres + 名词，d' 是 de 在元音前的省音；chemin 变复数 chemins。原句单数的 un autre chemin 变成复数的 d'autres chemins，表示「另外几条路」。不能写 des autres（定指「其余那些」），也不能保留单数 un autre。"
+          "explain": "复数不定限定词用 d'autres + 名词，d' 是 de 在元音前的省音；chemin 变复数 chemins。原句单数的 un autre chemin 变成复数的 d'autres chemins，表示「另外几条路」。不能写 des autres（定指「其余那些」），也不能保留单数 un autre。",
+          "locales": {
+            "fr": {
+              "explain": "Au pluriel, le déterminant indéfini est d'autres + nom, où d' est l'élision de de devant voyelle ; chemin passe à chemins. Le singulier un autre chemin devient donc d'autres chemins, « d'autres chemins ». On n'écrit pas des autres (déterminé, « les autres ») et l'on ne garde pas le singulier un autre."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q4",
@@ -520,7 +775,12 @@
             "des autres"
           ],
           "translation": "这些蛋糕很好吃。我要再尝几个别的。",
-          "explain": "整句变复数：ce 变 ces，gâteau 变 gâteaux，est 变 sont，bon 变 bons；un autre 代替单数名词，变为泛指代词 d'autres。en goûter d'autres 中 d'autres 代替「别的蛋糕」。"
+          "explain": "整句变复数：ce 变 ces，gâteau 变 gâteaux，est 变 sont，bon 变 bons；un autre 代替单数名词，变为泛指代词 d'autres。en goûter d'autres 中 d'autres 代替「别的蛋糕」。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase entière passe au pluriel : ce devient ces, gâteau devient gâteaux, est devient sont et bon devient bons ; un autre, qui reprend un nom singulier, devient le pronom indéfini d'autres. Dans en goûter d'autres, d'autres reprend « d'autres gâteaux »."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q5",
@@ -534,7 +794,12 @@
           ],
           "answer": 2,
           "translation": "这双鞋太小了。您有另一个尺码吗？",
-          "explain": "pointure 是阴性单数名词，表示「另一个尺码」用 une autre + 名词。un autre 是阳性形式；d'autres 后必须接复数名词；autre 不能直接修饰名词，前面要有冠词。"
+          "explain": "pointure 是阴性单数名词，表示「另一个尺码」用 une autre + 名词。un autre 是阳性形式；d'autres 后必须接复数名词；autre 不能直接修饰名词，前面要有冠词。",
+          "locales": {
+            "fr": {
+              "explain": "pointure est un nom féminin singulier : « un autre taille/correspondance » s'exprime par une autre + nom. un autre est masculin ; d'autres exige un nom pluriel ; autre ne peut pas déterminer directement un nom sans article."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q6",
@@ -548,7 +813,12 @@
           ],
           "answer": 1,
           "translation": "三十名学生中，只有几个人在场。",
-          "explain": "quelques-uns 代替前文复数名词 étudiants 中的「一些」，阳性复数，与 seulement 搭配表示人数少。d'autres 表示「另外一些」，不强调数量少；les autres 指「其余全部」，与 seulement 矛盾；l'autre 是单数。"
+          "explain": "quelques-uns 代替前文复数名词 étudiants 中的「一些」，阳性复数，与 seulement 搭配表示人数少。d'autres 表示「另外一些」，不强调数量少；les autres 指「其余全部」，与 seulement 矛盾；l'autre 是单数。",
+          "locales": {
+            "fr": {
+              "explain": "quelques-uns reprend une partie des étudiants, nom masculin pluriel, et s'emploie avec seulement pour indiquer un petit nombre. d'autres signifie « d'autres » et n'insiste pas sur le petit nombre ; les autres désigne « tout le reste », ce qui contredit seulement ; l'autre est singulier."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q7",
@@ -574,7 +844,12 @@
             "d'autres"
           ],
           "translation": "其他人已经走了。",
-          "explain": "l'autre 变复数 les autres，autre 加 -s；主语 les autres 是第三人称复数，être 用 sont；过去分词与阴性复数主语配合，partie 变 parties。"
+          "explain": "l'autre 变复数 les autres，autre 加 -s；主语 les autres 是第三人称复数，être 用 sont；过去分词与阴性复数主语配合，partie 变 parties。",
+          "locales": {
+            "fr": {
+              "explain": "l'autre devient les autres au pluriel, et autre prend -s ; le sujet les autres est à la 3e personne du pluriel, d'où sont, et le participe s'accorde au féminin pluriel en parties."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q8",
@@ -588,7 +863,12 @@
           ],
           "answer": 3,
           "translation": "我有两个姐妹：一个是医生，另一个是律师。",
-          "explain": "两者中的「另一个」用定指的 l'autre，与 l'une 成对；une autre 是不定的「再一个」，不限于两者；les autres 是复数；d'autres 是泛指复数。"
+          "explain": "两者中的「另一个」用定指的 l'autre，与 l'une 成对；une autre 是不定的「再一个」，不限于两者；les autres 是复数；d'autres 是泛指复数。",
+          "locales": {
+            "fr": {
+              "explain": "Pour « l'autre des deux », on emploie l'autre déterminé, en paire avec l'une ; une autre est indéfini (« encore une autre ») et ne se limite pas à deux ; les autres est pluriel et d'autres est un indéfini pluriel."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q9",
@@ -601,9 +881,19 @@
             "u"
           ],
           "translation": "其余的人已经走了。",
-          "explain": "定指复数用 les autres，autre 要加 -s；主语是复数，助动词 sont 与过去分词 partis 也都是复数。不能写成单数 autre。"
+          "explain": "定指复数用 les autres，autre 要加 -s；主语是复数，助动词 sont 与过去分词 partis 也都是复数。不能写成单数 autre。",
+          "locales": {
+            "fr": {
+              "explain": "Le pluriel déterminé est les autres, avec -s à autre ; le sujet est pluriel, l'auxiliaire sont et le participe partis sont aussi au pluriel. On n'écrit pas le singulier autre."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "autre, l'autre et l'un...l'autre (1)"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-l3-2",
@@ -639,7 +929,12 @@
             "les autres"
           ],
           "translation": "一个高，另一个矮。（均为女性）",
-          "explain": "成对结构 l'un...l'autre 的性数随所指对象变化：全女性用 l'une...l'autre。表语形容词也要与阴性主语配合：grand 变 grande，petit 变 petite。"
+          "explain": "成对结构 l'un...l'autre 的性数随所指对象变化：全女性用 l'une...l'autre。表语形容词也要与阴性主语配合：grand 变 grande，petit 变 petite。",
+          "locales": {
+            "fr": {
+              "explain": "Dans la structure l'un...l'autre, le genre et le nombre suivent les référents : pour un ensemble entièrement féminin, on emploie l'une...l'autre. Les adjectifs attributs s'accordent aussi au féminin : grande et petite."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q11",
@@ -653,7 +948,12 @@
           ],
           "answer": 2,
           "translation": "这两幅画都很美：一幅画的是海，另一幅画的是山。",
-          "explain": "tableaux 是阳性复数，但这里按个体两两对举，用单数 l'un...l'autre。l'une...l'autre 是阴性；les uns...les autres 用于群体分组；l'un...les autres 搭配不对称。"
+          "explain": "tableaux 是阳性复数，但这里按个体两两对举，用单数 l'un...l'autre。l'une...l'autre 是阴性；les uns...les autres 用于群体分组；l'un...les autres 搭配不对称。",
+          "locales": {
+            "fr": {
+              "explain": "tableaux est masculin pluriel, mais l'opposition se fait ici entre deux éléments considérés un par un : on emploie le singulier l'un...l'autre. l'une...l'autre est féminin ; les uns...les autres sert à des groupes ; l'un...les autres est asymétrique."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q12",
@@ -667,7 +967,12 @@
           ],
           "answer": 1,
           "translation": "在这个城市里我不认识别的任何人。",
-          "explain": "personne 后接 d'autre 表示「没有别人」，d' 是 de 在元音前的省音，形式固定。personne autre 缺 de；personne des autres 不成立；aucun autre 后须接名词或用于 autre 的限定结构，不能直接替代 personne。"
+          "explain": "personne 后接 d'autre 表示「没有别人」，d' 是 de 在元音前的省音，形式固定。personne autre 缺 de；personne des autres 不成立；aucun autre 后须接名词或用于 autre 的限定结构，不能直接替代 personne。",
+          "locales": {
+            "fr": {
+              "explain": "Après personne, d'autre signifie « personne d'autre » ; d' est l'élision de de devant voyelle et la forme est figée. personne autre omet de, personne des autres est impossible, et aucun autre doit déterminer un nom ou s'employer dans une structure avec autre, sans remplacer directement personne."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q13",
@@ -691,7 +996,12 @@
             "personnes"
           ],
           "translation": "没有别人来过。",
-          "explain": "quelqu'un d'autre 在绝对否定中换成 personne d'autre。personne 作主语时放在动词前，ne 紧随其后；est 与 ne 省音为 n'est。d'autre 保持单数固定形式。"
+          "explain": "quelqu'un d'autre 在绝对否定中换成 personne d'autre。personne 作主语时放在动词前，ne 紧随其后；est 与 ne 省音为 n'est。d'autre 保持单数固定形式。",
+          "locales": {
+            "fr": {
+              "explain": "Dans la négation absolue, quelqu'un d'autre devient personne d'autre. personne sujet se place devant le verbe et ne le suit immédiatement ; est s'élide avec ne en n'est. d'autre reste invariable au singulier."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q14",
@@ -705,7 +1015,12 @@
           ],
           "answer": 3,
           "translation": "这家店里没有别的东西让我感兴趣。",
-          "explain": "rien 后接 d'autre，表示「没有别的东西」；d' 是 de 的省音，autre 用单数固定形式。d'autres 是复数，autre 缺 de，de autre 没有省音。"
+          "explain": "rien 后接 d'autre，表示「没有别的东西」；d' 是 de 的省音，autre 用单数固定形式。d'autres 是复数，autre 缺 de，de autre 没有省音。",
+          "locales": {
+            "fr": {
+              "explain": "Après rien, d'autre signifie « rien d'autre » ; d' est l'élision de la préposition de, et autre reste au singulier. d'autres est pluriel, autre omet de, et de autre ne s'élide pas correctement."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q15",
@@ -730,7 +1045,12 @@
             "personne"
           ],
           "translation": "我没有看见别的东西。",
-          "explain": "quelque chose d'autre 在绝对否定中换成 rien d'autre。rien 作直接宾语放在助动词与过去分词之间：Je n'ai rien vu d'autre。不能保留 pas，也不能用 personne（指人）。"
+          "explain": "quelque chose d'autre 在绝对否定中换成 rien d'autre。rien 作直接宾语放在助动词与过去分词之间：Je n'ai rien vu d'autre。不能保留 pas，也不能用 personne（指人）。",
+          "locales": {
+            "fr": {
+              "explain": "Dans la négation absolue, quelque chose d'autre devient rien d'autre. rien COD se place entre l'auxiliaire et le participe : Je n'ai rien vu d'autre. On ne garde pas la négation pas et l'on n'emploie pas personne, qui désigne des personnes."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q16",
@@ -744,7 +1064,12 @@
           ],
           "answer": 2,
           "translation": "我读过这位作者的三本小说。两本我喜欢；另一本让我失望。",
-          "explain": "在确定的三本中，除去已经提到的两本，剩下的最后一本用定指单数 l'autre。un autre 是不定的「再一本」，不表示剩余；les autres 是复数；d'autres 是泛指复数。"
+          "explain": "在确定的三本中，除去已经提到的两本，剩下的最后一本用定指单数 l'autre。un autre 是不定的「再一本」，不表示剩余；les autres 是复数；d'autres 是泛指复数。",
+          "locales": {
+            "fr": {
+              "explain": "Parmi trois romans déterminés, après les deux déjà mentionnés, il reste le dernier : on emploie l'autre au singulier déterminé. un autre est indéfini (« encore un ») et ne marque pas le reste ; les autres est pluriel et d'autres indéfini pluriel."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q17",
@@ -774,7 +1099,12 @@
             "d'autre"
           ],
           "translation": "有些学生有另一个项目。→ 学生中有几位有其他项目。",
-          "explain": "quelques-uns 代替 certains élèves 中的一部分，后接 de + 定冠词复数 des 限定范围，谓语与 quelques-uns 一致用复数 ont；un autre projet 变复数用 d'autres projets，d' 是 de 在元音前的省音。quelques-unes 是阴性；保留单数 un autre projet 则与 quelques-uns 的复数意义不符。"
+          "explain": "quelques-uns 代替 certains élèves 中的一部分，后接 de + 定冠词复数 des 限定范围，谓语与 quelques-uns 一致用复数 ont；un autre projet 变复数用 d'autres projets，d' 是 de 在元音前的省音。quelques-unes 是阴性；保留单数 un autre projet 则与 quelques-uns 的复数意义不符。",
+          "locales": {
+            "fr": {
+              "explain": "quelques-uns reprend une partie de certains élèves et se construit avec de + article défini pluriel des pour délimiter l'ensemble ; le verbe s'accorde avec quelques-uns au pluriel : ont. un autre projet devient d'autres projets au pluriel, avec élision de la préposition de en d'. quelques-unes est féminin, et garder le singulier un autre projet contredirait le pluriel de quelques-uns."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l3-q18",
@@ -798,9 +1128,19 @@
             "partis"
           ],
           "translation": "有些人走了；另一个留下了。→ 有些人走了；其余的都留下了。",
-          "explain": "在确定群体中，除去已提到的 quelques-uns，剩余的全部用复数定指 les autres；谓语用 sont，过去分词与复数主语配合加 -s，写成 restés。d'autres 是泛指「另一些」，不表示剩余全部；l'autre 是单数。"
+          "explain": "在确定群体中，除去已提到的 quelques-uns，剩余的全部用复数定指 les autres；谓语用 sont，过去分词与复数主语配合加 -s，写成 restés。d'autres 是泛指「另一些」，不表示剩余全部；l'autre 是单数。",
+          "locales": {
+            "fr": {
+              "explain": "Dans un groupe déterminé, après avoir mentionné quelques-uns, tout le reste s'exprime par le pluriel déterminé les autres ; le verbe est sont et le participe s'accorde au pluriel en restés. d'autres est indéfini (« d'autres »), pas « tout le reste » ; l'autre est singulier."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "autre, l'autre et l'un...l'autre (2)"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-l4-1",
@@ -820,7 +1160,12 @@
           ],
           "answer": 0,
           "translation": "每位候选人都提交了一份完整的材料。",
-          "explain": "主语的中心词是 chacun，按第三人称单数处理；des candidats 只是 de 补语，不决定谓语。remettre 的复合过去时用 avoir，所以填 a。ont 会跟复数补语误配，est / sont 是 être，不能构成 remettre 的复合过去时。"
+          "explain": "主语的中心词是 chacun，按第三人称单数处理；des candidats 只是 de 补语，不决定谓语。remettre 的复合过去时用 avoir，所以填 a。ont 会跟复数补语误配，est / sont 是 être，不能构成 remettre 的复合过去时。",
+          "locales": {
+            "fr": {
+              "explain": "Le noyau du sujet est chacun : le verbe se met à la 3e personne du singulier, et des candidats n'est qu'un complément en de qui ne commande pas le verbe. Le passé composé de remettre emploie avoir, d'où a. ont s'accorderait à tort avec le complément pluriel, et est/sont appartiennent à être."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q2",
@@ -833,7 +1178,12 @@
             "t"
           ],
           "translation": "今天早上，每个孩子都收到了一份礼物。",
-          "explain": "chacun de + 复数名词作主语时，谓语仍用第三人称单数 a reçu；chacun 形式恒为单数，拼写是 c-h-a-c-u-n，结尾不加 s。"
+          "explain": "chacun de + 复数名词作主语时，谓语仍用第三人称单数 a reçu；chacun 形式恒为单数，拼写是 c-h-a-c-u-n，结尾不加 s。",
+          "locales": {
+            "fr": {
+              "explain": "chacun de + nom pluriel comme sujet impose le verbe à la 3e personne du singulier, d'où a reçu ; chacun reste toujours singulier et s'écrit c-h-a-c-u-n, sans -s final."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q3",
@@ -846,7 +1196,12 @@
             "t"
           ],
           "translation": "昨天，每位女候选人都介绍了自己的方案。",
-          "explain": "所指 candidates 全是女性，要用 chacune；它作主语时谓语用单数 a présenté。chacune 仍没有复数形式，不能在词尾加 s。"
+          "explain": "所指 candidates 全是女性，要用 chacune；它作主语时谓语用单数 a présenté。chacune 仍没有复数形式，不能在词尾加 s。",
+          "locales": {
+            "fr": {
+              "explain": "Comme les candidates sont toutes des femmes, on emploie chacune ; comme sujet, il impose le verbe au singulier, d'où a présenté. chacune n'a pas de pluriel et ne prend pas de -s."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q4",
@@ -860,7 +1215,12 @@
           ],
           "answer": 3,
           "translation": "每个学生都带了自己的书。",
-          "explain": "chacun 和 tout le monde 都按第三人称单数处理，谓语用 a apporté。chacun 强调逐个体，领属用 son / sa / ses，所以是 son livre；tout le monde 也用单数动词和 son / ses，不用 leur / leurs。只有最后一句同时满足这两点。"
+          "explain": "chacun 和 tout le monde 都按第三人称单数处理，谓语用 a apporté。chacun 强调逐个体，领属用 son / sa / ses，所以是 son livre；tout le monde 也用单数动词和 son / ses，不用 leur / leurs。只有最后一句同时满足这两点。",
+          "locales": {
+            "fr": {
+              "explain": "chacun et tout le monde se construisent à la 3e personne du singulier, avec le verbe a apporté. chacun insiste sur chaque individu et le possessif est son/sa/ses, d'où son livre ; tout le monde emploie aussi un verbe singulier et son/ses, non leur/leurs. Seule la dernière phrase satisfait ces deux conditions."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q5",
@@ -874,7 +1234,12 @@
           ],
           "answer": 2,
           "translation": "她们各自带着一份礼物到了。",
-          "explain": "chacune 作同位语，说明复数主语 elles 中的每一个，不支配谓语；谓语仍与 elles 一致，用 sont arrivées（阴性复数）。chacune 形式固定为单数，不能写 chacunes；est arrivées 和 sont arrivée 都有配合错误。"
+          "explain": "chacune 作同位语，说明复数主语 elles 中的每一个，不支配谓语；谓语仍与 elles 一致，用 sont arrivées（阴性复数）。chacune 形式固定为单数，不能写 chacunes；est arrivées 和 sont arrivée 都有配合错误。",
+          "locales": {
+            "fr": {
+              "explain": "chacune est ici en apposition et désigne chaque membre du sujet pluriel elles ; il ne commande pas le verbe, qui reste accordé avec elles : sont arrivées, féminin pluriel. chacune reste invariable et ne prend pas -s ; est arrivées et sont arrivée comportent des erreurs d'accord."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q6",
@@ -888,7 +1253,12 @@
           ],
           "answer": 1,
           "translation": "老师逐一提问了每个学生。",
-          "explain": "interroger qn 直接带宾语，chacun 是 interrogé 的直接宾语；des élèves 是 de 补语，用来说明 chacun 的范围。主语是 le professeur，所以 chacun 不是主语；它也不是 élèves 的定语或表语。"
+          "explain": "interroger qn 直接带宾语，chacun 是 interrogé 的直接宾语；des élèves 是 de 补语，用来说明 chacun 的范围。主语是 le professeur，所以 chacun 不是主语；它也不是 élèves 的定语或表语。",
+          "locales": {
+            "fr": {
+              "explain": "interroger qn se construit avec un objet direct : chacun est COD d'interroger ; des élèves est un complément en de qui précise l'ensemble auquel renvoie chacun. Le sujet est le professeur, donc chacun n'est pas sujet ; il n'est ni déterminant ni attribut du nom élèves."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q7",
@@ -928,9 +1298,19 @@
             ]
           ],
           "translation": "所有客人都收到了一份礼物。→ 客人们每人收到了一份礼物。",
-          "explain": "源句已用复数主语 tous les invités 和复数谓语 ont reçu；把代词 chacun 作同位语插在助动词与过去分词之间（或过去分词后），谓语仍与 les invités 一致，保持复数。所指包含男女，用 chacun 而非 chacune；chaque 是形容词，不能这样单独作同位语。"
+          "explain": "源句已用复数主语 tous les invités 和复数谓语 ont reçu；把代词 chacun 作同位语插在助动词与过去分词之间（或过去分词后），谓语仍与 les invités 一致，保持复数。所指包含男女，用 chacun 而非 chacune；chaque 是形容词，不能这样单独作同位语。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase source a déjà un sujet pluriel tous les invités et un verbe pluriel ont reçu ; le pronom chacun s'insère en apposition entre l'auxiliaire et le participe (ou après le participe), sans changer l'accord : le verbe reste pluriel. Comme l'ensemble comprend hommes et femmes, on emploie chacun, non chacune ; chaque est un adjectif et ne peut pas s'employer seul ainsi."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Pronoms indéfinis : chacun, quelqu'un, quelques-uns (1)"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-l4-2",
@@ -950,7 +1330,12 @@
           ],
           "answer": 0,
           "translation": "这些照片中有几张是在布列塔尼拍的。",
-          "explain": "photos 是阴性复数，代词用 quelques-unes；谓语 ont été prises 也是阴性复数。quelques-uns 是阳性形式；quelqu'unes 拼写错误；quelques unes 缺少连字符。"
+          "explain": "photos 是阴性复数，代词用 quelques-unes；谓语 ont été prises 也是阴性复数。quelques-uns 是阳性形式；quelqu'unes 拼写错误；quelques unes 缺少连字符。",
+          "locales": {
+            "fr": {
+              "explain": "photos est féminin pluriel : on emploie le pronom quelques-unes, et le verbe ont été prises s'accorde aussi au féminin pluriel. quelques-uns est la forme masculine ; quelqu'unes est mal orthographié et quelques unes omet le trait d'union."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q9",
@@ -964,7 +1349,12 @@
           ],
           "answer": 2,
           "translation": "这些书中有几本是英文的。",
-          "explain": "livres 是阳性复数，代词用 quelques-uns，后接 de 限定范围。quelques 是形容词，后面必须直接跟名词（quelques livres），不能接 de；连字符不能省，quelqu'uns 拼写错误。"
+          "explain": "livres 是阳性复数，代词用 quelques-uns，后接 de 限定范围。quelques 是形容词，后面必须直接跟名词（quelques livres），不能接 de；连字符不能省，quelqu'uns 拼写错误。",
+          "locales": {
+            "fr": {
+              "explain": "livres est masculin pluriel : on emploie le pronom quelques-uns, suivi de de pour limiter l'ensemble. quelques est un adjectif et doit précéder directement un nom (quelques livres), sans de ; le trait d'union est obligatoire et quelqu'uns est mal orthographié."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q10",
@@ -990,7 +1380,12 @@
             "Certains"
           ],
           "translation": "一些学生来了。",
-          "explain": "quelques-uns 代替阳性复数 étudiants，后接 de + 定冠词复数 des 限定范围；谓语用第三人称复数 sont venus。不能用阴性的 quelques-unes，也不能用单数 est venu。"
+          "explain": "quelques-uns 代替阳性复数 étudiants，后接 de + 定冠词复数 des 限定范围；谓语用第三人称复数 sont venus。不能用阴性的 quelques-unes，也不能用单数 est venu。",
+          "locales": {
+            "fr": {
+              "explain": "quelques-uns reprend une partie des étudiants, masculin pluriel, et se construit avec de + article défini pluriel des pour limiter l'ensemble ; le verbe se met à la 3e personne du pluriel : sont venus. On n'emploie ni le féminin quelques-unes ni le singulier est venu."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q11",
@@ -1003,7 +1398,12 @@
             "t"
           ],
           "translation": "这些照片中有几张很旧。",
-          "explain": "photos 是阴性复数，代词要用 quelques-unes；空白处补出阴性复数词尾 unes。不能写 uns，也不能把 quelques- 当成形容词后直接接名词。"
+          "explain": "photos 是阴性复数，代词要用 quelques-unes；空白处补出阴性复数词尾 unes。不能写 uns，也不能把 quelques- 当成形容词后直接接名词。",
+          "locales": {
+            "fr": {
+              "explain": "photos est féminin pluriel : le pronom est quelques-unes, et le blanc complète la terminaison féminine plurielle unes. On n'écrit ni uns ni quelques- suivi directement d'un nom."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q12",
@@ -1017,7 +1417,12 @@
           ],
           "answer": 1,
           "translation": "这些信中有几封非常古老。",
-          "explain": "quelques-unes 是复数代词，谓语用第三人称复数 sont；de ces lettres 只是限定范围，不改变主谓一致。est、était、a 都是单数形式。"
+          "explain": "quelques-unes 是复数代词，谓语用第三人称复数 sont；de ces lettres 只是限定范围，不改变主谓一致。est、était、a 都是单数形式。",
+          "locales": {
+            "fr": {
+              "explain": "quelques-unes est un pronom pluriel : le verbe se met à la 3e personne du pluriel, d'où sont ; de ces lettres ne fait que limiter l'ensemble et ne change pas l'accord. est, était et a sont des formes du singulier."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q13",
@@ -1031,7 +1436,12 @@
           ],
           "answer": 3,
           "translation": "玛丽在找一个友善的人。",
-          "explain": "quelqu'un 后接 de + 形容词时，形容词用阳性单数，因为 quelqu'un 本身是阳性单数代词；即使实际寻找的是女性，也不写 gentille。gentils / gentilles 是复数，更不符合。"
+          "explain": "quelqu'un 后接 de + 形容词时，形容词用阳性单数，因为 quelqu'un 本身是阳性单数代词；即使实际寻找的是女性，也不写 gentille。gentils / gentilles 是复数，更不符合。",
+          "locales": {
+            "fr": {
+              "explain": "Après quelqu'un, l'adjectif complément se met au masculin singulier, car quelqu'un est un pronom masculin singulier ; même si l'on cherche une femme, on n'écrit pas gentille. gentils/gentilles sont pluriels et ne conviennent pas davantage."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q14",
@@ -1045,9 +1455,19 @@
           ],
           "answer": 0,
           "translation": "她给我们讲了一件令人惊讶的事。",
-          "explain": "quelque chose 是阳性单数代词，de 后的形容词用阳性单数 surprenant。它不随说话人或被讲述内容的实际性别变化，也不能用复数形式。"
+          "explain": "quelque chose 是阳性单数代词，de 后的形容词用阳性单数 surprenant。它不随说话人或被讲述内容的实际性别变化，也不能用复数形式。",
+          "locales": {
+            "fr": {
+              "explain": "quelque chose est un pronom masculin singulier : l'adjectif après de se met au masculin singulier surprenant. Il ne varie ni selon le locuteur ni selon le genre réel de ce qui est raconté, et ne se met pas au pluriel."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Pronoms indéfinis : chacun, quelqu'un, quelques-uns (2)"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-l4-3",
@@ -1069,7 +1489,12 @@
             "u"
           ],
           "translation": "这篇报道没什么有趣的：让人觉得无聊。",
-          "explain": "rien 是阳性单数，de 在元音前省音为 d'，后面的形容词用阳性单数 intéressant。词形注意 é 和中间的 ss；不能写阴性 intéressante。"
+          "explain": "rien 是阳性单数，de 在元音前省音为 d'，后面的形容词用阳性单数 intéressant。词形注意 é 和中间的 ss；不能写阴性 intéressante。",
+          "locales": {
+            "fr": {
+              "explain": "rien est masculin singulier, de s'élide en d' devant la voyelle et l'adjectif se met au masculin singulier intéressant. Attention à l'accent et aux deux s ; la forme féminine intéressante ne convient pas."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q16",
@@ -1083,7 +1508,12 @@
           ],
           "answer": 1,
           "translation": "这是一个和蔼可亲的人。",
-          "explain": "quelqu'un 后接 de + 形容词，形容词用阳性单数 aimable；de 在元音 a 前省音为 d'。de aimable 缺少省音，aimablee 和 aimables 词形错误。"
+          "explain": "quelqu'un 后接 de + 形容词，形容词用阳性单数 aimable；de 在元音 a 前省音为 d'。de aimable 缺少省音，aimablee 和 aimables 词形错误。",
+          "locales": {
+            "fr": {
+              "explain": "Après quelqu'un, de + adjectif se met au masculin singulier aimable ; de s'élide en d' devant la voyelle a. « de aimable » omet l'élision, tandis que aimablee et aimables sont des formes fautives."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q17",
@@ -1111,7 +1541,12 @@
             "film"
           ],
           "translation": "我们看了一部有趣的电影。→ 我们看到了某种有趣的东西。",
-          "explain": "quelque chose 后接形容词补语要用 de；de 在元音前省音为 d'，形容词用阳性单数 intéressant。不能保留 un film，也不能写 de intéressant 或 d'intéressante。"
+          "explain": "quelque chose 后接形容词补语要用 de；de 在元音前省音为 d'，形容词用阳性单数 intéressant。不能保留 un film，也不能写 de intéressant 或 d'intéressante。",
+          "locales": {
+            "fr": {
+              "explain": "Après quelque chose, l'adjectif complément est introduit par de, qui s'élide en d' devant voyelle, et se met au masculin singulier intéressant. On ne garde pas un film et l'on n'écrit ni « de intéressant » ni d'intéressante."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q18",
@@ -1125,7 +1560,12 @@
           ],
           "answer": 2,
           "translation": "你在找什么东西吗？——是的，我的钥匙。",
-          "explain": "答语是 mes clés（物品），所以问的是「某物」，用 quelque chose。quelqu'un 指人；quelques-uns 是复数代词，不能这样单独询问；chacun 指群体中的每一个。"
+          "explain": "答语是 mes clés（物品），所以问的是「某物」，用 quelque chose。quelqu'un 指人；quelques-uns 是复数代词，不能这样单独询问；chacun 指群体中的每一个。",
+          "locales": {
+            "fr": {
+              "explain": "La réponse mes clés désigne des objets : la question porte donc sur « quelque chose », d'où quelque chose. quelqu'un désigne une personne ; quelques-uns est un pronom pluriel qui ne convient pas à une question de ce type ; chacun renvoie à chaque membre d'un groupe."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q19",
@@ -1139,7 +1579,12 @@
           ],
           "answer": 3,
           "translation": "有些人已经到了。",
-          "explain": "谓语 sont arrivés 是第三人称复数，主语必须是复数代词，只有 quelques-uns 合适。quelqu'un、quelque chose、chacun 都是单数，谓语要用 est arrivé。"
+          "explain": "谓语 sont arrivés 是第三人称复数，主语必须是复数代词，只有 quelques-uns 合适。quelqu'un、quelque chose、chacun 都是单数，谓语要用 est arrivé。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe sont arrivés est à la 3e personne du pluriel : le sujet doit être un pronom pluriel, seul quelques-uns convient. quelqu'un, quelque chose et chacun sont singuliers et exigeraient est arrivé."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q20",
@@ -1172,7 +1617,13 @@
             "différente"
           ],
           "translation": "每个学生都带了一样不同的东西。",
-          "explain": "主语中心词 chacun 用第三人称单数 a apporté，des élèves 是 de 补语。quelque chose 是阳性单数，de 后的形容词用 différent。若用 quelques-uns，谓语需变成复数，意义也变成「一些学生」，与原句不符。"
+          "explain": "主语中心词 chacun 用第三人称单数 a apporté，des élèves 是 de 补语。quelque chose 是阳性单数，de 后的形容词用 différent。若用 quelques-uns，谓语需变成复数，意义也变成「一些学生」，与原句不符。",
+          "locales": {
+            "fr": {
+              "prompt": "Traduisez : « chaque étudiant a apporté une chose différente » → ___",
+              "explain": "Le noyau du sujet chacun impose la 3e personne du singulier a apporté, et des élèves est un complément en de. quelque chose est masculin singulier, et l'adjectif après de se met au masculin singulier différent. Avec quelques-uns, le verbe devrait passer au pluriel et le sens deviendrait « quelques étudiants », ce qui ne correspond pas à la phrase source."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l4-q21",
@@ -1186,9 +1637,19 @@
           ],
           "answer": 0,
           "translation": "这些小说中有几本很精彩：一本是侦探小说，另一本是历史小说。",
-          "explain": "romans 是阳性复数，代词用 quelques-uns，后接 de 限定范围，谓语用复数 sont；l'un...l'autre 对举其中两本。quelques-unes 是阴性；quelque chose 是单数指物；chacun 是单数，都不能与 sont 搭配。"
+          "explain": "romans 是阳性复数，代词用 quelques-uns，后接 de 限定范围，谓语用复数 sont；l'un...l'autre 对举其中两本。quelques-unes 是阴性；quelque chose 是单数指物；chacun 是单数，都不能与 sont 搭配。",
+          "locales": {
+            "fr": {
+              "explain": "romans est masculin pluriel : on emploie quelques-uns, suivi de de pour limiter l'ensemble, et le verbe se met au pluriel sont ; l'un...l'autre oppose ensuite deux de ces romans. quelques-unes est féminin, quelque chose est un singulier de chose et chacun est singulier : aucun ne peut s'accorder avec sont."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Pronoms indéfinis : chacun, quelqu'un, quelques-uns (3)"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-l5-1",
@@ -1208,7 +1669,12 @@
           ],
           "answer": 0,
           "translation": "没有人自告奋勇陪同这个团体。",
-          "explain": "personne 与 ne 连用表示「没有人」，作主语时置于动词前，谓语用第三人称单数 s'est proposé。se proposer 的主语必须是人，rien 指物不能成立；quelqu'un 是肯定意义；chacun 表示「每一个」，都不符合「没有人」的意思。"
+          "explain": "personne 与 ne 连用表示「没有人」，作主语时置于动词前，谓语用第三人称单数 s'est proposé。se proposer 的主语必须是人，rien 指物不能成立；quelqu'un 是肯定意义；chacun 表示「每一个」，都不符合「没有人」的意思。",
+          "locales": {
+            "fr": {
+              "explain": "personne s'emploie avec ne et signifie « personne » ; comme sujet, il se place devant le verbe et impose la 3e personne du singulier s'est proposé. Le sujet de se proposer doit être une personne : rien, qui désigne des choses, ne convient pas ; quelqu'un est positif et chacun signifie « chacun », ce qui ne correspond pas à « personne »."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q2",
@@ -1221,7 +1687,12 @@
             "t"
           ],
           "translation": "我在这里谁也不认识。",
-          "explain": "personne 作宾语放在动词后，与前面的 ne 构成否定；拼写有两个 n，结尾是 -e。不能写成 person 或 persones。"
+          "explain": "personne 作宾语放在动词后，与前面的 ne 构成否定；拼写有两个 n，结尾是 -e。不能写成 person 或 persones。",
+          "locales": {
+            "fr": {
+              "explain": "personne objet se place après le verbe et forme la négation avec ne devant le verbe ; le mot s'écrit avec deux n et se termine par -e. On n'écrit ni person ni persones."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q3",
@@ -1235,7 +1706,12 @@
           ],
           "answer": 2,
           "translation": "我谁也没看见。",
-          "explain": "personne 作宾语，在复合时态中放在过去分词之后：Je n'ai vu personne。ne 位于助动词前，不能写成 J'ai ne...；personne 也不能提到助动词前或主语前。"
+          "explain": "personne 作宾语，在复合时态中放在过去分词之后：Je n'ai vu personne。ne 位于助动词前，不能写成 J'ai ne...；personne 也不能提到助动词前或主语前。",
+          "locales": {
+            "fr": {
+              "explain": "personne objet, au temps composé, se place après le participe passé : Je n'ai vu personne. ne se place devant l'auxiliaire ; on n'écrit pas J'ai ne... et l'on ne place pas personne avant l'auxiliaire ou avant le sujet."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q4",
@@ -1256,7 +1732,12 @@
             "pas"
           ],
           "translation": "所有人都明白了。→ 没有人明白。",
-          "explain": "tout le monde 在绝对否定中换成 personne；personne 作主语放在动词前，与 ne 连用，复合过去时为 Personne n'a compris。personne 已含否定意义，不能再加 pas。"
+          "explain": "tout le monde 在绝对否定中换成 personne；personne 作主语放在动词前，与 ne 连用，复合过去时为 Personne n'a compris。personne 已含否定意义，不能再加 pas。",
+          "locales": {
+            "fr": {
+              "explain": "Dans la négation absolue, tout le monde cède la place à personne ; personne sujet se place devant le verbe et s'emploie avec ne, d'où Personne n'a compris au passé composé. personne contient déjà le sens négatif et ne s'emploie pas avec pas."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q5",
@@ -1270,7 +1751,13 @@
           ],
           "answer": 1,
           "translation": "有一个人来帮我们了。",
-          "explain": "句中有冠词 une，personne 是实义名词「一个人」，句子是肯定句，动词与阴性单数 une personne 配合：est venue。Personne est venue 缺少否定所需的 ne；est venu 配合错误；Personne n'est venue 意思是「没有人来帮我们」。"
+          "explain": "句中有冠词 une，personne 是实义名词「一个人」，句子是肯定句，动词与阴性单数 une personne 配合：est venue。Personne est venue 缺少否定所需的 ne；est venu 配合错误；Personne n'est venue 意思是「没有人来帮我们」。",
+          "locales": {
+            "fr": {
+              "prompt": "Quelle phrase signifie « une personne est venue nous aider » ?",
+              "explain": "La phrase comporte l'article une : personne est ici un nom concret signifiant « une personne », la phrase est affirmative et le verbe s'accorde avec une personne au féminin singulier : est venue. Personne est venue omet le ne nécessaire à la négation ; est venu est une faute d'accord ; Personne n'est venue signifie « personne n'est venu nous aider »."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q6",
@@ -1293,7 +1780,12 @@
             "pas"
           ],
           "translation": "所有人都知道这件事。→ 没有人知道这件事。",
-          "explain": "personne 作主语放在 ne 前；宾语代词 le 放在 ne 与变位动词之间，所以是 Personne ne le sait。personne 本身是否定词，不加 pas。"
+          "explain": "personne 作主语放在 ne 前；宾语代词 le 放在 ne 与变位动词之间，所以是 Personne ne le sait。personne 本身是否定词，不加 pas。",
+          "locales": {
+            "fr": {
+              "explain": "personne sujet se place devant ne ; le pronom objet le se place entre ne et le verbe conjugué, d'où Personne ne le sait. personne est déjà négatif et ne s'emploie pas avec pas."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q7",
@@ -1316,7 +1808,13 @@
             "venues"
           ],
           "translation": "没有别人来。",
-          "explain": "personne d'autre 表示「没有别人」，作主语放在动词前；d' 是 de 在元音前的省音，autre 用单数。复合过去时为 Personne d'autre n'est venu，不能再加 pas。"
+          "explain": "personne d'autre 表示「没有别人」，作主语放在动词前；d' 是 de 在元音前的省音，autre 用单数。复合过去时为 Personne d'autre n'est venu，不能再加 pas。",
+          "locales": {
+            "fr": {
+              "prompt": "Traduisez : « aucune autre personne n'est venue » → ___",
+              "explain": "personne d'autre signifie « personne d'autre » et se place comme sujet devant le verbe ; d' est l'élision de de devant voyelle et autre reste au singulier. Au passé composé : Personne d'autre n'est venu, sans pas supplémentaire."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q8",
@@ -1343,9 +1841,20 @@
             "ajouté"
           ],
           "translation": "我没有别的要补充了。",
-          "explain": "rien d'autre 表示「没有别的东西」；rien 作 avoir 的宾语，放在变位动词 ai 之后，d'autre 紧跟在 rien 后。不能用指人的 personne，也不能写 de autre。"
+          "explain": "rien d'autre 表示「没有别的东西」；rien 作 avoir 的宾语，放在变位动词 ai 之后，d'autre 紧跟在 rien 后。不能用指人的 personne，也不能写 de autre。",
+          "locales": {
+            "fr": {
+              "prompt": "Traduisez : « je n'ai pas autre chose à ajouter » → ___",
+              "explain": "rien d'autre signifie « rien d'autre » ; rien est COD d'avoir et se place après le verbe conjugué ai, d'autre restant accolé à rien. On n'emploie pas personne, qui désigne des personnes, et l'on n'écrit pas « de autre »."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Pronoms négatifs et négation partielle : personne, rien, pas grand-chose (1)"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-l5-2",
@@ -1365,7 +1874,12 @@
           ],
           "answer": 3,
           "translation": "幸运的是，事故中没有人受伤。",
-          "explain": "personne 是否定代词，形式固定为阳性单数；de 后的形容词用阳性单数 blessé，不随可能受伤者的实际性别变化。blessée / blessés / blessées 都违反这条配合规则。"
+          "explain": "personne 是否定代词，形式固定为阳性单数；de 后的形容词用阳性单数 blessé，不随可能受伤者的实际性别变化。blessée / blessés / blessées 都违反这条配合规则。",
+          "locales": {
+            "fr": {
+              "explain": "personne est un pronom négatif de forme fixement masculine singulière ; l'adjectif après de se met au masculin singulier blessé, sans varier selon le sexe réel des victimes possibles. blessée/blessés/blessées enfreignent cette règle d'accord."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q10",
@@ -1392,7 +1906,12 @@
             "personnes"
           ],
           "translation": "有人受伤了。→ 没有人受伤。",
-          "explain": "肯定句的 quelqu'un 在绝对否定中换成 personne；de 后的形容词仍用阳性单数 blessé。否定结构是 il n'y a personne，不再加 pas；n'y 已包含 ne 与 y。"
+          "explain": "肯定句的 quelqu'un 在绝对否定中换成 personne；de 后的形容词仍用阳性单数 blessé。否定结构是 il n'y a personne，不再加 pas；n'y 已包含 ne 与 y。",
+          "locales": {
+            "fr": {
+              "explain": "Dans la négation absolue, quelqu'un devient personne ; l'adjectif après de reste au masculin singulier blessé. La négation est il n'y a personne, sans pas supplémentaire ; n'y contient déjà ne et y."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q11",
@@ -1406,7 +1925,12 @@
           ],
           "answer": 0,
           "translation": "没什么严重的。",
-          "explain": "rien 是阳性单数，de 后的形容词用阳性单数 grave；grave 以 -e 结尾，但这里是形容词的固定形式，不需要再加性数标记。graves / gravee 配合错误，du grave 多加了冠词。"
+          "explain": "rien 是阳性单数，de 后的形容词用阳性单数 grave；grave 以 -e 结尾，但这里是形容词的固定形式，不需要再加性数标记。graves / gravee 配合错误，du grave 多加了冠词。",
+          "locales": {
+            "fr": {
+              "explain": "rien est masculin singulier et l'adjectif après de se met au masculin singulier grave ; grave se termine par -e, mais c'est ici la forme fixe de l'adjectif, sans marque supplémentaire de genre ou de nombre. graves/gravee sont des accords fautifs et du grave ajoute un article inutile."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q12",
@@ -1431,7 +1955,12 @@
             "arrivée"
           ],
           "translation": "发生了一件严重的事。→ 没有发生什么严重的事。",
-          "explain": "quelque chose 在绝对否定中换成 rien；rien 作主语放在动词前，与 ne 连用：Rien de grave n'est arrivé。de 后的形容词仍用阳性单数 grave，过去分词 arrivé 按 rien 的阳性单数处理。"
+          "explain": "quelque chose 在绝对否定中换成 rien；rien 作主语放在动词前，与 ne 连用：Rien de grave n'est arrivé。de 后的形容词仍用阳性单数 grave，过去分词 arrivé 按 rien 的阳性单数处理。",
+          "locales": {
+            "fr": {
+              "explain": "Dans la négation absolue, quelque chose devient rien ; rien sujet se place devant le verbe et s'emploie avec ne, d'où Rien de grave n'est arrivé. L'adjectif après de reste au masculin singulier grave, et le participe arrivé s'accorde avec rien au masculin singulier."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q13",
@@ -1445,7 +1974,12 @@
           ],
           "answer": 2,
           "translation": "电视上没什么有趣的。",
-          "explain": "rien 是阳性单数，de 后的形容词用阳性单数 intéressant；de 在元音 i 前省音为 d'，所以是 rien d'intéressant。de intéressant 缺少省音，intéressante 性数不对。"
+          "explain": "rien 是阳性单数，de 后的形容词用阳性单数 intéressant；de 在元音 i 前省音为 d'，所以是 rien d'intéressant。de intéressant 缺少省音，intéressante 性数不对。",
+          "locales": {
+            "fr": {
+              "explain": "rien est masculin singulier et l'adjectif après de se met au masculin singulier intéressant ; de s'élide en d' devant la voyelle i, d'où rien d'intéressant. « de intéressant » omet l'élision et intéressante a un genre incorrect."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q14",
@@ -1459,7 +1993,12 @@
           ],
           "answer": 1,
           "translation": "什么都没有准备好。",
-          "explain": "rien 作主语时放在动词前，并与 ne 连用；ne 在元音 est 前省音为 n'，所以是 Rien n'est prêt。rien 已含否定意义，不能再加 pas；Rien ne est 缺少省音。"
+          "explain": "rien 作主语时放在动词前，并与 ne 连用；ne 在元音 est 前省音为 n'，所以是 Rien n'est prêt。rien 已含否定意义，不能再加 pas；Rien ne est 缺少省音。",
+          "locales": {
+            "fr": {
+              "explain": "Comme sujet, rien se place devant le verbe et s'emploie avec ne ; ne s'élide en n' devant la voyelle est, d'où Rien n'est prêt. rien contient déjà le sens négatif et ne s'emploie pas avec pas ; Rien ne est omet l'élision."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q15",
@@ -1482,7 +2021,12 @@
             "quelque"
           ],
           "translation": "我吃了点东西。→ 我什么也没吃。",
-          "explain": "quelque chose 在绝对否定中换成 rien；复合时态中 rien 作宾语放在助动词与过去分词之间：Je n'ai rien mangé。personne 指人，mangée 配合错误，ne 不能单独放在 n'ai 之外。"
+          "explain": "quelque chose 在绝对否定中换成 rien；复合时态中 rien 作宾语放在助动词与过去分词之间：Je n'ai rien mangé。personne 指人，mangée 配合错误，ne 不能单独放在 n'ai 之外。",
+          "locales": {
+            "fr": {
+              "explain": "Dans la négation absolue, quelque chose devient rien ; au temps composé, rien COD se place entre l'auxiliaire et le participe : Je n'ai rien mangé. personne désigne des personnes, mangée est une faute d'accord et ne se place pas ailleurs qu'avec n'ai."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q16",
@@ -1496,9 +2040,19 @@
           ],
           "answer": 3,
           "translation": "在「Je n'ai rien vu」中，rien 位于助动词和过去分词之间。",
-          "explain": "rien 作宾语时放在变位动词后；复合时态中变位动词是助动词 ai，所以 rien 位于 ai 与过去分词 vu 之间。对比 personne 作宾语时要放在过去分词之后：Je n'ai vu personne。"
+          "explain": "rien 作宾语时放在变位动词后；复合时态中变位动词是助动词 ai，所以 rien 位于 ai 与过去分词 vu 之间。对比 personne 作宾语时要放在过去分词之后：Je n'ai vu personne。",
+          "locales": {
+            "fr": {
+              "explain": "Comme objet, rien se place après le verbe conjugué ; au temps composé, le verbe conjugué est l'auxiliaire ai, donc rien se trouve entre ai et le participe vu. À comparer avec personne objet, qui se place après le participe : Je n'ai vu personne."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Pronoms négatifs et négation partielle : personne, rien, pas grand-chose (2)"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-l5-3",
@@ -1518,7 +2072,12 @@
           ],
           "answer": 0,
           "translation": "你看见谁了吗？——没有，我谁也没看见。",
-          "explain": "问句用 quelqu'un 指人，绝对否定回答要用 personne；personne 作宾语放在过去分词后：je n'ai vu personne。rien 指物；quelque chose 是肯定；pas grand-chose 表示「没多少」，与问句的「是否看见某人」不匹配。"
+          "explain": "问句用 quelqu'un 指人，绝对否定回答要用 personne；personne 作宾语放在过去分词后：je n'ai vu personne。rien 指物；quelque chose 是肯定；pas grand-chose 表示「没多少」，与问句的「是否看见某人」不匹配。",
+          "locales": {
+            "fr": {
+              "explain": "La question emploie quelqu'un pour une personne ; la réponse négative absolue est personne, placé après le participe : je n'ai vu personne. rien désigne des choses, quelque chose est positif et pas grand-chose signifie « peu », ce qui ne répond pas à « as-tu vu quelqu'un ? »."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q18",
@@ -1532,7 +2091,12 @@
           ],
           "answer": 2,
           "translation": "哪一句表达部分否定，即「东西不多，但不是没有」？",
-          "explain": "pas grand-chose 表示数量很少但不是零，是部分否定；rien 表示完全没有，是绝对否定；personne 指人；Le frigo est vide 直接说冰箱是空的，也是「没有东西」。"
+          "explain": "pas grand-chose 表示数量很少但不是零，是部分否定；rien 表示完全没有，是绝对否定；personne 指人；Le frigo est vide 直接说冰箱是空的，也是「没有东西」。",
+          "locales": {
+            "fr": {
+              "explain": "pas grand-chose exprime une quantité faible mais non nulle, donc une négation partielle ; rien exprime l'absence totale, personne désigne des personnes et Le frigo est vide dit aussi l'absence totale de contenu."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q19",
@@ -1561,7 +2125,12 @@
             "chose"
           ],
           "translation": "我没什么要跟你说的。",
-          "explain": "把完全否定的 rien 换成部分否定的 pas grand-chose，否定词变成 ne...pas，grand-chose 放在 pas 后：Je n'ai pas grand-chose à te dire。不能保留 rien，也不能拆成 grande chose。"
+          "explain": "把完全否定的 rien 换成部分否定的 pas grand-chose，否定词变成 ne...pas，grand-chose 放在 pas 后：Je n'ai pas grand-chose à te dire。不能保留 rien，也不能拆成 grande chose。",
+          "locales": {
+            "fr": {
+              "explain": "On remplace la négation totale rien par la négation partielle pas grand-chose ; la négation devient ne...pas et grand-chole pronom se place après pas : Je n'ai pas grand-chose à te dire. On ne conserve pas rien et l'on n'écrit pas grande chose."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q20",
@@ -1574,7 +2143,12 @@
             "a"
           ],
           "translation": "昨晚什么也没发生。",
-          "explain": "rien 作主语放在动词前，与 ne 连用，谓语用第三人称单数：Rien ne s'est passé。句首要大写 R；rien 已含否定意义，不加 pas。"
+          "explain": "rien 作主语放在动词前，与 ne 连用，谓语用第三人称单数：Rien ne s'est passé。句首要大写 R；rien 已含否定意义，不加 pas。",
+          "locales": {
+            "fr": {
+              "explain": "Comme sujet, rien se place devant le verbe et s'emploie avec ne ; le verbe se met à la 3e personne du singulier : Rien ne s'est passé. On met une majuscule à R en tête de phrase ; rien est déjà négatif et ne s'emploie pas avec pas."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q21",
@@ -1597,7 +2171,13 @@
             "pas"
           ],
           "translation": "没有人看见任何东西。",
-          "explain": "personne 作主语置于动词前，rien 作宾语放在助动词与过去分词之间：Personne n'a rien vu。两个否定词各司其职，不再加 pas；vue 与 rien（阳性单数）不配合。"
+          "explain": "personne 作主语置于动词前，rien 作宾语放在助动词与过去分词之间：Personne n'a rien vu。两个否定词各司其职，不再加 pas；vue 与 rien（阳性单数）不配合。",
+          "locales": {
+            "fr": {
+              "prompt": "Traduisez : « personne n'a vu quoi que ce soit » → ___",
+              "explain": "personne sujet se place devant le verbe, et rien COD se place entre l'auxiliaire et le participe : Personne n'a rien vu. Les deux négations remplissent chacune leur rôle, sans pas supplémentaire ; vue ne s'accorde pas avec rien, masculin singulier."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q22",
@@ -1611,7 +2191,12 @@
           ],
           "answer": 1,
           "translation": "我没有别的要说了。",
-          "explain": "rien d'autre 是固定组合，d' 是 de 在元音前的省音，autre 用单数并紧跟在 rien 后。rien autre 缺少 de；d'autre rien 和 à d'autre dire 词序都不对。"
+          "explain": "rien d'autre 是固定组合，d' 是 de 在元音前的省音，autre 用单数并紧跟在 rien 后。rien autre 缺少 de；d'autre rien 和 à d'autre dire 词序都不对。",
+          "locales": {
+            "fr": {
+              "explain": "d'autre est une combinaison figée avec rien ; d' est l'élision de la préposition de, et autre reste au singulier, accolé à rien. rien autre omet de ; d'autre rien et à d'autre dire ont un ordre fautif."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l5-q23",
@@ -1624,9 +2209,19 @@
             "a"
           ],
           "translation": "没有人到前台来。",
-          "explain": "personne 与 ne 连用表示「没有人」，作主语放在动词前，谓语用第三人称单数 s'est présenté；句首大写 P。personne 形式固定为阳性单数，拼写是 p-e-r-s-o-n-n-e，结尾不加 -s。"
+          "explain": "personne 与 ne 连用表示「没有人」，作主语放在动词前，谓语用第三人称单数 s'est présenté；句首大写 P。personne 形式固定为阳性单数，拼写是 p-e-r-s-o-n-n-e，结尾不加 -s。",
+          "locales": {
+            "fr": {
+              "explain": "personne s'emploie avec ne pour signifier « personne » ; comme sujet, il se place devant le verbe et impose la 3e personne du singulier s'est présenté ; en tête de phrase, P prend une majuscule. personne est fixement masculin singulier et s'écrit p-e-r-s-o-n-n-e, sans -s."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Pronoms négatifs et négation partielle : personne, rien, pas grand-chose (3)"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-l6",
@@ -1646,7 +2241,12 @@
           ],
           "answer": 2,
           "translation": "——你好吗？——很好，谢谢。",
-          "explain": "在 familier 口语中，问候套语固定用 Comment ça va ?。cela 属较正式的中性语域，Comment cela va ? 可能出现于正式口语，但不符合本题要求的 familier；ce 不能单独作普通动词的主语；ceci 指近处或下文，不用于问候。"
+          "explain": "在 familier 口语中，问候套语固定用 Comment ça va ?。cela 属较正式的中性语域，Comment cela va ? 可能出现于正式口语，但不符合本题要求的 familier；ce 不能单独作普通动词的主语；ceci 指近处或下文，不用于问候。",
+          "locales": {
+            "fr": {
+              "explain": "Dans le registre familier, la formule de salutation est Comment ça va ?. cela appartient à un registre plus soutenu et ne correspond pas au familier demandé ; ce ne peut pas être sujet d'un verbe ordinaire ; ceci renvoie à ce qui est proche ou à ce qui suit et ne sert pas aux salutations."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l6-q2",
@@ -1660,7 +2260,12 @@
           ],
           "answer": 0,
           "translation": "这个是你的，那个是我的。",
-          "explain": "ceci 和 cela 是中性指示代词，可以独立作主语；celle-là 是阴性指示代词，只能回指阴性名词，不能指代中性内容。ce 在元音前必须省音为 c'（c'est），不能写成 Ce est；ça 不能加 -ci/-là 构成 *ça-ci、*ça-là。"
+          "explain": "ceci 和 cela 是中性指示代词，可以独立作主语；celle-là 是阴性指示代词，只能回指阴性名词，不能指代中性内容。ce 在元音前必须省音为 c'（c'est），不能写成 Ce est；ça 不能加 -ci/-là 构成 *ça-ci、*ça-là。",
+          "locales": {
+            "fr": {
+              "explain": "ceci et cela sont des pronoms démonstratifs neutres qui peuvent être sujets autonomes ; celle-là est un pronom démonstratif féminin qui ne reprend qu'un nom féminin et ne peut pas représenter un contenu neutre. ce doit s'élider en c' devant voyelle (c'est), et ça ne se combine pas avec -ci/-là pour former *ça-ci, *ça-là."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l6-q3",
@@ -1677,7 +2282,13 @@
             "l"
           ],
           "translation": "说实话，那部电影我不太喜欢。",
-          "explain": "口语中回指上文提到的事物，用 ça 作主语；ça 与 ne 连写为 ça ne。ce 不能单独作普通动词的主语，书面语可用 cela，但题干要求口语。拼写注意 ç 的软音符。"
+          "explain": "口语中回指上文提到的事物，用 ça 作主语；ça 与 ne 连写为 ça ne。ce 不能单独作普通动词的主语，书面语可用 cela，但题干要求口语。拼写注意 ç 的软音符。",
+          "locales": {
+            "fr": {
+              "prompt": "Complétez : « Franchement, ___ ne me plaît pas beaucoup. » (on parle du film mentionné, registre familier)",
+              "explain": "À l'oral, pour reprendre une chose déjà mentionnée, on emploie ça comme sujet ; ça se joint à ne en ça ne. ce ne peut pas être sujet d'un verbe ordinaire ; à l'écrit, on pourrait employer cela, mais l'énoncé demande le registre familier. Attention à la cédille de ç."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l6-q4",
@@ -1700,7 +2311,12 @@
             "non"
           ],
           "translation": "这是真的。→ 这不是真的。",
-          "explain": "c'est 的否定是 ce n'est pas：ce 在 n'est 前不省音，n'est 是 ne + est 的省音形式；pas 放在 être 后、表语前。不能写成 *C'n'est pas vrai 或 *Ce n'est vrai pas。"
+          "explain": "c'est 的否定是 ce n'est pas：ce 在 n'est 前不省音，n'est 是 ne + est 的省音形式；pas 放在 être 后、表语前。不能写成 *C'n'est pas vrai 或 *Ce n'est vrai pas。",
+          "locales": {
+            "fr": {
+              "explain": "La négation de c'est est « ce n'est pas » : ce ne s'élide pas devant n'est, et n'est correspond à ne + est ; pas se place après être et avant l'attribut. On n'écrit ni *C'n'est pas vrai ni *Ce n'est vrai pas."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l6-q5",
@@ -1714,7 +2330,12 @@
           ],
           "answer": 1,
           "translation": "那会很难。",
-          "explain": "判断标准是 ce 后面紧跟什么：若紧跟名词（livre、garçon、projet），ce 是指示限定词；若紧跟变位动词（sera），ce 才是中性代词。Ce sera difficile 中 ce 作主语，sera 是 être 的简单将来时。"
+          "explain": "判断标准是 ce 后面紧跟什么：若紧跟名词（livre、garçon、projet），ce 是指示限定词；若紧跟变位动词（sera），ce 才是中性代词。Ce sera difficile 中 ce 作主语，sera 是 être 的简单将来时。",
+          "locales": {
+            "fr": {
+              "explain": "Le critère est ce qui suit ce : devant un nom (livre, garçon, projet), ce est déterminant démonstratif ; devant un verbe conjugué (sera), ce est pronom neutre. Dans Ce sera difficile, ce est sujet et sera est le futur simple d'être."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-l6-q6",
@@ -1728,9 +2349,19 @@
           ],
           "answer": 3,
           "translation": "「这份文件很急；那份可以等。」中 celui-là 指什么？",
-          "explain": "celui-là 是阳性单数复合指示代词，回指 dossier，并与 ce dossier-ci 对举，指另一个（较远或另一份）文件；它不能回指刚提到的同一份文件，也不是中性代词 cela（cela 只能笼统指事情或整体），更不能指整个集合。"
+          "explain": "celui-là 是阳性单数复合指示代词，回指 dossier，并与 ce dossier-ci 对举，指另一个（较远或另一份）文件；它不能回指刚提到的同一份文件，也不是中性代词 cela（cela 只能笼统指事情或整体），更不能指整个集合。",
+          "locales": {
+            "fr": {
+              "explain": "celui-là est un pronom démonstratif composé masculin singulier : il reprend dossier et s'oppose à ce dossier-ci, désignant un autre dossier (plus éloigné ou différent) ; il ne reprend pas le dossier déjà mentionné, n'est pas le pronom neutre cela (qui résume une chose ou l'ensemble) et ne désigne pas toute la collection."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Reprise neutre : ce, ceci, cela et ça"
+        }
+      }
     }
   ],
   "challenges": [
@@ -1752,7 +2383,12 @@
           ],
           "answer": 0,
           "translation": "我的车坏了。我开我父亲的车，他开我的车。",
-          "explain": "第一空代替 voiture，阴性单数，用 celle；第二空由 (ma voiture) 明确指「我的车」，主有者是 je，用 la mienne。la sienne 指「他的车」，即父亲自己的车，与括号提示不符；celui / le mien 是阳性。"
+          "explain": "第一空代替 voiture，阴性单数，用 celle；第二空由 (ma voiture) 明确指「我的车」，主有者是 je，用 la mienne。la sienne 指「他的车」，即父亲自己的车，与括号提示不符；celui / le mien 是阳性。",
+          "locales": {
+            "fr": {
+              "explain": "Le premier blanc reprend voiture, féminin singulier, d'où celle ; le second est explicitement précisé par (ma voiture), dont le possesseur est je, d'où la mienne. la sienne désignerait la voiture du père lui-même, ce qui ne correspond pas à la parenthèse ; celui/le mien sont masculins."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x1-q2",
@@ -1766,7 +2402,12 @@
           ],
           "answer": 3,
           "translation": "这件我很喜欢；那边那件太贵了。",
-          "explain": "manteau 是阳性单数，复合指示代词用 celui；近指用 -ci，远指用 -là。第一空指最近的一件，用 celui-ci；第二空有 là-bas 明示远指，用 celui-là。celle 是阴性，ceux 是复数，都不合。"
+          "explain": "manteau 是阳性单数，复合指示代词用 celui；近指用 -ci，远指用 -là。第一空指最近的一件，用 celui-ci；第二空有 là-bas 明示远指，用 celui-là。celle 是阴性，ceux 是复数，都不合。",
+          "locales": {
+            "fr": {
+              "explain": "manteau est masculin singulier : le pronom démonstratif composé est celui ; -ci marque le proche et -là l'éloigné. Le premier blanc désigne le manteau le plus proche, d'où celui-ci ; le second comporte là-bas, marque explicite d'éloignement, d'où celui-là. celle est féminin et ceux pluriel."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x1-q3",
@@ -1783,7 +2424,12 @@
             "l"
           ],
           "translation": "你们的花园比我们的更绚丽。",
-          "explain": "被拥有名词 jardin 是阳性单数，主有者为 nous，用 nôtre 组词干，冠词用 le。主有代词 nôtre 必须带长音符号 ô；notre 是主有形容词，后面必须接名词；vôtre 指“你们的”。"
+          "explain": "被拥有名词 jardin 是阳性单数，主有者为 nous，用 nôtre 组词干，冠词用 le。主有代词 nôtre 必须带长音符号 ô；notre 是主有形容词，后面必须接名词；vôtre 指“你们的”。",
+          "locales": {
+            "fr": {
+              "explain": "Le nom possédé jardin est masculin singulier et le possesseur est nous : on emploie le radical nôtre avec l'article le. Le pronom nôtre porte obligatoirement l'accent circonflexe sur le ô ; notre est un adjectif possessif qui doit précéder un nom, et vôtre signifie « le vôtre »."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x1-q4",
@@ -1806,7 +2452,12 @@
             "le"
           ],
           "translation": "这些是保罗的书。→ 这些是他的。",
-          "explain": "主有者 Paul 是第三人称单数，被拥有名词 livres 是阳性复数，所以用 les siens。ses 是主有形容词，后面必须接名词；leurs 的主有者是复数；sien 缺少复数词尾和冠词。"
+          "explain": "主有者 Paul 是第三人称单数，被拥有名词 livres 是阳性复数，所以用 les siens。ses 是主有形容词，后面必须接名词；leurs 的主有者是复数；sien 缺少复数词尾和冠词。",
+          "locales": {
+            "fr": {
+              "explain": "Le possesseur Paul est à la 3e personne du singulier et le nom possédé livres est masculin pluriel, d'où les siens. ses est un adjectif possessif qui doit précéder un nom ; leurs suppose un possesseur pluriel ; sien manque l'article et la marque du pluriel."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x1-q5",
@@ -1829,7 +2480,12 @@
             "celles"
           ],
           "translation": "我更喜欢这条裙子，而不是你姐姐的那条。",
-          "explain": "先行词 robe 是阴性单数，指示代词用 celle；补语以主有形容词 ta 开头，de 不缩合，保留 de。只有 de 后接定冠词 le / les 时才缩合为 du / des；celui 是阳性，celles 是复数。"
+          "explain": "先行词 robe 是阴性单数，指示代词用 celle；补语以主有形容词 ta 开头，de 不缩合，保留 de。只有 de 后接定冠词 le / les 时才缩合为 du / des；celui 是阳性，celles 是复数。",
+          "locales": {
+            "fr": {
+              "explain": "L'antécédent robe est féminin singulier et le pronom démonstratif est celle ; le complément commence par le possessif ta, donc de ne se contracte pas et reste séparé. Seul de suivi de l'article défini le/les se contracte en du/des ; celui est masculin et celles pluriel."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x1-q6",
@@ -1843,7 +2499,12 @@
           ],
           "answer": 2,
           "translation": "我学生的成绩比上个月的好。",
-          "explain": "résultats 是阳性复数，指示代词用 ceux；“上个月”是 le mois dernier，de + le 必须缩合为 du，所以是 ceux du mois dernier。de le 不合法；celles 是阴性；des 用于 de + les。"
+          "explain": "résultats 是阳性复数，指示代词用 ceux；“上个月”是 le mois dernier，de + le 必须缩合为 du，所以是 ceux du mois dernier。de le 不合法；celles 是阴性；des 用于 de + les。",
+          "locales": {
+            "fr": {
+              "explain": "résultats est masculin pluriel, d'où le pronom démonstratif ceux ; « le mois dernier » contient de + le, qui se contracte obligatoirement en du, d'où ceux du mois dernier. de le est fautif ; celles est féminin et des correspond à de + les."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x1-q7",
@@ -1857,7 +2518,12 @@
           ],
           "answer": 1,
           "translation": "我弟弟丢了手表，借了我的。",
-          "explain": "被拥有名词 montre 是阴性单数，主有者是 je，所以用 la mienne。le mien 是阳性；la sien 形式不存在（应为 la sienne，且指“他的”）；les miens 是阳性复数。"
+          "explain": "被拥有名词 montre 是阴性单数，主有者是 je，所以用 la mienne。le mien 是阳性；la sien 形式不存在（应为 la sienne，且指“他的”）；les miens 是阳性复数。",
+          "locales": {
+            "fr": {
+              "explain": "Le nom possédé montre est féminin singulier et le possesseur est je, d'où la mienne. le mien est masculin ; la sien n'existe pas comme forme correcte (ce serait la sienne, avec un possesseur « elle ») ; les miens est masculin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x1-q8",
@@ -1871,7 +2537,12 @@
           ],
           "answer": 2,
           "translation": "看我手里这张照片：这张很清楚；另一张是模糊的。",
-          "explain": "photo 是阴性单数，复合指示代词用 celle；照片在手里，属近指，用 -ci。Ceux-ci 是阳性复数，Celles-ci 是阴性复数，Celles-là 表远指，都不合。"
+          "explain": "photo 是阴性单数，复合指示代词用 celle；照片在手里，属近指，用 -ci。Ceux-ci 是阳性复数，Celles-ci 是阴性复数，Celles-là 表远指，都不合。",
+          "locales": {
+            "fr": {
+              "explain": "photo est féminin singulier : le pronom démonstratif composé est celle ; la photo est dans la main, donc proche, d'où -ci. Ceux-ci est masculin pluriel, Celles-ci féminin pluriel et Celles-là marque l'éloignement : aucun ne convient."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x1-q9",
@@ -1885,7 +2556,12 @@
             "r"
           ],
           "translation": "这副手套不是我的：是我哥哥的。",
-          "explain": "gants 是阳性复数，指示代词用 ceux；de mon frère 说明所属，de 与主有形容词 mon 不缩合，保留 de。celles 是阴性，celui 是单数，都不合。"
+          "explain": "gants 是阳性复数，指示代词用 ceux；de mon frère 说明所属，de 与主有形容词 mon 不缩合，保留 de。celles 是阴性，celui 是单数，都不合。",
+          "locales": {
+            "fr": {
+              "explain": "gants est masculin pluriel, d'où le pronom démonstratif ceux ; de mon frère indique l'appartenance, et de ne se contracte pas devant le possessif mon, donc de reste séparé. celles est féminin et celui singulier."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x1-q10",
@@ -1904,9 +2580,19 @@
             "le"
           ],
           "translation": "——这些钥匙是你们的吗？——是的，是我们的。",
-          "explain": "clés 是阴性复数，回答者用 nous，词干 nôtre 要保留长音符号，复数加 -s，冠词用 les，所以是 les nôtres。vôtres 指“你们的”；nos 是主有形容词，后面必须接名词；nôtre 缺复数词尾。"
+          "explain": "clés 是阴性复数，回答者用 nous，词干 nôtre 要保留长音符号，复数加 -s，冠词用 les，所以是 les nôtres。vôtres 指“你们的”；nos 是主有形容词，后面必须接名词；nôtre 缺复数词尾。",
+          "locales": {
+            "fr": {
+              "explain": "clés est féminin pluriel et le répondant parle de « nous deux » : on emploie le radical nôtre avec accent circonflexe, l'article les et la marque du pluriel -s, d'où les nôtres. vôtres signifie « les vôtres » ; nos est un adjectif possessif suivi d'un nom ; nôtre manque la marque du pluriel."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse : pronoms démonstratifs et possessifs"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-x2-1",
@@ -1926,7 +2612,12 @@
           ],
           "answer": 0,
           "translation": "没有人来参加会议，也没有任何事向我说明。",
-          "explain": "第一空指人，用 personne；第二空指事物或内容，用 rien。两者作主语时都放在动词前，动词用第三人称单数，ne 紧随其后；n'est 是 ne + est 的省音。不能把 personne 和 rien 对调。"
+          "explain": "第一空指人，用 personne；第二空指事物或内容，用 rien。两者作主语时都放在动词前，动词用第三人称单数，ne 紧随其后；n'est 是 ne + est 的省音。不能把 personne 和 rien 对调。",
+          "locales": {
+            "fr": {
+              "explain": "Le premier blanc désigne une personne, d'où personne ; le second désigne une chose ou un contenu, d'où rien. Les deux pronoms sujets se placent devant le verbe, qui reste à la 3e personne du singulier, et ne les suit immédiatement ; n'est correspond à ne + est. On n'intervertit pas personne et rien."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x2-q2",
@@ -1948,7 +2639,12 @@
             "rien"
           ],
           "translation": "有人打过电话。→ 没有人打过电话。",
-          "explain": "绝对否定中 quelqu'un 由 personne 替代；personne 作主语放在动词前，ne 在元音前省音为 n'，构成 n'a。否定不含 pas，也不能保留 quelqu'un。"
+          "explain": "绝对否定中 quelqu'un 由 personne 替代；personne 作主语放在动词前，ne 在元音前省音为 n'，构成 n'a。否定不含 pas，也不能保留 quelqu'un。",
+          "locales": {
+            "fr": {
+              "explain": "Dans la négation absolue, quelqu'un est remplacé par personne ; personne sujet se place devant le verbe et ne s'élide en n' devant voyelle, d'où n'a. La négation ne comporte pas la négation pas et l'on ne conserve pas quelqu'un."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x2-q3",
@@ -1971,7 +2667,12 @@
             "personne"
           ],
           "translation": "我看到了什么东西。→ 我什么也没看见。",
-          "explain": "quelque chose 在绝对否定中由 rien 替代；复合时态里 rien 位于助动词与过去分词之间，构成 n'ai rien vu。不用 pas，也不能保留 quelque chose；personne 指人。"
+          "explain": "quelque chose 在绝对否定中由 rien 替代；复合时态里 rien 位于助动词与过去分词之间，构成 n'ai rien vu。不用 pas，也不能保留 quelque chose；personne 指人。",
+          "locales": {
+            "fr": {
+              "explain": "Dans la négation absolue, quelque chose est remplacé par rien ; au temps composé, rien se place entre l'auxiliaire et le participe, d'où n'ai rien vu. On n'emploie pas la négation pas, l'on ne conserve pas quelque chose et personne désigne des personnes."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x2-q4",
@@ -1985,7 +2686,12 @@
           ],
           "answer": 2,
           "translation": "这封信里没什么奇怪的：一切都很清楚。",
-          "explain": "信的内容是物，用 rien；rien de + 形容词是固定补语结构，形容词用阳性单数 bizarre。personne 指人；quelque chose 不能用于这种绝对否定；d'autres 是复数代词。"
+          "explain": "信的内容是物，用 rien；rien de + 形容词是固定补语结构，形容词用阳性单数 bizarre。personne 指人；quelque chose 不能用于这种绝对否定；d'autres 是复数代词。",
+          "locales": {
+            "fr": {
+              "explain": "Le contenu de la lettre est une chose, d'où rien ; rien de + adjectif est une structure figée, avec l'adjectif au masculin singulier bizarre. personne désigne des personnes ; quelque chose ne convient pas dans cette négation absolue ; d'autres est un pronom pluriel."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x2-q5",
@@ -1998,7 +2704,12 @@
             "v"
           ],
           "translation": "别担心：另一些人明天会来。",
-          "explain": "d'autres 是泛指代词，表示“另一些人”，可独立作主语，谓语用复数 viendront。des autres 不是独立的代词形式；les autres 必须有明确先行词指“其余那些”；d'autre 是单数。"
+          "explain": "d'autres 是泛指代词，表示“另一些人”，可独立作主语，谓语用复数 viendront。des autres 不是独立的代词形式；les autres 必须有明确先行词指“其余那些”；d'autre 是单数。",
+          "locales": {
+            "fr": {
+              "explain": "d'autres est un pronom indéfini signifiant « d'autres personnes » ; il peut être sujet et impose le verbe au pluriel viendront. des autres n'est pas une forme pronominale autonome ; les autres suppose un antécédent déterminé désignant « le reste » ; d'autre est singulier."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x2-q6",
@@ -2021,9 +2732,19 @@
             "l'autre"
           ],
           "translation": "她们互相帮助。",
-          "explain": "主语 elles 全为女性，相互结构用 l'une...l'autre；动词 aider 直接带宾语，不加介词，所以写成 l'une l'autre。l'un 是阳性，les unes 是复数分组形式，都不能用于这个成对结构。"
+          "explain": "主语 elles 全为女性，相互结构用 l'une...l'autre；动词 aider 直接带宾语，不加介词，所以写成 l'une l'autre。l'un 是阳性，les unes 是复数分组形式，都不能用于这个成对结构。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet elles est entièrement féminin : la structure réciproque est l'une...l'autre ; le verbe aider se construit avec un objet direct, sans préposition, d'où l'une l'autre. l'un est masculin et les unes une forme de groupe pluriel : aucun ne convient à cette structure à deux."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse : pronoms indéfinis/négatifs et reprise neutre (1)"
+        }
+      }
     },
     {
       "id": "pub-c12-demonstrative-possessive-indefinite-x2-2",
@@ -2043,7 +2764,12 @@
           ],
           "answer": 1,
           "translation": "冰箱里没多少东西：只剩一点牛奶。",
-          "explain": "后半句“还剩一点牛奶”说明并非完全没有，所以用部分否定 ne...pas grand-chose。rien 是完全否定，与“还剩一点”矛盾；personne 指人；quelque chose 不能这样与 ne 连用表示部分否定。"
+          "explain": "后半句“还剩一点牛奶”说明并非完全没有，所以用部分否定 ne...pas grand-chose。rien 是完全否定，与“还剩一点”矛盾；personne 指人；quelque chose 不能这样与 ne 连用表示部分否定。",
+          "locales": {
+            "fr": {
+              "explain": "La suite « il reste un fond de lait » montre qu'il ne s'agit pas d'une absence totale : on emploie la négation partielle ne...pas grand-chose. rien est une négation totale, en contradiction avec ce qui reste ; personne désigne des personnes ; quelque chose ne forme pas cette négation partielle."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x2-q8",
@@ -2057,7 +2783,12 @@
           ],
           "answer": 3,
           "translation": "——这个抽屉里有什么有趣的东西吗？——没有，什么也没有。",
-          "explain": "抽屉里的东西是物，问句用 quelque chose，后接 de + 形容词，形容词用阳性单数 intéressant；绝对否定回答指物用 rien，不能再保留 quelque chose。quelqu'un / personne 指人，与抽屉里的物品不符；rien 不能用于肯定疑问句。"
+          "explain": "抽屉里的东西是物，问句用 quelque chose，后接 de + 形容词，形容词用阳性单数 intéressant；绝对否定回答指物用 rien，不能再保留 quelque chose。quelqu'un / personne 指人，与抽屉里的物品不符；rien 不能用于肯定疑问句。",
+          "locales": {
+            "fr": {
+              "explain": "Le contenu du tiroir est une chose : la question emploie quelque chose, suivi de de + adjectif au masculin singulier intéressant ; la réponse négative absolue pour une chose est rien, sans conserver quelque chose. quelqu'un/personne désignent des personnes ; rien ne s'emploie pas dans une question affirmative."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x2-q9",
@@ -2071,7 +2802,12 @@
           ],
           "answer": 1,
           "translation": "好了，我终于完成了：我再没有什么要做的了。",
-          "explain": "Ça y est 是固定口语套语，不能换成 Ce 或 Cela；第二空指事物用 rien，personne 指人。ne...plus rien 的词序是 plus 在 rien 前。"
+          "explain": "Ça y est 是固定口语套语，不能换成 Ce 或 Cela；第二空指事物用 rien，personne 指人。ne...plus rien 的词序是 plus 在 rien 前。",
+          "locales": {
+            "fr": {
+              "explain": "« Ça y est » est une expression figée de l'oral, qu'on ne remplace ni par Ce ni par Cela ; le second blanc désigne une chose, d'où rien, tandis que personne désigne des personnes. Dans ne...plus rien, plus se place avant rien."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x2-q10",
@@ -2084,7 +2820,12 @@
             "t"
           ],
           "translation": "有两位候选人；每人都提交了材料。",
-          "explain": "chacune 指两位女性中的每一个，形式为阴性单数；作主语时谓语用第三人称单数 a。不能写 chacun（阳性）或 chacunes（chacun 没有复数形式）。"
+          "explain": "chacune 指两位女性中的每一个，形式为阴性单数；作主语时谓语用第三人称单数 a。不能写 chacun（阳性）或 chacunes（chacun 没有复数形式）。",
+          "locales": {
+            "fr": {
+              "explain": "chacune désigne chaque membre d'un groupe de deux femmes, avec la forme féminine singulière ; comme sujet, il impose le verbe à la 3e personne du singulier a. On n'écrit ni chacun (masculin) ni chacunes (chacun n'a pas de pluriel)."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x2-q11",
@@ -2098,7 +2839,12 @@
           ],
           "answer": 0,
           "translation": "这些小说中有几本我很喜欢。",
-          "explain": "quelques-uns 代替前文阳性复数 romans 中的“一些”，性与数随 romans；后接 de 短语限定范围，谓语用复数 m'ont。quelques-unes 是阴性，quelques-un 缺 -s，quelqu'uns 拼写错误。"
+          "explain": "quelques-uns 代替前文阳性复数 romans 中的“一些”，性与数随 romans；后接 de 短语限定范围，谓语用复数 m'ont。quelques-unes 是阴性，quelques-un 缺 -s，quelqu'uns 拼写错误。",
+          "locales": {
+            "fr": {
+              "explain": "quelques-uns reprend une partie des romans, nom masculin pluriel ; son genre et son nombre suivent romans, et le verbe se met au pluriel m'ont. quelques-unes est féminin, quelques-un manque le -s et quelqu'uns est mal orthographié."
+            }
+          }
         },
         {
           "id": "pub-c12-demonstrative-possessive-indefinite-x2-q12",
@@ -2112,9 +2858,28 @@
           ],
           "answer": 1,
           "translation": "我的三个兄弟中，一个是医生；其余两个是律师。",
-          "explain": "les autres 指确定群体中剩余的部分，即“其余那些”，与复数谓语 sont 配合。d'autres 泛指“另一些”，会指这三兄弟之外的人；des autres 不是独立代词形式；l'autre 是单数，不能与 sont 搭配。"
+          "explain": "les autres 指确定群体中剩余的部分，即“其余那些”，与复数谓语 sont 配合。d'autres 泛指“另一些”，会指这三兄弟之外的人；des autres 不是独立代词形式；l'autre 是单数，不能与 sont 搭配。",
+          "locales": {
+            "fr": {
+              "explain": "les autres désigne la partie restante d'un groupe déterminé, « les autres », et s'accorde avec le verbe pluriel sont. d'autres est indéfini et renverrait à des personnes extérieures aux trois frères ; des autres n'est pas une forme pronominale autonome ; l'autre est singulier et ne peut pas s'accorder avec sont."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse : pronoms indéfinis/négatifs et reprise neutre (2)"
+        }
+      }
     }
-  ]
+  ],
+  "locales": {
+    "fr": {
+      "sectionTitles": {
+        "s1": "Pronoms démonstratifs et possessifs",
+        "s2": "autre et pronoms indéfinis",
+        "s3": "Pronoms négatifs et reprise neutre"
+      }
+    }
+  }
 }

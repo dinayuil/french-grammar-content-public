@@ -6,62 +6,134 @@
     {
       "id": "pub-c01-boundaries-card-gender-number",
       "title": "名词的性与数：先记住词条",
-      "body": "<p>法语名词有语法性：阳性或阴性。物品名词的语法性不取决于物品的现实属性，通常要把词条和冠词一起记：livre（书，阳性）、table（桌子，阴性）、arbre（树，阳性）、école（学校，阴性）。人和动物名词的阴性构成在下一章展开。</p><p>名词还有语法数。可数名词单数通常表示一个，复数表示多个：livre / livres（书，单数 / 复数）、table / tables（桌子，单数 / 复数）。不可数名词也有语法性数，例如 pain（面包，阳性单数）、soupe（汤，阴性单数）。</p><p>冠词放在名词前，表示所指和性数；下一张正式介绍不定冠词。</p>"
+      "body": "<p>法语名词有语法性：阳性或阴性。物品名词的语法性不取决于物品的现实属性，通常要把词条和冠词一起记：livre（书，阳性）、table（桌子，阴性）、arbre（树，阳性）、école（学校，阴性）。人和动物名词的阴性构成在下一章展开。</p><p>名词还有语法数。可数名词单数通常表示一个，复数表示多个：livre / livres（书，单数 / 复数）、table / tables（桌子，单数 / 复数）。不可数名词也有语法性数，例如 pain（面包，阳性单数）、soupe（汤，阴性单数）。</p><p>冠词放在名词前，表示所指和性数；下一张正式介绍不定冠词。</p>",
+      "locales": {
+        "fr": {
+          "title": "Genre et nombre du nom : mémoriser le mot avec son article",
+          "body": "<p>En français, le nom a un genre grammatical : masculin ou féminin. Le genre grammatical d'un nom d'objet ne dépend pas des propriétés réelles de l'objet ; on mémorise généralement le mot avec son article : livre (masculin), table (féminin), arbre (masculin), école (féminin). La formation du féminin des noms de personnes et d'animaux est traitée au chapitre suivant.</p><p>Le nom a aussi un nombre grammatical. Un nom comptable au singulier désigne généralement un élément, au pluriel, plusieurs éléments : livre / livres (singulier / pluriel), table / tables (singulier / pluriel). Les noms non comptables ont eux aussi un genre et un nombre : pain (masculin singulier), soupe (féminin singulier).</p><p>L'article se place devant le nom et indique la référence ainsi que le genre et le nombre ; la carte suivante présente l'article indéfini.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u6-1",
       "title": "不定冠词 un/une/des",
-      "body": "<p>不定冠词按名词的性与数选择：阳性单数 un livre（一本书），阴性单数 une fleur（一朵花），复数 des livres（一些书）/ des fleurs（一些花）。</p><p>它用于首次提及或泛指“一个/一些”对象，不指特定的那个或那些：J'achète une robe.（我买一条连衣裙。）Il y a des enfants dans le jardin.（花园里有一些孩子。）</p>"
+      "body": "<p>不定冠词按名词的性与数选择：阳性单数 un livre（一本书），阴性单数 une fleur（一朵花），复数 des livres（一些书）/ des fleurs（一些花）。</p><p>它用于首次提及或泛指“一个/一些”对象，不指特定的那个或那些：J'achète une robe.（我买一条连衣裙。）Il y a des enfants dans le jardin.（花园里有一些孩子。）</p>",
+      "locales": {
+        "fr": {
+          "title": "L'article indéfini un/une/des",
+          "body": "<p>L'article indéfini s'accorde en genre et en nombre avec le nom : masculin singulier un livre, féminin singulier une fleur, pluriel des livres / des fleurs.</p><p>Il s'emploie pour une première mention ou pour désigner de façon indéterminée « un / des » objets, et non l'objet ou les objets précis : J'achète une robe. Il y a des enfants dans le jardin.</p>"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-card-1",
       "title": "定冠词 le/la/les：按性数选形式",
-      "body": "<p>定冠词跟随名词的性与数：阳性单数 le，阴性单数 la，复数 les。例：le livre（这本书）、la table（这张桌子）、les enfants（孩子们）。</p><p>定冠词用于上下文中能够识别的对象：上文已经提到、双方能明确所指，或情境足以确定是哪一个或哪些。说话人心里想着某个对象但听者无法识别时，仍可能用不定冠词；定冠词的条件是所指在语境中可识别。不定冠词与定冠词的语义对照见后文。</p><p>注意：元音或哑音 h 开头的名词前，le/la 要省音为 l'，见后文「冠词省音」。</p>"
+      "body": "<p>定冠词跟随名词的性与数：阳性单数 le，阴性单数 la，复数 les。例：le livre（这本书）、la table（这张桌子）、les enfants（孩子们）。</p><p>定冠词用于上下文中能够识别的对象：上文已经提到、双方能明确所指，或情境足以确定是哪一个或哪些。说话人心里想着某个对象但听者无法识别时，仍可能用不定冠词；定冠词的条件是所指在语境中可识别。不定冠词与定冠词的语义对照见后文。</p><p>注意：元音或哑音 h 开头的名词前，le/la 要省音为 l'，见后文「冠词省音」。</p>",
+      "locales": {
+        "fr": {
+          "title": "L'article défini le/la/les : choisir la forme selon le genre et le nombre",
+          "body": "<p>L'article défini suit le genre et le nombre du nom : le au masculin singulier, la au féminin singulier, les au pluriel. Ex. : le livre, la table, les enfants.</p><p>L'article défini désigne un objet ou des objets identifiables dans le contexte : déjà mentionné, clairement identifié par les interlocuteurs, ou déterminé par la situation (on sait de quel objet ou de quels objets il s'agit). Si le locuteur pense à un objet précis mais que l'auditeur ne peut pas l'identifier, l'article indéfini reste possible ; la condition de l'article défini est que la référence soit identifiable dans le contexte. Le contraste entre article indéfini et article défini est présenté plus loin.</p><p>Attention : devant un nom commençant par une voyelle ou un h muet, le/la s'élide en l' ; voir plus loin « Élision de l'article ».</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u6-2",
       "title": "定冠词：统指、独一无二与回指",
-      "body": "<p>定冠词 le/la/les 不只用于回指上文。它可以统指一类事物：J'aime la musique classique.（我喜欢古典音乐。）Les livres sont utiles.（书是有用的。）也可以指独一无二的对象：La lune est pleine ce soir.（今晚是满月。）</p><p>首次提到通常用不定冠词：J'ai vu un chat dans le jardin.（我在花园里看见一只猫。）再次回指同一只猫时才用定冠词：Le chat était noir.（那只猫是黑色的。）不要把“首次出现”当成定冠词的唯一条件；统指和独一无二都不要求上文已经提到。</p>"
+      "body": "<p>定冠词 le/la/les 不只用于回指上文。它可以统指一类事物：J'aime la musique classique.（我喜欢古典音乐。）Les livres sont utiles.（书是有用的。）也可以指独一无二的对象：La lune est pleine ce soir.（今晚是满月。）</p><p>首次提到通常用不定冠词：J'ai vu un chat dans le jardin.（我在花园里看见一只猫。）再次回指同一只猫时才用定冠词：Le chat était noir.（那只猫是黑色的。）不要把“首次出现”当成定冠词的唯一条件；统指和独一无二都不要求上文已经提到。</p>",
+      "locales": {
+        "fr": {
+          "title": "L'article défini : valeur générique, objet unique et reprise",
+          "body": "<p>L'article défini le/la/les ne sert pas seulement à reprendre un élément déjà mentionné. Il peut désigner toute une catégorie : J'aime la musique classique. Les livres sont utiles. Il peut aussi désigner un objet unique : La lune est pleine ce soir.</p><p>Une première mention appelle normalement l'article indéfini : J'ai vu un chat dans le jardin. On emploie l'article défini seulement en reprenant ensuite le même chat : Le chat était noir. La « première apparition » n'est donc pas la seule condition de l'article défini ; la valeur générique et l'objet unique ne supposent pas non plus une mention antérieure.</p>"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-card-u6-3",
       "title": "部分冠词 du/de la/de l'",
-      "body": "<p>不可数名词或只取用不确定数量的一部分时，用部分冠词：阳性单数 du，阴性单数 de la，元音或哑音 h 开头 de l'。例：Je bois du café.（我喝一些咖啡。）Il reste de la soupe.（还剩一些汤。）Je bois de l'eau.（我喝一些水。）</p><p>复数可数名词用不定冠词 des：J'achète des pommes.（我买一些苹果。）这里 des pommes 中的 des 是不定冠词，不能把 des 一律叫部分冠词；某些整体与部分的对比语境另有部分性用法。des 还可以是 de + les 的缩合，见后文「du/des 辨义」。本章的基础形式是 du/de la/de l' 三种。</p><p>泛指喜欢某类事物用定冠词：J'aime le café.（我喜欢咖啡。）表示取用一部分用部分冠词：Je bois du café.（我喝一些咖啡。）判断依据是语义，不是名词本身。</p>"
+      "body": "<p>不可数名词或只取用不确定数量的一部分时，用部分冠词：阳性单数 du，阴性单数 de la，元音或哑音 h 开头 de l'。例：Je bois du café.（我喝一些咖啡。）Il reste de la soupe.（还剩一些汤。）Je bois de l'eau.（我喝一些水。）</p><p>复数可数名词用不定冠词 des：J'achète des pommes.（我买一些苹果。）这里 des pommes 中的 des 是不定冠词，不能把 des 一律叫部分冠词；某些整体与部分的对比语境另有部分性用法。des 还可以是 de + les 的缩合，见后文「du/des 辨义」。本章的基础形式是 du/de la/de l' 三种。</p><p>泛指喜欢某类事物用定冠词：J'aime le café.（我喜欢咖啡。）表示取用一部分用部分冠词：Je bois du café.（我喝一些咖啡。）判断依据是语义，不是名词本身。</p>",
+      "locales": {
+        "fr": {
+          "title": "L'article partitif du/de la/de l'",
+          "body": "<p>Avec un nom non comptable, ou lorsqu'on prélève une quantité indéterminée d'un ensemble, on emploie l'article partitif : du au masculin singulier, de la au féminin singulier, de l' devant une voyelle ou un h muet. Ex. : Je bois du café. Il reste de la soupe. Je bois de l'eau.</p><p>Avec un nom comptable au pluriel, on emploie l'article indéfini des : J'achète des pommes. Dans des pommes, des est un article indéfini ; on ne peut pas qualifier des de partitif dans tous les cas. Certains contextes d'opposition entre ensemble et partie ont un autre emploi partitif. Des peut aussi être la contraction de « de » + « les », voir plus loin « du/des : distinguer les valeurs ». Les formes de base de ce chapitre sont du, de la et de l'.</p><p>Pour exprimer un goût général pour une catégorie, on emploie l'article défini : J'aime le café. Pour indiquer qu'on prend une partie, on emploie le partitif : Je bois du café. Le critère est le sens, non le nom lui-même.</p>"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-card-2",
       "title": "冠词省音 l'：元音与哑音 h",
-      "body": "<p>le/la 遇元音或哑音 h 开头的名词，省音为 l'，并与名词连写：l'école（学校，阴性）、l'arbre（树，阳性）、l'hôtel（旅馆，阳性，哑音 h）。</p><p>嘘音 h 前不省音：le héros（主人公，阳性）。例：l'ami（朋友，阳性）/ le héros（主人公，阳性）。</p><p>les 不省音：les écoles（学校，复数）、les héros（主人公，复数）。省音只改变书写和读音，不改变名词的性数；不能只看字母 h，要看 h 是哑音还是嘘音。</p>"
+      "body": "<p>le/la 遇元音或哑音 h 开头的名词，省音为 l'，并与名词连写：l'école（学校，阴性）、l'arbre（树，阳性）、l'hôtel（旅馆，阳性，哑音 h）。</p><p>嘘音 h 前不省音：le héros（主人公，阳性）。例：l'ami（朋友，阳性）/ le héros（主人公，阳性）。</p><p>les 不省音：les écoles（学校，复数）、les héros（主人公，复数）。省音只改变书写和读音，不改变名词的性数；不能只看字母 h，要看 h 是哑音还是嘘音。</p>",
+      "locales": {
+        "fr": {
+          "title": "L'élision de l'article : voyelle et h muet",
+          "body": "<p>Devant un nom commençant par une voyelle ou un h muet, le/la s'élide en l' et s'écrit avec le nom : l'école (féminin), l'arbre (masculin), l'hôtel (masculin, h muet).</p><p>Devant un h aspiré, il n'y a pas d'élision : le héros (masculin). Ex. : l'ami (masculin) / le héros (masculin).</p><p>Le mot les ne s'élide pas : les écoles, les héros. L'élision modifie seulement l'écriture et la prononciation, pas le genre ni le nombre du nom ; il ne suffit pas de voir la lettre h, il faut savoir si le h est muet ou aspiré.</p>"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-card-3",
       "title": "à + le/les → au/aux",
-      "body": "<p>介词 à 与定冠词缩合：à + le → au，à + les → aux。例：Je vais au marché.（我去市场。）Je parle aux enfants.（我和孩子们说话。）</p><p>à + la 和 à + l' 不缩合，保持分写：à la gare（去火车站）、à l'école（去学校）。à 本身在元音前也不省音。</p><p>注意：不要把 à l' 写成 al'；也不要把 à la 写成 au。</p>"
+      "body": "<p>介词 à 与定冠词缩合：à + le → au，à + les → aux。例：Je vais au marché.（我去市场。）Je parle aux enfants.（我和孩子们说话。）</p><p>à + la 和 à + l' 不缩合，保持分写：à la gare（去火车站）、à l'école（去学校）。à 本身在元音前也不省音。</p><p>注意：不要把 à l' 写成 al'；也不要把 à la 写成 au。</p>",
+      "locales": {
+        "fr": {
+          "title": "à + le/les → au/aux",
+          "body": "<p>La préposition à se contracte avec l'article défini : à + le → au, à + les → aux. Ex. : Je vais au marché. Je parle aux enfants.</p><p>à + la et à + l' ne se contractent pas et restent séparés : à la gare, à l'école. à ne s'élide pas non plus devant une voyelle.</p><p>Attention : ne pas écrire à l' sous la forme al' ; ne pas écrire à la sous la forme au.</p>"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-card-4",
       "title": "de + le/les → du/des",
-      "body": "<p>介词 de 与定冠词缩合：de + le → du，de + les → des。例：la porte du garage（车库的门）、les maisons des voisins（邻居们的房子）。</p><p>de + la 和 de + l' 不缩合：la couleur de la mer（大海的颜色）、le nom de l'école（学校的名字）。</p><p>注意：de l' 是“介词 de + 省音冠词”，不是缩合；de + la 不能写成 du。</p>"
+      "body": "<p>介词 de 与定冠词缩合：de + le → du，de + les → des。例：la porte du garage（车库的门）、les maisons des voisins（邻居们的房子）。</p><p>de + la 和 de + l' 不缩合：la couleur de la mer（大海的颜色）、le nom de l'école（学校的名字）。</p><p>注意：de l' 是“介词 de + 省音冠词”，不是缩合；de + la 不能写成 du。</p>",
+      "locales": {
+        "fr": {
+          "title": "de + le/les → du/des",
+          "body": "<p>La préposition de se contracte avec l'article défini : de + le → du, de + les → des. Ex. : la porte du garage, les maisons des voisins.</p><p>de + la et de + l' ne se contractent pas : la couleur de la mer, le nom de l'école.</p><p>Attention : de l' est « préposition de + article élidé », non une contraction ; de + la ne s'écrit pas du.</p>"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-card-du-des",
       "title": "du/des 辨义：缩合、不定复数与部分冠词",
-      "body": "<p>同样的 du/des 在不同语境中功能不同，功能由它后面名词的所指和句子关系决定。</p><p>缩合：du = de + le。Je reviens du marché.（我从市场回来。）这里的 du 是 de + le marché，表示来源，不是部分冠词。des = de + les。Les toits des maisons sont rouges.（这些房子的屋顶是红色的。）这里的 des 是 de + les maisons，表示所属，不是不定冠词。</p><p>不定复数：J'achète des pommes.（我买一些苹果。）这里的 des 是复数不定冠词，指不特定的一些苹果。</p><p>部分冠词：Je mange du pain.（我吃一些面包。）这里的 du 是部分冠词，表示不确定数量的一部分。Il reste de la soupe.（还剩一些汤。）de la 是阴性部分冠词；对比 la couleur de la mer（大海的颜色），那里的 de la 是介词 de + 定冠词 la。</p><p>这些例子说明：同一个 du 或 des 可以承担不同功能，判断依据是它在句中的来源、所属或数量关系，而不是词形本身；形式相同不等于功能相同。</p>"
+      "body": "<p>同样的 du/des 在不同语境中功能不同，功能由它后面名词的所指和句子关系决定。</p><p>缩合：du = de + le。Je reviens du marché.（我从市场回来。）这里的 du 是 de + le marché，表示来源，不是部分冠词。des = de + les。Les toits des maisons sont rouges.（这些房子的屋顶是红色的。）这里的 des 是 de + les maisons，表示所属，不是不定冠词。</p><p>不定复数：J'achète des pommes.（我买一些苹果。）这里的 des 是复数不定冠词，指不特定的一些苹果。</p><p>部分冠词：Je mange du pain.（我吃一些面包。）这里的 du 是部分冠词，表示不确定数量的一部分。Il reste de la soupe.（还剩一些汤。）de la 是阴性部分冠词；对比 la couleur de la mer（大海的颜色），那里的 de la 是介词 de + 定冠词 la。</p><p>这些例子说明：同一个 du 或 des 可以承担不同功能，判断依据是它在句中的来源、所属或数量关系，而不是词形本身；形式相同不等于功能相同。</p>",
+      "locales": {
+        "fr": {
+          "title": "du/des : contraction, indéfini pluriel et partitif",
+          "body": "<p>Les mêmes formes du/des remplissent des fonctions différentes selon le contexte ; la fonction dépend de la référence du nom qui suit et de la relation dans la phrase.</p><p>Contraction : du = de + le. Je reviens du marché. Ici, du est de + le marché et marque l'origine, non le partitif. des = de + les. Les toits des maisons sont rouges. Ici, des est de + les maisons et marque l'appartenance, non l'article indéfini.</p><p>Indéfini pluriel : J'achète des pommes. Ici, des est l'article indéfini pluriel et désigne des pommes non déterminées.</p><p>Partitif : Je mange du pain. Ici, du est l'article partitif et désigne une quantité indéterminée. Il reste de la soupe. De la est le partitif féminin ; à comparer avec la couleur de la mer, où de la est la préposition de + l'article défini la.</p><p>Ces exemples montrent qu'un même du ou des peut assumer des fonctions différentes : le critère est la relation d'origine, d'appartenance ou de quantité dans la phrase, non la forme elle-même ; une forme identique ne signifie pas une fonction identique.</p>"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-card-5",
       "title": "省音与缩合：两种机制",
-      "body": "<p>省音和缩合都会改变词界，但机制不同。</p><p>省音是定冠词 le/la 遇元音或哑音 h 时去掉元音字母，写成 l'，并与名词连写：le + arbre → l'arbre（树）、la + école → l'école（学校）。</p><p>缩合是介词 à/de 与定冠词 le/les 合并成一个词：à + le → au（au marché，去市场）、à + les → aux（aux enfants，对孩子们）、de + le → du（du jardin，花园的）、de + les → des（des voisins，邻居们的）。</p><p>对照：à l'école（去学校）与 au marché（去市场）；de l'hôtel（旅馆的）与 du jardin（花园的）。à 本身不省音；à la、de la 不缩合，保持分写：à la gare（去火车站）、de la maison（房子的）。</p><p>介词 de 在元音前也会省音：de + un ami → d'un ami（一个朋友的；也可理解为“来自一位朋友”，按语境取自然释义）、de + une amie → d'une amie。这里是 de 的省音，不是定冠词缩合。</p>"
+      "body": "<p>省音和缩合都会改变词界，但机制不同。</p><p>省音是定冠词 le/la 遇元音或哑音 h 时去掉元音字母，写成 l'，并与名词连写：le + arbre → l'arbre（树）、la + école → l'école（学校）。</p><p>缩合是介词 à/de 与定冠词 le/les 合并成一个词：à + le → au（au marché，去市场）、à + les → aux（aux enfants，对孩子们）、de + le → du（du jardin，花园的）、de + les → des（des voisins，邻居们的）。</p><p>对照：à l'école（去学校）与 au marché（去市场）；de l'hôtel（旅馆的）与 du jardin（花园的）。à 本身不省音；à la、de la 不缩合，保持分写：à la gare（去火车站）、de la maison（房子的）。</p><p>介词 de 在元音前也会省音：de + un ami → d'un ami（一个朋友的；也可理解为“来自一位朋友”，按语境取自然释义）、de + une amie → d'une amie。这里是 de 的省音，不是定冠词缩合。</p>",
+      "locales": {
+        "fr": {
+          "title": "Élision et contraction : deux mécanismes",
+          "body": "<p>L'élision et la contraction déplacent toutes deux la frontière des mots, mais par des mécanismes différents.</p><p>L'élision supprime la voyelle de l'article défini le/la devant une voyelle ou un h muet et l'écrit avec le nom : le + arbre → l'arbre, la + école → l'école.</p><p>La contraction fusionne la préposition à/de avec l'article défini le/les en un seul mot : à + le → au (au marché), à + les → aux (aux enfants), de + le → du (du jardin), de + les → des (des voisins).</p><p>Comparer : à l'école et au marché ; de l'hôtel et du jardin. à ne s'élide pas ; à la et de la ne se contractent pas et restent séparés : à la gare, de la maison.</p><p>La préposition de s'élide aussi devant une voyelle : de + un ami → d'un ami (le sens naturel dépend du contexte : « d'un ami » peut marquer l'appartenance ou l'origine), de + une amie → d'une amie. Il s'agit ici de l'élision de de, non d'une contraction avec l'article défini.</p>"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-card-6",
       "title": "主语 je 的省音",
-      "body": "<p>je 后面的动词以元音或哑音 h 开头时，je 省音为 j'，与动词连写：j'écoute（我听）、j'habite（我住）、j'aime（我喜欢）。动词以辅音开头则保留 je：je parle（我说）、je lis（我读）。</p><p>例：J'écoute la radio.（我听收音机。）Je regarde le film.（我看电影。）</p><p>注意：嘘音 h 前仍保留 je：je hurle（我大喊）。</p>"
+      "body": "<p>je 后面的动词以元音或哑音 h 开头时，je 省音为 j'，与动词连写：j'écoute（我听）、j'habite（我住）、j'aime（我喜欢）。动词以辅音开头则保留 je：je parle（我说）、je lis（我读）。</p><p>例：J'écoute la radio.（我听收音机。）Je regarde le film.（我看电影。）</p><p>注意：嘘音 h 前仍保留 je：je hurle（我大喊）。</p>",
+      "locales": {
+        "fr": {
+          "title": "L'élision du sujet je",
+          "body": "<p>Lorsque le verbe qui suit je commence par une voyelle ou un h muet, je s'élide en j' et s'écrit avec le verbe : j'écoute, j'habite, j'aime. Si le verbe commence par une consonne, je est conservé : je parle, je lis.</p><p>Ex. : J'écoute la radio. Je regarde le film.</p><p>Attention : devant un h aspiré, je est conservé : je hurle.</p>"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-card-7",
       "title": "de 在不定式前的省音",
-      "body": "<p>介词 de 后接以元音或哑音 h 开头的不定式时，de 省音为 d'：d'attendre（等待）、d'écouter（听）、d'habiter（住）。不定式以辅音开头则保留 de：de parler（说）、de finir（完成）。嘘音 h 前也保留 de：de hurler（大喊）。</p><p>例：Il est difficile d'attendre.（等待很难。）Il est facile de lire ce livre.（读这本书很容易。）</p>"
+      "body": "<p>介词 de 后接以元音或哑音 h 开头的不定式时，de 省音为 d'：d'attendre（等待）、d'écouter（听）、d'habiter（住）。不定式以辅音开头则保留 de：de parler（说）、de finir（完成）。嘘音 h 前也保留 de：de hurler（大喊）。</p><p>例：Il est difficile d'attendre.（等待很难。）Il est facile de lire ce livre.（读这本书很容易。）</p>",
+      "locales": {
+        "fr": {
+          "title": "L'élision de « de » devant un infinitif",
+          "body": "<p>Lorsque la préposition de précède un infinitif commençant par une voyelle ou un h muet, de s'élide en d' : d'attendre, d'écouter, d'habiter. Si l'infinitif commence par une consonne, de est conservé : de parler, de finir. Devant un h aspiré, de est également conservé : de hurler.</p><p>Ex. : Il est difficile d'attendre. Il est facile de lire ce livre.</p>"
+        }
+      }
     }
   ],
   "lessons": [
@@ -78,7 +150,13 @@
           "example": "填定冠词：livre 为阳性单数。",
           "answer": "le",
           "explain": "livre 是阳性单数，确指用 le。题干已给性数提示，不靠词尾判断。",
-          "translation": "桌上，这本书打开着。"
+          "translation": "桌上，这本书打开着。",
+          "locales": {
+            "fr": {
+              "example": "Complétez avec l'article défini : livre est masculin singulier.",
+              "explain": "livre est un nom masculin singulier ; pour une référence définie, on emploie le. L'énoncé fournit les indications de genre et de nombre : on ne les déduit pas de la terminaison."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l1-q2",
@@ -87,7 +165,13 @@
           "example": "填定冠词：fenêtre 为阴性单数。",
           "answer": "la",
           "explain": "fenêtre 是阴性单数，确指用 la。",
-          "translation": "房间里，窗户开着。"
+          "translation": "房间里，窗户开着。",
+          "locales": {
+            "fr": {
+              "example": "Complétez avec l'article défini : fenêtre est féminin singulier.",
+              "explain": "fenêtre est un nom féminin singulier ; pour une référence définie, on emploie la."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l1-q3",
@@ -101,7 +185,12 @@
           ],
           "answer": 2,
           "explain": "enfants 是阳性复数，定冠词用 les。les 在元音前也不省音。",
-          "translation": "孩子们在花园里玩。"
+          "translation": "孩子们在花园里玩。",
+          "locales": {
+            "fr": {
+              "explain": "enfants est un nom masculin pluriel ; l'article défini est les. Le mot les ne s'élide pas devant une voyelle."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l1-q4",
@@ -123,7 +212,12 @@
             "là."
           ],
           "explain": "professeur 是阳性单数，选 Le；其余词按“主语 + 动词 + 地点”排列。",
-          "translation": "老师在那里。"
+          "translation": "老师在那里。",
+          "locales": {
+            "fr": {
+              "explain": "professeur est masculin singulier : on choisit Le ; les autres mots suivent l'ordre « sujet + verbe + lieu »."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l1-q5",
@@ -137,7 +231,12 @@
           ],
           "answer": 0,
           "explain": "fille 和 femme 都是阴性单数，分别用 la；不能因为词尾不是典型阴性就换冠词。",
-          "translation": "女孩 / 女人。"
+          "translation": "女孩 / 女人。",
+          "locales": {
+            "fr": {
+              "explain": "fille et femme sont des noms féminins singuliers : on emploie la dans les deux cas ; on ne change pas d'article sous prétexte que la terminaison n'est pas un féminin typique."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l1-q6",
@@ -146,9 +245,20 @@
           "example": "填定冠词：hôtels 为阳性复数、哑音 h。",
           "answer": "les",
           "explain": "hôtels 是阳性复数，用 les；这里指广场上的那些旅馆。les 不省音，所以写 les hôtels。",
-          "translation": "这座广场上的旅馆很大。"
+          "translation": "这座广场上的旅馆很大。",
+          "locales": {
+            "fr": {
+              "example": "Complétez avec l'article défini : hôtels est masculin pluriel et commence par un h muet.",
+              "explain": "hôtels est masculin pluriel : on emploie les ; il s'agit des hôtels de la place. Les ne s'élide pas, on écrit donc les hôtels."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "le/la/les : genre, nombre et référence définie"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-l2",
@@ -163,7 +273,13 @@
           "example": "填定冠词：hôtel 为阳性单数、哑音 h；判断 le/la 是否省音。",
           "answer": "l'",
           "explain": "hôtel 以哑音 h 开头，le 省音为 l'，与名词连写为 l'hôtel。",
-          "translation": "这是火车站旁的旅馆。"
+          "translation": "这是火车站旁的旅馆。",
+          "locales": {
+            "fr": {
+              "example": "Complétez avec l'article défini : hôtel est masculin singulier et commence par un h muet ; déterminez si le/la s'élide.",
+              "explain": "hôtel commence par un h muet : le s'élide en l' et s'écrit avec le nom, l'hôtel."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l2-q2",
@@ -172,7 +288,13 @@
           "example": "填定冠词：héros 为阳性单数、嘘音 h；判断是否省音。",
           "answer": "le",
           "explain": "héros 的 h 是嘘音，不触发省音，所以保留 le héros。",
-          "translation": "这是小说里的主人公。"
+          "translation": "这是小说里的主人公。",
+          "locales": {
+            "fr": {
+              "example": "Complétez avec l'article défini : héros est masculin singulier et commence par un h aspiré ; déterminez s'il y a élision.",
+              "explain": "Le h de héros est aspiré : il n'y a pas d'élision, on conserve le héros."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l2-q3",
@@ -187,7 +309,13 @@
           ],
           "answer": 1,
           "explain": "école 是阴性单数、元音开头，la 省音为 l'；livres 是阳性复数，用 les。",
-          "translation": "学校 / 书。"
+          "translation": "学校 / 书。",
+          "locales": {
+            "fr": {
+              "example": "Choisissez l'article défini selon le genre et le nombre, en tenant compte de l'élision devant une voyelle.",
+              "explain": "école est féminin singulier et commence par une voyelle : la s'élide en l' ; livres est masculin pluriel : on emploie les."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l2-q4",
@@ -202,7 +330,13 @@
           ],
           "answer": 2,
           "explain": "arbre 是阳性单数、元音开头，le 省音为 l'；fenêtres 是阴性复数，用 les。",
-          "translation": "树 / 窗户。"
+          "translation": "树 / 窗户。",
+          "locales": {
+            "fr": {
+              "example": "Choisissez l'article défini selon le genre et le nombre, en tenant compte de l'élision devant une voyelle.",
+              "explain": "arbre est masculin singulier et commence par une voyelle : le s'élide en l' ; fenêtres est féminin pluriel : on emploie les."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l2-q5",
@@ -221,7 +355,13 @@
             "arrive."
           ],
           "explain": "amie 以元音开头，la 省音后与名词连写为 L'amie；不要把 l' 和 amie 拆开。",
-          "translation": "女性朋友到了。"
+          "translation": "女性朋友到了。",
+          "locales": {
+            "fr": {
+              "example": "Complétez avec l'article défini : amie est féminin singulier et commence par une voyelle ; écrivez la forme élidée avec le nom.",
+              "explain": "amie commence par une voyelle ; la s'élide et s'écrit avec le nom : L'amie. Ne séparez pas l' et amie."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l2-q6",
@@ -236,9 +376,20 @@
           ],
           "answer": 0,
           "explain": "homme 以哑音 h 开头，le 省音为 l'，写作 L'homme。",
-          "translation": "男人在门前。"
+          "translation": "男人在门前。",
+          "locales": {
+            "fr": {
+              "example": "Complétez avec l'article défini : homme est masculin singulier et commence par un h muet ; déterminez s'il y a élision.",
+              "explain": "homme commence par un h muet : le s'élide en l', on écrit L'homme."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "l' : voyelle et h muet"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-l3",
@@ -253,7 +404,13 @@
           "example": "指定介词 à 与定冠词；jardin 为阳性单数。只处理冠词形式与词界。",
           "answer": "au",
           "explain": "à + le jardin 缩合为 au jardin；不能写成 à le jardin。",
-          "translation": "我去花园。"
+          "translation": "我去花园。",
+          "locales": {
+            "fr": {
+              "example": "Employez la préposition à avec l'article défini ; jardin est masculin singulier. Ne traitez que la forme de l'article et la frontière des mots.",
+              "explain": "à + le jardin se contracte en au jardin ; on n'écrit pas à le jardin."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l3-q2",
@@ -262,7 +419,13 @@
           "example": "表达“对孩子们说话”，指定介词 à 与定冠词；enfants 为阳性复数。",
           "answer": "aux",
           "explain": "à + les enfants 缩合为 aux enfants。",
-          "translation": "我和孩子们说话。"
+          "translation": "我和孩子们说话。",
+          "locales": {
+            "fr": {
+              "example": "Pour exprimer « parler aux enfants », employez la préposition à avec l'article défini ; enfants est masculin pluriel.",
+              "explain": "à + les enfants se contracte en aux enfants."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l3-q3",
@@ -276,7 +439,12 @@
           ],
           "answer": 0,
           "explain": "à + la 不缩合，保持分写 à la piscine。",
-          "translation": "我们去游泳池。"
+          "translation": "我们去游泳池。",
+          "locales": {
+            "fr": {
+              "explain": "à + la ne se contracte pas : la forme séparée à la piscine est correcte."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l3-q4",
@@ -290,7 +458,12 @@
           ],
           "answer": 0,
           "explain": "école 是阴性元音开头，la 省音为 l'，且 à 不省音，得 à l'école；directeur 是阳性单数，à + le 缩合为 au directeur。",
-          "translation": "在学校 / 对主任。"
+          "translation": "在学校 / 对主任。",
+          "locales": {
+            "fr": {
+              "explain": "école est féminin et commence par une voyelle : la s'élide en l', et à ne s'élide pas, d'où à l'école ; directeur est masculin singulier : à + le se contracte en au directeur."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l3-q5",
@@ -312,7 +485,12 @@
             "marché."
           ],
           "explain": "marché 是阳性单数，à + le 缩合为 au；不要保留 à le。",
-          "translation": "我去市场。"
+          "translation": "我去市场。",
+          "locales": {
+            "fr": {
+              "explain": "marché est masculin singulier : à + le se contracte en au ; ne conservez pas à le."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l3-q6",
@@ -334,9 +512,19 @@
             "professeurs."
           ],
           "explain": "professeurs 是复数，à + les 缩合为 aux professeurs。",
-          "translation": "我们和老师们说话。"
+          "translation": "我们和老师们说话。",
+          "locales": {
+            "fr": {
+              "explain": "professeurs est pluriel : à + les se contracte en aux professeurs."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "à + le/les : au/aux"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-l4",
@@ -351,7 +539,13 @@
           "example": "表达“谈论邻居们”，指定介词 de 与定冠词；voisins 为阳性复数。",
           "answer": "des",
           "explain": "de + les voisins 缩合为 des voisins；不能写成 de les voisins。",
-          "translation": "我谈起邻居们。"
+          "translation": "我谈起邻居们。",
+          "locales": {
+            "fr": {
+              "example": "Pour exprimer « parler des voisins », employez la préposition de avec l'article défini ; voisins est masculin pluriel.",
+              "explain": "de + les voisins se contracte en des voisins ; on n'écrit pas de les voisins."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l4-q2",
@@ -360,7 +554,13 @@
           "example": "表达“从市场回来”，指定介词 de 与定冠词；marché 为阳性单数。",
           "answer": "du",
           "explain": "de + le marché 缩合为 du marché。",
-          "translation": "我从市场回来。"
+          "translation": "我从市场回来。",
+          "locales": {
+            "fr": {
+              "example": "Pour exprimer « revenir du marché », employez la préposition de avec l'article défini ; marché est masculin singulier.",
+              "explain": "de + le marché se contracte en du marché."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l4-q3",
@@ -374,7 +574,12 @@
           ],
           "answer": 1,
           "explain": "garage 是阳性单数，de + le 缩合为 du。",
-          "translation": "这是车库的门。"
+          "translation": "这是车库的门。",
+          "locales": {
+            "fr": {
+              "explain": "garage est masculin singulier : de + le se contracte en du."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l4-q4",
@@ -388,7 +593,12 @@
           ],
           "answer": 2,
           "explain": "voisins 是复数，de + les 缩合为 des。",
-          "translation": "这是邻居们的房子。"
+          "translation": "这是邻居们的房子。",
+          "locales": {
+            "fr": {
+              "explain": "voisins est pluriel : de + les se contracte en des."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l4-q5",
@@ -411,7 +621,13 @@
             "professeur."
           ],
           "explain": "professeur 是阳性单数，de + le 缩合为 du；不要把 de 和 le 分开保留。",
-          "translation": "我们谈起老师。"
+          "translation": "我们谈起老师。",
+          "locales": {
+            "fr": {
+              "example": "But : « nous parlons du professeur ». Après parler, employez la préposition de avec l'article défini ; professeur est masculin singulier.",
+              "explain": "professeur est masculin singulier : de + le se contracte en du ; ne gardez pas de et le séparés."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l4-q6",
@@ -426,9 +642,21 @@
           ],
           "answer": 0,
           "explain": "fille 是阴性辅音开头，de + la 不缩合；hôpital 是哑音 h 开头，le 省音为 l'，de 保持分写，得 de l'hôpital。",
-          "translation": "女孩的 / 医院的。"
+          "translation": "女孩的 / 医院的。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la paire correcte. (fille : f. / hôpital : m., h muet)",
+              "example": "Dans les deux cas, employez la préposition de avec l'article défini ; fille est féminin singulier et commence par une consonne ; hôpital est masculin singulier et commence par un h muet.",
+              "explain": "fille est féminin et commence par une consonne : de + la ne se contracte pas ; hôpital commence par un h muet : le s'élide en l', de reste séparé, d'où de l'hôpital."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "de + le/les : du/des"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-l5",
@@ -448,7 +676,12 @@
           ],
           "answer": 1,
           "explain": "école 是阴性元音开头，la 省音为 l'；à 本身不省音，所以写 à l'école，不是 au。",
-          "translation": "我去学校。"
+          "translation": "我去学校。",
+          "locales": {
+            "fr": {
+              "explain": "école est féminin et commence par une voyelle : la s'élide en l' ; à ne s'élide pas, on écrit donc à l'école, et non au."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l5-q2",
@@ -462,7 +695,13 @@
           ],
           "answer": 2,
           "explain": "hôpital 以哑音 h 开头，le 省音为 l'；de 保持分写，写作 de l'hôpital。",
-          "translation": "她从医院回来。"
+          "translation": "她从医院回来。",
+          "locales": {
+            "fr": {
+              "prompt": "Elle vient ___ hôpital. (hôpital : m., h muet)",
+              "explain": "hôpital commence par un h muet : le s'élide en l' ; de reste séparé, on écrit de l'hôpital."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l5-q3",
@@ -476,7 +715,12 @@
           ],
           "answer": 1,
           "explain": "directrice 是阴性单数且以辅音开头，à + la 不缩合，保持 à la。",
-          "translation": "我们和女主任说话。"
+          "translation": "我们和女主任说话。",
+          "locales": {
+            "fr": {
+              "explain": "directrice est féminin singulier et commence par une consonne : à + la ne se contracte pas, on conserve à la."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l5-q4",
@@ -490,7 +734,12 @@
           ],
           "answer": 0,
           "explain": "marché 是阳性单数，de + le 缩合为 du；这是缩合，不是省音。",
-          "translation": "他们从市场回来。"
+          "translation": "他们从市场回来。",
+          "locales": {
+            "fr": {
+              "explain": "marché est masculin singulier : de + le se contracte en du ; il s'agit d'une contraction, non d'une élision."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l5-q5",
@@ -499,7 +748,13 @@
           "example": "已知：de + un；把 de 省音后与 un 连写。",
           "answer": "d'un",
           "explain": "de 在元音前省音为 d'，与 un 连写为 d'un。这是 de 的省音，不是与定冠词缩合。",
-          "translation": "改正：我谈起一位朋友。"
+          "translation": "改正：我谈起一位朋友。",
+          "locales": {
+            "fr": {
+              "example": "Donné : de + un ; élidez de et écrivez-le avec un.",
+              "explain": "de s'élide en d' devant une voyelle et s'écrit avec un : d'un. C'est l'élision de de, non une contraction avec l'article défini."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l5-q6",
@@ -508,9 +763,20 @@
           "example": "已知：de + une；把 de 省音后与 une 连写。",
           "answer": "d'une",
           "explain": "de 在元音前省音为 d'，与 une 连写为 d'une。这里只作 de + un/une 的桥接。",
-          "translation": "改正：她谈起一座城市。"
+          "translation": "改正：她谈起一座城市。",
+          "locales": {
+            "fr": {
+              "example": "Donné : de + une ; élidez de et écrivez-le avec une.",
+              "explain": "de s'élide en d' devant une voyelle et s'écrit avec une : d'une. Ici, cet exemple sert seulement de transition vers les formes de + un/une."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Élision ou contraction"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-l6-1",
@@ -530,7 +796,13 @@
           ],
           "answer": 2,
           "translation": "她买一条连衣裙和一些书。",
-          "explain": "robe 是阴性单数，用 une；livres 是复数，首次提及“一些书”用 des。因此是 une robe ; des livres。"
+          "explain": "robe 是阴性单数，用 une；livres 是复数，首次提及“一些书”用 des。因此是 une robe ; des livres。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la combinaison correcte d'articles indéfinis : « Elle achète une robe et des livres. »",
+              "explain": "robe est féminin singulier : on emploie une ; livres est au pluriel et « des livres » est une première mention : on emploie des. On obtient donc une robe ; des livres."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l6-q2",
@@ -544,7 +816,13 @@
           ],
           "answer": 0,
           "translation": "今晚是满月。",
-          "explain": "La lune est pleine ce soir. 表示“今晚是满月”；月亮是独一无二的对象，用定冠词 la；lune 是阴性单数。不能用 le（阳性）或 une（一个）。"
+          "explain": "La lune est pleine ce soir. 表示“今晚是满月”；月亮是独一无二的对象，用定冠词 la；lune 是阴性单数。不能用 le（阳性）或 une（一个）。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme correcte : « Ce soir, la lune est pleine. » ___ lune est pleine ce soir.",
+              "explain": "La phrase « La lune est pleine ce soir. » signifie « ce soir, la lune est pleine » ; la lune est un objet unique, on emploie l'article défini la ; lune est féminin singulier. On ne peut employer ni le (masculin) ni une (qui désignerait une lune parmi d'autres)."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l6-q3",
@@ -558,7 +836,13 @@
           ],
           "answer": 3,
           "translation": "书（这一类）是有用的；她买了一本书。",
-          "explain": "第一处统指“书”这一类，用复数定冠词 Les livres；第二处首次提及一本具体的书，用不定冠词 un livre。因此是 Les livres ; un livre。"
+          "explain": "第一处统指“书”这一类，用复数定冠词 Les livres；第二处首次提及一本具体的书，用不定冠词 un livre。因此是 Les livres ; un livre。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme correcte : « Les livres (en général) sont utiles ; elle achète un livre. » (La première case désigne la catégorie des livres ; la seconde mentionne un livre pour la première fois.)",
+              "explain": "La première case désigne la catégorie des livres : on emploie le pluriel défini Les livres ; la seconde mentionne pour la première fois un livre précis : on emploie l'article indéfini un livre. On obtient donc Les livres ; un livre."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l6-q4",
@@ -572,7 +856,13 @@
           ],
           "answer": 1,
           "translation": "我看见一只狗。那只狗很大。",
-          "explain": "第一次提到用不定冠词 un chien；后句回指同一只狗，用定冠词 Le chien。因此是 un chien ; Le chien。"
+          "explain": "第一次提到用不定冠词 un chien；后句回指同一只狗，用定冠词 Le chien。因此是 un chien ; Le chien。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme correcte : « Je vois un chien. Le chien est grand. » (Première mention, puis reprise.)",
+              "explain": "La première mention emploie l'article indéfini un chien ; la phrase suivante reprend le même chien avec l'article défini Le chien. On obtient donc un chien ; Le chien."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l6-q5",
@@ -586,7 +876,13 @@
           ],
           "answer": 2,
           "translation": "我喜欢咖啡；早上我会喝一点咖啡。",
-          "explain": "表示喜好、泛指咖啡这一类用定冠词 le café；表示喝一部分、不确定数量用部分冠词 du café。因此是 le café ; du café。"
+          "explain": "表示喜好、泛指咖啡这一类用定冠词 le café；表示喝一部分、不确定数量用部分冠词 du café。因此是 le café ; du café。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme correcte : « J'aime le café (la catégorie en général) ; le matin, je bois du café. »",
+              "explain": "Pour exprimer un goût et désigner le café comme catégorie, on emploie l'article défini le café ; pour désigner une partie bue, une quantité indéterminée, on emploie l'article partitif du café. On obtient donc le café ; du café."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l6-q6",
@@ -600,9 +896,20 @@
           ],
           "answer": 1,
           "translation": "盘子里还剩一些汤。",
-          "explain": "soupe 是阴性不可数名词，表示“一些汤”用部分冠词 de la；du 用于阳性，des 用于复数，la 是定冠词，都不符合这里的“一些”。"
+          "explain": "soupe 是阴性不可数名词，表示“一些汤”用部分冠词 de la；du 用于阳性，des 用于复数，la 是定冠词，都不符合这里的“一些”。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme correcte : on veut dire « il reste une certaine quantité de soupe dans l'assiette ». Il reste ___ soupe dans l'assiette.",
+              "explain": "soupe est un nom féminin non comptable ; pour « une certaine quantité de soupe », on emploie l'article partitif de la ; du est masculin, des est pluriel et la est l'article défini : aucune de ces formes ne convient pour « une certaine quantité »."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Articles : indéfini, défini et partitif (1)"
+        }
+      }
     },
     {
       "id": "pub-c02-noun-phrases-l6-2",
@@ -622,7 +929,13 @@
           ],
           "answer": 3,
           "translation": "运动后我喝一些水。",
-          "explain": "eau 以元音开头，阴性部分冠词 de la 要省音为 de l'，所以是 de l'eau；du 用于阳性名词，de la 不能直接接元音开头的 eau。"
+          "explain": "eau 以元音开头，阴性部分冠词 de la 要省音为 de l'，所以是 de l'eau；du 用于阳性名词，de la 不能直接接元音开头的 eau。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme correcte : on veut dire qu'après le sport, on boit une certaine quantité d'eau. Je bois ___ eau après le sport.",
+              "explain": "eau commence par une voyelle : le partitif féminin de la s'élide en de l', d'où de l'eau ; du est masculin, et de la ne peut pas précéder directement eau, qui commence par une voyelle."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l6-q8",
@@ -636,7 +949,13 @@
           ],
           "answer": 2,
           "translation": "我喝一些水，然后去市场。",
-          "explain": "eau 以元音开头，部分冠词用 de l'；aller 的目的地“市场”要用 à + le 缩合成 au marché。因此只有 Je bois de l'eau et je vais au marché. 同时满足省音和缩合。"
+          "explain": "eau 以元音开头，部分冠词用 de l'；aller 的目的地“市场”要用 à + le 缩合成 au marché。因此只有 Je bois de l'eau et je vais au marché. 同时满足省音和缩合。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la seule phrase correcte : on veut dire qu'on boit une certaine quantité d'eau, puis qu'on va au marché.",
+              "explain": "eau commence par une voyelle : le partitif s'écrit de l' ; pour le lieu de destination « le marché », il faut contracter à + le en au marché. Seule la phrase Je bois de l'eau et je vais au marché. satisfait à la fois l'élision et la contraction."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l6-q9",
@@ -650,7 +969,13 @@
           ],
           "answer": 0,
           "translation": "我去市场买一些面包。",
-          "explain": "去市场是 aller au marché，à + le 缩合为 au；买一些面包用部分冠词 du pain。因此是 au marché ; du pain。"
+          "explain": "去市场是 aller au marché，à + le 缩合为 au；买一些面包用部分冠词 du pain。因此是 au marché ; du pain。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme correcte : on va au marché pour acheter une certaine quantité de pain.",
+              "explain": "Pour aller au marché, on contracte à + le en au ; pour acheter une certaine quantité de pain, on emploie le partitif du pain. On obtient donc au marché ; du pain."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l6-q10",
@@ -664,7 +989,13 @@
           ],
           "answer": 1,
           "translation": "院子里有一些孩子和一位女老师。",
-          "explain": "enfants 是复数，泛指“一些孩子”用 des；maîtresse 是阴性单数，用 une。因此是 des enfants ; une maîtresse。"
+          "explain": "enfants 是复数，泛指“一些孩子”用 des；maîtresse 是阴性单数，用 une。因此是 des enfants ; une maîtresse。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme correcte : dans la cour se trouvent plusieurs enfants et une maîtresse.",
+              "explain": "enfants est pluriel : pour « plusieurs enfants », on emploie des ; maîtresse est féminin singulier : on emploie une. On obtient donc des enfants ; une maîtresse."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l6-q11",
@@ -678,7 +1009,13 @@
           ],
           "answer": 0,
           "translation": "她找一套公寓。这套公寓靠近车站。",
-          "explain": "首次提及一套公寓用 un appartement；后句回指同一套公寓用定冠词，appartement 以元音开头，le 省音为 L'appartement。因此是 un appartement ; L'appartement。"
+          "explain": "首次提及一套公寓用 un appartement；后句回指同一套公寓用定冠词，appartement 以元音开头，le 省音为 L'appartement。因此是 un appartement ; L'appartement。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme correcte : « Elle cherche un appartement. L'appartement est près de la gare. » (Première mention, puis reprise.)",
+              "explain": "Pour une première mention, on emploie un appartement ; la phrase suivante reprend le même appartement avec l'article défini ; appartement commence par une voyelle, le s'élide en L'appartement. On obtient donc un appartement ; L'appartement."
+            }
+          }
         },
         {
           "id": "pub-c02-noun-phrases-l6-q12",
@@ -692,9 +1029,20 @@
           ],
           "answer": 3,
           "translation": "孩子们喜欢蛋糕；晚饭后他们只吃一点蛋糕。",
-          "explain": "表示喜欢蛋糕这一类用定冠词 le gâteau；表示吃一部分、不确定数量用部分冠词 du gâteau。因此是 le gâteau ; du gâteau。"
+          "explain": "表示喜欢蛋糕这一类用定冠词 le gâteau；表示吃一部分、不确定数量用部分冠词 du gâteau。因此是 le gâteau ; du gâteau。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme correcte : « Les enfants aiment le gâteau (la catégorie) ; après le dîner, ils ne mangent qu'un peu de gâteau. »",
+              "explain": "Pour exprimer un goût pour la catégorie « gâteau », on emploie l'article défini le gâteau ; pour une partie, une quantité indéterminée, on emploie le partitif du gâteau. On obtient donc le gâteau ; du gâteau."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Articles : indéfini, défini et partitif (2)"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-l6",
@@ -709,7 +1057,13 @@
           "example": "已知：je + écoute；只处理 je 的省音拼写，动词形式不变。",
           "answer": "j'écoute",
           "explain": "écoute 以元音开头，je 省音为 j'，与动词连写为 j'écoute。动词形式已给出，不需变位。",
-          "translation": "早上，我听收音机。"
+          "translation": "早上，我听收音机。",
+          "locales": {
+            "fr": {
+              "example": "Donné : je + écoute ; ne traitez que l'élision de je, sans changer la forme du verbe.",
+              "explain": "écoute commence par une voyelle : je s'élide en j' et s'écrit avec le verbe, j'écoute. La forme du verbe est donnée : aucune conjugaison n'est demandée."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l6-q2",
@@ -724,7 +1078,13 @@
           ],
           "answer": 1,
           "explain": "habite 的 h 是哑音，je 省音为 j'，写作 J'habite。",
-          "translation": "我住在巴黎。"
+          "translation": "我住在巴黎。",
+          "locales": {
+            "fr": {
+              "example": "Forme verbale donnée : habite (h muet) ; déterminez seulement l'orthographe de je.",
+              "explain": "Le h de habite est muet : je s'élide en j', on écrit J'habite."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l6-q3",
@@ -739,7 +1099,13 @@
           ],
           "answer": 1,
           "explain": "lis 以辅音开头，je 不省音，保留 je lis。",
-          "translation": "我读报纸。"
+          "translation": "我读报纸。",
+          "locales": {
+            "fr": {
+              "example": "Forme verbale donnée : lis (commence par une consonne) ; déterminez seulement l'orthographe de je.",
+              "explain": "lis commence par une consonne : je ne s'élide pas, on conserve je lis."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l6-q4",
@@ -748,7 +1114,13 @@
           "example": "已知动词形式：lis（辅音开头）；判断主语代词 je 是否需要省音。",
           "answer": "je",
           "explain": "lis 以辅音开头，je 不省音；只有元音或哑音 h 前才写 j'。",
-          "translation": "早上，我读这份报纸。"
+          "translation": "早上，我读这份报纸。",
+          "locales": {
+            "fr": {
+              "example": "Forme verbale donnée : lis (commence par une consonne) ; déterminez si le pronom sujet je doit s'élider.",
+              "explain": "lis commence par une consonne : je ne s'élide pas ; on n'écrit j' que devant une voyelle ou un h muet."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l6-q5",
@@ -774,7 +1146,13 @@
             "Lyon."
           ],
           "explain": "habite 的 h 是哑音，je 省音为 J'；不要把 Je 和 habite 分开写。",
-          "translation": "我住在里昂。"
+          "translation": "我住在里昂。",
+          "locales": {
+            "fr": {
+              "example": "Forme verbale donnée : habite (h muet) ; lieu : Lyon.",
+              "explain": "Le h de habite est muet : je s'élide en J' ; n'écrivez pas Je et habite séparément."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l6-q6",
@@ -789,9 +1167,20 @@
           ],
           "answer": 0,
           "explain": "aime 以元音开头，je 省音为 j'，写作 J'aime。",
-          "translation": "我喜欢音乐。"
+          "translation": "我喜欢音乐。",
+          "locales": {
+            "fr": {
+              "example": "Forme verbale donnée : aime (commence par une voyelle) ; déterminez seulement l'orthographe de je.",
+              "explain": "aime commence par une voyelle : je s'élide en j', on écrit J'aime."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "L'élision de je"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-l7",
@@ -806,7 +1195,13 @@
           "example": "已知框架：il est difficile de + attendre；填写 de 与 attendre 合并后的完整词组。",
           "answer": "d'attendre",
           "explain": "attendre 以元音开头，de 省音为 d'，与不定式连写为 d'attendre。结构已给出，只判断拼写。",
-          "translation": "等待很难。"
+          "translation": "等待很难。",
+          "locales": {
+            "fr": {
+              "example": "Structure donnée : il est difficile de + attendre ; écrivez le groupe complet formé par de et attendre.",
+              "explain": "attendre commence par une voyelle : de s'élide en d' et s'écrit avec l'infinitif, d'attendre. La structure est donnée ; seule l'orthographe est à déterminer."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l7-q2",
@@ -815,7 +1210,13 @@
           "example": "已知框架：il est utile de + écouter；填写 de 与 écouter 合并后的完整词组。",
           "answer": "d'écouter",
           "explain": "écouter 以元音开头，de 省音为 d'，写作 d'écouter。",
-          "translation": "倾听很有用。"
+          "translation": "倾听很有用。",
+          "locales": {
+            "fr": {
+              "example": "Structure donnée : il est utile de + écouter ; écrivez le groupe complet formé par de et écouter.",
+              "explain": "écouter commence par une voyelle : de s'élide en d', on écrit d'écouter."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l7-q3",
@@ -830,7 +1231,13 @@
           ],
           "answer": 1,
           "explain": "hurler 的 h 是嘘音，de 不省音，写 de hurler。",
-          "translation": "她试着大喊。"
+          "translation": "她试着大喊。",
+          "locales": {
+            "fr": {
+              "example": "La préposition est de et l'infinitif est hurler ; le h de hurler est aspiré : déterminez l'orthographe de la préposition.",
+              "explain": "Le h de hurler est aspiré : de ne s'élide pas, on écrit de hurler."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l7-q4",
@@ -845,7 +1252,13 @@
           ],
           "answer": 0,
           "explain": "lire 以辅音开头，de 不省音，写 de lire。",
-          "translation": "读这本书很容易。"
+          "translation": "读这本书很容易。",
+          "locales": {
+            "fr": {
+              "example": "Structure donnée : il est facile de + lire ; lire commence par une consonne.",
+              "explain": "lire commence par une consonne : de ne s'élide pas, on écrit de lire."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l7-q5",
@@ -871,7 +1284,13 @@
             "règle."
           ],
           "explain": "apprendre 以元音开头，de 省音为 d'，与不定式连写；不要把 de 和 apprendre 分开。",
-          "translation": "学习规则很重要。"
+          "translation": "学习规则很重要。",
+          "locales": {
+            "fr": {
+              "example": "Structure donnée : il est important de + apprendre ; apprendre commence par une voyelle.",
+              "explain": "apprendre commence par une voyelle : de s'élide en d' et s'écrit avec l'infinitif ; ne séparez pas de et apprendre."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l7-q6",
@@ -886,9 +1305,20 @@
           ],
           "answer": 2,
           "explain": "habiter 的 h 是哑音，de 省音为 d'，写作 d'habiter。",
-          "translation": "我梦想住在这里。"
+          "translation": "我梦想住在这里。",
+          "locales": {
+            "fr": {
+              "example": "Structure donnée : je rêve de + habiter ; le h de habiter est muet.",
+              "explain": "Le h de habiter est muet : de s'élide en d', on écrit d'habiter."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "« de » devant un infinitif"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-l8",
@@ -908,7 +1338,12 @@
           ],
           "answer": 0,
           "explain": "marché 是阳性单数，à + le 缩合为 au marché；aux 只用于复数。",
-          "translation": "哪一句正确？我去市场。"
+          "translation": "哪一句正确？我去市场。",
+          "locales": {
+            "fr": {
+              "explain": "marché est masculin singulier : à + le se contracte en au marché ; aux ne s'emploie qu'au pluriel."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l8-q2",
@@ -922,7 +1357,12 @@
           ],
           "answer": 1,
           "explain": "garage 是阳性单数，de + le 缩合为 du garage。",
-          "translation": "哪一句正确？这是车库的门。"
+          "translation": "哪一句正确？这是车库的门。",
+          "locales": {
+            "fr": {
+              "explain": "garage est masculin singulier : de + le se contracte en du garage."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l8-q3",
@@ -930,7 +1370,12 @@
           "prompt": "Corrigez : Je vais à le cinéma. → Je vais ___ cinéma.",
           "answer": "au",
           "explain": "cinéma 是阳性单数，à + le 缩合为 au cinéma。",
-          "translation": "改正：我去电影院。"
+          "translation": "改正：我去电影院。",
+          "locales": {
+            "fr": {
+              "explain": "cinéma est masculin singulier : à + le se contracte en au cinéma."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l8-q4",
@@ -938,7 +1383,12 @@
           "prompt": "Corrigez : Elle parle de les enfants. → Elle parle ___ enfants.",
           "answer": "des",
           "explain": "enfants 是复数，de + les 缩合为 des enfants。",
-          "translation": "改正：她谈起孩子们。"
+          "translation": "改正：她谈起孩子们。",
+          "locales": {
+            "fr": {
+              "explain": "enfants est pluriel : de + les se contracte en des enfants."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l8-q5",
@@ -964,7 +1414,13 @@
             "directeur."
           ],
           "explain": "à l'école 中 à 不省音、la 省音；directeur 是阳性单数，à + le 缩合为 au directeur。",
-          "translation": "在学校，我和主任说话。"
+          "translation": "在学校，我和主任说话。",
+          "locales": {
+            "fr": {
+              "example": "But : « à l'école, je parle au directeur ». Le début est donné : À l'école, je parle … ; après parler, employez la préposition à avec l'article défini ; directeur est masculin singulier.",
+              "explain": "Dans la forme à l'école, à ne s'élide pas et la s'élide ; directeur est masculin singulier : à + le se contracte en au directeur."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-l8-q6",
@@ -998,9 +1454,20 @@
             "bureau."
           ],
           "explain": "同一句含两种缩合：à + le marché → au marché；de + le bureau → du bureau。",
-          "translation": "我去市场，并从办公室回来。"
+          "translation": "我去市场，并从办公室回来。",
+          "locales": {
+            "fr": {
+              "example": "But : « je vais au marché et je reviens du bureau ». Ordre des propositions : Je vais … et je reviens … ; employez à dans la première, de dans la seconde, avec l'article défini dans les deux cas ; marché et bureau sont masculins singuliers.",
+              "explain": "La même phrase contient deux contractions : à + le marché → au marché ; de + le bureau → du bureau."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse partielle et correction"
+        }
+      }
     }
   ],
   "challenges": [
@@ -1017,7 +1484,13 @@
           "example": "填定冠词：hôtel 为阳性单数、哑音 h。",
           "answer": "l'",
           "explain": "hôtel 以哑音 h 开头，le 省音为 l'。",
-          "translation": "这条街上，旅馆很旧。"
+          "translation": "这条街上，旅馆很旧。",
+          "locales": {
+            "fr": {
+              "example": "Complétez avec l'article défini : hôtel est masculin singulier et commence par un h muet.",
+              "explain": "hôtel commence par un h muet : le s'élide en l'."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x1-q2",
@@ -1025,7 +1498,12 @@
           "prompt": "Je vais ___ théâtre. (théâtre : m.)",
           "answer": "au",
           "explain": "théâtre 是阳性单数，à + le 缩合为 au théâtre。",
-          "translation": "我去剧院。"
+          "translation": "我去剧院。",
+          "locales": {
+            "fr": {
+              "explain": "théâtre est masculin singulier : à + le se contracte en au théâtre."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x1-q3",
@@ -1039,7 +1517,12 @@
           ],
           "answer": 0,
           "explain": "enfants 是复数，用 Les；parc 是阳性单数，à + le 缩合为 au parc。",
-          "translation": "孩子们 / 在公园。"
+          "translation": "孩子们 / 在公园。",
+          "locales": {
+            "fr": {
+              "explain": "enfants est pluriel : on emploie Les ; parc est masculin singulier : à + le se contracte en au parc."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x1-q4",
@@ -1053,7 +1536,12 @@
           ],
           "answer": 1,
           "explain": "université 是阴性元音开头，la 省音为 l'，且 à 保持分写；professeur 是阳性单数，à + le 缩合为 au。",
-          "translation": "在大学 / 对老师。"
+          "translation": "在大学 / 对老师。",
+          "locales": {
+            "fr": {
+              "explain": "université est féminin et commence par une voyelle : la s'élide en l' et à reste séparé ; professeur est masculin singulier : à + le se contracte en au."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x1-q5",
@@ -1077,7 +1565,12 @@
             "parc."
           ],
           "explain": "Les 对应复数 enfants；parc 是阳性单数，à + le 缩合为 au parc。",
-          "translation": "孩子们去公园。"
+          "translation": "孩子们去公园。",
+          "locales": {
+            "fr": {
+              "explain": "Les correspond au pluriel enfants ; parc est masculin singulier : à + le se contracte en au parc."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x1-q6",
@@ -1100,7 +1593,12 @@
             "aux"
           ],
           "explain": "directrice 是阴性单数，à + la 不缩合，保持 à la directrice。",
-          "translation": "她和女主任说话。"
+          "translation": "她和女主任说话。",
+          "locales": {
+            "fr": {
+              "explain": "directrice est féminin singulier : à + la ne se contracte pas, on conserve à la directrice."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x1-q7",
@@ -1109,7 +1607,13 @@
           "example": "填定冠词：arbre 为阳性单数、元音开头。",
           "answer": "l'",
           "explain": "arbre 是阳性单数且以元音开头，le 省音为 l'。",
-          "translation": "花园里，树很高。"
+          "translation": "花园里，树很高。",
+          "locales": {
+            "fr": {
+              "example": "Complétez avec l'article défini : arbre est masculin singulier et commence par une voyelle.",
+              "explain": "arbre est masculin singulier et commence par une voyelle : le s'élide en l'."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x1-q8",
@@ -1123,9 +1627,19 @@
           ],
           "answer": 2,
           "explain": "professeur 是阳性单数，用 Le；étudiants 是复数，à + les 缩合为 aux。",
-          "translation": "老师 / 对学生们。"
+          "translation": "老师 / 对学生们。",
+          "locales": {
+            "fr": {
+              "explain": "professeur est masculin singulier : on emploie Le ; étudiants est pluriel : à + les se contracte en aux."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Défi 1 : articles et contraction avec à"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-x2",
@@ -1140,7 +1654,13 @@
           "example": "表达“谈论主任们”，指定介词 de 与定冠词；directeurs 为阳性复数。",
           "answer": "des",
           "explain": "directeurs 是复数，de + les 缩合为 des directeurs。",
-          "translation": "我谈起主任们。"
+          "translation": "我谈起主任们。",
+          "locales": {
+            "fr": {
+              "example": "Pour exprimer « parler de » avec un nom défini pluriel, employez la préposition de et l'article défini ; directeurs est masculin pluriel.",
+              "explain": "directeurs est pluriel : de + les se contracte en des directeurs."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x2-q2",
@@ -1149,7 +1669,13 @@
           "example": "表达“从市场回来”，指定介词 de 与定冠词；marché 为阳性单数。",
           "answer": "du",
           "explain": "marché 是阳性单数，de + le 缩合为 du marché。",
-          "translation": "她从市场回来。"
+          "translation": "她从市场回来。",
+          "locales": {
+            "fr": {
+              "example": "Pour exprimer « revenir du marché », employez la préposition de avec l'article défini ; marché est masculin singulier.",
+              "explain": "marché est masculin singulier : de + le se contracte en du marché."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x2-q3",
@@ -1163,7 +1689,12 @@
           ],
           "answer": 1,
           "explain": "jardin 是阳性单数，de + le 缩合为 du jardin。",
-          "translation": "这是花园的门。"
+          "translation": "这是花园的门。",
+          "locales": {
+            "fr": {
+              "explain": "jardin est masculin singulier : de + le se contracte en du jardin."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x2-q4",
@@ -1177,7 +1708,12 @@
           ],
           "answer": 1,
           "explain": "filles 是阴性复数，de + les 缩合为 des filles。",
-          "translation": "我们谈起女孩们。"
+          "translation": "我们谈起女孩们。",
+          "locales": {
+            "fr": {
+              "explain": "filles est féminin pluriel : de + les se contracte en des filles."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x2-q5",
@@ -1210,7 +1746,13 @@
             "élèves."
           ],
           "explain": "同句含 à + les → aux 与 de + les → des 两种缩合。",
-          "translation": "她去上课，并谈起学生们。"
+          "translation": "她去上课，并谈起学生们。",
+          "locales": {
+            "fr": {
+              "example": "But : « elle va aux cours et elle parle des élèves ». Ordre des propositions : Elle va … et elle parle … ; employez à dans la première, de dans la seconde, avec l'article défini dans les deux cas ; cours et élèves sont au pluriel.",
+              "explain": "La même phrase contient les contractions à + les → aux et de + les → des."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x2-q6",
@@ -1243,7 +1785,13 @@
             "film."
           ],
           "explain": "au = à + le，du = de + le；同一句检查两种缩合的词界。",
-          "translation": "我们去公园，并谈起电影。"
+          "translation": "我们去公园，并谈起电影。",
+          "locales": {
+            "fr": {
+              "example": "But : « nous allons au parc et nous parlons du film ». Ordre des propositions : Nous allons … et nous parlons … ; employez à dans la première, de dans la seconde, avec l'article défini dans les deux cas ; parc et film sont masculins singuliers.",
+              "explain": "au = à + le, du = de + le ; la phrase permet de vérifier les deux contractions et la frontière des mots."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x2-q7",
@@ -1257,7 +1805,13 @@
           ],
           "answer": 0,
           "explain": "hôtel 是阳性单数、哑音 h 开头，le 省音为 l'，且 à 保持分写；directeur 是阳性单数，à + le 缩合为 au。",
-          "translation": "在旅馆 / 对主任。"
+          "translation": "在旅馆 / 对主任。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la paire correcte. (hôtel : m., h muet / directeur : m.)",
+              "explain": "hôtel est masculin singulier et commence par un h muet : le s'élide en l', et à reste séparé ; directeur est masculin singulier : à + le se contracte en au."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x2-q8",
@@ -1272,9 +1826,21 @@
           ],
           "answer": 1,
           "explain": "hôpital 以哑音 h 开头，le 省音为 l'；de 保持分写，写作 de l'hôpital，不是 du。",
-          "translation": "她从医院回来。"
+          "translation": "她从医院回来。",
+          "locales": {
+            "fr": {
+              "prompt": "Elle revient ___ hôpital. (hôpital : m., h muet)",
+              "example": "Employez la préposition de avec l'article défini ; hôpital est masculin singulier et commence par un h muet.",
+              "explain": "hôpital commence par un h muet : le s'élide en l' ; de reste séparé, on écrit de l'hôpital, et non du."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Défi 2 : contraction avec de et combinaison des deux prépositions"
+        }
+      }
     },
     {
       "id": "pub-c01-boundaries-x3",
@@ -1289,7 +1855,13 @@
           "example": "填定冠词：école 为阴性单数、元音开头。",
           "answer": "l'",
           "explain": "école 以元音开头，la 省音为 l'。",
-          "translation": "这个街区里，学校很大。"
+          "translation": "这个街区里，学校很大。",
+          "locales": {
+            "fr": {
+              "example": "Complétez avec l'article défini : école est féminin singulier et commence par une voyelle.",
+              "explain": "école commence par une voyelle : la s'élide en l'."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x3-q2",
@@ -1298,7 +1870,13 @@
           "example": "填定冠词：héros 为阳性单数、嘘音 h。",
           "answer": "le",
           "explain": "héros 的 h 是嘘音，不省音，保留 le héros。",
-          "translation": "在这部小说里，主人公很晚才到。"
+          "translation": "在这部小说里，主人公很晚才到。",
+          "locales": {
+            "fr": {
+              "example": "Complétez avec l'article défini : héros est masculin singulier et commence par un h aspiré.",
+              "explain": "Le h de héros est aspiré : il n'y a pas d'élision, on conserve le héros."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x3-q3",
@@ -1307,7 +1885,13 @@
           "example": "已知：je + hurle；hurle 为嘘音 h 开头的已给词形，只判断 je 是否省音。",
           "answer": "je",
           "explain": "hurle 的 h 是嘘音，je 不省音，保留 je hurle。",
-          "translation": "在体育场，我大喊。"
+          "translation": "在体育场，我大喊。",
+          "locales": {
+            "fr": {
+              "example": "Donné : je + hurle ; hurle est une forme verbale donnée qui commence par un h aspiré ; déterminez seulement si je s'élide.",
+              "explain": "Le h de hurle est aspiré : je ne s'élide pas, on conserve je hurle."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x3-q4",
@@ -1316,7 +1900,13 @@
           "example": "已知框架：il est difficile de + attendre；填写 de 与 attendre 合并后的完整词组。",
           "answer": "d'attendre",
           "explain": "attendre 以元音开头，de 省音为 d'，写作 d'attendre。",
-          "translation": "等待很难。"
+          "translation": "等待很难。",
+          "locales": {
+            "fr": {
+              "example": "Structure donnée : il est difficile de + attendre ; écrivez le groupe complet formé par de et attendre.",
+              "explain": "attendre commence par une voyelle : de s'élide en d', on écrit d'attendre."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x3-q5",
@@ -1330,7 +1920,12 @@
           ],
           "answer": 0,
           "explain": "je 与元音开头的 écoute 省音连写为 j'écoute，不能保留 je 与动词之间的空格。",
-          "translation": "哪一句正确？我听收音机。"
+          "translation": "哪一句正确？我听收音机。",
+          "locales": {
+            "fr": {
+              "explain": "je s'élide avec écoute, qui commence par une voyelle, et s'écrit j'écoute ; on ne laisse pas d'espace entre je et le verbe."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x3-q6",
@@ -1344,7 +1939,12 @@
           ],
           "answer": 0,
           "explain": "de 与元音开头的 attendre 省音连写为 d'attendre，撇号后不留空格。",
-          "translation": "哪一句正确？等待很容易。"
+          "translation": "哪一句正确？等待很容易。",
+          "locales": {
+            "fr": {
+              "explain": "de s'élide avec attendre, qui commence par une voyelle, et s'écrit d'attendre ; il n'y a pas d'espace après l'apostrophe."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x3-q7",
@@ -1359,7 +1959,13 @@
           ],
           "answer": 1,
           "explain": "hôtel 是阳性单数、哑音 h 开头，定冠词 le 省音为 l'。",
-          "translation": "选择旅馆前的正确形式。"
+          "translation": "选择旅馆前的正确形式。",
+          "locales": {
+            "fr": {
+              "example": "hôtel est masculin singulier et commence par un h muet ; complétez avec l'article défini.",
+              "explain": "hôtel est masculin singulier et commence par un h muet : l'article défini le s'élide en l'."
+            }
+          }
         },
         {
           "id": "pub-c01-boundaries-x3-q8",
@@ -1385,9 +1991,28 @@
             "enfants."
           ],
           "explain": "de 在元音开头的 écouter 前省音为 d'；les enfants 用复数定冠词。",
-          "translation": "听孩子们说话很重要。"
+          "translation": "听孩子们说话很重要。",
+          "locales": {
+            "fr": {
+              "example": "La préposition est de et l'infinitif est écouter (commence par une voyelle) ; enfants est au pluriel et demande l'article défini.",
+              "explain": "de s'élide en d' devant écouter, qui commence par une voyelle ; devant les enfants, on emploie l'article défini pluriel."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Défi 3 : élision, absence d'élision et distinction des formes"
+        }
+      }
     }
-  ]
+  ],
+  "locales": {
+    "fr": {
+      "sectionTitles": {
+        "all": "Articles",
+        "spelling": "Élision et contraction"
+      }
+    }
+  }
 }

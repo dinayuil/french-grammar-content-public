@@ -6,107 +6,233 @@
     {
       "id": "pub-c17-passive-voice-card-u1-1",
       "title": "被动语态：être + 过去分词",
-      "body": "<p>被动语态（la voix passive）让动作的承受者充当句子主语，而不是动作的执行者。它的基本结构是 être 的变位形式加过去分词（participe passé，动词的一种非变位形式，常用来构成复合时态和被动结构；复合时态是由助动词加过去分词构成的时态）：</p><ul><li>La maison est construite par les ouvriers.（房子由工人们建造。）</li><li>Les fleurs sont arrosées chaque matin.（花每天早上被浇水。）</li><li>Le repas a été préparé par le chef.（饭菜由厨师做好了。）</li></ul><p>时态由 être 承担：est 是现在时，a été 是复合过去时（由助动词加过去分词构成的过去时态；助动词是帮助构成复合时态的动词，如 avoir、être）；过去分词本身不表示时态。施动者（动作的执行者）通常由 par 引出，放在过去分词之后。过去分词还要与主语性数一致，见下一张。</p><p>注意：被动句不能漏掉 être，只有过去分词不能构成谓语。另外，être + 过去分词不一定都是被动，也可能是状态或某些位移动词的主动复合过去时（见第 4 单元）。</p>"
+      "body": "<p>被动语态（la voix passive）让动作的承受者充当句子主语，而不是动作的执行者。它的基本结构是 être 的变位形式加过去分词（participe passé，动词的一种非变位形式，常用来构成复合时态和被动结构；复合时态是由助动词加过去分词构成的时态）：</p><ul><li>La maison est construite par les ouvriers.（房子由工人们建造。）</li><li>Les fleurs sont arrosées chaque matin.（花每天早上被浇水。）</li><li>Le repas a été préparé par le chef.（饭菜由厨师做好了。）</li></ul><p>时态由 être 承担：est 是现在时，a été 是复合过去时（由助动词加过去分词构成的过去时态；助动词是帮助构成复合时态的动词，如 avoir、être）；过去分词本身不表示时态。施动者（动作的执行者）通常由 par 引出，放在过去分词之后。过去分词还要与主语性数一致，见下一张。</p><p>注意：被动句不能漏掉 être，只有过去分词不能构成谓语。另外，être + 过去分词不一定都是被动，也可能是状态或某些位移动词的主动复合过去时（见第 4 单元）。</p>",
+      "locales": {
+        "fr": {
+          "title": "La voix passive : être + participe passé",
+          "body": "<p>La voix passive fait du patient de l'action le sujet de la phrase, et non de l'agent. Sa structure de base est une forme conjuguée d'être suivie du participe passé, forme non conjuguée du verbe qui sert notamment à former les temps composés et la voix passive :</p><ul><li>La maison est construite par les ouvriers.</li><li>Les fleurs sont arrosées chaque matin.</li><li>Le repas a été préparé par le chef.</li></ul><p>Le temps est porté par être : est est le présent, a été le passé composé ; le participe passé lui-même n'exprime pas le temps. L'agent, c'est-à-dire l'auteur de l'action, est généralement introduit par par et placé après le participe passé. Le participe passé s'accorde en genre et en nombre avec le sujet : voir la fiche suivante.</p><p>Attention : une phrase passive ne peut pas omettre être ; un participe passé seul ne forme pas un prédicat. Inversement, être + participe passé n'est pas toujours passif : il peut exprimer un état ou former le passé composé actif de certains verbes de déplacement (voir l'unité 4).</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u1-2",
       "title": "过去分词与主语的性数配合",
-      "body": "<p>被动结构里的过去分词像形容词一样，要与主语在性和数上一致（阴性／阳性、单数／复数）。</p><ul><li>Le devoir est corrigé par le professeur. / Les devoirs sont corrigés par le professeur.（作业由老师批改。）</li><li>La lettre est écrite par la secrétaire. / Les lettres sont écrites par la secrétaire.（信由秘书写。）</li><li>Le film a été choisi par le jury. / Les films ont été choisis par le jury. / La pièce a été choisie par le metteur en scène. / Les pièces ont été choisies par le metteur en scène.（电影／戏剧被选中了。）</li><li>Le livre est lu. / Les enfants sont nourris.（书被读了。／孩子们被喂养。）</li></ul><p>在复合时态（由助动词加过去分词构成的时态）中，过去分词前面多了 été，配合规则不变：主语是阴性复数，分词就加 -es，写成 Les maisons ont été construites。这里 été 本身永远不变，不能说 *ont étés。</p><p>配合看主语，不看 par 后面的施动者：Les lettres ont été écrites par le directeur. 主语 lettres 是阴性复数，所以用 écrites；directeur 是阳性单数，不影响分词。</p>"
+      "body": "<p>被动结构里的过去分词像形容词一样，要与主语在性和数上一致（阴性／阳性、单数／复数）。</p><ul><li>Le devoir est corrigé par le professeur. / Les devoirs sont corrigés par le professeur.（作业由老师批改。）</li><li>La lettre est écrite par la secrétaire. / Les lettres sont écrites par la secrétaire.（信由秘书写。）</li><li>Le film a été choisi par le jury. / Les films ont été choisis par le jury. / La pièce a été choisie par le metteur en scène. / Les pièces ont été choisies par le metteur en scène.（电影／戏剧被选中了。）</li><li>Le livre est lu. / Les enfants sont nourris.（书被读了。／孩子们被喂养。）</li></ul><p>在复合时态（由助动词加过去分词构成的时态）中，过去分词前面多了 été，配合规则不变：主语是阴性复数，分词就加 -es，写成 Les maisons ont été construites。这里 été 本身永远不变，不能说 *ont étés。</p><p>配合看主语，不看 par 后面的施动者：Les lettres ont été écrites par le directeur. 主语 lettres 是阴性复数，所以用 écrites；directeur 是阳性单数，不影响分词。</p>",
+      "locales": {
+        "fr": {
+          "title": "Accord du participe passé avec le sujet",
+          "body": "<p>Dans une structure passive, le participe passé s'accorde comme un adjectif avec le sujet en genre et en nombre (masculin/féminin, singulier/pluriel).</p><ul><li>Le devoir est corrigé par le professeur. / Les devoirs sont corrigés par le professeur.</li><li>La lettre est écrite par la secrétaire. / Les lettres sont écrites par la secrétaire.</li><li>Le film a été choisi par le jury. / Les films ont été choisis par le jury. / La pièce a été choisie par le metteur en scène. / Les pièces ont été choisies par le metteur en scène.</li><li>Le livre est lu. / Les enfants sont nourris.</li></ul><p>Au temps composé, le participe passé est précédé de été, mais la règle d'accord ne change pas : si le sujet est féminin pluriel, le participe prend -es, d'où Les maisons ont été construites. été lui-même reste toujours invariable : on n'écrit pas « ont étés ».</p><p>L'accord se fait avec le sujet, non avec l'agent introduit par par : dans Les lettres ont été écrites par le directeur, le sujet lettres est féminin pluriel, d'où écrites ; directeur est masculin singulier et n'influence pas le participe.</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u1-3",
       "title": "主动句改被动句",
-      "body": "<p>主动句的主语通常是动作的执行者。把主动句改成被动句，可以按四步操作：</p><ol><li>找出主动句的直接宾语（不带介词、直接跟在动词后面的宾语），把它变成被动句的主语。</li><li>把动词改成 être 的相应时态加过去分词。</li><li>过去分词与新主语性数一致。</li><li>原主语通常用 par 引出，放在过去分词后面；原主语是泛指主语 on（相当于「人们」）时，被动句一般不保留 par on（见第 3 单元）。</li></ol><ul><li>Le chef prépare le repas. → Le repas est préparé par le chef.（厨师准备饭菜。→ 饭菜由厨师准备。）</li><li>Les ouvriers ont construit la maison. → La maison a été construite par les ouvriers.（工人们建造了房子。→ 房子由工人们建造。）</li><li>Le jury a choisi deux films. → Deux films ont été choisis par le jury.（评审团选了两部电影。→ 两部电影被评审团选中。）</li></ul><p>时态必须保持不变：现在时对现在时，复合过去时对复合过去时。</p><p>注意：及物动词指能带直接宾语的动词，通常只有这类动词才具备被动转换的基本条件；间接宾语不能直接提升为被动主语（见第 4 单元）。</p>"
+      "body": "<p>主动句的主语通常是动作的执行者。把主动句改成被动句，可以按四步操作：</p><ol><li>找出主动句的直接宾语（不带介词、直接跟在动词后面的宾语），把它变成被动句的主语。</li><li>把动词改成 être 的相应时态加过去分词。</li><li>过去分词与新主语性数一致。</li><li>原主语通常用 par 引出，放在过去分词后面；原主语是泛指主语 on（相当于「人们」）时，被动句一般不保留 par on（见第 3 单元）。</li></ol><ul><li>Le chef prépare le repas. → Le repas est préparé par le chef.（厨师准备饭菜。→ 饭菜由厨师准备。）</li><li>Les ouvriers ont construit la maison. → La maison a été construite par les ouvriers.（工人们建造了房子。→ 房子由工人们建造。）</li><li>Le jury a choisi deux films. → Deux films ont été choisis par le jury.（评审团选了两部电影。→ 两部电影被评审团选中。）</li></ul><p>时态必须保持不变：现在时对现在时，复合过去时对复合过去时。</p><p>注意：及物动词指能带直接宾语的动词，通常只有这类动词才具备被动转换的基本条件；间接宾语不能直接提升为被动主语（见第 4 单元）。</p>",
+      "locales": {
+        "fr": {
+          "title": "Transformer une phrase active en phrase passive",
+          "body": "<p>Dans une phrase active, le sujet est généralement l'agent de l'action. Pour passer à la voix passive, procédez en quatre étapes :</p><ol><li>Repérez le complément d'objet direct de la phrase active, c'est-à-dire le complément qui suit directement le verbe, sans préposition, et faites-en le sujet de la phrase passive.</li><li>Mettez le verbe au temps correspondant d'être, puis ajoutez le participe passé.</li><li>Accordez le participe passé avec le nouveau sujet en genre et en nombre.</li><li>Introduisez généralement l'ancien sujet avec par, après le participe passé ; si l'ancien sujet est le on générique, la phrase passive ne conserve généralement pas par on (voir l'unité 3).</li></ol><ul><li>Le chef prépare le repas. → Le repas est préparé par le chef.</li><li>Les ouvriers ont construit la maison. → La maison a été construite par les ouvriers.</li><li>Le jury a choisi deux films. → Deux films ont été choisis par le jury.</li></ul><p>Le temps doit rester le même : présent → présent, passé composé → passé composé.</p><p>Attention : un verbe transitif, qui peut avoir un complément d'objet direct, remplit généralement la condition de base pour la transformation passive ; un complément d'objet indirect ne peut pas devenir directement sujet d'une phrase passive (voir l'unité 4).</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u1-4",
       "title": "被动句改主动句",
-      "body": "<p>把被动句还原成主动句，先找三样东西：</p><ul><li>被动句的主语：它是动作的承受者，改回主动句时作直接宾语。</li><li>être + 过去分词：确认时态，改回相应的主动形式。</li><li>par 后面的成分：它是动作的执行者，改回主动句时作主语。</li></ul><ul><li>La décision a été prise par le maire. → Le maire a pris la décision.（决定由市长做出。）</li><li>Les lettres sont écrites par la secrétaire. → La secrétaire écrit les lettres.（信由秘书写。）</li><li>Le gâteau sera préparé par ma sœur. → Ma sœur préparera le gâteau.（蛋糕将由我姐姐准备。）</li></ul><p>时态仍要对应：a été prise 是复合过去时，还原成 a pris；sera préparé 是简单将来时，还原成 préparera。若被动句没有 par 短语，可补一个泛指主语 on：Les fenêtres ont été nettoyées. → On a nettoyé les fenêtres.（见第 3 单元。）</p><p>注意：还原时不要把 être 的时态丢掉，也不要保留 par 短语。</p>"
+      "body": "<p>把被动句还原成主动句，先找三样东西：</p><ul><li>被动句的主语：它是动作的承受者，改回主动句时作直接宾语。</li><li>être + 过去分词：确认时态，改回相应的主动形式。</li><li>par 后面的成分：它是动作的执行者，改回主动句时作主语。</li></ul><ul><li>La décision a été prise par le maire. → Le maire a pris la décision.（决定由市长做出。）</li><li>Les lettres sont écrites par la secrétaire. → La secrétaire écrit les lettres.（信由秘书写。）</li><li>Le gâteau sera préparé par ma sœur. → Ma sœur préparera le gâteau.（蛋糕将由我姐姐准备。）</li></ul><p>时态仍要对应：a été prise 是复合过去时，还原成 a pris；sera préparé 是简单将来时，还原成 préparera。若被动句没有 par 短语，可补一个泛指主语 on：Les fenêtres ont été nettoyées. → On a nettoyé les fenêtres.（见第 3 单元。）</p><p>注意：还原时不要把 être 的时态丢掉，也不要保留 par 短语。</p>",
+      "locales": {
+        "fr": {
+          "title": "Transformer une phrase passive en phrase active",
+          "body": "<p>Pour revenir d'une phrase passive à une phrase active, repérez d'abord trois éléments :</p><ul><li>Le sujet de la phrase passive : c'est le patient de l'action ; il devient le complément d'objet direct de la phrase active.</li><li>être + participe passé : identifiez le temps, puis rétablissez la forme active correspondante.</li><li>L'élément après par : c'est l'agent de l'action ; il devient le sujet de la phrase active.</li></ul><ul><li>La décision a été prise par le maire. → Le maire a pris la décision.</li><li>Les lettres sont écrites par la secrétaire. → La secrétaire écrit les lettres.</li><li>Le gâteau sera préparé par ma sœur. → Ma sœur préparera le gâteau.</li></ul><p>Le temps doit encore correspondre : a été prise est un passé composé, qui redevient a pris ; sera préparé est un futur simple, qui redevient préparera. Si la phrase passive n'a pas de groupe en par, on peut ajouter un sujet générique on : Les fenêtres ont été nettoyées. → On a nettoyé les fenêtres. (voir l'unité 3)</p><p>Attention : ne perdez pas le temps d'être et ne conservez pas le groupe en par dans la phrase active.</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u1-5",
       "title": "常见过去分词与拼写",
-      "body": "<p>被动句的拼写难点常在过去分词。常见形式要按词条记：</p><ul><li>écrit（écrire）、construit（construire）、ouvert（ouvrir）、pris（prendre）、mis（mettre）、fait（faire）、dit（dire）、lu（lire）、vendu（vendre）、choisi（choisir）、fini（finir）、offert（offrir）、traduit（traduire）、publié（publier）、préparé（préparer）、réparé（réparer）、invité（inviter）、nettoyé（nettoyer）、nourri（nourrir）。</li></ul><p>以 -er 结尾的动词，分词一般是 -é：préparé、réparé、invité、nettoyé；阴性加 -e，复数加 -s。不规则分词要单独记：écrit 阴性 écrite、复数 écrits／écrites；ouvert → ouverte／ouverts／ouvertes；pris → prise／prises。</p><p>注意：不要根据动词原形猜所有分词；例如 faire 的分词是 fait，不是 *fairé。</p>"
+      "body": "<p>被动句的拼写难点常在过去分词。常见形式要按词条记：</p><ul><li>écrit（écrire）、construit（construire）、ouvert（ouvrir）、pris（prendre）、mis（mettre）、fait（faire）、dit（dire）、lu（lire）、vendu（vendre）、choisi（choisir）、fini（finir）、offert（offrir）、traduit（traduire）、publié（publier）、préparé（préparer）、réparé（réparer）、invité（inviter）、nettoyé（nettoyer）、nourri（nourrir）。</li></ul><p>以 -er 结尾的动词，分词一般是 -é：préparé、réparé、invité、nettoyé；阴性加 -e，复数加 -s。不规则分词要单独记：écrit 阴性 écrite、复数 écrits／écrites；ouvert → ouverte／ouverts／ouvertes；pris → prise／prises。</p><p>注意：不要根据动词原形猜所有分词；例如 faire 的分词是 fait，不是 *fairé。</p>",
+      "locales": {
+        "fr": {
+          "title": "Participes passés courants et orthographe",
+          "body": "<p>La difficulté orthographique de la phrase passive vient souvent du participe passé. Les formes courantes s'apprennent par entrée lexicale :</p><ul><li>écrit (écrire), construit (construire), ouvert (ouvrir), pris (prendre), mis (mettre), fait (faire), dit (dire), lu (lire), vendu (vendre), choisi (choisir), fini (finir), offert (offrir), traduit (traduire), publié (publier), préparé (préparer), réparé (réparer), invité (inviter), nettoyé (nettoyer), nourri (nourrir).</li></ul><p>Les verbes en -er ont généralement un participe en -é : préparé, réparé, invité, nettoyé ; le féminin ajoute -e, le pluriel -s. Les participes irréguliers s'apprennent séparément : écrit → écrite, écrits, écrites ; ouvert → ouverte, ouverts, ouvertes ; pris → prise, prises.</p><p>Attention : ne devinez pas tous les participes à partir de l'infinitif ; le participe de faire est fait, non « fairé ».</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u2-1",
       "title": "简单时态的被动：现在时、未完成过去时、简单将来时",
-      "body": "<p>被动句的时态由 être 承担，过去分词不随时态改变，但仍与主语性数配合。先记住三个简单时态（不需要助动词、由一个变位动词构成的时态）的 être 形式：</p><ul><li>现在时：est／sont + 过去分词。Le projet est accepté.（项目被接受。）</li><li>未完成过去时（表示过去持续或反复的动作）：était／étaient + 过去分词。Le projet était accepté par tous.（当时项目被所有人接受。）</li><li>简单将来时（表示将来发生的动作）：sera／seront + 过去分词。Le projet sera présenté demain.（项目将于明天被介绍。）</li></ul><p>主语单复数决定 être 的形式，过去分词仍与主语配合：Les mesures seront appliquées.（措施将被实施。）</p><p>注意：不要把时态加到过去分词上；变位的是 être。</p>"
+      "body": "<p>被动句的时态由 être 承担，过去分词不随时态改变，但仍与主语性数配合。先记住三个简单时态（不需要助动词、由一个变位动词构成的时态）的 être 形式：</p><ul><li>现在时：est／sont + 过去分词。Le projet est accepté.（项目被接受。）</li><li>未完成过去时（表示过去持续或反复的动作）：était／étaient + 过去分词。Le projet était accepté par tous.（当时项目被所有人接受。）</li><li>简单将来时（表示将来发生的动作）：sera／seront + 过去分词。Le projet sera présenté demain.（项目将于明天被介绍。）</li></ul><p>主语单复数决定 être 的形式，过去分词仍与主语配合：Les mesures seront appliquées.（措施将被实施。）</p><p>注意：不要把时态加到过去分词上；变位的是 être。</p>",
+      "locales": {
+        "fr": {
+          "title": "Passif aux temps simples : présent, imparfait, futur simple",
+          "body": "<p>Dans une phrase passive, le temps est porté par être ; le participe passé ne change pas de forme selon le temps, mais il continue de s'accorder avec le sujet. Mémorisez d'abord les formes d'être aux trois temps simples, temps formés d'un seul verbe conjugué, sans auxiliaire :</p><ul><li>Présent : est / sont + participe passé. Le projet est accepté.</li><li>Imparfait, qui exprime une action passée durable ou répétée : était / étaient + participe passé. Le projet était accepté par tous.</li><li>Futur simple, qui exprime une action à venir : sera / seront + participe passé. Le projet sera présenté demain.</li></ul><p>Le nombre du sujet détermine la forme d'être, et le participe passé s'accorde toujours avec le sujet : Les mesures seront appliquées.</p><p>Attention : on ne met pas le temps sur le participe passé ; c'est être qui se conjugue.</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u2-2",
       "title": "复合时态的被动：复合过去时与愈过去时",
-      "body": "<p>复合时态的被动用 avoir 的变位 + été + 过去分词：</p><ul><li>复合过去时：a été／ont été + 过去分词。La maison a été construite en 1990.（房子建于 1990 年。）</li><li>愈过去时（表示在过去某一时间之前已经完成的动作）：avait été／avaient été + 过去分词。La maison avait été construite avant la guerre.（房子在战前就已经建好了。）</li></ul><p>时态层次落在 avoir 上：a 是复合过去时，avait 是愈过去时；été 不变，最后的过去分词与主语配合。</p><p>注意：要表达复合过去时的被动，必须用 a été + 分词，不能只用 était + 分词（那是未完成过去时）。愈过去时被动也不能省成 *a été，否则时态层次就丢了。</p>"
+      "body": "<p>复合时态的被动用 avoir 的变位 + été + 过去分词：</p><ul><li>复合过去时：a été／ont été + 过去分词。La maison a été construite en 1990.（房子建于 1990 年。）</li><li>愈过去时（表示在过去某一时间之前已经完成的动作）：avait été／avaient été + 过去分词。La maison avait été construite avant la guerre.（房子在战前就已经建好了。）</li></ul><p>时态层次落在 avoir 上：a 是复合过去时，avait 是愈过去时；été 不变，最后的过去分词与主语配合。</p><p>注意：要表达复合过去时的被动，必须用 a été + 分词，不能只用 était + 分词（那是未完成过去时）。愈过去时被动也不能省成 *a été，否则时态层次就丢了。</p>",
+      "locales": {
+        "fr": {
+          "title": "Passif aux temps composés : passé composé et plus-que-parfait",
+          "body": "<p>Le passif aux temps composés se forme avec une forme conjuguée d'avoir + été + participe passé :</p><ul><li>Passé composé : a été / ont été + participe passé. La maison a été construite en 1990.</li><li>Plus-que-parfait, qui exprime une action achevée avant un moment du passé : avait été / avaient été + participe passé. La maison avait été construite avant la guerre.</li></ul><p>Le niveau temporel est porté par avoir : a correspond au passé composé, avait au plus-que-parfait ; été reste invariable et le participe final s'accorde avec le sujet.</p><p>Attention : pour le passif au passé composé, il faut a été + participe, non était + participe (qui est l'imparfait). Au plus-que-parfait passif, on ne réduit pas non plus la forme à « a été », sous peine de perdre le niveau temporel.</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u2-3",
       "title": "被动句的否定",
-      "body": "<p>被动句的否定落在实际变位的动词上。变位动词指按人称和时态变化后的动词形式。</p><ul><li>简单被动：变位动词是 être，ne 和 pas 夹住它。La porte n'est pas fermée par la gardienne.（门没有被女门卫关上。）Les fenêtres ne sont pas ouvertes par le gardien.（窗户没有被门卫打开。）Le courrier n'est pas livré.（邮件没有被投递。）</li><li>复合被动：变位助动词是 avoir，ne 和 pas 夹住 avoir。La lettre n'a pas été envoyée.（信没有被寄出。）Les travaux n'ont pas été terminés.（工程没有被完成。）</li></ul><p>过去分词和 été 都不参与否定词的位置，但分词仍与主语配合。</p><p>注意：不能说 *ne sont pas été 或 *n'a pas envoyé（后者变成主动的「没有寄」）。</p>"
+      "body": "<p>被动句的否定落在实际变位的动词上。变位动词指按人称和时态变化后的动词形式。</p><ul><li>简单被动：变位动词是 être，ne 和 pas 夹住它。La porte n'est pas fermée par la gardienne.（门没有被女门卫关上。）Les fenêtres ne sont pas ouvertes par le gardien.（窗户没有被门卫打开。）Le courrier n'est pas livré.（邮件没有被投递。）</li><li>复合被动：变位助动词是 avoir，ne 和 pas 夹住 avoir。La lettre n'a pas été envoyée.（信没有被寄出。）Les travaux n'ont pas été terminés.（工程没有被完成。）</li></ul><p>过去分词和 été 都不参与否定词的位置，但分词仍与主语配合。</p><p>注意：不能说 *ne sont pas été 或 *n'a pas envoyé（后者变成主动的「没有寄」）。</p>",
+      "locales": {
+        "fr": {
+          "title": "Négation de la phrase passive",
+          "body": "<p>La négation d'une phrase passive porte sur le verbe effectivement conjugué, c'est-à-dire la forme verbale qui varie selon la personne et le temps.</p><ul><li>Passif simple : le verbe conjugué est être ; ne et pas l'encadrent. La porte n'est pas fermée par la gardienne. Les fenêtres ne sont pas ouvertes par le gardien. Le courrier n'est pas livré.</li><li>Passif composé : l'auxiliaire conjugué est avoir ; ne et pas encadrent avoir. La lettre n'a pas été envoyée. Les travaux n'ont pas été terminés.</li></ul><p>Le participe passé et été ne participent pas au placement de la négation, mais le participe continue de s'accorder avec le sujet.</p><p>Attention : on n'écrit ni « ne sont pas été » ni « n'a pas envoyé » ; la seconde forme est une phrase active (« il n'a pas envoyé [la lettre] »), non un passif.</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u2-4",
       "title": "被动句的倒装提问",
-      "body": "<p>倒装是把主语与变位动词调换位置。被动句的倒装也以实际变位的动词为准。</p><ul><li>简单被动倒装 être：Le projet est-il accepté ?（项目被接受了吗？）Les fenêtres sont-elles ouvertes ?（窗户开着吗？）Quand le courrier est-il livré ?（邮件什么时候被投递？）</li><li>复合被动倒装 avoir：La lettre a-t-elle été envoyée ?（信寄出了吗？）Les travaux ont-ils été terminés ?（工程完成了吗？）</li></ul><p>倒装时主语代词放在变位动词后，用连字符连接。avoir 的第三人称单数 a 在以元音开头的 il／elle／on 前要加 -t-：a-t-il、a-t-elle。过去分词不参与倒装，但仍与主语配合。</p><p>注意：不要把倒装加到过去分词上，也不要在复合被动里倒装 être：*a été-t-elle envoyée 不对。</p>"
+      "body": "<p>倒装是把主语与变位动词调换位置。被动句的倒装也以实际变位的动词为准。</p><ul><li>简单被动倒装 être：Le projet est-il accepté ?（项目被接受了吗？）Les fenêtres sont-elles ouvertes ?（窗户开着吗？）Quand le courrier est-il livré ?（邮件什么时候被投递？）</li><li>复合被动倒装 avoir：La lettre a-t-elle été envoyée ?（信寄出了吗？）Les travaux ont-ils été terminés ?（工程完成了吗？）</li></ul><p>倒装时主语代词放在变位动词后，用连字符连接。avoir 的第三人称单数 a 在以元音开头的 il／elle／on 前要加 -t-：a-t-il、a-t-elle。过去分词不参与倒装，但仍与主语配合。</p><p>注意：不要把倒装加到过去分词上，也不要在复合被动里倒装 être：*a été-t-elle envoyée 不对。</p>",
+      "locales": {
+        "fr": {
+          "title": "Interrogation par inversion au passif",
+          "body": "<p>L'inversion consiste à échanger la place du sujet et du verbe conjugué. Dans une phrase passive, elle se fait aussi sur le verbe effectivement conjugué.</p><ul><li>Passif simple : inversion d'être. Le projet est-il accepté ? Les fenêtres sont-elles ouvertes ? Quand le courrier est-il livré ?</li><li>Passif composé : inversion d'avoir. La lettre a-t-elle été envoyée ? Les travaux ont-ils été terminés ?</li></ul><p>À l'inversion, le pronom sujet se place après le verbe conjugué, relié par un trait d'union. a, troisième personne du singulier d'avoir, prend -t- devant il / elle / on commençant par une voyelle : a-t-il, a-t-elle. Le participe passé ne participe pas à l'inversion, mais continue de s'accorder avec le sujet.</p><p>Attention : n'ajoutez pas l'inversion au participe passé et n'inversez pas être dans un passif composé : « a été-t-elle envoyée » est incorrect.</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u2-5",
       "title": "被动不定式",
-      "body": "<p>不定式是动词原形，不按人称变位。被动不定式由 être + 过去分词构成，常用在情态动词（devoir、pouvoir、vouloir 等表示义务、能力、意愿的动词）、喜好或情绪动词以及介词 de 后面。</p><ul><li>情态动词后：Le rapport doit être rendu lundi.（报告必须在周一前交。）Les fleurs peuvent être arrosées le soir.（花可以在晚上浇水。）</li><li>喜好、情绪动词后：Elle aime être invitée à ces soirées.（她喜欢被邀请参加这些晚会。）Il craint d'être oublié.（他担心被遗忘。）</li><li>介词 de 或动词 + de 的结构后：Ce manuscrit mérite d'être publié.（这部手稿值得被出版。）</li></ul><p>不定式里的过去分词仍与逻辑主语配合。逻辑主语指不定式动作的承受者，通常是句子的主语：Elle espère être invitée. / Ils espèrent être invités. de 与 être 相接时要省音（去掉词尾元音，用省文撇代替）为 d'être，不能写成 *de être。</p><p>注意：被动不定式的助动词固定是 être，不是 avoir；不要说 *doit avoir rendu 来表示「必须被交」。</p>"
+      "body": "<p>不定式是动词原形，不按人称变位。被动不定式由 être + 过去分词构成，常用在情态动词（devoir、pouvoir、vouloir 等表示义务、能力、意愿的动词）、喜好或情绪动词以及介词 de 后面。</p><ul><li>情态动词后：Le rapport doit être rendu lundi.（报告必须在周一前交。）Les fleurs peuvent être arrosées le soir.（花可以在晚上浇水。）</li><li>喜好、情绪动词后：Elle aime être invitée à ces soirées.（她喜欢被邀请参加这些晚会。）Il craint d'être oublié.（他担心被遗忘。）</li><li>介词 de 或动词 + de 的结构后：Ce manuscrit mérite d'être publié.（这部手稿值得被出版。）</li></ul><p>不定式里的过去分词仍与逻辑主语配合。逻辑主语指不定式动作的承受者，通常是句子的主语：Elle espère être invitée. / Ils espèrent être invités. de 与 être 相接时要省音（去掉词尾元音，用省文撇代替）为 d'être，不能写成 *de être。</p><p>注意：被动不定式的助动词固定是 être，不是 avoir；不要说 *doit avoir rendu 来表示「必须被交」。</p>",
+      "locales": {
+        "fr": {
+          "title": "Infinitif passif",
+          "body": "<p>L'infinitif est la forme non conjuguée du verbe. L'infinitif passif se forme avec être + participe passé ; il s'emploie souvent après un verbe de modalité (devoir, pouvoir, vouloir, etc., qui expriment obligation, capacité ou volonté), après un verbe de goût ou d'émotion, et après la préposition de.</p><ul><li>Après un verbe de modalité : Le rapport doit être rendu lundi. Les fleurs peuvent être arrosées le soir.</li><li>Après un verbe de goût ou d'émotion : Elle aime être invitée à ces soirées. Il craint d'être oublié.</li><li>Après la préposition de ou une structure verbe + de : Ce manuscrit mérite d'être publié.</li></ul><p>Le participe passé de l'infinitif s'accorde toujours avec le sujet logique, c'est-à-dire le patient de l'action exprimée par l'infinitif, généralement le sujet de la phrase : Elle espère être invitée. / Ils espèrent être invités. Quand de rencontre être, il s'élide en d'être ; on n'écrit pas « de être ».</p><p>Attention : l'auxiliaire de l'infinitif passif est toujours être, non avoir ; on ne dit pas « doit avoir rendu » pour « doit être rendu ».</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u2-6",
       "title": "近将来时的被动",
-      "body": "<p>近将来时（futur proche）表示即将发生的动作，由 aller 的现在时加不定式构成。它的被动形式是 aller 的现在时 + être + 过去分词。</p><ul><li>Le bâtiment va être démoli.（大楼即将被拆除。）</li><li>Les invités vont être conduits à la salle.（客人们即将被带到大厅。）</li></ul><p>aller 体现时态和人称，être 保持不定式；过去分词与主语配合。</p><p>注意：不要漏掉 être。va démolir 是主动的近将来时（「将要拆除」），va être démoli 才是被动（「将被拆除」）。</p>"
+      "body": "<p>近将来时（futur proche）表示即将发生的动作，由 aller 的现在时加不定式构成。它的被动形式是 aller 的现在时 + être + 过去分词。</p><ul><li>Le bâtiment va être démoli.（大楼即将被拆除。）</li><li>Les invités vont être conduits à la salle.（客人们即将被带到大厅。）</li></ul><p>aller 体现时态和人称，être 保持不定式；过去分词与主语配合。</p><p>注意：不要漏掉 être。va démolir 是主动的近将来时（「将要拆除」），va être démoli 才是被动（「将被拆除」）。</p>",
+      "locales": {
+        "fr": {
+          "title": "Passif au futur proche",
+          "body": "<p>Le futur proche exprime une action imminente ; il se forme avec le présent d'aller + infinitif. Sa forme passive est le présent d'aller + être + participe passé.</p><ul><li>Le bâtiment va être démoli.</li><li>Les invités vont être conduits à la salle.</li></ul><p>aller porte le temps et la personne, être reste à l'infinitif, et le participe passé s'accorde avec le sujet.</p><p>Attention : n'omettez pas être. va démolir est un futur proche actif (« va démolir »), tandis que va être démoli est le passif (« va être démoli »).</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u2-7",
       "title": "最近过去时的被动",
-      "body": "<p>最近过去时（passé récent）表示刚刚发生的动作，由 venir de 加不定式构成。它的被动形式是 venir de + être + 过去分词。</p><ul><li>Le vase vient d'être cassé.（花瓶刚刚被打破。）</li><li>Les fenêtres viennent d'être nettoyées.（窗户刚刚被擦干净。）</li></ul><p>venir 的现在时体现人称和「刚刚」；de 与 être 相接时要省音为 d'être，不能写成 *de être。过去分词与主语配合。</p><p>注意：venir de + 不定式表示「刚刚」，不要与 venir de + 地点（「来自」）混淆；被动最近过去里 venir 后面接的是 être + 过去分词。</p>"
+      "body": "<p>最近过去时（passé récent）表示刚刚发生的动作，由 venir de 加不定式构成。它的被动形式是 venir de + être + 过去分词。</p><ul><li>Le vase vient d'être cassé.（花瓶刚刚被打破。）</li><li>Les fenêtres viennent d'être nettoyées.（窗户刚刚被擦干净。）</li></ul><p>venir 的现在时体现人称和「刚刚」；de 与 être 相接时要省音为 d'être，不能写成 *de être。过去分词与主语配合。</p><p>注意：venir de + 不定式表示「刚刚」，不要与 venir de + 地点（「来自」）混淆；被动最近过去里 venir 后面接的是 être + 过去分词。</p>",
+      "locales": {
+        "fr": {
+          "title": "Passif au passé récent",
+          "body": "<p>Le passé récent exprime une action qui vient de se produire ; il se forme avec venir de + infinitif. Sa forme passive est venir de + être + participe passé.</p><ul><li>Le vase vient d'être cassé.</li><li>Les fenêtres viennent d'être nettoyées.</li></ul><p>Le présent de venir exprime la personne et le sens « venir de » ; quand de rencontre être, il s'élide en d'être, et l'on n'écrit pas « de être ». Le participe passé s'accorde avec le sujet.</p><p>Attention : venir de + infinitif signifie « venir de » ; ne le confondez pas avec venir de + lieu (« venir de »). Au passif récent, venir est suivi d'être + participe passé.</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u3-1",
       "title": "par 引出施动者",
-      "body": "<p>被动句里，动作的实际执行者叫施动者（complément d'agent）。施动者通常由 par 引出，放在过去分词（participe passé，动词的非谓语形式，如 pris、envoyé）之后，形成「être + 过去分词 + par + 施动者」的结构。</p><ul><li>La décision a été prise par le directeur.（决定由经理做出。）</li><li>Les lettres ont été envoyées par la secrétaire.（信由秘书寄出。）</li><li>Ce projet est soutenu par une association locale.（这个项目得到当地一个协会的支持。）</li></ul><p>施动者可以是名词、专有名词、代词或复杂名词词组：par le directeur、par Marie、par lui、par le ministre de la Culture。代词要用重读形式（能独立使用的代词形式，如 moi、toi、lui）：par moi、par toi、par lui、par elle、par nous、par vous、par eux、par elles。</p><p>过去分词与主语配合，不与 par 后的施动者配合：Les lettres ont été envoyées par le directeur. 中 envoyées 跟 les lettres（阴性复数），不跟 le directeur。</p><p>par 后面的冠词不缩合：par le directeur、par les étudiants；不要写成 *par au、*par du。</p><p>被动句的时态由 être 的变位体现（复合过去时则用 a été + 过去分词），par 短语本身不随时态变化：Le contrat va être signé par le directeur.（合同将由经理签署。）Le prix vient d'être remis par le ministre.（奖品刚刚由部长颁发。）Les travaux seront terminés par l'entreprise.（工程将由公司完成。）</p><p>注意：施动者通常放在句末；放到句首是为了强调，初学阶段先用句末位置。</p>"
+      "body": "<p>被动句里，动作的实际执行者叫施动者（complément d'agent）。施动者通常由 par 引出，放在过去分词（participe passé，动词的非谓语形式，如 pris、envoyé）之后，形成「être + 过去分词 + par + 施动者」的结构。</p><ul><li>La décision a été prise par le directeur.（决定由经理做出。）</li><li>Les lettres ont été envoyées par la secrétaire.（信由秘书寄出。）</li><li>Ce projet est soutenu par une association locale.（这个项目得到当地一个协会的支持。）</li></ul><p>施动者可以是名词、专有名词、代词或复杂名词词组：par le directeur、par Marie、par lui、par le ministre de la Culture。代词要用重读形式（能独立使用的代词形式，如 moi、toi、lui）：par moi、par toi、par lui、par elle、par nous、par vous、par eux、par elles。</p><p>过去分词与主语配合，不与 par 后的施动者配合：Les lettres ont été envoyées par le directeur. 中 envoyées 跟 les lettres（阴性复数），不跟 le directeur。</p><p>par 后面的冠词不缩合：par le directeur、par les étudiants；不要写成 *par au、*par du。</p><p>被动句的时态由 être 的变位体现（复合过去时则用 a été + 过去分词），par 短语本身不随时态变化：Le contrat va être signé par le directeur.（合同将由经理签署。）Le prix vient d'être remis par le ministre.（奖品刚刚由部长颁发。）Les travaux seront terminés par l'entreprise.（工程将由公司完成。）</p><p>注意：施动者通常放在句末；放到句首是为了强调，初学阶段先用句末位置。</p>",
+      "locales": {
+        "fr": {
+          "title": "par introduit l'agent",
+          "body": "<p>Dans une phrase passive, l'auteur réel de l'action s'appelle le complément d'agent. Il est généralement introduit par par et placé après le participe passé, d'où la structure « être + participe passé + par + agent ».</p><ul><li>La décision a été prise par le directeur.</li><li>Les lettres ont été envoyées par la secrétaire.</li><li>Ce projet est soutenu par une association locale.</li></ul><p>L'agent peut être un nom, un nom propre, un pronom ou un groupe nominal complexe : par le directeur, par Marie, par lui, par le ministre de la Culture. Les pronoms se mettent à la forme tonique, forme autonome comme moi, toi, lui : par moi, par toi, par lui, par elle, par nous, par vous, par eux, par elles.</p><p>Le participe passé s'accorde avec le sujet, non avec l'agent après par : dans Les lettres ont été envoyées par le directeur, envoyées suit les lettres (féminin pluriel), non le directeur.</p><p>L'article après par ne se contracte pas : par le directeur, par les étudiants ; on n'écrit pas « par au » ni « par du ».</p><p>Le temps de la phrase passive est porté par la forme conjuguée d'être (au passé composé, a été + participe passé) ; le groupe en par ne change pas avec le temps : Le contrat va être signé par le directeur. Le prix vient d'être remis par le ministre. Les travaux seront terminés par l'entreprise.</p><p>Attention : l'agent se place généralement en fin de phrase ; le placer en tête sert à insister. Dans un premier temps, gardez-le en fin de phrase.</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u3-2",
       "title": "par 的工具、原因与路线用法",
-      "body": "<p>par 除了引出施动者，还能引出工具、原因、方式或路线。这时它前面的过去分词仍可能是被动，但 par 后面的成分不是「做事的人」。</p><ul><li>La vitre a été cassée par une pierre.（玻璃被一块石头打碎。）——une pierre 是原因或工具，不是有意识的施动者。</li><li>La porte a été ouverte par le vent.（门被风吹开。）——le vent 是自然力。</li><li>Il a fermé la porte par habitude.（他出于习惯关上了门。）——par habitude 表示原因或动机。</li><li>Les visiteurs sont arrivés par milliers.（游客成千上万地到来。）——par milliers 表示数量方式。</li><li>Elle est passée par la porte de service.（她从服务门经过。）——par 表示路线。</li></ul><p>判断方法：先看 par 后面的名词是不是能主动做事的人或动物；再看句子是否真是被动。若是物、自然力或抽象名词，多半是工具、原因或方式；若句子没有 être + 过去分词，par 往往只是普通介词。</p><p>注意：不要看到 par 就认定它是施动者。par 后面的成分不是施动者时，句子仍可能是被动句（如 La vitre a été cassée par une pierre），要靠句意和名词性质判断。</p>"
+      "body": "<p>par 除了引出施动者，还能引出工具、原因、方式或路线。这时它前面的过去分词仍可能是被动，但 par 后面的成分不是「做事的人」。</p><ul><li>La vitre a été cassée par une pierre.（玻璃被一块石头打碎。）——une pierre 是原因或工具，不是有意识的施动者。</li><li>La porte a été ouverte par le vent.（门被风吹开。）——le vent 是自然力。</li><li>Il a fermé la porte par habitude.（他出于习惯关上了门。）——par habitude 表示原因或动机。</li><li>Les visiteurs sont arrivés par milliers.（游客成千上万地到来。）——par milliers 表示数量方式。</li><li>Elle est passée par la porte de service.（她从服务门经过。）——par 表示路线。</li></ul><p>判断方法：先看 par 后面的名词是不是能主动做事的人或动物；再看句子是否真是被动。若是物、自然力或抽象名词，多半是工具、原因或方式；若句子没有 être + 过去分词，par 往往只是普通介词。</p><p>注意：不要看到 par 就认定它是施动者。par 后面的成分不是施动者时，句子仍可能是被动句（如 La vitre a été cassée par une pierre），要靠句意和名词性质判断。</p>",
+      "locales": {
+        "fr": {
+          "title": "par : outil, cause et itinéraire",
+          "body": "<p>Outre l'agent, par peut introduire un outil, une cause, une manière ou un itinéraire. Le participe passé qui précède peut alors rester passif, mais l'élément après par n'est pas « la personne qui fait l'action ».</p><ul><li>La vitre a été cassée par une pierre. — une pierre est la cause ou l'outil, non un agent conscient.</li><li>La porte a été ouverte par le vent. — le vent est une force naturelle.</li><li>Il a fermé la porte par habitude. — par habitude exprime la cause ou le motif.</li><li>Les visiteurs sont arrivés par milliers. — par milliers exprime la manière ou la quantité.</li><li>Elle est passée par la porte de service. — par indique l'itinéraire.</li></ul><p>Méthode : vérifiez d'abord si le nom après par peut réellement agir, s'il s'agit d'une personne ou d'un animal ; regardez ensuite si la phrase est vraiment passive. S'il s'agit d'une chose, d'une force naturelle ou d'un nom abstrait, par exprime probablement l'outil, la cause ou la manière ; si la phrase ne contient pas être + participe passé, par n'est souvent qu'une préposition ordinaire.</p><p>Attention : ne concluez pas que par introduit toujours un agent. Même quand l'élément après par n'est pas agent, la phrase peut rester passive (La vitre a été cassée par une pierre) : c'est le sens et la nature du nom qui permettent de décider.</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u3-3",
       "title": "de 引出施动者（识别）",
-      "body": "<p>少数表示情感、态度或评价的动词，在被动结构中习惯用 de 引出施动者。常见搭配要按词记：</p><ul><li>être aimé de：Le vieux professeur est aimé de ses élèves.（老教师受到学生爱戴。）</li><li>être respecté de：Cette professeure est respectée de tous ses étudiants.（这位女教师受到所有学生的尊敬。）</li><li>être craint de：Ce directeur est craint de ses employés.（这位经理让员工敬畏。）</li><li>être détesté de：Il est détesté de son entourage.（他受到周围人的厌恶。）</li><li>être admiré de：Cet acteur est admiré de tout le public.（这位演员受到所有观众的欣赏。）</li><li>être apprécié de / être estimé de：Elle est appréciée de ses clients.（她受到客户的欣赏。）</li></ul><p>de 不是 par 的自由替换。作为施动者标记，它主要适用于少数这类动词，而且多见于书面语；大多数动词的被动句仍然用 par：La lettre a été écrite par ma sœur.（信是我姐姐写的。）不能说 *La lettre a été écrite de ma sœur.</p><p>这些动词用 par 也往往可以接受，但 de 是它们典型的书面搭配。学习时把「动词 + de」整体记，不要把它推广到其他动词。</p><p>注意：本课只要求认出 de 引出施动者的用法，不要求自己自由造句。写作时若不确定，用 par 更安全。</p>"
+      "body": "<p>少数表示情感、态度或评价的动词，在被动结构中习惯用 de 引出施动者。常见搭配要按词记：</p><ul><li>être aimé de：Le vieux professeur est aimé de ses élèves.（老教师受到学生爱戴。）</li><li>être respecté de：Cette professeure est respectée de tous ses étudiants.（这位女教师受到所有学生的尊敬。）</li><li>être craint de：Ce directeur est craint de ses employés.（这位经理让员工敬畏。）</li><li>être détesté de：Il est détesté de son entourage.（他受到周围人的厌恶。）</li><li>être admiré de：Cet acteur est admiré de tout le public.（这位演员受到所有观众的欣赏。）</li><li>être apprécié de / être estimé de：Elle est appréciée de ses clients.（她受到客户的欣赏。）</li></ul><p>de 不是 par 的自由替换。作为施动者标记，它主要适用于少数这类动词，而且多见于书面语；大多数动词的被动句仍然用 par：La lettre a été écrite par ma sœur.（信是我姐姐写的。）不能说 *La lettre a été écrite de ma sœur.</p><p>这些动词用 par 也往往可以接受，但 de 是它们典型的书面搭配。学习时把「动词 + de」整体记，不要把它推广到其他动词。</p><p>注意：本课只要求认出 de 引出施动者的用法，不要求自己自由造句。写作时若不确定，用 par 更安全。</p>",
+      "locales": {
+        "fr": {
+          "title": "de introduit l'agent (reconnaissance)",
+          "body": "<p>Quelques verbes exprimant un sentiment, une attitude ou une évaluation emploient de pour introduire l'agent au passif. Ces associations s'apprennent par verbe :</p><ul><li>être aimé de : Le vieux professeur est aimé de ses élèves.</li><li>être respecté de : Cette professeure est respectée de tous ses étudiants.</li><li>être craint de : Ce directeur est craint de ses employés.</li><li>être détesté de : Il est détesté de son entourage.</li><li>être admiré de : Cet acteur est admiré de tout le public.</li><li>être apprécié de / être estimé de : Elle est appréciée de ses clients.</li></ul><p>de n'est pas un substitut libre de par. Comme marque d'agent, il ne s'emploie guère qu'avec ce petit groupe de verbes, surtout à l'écrit ; la plupart des verbes au passif gardent par : La lettre a été écrite par ma sœur. On ne dit pas « La lettre a été écrite de ma sœur ».</p><p>Avec ces verbes, par est souvent acceptable aussi, mais de est leur association écrite typique. Apprenez « verbe + de » en bloc et ne l'étendez pas aux autres verbes.</p><p>Attention : ce cours ne demande que de reconnaître de introduisant l'agent, non de produire librement cette structure. En cas de doute à l'écrit, par est plus sûr.</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u3-4",
       "title": "省略施动者与 on 的互换",
-      "body": "<p>当施动者不明确、不重要或不想说明时，被动句可以省去 par 短语，只保留「être + 过去分词」。省略施动者不会改变句子的时态，也不会改变过去分词与主语的配合。</p><ul><li>Le musée a été rénové l'année dernière.（博物馆去年翻修了。）</li><li>Les fenêtres ont été fermées.（窗户关上了。）</li><li>Ce roman est traduit dans vingt pays.（这部小说被译成二十种语言。）——谁译的不重要。</li></ul><p>省略施动者的规则适用于各种时态：Un nouveau pont va être construit.（一座新桥即将建成。）Les portes viennent d'être fermées.（门刚刚被关上。）</p><p>如果原主动句的主语是 on，转成被动后一般不再保留 par on：</p><ul><li>On a construit ce pont en 1998. → Ce pont a été construit en 1998.（这座桥建于 1998 年。）</li><li>On vend des fleurs dans cette boutique. → Des fleurs sont vendues dans cette boutique.（这家店卖花。）</li></ul><p>反过来，没有施动者的被动句可以用 on 作主语改成主动句：</p><ul><li>Les fenêtres ont été fermées. → On a fermé les fenêtres.（有人把窗户关上了。）</li><li>Le musée a été rénové. → On a rénové le musée.（有人翻修了博物馆。）</li></ul><p>转换时要保持原来的时态：复合过去时（由助动词加过去分词构成的时态；助动词是 avoir 或 être）的被动是 a été + 过去分词，改成 on 主动后用 on a + 过去分词。</p><p>注意：不要写出 *par on；这是最常见的错误。省略施动者后，句子仍然是完整的被动句。</p>"
+      "body": "<p>当施动者不明确、不重要或不想说明时，被动句可以省去 par 短语，只保留「être + 过去分词」。省略施动者不会改变句子的时态，也不会改变过去分词与主语的配合。</p><ul><li>Le musée a été rénové l'année dernière.（博物馆去年翻修了。）</li><li>Les fenêtres ont été fermées.（窗户关上了。）</li><li>Ce roman est traduit dans vingt pays.（这部小说被译成二十种语言。）——谁译的不重要。</li></ul><p>省略施动者的规则适用于各种时态：Un nouveau pont va être construit.（一座新桥即将建成。）Les portes viennent d'être fermées.（门刚刚被关上。）</p><p>如果原主动句的主语是 on，转成被动后一般不再保留 par on：</p><ul><li>On a construit ce pont en 1998. → Ce pont a été construit en 1998.（这座桥建于 1998 年。）</li><li>On vend des fleurs dans cette boutique. → Des fleurs sont vendues dans cette boutique.（这家店卖花。）</li></ul><p>反过来，没有施动者的被动句可以用 on 作主语改成主动句：</p><ul><li>Les fenêtres ont été fermées. → On a fermé les fenêtres.（有人把窗户关上了。）</li><li>Le musée a été rénové. → On a rénové le musée.（有人翻修了博物馆。）</li></ul><p>转换时要保持原来的时态：复合过去时（由助动词加过去分词构成的时态；助动词是 avoir 或 être）的被动是 a été + 过去分词，改成 on 主动后用 on a + 过去分词。</p><p>注意：不要写出 *par on；这是最常见的错误。省略施动者后，句子仍然是完整的被动句。</p>",
+      "locales": {
+        "fr": {
+          "title": "Omission de l'agent et équivalence avec on",
+          "body": "<p>Quand l'agent est inconnu, peu important ou qu'on ne veut pas le nommer, la phrase passive peut omettre le groupe en par et ne garder que « être + participe passé ». L'omission de l'agent ne change ni le temps de la phrase ni l'accord du participe avec le sujet.</p><ul><li>Le musée a été rénové l'année dernière.</li><li>Les fenêtres ont été fermées.</li><li>Ce roman est traduit dans vingt pays. — peu importe qui l'a traduit.</li></ul><p>L'omission de l'agent vaut à tous les temps : Un nouveau pont va être construit. Les portes viennent d'être fermées.</p><p>Si le sujet de la phrase active d'origine est on, le passif ne conserve généralement pas par on :</p><ul><li>On a construit ce pont en 1998. → Ce pont a été construit en 1998.</li><li>On vend des fleurs dans cette boutique. → Des fleurs sont vendues dans cette boutique.</li></ul><p>Inversement, une phrase passive sans agent peut devenir active avec on pour sujet :</p><ul><li>Les fenêtres ont été fermées. → On a fermé les fenêtres.</li><li>Le musée a été rénové. → On a rénové le musée.</li></ul><p>La transformation conserve le temps d'origine : le passif au passé composé est a été + participe passé ; à l'actif avec on, on emploie on a + participe passé.</p><p>Attention : n'écrivez pas « par on » ; c'est l'erreur la plus fréquente. Une phrase passive sans agent reste une phrase passive complète.</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u3-5",
       "title": "par、de 还是省略：判断顺序",
-      "body": "<p>遇到被动句，需要决定施动者用 par、用 de，还是干脆省略。可以按下面的顺序判断：</p><ol><li>看原主动句的主语。如果主语是 on，或者施动者不明、不重要，被动句省略施动者。On a réparé la route. → La route a été réparée.</li><li>如果施动者是具体的人或物，默认用 par。Le garagiste a réparé la voiture. → La voiture a été réparée par le garagiste.</li><li>如果动词是 aimer、respecter、craindre、détester、admirer、apprécier、estimer 这类情感或态度动词，可以用 de；de 多见于书面语，施动者是具体群体或泛指群体都可以。但 de 受词汇搭配限制，不是通用介词，其他动词仍用 par。</li></ol><p>对比：</p><ul><li>La lettre a été écrite par ma sœur.（信由我姐姐写。）——écrire 用 par。</li><li>Cette professeure est respectée de ses étudiants.（这位女教师受到学生尊敬。）——respecter 可用 de。</li><li>Le pont a été construit en 1998.（桥建于 1998 年。）——施动者不明，省略。</li></ul><p>注意：判断顺序不能倒过来。不要因为想避免 par 就用 de；也不要在省略施动者时保留 par on。被动句的时态和分词配合仍按前面学过的规则处理（见第 1、2 单元），不因施动者的有无而改变。</p>"
+      "body": "<p>遇到被动句，需要决定施动者用 par、用 de，还是干脆省略。可以按下面的顺序判断：</p><ol><li>看原主动句的主语。如果主语是 on，或者施动者不明、不重要，被动句省略施动者。On a réparé la route. → La route a été réparée.</li><li>如果施动者是具体的人或物，默认用 par。Le garagiste a réparé la voiture. → La voiture a été réparée par le garagiste.</li><li>如果动词是 aimer、respecter、craindre、détester、admirer、apprécier、estimer 这类情感或态度动词，可以用 de；de 多见于书面语，施动者是具体群体或泛指群体都可以。但 de 受词汇搭配限制，不是通用介词，其他动词仍用 par。</li></ol><p>对比：</p><ul><li>La lettre a été écrite par ma sœur.（信由我姐姐写。）——écrire 用 par。</li><li>Cette professeure est respectée de ses étudiants.（这位女教师受到学生尊敬。）——respecter 可用 de。</li><li>Le pont a été construit en 1998.（桥建于 1998 年。）——施动者不明，省略。</li></ul><p>注意：判断顺序不能倒过来。不要因为想避免 par 就用 de；也不要在省略施动者时保留 par on。被动句的时态和分词配合仍按前面学过的规则处理（见第 1、2 单元），不因施动者的有无而改变。</p>",
+      "locales": {
+        "fr": {
+          "title": "par, de ou omission : ordre de décision",
+          "body": "<p>Devant une phrase passive, il faut décider si l'agent s'introduit par par, par de, ou s'il s'omet. Procédez dans l'ordre suivant :</p><ol><li>Regardez le sujet de la phrase active d'origine. Si c'est on, ou si l'agent est inconnu ou peu important, le passif omet l'agent. On a réparé la route. → La route a été réparée.</li><li>Si l'agent est une personne ou une chose concrète, employez par par défaut. Le garagiste a réparé la voiture. → La voiture a été réparée par le garagiste.</li><li>Si le verbe est un verbe de sentiment ou d'attitude comme aimer, respecter, craindre, détester, admirer, apprécier, estimer, on peut employer de ; de est surtout écrit et convient à un agent collectif précis ou générique. Mais de dépend de l'association lexicale : ce n'est pas une préposition passive universelle ; les autres verbes gardent par.</li></ol><p>Comparaison :</p><ul><li>La lettre a été écrite par ma sœur. — écrire emploie par.</li><li>Cette professeure est respectée de ses étudiants. — respecter peut employer de.</li><li>Le pont a été construit en 1998. — l'agent est inconnu, on l'omet.</li></ul><p>Attention : l'ordre de décision ne s'inverse pas. N'employez pas de simplement pour éviter par, et ne conservez pas par on quand vous omettez l'agent. Le temps et l'accord du participe suivent les règles précédentes (voir les unités 1 et 2), indépendamment de la présence de l'agent.</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u4-1",
       "title": "être + 过去分词：被动、状态还是主动复合过去时",
-      "body": "<p>看到 être 的某种形式加过去分词（包括复合形式 a été + 过去分词），不要立刻判定为被动。它至少可能表示三种情况：</p><ol><li>被动（动作）：主语承受动作，常能补出 par + 施动者。<br>La porte a été fermée par le gardien.（门被门卫关上了。）<br>Les fleurs sont cueillies par les enfants.（花被孩子们摘了。）</li><li>状态（结果）：描述动作完成后留下的状态，通常没有施动者。<br>La porte est fermée.（门关着。）<br>Le magasin est ouvert.（商店开着。）</li><li>主动复合过去时：主语是动作的执行者，être 只是助动词（和过去分词一起构成复合时态的动词）。<br>Elle est partie à midi.（她中午走了。）<br>Ils sont arrivés hier.（他们昨天到了。）</li></ol><p>判断方法：问主语是「做动作」还是「承受动作」。Elle est partie 中 elle 自己走，是主动；La porte est fermée 中门不能自己关，是承受。另一个测试是能否补出 par + 施动者：La porte est fermée par le gardien 可以说，*Elle est partie par le gardien 不能说（Elle est partie par la porte 表示路线，是另一回事）。</p><p>用 être 作助动词的主动复合过去时，主要出现在表示位移或状态变化、通常用 être 作助动词的动词（如 aller、venir、arriver、partir、entrer、sortir、naître、mourir、monter、descendre、tomber、rester、devenir）和代词式动词（带 se、me、te、nous、vous 等代词的动词）中：Elle s'est lavée.（她洗了澡。）这些都不是被动。</p><p>注意：同一个 être + 过去分词结构可能有两种读法，要靠施动者、时间状语和上下文判断。本课只要求能辨认这些情况，不要求自己造同类句子。</p>"
+      "body": "<p>看到 être 的某种形式加过去分词（包括复合形式 a été + 过去分词），不要立刻判定为被动。它至少可能表示三种情况：</p><ol><li>被动（动作）：主语承受动作，常能补出 par + 施动者。<br>La porte a été fermée par le gardien.（门被门卫关上了。）<br>Les fleurs sont cueillies par les enfants.（花被孩子们摘了。）</li><li>状态（结果）：描述动作完成后留下的状态，通常没有施动者。<br>La porte est fermée.（门关着。）<br>Le magasin est ouvert.（商店开着。）</li><li>主动复合过去时：主语是动作的执行者，être 只是助动词（和过去分词一起构成复合时态的动词）。<br>Elle est partie à midi.（她中午走了。）<br>Ils sont arrivés hier.（他们昨天到了。）</li></ol><p>判断方法：问主语是「做动作」还是「承受动作」。Elle est partie 中 elle 自己走，是主动；La porte est fermée 中门不能自己关，是承受。另一个测试是能否补出 par + 施动者：La porte est fermée par le gardien 可以说，*Elle est partie par le gardien 不能说（Elle est partie par la porte 表示路线，是另一回事）。</p><p>用 être 作助动词的主动复合过去时，主要出现在表示位移或状态变化、通常用 être 作助动词的动词（如 aller、venir、arriver、partir、entrer、sortir、naître、mourir、monter、descendre、tomber、rester、devenir）和代词式动词（带 se、me、te、nous、vous 等代词的动词）中：Elle s'est lavée.（她洗了澡。）这些都不是被动。</p><p>注意：同一个 être + 过去分词结构可能有两种读法，要靠施动者、时间状语和上下文判断。本课只要求能辨认这些情况，不要求自己造同类句子。</p>",
+      "locales": {
+        "fr": {
+          "title": "être + participe passé : passif, état ou passé composé actif",
+          "body": "<p>Quand vous voyez une forme d'être suivie d'un participe passé (y compris la forme composée a été + participe passé), ne concluez pas immédiatement au passif. Trois lectures sont au moins possibles :</p><ol><li>Passif (action) : le sujet subit l'action ; on peut souvent ajouter par + agent.<br>La porte a été fermée par le gardien.<br>Les fleurs sont cueillies par les enfants.</li><li>État (résultat) : on décrit l'état qui résulte de l'action achevée, généralement sans agent.<br>La porte est fermée.<br>Le magasin est ouvert.</li><li>Passé composé actif : le sujet est l'agent de l'action ; être n'est qu'un auxiliaire, qui forme le temps composé avec le participe passé.<br>Elle est partie à midi.<br>Ils sont arrivés hier.</li></ol><p>Méthode : demandez si le sujet « fait » ou « subit » l'action. Dans Elle est partie, elle part elle-même : c'est actif ; dans La porte est fermée, la porte ne peut pas se fermer elle-même : elle subit. Un autre test consiste à ajouter par + agent : La porte est fermée par le gardien est possible ; « Elle est partie par le gardien » ne l'est pas (Elle est partie par la porte indique un itinéraire, autre chose).</p><p>Le passé composé actif avec être comme auxiliaire apparaît surtout avec les verbes de déplacement ou de changement d'état qui prennent normalement être (aller, venir, arriver, partir, entrer, sortir, naître, mourir, monter, descendre, tomber, rester, devenir) et avec les verbes pronominaux (qui comportent se, me, te, nous, vous) : Elle s'est lavée. Aucun de ces emplois n'est passif.</p><p>Attention : une même structure être + participe passé peut avoir deux lectures ; l'agent, les compléments de temps et le contexte permettent de décider. Ce cours ne demande que de reconnaître ces cas, non d'en produire de semblables.</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u4-2",
       "title": "状态意义与被动意义的辨认",
-      "body": "<p>状态意义和被动意义都可能借助 être 加过去分词来表达。区别在于句子强调的是「动作发生」还是「动作完成后的状态」（状态即动作完成后留下的结果）；强调动作发生时，常用复合形式 a été + 过去分词。</p><ul><li>La porte est fermée.（门关着。）——状态：门现在是关着的。</li><li>La porte a été fermée par le gardien.（门被门卫关上了。）——被动动作：强调关门这件事发生。</li><li>Le magasin est ouvert.（商店开着。）——状态。</li><li>Le magasin a été ouvert en 2020.（商店于 2020 年开业。）——被动动作，有时间状语。</li></ul><p>辨认方法：</p><ol><li>句子里有没有出现 par + 施动者？有明确施动者时，被动动作的读法更强；没有施动者时，状态和被动都可能，要靠时间和上下文判断。</li><li>有没有明确的时间点或动作过程？有 en 2020、hier、par le gardien 这类成分时，被动动作的读法更强。</li><li>能否换成主动句？La porte a été fermée par le gardien → Le gardien a fermé la porte. 可以；La porte est fermée 换成 Le gardien ferme la porte 会变成主动动作，不再是状态描写。</li></ol><p>有些动词的 être + 过去分词几乎只作状态描写，如 être situé、être ouvert、être fermé、être marié；要表达动作发生，常用复合过去时 a été + 过去分词。</p><p>注意：不要把所有「être + 过去分词」都翻译成「被……」。先判断是状态还是动作，再决定中文怎么说。</p>"
+      "body": "<p>状态意义和被动意义都可能借助 être 加过去分词来表达。区别在于句子强调的是「动作发生」还是「动作完成后的状态」（状态即动作完成后留下的结果）；强调动作发生时，常用复合形式 a été + 过去分词。</p><ul><li>La porte est fermée.（门关着。）——状态：门现在是关着的。</li><li>La porte a été fermée par le gardien.（门被门卫关上了。）——被动动作：强调关门这件事发生。</li><li>Le magasin est ouvert.（商店开着。）——状态。</li><li>Le magasin a été ouvert en 2020.（商店于 2020 年开业。）——被动动作，有时间状语。</li></ul><p>辨认方法：</p><ol><li>句子里有没有出现 par + 施动者？有明确施动者时，被动动作的读法更强；没有施动者时，状态和被动都可能，要靠时间和上下文判断。</li><li>有没有明确的时间点或动作过程？有 en 2020、hier、par le gardien 这类成分时，被动动作的读法更强。</li><li>能否换成主动句？La porte a été fermée par le gardien → Le gardien a fermé la porte. 可以；La porte est fermée 换成 Le gardien ferme la porte 会变成主动动作，不再是状态描写。</li></ol><p>有些动词的 être + 过去分词几乎只作状态描写，如 être situé、être ouvert、être fermé、être marié；要表达动作发生，常用复合过去时 a été + 过去分词。</p><p>注意：不要把所有「être + 过去分词」都翻译成「被……」。先判断是状态还是动作，再决定中文怎么说。</p>",
+      "locales": {
+        "fr": {
+          "title": "Distinguer l'état du sens passif",
+          "body": "<p>L'état et le sens passif peuvent tous deux s'exprimer avec être + participe passé. La différence tient à l'accent mis sur « l'action qui se produit » ou sur « l'état résultant de l'action achevée » ; quand on insiste sur l'action, on emploie souvent la forme composée a été + participe passé.</p><ul><li>La porte est fermée. — état : la porte est actuellement fermée.</li><li>La porte a été fermée par le gardien. — action passive : on insiste sur le fait que la porte a été fermée.</li><li>Le magasin est ouvert. — état.</li><li>Le magasin a été ouvert en 2020. — action passive, avec un complément de temps.</li></ul><p>Méthode :</p><ol><li>Y a-t-il un par + agent ? La présence d'un agent explicite renforce la lecture d'action passive ; sans agent, l'état et le passif restent possibles et il faut s'aider du temps et du contexte.</li><li>Y a-t-il un point de temps ou un déroulement explicite ? Des éléments comme en 2020, hier, par le gardien renforcent la lecture d'action passive.</li><li>Peut-on passer à l'actif ? La porte a été fermée par le gardien → Le gardien a fermé la porte : oui. La porte est fermée → Le gardien ferme la porte changerait en action active et ne décrirait plus l'état.</li></ol><p>Certains verbes à être + participe passé sont presque toujours des descriptions d'état, comme être situé, être ouvert, être fermé, être marié ; pour exprimer l'action, on emploie souvent le passé composé a été + participe passé.</p><p>Attention : ne traduisez pas tous les « être + participe passé » par « être fait ». Déterminez d'abord s'il s'agit d'un état ou d'une action, puis choisissez la formulation.</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u4-3",
       "title": "被动化的及物性限制（识别）",
-      "body": "<p>被动转换通常需要动词能带直接宾语。直接宾语是不用介词、直接跟在动词后面的宾语，例如 le chat mange la souris 中的 la souris。通常只有这样的及物动词（能带宾语的动词）才能变成被动：La souris est mangée par le chat.</p><p>不能直接被动化的典型情况：</p><ul><li>不及物动词（没有宾语）：dormir、arriver、partir、tomber。*Le lit est dormi par Paul. 不成立。</li><li>间接及物动词（宾语由介词引导）：téléphoner à sa sœur、répondre à la question、ressembler à son père。*La sœur est téléphonée par Paul. 不成立；*La question est répondue. 也不成立。</li><li>表示状态或领属的动词：avoir。*Une voiture est eue par lui. 不成立。</li></ul><p>还要注意，法语动词的及物性与汉语对应词不一定相同。例如「回答一个问题」在法语里是 répondre à une question，à une question 是间接宾语（由介词引导的宾语），不能直接提升为被动主语。</p><p>少数间接及物动词在书面语中有固定的被动用法，例如 être obéi de ses élèves；这属于词条性例外，不能据此类推出 *être téléphoné。</p><p>注意：判断能否被动化，先找主动句里有没有直接宾语；没有直接宾语，就不要硬造被动句。</p>"
+      "body": "<p>被动转换通常需要动词能带直接宾语。直接宾语是不用介词、直接跟在动词后面的宾语，例如 le chat mange la souris 中的 la souris。通常只有这样的及物动词（能带宾语的动词）才能变成被动：La souris est mangée par le chat.</p><p>不能直接被动化的典型情况：</p><ul><li>不及物动词（没有宾语）：dormir、arriver、partir、tomber。*Le lit est dormi par Paul. 不成立。</li><li>间接及物动词（宾语由介词引导）：téléphoner à sa sœur、répondre à la question、ressembler à son père。*La sœur est téléphonée par Paul. 不成立；*La question est répondue. 也不成立。</li><li>表示状态或领属的动词：avoir。*Une voiture est eue par lui. 不成立。</li></ul><p>还要注意，法语动词的及物性与汉语对应词不一定相同。例如「回答一个问题」在法语里是 répondre à une question，à une question 是间接宾语（由介词引导的宾语），不能直接提升为被动主语。</p><p>少数间接及物动词在书面语中有固定的被动用法，例如 être obéi de ses élèves；这属于词条性例外，不能据此类推出 *être téléphoné。</p><p>注意：判断能否被动化，先找主动句里有没有直接宾语；没有直接宾语，就不要硬造被动句。</p>",
+      "locales": {
+        "fr": {
+          "title": "Limites de transitivité de la transformation passive (reconnaissance)",
+          "body": "<p>La transformation passive exige généralement un verbe capable d'avoir un complément d'objet direct, c'est-à-dire un complément qui suit directement le verbe, sans préposition, comme la souris dans le chat mange la souris. Seuls ces verbes transitifs, capables d'avoir un complément d'objet, peuvent normalement devenir passifs : La souris est mangée par le chat.</p><p>Cas typiques où le passif est impossible :</p><ul><li>Verbes intransitifs, sans complément d'objet : dormir, arriver, partir, tomber. « Le lit est dormi par Paul » est incorrect.</li><li>Verbes transitifs indirects, dont le complément est introduit par une préposition : téléphoner à sa sœur, répondre à la question, ressembler à son père. « La sœur est téléphonée par Paul » et « La question est répondue » sont incorrects.</li><li>Verbes exprimant un état ou une possession : avoir. « Une voiture est eue par lui » est incorrect.</li></ul><p>Remarquez aussi que la transitivité d'un verbe français ne correspond pas toujours à celle de son équivalent dans une autre langue. Ainsi, « répondre à une question » comporte un complément d'objet indirect : à une question est introduit par une préposition et ne peut pas devenir directement sujet d'un passif.</p><p>Quelques verbes transitifs indirects ont un passif figé à l'écrit, par exemple être obéi de ses élèves ; c'est une exception lexicale, dont on ne déduit pas « être téléphoné ».</p><p>Attention : pour savoir si un verbe peut devenir passif, cherchez d'abord un complément d'objet direct dans la phrase active ; sans complément d'objet direct, ne forcez pas une phrase passive.</p>"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-card-u4-4",
       "title": "代词式动词的被动意义（识别）",
-      "body": "<p>代词式动词是带自反代词 se、me、te、nous、vous 的动词，例如 se laver、se parler、se vendre。有些代词式动词可以表达被动意义：主语是动作的承受者，通常不出现施动者，动词多为及物动词。</p><ul><li>Ce livre se vend bien.（这本书卖得好。）</li><li>Le pain se vend à la boulangerie.（面包在面包店出售。）</li><li>Ces maisons se construisent rapidement.（这些房子建得很快。）</li><li>Comment ça se prononce ?（这个怎么发音？）</li><li>Ce mot ne s'emploie plus.（这个词不再使用了。）</li></ul><p>这里的 se 不表示「自己」，而是给动词一种被动意义：主语承受动作，句子通常表示一般情况、习惯或可能性，常与 bien、mal、facilement、vite 这类副词连用。</p><p>与 être + 过去分词的区别：Le livre est vendu.（书被卖了／书已售出。）可以是被动或状态，也可能出现施动者；Ce livre se vend bien.（这本书卖得好。）说的是书本身的特性，不出现施动者。</p><p>并非所有代词式动词都表被动：Elle se lave.（她洗澡。）是自反用法，动作回到主语自身；Ils se parlent.（他们互相说话。）是相互用法，两个主语互为动作对象；Il se souvient de son enfance.（他记得童年。）中的 se 属于动词固定部分。要按动词和上下文判断。</p><p>注意：本课只要求认出代词式动词的被动意义，不要求自己造这类句子。</p>"
+      "body": "<p>代词式动词是带自反代词 se、me、te、nous、vous 的动词，例如 se laver、se parler、se vendre。有些代词式动词可以表达被动意义：主语是动作的承受者，通常不出现施动者，动词多为及物动词。</p><ul><li>Ce livre se vend bien.（这本书卖得好。）</li><li>Le pain se vend à la boulangerie.（面包在面包店出售。）</li><li>Ces maisons se construisent rapidement.（这些房子建得很快。）</li><li>Comment ça se prononce ?（这个怎么发音？）</li><li>Ce mot ne s'emploie plus.（这个词不再使用了。）</li></ul><p>这里的 se 不表示「自己」，而是给动词一种被动意义：主语承受动作，句子通常表示一般情况、习惯或可能性，常与 bien、mal、facilement、vite 这类副词连用。</p><p>与 être + 过去分词的区别：Le livre est vendu.（书被卖了／书已售出。）可以是被动或状态，也可能出现施动者；Ce livre se vend bien.（这本书卖得好。）说的是书本身的特性，不出现施动者。</p><p>并非所有代词式动词都表被动：Elle se lave.（她洗澡。）是自反用法，动作回到主语自身；Ils se parlent.（他们互相说话。）是相互用法，两个主语互为动作对象；Il se souvient de son enfance.（他记得童年。）中的 se 属于动词固定部分。要按动词和上下文判断。</p><p>注意：本课只要求认出代词式动词的被动意义，不要求自己造这类句子。</p>",
+      "locales": {
+        "fr": {
+          "title": "Sens passif des verbes pronominaux (reconnaissance)",
+          "body": "<p>Un verbe pronominal est un verbe accompagné du pronom réfléchi se, me, te, nous, vous, par exemple se laver, se parler, se vendre. Certains verbes pronominaux peuvent exprimer un sens passif : le sujet est le patient de l'action, l'agent n'apparaît généralement pas, et le verbe est le plus souvent transitif.</p><ul><li>Ce livre se vend bien.</li><li>Le pain se vend à la boulangerie.</li><li>Ces maisons se construisent rapidement.</li><li>Comment ça se prononce ?</li><li>Ce mot ne s'emploie plus.</li></ul><p>Ici, se ne signifie pas « soi-même » : il donne au verbe un sens passif ; le sujet subit l'action, et la phrase exprime généralement une situation générale, une habitude ou une possibilité, souvent avec bien, mal, facilement, vite.</p><p>Différence avec être + participe passé : Le livre est vendu peut être passif ou exprimer un état, et peut comporter un agent ; Ce livre se vend bien décrit une propriété du livre et n'a pas d'agent.</p><p>Tous les verbes pronominaux ne sont pas passifs : Elle se lave est réfléchi, l'action revient au sujet ; Ils se parlent est réciproque, les deux sujets sont l'un l'objet de l'autre ; dans Il se souvient de son enfance, se fait partie intégrante du verbe. Le verbe et le contexte permettent de décider.</p><p>Attention : ce cours ne demande que de reconnaître le sens passif des verbes pronominaux, non d'en produire librement.</p>"
+        }
+      }
     }
   ],
   "lessons": [
@@ -128,7 +254,12 @@
           ],
           "answer": 0,
           "translation": "门被女门卫关上了。",
-          "explain": "被动语态由 être 的变位加过去分词构成。主语 la porte 是阴性单数，过去分词用 fermée；par la gardienne 引出动作的执行者。est fermé 性数不配合，a fermé 是主动的复合过去时，ferme 是主动的现在时。"
+          "explain": "被动语态由 être 的变位加过去分词构成。主语 la porte 是阴性单数，过去分词用 fermée；par la gardienne 引出动作的执行者。est fermé 性数不配合，a fermé 是主动的复合过去时，ferme 是主动的现在时。",
+          "locales": {
+            "fr": {
+              "explain": "La voix passive se forme avec une forme conjuguée d'être + participe passé. Le sujet la porte est féminin singulier : le participe s'accorde en fermée ; par la gardienne introduit l'agent. est fermé ne s'accorde pas, a fermé est un passé composé actif, ferme est un présent actif."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q2",
@@ -142,7 +273,12 @@
             "n"
           ],
           "translation": "汽车被机械师修好了。",
-          "explain": "复合被动由 a été + 过去分词构成。主语 la voiture 是阴性单数，réparer 的过去分词要写成 réparée：词尾 -é 表示阳性，再加 -e 表示阴性。été 本身不变。"
+          "explain": "复合被动由 a été + 过去分词构成。主语 la voiture 是阴性单数，réparer 的过去分词要写成 réparée：词尾 -é 表示阳性，再加 -e 表示阴性。été 本身不变。",
+          "locales": {
+            "fr": {
+              "explain": "Le passif composé se forme avec a été + participe passé. Le sujet la voiture est féminin singulier : le participe de réparer s'écrit réparée, avec -é au masculin puis -e au féminin. été reste invariable."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q3",
@@ -172,7 +308,12 @@
             "du"
           ],
           "translation": "饭菜由厨师准备。",
-          "explain": "主动句的直接宾语 le repas 变成被动句主语；动词 préparer 改成 être 的现在时 est + 过去分词 préparé；原主语 le chef 用 par 引出。repas 是阳性单数，所以 préparé 不加 -e。"
+          "explain": "主动句的直接宾语 le repas 变成被动句主语；动词 préparer 改成 être 的现在时 est + 过去分词 préparé；原主语 le chef 用 par 引出。repas 是阳性单数，所以 préparé 不加 -e。",
+          "locales": {
+            "fr": {
+              "explain": "Le complément d'objet direct de la phrase active, le repas, devient le sujet de la phrase passive ; le verbe préparer devient le présent d'être, est + participe passé préparé ; l'ancien sujet le chef est introduit par par. repas est masculin singulier : préparé ne prend pas de -e."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q4",
@@ -186,7 +327,12 @@
           ],
           "answer": 2,
           "translation": "房子是由工人们建造的。",
-          "explain": "原句是复合过去时，被动也要用复合过去时：avoir 的现在时 + été + 过去分词，即 a été construite。maison 是阴性单数，construite 要加 -e；选项 0 变成现在时，选项 1 缺少 été，选项 3 分词没有配合。"
+          "explain": "原句是复合过去时，被动也要用复合过去时：avoir 的现在时 + été + 过去分词，即 a été construite。maison 是阴性单数，construite 要加 -e；选项 0 变成现在时，选项 1 缺少 été，选项 3 分词没有配合。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase d'origine est au passé composé : le passif doit garder le même temps, avec le présent d'avoir + été + participe passé, soit a été construite. maison est féminin singulier : construite prend -e. L'option 0 passe au présent, l'option 1 omet été, l'option 3 n'accorde pas le participe."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q5",
@@ -200,7 +346,12 @@
           ],
           "answer": 1,
           "translation": "窗户昨天被门卫擦了。",
-          "explain": "主语 les fenêtres 是阴性复数，助动词用 ont；被动复合时态的结构是 ont été + 过去分词，nettoyées 加 -es。a 是单数，选项 2 分词未配合，选项 3 缺少 été。"
+          "explain": "主语 les fenêtres 是阴性复数，助动词用 ont；被动复合时态的结构是 ont été + 过去分词，nettoyées 加 -es。a 是单数，选项 2 分词未配合，选项 3 缺少 été。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet les fenêtres est féminin pluriel, d'où l'auxiliaire ont ; le passif composé se forme avec ont été + participe passé, et nettoyées prend -es. a est singulier, l'option 2 n'accorde pas le participe, l'option 3 omet été."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q6",
@@ -214,7 +365,12 @@
             "s"
           ],
           "translation": "这些房子建于 1990 年。",
-          "explain": "主语 les maisons 是阴性复数，construire 的过去分词 construites 要加 -es；été 不变。拼写是 c-o-n-s-t-r-u-i-t-e-s，注意只有一个 u。"
+          "explain": "主语 les maisons 是阴性复数，construire 的过去分词 construites 要加 -es；été 不变。拼写是 c-o-n-s-t-r-u-i-t-e-s，注意只有一个 u。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet les maisons est féminin pluriel : le participe de construire, construites, prend -es ; été reste invariable. L'orthographe est c-o-n-s-t-r-u-i-t-e-s, avec un seul u."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q7",
@@ -240,7 +396,12 @@
             "une"
           ],
           "translation": "孩子们唱这首歌。",
-          "explain": "被动句主语 la chanson 是动作的承受者，还原成主动句的直接宾语；par les enfants 中的 les enfants 变成主语。现在时 est chantée 还原成 chantent，主语是第三人称复数。"
+          "explain": "被动句主语 la chanson 是动作的承受者，还原成主动句的直接宾语；par les enfants 中的 les enfants 变成主语。现在时 est chantée 还原成 chantent，主语是第三人称复数。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet passif la chanson est le patient de l'action et devient le complément d'objet direct de la phrase active ; les enfants de par les enfants devient le sujet. Le présent est chantée redevient chantent, avec le sujet à la troisième personne du pluriel."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q8",
@@ -254,9 +415,19 @@
           ],
           "answer": 3,
           "translation": "墙壁被工人们重新粉刷了。",
-          "explain": "主语 les murs 是阳性复数，助动词用 ont，过去分词 repeints 加 -s。repeintes 是阴性复数，与 murs 不符；a 是单数；repeint 没有配合。"
+          "explain": "主语 les murs 是阳性复数，助动词用 ont，过去分词 repeints 加 -s。repeintes 是阴性复数，与 murs 不符；a 是单数；repeint 没有配合。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet les murs est masculin pluriel : l'auxiliaire est ont et le participe repeints prend -s. repeintes est féminin pluriel et ne s'accorde pas avec murs ; a est singulier ; repeint n'est pas accordé."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Formation de la voix passive et conversion actif/passif (1)"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-l1-2",
@@ -276,7 +447,12 @@
             "t"
           ],
           "translation": "门被门卫打开了。",
-          "explain": "ouvrir 的过去分词是 ouvert，主语 la porte 是阴性单数，要加 -e 写成 ouverte。复合被动里 été 不变，分词仍与主语配合。"
+          "explain": "ouvrir 的过去分词是 ouvert，主语 la porte 是阴性单数，要加 -e 写成 ouverte。复合被动里 été 不变，分词仍与主语配合。",
+          "locales": {
+            "fr": {
+              "explain": "Le participe passé d'ouvrir est ouvert ; le sujet la porte est féminin singulier, d'où ouverte, avec -e. Dans le passif composé, été reste invariable et le participe s'accorde toujours avec le sujet."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q10",
@@ -290,7 +466,12 @@
           ],
           "answer": 2,
           "translation": "作业由老师批改。",
-          "explain": "直接宾语 les copies 变成主语，是阴性复数；现在时被动用 sont + corrigées，分词加 -es。est 是单数，ont corrigé 是主动的复合过去时，corrigé 没有配合。"
+          "explain": "直接宾语 les copies 变成主语，是阴性复数；现在时被动用 sont + corrigées，分词加 -es。est 是单数，ont corrigé 是主动的复合过去时，corrigé 没有配合。",
+          "locales": {
+            "fr": {
+              "explain": "Le complément d'objet direct les copies devient le sujet, féminin pluriel ; le présent passif emploie sont + corrigées, avec -es. est est singulier, ont corrigé est un passé composé actif, corrigé n'est pas accordé."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q11",
@@ -318,7 +499,12 @@
             "décisions"
           ],
           "translation": "市长做出了这个决定。",
-          "explain": "被动句主语 la décision 还原为直接宾语；par le maire 中的 le maire 变成主动句主语。a été prise 是复合过去时，还原为 avoir 的现在时 + 过去分词 a pris；prendre 的过去分词是 pris，不随宾语变化。"
+          "explain": "被动句主语 la décision 还原为直接宾语；par le maire 中的 le maire 变成主动句主语。a été prise 是复合过去时，还原为 avoir 的现在时 + 过去分词 a pris；prendre 的过去分词是 pris，不随宾语变化。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet passif la décision redevient le complément d'objet direct ; le maire de par le maire devient le sujet actif. a été prise est un passé composé : il redevient le présent d'avoir + participe passé, a pris ; le participe de prendre est pris et ne s'accorde pas avec le complément d'objet direct."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q12",
@@ -332,7 +518,12 @@
           ],
           "answer": 1,
           "translation": "这部电影被评审团选中了。",
-          "explain": "原句是复合过去时，被动用 a été + 过去分词，时态保持一致。film 是阳性单数，choisi 不加 -e；choisie 是阴性，est choisi 变成现在时，a choisi 缺少 été。"
+          "explain": "原句是复合过去时，被动用 a été + 过去分词，时态保持一致。film 是阳性单数，choisi 不加 -e；choisie 是阴性，est choisi 变成现在时，a choisi 缺少 été。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase d'origine est au passé composé : le passif garde le même temps avec a été + participe passé. film est masculin singulier : choisi ne prend pas -e ; choisie est féminin, est choisi passe au présent, a choisi omet été."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q13",
@@ -346,7 +537,12 @@
             "s"
           ],
           "translation": "这位女演员被选中出演这个角色。",
-          "explain": "主语 cette actrice 是阴性单数，choisir 的过去分词 choisie 要加 -e；阳性形式是 choisi。复合被动 a été choisie 中 été 不变。"
+          "explain": "主语 cette actrice 是阴性单数，choisir 的过去分词 choisie 要加 -e；阳性形式是 choisi。复合被动 a été choisie 中 été 不变。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet cette actrice est féminin singulier : le participe de choisir, choisie, prend -e ; le masculin est choisi. Dans le passif composé a été choisie, été reste invariable."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q14",
@@ -360,7 +556,12 @@
           ],
           "answer": 3,
           "translation": "这些书被学生们读了。",
-          "explain": "livres 是阳性复数，lire 的过去分词 lus 加 -s；助动词用 ont。lues 是阴性复数，a 是单数，lu 没有配合。"
+          "explain": "livres 是阳性复数，lire 的过去分词 lus 加 -s；助动词用 ont。lues 是阴性复数，a 是单数，lu 没有配合。",
+          "locales": {
+            "fr": {
+              "explain": "livres est masculin pluriel : le participe de lire, lus, prend -s ; l'auxiliaire est ont. lues est féminin pluriel, a est singulier, lu n'est pas accordé."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q15",
@@ -391,9 +592,19 @@
             "des"
           ],
           "translation": "信件由秘书寄出了。",
-          "explain": "直接宾语 les lettres 变成主语，阴性复数；复合过去时被动用 ont été + envoyées。原主语 la secrétaire 用 par 引出，放在分词后。"
+          "explain": "直接宾语 les lettres 变成主语，阴性复数；复合过去时被动用 ont été + envoyées。原主语 la secrétaire 用 par 引出，放在分词后。",
+          "locales": {
+            "fr": {
+              "explain": "Le complément d'objet direct les lettres devient le sujet, féminin pluriel ; le passif au passé composé emploie ont été + envoyées. L'ancien sujet la secrétaire est introduit par par et placé après le participe."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Formation de la voix passive et conversion actif/passif (2)"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-l1-3",
@@ -413,7 +624,12 @@
           ],
           "answer": 0,
           "translation": "信是经理写的。",
-          "explain": "主语 les lettres 是阴性复数，écrire 的过去分词 écrites 加 -es。par le directeur 是阳性单数，不影响分词配合；écrit、écrits、écrite 都与主语性数不符。"
+          "explain": "主语 les lettres 是阴性复数，écrire 的过去分词 écrites 加 -es。par le directeur 是阳性单数，不影响分词配合；écrit、écrits、écrite 都与主语性数不符。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet les lettres est féminin pluriel : le participe d'écrire, écrites, prend -es. par le directeur est masculin singulier et n'influence pas l'accord ; écrit, écrits et écrite ne s'accordent pas avec le sujet."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q17",
@@ -427,7 +643,12 @@
             "r"
           ],
           "translation": "男孩们被邀请参加聚会。",
-          "explain": "主语 les garçons 是阳性复数，inviter 的过去分词 invités 加 -s；过去分词与主语配合，不跟 à la fête 配合。"
+          "explain": "主语 les garçons 是阳性复数，inviter 的过去分词 invités 加 -s；过去分词与主语配合，不跟 à la fête 配合。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet les garçons est masculin pluriel : le participe d'inviter, invités, prend -s ; le participe s'accorde avec le sujet, non avec à la fête."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q18",
@@ -441,7 +662,12 @@
           ],
           "answer": 2,
           "translation": "我姐姐做了蛋糕。",
-          "explain": "被动句的 par ma sœur 还原为主动句主语；a été préparé 是复合过去时，还原为 a préparé。直接宾语 le gâteau 保留。选项 0 和 1 误把 être 留在主动句里，选项 3 改成了未完成过去时，时态不一致。"
+          "explain": "被动句的 par ma sœur 还原为主动句主语；a été préparé 是复合过去时，还原为 a préparé。直接宾语 le gâteau 保留。选项 0 和 1 误把 être 留在主动句里，选项 3 改成了未完成过去时，时态不一致。",
+          "locales": {
+            "fr": {
+              "explain": "par ma sœur devient le sujet de la phrase active ; a été préparé est un passé composé, qui redevient a préparé. Le complément d'objet direct le gâteau est conservé. Les options 0 et 1 gardent être dans la phrase active ; l'option 3 passe à l'imparfait et ne respecte pas le temps."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q19",
@@ -455,7 +681,12 @@
           ],
           "answer": 1,
           "translation": "文件被助理打印了。",
-          "explain": "documents 是阳性复数，过去分词 imprimés 加 -s。imprimées 是阴性复数，imprimé 和 imprimée 是单数形式，都与主语不符。"
+          "explain": "documents 是阳性复数，过去分词 imprimés 加 -s。imprimées 是阴性复数，imprimé 和 imprimée 是单数形式，都与主语不符。",
+          "locales": {
+            "fr": {
+              "explain": "documents est masculin pluriel : le participe imprimés prend -s. imprimées est féminin pluriel, imprimé et imprimée sont des formes singulières : aucun ne s'accorde avec le sujet."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q20",
@@ -484,7 +715,12 @@
             "du"
           ],
           "translation": "花由园丁浇水。",
-          "explain": "直接宾语 les fleurs 变成主语，阴性复数，用 sont arrosées；原主语 le jardinier 用 par 引出。现在时由 sont 承担。"
+          "explain": "直接宾语 les fleurs 变成主语，阴性复数，用 sont arrosées；原主语 le jardinier 用 par 引出。现在时由 sont 承担。",
+          "locales": {
+            "fr": {
+              "explain": "Le complément d'objet direct les fleurs devient le sujet, féminin pluriel, d'où sont arrosées ; l'ancien sujet le jardinier est introduit par par. Le présent est porté par sont."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q21",
@@ -498,7 +734,12 @@
           ],
           "answer": 0,
           "translation": "这些书是我母亲买的。",
-          "explain": "livres 是阳性复数，achetés 加 -s；复合过去时被动用 ont été。achetées 是阴性复数，a 是单数助动词，sont achetés 变成现在时。"
+          "explain": "livres 是阳性复数，achetés 加 -s；复合过去时被动用 ont été。achetées 是阴性复数，a 是单数助动词，sont achetés 变成现在时。",
+          "locales": {
+            "fr": {
+              "explain": "livres est masculin pluriel : achetés prend -s ; le passif au passé composé emploie ont été. achetées est féminin pluriel, a est un auxiliaire singulier, sont achetés passe au présent."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l1-q22",
@@ -512,9 +753,19 @@
           ],
           "answer": 3,
           "translation": "我祖父建造了这些房子。",
-          "explain": "被动句主语 ces maisons 还原为直接宾语，par mon grand-père 还原为主语。ont été construites 是复合过去时，还原为 a construit；construisait 改成未完成过去时，时态不一致。"
+          "explain": "被动句主语 ces maisons 还原为直接宾语，par mon grand-père 还原为主语。ont été construites 是复合过去时，还原为 a construit；construisait 改成未完成过去时，时态不一致。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet passif ces maisons redevient le complément d'objet direct, et par mon grand-père redevient le sujet. ont été construites est un passé composé, qui redevient a construit ; construisait passe à l'imparfait et ne respecte pas le temps."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Formation de la voix passive et conversion actif/passif (3)"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-l2-1",
@@ -534,7 +785,12 @@
           ],
           "answer": 2,
           "translation": "项目将于明天上午被介绍。",
-          "explain": "demain matin 指向将来，简单将来时的被动是 être 的简单将来时 sera + 过去分词 présenté。a présenté 是主动的复合过去时，a été 是复合过去时被动，était 是未完成过去时，都不符合将来的时间。"
+          "explain": "demain matin 指向将来，简单将来时的被动是 être 的简单将来时 sera + 过去分词 présenté。a présenté 是主动的复合过去时，a été 是复合过去时被动，était 是未完成过去时，都不符合将来的时间。",
+          "locales": {
+            "fr": {
+              "explain": "demain matin renvoie au futur : le passif au futur simple emploie le futur simple d'être, sera + participe passé présenté. a présenté est un passé composé actif, a été un passif au passé composé, était un imparfait : aucun ne correspond au futur."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q2",
@@ -548,7 +804,12 @@
           ],
           "answer": 0,
           "translation": "过去，墙壁每年春天都会被重新粉刷。",
-          "explain": "autrefois 和 chaque printemps 表示过去反复发生的动作，用未完成过去时；被动形式是 étaient + repeints。ont été 是复合过去时（一次性完成），seront 是将来时，sont 是现在时。"
+          "explain": "autrefois 和 chaque printemps 表示过去反复发生的动作，用未完成过去时；被动形式是 étaient + repeints。ont été 是复合过去时（一次性完成），seront 是将来时，sont 是现在时。",
+          "locales": {
+            "fr": {
+              "explain": "autrefois et chaque printemps expriment une action passée répétée : on emploie l'imparfait, d'où le passif étaient + repeints. ont été est un passé composé (action unique et achevée), seront un futur, sont un présent."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q3",
@@ -562,7 +823,12 @@
             "t"
           ],
           "translation": "结果将于明天公布。",
-          "explain": "简单将来时的被动由 être 的简单将来时 + 过去分词构成。主语 les résultats 是复数，être 用 seront；过去分词 publiés 与主语配合。"
+          "explain": "简单将来时的被动由 être 的简单将来时 + 过去分词构成。主语 les résultats 是复数，être 用 seront；过去分词 publiés 与主语配合。",
+          "locales": {
+            "fr": {
+              "explain": "Le passif au futur simple se forme avec le futur simple d'être + participe passé. Le sujet les résultats est pluriel : être se conjugue en seront ; le participe publiés s'accorde avec le sujet."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q4",
@@ -576,7 +842,12 @@
           ],
           "answer": 1,
           "translation": "昨天，决定由理事会做出了。",
-          "explain": "hier 指一个已完成的过去事件，用复合过去时被动 a été + prise。a pris 是主动的复合过去时，后面不能接 par le conseil 构成被动；est prise 是现在时；sera prise 是将来时。"
+          "explain": "hier 指一个已完成的过去事件，用复合过去时被动 a été + prise。a pris 是主动的复合过去时，后面不能接 par le conseil 构成被动；est prise 是现在时；sera prise 是将来时。",
+          "locales": {
+            "fr": {
+              "explain": "hier indique un événement passé achevé : on emploie le passif au passé composé, a été + prise. a pris est un passé composé actif et ne peut pas être suivi de par le conseil dans un sens passif ; est prise est le présent ; sera prise le futur."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q5",
@@ -590,7 +861,12 @@
             "t"
           ],
           "translation": "这些措施将从一月起实施。",
-          "explain": "主语 ces mesures 是阴性复数，appliquer 的过去分词 appliquées 加 -es；将来时由 seront 承担，分词本身不表示时态。"
+          "explain": "主语 ces mesures 是阴性复数，appliquer 的过去分词 appliquées 加 -es；将来时由 seront 承担，分词本身不表示时态。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet ces mesures est féminin pluriel : le participe de appliquer, appliquées, prend -es ; le futur est porté par seront, et le participe lui-même n'exprime pas le temps."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q6",
@@ -616,7 +892,12 @@
             "sera"
           ],
           "translation": "邮件早已被分发。",
-          "explain": "愈过去时的被动是 avait été + 过去分词。原句是现在时 est distribué，改成愈过去时就把 être 变成 avait été；courrier 是阳性单数，distribué 不加词尾。"
+          "explain": "愈过去时的被动是 avait été + 过去分词。原句是现在时 est distribué，改成愈过去时就把 être 变成 avait été；courrier 是阳性单数，distribué 不加词尾。",
+          "locales": {
+            "fr": {
+              "explain": "Le passif au plus-que-parfait se forme avec avait été + participe passé. La phrase d'origine est au présent est distribué ; au plus-que-parfait, être devient avait été ; courrier est masculin singulier, d'où distribué sans terminaison supplémentaire."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q7",
@@ -630,7 +911,12 @@
           ],
           "answer": 3,
           "translation": "工程将于三月完成。",
-          "explain": "travaux 是阳性复数，简单将来时被动用 seront + terminés。sera 是单数，terminé 没有配合，terminées 是阴性复数。"
+          "explain": "travaux 是阳性复数，简单将来时被动用 seront + terminés。sera 是单数，terminé 没有配合，terminées 是阴性复数。",
+          "locales": {
+            "fr": {
+              "explain": "travaux est masculin pluriel : le passif au futur simple emploie seront + terminés. sera est singulier, terminé n'est pas accordé, terminées est féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q8",
@@ -656,9 +942,19 @@
             "sera"
           ],
           "translation": "会议即将被取消。",
-          "explain": "近将来时的被动是 aller 的现在时 + être + 过去分词。主语 la réunion 是阴性单数，aller 用 va，分词用 annulée；être 保持不定式。"
+          "explain": "近将来时的被动是 aller 的现在时 + être + 过去分词。主语 la réunion 是阴性单数，aller 用 va，分词用 annulée；être 保持不定式。",
+          "locales": {
+            "fr": {
+              "explain": "Le passif au futur proche se forme avec le présent d'aller + être + participe passé. Le sujet la réunion est féminin singulier : aller se conjugue en va et le participe s'écrit annulée ; être reste à l'infinitif."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Temps, négation, inversion et infinitif du passif (1)"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-l2-2",
@@ -678,7 +974,12 @@
           ],
           "answer": 0,
           "translation": "大楼将于下周被拆除。",
-          "explain": "la semaine prochaine 指向即将发生的事，被动近将来时是 aller + être + 过去分词：va être démoli。va démolir 和 démolit 都是主动形式，vient d'être 是最近过去。"
+          "explain": "la semaine prochaine 指向即将发生的事，被动近将来时是 aller + être + 过去分词：va être démoli。va démolir 和 démolit 都是主动形式，vient d'être 是最近过去。",
+          "locales": {
+            "fr": {
+              "explain": "la semaine prochaine renvoie à une action imminente : le passif au futur proche est aller + être + participe passé, soit va être démoli. va démolir et démolit sont des formes actives ; vient d'être est un passé récent."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q10",
@@ -705,7 +1006,12 @@
             "seront"
           ],
           "translation": "这些信刚刚被寄出。",
-          "explain": "原句 sont envoyées 是现在时被动；最近过去时的被动要把 venir de 加在 être 前，构成 venir de + être + 过去分词。主语 ces lettres 是复数，venir 用 viennent；de 与 être 省音为 d'être；envoyées 与阴性复数主语配合。"
+          "explain": "原句 sont envoyées 是现在时被动；最近过去时的被动要把 venir de 加在 être 前，构成 venir de + être + 过去分词。主语 ces lettres 是复数，venir 用 viennent；de 与 être 省音为 d'être；envoyées 与阴性复数主语配合。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase d'origine sont envoyées est un présent passif ; au passé récent, on place venir de devant être, d'où venir de + être + participe passé. Le sujet ces lettres est pluriel : venir se conjugue en viennent ; de s'élide en d' devant être ; envoyées s'accorde avec le sujet féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q11",
@@ -719,7 +1025,12 @@
           ],
           "answer": 1,
           "translation": "花瓶刚刚被猫打破了。",
-          "explain": "à l'instant 表示「刚刚」，用最近过去时的被动 venir de + être + 过去分词：vient d'être cassé。vient de casser 和 a cassé 都是主动形式（花瓶刚刚碎了／打破了花瓶），va être cassé 是近将来。"
+          "explain": "à l'instant 表示「刚刚」，用最近过去时的被动 venir de + être + 过去分词：vient d'être cassé。vient de casser 和 a cassé 都是主动形式（花瓶刚刚碎了／打破了花瓶），va être cassé 是近将来。",
+          "locales": {
+            "fr": {
+              "explain": "à l'instant signifie « vient de » : on emploie le passif au passé récent, venir de + être + participe passé, soit vient d'être cassé. vient de casser et a cassé sont des formes actives ; va être cassé est un futur proche."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q12",
@@ -733,7 +1044,12 @@
           ],
           "answer": 2,
           "translation": "门没有被女门卫关上。",
-          "explain": "简单被动的变位动词是 être，否定词 ne … pas 夹住它：n'est pas fermée。par la gardienne 说明这是被动句，不是单纯的状态描写。n'est pas été 多加了 été，ne pas est 语序错误，n'a pas 用了 avoir，都不符合简单被动的结构。"
+          "explain": "简单被动的变位动词是 être，否定词 ne … pas 夹住它：n'est pas fermée。par la gardienne 说明这是被动句，不是单纯的状态描写。n'est pas été 多加了 été，ne pas est 语序错误，n'a pas 用了 avoir，都不符合简单被动的结构。",
+          "locales": {
+            "fr": {
+              "explain": "Dans le passif simple, le verbe conjugué est être, et ne...pas l'encadre : n'est pas fermée. par la gardienne montre qu'il s'agit d'un passif, non d'une simple description d'état. n'est pas été ajoute été, ne pas est a un ordre fautif, n'a pas emploie avoir : aucun ne correspond au passif simple."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q13",
@@ -747,7 +1063,12 @@
           ],
           "answer": 3,
           "translation": "信没有被寄出。",
-          "explain": "复合被动的变位助动词是 avoir，否定词夹住 avoir：n'ont pas été envoyées。ne sont pas été 把 être 当成了助动词，n'ont pas 缺少 été，ne ont 没有省音。"
+          "explain": "复合被动的变位助动词是 avoir，否定词夹住 avoir：n'ont pas été envoyées。ne sont pas été 把 être 当成了助动词，n'ont pas 缺少 été，ne ont 没有省音。",
+          "locales": {
+            "fr": {
+              "explain": "Dans le passif composé, l'auxiliaire conjugué est avoir, et la négation l'encadre : n'ont pas été envoyées. ne sont pas été traite être comme auxiliaire, n'ont pas omet été, ne ont ne marque pas l'élision."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q14",
@@ -761,7 +1082,12 @@
             "a"
           ],
           "translation": "决定还没有被做出。",
-          "explain": "复合被动的否定结构是 ne + avoir 的变位 + pas + été + 过去分词：n'a pas été prise。这里填 être 的过去分词 été，它永远不变；prise 与主语 la décision 配合。"
+          "explain": "复合被动的否定结构是 ne + avoir 的变位 + pas + été + 过去分词：n'a pas été prise。这里填 être 的过去分词 été，它永远不变；prise 与主语 la décision 配合。",
+          "locales": {
+            "fr": {
+              "explain": "La négation du passif composé se construit avec ne + forme conjuguée d'avoir + pas + été + participe passé : n'a pas été prise. On insère ici le participe passé d'être, été, qui reste toujours invariable ; prise s'accorde avec le sujet la décision."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q15",
@@ -775,7 +1101,12 @@
           ],
           "answer": 1,
           "translation": "这条消息被接受了吗？",
-          "explain": "简单被动倒装以 être 为准：est-elle acceptée。主语代词 elle 放在 est 后，用连字符连接；过去分词 acceptée 不参与倒装。选项 0 把 -t- 加在分词上，选项 2 换了助动词，选项 3 没有倒装。"
+          "explain": "简单被动倒装以 être 为准：est-elle acceptée。主语代词 elle 放在 est 后，用连字符连接；过去分词 acceptée 不参与倒装。选项 0 把 -t- 加在分词上，选项 2 换了助动词，选项 3 没有倒装。",
+          "locales": {
+            "fr": {
+              "explain": "L'inversion du passif simple se fait sur être : est-elle acceptée. Le pronom sujet elle se place après est, relié par un trait d'union ; le participe acceptée ne participe pas à l'inversion. L'option 0 ajoute -t- au participe, l'option 2 change d'auxiliaire, l'option 3 n'inverse pas."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q16",
@@ -789,9 +1120,19 @@
           ],
           "answer": 0,
           "translation": "这些信没有被寄出吗？",
-          "explain": "复合被动的否定倒装要同时满足两点：否定 ne … pas 夹住变位助动词 avoir，倒装也以 avoir 为准。正确形式是 n'ont-elles pas été envoyées：n' + ont-elles + pas + été + 过去分词。选项 1 把助动词换成 être，选项 2 缺少 été，选项 3 把倒装加在 été 上。envoyées 仍与主语 les lettres 配合。"
+          "explain": "复合被动的否定倒装要同时满足两点：否定 ne … pas 夹住变位助动词 avoir，倒装也以 avoir 为准。正确形式是 n'ont-elles pas été envoyées：n' + ont-elles + pas + été + 过去分词。选项 1 把助动词换成 être，选项 2 缺少 été，选项 3 把倒装加在 été 上。envoyées 仍与主语 les lettres 配合。",
+          "locales": {
+            "fr": {
+              "explain": "L'inversion négative du passif composé doit respecter deux points : ne...pas encadre l'auxiliaire conjugué avoir, et l'inversion se fait aussi sur avoir. La forme correcte est n'ont-elles pas été envoyées : n' + ont-elles + pas + été + participe passé. L'option 1 remplace l'auxiliaire par être, l'option 2 omet été, l'option 3 fait porter l'inversion sur été. envoyées s'accorde avec le sujet les lettres."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Temps, négation, inversion et infinitif du passif (2)"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-l2-3",
@@ -828,7 +1169,12 @@
             "sera"
           ],
           "translation": "报告必须在周一前交。",
-          "explain": "主动句的直接宾语 le rapport 变成被动句主语；devoir 保留现在时 doit，后面接被动不定式 être rendu；rapport 是阳性单数，rendu 不加词尾。rendre 是主动不定式，est 和 sera 会改变时态，rendus 与单数主语不配合。"
+          "explain": "主动句的直接宾语 le rapport 变成被动句主语；devoir 保留现在时 doit，后面接被动不定式 être rendu；rapport 是阳性单数，rendu 不加词尾。rendre 是主动不定式，est 和 sera 会改变时态，rendus 与单数主语不配合。",
+          "locales": {
+            "fr": {
+              "explain": "Le complément d'objet direct le rapport devient le sujet passif ; devoir reste au présent doit, suivi de l'infinitif passif être rendu. rapport est masculin singulier : rendu ne prend pas de terminaison. rendre est un infinitif actif, est et sera changeraient le temps, rendus ne s'accorde pas avec le sujet singulier."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q18",
@@ -842,7 +1188,12 @@
           ],
           "answer": 3,
           "translation": "她担心被遗忘。",
-          "explain": "craindre de 后面接被动不定式 être + 过去分词；de 与 être 相接省音为 d'être。oubliée 与主语 elle 配合。avoir 是主动不定式的助动词，être été 和 est 都不构成这里的不定式。"
+          "explain": "craindre de 后面接被动不定式 être + 过去分词；de 与 être 相接省音为 d'être。oubliée 与主语 elle 配合。avoir 是主动不定式的助动词，être été 和 est 都不构成这里的不定式。",
+          "locales": {
+            "fr": {
+              "explain": "craindre de est suivi de l'infinitif passif être + participe passé ; de s'élide en d' devant être, d'où d'être. oubliée s'accorde avec le sujet elle. avoir est l'auxiliaire de l'infinitif actif ; être été et est ne forment pas l'infinitif attendu."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q19",
@@ -868,7 +1219,13 @@
             "sont"
           ],
           "translation": "这些男孩希望受到表扬。",
-          "explain": "espérer 后面接被动不定式 être + 过去分词。主语 ces garçons 是阳性复数，félicités 加 -s；être 是不定式，不能换成 avoir。félicitées 是阴性复数，与主语不符。"
+          "explain": "espérer 后面接被动不定式 être + 过去分词。主语 ces garçons 是阳性复数，félicités 加 -s；être 是不定式，不能换成 avoir。félicitées 是阴性复数，与主语不符。",
+          "locales": {
+            "fr": {
+              "explain": "espérer est suivi de l'infinitif passif être + participe passé. Le sujet ces garçons est masculin pluriel : félicités prend -s ; être reste à l'infinitif et ne se remplace pas par avoir. félicitées est féminin pluriel et ne s'accorde pas avec le sujet.",
+              "prompt": "Exprimez en français : ces garçons espèrent recevoir des félicitations."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q20",
@@ -903,7 +1260,12 @@
             "a"
           ],
           "translation": "合同必须由经理签署。",
-          "explain": "主动句的直接宾语 les contrats 变成主语，devoir 随主语变为 doivent，后面接被动不定式 être signés；contrats 是阳性复数，signés 加 -s；原主语 le directeur 用 par 引出。signer 是主动不定式，doit 与复数主语不配合，de 不能引出这里的施动者。"
+          "explain": "主动句的直接宾语 les contrats 变成主语，devoir 随主语变为 doivent，后面接被动不定式 être signés；contrats 是阳性复数，signés 加 -s；原主语 le directeur 用 par 引出。signer 是主动不定式，doit 与复数主语不配合，de 不能引出这里的施动者。",
+          "locales": {
+            "fr": {
+              "explain": "Le complément d'objet direct les contrats devient le sujet ; devoir suit le nouveau sujet et devient doivent, puis se construit avec l'infinitif passif être signés ; contrats est masculin pluriel, d'où signés. L'ancien sujet le directeur est introduit par par. signer est un infinitif actif, doit ne s'accorde pas avec le sujet pluriel, et de ne peut pas introduire l'agent ici."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q21",
@@ -940,7 +1302,12 @@
             "propositions"
           ],
           "translation": "委员会难道没有接受这个提案吗？",
-          "explain": "原句是否定倒装问句：n'a-t-il pas accepté。改成被动后，否定和倒装都落在变位助动词 avoir 上：n'a-t-elle pas été acceptée。主语 la proposition 是阴性单数，倒装代词用 elle，过去分词 acceptée 加 -e；施动者 le conseil 用 par 引出。不能把倒装加到 été 上，也不能漏掉 été。"
+          "explain": "原句是否定倒装问句：n'a-t-il pas accepté。改成被动后，否定和倒装都落在变位助动词 avoir 上：n'a-t-elle pas été acceptée。主语 la proposition 是阴性单数，倒装代词用 elle，过去分词 acceptée 加 -e；施动者 le conseil 用 par 引出。不能把倒装加到 été 上，也不能漏掉 été。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase d'origine est une interrogative négative avec inversion : n'a-t-il pas accepté. Au passif, la négation et l'inversion portent sur l'auxiliaire avoir : n'a-t-elle pas été acceptée. Le sujet la proposition est féminin singulier, d'où le pronom d'inversion elle et le participe acceptée avec -e ; l'agent le conseil est introduit par par. On n'inverse pas été et on ne l'omet pas."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q22",
@@ -970,7 +1337,12 @@
             "des"
           ],
           "translation": "窗户刚刚被关上。",
-          "explain": "原句是 on 作主语的最近过去时主动句；改成被动后省略施动者，不能保留 par on。最近过去时被动是 venir de + être + 过去分词：les fenêtres 是复数，venir 用 viennent；de 与 être 省音为 d'être；fenêtres 是阴性复数，分词用 fermées。"
+          "explain": "原句是 on 作主语的最近过去时主动句；改成被动后省略施动者，不能保留 par on。最近过去时被动是 venir de + être + 过去分词：les fenêtres 是复数，venir 用 viennent；de 与 être 省音为 d'être；fenêtres 是阴性复数，分词用 fermées。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase d'origine est un passé récent actif avec on pour sujet ; au passif, on omet l'agent et on ne conserve pas par on. Le passif au passé récent est venir de + être + participe passé : le sujet les fenêtres est pluriel, d'où viennent ; de s'élide en d'être ; fenêtres est féminin pluriel, d'où fermées."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q23",
@@ -999,7 +1371,12 @@
             "des"
           ],
           "translation": "这条路即将被修好。",
-          "explain": "on 作主语的主动句转成被动后省略施动者。近将来时被动是 aller 的现在时 + être + 过去分词：la route 是阴性单数，aller 用 va，分词用 réparée。不能漏掉 être，也不能保留 par on。"
+          "explain": "on 作主语的主动句转成被动后省略施动者。近将来时被动是 aller 的现在时 + être + 过去分词：la route 是阴性单数，aller 用 va，分词用 réparée。不能漏掉 être，也不能保留 par on。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase active avec on devient passive sans agent. Le passif au futur proche est le présent d'aller + être + participe passé : la route est féminin singulier, d'où va et réparée. On n'omet pas être et on ne conserve pas par on."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l2-q24",
@@ -1031,9 +1408,19 @@
             "décisions"
           ],
           "translation": "这个决定难道没有被做出吗？",
-          "explain": "原句是否定倒装问句，主语 on 是泛指主语；转成被动后省略施动者，不能保留 par on。否定和倒装都落在变位助动词 avoir 上：n'a-t-elle pas été prise。主语 la décision 是阴性单数，倒装代词用 elle，过去分词 prise 加 -e。不能把倒装加到 été 上。"
+          "explain": "原句是否定倒装问句，主语 on 是泛指主语；转成被动后省略施动者，不能保留 par on。否定和倒装都落在变位助动词 avoir 上：n'a-t-elle pas été prise。主语 la décision 是阴性单数，倒装代词用 elle，过去分词 prise 加 -e。不能把倒装加到 été 上。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase d'origine est une interrogative négative avec inversion ; le sujet on est générique. Au passif, on omet l'agent et on ne conserve pas par on. La négation et l'inversion portent sur l'auxiliaire avoir : n'a-t-elle pas été prise. Le sujet la décision est féminin singulier, d'où le pronom elle et le participe prise avec -e. On n'inverse pas été."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Temps, négation, inversion et infinitif du passif (3)"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-l3-1",
@@ -1053,7 +1440,12 @@
           ],
           "answer": 0,
           "translation": "决定由经理做出，是他签署了文件。",
-          "explain": "被动句的施动者通常用 par 引出，位置在过去分词之后。prendre 的过去分词是 pris，这里与主语 la décision（阴性单数）配合，写作 prise。c'est lui qui a signé 说明 directeur 是动作执行者；de、à、en 都不能在这里引出施动者。被动句中的 de 施动者主要用于少数情感或状态动词，不能替换这里的 par。"
+          "explain": "被动句的施动者通常用 par 引出，位置在过去分词之后。prendre 的过去分词是 pris，这里与主语 la décision（阴性单数）配合，写作 prise。c'est lui qui a signé 说明 directeur 是动作执行者；de、à、en 都不能在这里引出施动者。被动句中的 de 施动者主要用于少数情感或状态动词，不能替换这里的 par。",
+          "locales": {
+            "fr": {
+              "explain": "L'agent du passif est généralement introduit par par et placé après le participe passé. Le participe de prendre est pris ; il s'accorde ici avec le sujet la décision, féminin singulier, d'où prise. c'est lui qui a signé montre que le directeur est l'agent ; de, à et en ne peuvent pas l'introduire ici. Le « de » marquant l'agent au passif est réservé à quelques verbes de sentiment ou d'état et ne remplace pas par dans cette phrase."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l3-q2",
@@ -1067,7 +1459,12 @@
           ],
           "answer": 1,
           "translation": "这位女教师受到所有学生的尊敬。",
-          "explain": "respecter 表示「尊敬」，这类情感、态度动词的被动结构常用 de 引出施动者：respectée de tous ses étudiants。par 也可以说，但 de 是典型搭配。de 不是通用被动介词，不能类推到 écrire、construire 等动词。"
+          "explain": "respecter 表示「尊敬」，这类情感、态度动词的被动结构常用 de 引出施动者：respectée de tous ses étudiants。par 也可以说，但 de 是典型搭配。de 不是通用被动介词，不能类推到 écrire、construire 等动词。",
+          "locales": {
+            "fr": {
+              "explain": "respecter exprime le respect ; pour ces verbes de sentiment ou d'attitude, le passif emploie souvent de pour introduire l'agent : respectée de tous ses étudiants. par est aussi possible, mais de est l'association typique. de n'est pas une préposition passive générale : on ne l'étend pas à des verbes comme écrire ou construire."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l3-q3",
@@ -1081,7 +1478,12 @@
           ],
           "answer": 1,
           "translation": "「La vitre a été cassée par une pierre」中的 par une pierre 指什么？",
-          "explain": "une pierre 不是有意识的人，而是打碎玻璃的工具或原因，所以 par une pierre 不表示施动者。par 引出施动者时，后面通常是能主动做事的人或动物；引出工具、原因时，要靠名词性质和句意判断。"
+          "explain": "une pierre 不是有意识的人，而是打碎玻璃的工具或原因，所以 par une pierre 不表示施动者。par 引出施动者时，后面通常是能主动做事的人或动物；引出工具、原因时，要靠名词性质和句意判断。",
+          "locales": {
+            "fr": {
+              "explain": "une pierre n'est pas une personne consciente : c'est l'outil ou la cause qui a cassé la vitre, et par une pierre n'exprime donc pas un agent. Quand par introduit un agent, l'élément qui suit est généralement une personne ou un animal capable d'agir ; pour l'outil ou la cause, c'est la nature du nom et le sens qui permettent de décider."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l3-q4",
@@ -1095,7 +1497,12 @@
           ],
           "answer": 0,
           "translation": "这项工作必须在周五前由团队完成。",
-          "explain": "devoir 后面接不定式；被动不定式的结构是 être + 过去分词，所以用 être terminé。不能用 avoir terminé（主动复合不定式），也不能只留 terminé。过去分词 terminé 与主语 ce travail（阳性单数）配合，施动者由 par 引出。"
+          "explain": "devoir 后面接不定式；被动不定式的结构是 être + 过去分词，所以用 être terminé。不能用 avoir terminé（主动复合不定式），也不能只留 terminé。过去分词 terminé 与主语 ce travail（阳性单数）配合，施动者由 par 引出。",
+          "locales": {
+            "fr": {
+              "explain": "devoir est suivi d'un infinitif ; l'infinitif passif se forme avec être + participe passé, d'où être terminé. On n'emploie ni avoir terminé (infinitif composé actif) ni terminé seul. Le participe terminé s'accorde avec le sujet ce travail, masculin singulier, et l'agent est introduit par par."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l3-q5",
@@ -1109,7 +1516,12 @@
             "s"
           ],
           "translation": "孩子们受到了老师的表扬。",
-          "explain": "féliciter 的被动句用 par 引出施动者：félicités par leur professeur。过去分词 félicités 与主语 les enfants（阳性复数）配合，不跟 leur professeur 配合。"
+          "explain": "féliciter 的被动句用 par 引出施动者：félicités par leur professeur。过去分词 félicités 与主语 les enfants（阳性复数）配合，不跟 leur professeur 配合。",
+          "locales": {
+            "fr": {
+              "explain": "Le passif de féliciter introduit l'agent avec par : félicités par leur professeur. Le participe félicités s'accorde avec le sujet les enfants, masculin pluriel, et non avec leur professeur."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l3-q6",
@@ -1143,7 +1555,12 @@
             "directrice"
           ],
           "translation": "合同将由经理签署。",
-          "explain": "近将来时的被动结构是 aller 的现在时 + être + 过去分词：va être signé。过去分词 signé 与主语 le contrat（阳性单数）配合，施动者用 par 引出。不能漏掉 être，否则会变成主动近将来时。"
+          "explain": "近将来时的被动结构是 aller 的现在时 + être + 过去分词：va être signé。过去分词 signé 与主语 le contrat（阳性单数）配合，施动者用 par 引出。不能漏掉 être，否则会变成主动近将来时。",
+          "locales": {
+            "fr": {
+              "explain": "Le passif au futur proche se forme avec le présent d'aller + être + participe passé : va être signé. Le participe signé s'accorde avec le sujet le contrat, masculin singulier, et l'agent est introduit par par. On n'omet pas être, sous peine d'obtenir un futur proche actif."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l3-q7",
@@ -1172,7 +1589,12 @@
             "terminé"
           ],
           "translation": "有人会在周五前完成这些工程。",
-          "explain": "原句是没有施动者的简单将来时被动：seront terminés（être 的简单将来时 + 过去分词）。改成主动句时用 on 作主语，时态保持简单将来时：on terminera；直接宾语 les travaux 放在动词后，时间状语 avant vendredi 保留。"
+          "explain": "原句是没有施动者的简单将来时被动：seront terminés（être 的简单将来时 + 过去分词）。改成主动句时用 on 作主语，时态保持简单将来时：on terminera；直接宾语 les travaux 放在动词后，时间状语 avant vendredi 保留。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase d'origine est un passif au futur simple sans agent : seront terminés (futur simple d'être + participe passé). Pour la mettre à l'actif, on emploie on comme sujet et on garde le futur simple : on terminera ; le complément d'objet direct les travaux se place après le verbe, et le complément de temps avant vendredi est conservé."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l3-q8",
@@ -1201,7 +1623,12 @@
             "construira"
           ],
           "translation": "一座新桥即将建成。",
-          "explain": "原句主语是 on，转成被动后省略施动者，不能写成 par on。近将来时被动是 va être + 过去分词；construit 与阳性单数 un nouveau pont 配合。"
+          "explain": "原句主语是 on，转成被动后省略施动者，不能写成 par on。近将来时被动是 va être + 过去分词；construit 与阳性单数 un nouveau pont 配合。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet d'origine est on ; au passif, on omet l'agent et on n'écrit pas par on. Le passif au futur proche est va être + participe passé ; construit s'accorde avec le sujet un nouveau pont, masculin singulier."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l3-q9",
@@ -1215,9 +1642,19 @@
           ],
           "answer": 2,
           "translation": "这座桥建于 1998 年。",
-          "explain": "on 作主动主语时，转成被动一般不再保留，不能写成 par on；施动者不明时直接省略。因此只有 « Le pont a été construit en 1998. » 正确。de on 形式错误，par quelqu'un on 重复。"
+          "explain": "on 作主动主语时，转成被动一般不再保留，不能写成 par on；施动者不明时直接省略。因此只有 « Le pont a été construit en 1998. » 正确。de on 形式错误，par quelqu'un on 重复。",
+          "locales": {
+            "fr": {
+              "explain": "Quand on est le sujet actif, le passif omet généralement l'agent : on n'écrit pas par on. Quand l'agent est inconnu, on l'omet aussi. Seule la phrase « Le pont a été construit en 1998. » est donc correcte. « de on » est une forme fautive, et « par quelqu'un on » est redondant."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Agent : par, de et omission (1)"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-l3-2",
@@ -1237,7 +1674,12 @@
           ],
           "answer": 0,
           "translation": "这个项目没有被委员会接受。",
-          "explain": "复合被动由 avoir 的变位加 été 加过去分词构成，否定词 ne...pas 夹住变位助动词 a：n'a pas été accepté。n'est pas été 用错了助动词；n'a pas accepté 变成主动；n'était pas été 形式不成立。过去分词 accepté 与 projet 阳性单数配合，施动者仍由 par 引出。"
+          "explain": "复合被动由 avoir 的变位加 été 加过去分词构成，否定词 ne...pas 夹住变位助动词 a：n'a pas été accepté。n'est pas été 用错了助动词；n'a pas accepté 变成主动；n'était pas été 形式不成立。过去分词 accepté 与 projet 阳性单数配合，施动者仍由 par 引出。",
+          "locales": {
+            "fr": {
+              "explain": "Le passif composé se forme avec une forme conjuguée d'avoir + été + participe passé ; la négation ne...pas encadre l'auxiliaire conjugué a, d'où n'a pas été accepté. n'est pas été emploie le mauvais auxiliaire ; n'a pas accepté devient actif ; n'était pas été est une forme impossible. Le participe accepté s'accorde avec projet, masculin singulier, et l'agent reste introduit par par."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l3-q11",
@@ -1251,7 +1693,12 @@
           ],
           "answer": 2,
           "translation": "哪一句不正确？",
-          "explain": "écrire 不是情感或状态动词，被动句的施动者要用 par：La lettre a été écrite par ma sœur。作为施动者标记，de 主要适用于 aimer、respecter、admirer 这类少数动词，不是 par 的自由替换。其余三句都符合规则。"
+          "explain": "écrire 不是情感或状态动词，被动句的施动者要用 par：La lettre a été écrite par ma sœur。作为施动者标记，de 主要适用于 aimer、respecter、admirer 这类少数动词，不是 par 的自由替换。其余三句都符合规则。",
+          "locales": {
+            "fr": {
+              "explain": "écrire n'est pas un verbe de sentiment ou d'état : l'agent du passif s'introduit avec par, d'où La lettre a été écrite par ma sœur. Comme marque d'agent, de ne convient qu'à un petit groupe de verbes comme aimer, respecter, admirer ; ce n'est pas un substitut libre de par. Les trois autres phrases respectent les règles."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l3-q12",
@@ -1265,7 +1712,12 @@
           ],
           "answer": 3,
           "translation": "哪一句中的 par 引出的是动作执行者？",
-          "explain": "选项 3 的 par ma sœur 引出写信的人，是施动者。par habitude 表示原因或动机，par milliers 表示数量方式，par la porte 表示路线，都不是施动者。"
+          "explain": "选项 3 的 par ma sœur 引出写信的人，是施动者。par habitude 表示原因或动机，par milliers 表示数量方式，par la porte 表示路线，都不是施动者。",
+          "locales": {
+            "fr": {
+              "explain": "Dans l'option 3, par ma sœur introduit la personne qui a écrit la lettre : c'est un agent. par habitude exprime la cause ou le motif, par milliers la manière ou la quantité, par la porte l'itinéraire : aucun n'est agent."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l3-q13",
@@ -1305,7 +1757,12 @@
             "donné"
           ],
           "translation": "奖品刚刚由文化部长颁发。",
-          "explain": "最近过去时的被动是 venir de + être + 过去分词：vient d'être remis。de 与 être 相连时省音为 d'。remis 与阳性单数 prix 配合；施动者是复杂名词词组 le ministre de la Culture，整体放在 par 后。"
+          "explain": "最近过去时的被动是 venir de + être + 过去分词：vient d'être remis。de 与 être 相连时省音为 d'。remis 与阳性单数 prix 配合；施动者是复杂名词词组 le ministre de la Culture，整体放在 par 后。",
+          "locales": {
+            "fr": {
+              "explain": "Le passif au passé récent se forme avec venir de + être + participe passé : vient d'être remis. Quand de précèd'être, il s'élide en d'. remis s'accorde avec le sujet masculin singulier prix ; l'agent est le groupe nominal complexe le ministre de la Culture, placé en bloc après par."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l3-q14",
@@ -1322,7 +1779,12 @@
             "u"
           ],
           "translation": "这些门刚刚被关上了。",
-          "explain": "最近过去时的被动是 venir de + être + 过去分词：viennent d'être fermées。过去分词与主语 les portes（阴性复数）配合，写作 fermées；句中没有施动者。拼写是 f-e-r-m-é-e-s。"
+          "explain": "最近过去时的被动是 venir de + être + 过去分词：viennent d'être fermées。过去分词与主语 les portes（阴性复数）配合，写作 fermées；句中没有施动者。拼写是 f-e-r-m-é-e-s。",
+          "locales": {
+            "fr": {
+              "explain": "Le passif au passé récent se forme avec venir de + être + participe passé : viennent d'être fermées. Le participe s'accorde avec le sujet les portes, féminin pluriel, d'où fermées ; la phrase ne comporte pas d'agent. L'orthographe est f-e-r-m-é-e-s."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l3-q15",
@@ -1352,7 +1814,12 @@
             "une"
           ],
           "translation": "汽车刚刚被修好。",
-          "explain": "on 作主语的主动句转成被动后省略施动者。最近过去时被动是 venir de + être + 过去分词：la voiture 是阴性单数，venir 用 vient；de 与 être 省音为 d'être；分词 réparée 加 -e。"
+          "explain": "on 作主语的主动句转成被动后省略施动者。最近过去时被动是 venir de + être + 过去分词：la voiture 是阴性单数，venir 用 vient；de 与 être 省音为 d'être；分词 réparée 加 -e。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase active avec on devient passive sans agent. Le passif au passé récent est venir de + être + participe passé : la voiture est féminin singulier, d'où vient ; de s'élide en d'être ; le participe réparée prend -e."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l3-q16",
@@ -1388,7 +1855,12 @@
             "chats"
           ],
           "translation": "花瓶刚刚被猫打破了。",
-          "explain": "原句是复合过去时主动。改成最近过去时被动：venir de + être + 过去分词。主语 les vases 是阳性复数，venir 用 viennent，分词 cassés 加 -s；原主语 le chat 用 par 引出。de 与 être 省音为 d'être。"
+          "explain": "原句是复合过去时主动。改成最近过去时被动：venir de + être + 过去分词。主语 les vases 是阳性复数，venir 用 viennent，分词 cassés 加 -s；原主语 le chat 用 par 引出。de 与 être 省音为 d'être。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase d'origine est un passé composé actif. On la transforme au passif au passé récent : venir de + être + participe passé. Le sujet les vases est masculin pluriel, d'où viennent et cassés avec -s ; l'ancien sujet le chat est introduit par par. de s'élide en d'être."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l3-q17",
@@ -1435,9 +1907,19 @@
             "annulées"
           ],
           "translation": "博物馆昨天被关闭了；参观活动被经理取消了。",
-          "explain": "第一句原主语是 on，转成被动后省略施动者：Le musée a été fermé hier。第二句原主语 le directeur 是具体施动者，用 par 引出：La visite a été annulée par le directeur。两句都保持复合过去时；过去分词分别与 musée（阳性单数）和 visite（阴性单数）配合。"
+          "explain": "第一句原主语是 on，转成被动后省略施动者：Le musée a été fermé hier。第二句原主语 le directeur 是具体施动者，用 par 引出：La visite a été annulée par le directeur。两句都保持复合过去时；过去分词分别与 musée（阳性单数）和 visite（阴性单数）配合。",
+          "locales": {
+            "fr": {
+              "explain": "La première phrase a on pour sujet : au passif, on omet l'agent, d'où Le musée a été fermé hier. La seconde a pour sujet l'agent concret le directeur : on l'introduit par par, d'où La visite a été annulée par le directeur. Les deux phrases restent au passé composé ; les participes s'accordent avec musée (masculin singulier) et visite (féminin singulier)."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Agent : par, de et omission (2)"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-l4",
@@ -1457,7 +1939,12 @@
           ],
           "answer": 1,
           "translation": "「La porte est fermée.」是什么意思？",
-          "explain": "être + 过去分词可以表示状态：门现在是关着的。若强调关门这个动作发生，通常说 La porte a été fermée (par le gardien)。选项 0 是「正在关门」，选项 3 是将来时；选项 2 把 fermer 当成主动动词，意思是门关了什么东西，也都不符合。"
+          "explain": "être + 过去分词可以表示状态：门现在是关着的。若强调关门这个动作发生，通常说 La porte a été fermée (par le gardien)。选项 0 是「正在关门」，选项 3 是将来时；选项 2 把 fermer 当成主动动词，意思是门关了什么东西，也都不符合。",
+          "locales": {
+            "fr": {
+              "explain": "être + participe passé peut exprimer un état : la porte est actuellement fermée. Pour insister sur l'action de fermer, on dit généralement La porte a été fermée (par le gardien). L'option 0 signifie « est en train de fermer », l'option 3 est au futur ; l'option 2 traite fermer comme un verbe actif et signifie que la porte a fermé quelque chose : aucune ne convient."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l4-q2",
@@ -1471,7 +1958,12 @@
           ],
           "answer": 0,
           "translation": "哪一句中的「être + 过去分词」构成主动复合过去时？",
-          "explain": "tomber 是表示位移的不及物动词，复合过去时用 être 作助动词：Les feuilles sont tombées 意为「叶子落下来了」，主语是动作执行者，不是被动。ramasser、brûler、arroser 都是及物动词，句子中的主语叶子是承受动作的一方，属于被动或状态。"
+          "explain": "tomber 是表示位移的不及物动词，复合过去时用 être 作助动词：Les feuilles sont tombées 意为「叶子落下来了」，主语是动作执行者，不是被动。ramasser、brûler、arroser 都是及物动词，句子中的主语叶子是承受动作的一方，属于被动或状态。",
+          "locales": {
+            "fr": {
+              "explain": "tomber est un verbe intransitif de déplacement : son passé composé emploie être comme auxiliaire, et Les feuilles sont tombées signifie « les feuilles sont tombées ». Le sujet est l'agent de l'action, non le patient : ce n'est pas un passif. ramasser, brûler et arroser sont transitifs ; dans ces phrases, les feuilles subissent l'action et il s'agit d'un passif ou d'un état."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l4-q3",
@@ -1485,7 +1977,12 @@
           ],
           "answer": 3,
           "translation": "哪一句是表达出施动者的被动句？",
-          "explain": "只有选项 3 含 par + 施动者 le boulanger，是现在时被动。Le gâteau est cuit 是状态；Le gâteau est délicieux 是形容词表语，没有过去分词；Le gâteau est tombé 是主动复合过去时（tomber 用 être 作助动词），不是被动。"
+          "explain": "只有选项 3 含 par + 施动者 le boulanger，是现在时被动。Le gâteau est cuit 是状态；Le gâteau est délicieux 是形容词表语，没有过去分词；Le gâteau est tombé 是主动复合过去时（tomber 用 être 作助动词），不是被动。",
+          "locales": {
+            "fr": {
+              "explain": "Seule l'option 3 contient par + agent le boulanger : c'est un passif au présent. Le gâteau est cuit est un état ; Le gâteau est délicieux est un attribut adjectival, sans participe passé ; Le gâteau est tombé est un passé composé actif (tomber emploie être), non un passif."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l4-q4",
@@ -1499,7 +1996,12 @@
           ],
           "answer": 2,
           "translation": "哪一句主动句可以变成被动句？",
-          "explain": "préparer 带直接宾语 une tarte，可以变成 Une tarte est préparée par la cuisinière。dormir 和 arriver 是不及物动词，没有宾语；téléphoner à sa sœur 的宾语由介词 à 引导，是间接宾语，不能直接提升为被动主语。"
+          "explain": "préparer 带直接宾语 une tarte，可以变成 Une tarte est préparée par la cuisinière。dormir 和 arriver 是不及物动词，没有宾语；téléphoner à sa sœur 的宾语由介词 à 引导，是间接宾语，不能直接提升为被动主语。",
+          "locales": {
+            "fr": {
+              "explain": "préparer a un complément d'objet direct, une tarte, et peut devenir passif : Une tarte est préparée par la cuisinière. dormir et arriver sont intransitifs, sans complément d'objet ; téléphoner à sa sœur a un complément d'objet indirect introduit par à, qui ne peut pas devenir directement sujet passif."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l4-q5",
@@ -1513,7 +2015,12 @@
           ],
           "answer": 0,
           "translation": "为什么不能说「*Le lit est dormi par Paul.」？",
-          "explain": "dormir 是不及物动词，没有直接宾语，所以不能构成被动。dormir 的过去分词是 dormi，形式本身不是问题；问题在于缺少可提升为被动主语的直接宾语。Paul 确实是动作执行者，但这不改变动词不能被动化的限制。"
+          "explain": "dormir 是不及物动词，没有直接宾语，所以不能构成被动。dormir 的过去分词是 dormi，形式本身不是问题；问题在于缺少可提升为被动主语的直接宾语。Paul 确实是动作执行者，但这不改变动词不能被动化的限制。",
+          "locales": {
+            "fr": {
+              "explain": "dormir est un verbe intransitif, sans complément d'objet direct : il ne peut pas former de passif. Le participe dormi n'est pas en cause ; le problème est l'absence d'un complément d'objet direct pouvant devenir sujet passif. Paul est bien l'agent, mais cela ne change pas la limite du verbe."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-l4-q6",
@@ -1527,9 +2034,19 @@
           ],
           "answer": 1,
           "translation": "在「Ce livre se vend bien」中，se 是什么意思？",
-          "explain": "se vendre 在这里是代词式动词的被动意义：主语 le livre 是动作的承受者，句子表示「这本书卖得好」这一特性，不出现施动者。它不是自反（书不会自己卖自己），也不是相互意义。选项 1 用主动句 on vend bien le livre 来解释这个意思，比逐字译成「书被卖得好」准确。"
+          "explain": "se vendre 在这里是代词式动词的被动意义：主语 le livre 是动作的承受者，句子表示「这本书卖得好」这一特性，不出现施动者。它不是自反（书不会自己卖自己），也不是相互意义。选项 1 用主动句 on vend bien le livre 来解释这个意思，比逐字译成「书被卖得好」准确。",
+          "locales": {
+            "fr": {
+              "explain": "se vendre a ici un sens passif : le sujet le livre est le patient de l'action, la phrase décrit la propriété « ce livre se vend bien » et n'exprime pas d'agent. Ce n'est ni un sens réfléchi (le livre ne se vend pas lui-même) ni un sens réciproque. L'option 1, qui l'explique par la phrase active on vend bien le livre, est plus juste qu'une traduction littérale « le livre est bien vendu »."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Distinguer passif, état et passé composé"
+        }
+      }
     }
   ],
   "challenges": [
@@ -1551,7 +2068,12 @@
           ],
           "answer": 0,
           "translation": "女经理昨天签署了这两份合同。",
-          "explain": "主动句的直接宾语 les deux contrats 变成被动主语。复合过去时的被动由 avoir 的现在时（ont）加 été 再加过去分词构成：ont été signés。过去分词跟主语 les deux contrats（阳性复数）配合，不跟施动者 la directrice 配合。施动者用 par 引出，放在过去分词之后。sont été 把 être 误作助动词；ont signés été 语序错误。"
+          "explain": "主动句的直接宾语 les deux contrats 变成被动主语。复合过去时的被动由 avoir 的现在时（ont）加 été 再加过去分词构成：ont été signés。过去分词跟主语 les deux contrats（阳性复数）配合，不跟施动者 la directrice 配合。施动者用 par 引出，放在过去分词之后。sont été 把 être 误作助动词；ont signés été 语序错误。",
+          "locales": {
+            "fr": {
+              "explain": "Le complément d'objet direct les deux contrats devient le sujet passif. Le passif au passé composé se forme avec le présent d'avoir (ont) + été + participe passé : ont été signés. Le participe s'accorde avec le sujet les deux contrats, masculin pluriel, non avec l'agent la directrice. L'agent est introduit par par et placé après le participe. sont été emploie être comme auxiliaire ; ont signés été a un ordre fautif."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x1-q2",
@@ -1568,7 +2090,12 @@
             "o"
           ],
           "translation": "这些信昨天早上已经写好了。",
-          "explain": "句子是复合过去时的被动：ont été + 过去分词。主语 les lettres 是阴性复数，écrire 的过去分词 écrit 要加 -es，写成 écrites。过去分词只跟主语配合，不跟 hier matin 这样的状语配合。"
+          "explain": "句子是复合过去时的被动：ont été + 过去分词。主语 les lettres 是阴性复数，écrire 的过去分词 écrit 要加 -es，写成 écrites。过去分词只跟主语配合，不跟 hier matin 这样的状语配合。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase est un passif au passé composé : ont été + participe passé. Le sujet les lettres est féminin pluriel : le participe d'écrire, écrit, prend -es, d'où écrites. Le participe s'accorde avec le sujet, non avec le complément de temps hier matin."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x1-q3",
@@ -1599,7 +2126,12 @@
             "est"
           ],
           "translation": "这些桥建于 1990 年。",
-          "explain": "主动句的主语是 on，转成被动后一般不再保留 par on，所以施动者省去。复合过去时被动用 ont été + 过去分词；主语 ces ponts 是阳性复数，分词用 construits。时间状语 en 1990 原样保留。不能写成 par on，也不能用单数 construit。"
+          "explain": "主动句的主语是 on，转成被动后一般不再保留 par on，所以施动者省去。复合过去时被动用 ont été + 过去分词；主语 ces ponts 是阳性复数，分词用 construits。时间状语 en 1990 原样保留。不能写成 par on，也不能用单数 construit。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet actif est on : au passif, on omet généralement par on. Le passif au passé composé emploie ont été + participe passé ; le sujet ces ponts est masculin pluriel, d'où construits. Le complément de temps en 1990 est conservé. On n'écrit ni par on ni le singulier construit."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x1-q4",
@@ -1613,7 +2145,12 @@
           ],
           "answer": 1,
           "translation": "哪一句中的 de 引出被动句的施动者，也就是动作的执行者？",
-          "explain": "admiré de tous 中的 de 引出施动者，意思是「受到所有人钦佩」，这是 aimer、admirer、respecter 等情感或评价类动词的被动用法。remplie de monde 的 de 说明内容，couverte de poussière 说明覆盖物或状态，revenir de Paris 的 de 表示来源；它们都不是施动者。de 不是 par 的通用替换，只有部分动词可以这样用。"
+          "explain": "admiré de tous 中的 de 引出施动者，意思是「受到所有人钦佩」，这是 aimer、admirer、respecter 等情感或评价类动词的被动用法。remplie de monde 的 de 说明内容，couverte de poussière 说明覆盖物或状态，revenir de Paris 的 de 表示来源；它们都不是施动者。de 不是 par 的通用替换，只有部分动词可以这样用。",
+          "locales": {
+            "fr": {
+              "explain": "admiré de tous est un passif où de introduit l'agent : « admiré de tous », emploi propre aux verbes de sentiment ou d'évaluation comme aimer, admirer, respecter. Dans remplie de monde, de indique le contenu ; dans couverte de poussière, de indique ce qui couvre ou l'état ; dans revenir de Paris, de indique l'origine. Aucun n'est agent. de n'est pas un substitut général de par : seuls certains verbes l'admettent."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x1-q5",
@@ -1627,7 +2164,12 @@
           ],
           "answer": 1,
           "translation": "这些旧衣服很好卖。",
-          "explain": "se vendre 在这里是代词式被动：主语 ces vieux vêtements 是动作的承受者，se 不表示「自己」，句子相当于 On vend bien ces vieux vêtements，说明衣服好卖。它不是「衣服难卖」，也不是衣服主动卖了商店。se sont vendus 是代词式动词的复合过去时，表示一次「卖掉了」的事件，不表示「好卖」这种属性。"
+          "explain": "se vendre 在这里是代词式被动：主语 ces vieux vêtements 是动作的承受者，se 不表示「自己」，句子相当于 On vend bien ces vieux vêtements，说明衣服好卖。它不是「衣服难卖」，也不是衣服主动卖了商店。se sont vendus 是代词式动词的复合过去时，表示一次「卖掉了」的事件，不表示「好卖」这种属性。",
+          "locales": {
+            "fr": {
+              "explain": "se vendre est ici un pronominal de sens passif : le sujet ces vieux vêtements est le patient de l'action, se ne signifie pas « soi-même », et la phrase équivaut à On vend bien ces vieux vêtements : elle indique que les vêtements se vendent bien. Elle ne signifie ni qu'ils se vendent mal, ni que les vêtements vendent activement le magasin. se sont vendus est un passé composé pronominal, qui exprime un événement « ont été vendus », non la propriété « se vendent bien »."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x1-q6",
@@ -1641,7 +2183,12 @@
           ],
           "answer": 3,
           "translation": "下面哪一句不能变成被动句？",
-          "explain": "répondre à 是间接及物结构，à 引出的是间接宾语，不能直接提升为被动主语，所以 « Les élèves ont répondu au professeur » 没有对应的被动句。其余三句都有直接宾语：les copies、la maison、la proposition，可以分别变成被动句。被动转换一般只适用于能带直接宾语的及物动词。"
+          "explain": "répondre à 是间接及物结构，à 引出的是间接宾语，不能直接提升为被动主语，所以 « Les élèves ont répondu au professeur » 没有对应的被动句。其余三句都有直接宾语：les copies、la maison、la proposition，可以分别变成被动句。被动转换一般只适用于能带直接宾语的及物动词。",
+          "locales": {
+            "fr": {
+              "explain": "répondre à est une structure transitive indirecte : à introduit un complément d'objet indirect, qui ne peut pas devenir directement sujet passif. La phrase « Les élèves ont répondu au professeur » n'a donc pas de passif correspondant. Les trois autres phrases ont un complément d'objet direct (les copies, la maison, la proposition) et peuvent devenir passives. La transformation passive ne s'applique généralement qu'aux verbes transitifs capables d'avoir un complément d'objet direct."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x1-q7",
@@ -1655,9 +2202,19 @@
           ],
           "answer": 3,
           "translation": "哪一句中的「être + 过去分词」表示状态（动作的结果），而不是被动动作？",
-          "explain": "la porte est fermée depuis hier soir 描述门处于「关着」的状态，强调动作结果持续，不强调谁关门。est fermée par le gardien 有施动者，是被动动作；a été écrite 是复合过去时被动；les enfants sont partis 是 partir 的主动复合过去时，partis 不表示被动。判断时要看有没有施动者、时间意义是动作还是结果。"
+          "explain": "la porte est fermée depuis hier soir 描述门处于「关着」的状态，强调动作结果持续，不强调谁关门。est fermée par le gardien 有施动者，是被动动作；a été écrite 是复合过去时被动；les enfants sont partis 是 partir 的主动复合过去时，partis 不表示被动。判断时要看有没有施动者、时间意义是动作还是结果。",
+          "locales": {
+            "fr": {
+              "explain": "la porte est fermée depuis hier soir décrit l'état « être fermée » et insiste sur le résultat qui dure, non sur la personne qui a fermé. est fermée par le gardien comporte un agent et exprime une action passive ; a été écrite est un passif au passé composé ; les enfants sont partis est un passé composé actif de partir, où partis n'exprime pas le passif. Il faut regarder la présence d'un agent et le sens temporel (action ou résultat)."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse du passif : formes, agent et reconnaissance (1)"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-x1-2",
@@ -1693,7 +2250,12 @@
             "les"
           ],
           "translation": "这些公寓在春天出售。",
-          "explain": "主动主语 on 转成被动后通常省略，不能保留 par on。现在时被动由 être 的现在时加过去分词构成：sont vendus。主语 ces appartements 是阳性复数，分词用 vendus；vendu 是单数，vendues 是阴性复数，都不配合。时间状语 au printemps 保留。"
+          "explain": "主动主语 on 转成被动后通常省略，不能保留 par on。现在时被动由 être 的现在时加过去分词构成：sont vendus。主语 ces appartements 是阳性复数，分词用 vendus；vendu 是单数，vendues 是阴性复数，都不配合。时间状语 au printemps 保留。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet actif on devient passif sans agent : on ne conserve pas par on. Le passif au présent se forme avec le présent d'être + participe passé : sont vendus. Le sujet ces appartements est masculin pluriel, d'où vendus ; vendu est singulier, vendues féminin pluriel : aucun ne s'accorde. Le complément de temps au printemps est conservé."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x1-q9",
@@ -1707,7 +2269,12 @@
           ],
           "answer": 2,
           "translation": "这些提案在会议前没有被接受。",
-          "explain": "复合被动的变位助动词是 avoir，否定词要夹住它：n'ont pas été。不能写成 ne sont pas été，因为被动复合时态不用 être 作助动词；也不能把 pas 放在 été 后面。主语 les propositions 是阴性复数，过去分词用 acceptées。"
+          "explain": "复合被动的变位助动词是 avoir，否定词要夹住它：n'ont pas été。不能写成 ne sont pas été，因为被动复合时态不用 être 作助动词；也不能把 pas 放在 été 后面。主语 les propositions 是阴性复数，过去分词用 acceptées。",
+          "locales": {
+            "fr": {
+              "explain": "Dans le passif composé, l'auxiliaire conjugué est avoir, et la négation l'encadre : n'ont pas été. On n'écrit pas ne sont pas été, car le passif composé n'emploie pas être comme auxiliaire ; on ne place pas non plus pas après été. Le sujet les propositions est féminin pluriel, d'où acceptées."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x1-q10",
@@ -1721,7 +2288,12 @@
           ],
           "answer": 0,
           "translation": "花每天晚上被孩子们浇水。",
-          "explain": "原句用未完成过去时 arrosaient，表示过去反复发生的动作，改成被动后时态由 être 承担：étaient arrosées。不能换成复合过去时 ont été arrosées，那样会改变时态和体貌。主语 les fleurs 是阴性复数，分词用 arrosées；chaque soir 说明过去习惯，支持未完成过去时。"
+          "explain": "原句用未完成过去时 arrosaient，表示过去反复发生的动作，改成被动后时态由 être 承担：étaient arrosées。不能换成复合过去时 ont été arrosées，那样会改变时态和体貌。主语 les fleurs 是阴性复数，分词用 arrosées；chaque soir 说明过去习惯，支持未完成过去时。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase d'origine est à l'imparfait arrosaient, qui exprime une action répétée dans le passé ; au passif, le temps est porté par être : étaient arrosées. On ne passe pas au passé composé ont été arrosées, ce qui changerait le temps et l'aspect. Le sujet les fleurs est féminin pluriel, d'où arrosées ; chaque soir indique une habitude passée et confirme l'imparfait."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x1-q11",
@@ -1735,7 +2307,12 @@
           ],
           "answer": 0,
           "translation": "市政厅被翻修了；新办公室由市长主持启用。",
-          "explain": "第一句原主语 on 是泛指主语，转成被动后省略施动者：La mairie a été rénovée。第二句原主语 le maire 是具体施动者，用 par 引出：les nouveaux bureaux ont été inaugurés par le maire。两句都用复合过去时被动；mairie 是阴性单数，用 rénovée；bureaux 是阳性复数，用 inaugurés。选项 1 第一句时态不对且第二句仍是主动；选项 2 分词未配合；选项 3 第一句仍是主动。"
+          "explain": "第一句原主语 on 是泛指主语，转成被动后省略施动者：La mairie a été rénovée。第二句原主语 le maire 是具体施动者，用 par 引出：les nouveaux bureaux ont été inaugurés par le maire。两句都用复合过去时被动；mairie 是阴性单数，用 rénovée；bureaux 是阳性复数，用 inaugurés。选项 1 第一句时态不对且第二句仍是主动；选项 2 分词未配合；选项 3 第一句仍是主动。",
+          "locales": {
+            "fr": {
+              "explain": "La première phrase a on pour sujet générique : au passif, on omet l'agent, d'où La mairie a été rénovée. La seconde a pour sujet l'agent concret le maire, introduit par par : les nouveaux bureaux ont été inaugurés par le maire. Les deux phrases restent au passé composé ; mairie est féminin singulier, d'où rénovée ; bureaux est masculin pluriel, d'où inaugurés. L'option 1 a un temps fautif dans la première phrase et garde la seconde à l'actif ; l'option 2 n'accorde pas les participes ; l'option 3 garde la première phrase à l'actif."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x1-q12",
@@ -1775,7 +2352,12 @@
             "a"
           ],
           "translation": "道路必须在周一前由工人们修好。",
-          "explain": "主动句的直接宾语 la route 变成主语；devoir 的主语变成 la route，所以用 doit，后面接被动不定式 être réparée。route 是阴性单数，réparée 加 -e；原主语 les ouvriers 用 par 引出。doivent 与单数主语不配合，réparer 是主动不定式。"
+          "explain": "主动句的直接宾语 la route 变成主语；devoir 的主语变成 la route，所以用 doit，后面接被动不定式 être réparée。route 是阴性单数，réparée 加 -e；原主语 les ouvriers 用 par 引出。doivent 与单数主语不配合，réparer 是主动不定式。",
+          "locales": {
+            "fr": {
+              "explain": "Le complément d'objet direct la route devient le sujet ; devoir suit ce nouveau sujet et devient doit, puis se construit avec l'infinitif passif être réparée. route est féminin singulier, d'où réparée ; l'ancien sujet les ouvriers est introduit par par. doivent ne s'accorde pas avec le sujet singulier, et réparer est un infinitif actif."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x1-q13",
@@ -1813,9 +2395,19 @@
             "maires"
           ],
           "translation": "市长难道没有签署这些合同吗？",
-          "explain": "原句是否定倒装问句：n'a-t-il pas signé。改成被动后，否定和倒装都落在变位助动词 avoir 上：n'ont-ils pas été signés。主语 les contrats 是阳性复数，倒装代词用 ils，助动词用 ont，分词 signés 加 -s；施动者 le maire 用 par 引出。"
+          "explain": "原句是否定倒装问句：n'a-t-il pas signé。改成被动后，否定和倒装都落在变位助动词 avoir 上：n'ont-ils pas été signés。主语 les contrats 是阳性复数，倒装代词用 ils，助动词用 ont，分词 signés 加 -s；施动者 le maire 用 par 引出。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase d'origine est une interrogative négative avec inversion : n'a-t-il pas signé. Au passif, la négation et l'inversion portent sur l'auxiliaire avoir : n'ont-ils pas été signés. Le sujet les contrats est masculin pluriel, d'où le pronom ils, l'auxiliaire ont et le participe signés avec -s ; l'agent le maire est introduit par par."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse du passif : formes, agent et reconnaissance (2)"
+        }
+      }
     },
     {
       "id": "pub-c17-passive-voice-x2",
@@ -1835,7 +2427,12 @@
           ],
           "answer": 0,
           "translation": "以前，饭菜在这个厅里供应；去年聚会时，饭菜是在花园里供应的。",
-          "explain": "autrefois 表示过去的习惯，用未完成过去时被动 étaient servis；l'année dernière 和 pour la fête 指一个已完成的特定场合，用复合过去时被动 ont été servis。两个空都要求分词跟主语 les repas / ils（阳性复数）配合，所以用 servis。两个时间标记要求不同的时态，不能都套现在时或都套复合过去时。"
+          "explain": "autrefois 表示过去的习惯，用未完成过去时被动 étaient servis；l'année dernière 和 pour la fête 指一个已完成的特定场合，用复合过去时被动 ont été servis。两个空都要求分词跟主语 les repas / ils（阳性复数）配合，所以用 servis。两个时间标记要求不同的时态，不能都套现在时或都套复合过去时。",
+          "locales": {
+            "fr": {
+              "explain": "autrefois exprime une habitude passée : on emploie le passif à l'imparfait, étaient servis ; l'année dernière et pour la fête renvoient à un événement passé achevé : on emploie le passif au passé composé, ont été servis. Les deux participes s'accordent avec les repas / ils, masculin pluriel, d'où servis. Les deux repères temporels exigent des temps différents : on ne met pas partout le présent ni partout le passé composé."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x2-q2",
@@ -1870,7 +2467,12 @@
             "des"
           ],
           "translation": "这些机器明天将由技术员修理。",
-          "explain": "近将来时被动由 aller 的现在时加 être 再加过去分词构成：vont être réparées。aller 随主语 les machines 变位为 vont，être 保持不定式。分词跟主语 machines（阴性复数）配合，用 réparées；施动者由 par 引出，放在分词后。不能漏掉 être，否则会变成主动近将来时。"
+          "explain": "近将来时被动由 aller 的现在时加 être 再加过去分词构成：vont être réparées。aller 随主语 les machines 变位为 vont，être 保持不定式。分词跟主语 machines（阴性复数）配合，用 réparées；施动者由 par 引出，放在分词后。不能漏掉 être，否则会变成主动近将来时。",
+          "locales": {
+            "fr": {
+              "explain": "Le passif au futur proche se forme avec le présent d'aller + être + participe passé : vont être réparées. aller s'accorde avec le sujet les machines et se conjugue en vont ; être reste à l'infinitif. Le participe s'accorde avec machines, féminin pluriel, d'où réparées ; l'agent est introduit par par et placé après le participe. On n'omet pas être, sinon la phrase devient un futur proche actif."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x2-q3",
@@ -1884,7 +2486,12 @@
           ],
           "answer": 2,
           "translation": "邀请函刚刚发出。",
-          "explain": "最近过去时被动由 venir de 加 être 再加过去分词构成。主语 les invitations 是第三人称复数，venir 用 viennent；分词跟主语阴性复数配合，用 envoyées。vient 是单数，vont 是 aller 的变位，都不能构成 venir de 的结构。"
+          "explain": "最近过去时被动由 venir de 加 être 再加过去分词构成。主语 les invitations 是第三人称复数，venir 用 viennent；分词跟主语阴性复数配合，用 envoyées。vient 是单数，vont 是 aller 的变位，都不能构成 venir de 的结构。",
+          "locales": {
+            "fr": {
+              "explain": "Le passif au passé récent se forme avec venir de + être + participe passé. Le sujet les invitations est à la troisième personne du pluriel : venir se conjugue en viennent ; le participe s'accorde au féminin pluriel, d'où envoyées. vient est singulier, vont est une forme d'aller : aucun ne forme venir de."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x2-q4",
@@ -1898,7 +2505,12 @@
           ],
           "answer": 3,
           "translation": "为什么这些决定没有早点做出？",
-          "explain": "复合被动的变位助动词是 avoir，倒装和否定都以它为准：n'ont-elles pas été prises。ne 与 pas 夹住 ont，主语代词 elles 紧跟 ont 并加连字符；过去分词 prises 跟主语 ces décisions（阴性复数）配合。ne sont-elles pas été 误用 être 作助动词；n'ont-elles pas été prise 配合错误；n'ont pas-elles 的连字符位置错误。"
+          "explain": "复合被动的变位助动词是 avoir，倒装和否定都以它为准：n'ont-elles pas été prises。ne 与 pas 夹住 ont，主语代词 elles 紧跟 ont 并加连字符；过去分词 prises 跟主语 ces décisions（阴性复数）配合。ne sont-elles pas été 误用 être 作助动词；n'ont-elles pas été prise 配合错误；n'ont pas-elles 的连字符位置错误。",
+          "locales": {
+            "fr": {
+              "explain": "Dans le passif composé, l'auxiliaire conjugué est avoir : l'inversion et la négation portent sur lui, d'où n'ont-elles pas été prises. ne et pas encadrent ont, le pronom sujet elles suit ont avec un trait d'union, et le participe prises s'accorde avec le sujet ces décisions, féminin pluriel. ne sont-elles pas été emploie être comme auxiliaire ; n'ont-elles pas été prise a un accord fautif ; n'ont pas-elles place mal le trait d'union."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x2-q5",
@@ -1912,7 +2524,12 @@
             "o"
           ],
           "translation": "维修工作在中午前完成了。",
-          "explain": "faire 的过去分词是 fait；主语 les réparations 是阴性复数，所以要加 -es，写成 faites。句子是复合过去时被动 ont été + 过去分词，分词与主语配合，不跟 avant midi 配合。"
+          "explain": "faire 的过去分词是 fait；主语 les réparations 是阴性复数，所以要加 -es，写成 faites。句子是复合过去时被动 ont été + 过去分词，分词与主语配合，不跟 avant midi 配合。",
+          "locales": {
+            "fr": {
+              "explain": "Le participe de faire est fait ; le sujet les réparations est féminin pluriel, d'où faites avec -es. La phrase est un passif au passé composé ont été + participe passé ; le participe s'accorde avec le sujet, non avec avant midi."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x2-q6",
@@ -1926,7 +2543,12 @@
           ],
           "answer": 1,
           "translation": "报告将于下周公布；结果则刚刚公布。",
-          "explain": "第一空说「报告下周将被公布」，用近将来时被动 va être publié；主语 le rapport 是单数，aller 用 va，分词 publié 也是单数。第二空说「结果刚刚公布」，用最近过去时被动 viennent d'être publiés；主语 les résultats 是复数，venir 用 viennent，分词 publiés 阳性复数。两个结构都必须保留 être。"
+          "explain": "第一空说「报告下周将被公布」，用近将来时被动 va être publié；主语 le rapport 是单数，aller 用 va，分词 publié 也是单数。第二空说「结果刚刚公布」，用最近过去时被动 viennent d'être publiés；主语 les résultats 是复数，venir 用 viennent，分词 publiés 阳性复数。两个结构都必须保留 être。",
+          "locales": {
+            "fr": {
+              "explain": "Premier blanc : le rapport sera publié la semaine prochaine, action à venir, d'où le passif au futur proche va être publié ; le rapport est singulier, d'où va et publié au singulier. Second blanc : les résultats viennent d'être publiés, action récente, d'où le passif au passé récent viennent d'être publiés ; les résultats est pluriel, d'où viennent et publiés au masculin pluriel. Les deux structures doivent conserver être."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x2-q7",
@@ -1940,7 +2562,12 @@
           ],
           "answer": 0,
           "translation": "改革以来，档案在网上处理；去年，档案每周由人工处理。",
-          "explain": "depuis la réforme 表示从过去延续到现在的状态或习惯，用现在时被动 sont traités；l'an dernier 加 chaque semaine 表示过去反复发生的动作，用未完成过去时被动 étaient traités。分词 traités 跟主语 les dossiers / ils（阳性复数）配合。不能把两个时态对调，否则时间关系就变了。"
+          "explain": "depuis la réforme 表示从过去延续到现在的状态或习惯，用现在时被动 sont traités；l'an dernier 加 chaque semaine 表示过去反复发生的动作，用未完成过去时被动 étaient traités。分词 traités 跟主语 les dossiers / ils（阳性复数）配合。不能把两个时态对调，否则时间关系就变了。",
+          "locales": {
+            "fr": {
+              "explain": "depuis la réforme exprime un état ou une habitude qui continue depuis le passé jusqu'au présent : on emploie le passif au présent sont traités ; l'an dernier et chaque semaine expriment une action passée répétée : on emploie le passif à l'imparfait étaient traités. Le participe traités s'accorde avec le sujet les dossiers / ils, masculin pluriel. On n'échange pas les deux temps, sinon le rapport temporel change."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x2-q8",
@@ -1972,7 +2599,12 @@
             "les"
           ],
           "translation": "陪审团此前已经审查了这些申请。",
-          "explain": "原句是愈过去时主动 avait examiné。改成被动后，愈过去时由 avoir 的未完成过去时加 été 再加过去分词构成：avaient été examinées。主语 les candidatures 是阴性复数，分词用 examinées；施动者 le jury 用 par 引出。不能沿用 avait examiné 的单数层次，也不能漏掉 été。"
+          "explain": "原句是愈过去时主动 avait examiné。改成被动后，愈过去时由 avoir 的未完成过去时加 été 再加过去分词构成：avaient été examinées。主语 les candidatures 是阴性复数，分词用 examinées；施动者 le jury 用 par 引出。不能沿用 avait examiné 的单数层次，也不能漏掉 été。",
+          "locales": {
+            "fr": {
+              "explain": "La phrase d'origine est un plus-que-parfait actif, avait examiné. Au passif, le plus-que-parfait se forme avec l'imparfait d'avoir + été + participe passé : avaient été examinées. Le sujet les candidatures est féminin pluriel, d'où examinées ; l'agent le jury est introduit par par. On ne garde pas le niveau singulier de avait examiné et on n'omet pas été."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x2-q9",
@@ -1986,7 +2618,12 @@
           ],
           "answer": 1,
           "translation": "十年后，这些建筑将被现代公寓楼取代。",
-          "explain": "简单将来时被动由 être 的简单将来时加过去分词构成：seront remplacés。主语 ces bâtiments 是阳性复数，分词用 remplacés，不跟后面的 des immeubles 配合。auront 是 avoir 的将来时，不能构成被动；remplacé 是单数，remplacées 是阴性复数，都不配合。"
+          "explain": "简单将来时被动由 être 的简单将来时加过去分词构成：seront remplacés。主语 ces bâtiments 是阳性复数，分词用 remplacés，不跟后面的 des immeubles 配合。auront 是 avoir 的将来时，不能构成被动；remplacé 是单数，remplacées 是阴性复数，都不配合。",
+          "locales": {
+            "fr": {
+              "explain": "Le passif au futur simple se forme avec le futur simple d'être + participe passé : seront remplacés. Le sujet ces bâtiments est masculin pluriel, d'où remplacés, qui ne s'accorde pas avec des immeubles. auront est le futur d'avoir et ne peut pas former le passif ; remplacé est singulier, remplacées féminin pluriel : aucun ne s'accorde."
+            }
+          }
         },
         {
           "id": "pub-c17-passive-voice-x2-q10",
@@ -2018,9 +2655,27 @@
             "le"
           ],
           "translation": "这些数字必须核对两次。",
-          "explain": "情态动词 devoir 后面用被动不定式 être + 过去分词：doivent être vérifiés。doivent 跟主语 ces chiffres 配合，用第三人称复数；过去分词 vérifiés 也跟这个阳性复数主语配合。主动句的主语 on 转成被动后通常省略，不保留 par on。"
+          "explain": "情态动词 devoir 后面用被动不定式 être + 过去分词：doivent être vérifiés。doivent 跟主语 ces chiffres 配合，用第三人称复数；过去分词 vérifiés 也跟这个阳性复数主语配合。主动句的主语 on 转成被动后通常省略，不保留 par on。",
+          "locales": {
+            "fr": {
+              "explain": "Après le verbe de modalité devoir, on emploie l'infinitif passif être + participe passé : doivent être vérifiés. doivent s'accorde avec le sujet ces chiffres à la troisième personne du pluriel ; le participe vérifiés s'accorde aussi avec ce sujet masculin pluriel. Le sujet actif on devient passif sans agent : on ne conserve pas par on."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse temps et accord : niveaux temporels et accord du participe"
+        }
+      }
     }
-  ]
+  ],
+  "locales": {
+    "fr": {
+      "sectionTitles": {
+        "s1": "Formation du passif, conversion et temps",
+        "s2": "Agent et distinction passif/état"
+      }
+    }
+  }
 }

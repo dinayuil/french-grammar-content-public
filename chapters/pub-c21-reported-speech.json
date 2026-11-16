@@ -6,112 +6,244 @@
     {
       "id": "pub-c21-reported-speech-card-u1-1",
       "title": "陈述句转述：用 que 引出宾语从句",
-      "body": "<p>转述陈述句时，把原话降为宾语从句，用连词 que 引出：Il dit : « Je suis fatigué. » → Il dit qu'il est fatigué.（他说他累了。）从句保持陈述语序，也就是主语在前、变位动词在后，不保留原话的倒装或问号。</p><p>que 遇元音开头的词要省音为 qu'：Elle annonce qu'il arrive à midi.（她宣布他中午到。）不能写成 que il。</p><p>转述时还要重排「指称」：指称（référence）指词语指向现实中的哪个人、哪个时间、哪个地点。原话的 je 指说话人，转述后通常变成 il 或 elle，物主词也随之更换：Il me dit : « J'ai perdu mon sac. » → Il me dit qu'il a perdu son sac.（他对我说他丢了包。）——mon 随说话人变成 son。</p><p>注意：que 只负责引出从句，不改变从句的陈述性质；从句里不要保留引号、问号或原话的称呼语。</p>"
+      "body": "<p>转述陈述句时，把原话降为宾语从句，用连词 que 引出：Il dit : « Je suis fatigué. » → Il dit qu'il est fatigué.（他说他累了。）从句保持陈述语序，也就是主语在前、变位动词在后，不保留原话的倒装或问号。</p><p>que 遇元音开头的词要省音为 qu'：Elle annonce qu'il arrive à midi.（她宣布他中午到。）不能写成 que il。</p><p>转述时还要重排「指称」：指称（référence）指词语指向现实中的哪个人、哪个时间、哪个地点。原话的 je 指说话人，转述后通常变成 il 或 elle，物主词也随之更换：Il me dit : « J'ai perdu mon sac. » → Il me dit qu'il a perdu son sac.（他对我说他丢了包。）——mon 随说话人变成 son。</p><p>注意：que 只负责引出从句，不改变从句的陈述性质；从句里不要保留引号、问号或原话的称呼语。</p>",
+      "locales": {
+        "fr": {
+          "title": "Rapporter une déclaration : la proposition introduite par que",
+          "body": "<p>Pour rapporter une déclaration, on transforme les paroles en proposition subordonnée introduite par la conjonction que : Il dit : « Je suis fatigué. » → Il dit qu'il est fatigué. La subordonnée garde l'ordre déclaratif, c'est-à-dire sujet puis verbe conjugué ; on ne conserve ni l'inversion ni le point d'interrogation de l'énoncé d'origine.</p><p>que s'élide devant un mot commençant par une voyelle en qu' : Elle annonce qu'il arrive à midi. On n'écrit pas que il.</p><p>Il faut aussi réorganiser les références : la référence désigne la personne, le moment ou le lieu auxquels renvoient les mots. Le je de l'énoncé désigne le locuteur ; après le passage au discours rapporté, il devient généralement il ou elle, et les possessifs changent aussi : Il me dit : « J'ai perdu mon sac. » → Il me dit qu'il a perdu son sac. — mon devient son en fonction du nouveau locuteur.</p><p>Remarque : que ne sert qu'à introduire la subordonnée et ne change pas son caractère déclaratif ; on ne conserve dans la subordonnée ni guillemets, ni point d'interrogation, ni apostrophe adressée à l'interlocuteur.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u1-2",
       "title": "引导动词是现在时或将来时：时态一般不回溯",
-      "body": "<p>「回溯」（backshift）指引导动词为过去时时，从句时态按原话时间与参照点的关系向后调整。引导动词是现在时或将来时，参照点就在说话当下，从句一般沿用原话的时态，只调整人称和指示词（如 ici、demain 这类依赖说话情境的词）。</p><ul><li>Elle dit : « Je travaille ici. » → Elle dit qu'elle travaille ici.（她说她在这里工作。）——现在时保留。</li><li>Il annonce : « J'ai fini. » → Il annonce qu'il a fini.（他宣布他完成了。）——复合过去时保留。</li><li>Nous espérons : « Elle viendra. » → Nous espérons qu'elle viendra.（我们希望她会来。）——简单将来时保留。</li></ul><p>「沿用」不等于原封不动：人称、物主词以及时间和地点词仍要按新的说话情境调整。Il dit : « Je partirai demain. » → Il dit qu'il partira demain.（他说他明天出发。）——时态不变，人称变了。</p><p>如果转述时间明显晚于原话、语境又要求拉开距离，也可能发生回溯；没有这种语境时，按不回溯处理即可。</p><p>注意：不要因为句子里出现 que 就把时态一律改成过去时；先看引导动词的时态。</p>"
+      "body": "<p>「回溯」（backshift）指引导动词为过去时时，从句时态按原话时间与参照点的关系向后调整。引导动词是现在时或将来时，参照点就在说话当下，从句一般沿用原话的时态，只调整人称和指示词（如 ici、demain 这类依赖说话情境的词）。</p><ul><li>Elle dit : « Je travaille ici. » → Elle dit qu'elle travaille ici.（她说她在这里工作。）——现在时保留。</li><li>Il annonce : « J'ai fini. » → Il annonce qu'il a fini.（他宣布他完成了。）——复合过去时保留。</li><li>Nous espérons : « Elle viendra. » → Nous espérons qu'elle viendra.（我们希望她会来。）——简单将来时保留。</li></ul><p>「沿用」不等于原封不动：人称、物主词以及时间和地点词仍要按新的说话情境调整。Il dit : « Je partirai demain. » → Il dit qu'il partira demain.（他说他明天出发。）——时态不变，人称变了。</p><p>如果转述时间明显晚于原话、语境又要求拉开距离，也可能发生回溯；没有这种语境时，按不回溯处理即可。</p><p>注意：不要因为句子里出现 que 就把时态一律改成过去时；先看引导动词的时态。</p>",
+      "locales": {
+        "fr": {
+          "title": "Verbe introducteur au présent ou au futur : pas de recul du temps en principe",
+          "body": "<p>Le « recul » (backshift) consiste à décaler le temps de la subordonnée lorsque le verbe introducteur est au passé, en fonction du rapport entre le moment de l'énoncé d'origine et le repère du récit. Quand le verbe introducteur est au présent ou au futur, le repère est le moment présent : la subordonnée conserve généralement le temps de l'énoncé d'origine et l'on ne modifie que les personnes et les indicateurs dépendant de la situation d'énonciation (comme ici, demain).</p><ul><li>Elle dit : « Je travaille ici. » → Elle dit qu'elle travaille ici. — le présent est conservé.</li><li>Il annonce : « J'ai fini. » → Il annonce qu'il a fini. — le passé composé est conservé.</li><li>Nous espérons : « Elle viendra. » → Nous espérons qu'elle viendra. — le futur simple est conservé.</li></ul><p>« Conserver » ne signifie pas tout garder tel quel : les personnes, les possessifs et les mots de temps et de lieu s'ajustent encore à la nouvelle situation. Il dit : « Je partirai demain. » → Il dit qu'il partira demain. — le temps ne change pas, mais la personne change.</p><p>Si le moment du discours rapporté est nettement postérieur à l'énoncé d'origine et que le contexte impose une prise de distance, un recul reste possible ; sans ce contexte, on applique normalement l'absence de recul.</p><p>Remarque : ce n'est pas parce qu'une phrase contient que que tous les temps doivent passer au passé ; examiner d'abord le temps du verbe introducteur.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u1-3",
       "title": "引导动词是过去时：回溯的对应关系",
-      "body": "<p>引导动词是过去时，参照点落在过去，从句时态通常要按原话时间与参照点的关系回溯。常见对应如下：</p><ul><li>现在时 → 未完成过去时：Il a dit : « Je suis malade. » → Il a dit qu'il était malade.（他说他病了。）</li><li>复合过去时 → 愈过去时：Elle a raconté : « J'ai vu ce film. » → Elle a raconté qu'elle avait vu ce film.（她讲述说她看过这部电影。）</li><li>简单将来时 → 条件式现在时：Il a annoncé : « Je partirai. » → Il a annoncé qu'il partirait.（他宣布他会离开。）</li><li>近将来 aller + 不定式 → aller 的未完成过去时 + 不定式：Elle a dit : « Je vais partir. » → Elle a dit qu'elle allait partir.（她说她当时正要走。）</li><li>最近过去 venir de + 不定式 → venir 的未完成过去时 + de + 不定式：Il a dit : « Je viens de sortir. » → Il a dit qu'il venait de sortir.（他说他刚出去。）</li></ul><p>愈过去时由助动词的未完成过去时加过去分词构成：avait vu、était parti。条件式现在时用简单将来时的词干加未完成过去时的词尾：简单将来时 partira 的词干 partir- 加 -ait，得到 partirait。</p><p>注意：回溯不是机械地「降一级」，而是按原时态逐项对应；不能把愈过去时再往后推，也不能把所有时态都改成同一种过去时。原话仍然有效时要不要保留现在时，见下一张。</p>"
+      "body": "<p>引导动词是过去时，参照点落在过去，从句时态通常要按原话时间与参照点的关系回溯。常见对应如下：</p><ul><li>现在时 → 未完成过去时：Il a dit : « Je suis malade. » → Il a dit qu'il était malade.（他说他病了。）</li><li>复合过去时 → 愈过去时：Elle a raconté : « J'ai vu ce film. » → Elle a raconté qu'elle avait vu ce film.（她讲述说她看过这部电影。）</li><li>简单将来时 → 条件式现在时：Il a annoncé : « Je partirai. » → Il a annoncé qu'il partirait.（他宣布他会离开。）</li><li>近将来 aller + 不定式 → aller 的未完成过去时 + 不定式：Elle a dit : « Je vais partir. » → Elle a dit qu'elle allait partir.（她说她当时正要走。）</li><li>最近过去 venir de + 不定式 → venir 的未完成过去时 + de + 不定式：Il a dit : « Je viens de sortir. » → Il a dit qu'il venait de sortir.（他说他刚出去。）</li></ul><p>愈过去时由助动词的未完成过去时加过去分词构成：avait vu、était parti。条件式现在时用简单将来时的词干加未完成过去时的词尾：简单将来时 partira 的词干 partir- 加 -ait，得到 partirait。</p><p>注意：回溯不是机械地「降一级」，而是按原时态逐项对应；不能把愈过去时再往后推，也不能把所有时态都改成同一种过去时。原话仍然有效时要不要保留现在时，见下一张。</p>",
+      "locales": {
+        "fr": {
+          "title": "Verbe introducteur au passé : les correspondances du recul",
+          "body": "<p>Quand le verbe introducteur est au passé, le repère se situe dans le passé : le temps de la subordonnée est généralement décalé selon le rapport entre le moment de l'énoncé d'origine et ce repère. Correspondances courantes :</p><ul><li>Présent → imparfait : Il a dit : « Je suis malade. » → Il a dit qu'il était malade.</li><li>Passé composé → plus-que-parfait : Elle a raconté : « J'ai vu ce film. » → Elle a raconté qu'elle avait vu ce film.</li><li>Futur simple → conditionnel présent : Il a annoncé : « Je partirai. » → Il a annoncé qu'il partirait.</li><li>Futur proche aller + infinitif → aller à l'imparfait + infinitif : Elle a dit : « Je vais partir. » → Elle a dit qu'elle allait partir.</li><li>Passé récent venir de + infinitif → venir à l'imparfait + de + infinitif : Il a dit : « Je viens de sortir. » → Il a dit qu'il venait de sortir.</li></ul><p>Le plus-que-parfait se forme avec l'auxiliaire à l'imparfait suivi du participe passé : avait vu, était parti. Le conditionnel présent se forme avec le radical du futur simple et les terminaisons de l'imparfait : le futur partira a le radical partir-, auquel on ajoute -ait, d'où partirait.</p><p>Remarque : le recul n'est pas un « décalage d'un cran » appliqué mécaniquement ; il suit une correspondance précise, temps par temps. On ne recule pas un plus-que-parfait et on ne ramène pas tous les temps à un même temps du passé. La question de savoir s'il faut conserver le présent lorsque l'énoncé est toujours valable est traitée dans la carte suivante.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u1-4",
       "title": "回溯的语境判断：不是所有话都要后移",
-      "body": "<p>回溯是默认倾向，不是机械规则。原话内容在转述时仍然有效，比如客观事实、普遍规律、仍在持续的状态或习惯，从句可以保留现在时。</p><ul><li>Le professeur a rappelé que l'eau bout à 100 °C.（老师提醒过水在 100 摄氏度沸腾。）——普遍规律，保留现在时。</li><li>Elle m'a expliqué qu'elle travaille dans cette école depuis dix ans.（她向我解释她在这所学校工作十年了。）——转述时仍在持续。</li><li>Il m'a dit qu'il était malade.（他告诉我他病了。）——说的是当时的情况，用未完成过去时。</li><li>Il m'a dit qu'il est malade.（他告诉我他病了，现在仍病着。）——转述时他仍病着，现在时也可以接受。</li></ul><p>判断依据是原话内容与转述时刻的关系，而不是句子形式。没有明确语境时，按规范回溯更稳妥；只有能确认事实仍然成立，才保留现在时。</p><p>注意：保留现在时要有语境依据；不能因为句子讲的是普遍规律就一律不回溯，也不能无视「仍然有效」的线索。</p>"
+      "body": "<p>回溯是默认倾向，不是机械规则。原话内容在转述时仍然有效，比如客观事实、普遍规律、仍在持续的状态或习惯，从句可以保留现在时。</p><ul><li>Le professeur a rappelé que l'eau bout à 100 °C.（老师提醒过水在 100 摄氏度沸腾。）——普遍规律，保留现在时。</li><li>Elle m'a expliqué qu'elle travaille dans cette école depuis dix ans.（她向我解释她在这所学校工作十年了。）——转述时仍在持续。</li><li>Il m'a dit qu'il était malade.（他告诉我他病了。）——说的是当时的情况，用未完成过去时。</li><li>Il m'a dit qu'il est malade.（他告诉我他病了，现在仍病着。）——转述时他仍病着，现在时也可以接受。</li></ul><p>判断依据是原话内容与转述时刻的关系，而不是句子形式。没有明确语境时，按规范回溯更稳妥；只有能确认事实仍然成立，才保留现在时。</p><p>注意：保留现在时要有语境依据；不能因为句子讲的是普遍规律就一律不回溯，也不能无视「仍然有效」的线索。</p>",
+      "locales": {
+        "fr": {
+          "title": "Le recul dépend du contexte : tout n'est pas à décaler",
+          "body": "<p>Le recul est une tendance par défaut, non une règle mécanique. Si le contenu de l'énoncé est toujours valable au moment du discours rapporté, par exemple un fait objectif, une loi générale, un état ou une habitude encore en cours, la subordonnée peut conserver le présent.</p><ul><li>Le professeur a rappelé que l'eau bout à 100 °C. — loi générale, présent conservé.</li><li>Elle m'a expliqué qu'elle travaille dans cette école depuis dix ans. — l'état dure encore au moment du discours rapporté.</li><li>Il m'a dit qu'il était malade. — il parle de son état à ce moment-là, d'où l'imparfait.</li><li>Il m'a dit qu'il est malade. — il est encore malade au moment du discours rapporté : le présent est également acceptable.</li></ul><p>Le choix dépend du rapport entre le contenu de l'énoncé et le moment du discours rapporté, non de la seule forme de la phrase. Sans contexte explicite, le recul normé est plus sûr ; on ne conserve le présent que si l'on peut confirmer que le fait est toujours vrai.</p><p>Remarque : conserver le présent exige un appui contextuel ; on ne supprime pas le recul sous prétexte qu'il s'agit d'une loi générale, et on ne l'ignore pas non plus quand le contexte indique que le fait est toujours valable.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u1-5",
       "title": "陈述句转述的判断顺序",
-      "body": "<p>遇到陈述句转述，可以按四步判断：</p><ol><li>看引导动词的时态：现在或将来，一般不回溯；过去时，按对应表回溯。</li><li>换指称：原话的 je/tu、mon/ton、me/te 按新的说话人和听话人重排。</li><li>加 que（元音前 qu'），从句保持陈述语序。</li><li>通读检查：人称、物主词、时态是否指向同一个说话情境。</li></ol><p>例：Il m'a dit : « Je finirai mon rapport. » → Il m'a dit qu'il finirait son rapport.（他对我说他会完成报告。）——引导动词是过去时，finirai 回溯为 finirait；je 和 mon 随说话人变成 il 和 son。</p><p>注意：四步要一起做，只改时态或只改人称都会造成指称错位。</p>"
+      "body": "<p>遇到陈述句转述，可以按四步判断：</p><ol><li>看引导动词的时态：现在或将来，一般不回溯；过去时，按对应表回溯。</li><li>换指称：原话的 je/tu、mon/ton、me/te 按新的说话人和听话人重排。</li><li>加 que（元音前 qu'），从句保持陈述语序。</li><li>通读检查：人称、物主词、时态是否指向同一个说话情境。</li></ol><p>例：Il m'a dit : « Je finirai mon rapport. » → Il m'a dit qu'il finirait son rapport.（他对我说他会完成报告。）——引导动词是过去时，finirai 回溯为 finirait；je 和 mon 随说话人变成 il 和 son。</p><p>注意：四步要一起做，只改时态或只改人称都会造成指称错位。</p>",
+      "locales": {
+        "fr": {
+          "title": "Ordre d'analyse pour rapporter une déclaration",
+          "body": "<p>Pour rapporter une déclaration, on peut suivre quatre étapes :</p><ol><li>Regarder le temps du verbe introducteur : au présent ou au futur, pas de recul en principe ; au passé, appliquer les correspondances du recul.</li><li>Réajuster les références : les je/tu, mon/ton, me/te de l'énoncé d'origine se réorganisent selon le nouveau locuteur et le nouvel interlocuteur.</li><li>Ajouter que (qu' devant une voyelle) et garder l'ordre déclaratif dans la subordonnée.</li><li>Relire : les personnes, les possessifs et les temps renvoient-ils tous à la même situation d'énonciation ?</li></ol><p>Exemple : Il m'a dit : « Je finirai mon rapport. » → Il m'a dit qu'il finirait son rapport. — le verbe introducteur est au passé, finirai recule en finirait ; je et mon deviennent il et son selon le locuteur.</p><p>Remarque : les quatre étapes se font ensemble ; ne changer que le temps ou que la personne produit un décalage de référence.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u2-1",
       "title": "一般疑问句转述：用 si 引出从句",
-      "body": "<p>转述一般疑问句（能用「是／否」回答的问句）用 si 引导宾语从句，不用 que。原句的 est-ce que 和主谓倒装都要去掉，从句回到陈述语序。</p><ul><li>Il me demande : « Tu viens ? » → Il me demande si je viens.（他问我是否来。）</li><li>Elle demande : « Est-ce que tu as fini ? » → Elle demande si j'ai fini.（她问我是否做完了。）</li><li>Je me demande : « Partira-t-il ? » → Je me demande s'il partira.（我在想他是否会走。）</li></ul><p>si 遇 il 或 ils 要省音为 s'：s'il part、s'ils viennent。这个 si 是疑问连词，不是「如果」的 si。</p><p>从句里不再保留问号；间接疑问整体是一个陈述句。</p><p>注意：一般疑问不能用 que 转述；Il me demande que je viens 不成立。判断时先看原句能不能用「是／否」回答。</p>"
+      "body": "<p>转述一般疑问句（能用「是／否」回答的问句）用 si 引导宾语从句，不用 que。原句的 est-ce que 和主谓倒装都要去掉，从句回到陈述语序。</p><ul><li>Il me demande : « Tu viens ? » → Il me demande si je viens.（他问我是否来。）</li><li>Elle demande : « Est-ce que tu as fini ? » → Elle demande si j'ai fini.（她问我是否做完了。）</li><li>Je me demande : « Partira-t-il ? » → Je me demande s'il partira.（我在想他是否会走。）</li></ul><p>si 遇 il 或 ils 要省音为 s'：s'il part、s'ils viennent。这个 si 是疑问连词，不是「如果」的 si。</p><p>从句里不再保留问号；间接疑问整体是一个陈述句。</p><p>注意：一般疑问不能用 que 转述；Il me demande que je viens 不成立。判断时先看原句能不能用「是／否」回答。</p>",
+      "locales": {
+        "fr": {
+          "title": "Rapporter une question totale : la subordonnée introduite par si",
+          "body": "<p>Pour rapporter une question totale (une question à laquelle on peut répondre par oui ou non), on emploie si pour introduire la subordonnée, et non que. On supprime le est-ce que et l'inversion sujet-verbe de l'énoncé d'origine ; la subordonnée revient à l'ordre déclaratif.</p><ul><li>Il me demande : « Tu viens ? » → Il me demande si je viens.</li><li>Elle demande : « Est-ce que tu as fini ? » → Elle demande si j'ai fini.</li><li>Je me demande : « Partira-t-il ? » → Je me demande s'il partira.</li></ul><p>si s'élide devant il ou ils en s' : s'il part, s'ils viennent. Ce si est une conjonction interrogative, non le si conditionnel (« si »).</p><p>La subordonnée ne conserve pas le point d'interrogation : l'ensemble de la question indirecte forme une déclaration.</p><p>Remarque : une question totale ne se rapporte pas avec que ; Il me demande que je viens ne se dit pas. Pour décider, vérifier d'abord si l'énoncé d'origine appelait une réponse par oui ou non.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u2-2",
       "title": "特殊疑问句转述：保留疑问词，改用陈述语序",
-      "body": "<p>转述特殊疑问句时，保留原来的疑问词或整个疑问词组，去掉 est-ce que 和主谓倒装，其余部分按陈述语序排列。</p><ul><li>Il me demande : « Où habites-tu ? » → Il me demande où j'habite.（他问我住在哪里。）</li><li>Elle demande : « Quand est-ce que tu pars ? » → Elle demande quand je pars.（她问我什么时候走。）</li><li>Il demande : « Pourquoi tu ris ? » → Il demande pourquoi je ris.（他问我为什么笑。）</li></ul><p>疑问词是介词短语的一部分时，介词不能丢：Il demande à quelle heure le train part.（他问火车几点开。）——à quelle heure 整个保留。</p><p>疑问形容词 quel、quelle、quels、quelles 要与所修饰的名词性数一致：Elle demande quelles robes sont en solde.（她问哪些裙子在打折。）</p><p>注意：间接疑问里不要保留 est-ce que，也不要写成 où vais-je 这类倒装；语序回到主语加动词。</p>"
+      "body": "<p>转述特殊疑问句时，保留原来的疑问词或整个疑问词组，去掉 est-ce que 和主谓倒装，其余部分按陈述语序排列。</p><ul><li>Il me demande : « Où habites-tu ? » → Il me demande où j'habite.（他问我住在哪里。）</li><li>Elle demande : « Quand est-ce que tu pars ? » → Elle demande quand je pars.（她问我什么时候走。）</li><li>Il demande : « Pourquoi tu ris ? » → Il demande pourquoi je ris.（他问我为什么笑。）</li></ul><p>疑问词是介词短语的一部分时，介词不能丢：Il demande à quelle heure le train part.（他问火车几点开。）——à quelle heure 整个保留。</p><p>疑问形容词 quel、quelle、quels、quelles 要与所修饰的名词性数一致：Elle demande quelles robes sont en solde.（她问哪些裙子在打折。）</p><p>注意：间接疑问里不要保留 est-ce que，也不要写成 où vais-je 这类倒装；语序回到主语加动词。</p>",
+      "locales": {
+        "fr": {
+          "title": "Rapporter une question partielle : garder le mot interrogatif et l'ordre déclaratif",
+          "body": "<p>Pour rapporter une question partielle, on conserve le mot interrogatif ou le groupe interrogatif d'origine, on supprime est-ce que et l'inversion sujet-verbe, et l'on met le reste à l'ordre déclaratif.</p><ul><li>Il me demande : « Où habites-tu ? » → Il me demande où j'habite.</li><li>Elle demande : « Quand est-ce que tu pars ? » → Elle demande quand je pars.</li><li>Il demande : « Pourquoi tu ris ? » → Il demande pourquoi je ris.</li></ul><p>Quand le mot interrogatif fait partie d'un groupe prépositionnel, la préposition ne se perd pas : Il demande à quelle heure le train part. — à quelle heure est conservé en bloc.</p><p>L'adjectif interrogatif quel, quelle, quels, quelles s'accorde avec le nom qu'il détermine : Elle demande quelles robes sont en solde.</p><p>Remarque : dans une question indirecte, on ne garde ni est-ce que ni une inversion du type où vais-je ; l'ordre redevient sujet + verbe.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u2-3",
       "title": "ce que 与 ce qui：转述「什么」",
-      "body": "<p>转述含 qu'est-ce que 或 qu'est-ce qui 的问句时，疑问结构要换成 ce que 或 ce qui，选择取决于它在从句里充当什么成分。</p><ul><li>qu'est-ce que 在原句里作宾语 → ce que：Il me demande : « Qu'est-ce que tu veux ? » → Il me demande ce que je veux.（他问我要什么。）</li><li>qu'est-ce qui 在原句里作主语 → ce qui：Elle demande : « Qu'est-ce qui se passe ? » → Elle demande ce qui se passe.（她问发生了什么事。）</li></ul><p>ce que 遇元音开头省音为 ce qu'：Il demande ce qu'elle veut.（他问她想要什么。）</p><p>判断方法：把从句还原成陈述句，看「什么」的位置。它在动词后作宾语，用 ce que；它在动词前作主语，用 ce qui。</p><ul><li>Je veux quelque chose.（宾语 → ce que je veux）</li><li>Quelque chose se passe.（主语 → ce qui se passe）</li></ul><p>注意：不能按汉语的「什么」一律用 ce que；主语位置必须用 ce qui。</p>"
+      "body": "<p>转述含 qu'est-ce que 或 qu'est-ce qui 的问句时，疑问结构要换成 ce que 或 ce qui，选择取决于它在从句里充当什么成分。</p><ul><li>qu'est-ce que 在原句里作宾语 → ce que：Il me demande : « Qu'est-ce que tu veux ? » → Il me demande ce que je veux.（他问我要什么。）</li><li>qu'est-ce qui 在原句里作主语 → ce qui：Elle demande : « Qu'est-ce qui se passe ? » → Elle demande ce qui se passe.（她问发生了什么事。）</li></ul><p>ce que 遇元音开头省音为 ce qu'：Il demande ce qu'elle veut.（他问她想要什么。）</p><p>判断方法：把从句还原成陈述句，看「什么」的位置。它在动词后作宾语，用 ce que；它在动词前作主语，用 ce qui。</p><ul><li>Je veux quelque chose.（宾语 → ce que je veux）</li><li>Quelque chose se passe.（主语 → ce qui se passe）</li></ul><p>注意：不能按汉语的「什么」一律用 ce que；主语位置必须用 ce qui。</p>",
+      "locales": {
+        "fr": {
+          "title": "ce que et ce qui : rapporter « quoi »",
+          "body": "<p>Pour rapporter une question contenant qu'est-ce que ou qu'est-ce qui, la structure interrogative devient ce que ou ce qui ; le choix dépend de la fonction de l'élément dans la subordonnée.</p><ul><li>qu'est-ce que est complément d'objet dans l'énoncé → ce que : Il me demande : « Qu'est-ce que tu veux ? » → Il me demande ce que je veux.</li><li>qu'est-ce qui est sujet dans l'énoncé → ce qui : Elle demande : « Qu'est-ce qui se passe ? » → Elle demande ce qui se passe.</li></ul><p>ce que s'élide devant une voyelle en ce qu' : Il demande ce qu'elle veut.</p><p>Méthode : remettre la subordonnée à l'ordre déclaratif et repérer la place de « quoi ». S'il est après le verbe, complément d'objet, on emploie ce que ; s'il est avant le verbe, sujet, on emploie ce qui.</p><ul><li>Je veux quelque chose. (objet → ce que je veux)</li><li>Quelque chose se passe. (sujet → ce qui se passe)</li></ul><p>Remarque : on ne rend pas mécaniquement l'interrogatif « quoi » — ni son équivalent chinois — par ce que ; en fonction sujet, il faut ce qui.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u2-4",
       "title": "qui est-ce qui 与 qui est-ce que：都归为 qui",
-      "body": "<p>转述以 qui 开头的问句时，qui est-ce qui 和 qui est-ce que 都简化为 qui，但它在从句里的句法角色决定后面的结构。</p><ul><li>qui est-ce qui 问主语 → qui 加动词：Il demande : « Qui est-ce qui vient ? » → Il demande qui vient.（他问谁来。）</li><li>qui est-ce que 问宾语 → qui 加主语加动词：Il demande : « Qui est-ce que tu invites ? » → Il demande qui tu invites.（他问你邀请谁。）</li></ul><p>两种情况下都不保留 est-ce qui 或 est-ce que，也不倒装。宾语情况下 qui 后面必须出现主语，否则意思会变成「谁来做」。</p><ul><li>正确：Elle demande qui tu invites.（她问你邀请谁。）</li><li>不正确：Elle demande qui invites-tu.（保留倒装）</li></ul><p>注意：qui 作主语时直接接动词；作宾语时后面要跟主语和动词。先判断 qui 在从句里是主语还是宾语，再决定结构。</p>"
+      "body": "<p>转述以 qui 开头的问句时，qui est-ce qui 和 qui est-ce que 都简化为 qui，但它在从句里的句法角色决定后面的结构。</p><ul><li>qui est-ce qui 问主语 → qui 加动词：Il demande : « Qui est-ce qui vient ? » → Il demande qui vient.（他问谁来。）</li><li>qui est-ce que 问宾语 → qui 加主语加动词：Il demande : « Qui est-ce que tu invites ? » → Il demande qui tu invites.（他问你邀请谁。）</li></ul><p>两种情况下都不保留 est-ce qui 或 est-ce que，也不倒装。宾语情况下 qui 后面必须出现主语，否则意思会变成「谁来做」。</p><ul><li>正确：Elle demande qui tu invites.（她问你邀请谁。）</li><li>不正确：Elle demande qui invites-tu.（保留倒装）</li></ul><p>注意：qui 作主语时直接接动词；作宾语时后面要跟主语和动词。先判断 qui 在从句里是主语还是宾语，再决定结构。</p>",
+      "locales": {
+        "fr": {
+          "title": "qui est-ce qui et qui est-ce que : les deux deviennent qui",
+          "body": "<p>Pour rapporter une question commençant par qui, qui est-ce qui et qui est-ce que se réduisent tous deux à qui, mais la fonction syntaxique de qui dans la subordonnée détermine la structure qui suit.</p><ul><li>qui est-ce qui porte sur le sujet → qui + verbe : Il demande : « Qui est-ce qui vient ? » → Il demande qui vient.</li><li>qui est-ce que porte sur l'objet → qui + sujet + verbe : Il demande : « Qui est-ce que tu invites ? » → Il demande qui tu invites.</li></ul><p>Dans les deux cas, on ne conserve ni est-ce qui ni est-ce que, et l'on n'inverse pas. Dans le cas de l'objet, le sujet doit apparaître après qui, sinon le sens devient « qui vient / qui fait l'action ».</p><ul><li>Correct : Elle demande qui tu invites.</li><li>Incorrect : Elle demande qui invites-tu. (inversion conservée)</li></ul><p>Remarque : quand qui est sujet, il est directement suivi du verbe ; quand il est objet, il est suivi du sujet puis du verbe. Déterminer d'abord la fonction de qui dans la subordonnée, puis choisir la structure.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u2-5",
       "title": "疑问句转述的判断顺序",
-      "body": "<p>转述疑问句可以按下面的顺序：</p><ol><li>判断原句是一般疑问还是特殊疑问。能用「是／否」回答的，用 si；有疑问词的，保留疑问词。</li><li>去掉 est-ce que 和主谓倒装，回到陈述语序。</li><li>处理「什么」：作主语用 ce qui，作宾语用 ce que；qui est-ce qui 和 qui est-ce que 都归为 qui，再判断主语还是宾语。</li><li>检查介词、疑问形容词和整个疑问词组是否完整保留，si 遇 il/ils 是否省音。</li></ol><p>例：Il m'a demandé : « Qu'est-ce que tu fais dans la vie ? » → Il m'a demandé ce que je faisais dans la vie.（他问我做什么工作。）——去掉 est-ce que，用 ce que，语序改为陈述语序。</p><p>注意：疑问句转述不是把原句逐词搬进从句；est-ce que、倒装和问号都要去掉，人称和时态按转述情境调整。</p>"
+      "body": "<p>转述疑问句可以按下面的顺序：</p><ol><li>判断原句是一般疑问还是特殊疑问。能用「是／否」回答的，用 si；有疑问词的，保留疑问词。</li><li>去掉 est-ce que 和主谓倒装，回到陈述语序。</li><li>处理「什么」：作主语用 ce qui，作宾语用 ce que；qui est-ce qui 和 qui est-ce que 都归为 qui，再判断主语还是宾语。</li><li>检查介词、疑问形容词和整个疑问词组是否完整保留，si 遇 il/ils 是否省音。</li></ol><p>例：Il m'a demandé : « Qu'est-ce que tu fais dans la vie ? » → Il m'a demandé ce que je faisais dans la vie.（他问我做什么工作。）——去掉 est-ce que，用 ce que，语序改为陈述语序。</p><p>注意：疑问句转述不是把原句逐词搬进从句；est-ce que、倒装和问号都要去掉，人称和时态按转述情境调整。</p>",
+      "locales": {
+        "fr": {
+          "title": "Ordre d'analyse pour rapporter une question",
+          "body": "<p>Pour rapporter une question, on peut suivre l'ordre suivant :</p><ol><li>Déterminer si l'énoncé est une question totale ou partielle. Si l'on peut répondre par oui ou non, employer si ; s'il y a un mot interrogatif, le conserver.</li><li>Supprimer est-ce que et l'inversion sujet-verbe, puis revenir à l'ordre déclaratif.</li><li>Traiter « quoi » : sujet → ce qui, objet → ce que ; qui est-ce qui et qui est-ce que se réduisent tous deux à qui, puis l'on détermine s'il est sujet ou objet.</li><li>Vérifier que les prépositions, l'adjectif interrogatif et le groupe interrogatif sont conservés en entier, et que si s'élide devant il/ils.</li></ol><p>Exemple : Il m'a demandé : « Qu'est-ce que tu fais dans la vie ? » → Il m'a demandé ce que je faisais dans la vie. — on supprime est-ce que, on emploie ce que et l'on revient à l'ordre déclaratif.</p><p>Remarque : rapporter une question ne consiste pas à recopier l'énoncé mot pour mot dans la subordonnée ; est-ce que, l'inversion et le point d'interrogation disparaissent, et les personnes comme les temps s'ajustent à la situation du discours rapporté.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u3-1",
       "title": "命令式转述：de + 不定式",
-      "body": "<p>间接引语（discours indirect，用自己的话复述别人说的话）里，命令式（impératif，直接对听话人发出指令的动词形式，如 Ferme ! / Fermez !）不保留原来的变位，而改用 dire、demander、conseiller 等动词 + à qn + de + 不定式（infinitif，动词原形，不按人称变位）。</p><ul><li>« Ferme la porte ! » → Il m'a dit de fermer la porte.（他让我关门。）</li><li>« Partez tout de suite ! » → Elle nous a demandé de partir tout de suite.（她让我们马上出发。）</li><li>« Prends ce livre. » → Il m'a conseillé de prendre ce livre.（他建议我拿这本书。）</li></ul><p>de 引出的是不定式从句，动作的执行者由前面动词的间接宾语体现：Il m'a dit de partir 是「他让我走」；要说出执行者，就用 à + 名词或代词：Il a dit à Paul de partir。命令式原来的人称（tu / vous / nous）在转述中消失，只保留动作内容。</p><p>dire 较中性，demander 强调请求，conseiller 表示建议，ordonner 语气更强；选择哪个动词要看原话的语气。</p><p>注意：不要用 que + 从句来转述命令；de 后面的动词保持不定式，不随新的主语变位。</p>"
+      "body": "<p>间接引语（discours indirect，用自己的话复述别人说的话）里，命令式（impératif，直接对听话人发出指令的动词形式，如 Ferme ! / Fermez !）不保留原来的变位，而改用 dire、demander、conseiller 等动词 + à qn + de + 不定式（infinitif，动词原形，不按人称变位）。</p><ul><li>« Ferme la porte ! » → Il m'a dit de fermer la porte.（他让我关门。）</li><li>« Partez tout de suite ! » → Elle nous a demandé de partir tout de suite.（她让我们马上出发。）</li><li>« Prends ce livre. » → Il m'a conseillé de prendre ce livre.（他建议我拿这本书。）</li></ul><p>de 引出的是不定式从句，动作的执行者由前面动词的间接宾语体现：Il m'a dit de partir 是「他让我走」；要说出执行者，就用 à + 名词或代词：Il a dit à Paul de partir。命令式原来的人称（tu / vous / nous）在转述中消失，只保留动作内容。</p><p>dire 较中性，demander 强调请求，conseiller 表示建议，ordonner 语气更强；选择哪个动词要看原话的语气。</p><p>注意：不要用 que + 从句来转述命令；de 后面的动词保持不定式，不随新的主语变位。</p>",
+      "locales": {
+        "fr": {
+          "title": "Rapporter un ordre : de + infinitif",
+          "body": "<p>Au discours indirect (le fait de rapporter les paroles de quelqu'un avec ses propres mots), l'impératif (la forme verbale qui adresse directement un ordre à l'interlocuteur, comme Ferme ! / Fermez !) ne conserve pas sa conjugaison : on emploie un verbe comme dire, demander ou conseiller + à qn + de + infinitif (forme non conjuguée du verbe).</p><ul><li>« Ferme la porte ! » → Il m'a dit de fermer la porte.</li><li>« Partez tout de suite ! » → Elle nous a demandé de partir tout de suite.</li><li>« Prends ce livre. » → Il m'a conseillé de prendre ce livre.</li></ul><p>de introduit une proposition infinitive, et l'auteur de l'action apparaît comme complément d'objet indirect du verbe introducteur : Il m'a dit de partir signifie « il m'a demandé de partir » ; pour nommer l'auteur, on emploie à + nom ou pronom : Il a dit à Paul de partir. La personne d'origine (tu / vous / nous) disparaît dans le discours rapporté ; seul le contenu de l'action est conservé.</p><p>dire est neutre, demander insiste sur la requête, conseiller exprime un conseil et ordonner un ton plus fort ; le choix du verbe dépend du ton de l'énoncé d'origine.</p><p>Remarque : on ne rapporte pas un ordre avec que + subordonnée ; le verbe après de reste à l'infinitif et ne se conjugue pas avec le nouveau sujet.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u3-2",
       "title": "命令转述里的人称、物主词与宾语代词",
-      "body": "<p>命令转述除了换结构，还要把原话里的人称、物主词（mon、ton、son 等，表示所属）和宾语代词按新的转述关系重排。判断顺序是：先确定原说话人、原听话人和现在的转述对象，再逐一换。</p><ul><li>Paul à Marie : « Ferme ta fenêtre ! » → Paul a demandé à Marie de fermer sa fenêtre.（保罗让玛丽关她的窗户。）——ta 指玛丽，转述后作 sa。</li><li>Marie à Paul : « Écris-moi ! » → Paul rapporte : « Marie m'a demandé de lui écrire. »（玛丽让我给她写信。）——moi 指玛丽，转述后作 lui。</li><li>« Donne-moi ton adresse. » (Paul à Marie) → Paul a demandé à Marie de lui donner son adresse.（保罗让玛丽把她的地址给他。）——moi 指保罗，作 lui；ton adresse 指玛丽，作 son adresse。</li><li>« Ne me réveille pas. » (Paul à sa sœur) → Paul a demandé à sa sœur de ne pas le réveiller.（保罗让姐姐别叫醒他。）——me 指保罗，作直接宾语 le。</li></ul><p>物主词看它修饰的名词属于谁，不能按原句的 mon / ton 机械替换；宾语代词则要看它在新句子里作直接宾语还是间接宾语。代词放在不定式前：de lui écrire、de le réveiller、de ne pas me le donner。</p><p>注意：不要只换主语而漏掉宾语代词；同一句原话在不同转述关系下可能有不同改法，先确定谁在向谁说。</p>"
+      "body": "<p>命令转述除了换结构，还要把原话里的人称、物主词（mon、ton、son 等，表示所属）和宾语代词按新的转述关系重排。判断顺序是：先确定原说话人、原听话人和现在的转述对象，再逐一换。</p><ul><li>Paul à Marie : « Ferme ta fenêtre ! » → Paul a demandé à Marie de fermer sa fenêtre.（保罗让玛丽关她的窗户。）——ta 指玛丽，转述后作 sa。</li><li>Marie à Paul : « Écris-moi ! » → Paul rapporte : « Marie m'a demandé de lui écrire. »（玛丽让我给她写信。）——moi 指玛丽，转述后作 lui。</li><li>« Donne-moi ton adresse. » (Paul à Marie) → Paul a demandé à Marie de lui donner son adresse.（保罗让玛丽把她的地址给他。）——moi 指保罗，作 lui；ton adresse 指玛丽，作 son adresse。</li><li>« Ne me réveille pas. » (Paul à sa sœur) → Paul a demandé à sa sœur de ne pas le réveiller.（保罗让姐姐别叫醒他。）——me 指保罗，作直接宾语 le。</li></ul><p>物主词看它修饰的名词属于谁，不能按原句的 mon / ton 机械替换；宾语代词则要看它在新句子里作直接宾语还是间接宾语。代词放在不定式前：de lui écrire、de le réveiller、de ne pas me le donner。</p><p>注意：不要只换主语而漏掉宾语代词；同一句原话在不同转述关系下可能有不同改法，先确定谁在向谁说。</p>",
+      "locales": {
+        "fr": {
+          "title": "Personnes, possessifs et pronoms objets dans le discours rapporté d'un ordre",
+          "body": "<p>Rapporter un ordre ne consiste pas seulement à changer la structure : il faut aussi réorganiser les personnes, les possessifs (mon, ton, son, etc., qui marquent l'appartenance) et les pronoms objets selon la nouvelle situation du discours rapporté. L'ordre d'analyse est le suivant : identifier le locuteur d'origine, l'interlocuteur d'origine et le destinataire actuel du discours rapporté, puis remplacer un à un.</p><ul><li>Paul à Marie : « Ferme ta fenêtre ! » → Paul a demandé à Marie de fermer sa fenêtre. — ta désigne Marie, d'où sa après le discours rapporté.</li><li>Marie à Paul : « Écris-moi ! » → Paul rapporte : « Marie m'a demandé de lui écrire. » — moi désigne Marie, d'où lui.</li><li>« Donne-moi ton adresse. » (Paul à Marie) → Paul a demandé à Marie de lui donner son adresse. — moi désigne Paul, d'où lui ; ton adresse désigne Marie, d'où son adresse.</li><li>« Ne me réveille pas. » (Paul à sa sœur) → Paul a demandé à sa sœur de ne pas le réveiller. — me désigne Paul et devient le complément d'objet direct le.</li></ul><p>Le possessif dépend du nom auquel il se rapporte et de son propriétaire : on ne remplace pas mon / ton machinalement. Le pronom objet dépend de sa fonction dans la nouvelle phrase, complément d'objet direct ou indirect. Les pronoms se placent devant l'infinitif : de lui écrire, de le réveiller, de ne pas me le donner.</p><p>Remarque : ne pas changer seulement le sujet en oubliant les pronoms objets ; une même parole peut se rapporter de plusieurs façons selon qui parle et à qui, d'où la nécessité de fixer d'abord la situation d'énonciation.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u3-3",
       "title": "否定命令的转述：de ne pas + 不定式（识别）",
-      "body": "<p>否定命令式（如 Ne pars pas !）转述为 de ne pas + 不定式：否定词 ne pas 整体放在不定式前，de 位于最前面。</p><ul><li>« Ne pars pas ! » → Il m'a dit de ne pas partir.（他让我别走。）</li><li>« Ne touche pas à ce bouton ! » → Elle nous a demandé de ne pas toucher à ce bouton.（她让我们别碰那个按钮。）</li><li>« Ne me téléphone pas ce soir. » → Il m'a demandé de ne pas lui téléphoner ce soir.（他让我今晚别给他打电话。）</li></ul><p>结构顺序固定：de + ne pas + 不定式。不能写成 de ne partir pas，也不能把 ne pas 拆到 de 前后。</p><p>识别时看两点：前面是 de，后面是 ne pas + 不定式。若看到 pour ne pas + 不定式，那是「为了不……」，表示否定目的，不是命令转述。肯定命令中 de 直接遇到元音开头的动词才省音，如 d'attendre；否定命令中 de 后面是 ne，不发生省音，仍写 de ne pas attendre。</p><p>注意：不要把 de ne pas + 不定式与 pour ne pas + 不定式混淆：前者是命令转述，后者是目的。</p>"
+      "body": "<p>否定命令式（如 Ne pars pas !）转述为 de ne pas + 不定式：否定词 ne pas 整体放在不定式前，de 位于最前面。</p><ul><li>« Ne pars pas ! » → Il m'a dit de ne pas partir.（他让我别走。）</li><li>« Ne touche pas à ce bouton ! » → Elle nous a demandé de ne pas toucher à ce bouton.（她让我们别碰那个按钮。）</li><li>« Ne me téléphone pas ce soir. » → Il m'a demandé de ne pas lui téléphoner ce soir.（他让我今晚别给他打电话。）</li></ul><p>结构顺序固定：de + ne pas + 不定式。不能写成 de ne partir pas，也不能把 ne pas 拆到 de 前后。</p><p>识别时看两点：前面是 de，后面是 ne pas + 不定式。若看到 pour ne pas + 不定式，那是「为了不……」，表示否定目的，不是命令转述。肯定命令中 de 直接遇到元音开头的动词才省音，如 d'attendre；否定命令中 de 后面是 ne，不发生省音，仍写 de ne pas attendre。</p><p>注意：不要把 de ne pas + 不定式与 pour ne pas + 不定式混淆：前者是命令转述，后者是目的。</p>",
+      "locales": {
+        "fr": {
+          "title": "Rapporter un ordre négatif : de ne pas + infinitif (reconnaissance)",
+          "body": "<p>Un impératif négatif (comme Ne pars pas !) se rapporte avec de ne pas + infinitif : ne pas se place en bloc devant l'infinitif, et de reste en tête.</p><ul><li>« Ne pars pas ! » → Il m'a dit de ne pas partir.</li><li>« Ne touche pas à ce bouton ! » → Elle nous a demandé de ne pas toucher à ce bouton.</li><li>« Ne me téléphone pas ce soir. » → Il m'a demandé de ne pas lui téléphoner ce soir.</li></ul><p>L'ordre est fixe : de + ne pas + infinitif. On n'écrit ni de ne partir pas, ni ne pas séparé de part et d'autre de de.</p><p>Pour le reconnaître, regarder deux points : de devant, puis ne pas + infinitif. Si l'on voit pour ne pas + infinitif, il s'agit d'un but négatif (« pour ne pas... »), non d'un ordre rapporté. Dans un ordre affirmatif, de s'élide seulement devant un verbe commençant par une voyelle, comme d'attendre ; dans un ordre négatif, de est suivi de ne et ne s'élide pas : on écrit de ne pas attendre.</p><p>Remarque : ne pas confondre de ne pas + infinitif avec pour ne pas + infinitif : le premier rapporte un ordre, le second exprime un but.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u4-1",
       "title": "指称：谁、何时、何地",
-      "body": "<p>指称（référence）指词语在具体语境中指向谁、什么时间、什么地点。直接引语（带引号的原话）里的 je、tu、ici、demain 都以原说话人和原说话现场为锚点；转述成间接引语后锚点变了，这些词要重新定位。这类依赖说话情境的词叫指示词（déictiques）。</p><p>人称是第一层：原说话人、原听话人、现在的转述对象三者关系决定代词。</p><ul><li>Paul à Marie : « Je te retrouve ici demain. » → Paul a dit à Marie qu'il la retrouvait là-bas le lendemain.（保罗对玛丽说，他第二天会在那里和她碰面；转述者在别处）——je → il，te → la，ici → là-bas，demain → le lendemain。</li></ul><p>若转述者就是原听话人，tu / te 通常要改成 je / me：</p><ul><li>原话 Paul à Marie : « Je t'attends. »</li><li>玛丽对朋友说：Paul m'attend.（te → me）</li><li>保罗对朋友说：J'ai dit à Marie que je l'attendais.（te → la）</li></ul><p>物主词同样按所属关系重排：mon / ton / son 看名词属于谁；notre 指说话一方全体，leur / leurs 指第三方全体。</p><p>注意：人称调整没有一一对应的公式，先画清楚「谁对谁说、现在谁在说」再换；只改主语、漏掉宾语代词是最常见的错误。</p>"
+      "body": "<p>指称（référence）指词语在具体语境中指向谁、什么时间、什么地点。直接引语（带引号的原话）里的 je、tu、ici、demain 都以原说话人和原说话现场为锚点；转述成间接引语后锚点变了，这些词要重新定位。这类依赖说话情境的词叫指示词（déictiques）。</p><p>人称是第一层：原说话人、原听话人、现在的转述对象三者关系决定代词。</p><ul><li>Paul à Marie : « Je te retrouve ici demain. » → Paul a dit à Marie qu'il la retrouvait là-bas le lendemain.（保罗对玛丽说，他第二天会在那里和她碰面；转述者在别处）——je → il，te → la，ici → là-bas，demain → le lendemain。</li></ul><p>若转述者就是原听话人，tu / te 通常要改成 je / me：</p><ul><li>原话 Paul à Marie : « Je t'attends. »</li><li>玛丽对朋友说：Paul m'attend.（te → me）</li><li>保罗对朋友说：J'ai dit à Marie que je l'attendais.（te → la）</li></ul><p>物主词同样按所属关系重排：mon / ton / son 看名词属于谁；notre 指说话一方全体，leur / leurs 指第三方全体。</p><p>注意：人称调整没有一一对应的公式，先画清楚「谁对谁说、现在谁在说」再换；只改主语、漏掉宾语代词是最常见的错误。</p>",
+      "locales": {
+        "fr": {
+          "title": "Référence : qui, quand, où",
+          "body": "<p>La référence désigne ce à quoi les mots renvoient dans un contexte précis : une personne, un moment, un lieu. Dans le discours direct (les paroles citées entre guillemets), je, tu, ici et demain ont pour ancrage le locuteur d'origine et la situation d'origine ; après le passage au discours indirect, l'ancrage change et ces mots doivent être repositionnés. Ces mots dépendants de la situation d'énonciation sont appelés déictiques.</p><p>Les personnes forment le premier niveau : la relation entre le locuteur d'origine, l'interlocuteur d'origine et le destinataire actuel du discours rapporté détermine le choix des pronoms.</p><ul><li>Paul à Marie : « Je te retrouve ici demain. » → Paul a dit à Marie qu'il la retrouvait là-bas le lendemain. (le rapporteur se trouve ailleurs) — je → il, te → la, ici → là-bas, demain → le lendemain.</li></ul><p>Si le rapporteur est l'interlocuteur d'origine, tu / te deviennent généralement je / me :</p><ul><li>Énoncé d'origine, Paul à Marie : « Je t'attends. »</li><li>Marie rapporte à une amie : Paul m'attend. (te → me)</li><li>Paul rapporte à un ami : J'ai dit à Marie que je l'attendais. (te → la)</li></ul><p>Les possessifs se réorganisent de la même façon selon l'appartenance : mon / ton / son dépendent du propriétaire du nom ; notre renvoie à l'ensemble du groupe du locuteur, leur / leurs à un groupe tiers.</p><p>Remarque : il n'existe pas de formule de conversion univoque pour les personnes ; il faut d'abord établir clairement « qui parle à qui, et qui parle maintenant ». Changer seulement le sujet et oublier les pronoms objets est l'erreur la plus fréquente.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u4-2",
       "title": "宾语代词与自反代词：跟着新句法走",
-      "body": "<p>宾语代词（le、la、les、lui、leur 等，代替动词的宾语）在转述中要按新的句法角色重选：第三人称直接宾语用 le / la / les，第三人称间接宾语用 lui / leur，自反代词（如 me、te、se，表示动作回到主语自身）在第三人称用 se。</p><ul><li>« Je te vois. » (Paul à Marie) → Paul a dit à Marie qu'il la voyait.（保罗对玛丽说，他看见她。）——te 指玛丽，作直接宾语 la。</li><li>« Je me suis trompé. » (Paul) → Paul a reconnu qu'il s'était trompé.（保罗承认他弄错了。）——me 随新主语 il 变为 se。</li><li>« Donne-moi le livre. » (Paul à Marie) → Paul a demandé à Marie de lui donner le livre.（保罗让玛丽把书给他。）——moi 指保罗，作间接宾语 lui。</li></ul><p>判断步骤：先看原代词指谁；再看它在新句子里作主语、直接宾语、间接宾语还是自反；最后选形式并放对位置。代词通常放在变位动词前；在 de + 不定式中，放在不定式前。</p><p>注意：l' 是 le 还是 la、les 指哪些对象，都要回到上文判断；不要把所有 me / te 都换成 lui / leur，直接宾语和间接宾语的形式不同。</p>"
+      "body": "<p>宾语代词（le、la、les、lui、leur 等，代替动词的宾语）在转述中要按新的句法角色重选：第三人称直接宾语用 le / la / les，第三人称间接宾语用 lui / leur，自反代词（如 me、te、se，表示动作回到主语自身）在第三人称用 se。</p><ul><li>« Je te vois. » (Paul à Marie) → Paul a dit à Marie qu'il la voyait.（保罗对玛丽说，他看见她。）——te 指玛丽，作直接宾语 la。</li><li>« Je me suis trompé. » (Paul) → Paul a reconnu qu'il s'était trompé.（保罗承认他弄错了。）——me 随新主语 il 变为 se。</li><li>« Donne-moi le livre. » (Paul à Marie) → Paul a demandé à Marie de lui donner le livre.（保罗让玛丽把书给他。）——moi 指保罗，作间接宾语 lui。</li></ul><p>判断步骤：先看原代词指谁；再看它在新句子里作主语、直接宾语、间接宾语还是自反；最后选形式并放对位置。代词通常放在变位动词前；在 de + 不定式中，放在不定式前。</p><p>注意：l' 是 le 还是 la、les 指哪些对象，都要回到上文判断；不要把所有 me / te 都换成 lui / leur，直接宾语和间接宾语的形式不同。</p>",
+      "locales": {
+        "fr": {
+          "title": "Pronoms objets et pronoms réfléchis : suivre la nouvelle syntaxe",
+          "body": "<p>Dans le discours rapporté, les pronoms objets (le, la, les, lui, leur, etc., qui remplacent le complément du verbe) doivent être choisis selon leur nouvelle fonction syntaxique : complément d'objet direct de la troisième personne → le / la / les ; complément d'objet indirect de la troisième personne → lui / leur ; pronom réfléchi (me, te, se, etc., quand l'action revient au sujet) → se à la troisième personne.</p><ul><li>« Je te vois. » (Paul à Marie) → Paul a dit à Marie qu'il la voyait. — te désigne Marie et devient le complément d'objet direct la.</li><li>« Je me suis trompé. » (Paul) → Paul a reconnu qu'il s'était trompé. — me suit le nouveau sujet il et devient se.</li><li>« Donne-moi le livre. » (Paul à Marie) → Paul a demandé à Marie de lui donner le livre. — moi désigne Paul et devient le complément d'objet indirect lui.</li></ul><p>Méthode : identifier d'abord ce que le pronom d'origine désigne ; déterminer ensuite sa fonction dans la nouvelle phrase (sujet, objet direct, objet indirect ou réfléchi) ; choisir enfin la forme et la place. Le pronom se place généralement devant le verbe conjugué ; dans de + infinitif, il se place devant l'infinitif.</p><p>Remarque : il faut vérifier dans le contexte si l' désigne le ou la, et à quels objets renvoie les ; ne pas transformer tous les me / te en lui / leur, car les formes du complément d'objet direct et celles du complément d'objet indirect diffèrent.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u4-3",
       "title": "时间指示词：hier、aujourd'hui、demain",
-      "body": "<p>时间指示词（déictiques temporels）以说话时刻为参照。转述时间晚于原话时，要把这些词换成以原话时间为参照的说法。</p><ul><li>hier → la veille（前一天）</li><li>aujourd'hui → ce jour-là（那一天）</li><li>demain → le lendemain（第二天）</li><li>ce soir → ce soir-là</li><li>la semaine dernière → la semaine précédente</li><li>la semaine prochaine → la semaine suivante</li><li>il y a deux jours → deux jours plus tôt / auparavant</li><li>dans deux jours → deux jours plus tard / deux jours après</li><li>maintenant → à ce moment-là / alors</li></ul><ul><li>« J'ai vu Julie hier. » → Il a dit qu'il avait vu Julie la veille.（他说他前一天看见了朱莉。）</li><li>« Je pars aujourd'hui. » → Elle a dit qu'elle partait ce jour-là.（她说她那天出发。）</li><li>« Je reviens la semaine prochaine. » → Il a annoncé qu'il revenait la semaine suivante.（他宣布他会在接下来那一周回来。）</li></ul><p>这些对应不是无条件套用：如果转述与原话在同一天，demain 仍然是同一个明天，可以保留；如果原话的时间词在转述时仍然适用，也不必改。判断标准是：这个词在转述语境里还指不指同一个时间点。转换后的 précédent / suivant 要与所修饰名词的性数一致：la semaine précédente、les mois précédents、les jours suivants。</p><p>注意：转述时间点是决定因素，不要看到 hier 就一律改 la veille；先问「转述发生在什么时候」。</p>"
+      "body": "<p>时间指示词（déictiques temporels）以说话时刻为参照。转述时间晚于原话时，要把这些词换成以原话时间为参照的说法。</p><ul><li>hier → la veille（前一天）</li><li>aujourd'hui → ce jour-là（那一天）</li><li>demain → le lendemain（第二天）</li><li>ce soir → ce soir-là</li><li>la semaine dernière → la semaine précédente</li><li>la semaine prochaine → la semaine suivante</li><li>il y a deux jours → deux jours plus tôt / auparavant</li><li>dans deux jours → deux jours plus tard / deux jours après</li><li>maintenant → à ce moment-là / alors</li></ul><ul><li>« J'ai vu Julie hier. » → Il a dit qu'il avait vu Julie la veille.（他说他前一天看见了朱莉。）</li><li>« Je pars aujourd'hui. » → Elle a dit qu'elle partait ce jour-là.（她说她那天出发。）</li><li>« Je reviens la semaine prochaine. » → Il a annoncé qu'il revenait la semaine suivante.（他宣布他会在接下来那一周回来。）</li></ul><p>这些对应不是无条件套用：如果转述与原话在同一天，demain 仍然是同一个明天，可以保留；如果原话的时间词在转述时仍然适用，也不必改。判断标准是：这个词在转述语境里还指不指同一个时间点。转换后的 précédent / suivant 要与所修饰名词的性数一致：la semaine précédente、les mois précédents、les jours suivants。</p><p>注意：转述时间点是决定因素，不要看到 hier 就一律改 la veille；先问「转述发生在什么时候」。</p>",
+      "locales": {
+        "fr": {
+          "title": "Indicateurs temporels : hier, aujourd'hui, demain",
+          "body": "<p>Les indicateurs temporels (déictiques de temps) prennent pour repère le moment de l'énonciation. Quand le discours rapporté est postérieur à l'énoncé d'origine, ces mots sont remplacés par des expressions qui prennent pour repère le moment de l'énoncé d'origine.</p><ul><li>hier → la veille</li><li>aujourd'hui → ce jour-là</li><li>demain → le lendemain</li><li>ce soir → ce soir-là</li><li>la semaine dernière → la semaine précédente</li><li>la semaine prochaine → la semaine suivante</li><li>il y a deux jours → deux jours plus tôt / auparavant</li><li>dans deux jours → deux jours plus tard / deux jours après</li><li>maintenant → à ce moment-là / alors</li></ul><ul><li>« J'ai vu Julie hier. » → Il a dit qu'il avait vu Julie la veille.</li><li>« Je pars aujourd'hui. » → Elle a dit qu'elle partait ce jour-là.</li><li>« Je reviens la semaine prochaine. » → Il a annoncé qu'il revenait la semaine suivante.</li></ul><p>Ces correspondances ne s'appliquent pas mécaniquement : si le discours rapporté a lieu le même jour que l'énoncé d'origine, demain désigne toujours le même lendemain et peut rester ; si l'indicateur temporel d'origine convient encore au moment du discours rapporté, il n'est pas obligatoire de le changer. Le critère est de savoir si le mot renvoie encore au même moment dans la nouvelle situation. précédent / suivant s'accordent avec le nom qu'ils déterminent : la semaine précédente, les mois précédents, les jours suivants.</p><p>Remarque : c'est le moment du discours rapporté qui décide ; ne pas remplacer systématiquement hier par la veille. Demander d'abord : quand le discours rapporté est-il prononcé ?</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u4-4",
       "title": "地点指示词：ici、là、là-bas",
-      "body": "<p>地点指示词（déictiques spatiaux）以说话地点为参照。转述地点变了，地点词也要重新定位。</p><ul><li>ici → là / là-bas（转述者不在原地点时，通常用 là-bas 强调距离）</li><li>là → ici（转述者就在原地点时）</li><li>là-bas → ici（转述者到了原话所指的地方时）</li><li>cette ville → cette ville-là（远指）</li></ul><ul><li>« Je travaille ici depuis un an. » (à Paris) → Il a dit qu'il travaillait là-bas depuis un an.（转述者在另一座城市）</li><li>« Je t'attends ici. » (在车站) → 转述者仍在车站：Il m'a dit qu'il m'attendait ici.（地点没变，ici 保留）</li><li>« Je t'attends là. » (在图书馆) → 玛丽到了图书馆：Il m'a dit qu'il m'attendait ici.（là → ici）</li></ul><p>地点转换取决于转述者实际在哪里，不能无条件把 ici 换成 là-bas。若转述地点不变，ici 保持不变；若转述者到了原话所指的地点，原话的 là / là-bas 反而可能变 ici。相关动词也可能要调整：原话 venir（朝说话人来）在转述中可能变 aller（朝别处去），因为参照点变了。</p><p>注意：先确定「原话在哪里说、现在在哪里转述」，再选 ici / là / là-bas；不要只按字面替换。</p>"
+      "body": "<p>地点指示词（déictiques spatiaux）以说话地点为参照。转述地点变了，地点词也要重新定位。</p><ul><li>ici → là / là-bas（转述者不在原地点时，通常用 là-bas 强调距离）</li><li>là → ici（转述者就在原地点时）</li><li>là-bas → ici（转述者到了原话所指的地方时）</li><li>cette ville → cette ville-là（远指）</li></ul><ul><li>« Je travaille ici depuis un an. » (à Paris) → Il a dit qu'il travaillait là-bas depuis un an.（转述者在另一座城市）</li><li>« Je t'attends ici. » (在车站) → 转述者仍在车站：Il m'a dit qu'il m'attendait ici.（地点没变，ici 保留）</li><li>« Je t'attends là. » (在图书馆) → 玛丽到了图书馆：Il m'a dit qu'il m'attendait ici.（là → ici）</li></ul><p>地点转换取决于转述者实际在哪里，不能无条件把 ici 换成 là-bas。若转述地点不变，ici 保持不变；若转述者到了原话所指的地点，原话的 là / là-bas 反而可能变 ici。相关动词也可能要调整：原话 venir（朝说话人来）在转述中可能变 aller（朝别处去），因为参照点变了。</p><p>注意：先确定「原话在哪里说、现在在哪里转述」，再选 ici / là / là-bas；不要只按字面替换。</p>",
+      "locales": {
+        "fr": {
+          "title": "Indicateurs de lieu : ici, là, là-bas",
+          "body": "<p>Les indicateurs de lieu (déictiques spatiaux) prennent pour repère le lieu de l'énonciation. Si le lieu du discours rapporté change, les mots de lieu doivent être repositionnés.</p><ul><li>ici → là / là-bas (quand le rapporteur n'est pas sur le lieu d'origine, on emploie souvent là-bas pour marquer la distance)</li><li>là → ici (quand le rapporteur se trouve sur le lieu d'origine)</li><li>là-bas → ici (quand le rapporteur est arrivé sur le lieu désigné par l'énoncé d'origine)</li><li>cette ville → cette ville-là (désignation distante)</li></ul><ul><li>« Je travaille ici depuis un an. » (à Paris) → Il a dit qu'il travaillait là-bas depuis un an. (le rapporteur est dans une autre ville)</li><li>« Je t'attends ici. » (à la gare) → le rapporteur est encore à la gare : Il m'a dit qu'il m'attendait ici. (le lieu n'a pas changé, ici est conservé)</li><li>« Je t'attends là. » (à la bibliothèque) → Marie est arrivée à la bibliothèque : Il m'a dit qu'il m'attendait ici. (là → ici)</li></ul><p>Le passage d'un indicateur à l'autre dépend du lieu réel du rapporteur : on ne remplace pas ici par là-bas de façon automatique. Si le lieu du discours rapporté ne change pas, ici reste ; si le rapporteur est arrivé sur le lieu désigné par l'énoncé d'origine, le là / là-bas d'origine peut au contraire devenir ici. Le verbe lui-même peut changer : le venir d'origine (vers le locuteur) peut devenir aller (vers un autre lieu), puisque le repère a changé.</p><p>Remarque : déterminer d'abord « où l'énoncé a été prononcé, et où le discours est rapporté », puis choisir ici / là / là-bas ; ne pas se contenter d'un remplacement littéral.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u4-5",
       "title": "综合判断顺序：语境、结构、人称、时态、指示词",
-      "body": "<p>转述一句话，按下面顺序处理，可以避免只顾一项、漏掉其他项：</p><ol><li>还原语境：谁对谁说、什么时候、在哪里。</li><li>定结构：陈述句用 que，一般疑问用 si，特殊疑问保留疑问词，命令用 de + 不定式。</li><li>调人称：主语、宾语代词、自反代词、物主词。</li><li>调时态：引导动词是过去时，按原话时间与参照点的关系处理，这种时态后移叫回溯（backshift）；回溯不是机械降一级，仍有效的事实、持续的习惯等要按语境判断。</li><li>调时间、地点指示词：以转述时刻和转述地点为准。</li><li>检查配合：表语形容词、过去分词按新结构判断。</li></ol><p>例：Paul à Marie, hier, à la gare : « Je t'attends ici demain avec mon frère. » → Marie rapporte aujourd'hui, chez elle : Paul m'a dit qu'il m'attendait là-bas le lendemain avec son frère.（je → il，te → me，ici → là-bas，demain → le lendemain，mon → son，现在时 → 未完成过去时。）</p><p>命令句也按同样的顺序处理：先换成 de + 不定式，再调人称和时间地点。</p><p>注意：转述不是逐词替换；同一句话在不同转述关系下会有不同版本，判断依据始终是新的说话情境。</p>"
+      "body": "<p>转述一句话，按下面顺序处理，可以避免只顾一项、漏掉其他项：</p><ol><li>还原语境：谁对谁说、什么时候、在哪里。</li><li>定结构：陈述句用 que，一般疑问用 si，特殊疑问保留疑问词，命令用 de + 不定式。</li><li>调人称：主语、宾语代词、自反代词、物主词。</li><li>调时态：引导动词是过去时，按原话时间与参照点的关系处理，这种时态后移叫回溯（backshift）；回溯不是机械降一级，仍有效的事实、持续的习惯等要按语境判断。</li><li>调时间、地点指示词：以转述时刻和转述地点为准。</li><li>检查配合：表语形容词、过去分词按新结构判断。</li></ol><p>例：Paul à Marie, hier, à la gare : « Je t'attends ici demain avec mon frère. » → Marie rapporte aujourd'hui, chez elle : Paul m'a dit qu'il m'attendait là-bas le lendemain avec son frère.（je → il，te → me，ici → là-bas，demain → le lendemain，mon → son，现在时 → 未完成过去时。）</p><p>命令句也按同样的顺序处理：先换成 de + 不定式，再调人称和时间地点。</p><p>注意：转述不是逐词替换；同一句话在不同转述关系下会有不同版本，判断依据始终是新的说话情境。</p>",
+      "locales": {
+        "fr": {
+          "title": "Ordre d'analyse global : contexte, structure, personnes, temps, indicateurs",
+          "body": "<p>Pour rapporter une phrase, suivre l'ordre suivant évite de ne traiter qu'un élément et d'en oublier d'autres :</p><ol><li>Reconstituer le contexte : qui parle à qui, quand et où.</li><li>Fixer la structure : que pour une déclaration, si pour une question totale, conservation du mot interrogatif pour une question partielle, de + infinitif pour un ordre.</li><li>Ajuster les personnes : sujet, pronoms objets, pronoms réfléchis, possessifs.</li><li>Ajuster les temps : si le verbe introducteur est au passé, traiter le temps de la subordonnée selon le rapport entre le moment de l'énoncé d'origine et le repère ; ce décalage s'appelle le recul (backshift). Le recul n'est pas un abaissement mécanique d'un cran : les faits encore valables, les habitudes qui durent, etc., se jugent selon le contexte.</li><li>Ajuster les indicateurs de temps et de lieu : prendre pour repère le moment et le lieu du discours rapporté.</li><li>Vérifier les accords : attributs, participes passés, selon la nouvelle structure.</li></ol><p>Exemple : Paul à Marie, hier, à la gare : « Je t'attends ici demain avec mon frère. » → Marie rapporte aujourd'hui, chez elle : Paul m'a dit qu'il m'attendait là-bas le lendemain avec son frère. (je → il, te → me, ici → là-bas, demain → le lendemain, mon → son, présent → imparfait.)</p><p>Un ordre se traite dans le même ordre : on le convertit d'abord en de + infinitif, puis on ajuste les personnes, le temps et les indicateurs de temps et de lieu.</p><p>Remarque : rapporter n'est pas remplacer mot pour mot ; une même phrase a des versions différentes selon la nouvelle situation d'énonciation, et c'est toujours elle qui sert de critère.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u5-1",
       "title": "直接引语还原：从间接句回到原话",
-      "body": "<p>直接引语还原（reconstruction du discours direct）是从间接引语反推原说话人当时可能说出的句子，也就是把用 que、si、de 等嵌入另一句的间接引语，重新变成带引号的原话。它不是唯一的：同一句间接引语在不同情境下可以对应不同的原话，所以要先把情境定下来，再复原形式。</p><p>按下面四步走：</p><ol><li>找原说话人：间接引语从句的主语通常就是原说话人。原话中的 je / nous 要按这个人的身份还原。</li><li>找原听话人：m'a dit、m'a demandé 里的 m' 提示听话人是「我」；原话中的 tu / vous 要按这层关系还原。</li><li>逆推时态：条件式现在时（conditionnel présent，这里表示过去视角下的将来）通常还原为简单将来时；愈过去时通常还原为复合过去时；若原话本来就是愈过去时，也可保留愈过去时（« J'ai fini. » / « J'avais fini. »）；未完成过去时可能还原为现在时，也可能仍是未完成过去时，要看状态在转述时是否还成立。</li><li>还原指示词和句式：le lendemain → demain，la veille → hier，ce jour-là → aujourd'hui；陈述句恢复陈述语序，疑问句恢复疑问结构，命令恢复命令式，最后加引号和标点。</li></ol><p>例：</p><ul><li>Il m'a dit qu'il avait trouvé un appartement la veille. → « J'ai trouvé un appartement hier. »（他对我说：「我昨天找到了一套公寓。」）</li><li>Elle m'a annoncé qu'elle partirait le lendemain. → « Je partirai demain. »（她向我宣布：「我明天出发。」）</li><li>Il m'a demandé si j'avais terminé. → « As-tu terminé ? » / « Tu as terminé ? »（他问我：「你做完了吗？」）</li></ul><p>注意：还原不是把时态机械倒推一格；转述方向的回溯（backshift，引导动词为过去时时把原话时态后移）也不是机械「降一级」，仍有效的事实和习惯要按语境判断。先确定原说话人、听话人、时间和地点，再决定每一项；语境不足时，可能存在多个合理原话。</p>"
+      "body": "<p>直接引语还原（reconstruction du discours direct）是从间接引语反推原说话人当时可能说出的句子，也就是把用 que、si、de 等嵌入另一句的间接引语，重新变成带引号的原话。它不是唯一的：同一句间接引语在不同情境下可以对应不同的原话，所以要先把情境定下来，再复原形式。</p><p>按下面四步走：</p><ol><li>找原说话人：间接引语从句的主语通常就是原说话人。原话中的 je / nous 要按这个人的身份还原。</li><li>找原听话人：m'a dit、m'a demandé 里的 m' 提示听话人是「我」；原话中的 tu / vous 要按这层关系还原。</li><li>逆推时态：条件式现在时（conditionnel présent，这里表示过去视角下的将来）通常还原为简单将来时；愈过去时通常还原为复合过去时；若原话本来就是愈过去时，也可保留愈过去时（« J'ai fini. » / « J'avais fini. »）；未完成过去时可能还原为现在时，也可能仍是未完成过去时，要看状态在转述时是否还成立。</li><li>还原指示词和句式：le lendemain → demain，la veille → hier，ce jour-là → aujourd'hui；陈述句恢复陈述语序，疑问句恢复疑问结构，命令恢复命令式，最后加引号和标点。</li></ol><p>例：</p><ul><li>Il m'a dit qu'il avait trouvé un appartement la veille. → « J'ai trouvé un appartement hier. »（他对我说：「我昨天找到了一套公寓。」）</li><li>Elle m'a annoncé qu'elle partirait le lendemain. → « Je partirai demain. »（她向我宣布：「我明天出发。」）</li><li>Il m'a demandé si j'avais terminé. → « As-tu terminé ? » / « Tu as terminé ? »（他问我：「你做完了吗？」）</li></ul><p>注意：还原不是把时态机械倒推一格；转述方向的回溯（backshift，引导动词为过去时时把原话时态后移）也不是机械「降一级」，仍有效的事实和习惯要按语境判断。先确定原说话人、听话人、时间和地点，再决定每一项；语境不足时，可能存在多个合理原话。</p>",
+      "locales": {
+        "fr": {
+          "title": "Reconstruire le discours direct : passer de l'indirect aux paroles d'origine",
+          "body": "<p>La reconstruction du discours direct consiste à repartir d'un discours indirect pour retrouver la phrase que le locuteur d'origine a pu prononcer : on transforme un énoncé indirect, où les paroles sont intégrées par que, si ou de, en paroles directes entre guillemets. La reconstruction n'est pas unique : un même discours indirect peut correspondre à plusieurs énoncés d'origine selon la situation ; il faut donc d'abord fixer la situation, puis reconstruire la forme.</p><p>Procéder en quatre étapes :</p><ol><li>Trouver le locuteur d'origine : le sujet de la subordonnée du discours indirect est généralement ce locuteur. Les je / nous de l'énoncé d'origine se rétablissent selon son identité.</li><li>Trouver l'interlocuteur d'origine : le m' de m'a dit, m'a demandé indique que l'interlocuteur est « moi » ; les tu / vous de l'énoncé d'origine se rétablissent selon cette relation.</li><li>Inverser les temps : le conditionnel présent (ici, un futur dans une perspective passée) se rétablit généralement en futur simple ; le plus-que-parfait en passé composé ; si l'énoncé d'origine était déjà au plus-que-parfait, on peut aussi le conserver (« J'ai fini. » / « J'avais fini. ») ; l'imparfait peut se rétablir en présent ou rester à l'imparfait, selon que l'état était encore valable au moment du discours rapporté.</li><li>Rétablir les indicateurs et la structure : le lendemain → demain, la veille → hier, ce jour-là → aujourd'hui ; une déclaration reprend l'ordre déclaratif, une question retrouve sa structure interrogative, un ordre redevient un impératif ; ajouter enfin les guillemets et la ponctuation.</li></ol><p>Exemples :</p><ul><li>Il m'a dit qu'il avait trouvé un appartement la veille. → « J'ai trouvé un appartement hier. »</li><li>Elle m'a annoncé qu'elle partirait le lendemain. → « Je partirai demain. »</li><li>Il m'a demandé si j'avais terminé. → « As-tu terminé ? » / « Tu as terminé ? »</li></ul><p>Remarque : la reconstruction ne consiste pas à remonter mécaniquement les temps d'un cran ; le recul du discours rapporté (backshift, décalage du temps d'origine quand le verbe introducteur est au passé) n'est pas non plus un « abaissement » automatique : les faits et les habitudes encore valables se jugent selon le contexte. Fixer d'abord le locuteur, l'interlocuteur, le temps et le lieu d'origine, puis décider chaque élément ; si le contexte manque, plusieurs énoncés d'origine peuvent être plausibles.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u5-2",
       "title": "还原疑问句与命令句：恢复原来的句式",
-      "body": "<p>间接引语已经把原话的句式压平了，还原时要把它重新撑开。</p><p>一般疑问句（可以用 oui / non 回答的疑问句）：si 从句还原为不带 si 的疑问句，恢复 est-ce que 或主谓倒装，并把人称改回对话关系。</p><ul><li>Elle m'a demandé si je pouvais l'aider. → « Peux-tu m'aider ? »（她问我：「你能帮我吗？」）——je 还原为 tu，l' 指 elle，还原为 me。</li><li>Il m'a demandé si j'étais prêt. → « Est-ce que tu es prêt ? » / « Tu es prêt ? »</li></ul><p>特殊疑问句（用 qui、que、où 等疑问词提问的句子）：保留原疑问词，去掉 ce que / ce qui 这类转述形式，恢复疑问词在句首的位置。</p><ul><li>Elle m'a demandé ce que je voulais. → « Qu'est-ce que tu veux ? » / « Que veux-tu ? »</li><li>Il m'a demandé où j'habitais. → « Où habites-tu ? »</li></ul><p>命令句：de / de ne pas + 不定式还原为命令式；肯定命令保留原动词的 tu / vous / nous 形式，否定命令把 ne ... pas 放回变位动词两侧。</p><ul><li>Elle nous a dit de ne pas oublier nos clés. → « N'oubliez pas vos clés. »（她对我们说：「别忘了你们的钥匙。」）</li><li>Il m'a demandé de sortir. → « Sors. » / « Sortez. »（视原话用 tu 还是 vous）</li></ul><p>注意：还原问句时不要保留 si、ce que、ce qui 这些转述标记；还原命令时不要保留 de。原话用 tu 还是 vous、用单数还是复数命令式，取决于原说话人和听话人的关系。</p>"
+      "body": "<p>间接引语已经把原话的句式压平了，还原时要把它重新撑开。</p><p>一般疑问句（可以用 oui / non 回答的疑问句）：si 从句还原为不带 si 的疑问句，恢复 est-ce que 或主谓倒装，并把人称改回对话关系。</p><ul><li>Elle m'a demandé si je pouvais l'aider. → « Peux-tu m'aider ? »（她问我：「你能帮我吗？」）——je 还原为 tu，l' 指 elle，还原为 me。</li><li>Il m'a demandé si j'étais prêt. → « Est-ce que tu es prêt ? » / « Tu es prêt ? »</li></ul><p>特殊疑问句（用 qui、que、où 等疑问词提问的句子）：保留原疑问词，去掉 ce que / ce qui 这类转述形式，恢复疑问词在句首的位置。</p><ul><li>Elle m'a demandé ce que je voulais. → « Qu'est-ce que tu veux ? » / « Que veux-tu ? »</li><li>Il m'a demandé où j'habitais. → « Où habites-tu ? »</li></ul><p>命令句：de / de ne pas + 不定式还原为命令式；肯定命令保留原动词的 tu / vous / nous 形式，否定命令把 ne ... pas 放回变位动词两侧。</p><ul><li>Elle nous a dit de ne pas oublier nos clés. → « N'oubliez pas vos clés. »（她对我们说：「别忘了你们的钥匙。」）</li><li>Il m'a demandé de sortir. → « Sors. » / « Sortez. »（视原话用 tu 还是 vous）</li></ul><p>注意：还原问句时不要保留 si、ce que、ce qui 这些转述标记；还原命令时不要保留 de。原话用 tu 还是 vous、用单数还是复数命令式，取决于原说话人和听话人的关系。</p>",
+      "locales": {
+        "fr": {
+          "title": "Reconstruire questions et ordres : rétablir la structure d'origine",
+          "body": "<p>Le discours indirect a aplati la structure de l'énoncé d'origine ; pour le reconstruire, il faut la redéployer.</p><p>Question totale (question à laquelle on peut répondre par oui / non) : la subordonnée en si redevient une question sans si, avec est-ce que ou l'inversion sujet-verbe rétablie, et les personnes sont remises dans la relation dialogique.</p><ul><li>Elle m'a demandé si je pouvais l'aider. → « Peux-tu m'aider ? » — je redevient tu, et l', qui désigne elle, redevient me.</li><li>Il m'a demandé si j'étais prêt. → « Est-ce que tu es prêt ? » / « Tu es prêt ? »</li></ul><p>Question partielle (question introduite par qui, que, où, etc.) : on conserve le mot interrogatif d'origine, on retire les formes de discours indirect ce que / ce qui, et l'on replace le mot interrogatif en tête de phrase.</p><ul><li>Elle m'a demandé ce que je voulais. → « Qu'est-ce que tu veux ? » / « Que veux-tu ? »</li><li>Il m'a demandé où j'habitais. → « Où habites-tu ? »</li></ul><p>Ordre : de / de ne pas + infinitif redevient un impératif ; l'ordre affirmatif reprend la forme tu / vous / nous du verbe d'origine, l'ordre négatif replace ne ... pas de part et d'autre du verbe conjugué.</p><ul><li>Elle nous a dit de ne pas oublier nos clés. → « N'oubliez pas vos clés. »</li><li>Il m'a demandé de sortir. → « Sors. » / « Sortez. » (selon que l'énoncé d'origine employait tu ou vous)</li></ul><p>Remarque : pour reconstruire une question, ne pas conserver les marques du discours indirect si, ce que, ce qui ; pour reconstruire un ordre, ne pas conserver de. Le choix de tu ou vous, du singulier ou du pluriel de l'impératif, dépend de la relation entre le locuteur et l'interlocuteur d'origine.</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u5-3",
       "title": "转述后的配合：先看新主语，再看分词功能",
-      "body": "<p>转述改变主语后，形容词和过去分词是否变化，要看它们在句中的功能，不能一律跟着新主语走。</p><p>表语形容词（attribut，放在 être 等系动词后说明主语的形容词）性数随新主语：</p><ul><li>Marc a raconté que son amie était contente de le revoir.（马克说他的女性朋友很高兴再见到他。）——contente 与 son amie 配合，不随 Marc。</li><li>Elle a dit que ses frères étaient fatigués.（她说她兄弟们累了。）——fatigués 与 ses frères 配合。</li></ul><p>非代词式动词（不带自反代词的动词）用 être 作助动词时，过去分词随主语配合；被动式也随被动主语配合：</p><ul><li>Les jumelles ont raconté qu'elles étaient arrivées à midi.（双胞胎姐妹说她们中午到的。）——arrivées 与 elles 配合。</li><li>Le directeur a annoncé que les travaux avaient été terminés.（经理宣布工程已经完成。）——terminés 与 les travaux 配合。</li></ul><p>代词式动词要先判断自反代词（se、me、te 等指回主语的代词）的角色：</p><ul><li>se 是直接宾语 → 分词与主语配合：Elle a expliqué qu'elle s'était lavée.（她解释说她洗过澡了。）</li><li>se 是间接宾语 → 分词不配合：Elle a expliqué qu'elle s'était lavé les mains.（她解释说她洗了手。）——les mains 是直接宾语，se 表示「给自己」。</li><li>相互意义的 se parler、se téléphoner 中 se 是间接宾语，不配合：Elles ont dit qu'elles s'étaient parlé.（她们说她们通过话。）</li></ul><p>用 avoir 作助动词时，分词不随主语变化；但前置直接宾语仍可能触发配合，见下一张。</p><p>注意：不要看到主语变了就改分词。先问两个问题：助动词是 être 还是 avoir？代词式动词里的 se 是直接宾语还是间接宾语？</p>"
+      "body": "<p>转述改变主语后，形容词和过去分词是否变化，要看它们在句中的功能，不能一律跟着新主语走。</p><p>表语形容词（attribut，放在 être 等系动词后说明主语的形容词）性数随新主语：</p><ul><li>Marc a raconté que son amie était contente de le revoir.（马克说他的女性朋友很高兴再见到他。）——contente 与 son amie 配合，不随 Marc。</li><li>Elle a dit que ses frères étaient fatigués.（她说她兄弟们累了。）——fatigués 与 ses frères 配合。</li></ul><p>非代词式动词（不带自反代词的动词）用 être 作助动词时，过去分词随主语配合；被动式也随被动主语配合：</p><ul><li>Les jumelles ont raconté qu'elles étaient arrivées à midi.（双胞胎姐妹说她们中午到的。）——arrivées 与 elles 配合。</li><li>Le directeur a annoncé que les travaux avaient été terminés.（经理宣布工程已经完成。）——terminés 与 les travaux 配合。</li></ul><p>代词式动词要先判断自反代词（se、me、te 等指回主语的代词）的角色：</p><ul><li>se 是直接宾语 → 分词与主语配合：Elle a expliqué qu'elle s'était lavée.（她解释说她洗过澡了。）</li><li>se 是间接宾语 → 分词不配合：Elle a expliqué qu'elle s'était lavé les mains.（她解释说她洗了手。）——les mains 是直接宾语，se 表示「给自己」。</li><li>相互意义的 se parler、se téléphoner 中 se 是间接宾语，不配合：Elles ont dit qu'elles s'étaient parlé.（她们说她们通过话。）</li></ul><p>用 avoir 作助动词时，分词不随主语变化；但前置直接宾语仍可能触发配合，见下一张。</p><p>注意：不要看到主语变了就改分词。先问两个问题：助动词是 être 还是 avoir？代词式动词里的 se 是直接宾语还是间接宾语？</p>",
+      "locales": {
+        "fr": {
+          "title": "Accords après le discours rapporté : d'abord le nouveau sujet, puis la fonction du participe",
+          "body": "<p>Le discours rapporté change le sujet ; l'accord de l'adjectif ou du participe passé dépend alors de sa fonction dans la phrase, et non mécaniquement du nouveau sujet.</p><p>L'adjectif attribut (placé après un verbe d'état comme être pour caractériser le sujet) s'accorde en genre et en nombre avec le nouveau sujet :</p><ul><li>Marc a raconté que son amie était contente de le revoir. — contente s'accorde avec son amie, non avec Marc.</li><li>Elle a dit que ses frères étaient fatigués. — fatigués s'accorde avec ses frères.</li></ul><p>Avec un verbe non pronominal construit avec être, le participe passé s'accorde avec le sujet ; le passif s'accorde avec le sujet passif :</p><ul><li>Les jumelles ont raconté qu'elles étaient arrivées à midi. — arrivées s'accorde avec elles.</li><li>Le directeur a annoncé que les travaux avaient été terminés. — terminés s'accorde avec les travaux.</li></ul><p>Pour un verbe pronominal, il faut d'abord déterminer le rôle du pronom réfléchi (se, me, te, etc., qui renvoie au sujet) :</p><ul><li>se est complément d'objet direct → le participe s'accorde avec le sujet : Elle a expliqué qu'elle s'était lavée.</li><li>se est complément d'objet indirect → le participe ne s'accorde pas : Elle a expliqué qu'elle s'était lavé les mains. — les mains est le complément d'objet direct, et se signifie « à elle-même ».</li><li>Dans se parler, se téléphoner, de sens réciproque, se est complément d'objet indirect et le participe ne s'accorde pas : Elles ont dit qu'elles s'étaient parlé.</li></ul><p>Avec avoir, le participe ne s'accorde pas avec le sujet ; mais un complément d'objet direct antéposé peut encore déclencher l'accord (voir la carte suivante).</p><p>Remarque : ce n'est pas parce que le sujet change qu'il faut modifier le participe. Poser deux questions : l'auxiliaire est-il être ou avoir ? Dans un verbe pronominal, se est-il complément d'objet direct ou indirect ?</p>"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-card-u5-4",
       "title": "前置直接宾语：性数看所指，不看形式",
-      "body": "<p>前置直接宾语（COD placé avant le participe）指直接宾语出现在过去分词之前。这时过去分词要与这个宾语性数配合，而不是与主语配合。</p><ul><li>Ces lettres, il a affirmé qu'il les avait écrites le matin même.（这些信，他肯定说他当天早上就写好了。）——les 指 ces lettres，阴性复数，écrites 配合。</li><li>Cette décision, elle a confirmé qu'elle l'avait prise seule.（这个决定，她确认是她一个人做出的。）——l' 指 cette décision，阴性单数，prise 配合。</li><li>Les photos ? Il a juré qu'il les avait prises avant de partir.（那些照片？他发誓说走之前拍过。）——prises 与 les（photos）配合。</li><li>Les lettres qu'il a écrites sont sur la table.（他写好的那些信在桌上。）——关系代词 que 指 les lettres，作 écrire 的直接宾语，écrites 配合。</li><li>Ce que j'ai préparé est dans le frigo.（我准备的东西在冰箱里。）——ce que 是 préparer 的直接宾语并前置，但 ce 是中性代词，不体现性数，所以 préparé 不配合。</li></ul><p>l'、les 的形式不显示性数，必须回到所指名词：</p><ul><li>Ce livre, il a dit qu'il l'avait lu.（这本书，他说他读过了。）——l' = le livre，阳性单数，lu 不增加配合标记。</li><li>Cette photo, il a dit qu'il l'avait prise.（这张照片，他说他拍过。）——l' = la photo，阴性单数，prise 配合。</li></ul><p>间接宾语不触发配合：Il nous a dit qu'il nous avait téléphoné.（他告诉我们他给我们打过电话。）——nous 是间接宾语，téléphoné 不变。主语也不触发配合：Elles ont affirmé qu'elles avaient lu ce livre.（她们肯定她们读过这本书。）——lu 不与 elles 配合。</p><p>注意：判断顺序是「先找有没有前置直接宾语，再看它指什么」。不要把所有前置代词都当成直接宾语，lui / leur 以及作间接宾语的 nous / vous 都不触发配合。</p>"
+      "body": "<p>前置直接宾语（COD placé avant le participe）指直接宾语出现在过去分词之前。这时过去分词要与这个宾语性数配合，而不是与主语配合。</p><ul><li>Ces lettres, il a affirmé qu'il les avait écrites le matin même.（这些信，他肯定说他当天早上就写好了。）——les 指 ces lettres，阴性复数，écrites 配合。</li><li>Cette décision, elle a confirmé qu'elle l'avait prise seule.（这个决定，她确认是她一个人做出的。）——l' 指 cette décision，阴性单数，prise 配合。</li><li>Les photos ? Il a juré qu'il les avait prises avant de partir.（那些照片？他发誓说走之前拍过。）——prises 与 les（photos）配合。</li><li>Les lettres qu'il a écrites sont sur la table.（他写好的那些信在桌上。）——关系代词 que 指 les lettres，作 écrire 的直接宾语，écrites 配合。</li><li>Ce que j'ai préparé est dans le frigo.（我准备的东西在冰箱里。）——ce que 是 préparer 的直接宾语并前置，但 ce 是中性代词，不体现性数，所以 préparé 不配合。</li></ul><p>l'、les 的形式不显示性数，必须回到所指名词：</p><ul><li>Ce livre, il a dit qu'il l'avait lu.（这本书，他说他读过了。）——l' = le livre，阳性单数，lu 不增加配合标记。</li><li>Cette photo, il a dit qu'il l'avait prise.（这张照片，他说他拍过。）——l' = la photo，阴性单数，prise 配合。</li></ul><p>间接宾语不触发配合：Il nous a dit qu'il nous avait téléphoné.（他告诉我们他给我们打过电话。）——nous 是间接宾语，téléphoné 不变。主语也不触发配合：Elles ont affirmé qu'elles avaient lu ce livre.（她们肯定她们读过这本书。）——lu 不与 elles 配合。</p><p>注意：判断顺序是「先找有没有前置直接宾语，再看它指什么」。不要把所有前置代词都当成直接宾语，lui / leur 以及作间接宾语的 nous / vous 都不触发配合。</p>",
+      "locales": {
+        "fr": {
+          "title": "Complément d'objet direct antéposé : l'accord dépend du référent, non de la forme",
+          "body": "<p>Un complément d'objet direct antéposé est un complément d'objet direct placé avant le participe passé. Dans ce cas, le participe passé s'accorde en genre et en nombre avec ce complément, et non avec le sujet.</p><ul><li>Ces lettres, il a affirmé qu'il les avait écrites le matin même. — les reprend ces lettres, féminin pluriel, d'où écrites.</li><li>Cette décision, elle a confirmé qu'elle l'avait prise seule. — l' reprend cette décision, féminin singulier, d'où prise.</li><li>Les photos ? Il a juré qu'il les avait prises avant de partir. — prises s'accorde avec les (photos).</li><li>Les lettres qu'il a écrites sont sur la table. — le pronom relatif que reprend les lettres et est complément d'objet direct d'écrire, d'où écrites.</li><li>Ce que j'ai préparé est dans le frigo. — ce que est complément d'objet direct antéposé de préparer, mais ce est un pronom neutre qui ne marque ni genre ni nombre : préparé ne s'accorde donc pas.</li></ul><p>Les formes l' et les ne montrent pas le genre et le nombre : il faut revenir au nom auquel elles renvoient :</p><ul><li>Ce livre, il a dit qu'il l'avait lu. — l' = le livre, masculin singulier ; lu ne prend pas de marque supplémentaire.</li><li>Cette photo, il a dit qu'il l'avait prise. — l' = la photo, féminin singulier, d'où prise.</li></ul><p>Un complément d'objet indirect ne déclenche pas l'accord : Il nous a dit qu'il nous avait téléphoné. — nous est complément d'objet indirect, téléphoné reste invariable. Le sujet non plus ne déclenche pas l'accord : Elles ont affirmé qu'elles avaient lu ce livre. — lu ne s'accorde pas avec elles.</p><p>Remarque : l'ordre d'analyse est « chercher d'abord s'il existe un complément d'objet direct antéposé, puis identifier ce qu'il reprend ». Ne pas traiter tous les pronoms antéposés comme des compléments d'objet directs : lui / leur, ainsi que nous / vous compléments d'objet indirects, ne déclenchent pas l'accord.</p>"
+        }
+      }
     }
   ],
   "lessons": [
@@ -133,7 +265,12 @@
           ],
           "answer": 3,
           "translation": "保罗对我说他累了。",
-          "explain": "陈述句用 que 引出宾语从句，从句保持陈述语序。引导动词 dit 是现在时，时态不回溯，保留 est；que 遇 il 省音为 qu'。qu'il était 会把现在时错误后移，s'il est 用于一般疑问，qu'il sera 把状态推到将来。"
+          "explain": "陈述句用 que 引出宾语从句，从句保持陈述语序。引导动词 dit 是现在时，时态不回溯，保留 est；que 遇 il 省音为 qu'。qu'il était 会把现在时错误后移，s'il est 用于一般疑问，qu'il sera 把状态推到将来。",
+          "locales": {
+            "fr": {
+              "explain": "Une déclaration se rapporte avec que et une proposition à l'ordre déclaratif. Le verbe introducteur dit est au présent : pas de recul, le présent est conservé. que s'élide devant il en qu'. qu'il était décalerait à tort le présent ; s'il est servirait à une question totale ; qu'il sera déplacerait l'état dans le futur."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q2",
@@ -147,7 +284,12 @@
           ],
           "answer": 1,
           "translation": "她宣布他中午到。",
-          "explain": "que 在元音开头的 il 前省音为 qu'，写成 qu'il。que il 是缺少省音的错误拼写；s'il 用于转述一般疑问；qui 是关系代词或疑问词，不能在这里引出陈述从句。引导动词 annonce 是现在时，arrive 保持不变。"
+          "explain": "que 在元音开头的 il 前省音为 qu'，写成 qu'il。que il 是缺少省音的错误拼写；s'il 用于转述一般疑问；qui 是关系代词或疑问词，不能在这里引出陈述从句。引导动词 annonce 是现在时，arrive 保持不变。",
+          "locales": {
+            "fr": {
+              "explain": "que s'élide devant il, mot commençant par une voyelle, en qu' : qu'il. que il est une graphie fautive ; s'il sert à rapporter une question totale ; qui est un pronom relatif ou interrogatif et ne peut pas introduire ici une déclaration. Le verbe introducteur annonce est au présent : arrive reste au présent."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q3",
@@ -179,7 +321,12 @@
             "travaillera"
           ],
           "translation": "「我在这里工作两年了」，他宣布。",
-          "explain": "陈述句用 que 从句；引导动词 déclare 是现在时，从句保留现在时 travaille，不回溯。je 按说话人变成 il，所以用 qu'il；题中没有改变转述地点，ici 可以保留。travaillait 是错误回溯，là-bas 改变了地点指称，travailler 是不定式，不能作从句的变位动词。"
+          "explain": "陈述句用 que 从句；引导动词 déclare 是现在时，从句保留现在时 travaille，不回溯。je 按说话人变成 il，所以用 qu'il；题中没有改变转述地点，ici 可以保留。travaillait 是错误回溯，là-bas 改变了地点指称，travailler 是不定式，不能作从句的变位动词。",
+          "locales": {
+            "fr": {
+              "explain": "Une déclaration se rapporte avec que ; le verbe introducteur déclare est au présent, donc la subordonnée garde le présent travaille, sans recul. je devient il selon le locuteur, d'où qu'il. Le lieu de l'énonciation n'a pas changé, donc ici peut rester. travaillait serait un recul injustifié, là-bas modifierait le lieu, et travailler est un infinitif qui ne peut pas être le verbe conjugué de la subordonnée."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q4",
@@ -193,7 +340,12 @@
           ],
           "answer": 3,
           "translation": "她将解释她需要时间。",
-          "explain": "引导动词 expliquera 是简单将来时，参照点在将来，从句沿用原话的现在时 a，不回溯。avait 是未完成过去时，aurait 是条件式，aura 是将来时，都会改变原话的时间关系。"
+          "explain": "引导动词 expliquera 是简单将来时，参照点在将来，从句沿用原话的现在时 a，不回溯。avait 是未完成过去时，aurait 是条件式，aura 是将来时，都会改变原话的时间关系。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe introducteur expliquera est au futur simple : le repère est dans le futur et la subordonnée conserve le présent a, sans recul. avait est un imparfait, aurait un conditionnel et aura un futur ; chacun modifierait le rapport temporel de l'énoncé d'origine."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q5",
@@ -207,7 +359,12 @@
           ],
           "answer": 0,
           "translation": "他说他病了。",
-          "explain": "引导动词 a dit 是复合过去时，参照点在过去，原话的现在时 suis 要回溯为未完成过去时 était。题干说明他已痊愈，所以不能用 est；若转述时他仍病着，保留 est 也可以。sera 和 serait 都把状态推到将来，改变了原意。"
+          "explain": "引导动词 a dit 是复合过去时，参照点在过去，原话的现在时 suis 要回溯为未完成过去时 était。题干说明他已痊愈，所以不能用 est；若转述时他仍病着，保留 est 也可以。sera 和 serait 都把状态推到将来，改变了原意。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe introducteur a dit est au passé composé : le repère est passé, et le présent suis doit reculer en imparfait était. L'énoncé précise qu'il a guéri depuis, donc est n'est pas possible ; si l'état durait encore, est serait acceptable. sera et serait projetteraient l'état dans le futur."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q6",
@@ -221,7 +378,12 @@
           ],
           "answer": 1,
           "translation": "她讲述说她完成了工作。",
-          "explain": "原话是复合过去时 ai fini，引导动词 a raconté 是过去时，复合过去时要回溯为愈过去时 avait fini（avoir 的未完成过去时加过去分词）。a fini 没有回溯；finirait 对应简单将来时；finissait 对应现在时，都不符合原时态。"
+          "explain": "原话是复合过去时 ai fini，引导动词 a raconté 是过去时，复合过去时要回溯为愈过去时 avait fini（avoir 的未完成过去时加过去分词）。a fini 没有回溯；finirait 对应简单将来时；finissait 对应现在时，都不符合原时态。",
+          "locales": {
+            "fr": {
+              "explain": "L'énoncé d'origine est au passé composé (ai fini) et le verbe introducteur a raconté est au passé : le passé composé recule en plus-que-parfait avait fini (auxiliaire à l'imparfait + participe passé). a fini ne marque pas le recul ; finirait correspond au futur simple et finissait au présent."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q7",
@@ -235,7 +397,12 @@
           ],
           "answer": 2,
           "translation": "他宣布他会离开。",
-          "explain": "原话 partirai 是简单将来时，引导动词是过去时，要回溯为条件式现在时 partirait（简单将来时的词干 partir- 加未完成过去时的词尾 -ait）。partira 没有回溯；partait 对应现在时；était parti 对应复合过去时或先时关系。"
+          "explain": "原话 partirai 是简单将来时，引导动词是过去时，要回溯为条件式现在时 partirait（简单将来时的词干 partir- 加未完成过去时的词尾 -ait）。partira 没有回溯；partait 对应现在时；était parti 对应复合过去时或先时关系。",
+          "locales": {
+            "fr": {
+              "explain": "L'énoncé d'origine est au futur simple (partirai) et le verbe introducteur a annoncé est au passé : le futur simple recule en conditionnel présent partirait (radical du futur partir- + terminaison d'imparfait -ait). partira ne recule pas ; partait correspond au présent et était parti au passé composé ou à l'antériorité."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q8",
@@ -249,9 +416,19 @@
           ],
           "answer": 2,
           "translation": "她说她马上打电话。",
-          "explain": "原话是近将来 aller 加不定式（vais téléphoner），引导动词是过去时，要把 aller 变成未完成过去时 allait，后面的不定式 téléphoner 不变。va 没有回溯；ira 是简单将来时；irait 是条件式，都不是近将来在过去的对应形式。"
+          "explain": "原话是近将来 aller 加不定式（vais téléphoner），引导动词是过去时，要把 aller 变成未完成过去时 allait，后面的不定式 téléphoner 不变。va 没有回溯；ira 是简单将来时；irait 是条件式，都不是近将来在过去的对应形式。",
+          "locales": {
+            "fr": {
+              "explain": "L'énoncé d'origine est au futur proche (vais téléphoner) et le verbe introducteur a dit est au passé : aller se met à l'imparfait allait, et l'infinitif téléphoner ne change pas. va ne recule pas, ira est un futur simple et irait un conditionnel, qui ne correspondent pas au futur proche dans le passé."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Rapporter une déclaration : conservation ou recul du temps (1)"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-l1-2",
@@ -270,7 +447,12 @@
             "m"
           ],
           "translation": "他说他刚出去。",
-          "explain": "原话 venir de 加不定式表示最近过去；引导动词是过去时，venir 要变成未完成过去时 venait，de sortir 不变。不能保留 viens，也不能改成 était venu（那是「已经出来」的先时意义）。"
+          "explain": "原话 venir de 加不定式表示最近过去；引导动词是过去时，venir 要变成未完成过去时 venait，de sortir 不变。不能保留 viens，也不能改成 était venu（那是「已经出来」的先时意义）。",
+          "locales": {
+            "fr": {
+              "explain": "L'énoncé d'origine exprime le passé récent avec venir de + infinitif ; le verbe introducteur a dit est au passé, donc venir se met à l'imparfait venait et de sortir reste inchangé. On ne garde pas viens, et était venu signifierait « il était déjà sorti », un rapport d'antériorité différent."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q10",
@@ -283,7 +465,12 @@
             "e"
           ],
           "translation": "她答应她会来。",
-          "explain": "原话 viendrai 是简单将来时，引导动词 a promis 是过去时，要回溯为条件式现在时 viendrait。词干与简单将来时相同（viendr-），词尾用未完成过去时的 -ais、-ait 等。保留 viendrai 没有回溯，venir 是不定式，不能作从句谓语。"
+          "explain": "原话 viendrai 是简单将来时，引导动词 a promis 是过去时，要回溯为条件式现在时 viendrait。词干与简单将来时相同（viendr-），词尾用未完成过去时的 -ais、-ait 等。保留 viendrai 没有回溯，venir 是不定式，不能作从句谓语。",
+          "locales": {
+            "fr": {
+              "explain": "L'énoncé d'origine est au futur simple (viendrai) et le verbe introducteur a promis est au passé : le futur recule en conditionnel présent viendrait. Le radical est celui du futur (viendr-) et la terminaison celle de l'imparfait (-ais, -ait, etc.). viendrai ne recule pas, et venir est un infinitif qui ne peut pas être le verbe de la subordonnée."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q11",
@@ -316,7 +503,12 @@
             "compris"
           ],
           "translation": "「我不明白这个问题」，他对我说。",
-          "explain": "引导动词 m'a dit 是复合过去时，现在时 comprends 回溯为未完成过去时 comprenait；je 变成 il，所以用 qu'il。否定结构 ne...pas 保持在从句内，cette 不变。comprend 没有回溯，ce 是错误指示词，que 缺少省音，compris 是过去分词，都不能作从句的变位动词。"
+          "explain": "引导动词 m'a dit 是复合过去时，现在时 comprends 回溯为未完成过去时 comprenait；je 变成 il，所以用 qu'il。否定结构 ne...pas 保持在从句内，cette 不变。comprend 没有回溯，ce 是错误指示词，que 缺少省音，compris 是过去分词，都不能作从句的变位动词。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe introducteur m'a dit est au passé composé : le présent comprends recule en imparfait comprenait ; je devient il, d'où qu'il. La négation ne...pas reste dans la subordonnée et cette ne change pas. comprend ne recule pas, ce est un mauvais démonstratif, que sans élision est fautif et compris est un participe passé."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q12",
@@ -347,7 +539,12 @@
             "mon"
           ],
           "translation": "「我丢了我的钥匙」，玛丽解释说。",
-          "explain": "原话是复合过去时 ai perdu，引导动词是过去时，回溯为愈过去时 avait perdu；je 变成 elle，mes 变成 ses。perdait 对应现在时，son 是单数物主词，que 未省音，mon 仍指原说话人，都不符合转述后的指称。"
+          "explain": "原话是复合过去时 ai perdu，引导动词是过去时，回溯为愈过去时 avait perdu；je 变成 elle，mes 变成 ses。perdait 对应现在时，son 是单数物主词，que 未省音，mon 仍指原说话人，都不符合转述后的指称。",
+          "locales": {
+            "fr": {
+              "explain": "L'énoncé d'origine est au passé composé (ai perdu) et le verbe introducteur est au passé : on emploie le plus-que-parfait avait perdu ; je devient elle et mes devient ses. perdait correspondrait au présent, son est un possessif singulier, que sans élision est fautif et mon renverrait encore au locuteur d'origine."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q13",
@@ -361,7 +558,12 @@
           ],
           "answer": 0,
           "translation": "保罗对玛丽说，他会在火车站前等某人。谁等谁？",
-          "explain": "从句主语 il 指说话人 Paul，l' 是直接宾语代词，指听话人 Marie；attendre 的动作由 Paul 发出。转述时人称代词要按新的说话关系还原，不能把 il 理解成 Marie。"
+          "explain": "从句主语 il 指说话人 Paul，l' 是直接宾语代词，指听话人 Marie；attendre 的动作由 Paul 发出。转述时人称代词要按新的说话关系还原，不能把 il 理解成 Marie。",
+          "locales": {
+            "fr": {
+              "explain": "Le sujet il de la subordonnée reprend le locuteur Paul ; l' est un pronom complément d'objet direct qui reprend l'interlocutrice Marie, et attendre est l'action de Paul. Après le discours rapporté, il faut donc rétablir « Paul attend Marie », et non inverser les rôles en prenant il pour Marie."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q14",
@@ -375,7 +577,12 @@
           ],
           "answer": 2,
           "translation": "在引导动词为过去时的转述句中，什么情况下可以保留现在时？",
-          "explain": "回溯是默认倾向，不是绝对规则。客观规律或转述时仍持续的状态可以保留现在时；如果原话内容只属于过去，则要回溯。选项一把保留现在时当成无条件规则，选项二与「仍然有效」无关，选项四把回溯当成无条件规则。"
+          "explain": "回溯是默认倾向，不是绝对规则。客观规律或转述时仍持续的状态可以保留现在时；如果原话内容只属于过去，则要回溯。选项一把保留现在时当成无条件规则，选项二与「仍然有效」无关，选项四把回溯当成无条件规则。",
+          "locales": {
+            "fr": {
+              "explain": "Le recul est une tendance par défaut, non une règle absolue. On peut conserver le présent pour une loi générale ou un état encore vrai au moment du discours rapporté ; si le contenu n'appartient qu'au passé, on recule. La première proposition fait du présent une règle inconditionnelle, la deuxième ne concerne pas la validité du fait et la quatrième fait du recul une règle inconditionnelle."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q15",
@@ -389,7 +596,12 @@
           ],
           "answer": 0,
           "translation": "昨天她对我说她迟到了。",
-          "explain": "引导动词 m'a dit 是过去时，原话的现在时 suis 描述当时的状态，回溯为未完成过去时 était。est 没有回溯；sera 是将来时；serait 是条件式，都会改变原话的时态/语气，与 hier 的语境不符。"
+          "explain": "引导动词 m'a dit 是过去时，原话的现在时 suis 描述当时的状态，回溯为未完成过去时 était。est 没有回溯；sera 是将来时；serait 是条件式，都会改变原话的时态/语气，与 hier 的语境不符。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe introducteur m'a dit est au passé ; le présent suis décrit l'état à ce moment-là et recule en imparfait était. est ne recule pas, sera est au futur et serait au conditionnel : ils modifieraient le temps ou le mode de l'énoncé d'origine et ne conviennent pas au contexte de hier."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q16",
@@ -403,9 +615,19 @@
           ],
           "answer": 0,
           "translation": "她现在对我说她迟到了。",
-          "explain": "引导动词 dit 是现在时，参照点就是说话当下，从句沿用原话的现在时 est，不回溯。était 会把它变成过去的状态；sera 是将来时；serait 是条件式，都会改变原话的时态/语气。对比上一题：引导动词换成过去时后，才需要 était。"
+          "explain": "引导动词 dit 是现在时，参照点就是说话当下，从句沿用原话的现在时 est，不回溯。était 会把它变成过去的状态；sera 是将来时；serait 是条件式，都会改变原话的时态/语气。对比上一题：引导动词换成过去时后，才需要 était。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe introducteur dit est au présent : le repère est le moment présent et la subordonnée conserve le présent est, sans recul. était en ferait un état passé, sera un futur et serait un conditionnel, ce qui changerait le rapport temporel. C'est le contraste avec la question précédente : c'est le verbe introducteur au passé qui impose était."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Rapporter une déclaration : conservation ou recul du temps (2)"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-l1-3",
@@ -442,7 +664,12 @@
             "hier"
           ],
           "translation": "「总统明天到」，电台宣布。",
-          "explain": "引导动词 annonce 是现在时，从句保留现在时 arrive，不回溯；陈述句用 que 引出，demain 仍以现在为参照，保持不变。annonçait 和 arrivait 是错误回溯，qu'il 会把明确名词换成代词 il，失去原句的明确指称，hier 会把时间推到过去。"
+          "explain": "引导动词 annonce 是现在时，从句保留现在时 arrive，不回溯；陈述句用 que 引出，demain 仍以现在为参照，保持不变。annonçait 和 arrivait 是错误回溯，qu'il 会把明确名词换成代词 il，失去原句的明确指称，hier 会把时间推到过去。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe introducteur annonce est au présent : la subordonnée garde le présent arrive, sans recul ; une déclaration se rapporte avec que, et demain garde le présent comme repère. annonçait et arrivait seraient des reculs injustifiés, qu'il remplacerait à tort le nom « le président » par un pronom, et hier déplacerait le temps dans le passé."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q18",
@@ -455,7 +682,12 @@
             "u"
           ],
           "translation": "他回答说他没听懂。",
-          "explain": "引导动词 a répondu 是过去时，原话的现在时 comprends 回溯为未完成过去时 comprenait。词干 comprend- 加 -ait；不要保留 comprends，也不要写成复合过去时 a compris（那会变成一次完成的「懂了」）。"
+          "explain": "引导动词 a répondu 是过去时，原话的现在时 comprends 回溯为未完成过去时 comprenait。词干 comprend- 加 -ait；不要保留 comprends，也不要写成复合过去时 a compris（那会变成一次完成的「懂了」）。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe introducteur a répondu est au passé : le présent comprends recule en imparfait comprenait, avec le radical comprend- et la terminaison -ait. On ne garde pas comprends, et a compris serait un passé composé qui présenterait la compréhension comme un événement achevé."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q19",
@@ -469,7 +701,12 @@
           ],
           "answer": 1,
           "translation": "玛丽向我吐露：「我父母不知道我走了。」（她已经回来了。）",
-          "explain": "引导动词是过去时，两个从句的现在时都要回溯：savent 变成 savaient，suis partie 变成 était partie。人称也要重排：mes parents 指 Marie 的父母，转述后是 ses parents；je 变成 elle。题干说明 Marie 已经回来，suis partie 描述的是已完成的动作，必须回溯；若转述时她还在外面，保留 est partie 也可接受。第一项没有换人称，第三项两个时态都没回溯，第四项只回溯了第一个。"
+          "explain": "引导动词是过去时，两个从句的现在时都要回溯：savent 变成 savaient，suis partie 变成 était partie。人称也要重排：mes parents 指 Marie 的父母，转述后是 ses parents；je 变成 elle。题干说明 Marie 已经回来，suis partie 描述的是已完成的动作，必须回溯；若转述时她还在外面，保留 est partie 也可接受。第一项没有换人称，第三项两个时态都没回溯，第四项只回溯了第一个。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe introducteur est au passé : les deux présents de l'énoncé d'origine reculent, savent → savaient et suis partie → était partie. Les personnes changent aussi : mes parents devient ses parents (les parents de Marie) et je devient elle. L'énoncé précise que Marie est déjà rentrée, donc suis partie décrit une action achevée et doit reculer ; si elle était encore dehors, est partie serait acceptable. La première proposition ne change pas les personnes, la troisième ne recule aucun temps et la quatrième n'en recule qu'un."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q20",
@@ -483,7 +720,12 @@
           ],
           "answer": 3,
           "translation": "「改革将于一月生效」，部长宣布。",
-          "explain": "引导动词 a déclaré 是过去时，原话的简单将来时 entrera 回溯为条件式现在时 entrerait。entrera 没有回溯；entrait 对应现在时；était entrée 表示先于参照点完成，都不符合原话的将来关系。"
+          "explain": "引导动词 a déclaré 是过去时，原话的简单将来时 entrera 回溯为条件式现在时 entrerait。entrera 没有回溯；entrait 对应现在时；était entrée 表示先于参照点完成，都不符合原话的将来关系。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe introducteur a déclaré est au passé : le futur simple entrera recule en conditionnel présent entrerait. entrera ne recule pas, entrait correspondrait au présent et était entrée exprimerait une action antérieure au repère, ce qui ne rend pas le futur de l'énoncé d'origine."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q21",
@@ -518,7 +760,12 @@
             "son"
           ],
           "translation": "保罗讲述说：「我和姐姐参观了罗马。」",
-          "explain": "原话是复合过去时 ai visité，引导动词是过去时，回溯为愈过去时 avait visité；je 变成 il，ma 变成 sa。visitait 对应现在时，mon 仍指原说话人，que 缺少省音，son 与阴性名词 sœur 的性不匹配。"
+          "explain": "原话是复合过去时 ai visité，引导动词是过去时，回溯为愈过去时 avait visité；je 变成 il，ma 变成 sa。visitait 对应现在时，mon 仍指原说话人，que 缺少省音，son 与阴性名词 sœur 的性不匹配。",
+          "locales": {
+            "fr": {
+              "explain": "L'énoncé d'origine est au passé composé (ai visité) et le verbe introducteur a raconté est au passé : on emploie le plus-que-parfait avait visité ; je devient il et ma devient sa. visitait correspondrait au présent, mon renverrait au locuteur d'origine, que sans élision est fautif et son ne s'accorde pas avec le nom féminin sœur."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q22",
@@ -532,7 +779,12 @@
           ],
           "answer": 2,
           "translation": "关于间接引语，哪一项说法正确？",
-          "explain": "回溯要按原时态逐项对应，不是笼统「降一级」；而且事实仍然有效时可以不回溯。「条件式总是替换未完成过去时」「愈过去时总是替换复合过去时」都忽略了对应条件和语境。"
+          "explain": "回溯要按原时态逐项对应，不是笼统「降一级」；而且事实仍然有效时可以不回溯。「条件式总是替换未完成过去时」「愈过去时总是替换复合过去时」都忽略了对应条件和语境。",
+          "locales": {
+            "fr": {
+              "explain": "Le recul suit une correspondance précise, temps par temps, et non un décalage uniforme d'un cran ; de plus, un fait encore vrai peut rester au présent. Les affirmations « le conditionnel remplace toujours l'imparfait » et « le plus-que-parfait remplace toujours le passé composé » ignorent les correspondances et le contexte."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q23",
@@ -546,7 +798,12 @@
           ],
           "answer": 0,
           "translation": "玛丽对保罗说：「我今天还是累。」（保罗第二天转述）",
-          "explain": "现在时 suis 回溯为 était；aujourd'hui 按转述参照改为 ce jour-là；je 指 Marie，转述为 elle；表语形容词与新的主语配合为 fatiguée。"
+          "explain": "现在时 suis 回溯为 était；aujourd'hui 按转述参照改为 ce jour-là；je 指 Marie，转述为 elle；表语形容词与新的主语配合为 fatiguée。",
+          "locales": {
+            "fr": {
+              "explain": "Le présent suis recule en imparfait était ; aujourd'hui devient ce jour-là puisque Paul rapporte le lendemain ; je désigne Marie et devient elle ; l'attribut s'accorde avec le nouveau sujet féminin, d'où fatiguée."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l1-q24",
@@ -560,9 +817,19 @@
           ],
           "answer": 1,
           "translation": "保罗对朱莉说：「我今天迟到了。」（朱莉第二天向玛丽转述）",
-          "explain": "复合过去时 suis arrivé 回溯为 était arrivé；aujourd'hui 改为 ce jour-là；je 指 Paul，转述为 il；分词与主语配合为 arrivé（男性）。"
+          "explain": "复合过去时 suis arrivé 回溯为 était arrivé；aujourd'hui 改为 ce jour-là；je 指 Paul，转述为 il；分词与主语配合为 arrivé（男性）。",
+          "locales": {
+            "fr": {
+              "explain": "Le passé composé suis arrivé recule en plus-que-parfait était arrivé ; aujourd'hui devient ce jour-là puisque Julie rapporte le lendemain ; je désigne Paul et devient il ; le participe s'accorde avec le sujet masculin, d'où arrivé."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Rapporter une déclaration : conservation ou recul du temps (3)"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-l2-1",
@@ -582,7 +849,12 @@
           ],
           "answer": 1,
           "translation": "他问我：「你和我一起去吗？」",
-          "explain": "原句是一般疑问句，转述用 si 引出宾语从句；est-ce que 要去掉，主谓倒装也回到陈述语序。que 用于陈述句；quand 是疑问词，原句没有问时间；est-ce que 不能留在间接疑问里。"
+          "explain": "原句是一般疑问句，转述用 si 引出宾语从句；est-ce que 要去掉，主谓倒装也回到陈述语序。que 用于陈述句；quand 是疑问词，原句没有问时间；est-ce que 不能留在间接疑问里。",
+          "locales": {
+            "fr": {
+              "explain": "L'énoncé est une question totale : on la rapporte avec si, sans est-ce que et sans inversion, à l'ordre déclaratif. que sert à la déclaration ; quand est un mot interrogatif de temps absent de l'énoncé ; est-ce que ne se conserve pas dans une question indirecte."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q2",
@@ -596,7 +868,12 @@
           ],
           "answer": 2,
           "translation": "她问：「他已经走了吗？」",
-          "explain": "一般疑问用 si 转述；si 遇 il 要省音为 s'il。si il 缺少省音；qu'il 会把疑问转成陈述；que il 既用错连词又缺少省音。"
+          "explain": "一般疑问用 si 转述；si 遇 il 要省音为 s'il。si il 缺少省音；qu'il 会把疑问转成陈述；que il 既用错连词又缺少省音。",
+          "locales": {
+            "fr": {
+              "explain": "Une question totale se rapporte avec si ; si s'élide devant il en s'il. si il est une graphie sans élision ; qu'il transformerait la question en déclaration ; que il cumule un mauvais choix de conjonction et l'absence d'élision."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q3",
@@ -610,7 +887,12 @@
           ],
           "answer": 0,
           "translation": "他问我要什么。",
-          "explain": "原句的 qu'est-ce que 在从句里作 veux 的宾语，要换成 ce que。ce qui 作主语；qu'est-ce que 不能保留在间接疑问中；单独的 que 不能充当宾语。"
+          "explain": "原句的 qu'est-ce que 在从句里作 veux 的宾语，要换成 ce que。ce qui 作主语；qu'est-ce que 不能保留在间接疑问中；单独的 que 不能充当宾语。",
+          "locales": {
+            "fr": {
+              "explain": "Dans l'énoncé d'origine, qu'est-ce que est complément d'objet de veux : il devient ce que dans la subordonnée. ce qui serait sujet ; qu'est-ce que ne se conserve pas dans une question indirecte ; que seul ne peut pas remplir la fonction d'objet."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q4",
@@ -624,7 +906,12 @@
           ],
           "answer": 3,
           "translation": "她想知道发生了什么事。",
-          "explain": "原句的 qu'est-ce qui 在从句里作 se passe 的主语，要换成 ce qui。ce que 只能作宾语或表语；qui 会使句子缺少先行内容；qu'est-ce qui 不能保留在间接疑问中。"
+          "explain": "原句的 qu'est-ce qui 在从句里作 se passe 的主语，要换成 ce qui。ce que 只能作宾语或表语；qui 会使句子缺少先行内容；qu'est-ce qui 不能保留在间接疑问中。",
+          "locales": {
+            "fr": {
+              "explain": "Dans l'énoncé d'origine, qu'est-ce qui est sujet de se passe : il devient ce qui. ce que ne peut être qu'objet ou attribut ; qui laisserait la phrase sans contenu antécédent ; qu'est-ce qui ne se conserve pas dans une question indirecte."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q5",
@@ -638,7 +925,12 @@
           ],
           "answer": 1,
           "translation": "他问今晚谁来。",
-          "explain": "qui est-ce qui 问主语，转述时简化为 qui，后面直接接动词 vient。qui est-ce qui 是直接疑问形式，不能保留；ce qui 指「……的事」，不指人；qu'il 会把疑问变成陈述。"
+          "explain": "qui est-ce qui 问主语，转述时简化为 qui，后面直接接动词 vient。qui est-ce qui 是直接疑问形式，不能保留；ce qui 指「……的事」，不指人；qu'il 会把疑问变成陈述。",
+          "locales": {
+            "fr": {
+              "explain": "qui est-ce qui porte sur le sujet : on le réduit à qui, directement suivi du verbe vient. qui est-ce qui est une forme de question directe et ne se conserve pas ; ce qui renvoie à une chose, non à une personne ; qu'il transformerait la question en déclaration."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q6",
@@ -652,7 +944,12 @@
           ],
           "answer": 2,
           "translation": "她问你邀请谁。",
-          "explain": "qui est-ce que 问宾语，转述时简化为 qui，后面保留主语 tu 和动词 invites：qui tu invites。qui est-ce que 不能保留；que 缺少疑问内容；ce que 指事物，不指人。"
+          "explain": "qui est-ce que 问宾语，转述时简化为 qui，后面保留主语 tu 和动词 invites：qui tu invites。qui est-ce que 不能保留；que 缺少疑问内容；ce que 指事物，不指人。",
+          "locales": {
+            "fr": {
+              "explain": "qui est-ce que porte sur l'objet : on le réduit à qui, puis on conserve le sujet tu et le verbe invites, d'où qui tu invites. qui est-ce que ne se conserve pas ; que ne porte pas le contenu interrogatif ; ce que renvoie à une chose, non à une personne."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q7",
@@ -678,7 +975,12 @@
             "habite"
           ],
           "translation": "他问我住在哪里。",
-          "explain": "特殊疑问句转述保留疑问词 où，去掉 est-ce que，主谓倒装改为陈述语序：où j'habite。habites 是倒装时的变位形式，不能与 je 搭配；est-ce 和 que 不能保留；tu 会改变从句主语。"
+          "explain": "特殊疑问句转述保留疑问词 où，去掉 est-ce que，主谓倒装改为陈述语序：où j'habite。habites 是倒装时的变位形式，不能与 je 搭配；est-ce 和 que 不能保留；tu 会改变从句主语。",
+          "locales": {
+            "fr": {
+              "explain": "Pour une question partielle, on conserve le mot interrogatif où, on supprime est-ce que et l'inversion, et l'on revient à l'ordre déclaratif : où j'habite. habites est la forme de l'inversion et ne convient pas à je ; est-ce et que ne se conservent pas ; tu changerait le sujet de la subordonnée."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q8",
@@ -706,7 +1008,12 @@
             "m'aider."
           ],
           "translation": "她问：「保罗能帮我吗？」",
-          "explain": "一般疑问用 si 转述，去掉 est-ce que，保留陈述语序 Paul peut。原话的 m' 指说话人 elle，转述后要变成 l'：Paul peut l'aider。que 用于陈述句；est-ce 不能保留；peut-il 是倒装形式；pourra 是将来时，改变了原话时态；m'aider 仍指转述者，指称错误。"
+          "explain": "一般疑问用 si 转述，去掉 est-ce que，保留陈述语序 Paul peut。原话的 m' 指说话人 elle，转述后要变成 l'：Paul peut l'aider。que 用于陈述句；est-ce 不能保留；peut-il 是倒装形式；pourra 是将来时，改变了原话时态；m'aider 仍指转述者，指称错误。",
+          "locales": {
+            "fr": {
+              "explain": "Une question totale se rapporte avec si, sans est-ce que, en gardant l'ordre déclaratif Paul peut. Le m' de l'énoncé d'origine désigne la locutrice elle : il devient l' dans la subordonnée, d'où Paul peut l'aider. que servirait à une déclaration ; est-ce ne se conserve pas ; peut-il est une inversion ; pourra est un futur qui modifie le temps ; m'aider renverrait encore au rapporteur."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q9",
@@ -719,7 +1026,12 @@
             "u"
           ],
           "translation": "他问我住在哪里。",
-          "explain": "特殊疑问句转述保留 où，语序改为陈述语序；引导动词是过去时，现在时 habites 回溯为未完成过去时 habitais。主语是 je，词尾用 -ais；不要保留 habites，也不要写成 habiter（不定式不能作从句谓语）。"
+          "explain": "特殊疑问句转述保留 où，语序改为陈述语序；引导动词是过去时，现在时 habites 回溯为未完成过去时 habitais。主语是 je，词尾用 -ais；不要保留 habites，也不要写成 habiter（不定式不能作从句谓语）。",
+          "locales": {
+            "fr": {
+              "explain": "Une question partielle conserve où et revient à l'ordre déclaratif ; le verbe introducteur est au passé, donc le présent habites recule en imparfait habitais. Le sujet est je, d'où la terminaison -ais. On ne garde ni habites ni l'infinitif habiter, qui ne peut pas être le verbe conjugué de la subordonnée."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q10",
@@ -732,9 +1044,19 @@
             "t"
           ],
           "translation": "她问我是否能来。",
-          "explain": "一般疑问用 si；引导动词是过去时，现在时 peux 回溯为未完成过去时 pouvais，主语 je 用词尾 -ais。pouvoir 的未完成过去时词干是 pouv-；不要保留 peux，也不要写成 pourrais（条件式，改变语气）。"
+          "explain": "一般疑问用 si；引导动词是过去时，现在时 peux 回溯为未完成过去时 pouvais，主语 je 用词尾 -ais。pouvoir 的未完成过去时词干是 pouv-；不要保留 peux，也不要写成 pourrais（条件式，改变语气）。",
+          "locales": {
+            "fr": {
+              "explain": "Une question totale se rapporte avec si ; le verbe introducteur est au passé, donc peux recule en imparfait pouvais, avec le sujet je et la terminaison -ais. On ne garde pas peux, et pourrais serait un conditionnel qui changerait le mode."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Rapporter une question (1)"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-l2-2",
@@ -754,7 +1076,12 @@
           ],
           "answer": 0,
           "translation": "他问火车几点开。",
-          "explain": "原疑问词组是 à quelle heure，介词 à 和疑问形容词 quelle 都要保留；heure 是阴性单数，用 quelle。缺介词 à 会改变结构；quel 是阳性形式；qu'elle 是连词 que 加 elle，与疑问无关。"
+          "explain": "原疑问词组是 à quelle heure，介词 à 和疑问形容词 quelle 都要保留；heure 是阴性单数，用 quelle。缺介词 à 会改变结构；quel 是阳性形式；qu'elle 是连词 que 加 elle，与疑问无关。",
+          "locales": {
+            "fr": {
+              "explain": "Le groupe interrogatif d'origine est à quelle heure : la préposition à et l'adjectif interrogatif quelle, accordé avec le nom féminin singulier heure, doivent être conservés. Sans à, la structure change ; quel est la forme masculine ; qu'elle est la conjonction que + elle, sans rapport avec l'interrogation."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q12",
@@ -768,7 +1095,12 @@
           ],
           "answer": 3,
           "translation": "她问哪些裙子在打折。",
-          "explain": "疑问形容词要与名词 robes 的阴性复数一致，用 quelles。quels 是阳性复数；quelle 是阴性单数；qu'elles 是 que 加 elles，不是疑问形容词。"
+          "explain": "疑问形容词要与名词 robes 的阴性复数一致，用 quelles。quels 是阳性复数；quelle 是阴性单数；qu'elles 是 que 加 elles，不是疑问形容词。",
+          "locales": {
+            "fr": {
+              "explain": "L'adjectif interrogatif s'accorde avec le nom robes, féminin pluriel, d'où quelles. quels est masculin pluriel, quelle féminin singulier, et qu'elles est la conjonction que + elles, non un adjectif interrogatif."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q13",
@@ -798,7 +1130,12 @@
             "veux"
           ],
           "translation": "他不明白她想要什么。",
-          "explain": "qu'est-ce que 在从句里作 veut 的宾语，换成 ce que；que 遇 elle 省音为 qu'，所以是 ce qu'elle。ce qui 作主语；qu'est-ce que 不能保留；veut-elle 是倒装形式；veux 与主语 elle 不搭配。"
+          "explain": "qu'est-ce que 在从句里作 veut 的宾语，换成 ce que；que 遇 elle 省音为 qu'，所以是 ce qu'elle。ce qui 作主语；qu'est-ce que 不能保留；veut-elle 是倒装形式；veux 与主语 elle 不搭配。",
+          "locales": {
+            "fr": {
+              "explain": "Dans l'énoncé d'origine, qu'est-ce que est complément d'objet de veut : il devient ce que, et que s'élide devant elle en qu', d'où ce qu'elle. ce qui serait sujet ; qu'est-ce que ne se conserve pas ; veut-elle est une inversion ; veux ne s'accorde pas avec elle."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q14",
@@ -812,7 +1149,12 @@
           ],
           "answer": 2,
           "translation": "他问我这本书里什么吸引我。",
-          "explain": "从句的主语是「什么」这件事，plaire 的主语由 ce qui 充当，me 是间接宾语。ce que 只能作宾语或表语；qui 指人；que 不能单独作主语。"
+          "explain": "从句的主语是「什么」这件事，plaire 的主语由 ce qui 充当，me 是间接宾语。ce que 只能作宾语或表语；qui 指人；que 不能单独作主语。",
+          "locales": {
+            "fr": {
+              "explain": "Dans la subordonnée, c'est la chose « ce qui » qui est sujet de plaît ; me est complément d'objet indirect. ce que ne peut être qu'objet ou attribut ; qui renverrait à une personne ; que ne peut pas être sujet à lui seul."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q15",
@@ -826,7 +1168,12 @@
           ],
           "answer": 1,
           "translation": "他问我到哪里去。",
-          "explain": "保留疑问词 où，去掉 est-ce que，改用陈述语序 je vais。est-ce que 不能留在间接疑问里；vais-je 是倒装；que où 既多了一个连词，又保留了疑问结构。"
+          "explain": "保留疑问词 où，去掉 est-ce que，改用陈述语序 je vais。est-ce que 不能留在间接疑问里；vais-je 是倒装；que où 既多了一个连词，又保留了疑问结构。",
+          "locales": {
+            "fr": {
+              "explain": "On conserve où, on supprime est-ce que et l'inversion, et l'on revient à l'ordre déclaratif je vais. est-ce que ne se garde pas dans une question indirecte ; vais-je est une inversion ; que où cumule un connecteur de trop et une structure interrogative."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q16",
@@ -859,7 +1206,12 @@
             "est-ce"
           ],
           "translation": "他问我：「你想和我一起来吗？」",
-          "explain": "一般疑问用 si 转述，去掉 est-ce que；原句已有过去时 voulais，引导动词也是过去时，保留未完成过去时表示当时的状态。人称也要改：tu 变成 je，moi 变成 lui。que 用于陈述句，voulais-tu 是倒装，veux 会改变时态，est-ce 不能保留。"
+          "explain": "一般疑问用 si 转述，去掉 est-ce que；原句已有过去时 voulais，引导动词也是过去时，保留未完成过去时表示当时的状态。人称也要改：tu 变成 je，moi 变成 lui。que 用于陈述句，voulais-tu 是倒装，veux 会改变时态，est-ce 不能保留。",
+          "locales": {
+            "fr": {
+              "explain": "Une question totale se rapporte avec si, sans est-ce que. L'énoncé d'origine est déjà à l'imparfait voulais, et le verbe introducteur est au passé : l'imparfait est conservé pour l'état de l'époque. Les personnes changent : tu devient je, moi devient lui. que servirait à une déclaration ; voulais-tu est une inversion ; veux changerait le temps ; est-ce ne se conserve pas."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q17",
@@ -873,7 +1225,12 @@
           ],
           "answer": 0,
           "translation": "她问我觉得她的项目怎么样。",
-          "explain": "原句的 qu'est-ce que 作 penser de 的宾语，转述为 ce que；引导动词是过去时，penses 回溯为 pensais，mon 随说话人变成 son。ce qui 作主语；qu'est-ce que 不能保留；que 不能充当宾语。"
+          "explain": "原句的 qu'est-ce que 作 penser de 的宾语，转述为 ce que；引导动词是过去时，penses 回溯为 pensais，mon 随说话人变成 son。ce qui 作主语；qu'est-ce que 不能保留；que 不能充当宾语。",
+          "locales": {
+            "fr": {
+              "explain": "Dans l'énoncé d'origine, qu'est-ce que est complément d'objet de penser de : il devient ce que. Le verbe introducteur est au passé, donc penses recule en pensais, et mon devient son selon le nouveau locuteur. ce qui serait sujet ; qu'est-ce que ne se conserve pas ; que ne peut pas remplir la fonction d'objet."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q18",
@@ -887,7 +1244,12 @@
           ],
           "answer": 3,
           "translation": "保罗问朱莉，某人是否完成了那项工作。谁应该完成这项工作？",
-          "explain": "si 从句的主语 elle 指听话人 Julie；son travail 也随 elle 指 Julie 的工作。Paul 是提问的人，不是完成工作的主语。转述后的人称代词要回到具体所指来判断。"
+          "explain": "si 从句的主语 elle 指听话人 Julie；son travail 也随 elle 指 Julie 的工作。Paul 是提问的人，不是完成工作的主语。转述后的人称代词要回到具体所指来判断。",
+          "locales": {
+            "fr": {
+              "explain": "Dans la subordonnée en si, le sujet elle reprend l'interlocutrice Julie ; son travail désigne donc le travail de Julie. Paul est celui qui pose la question, non celui qui doit finir le travail ; le discours rapporté demande de revenir aux référents concrets."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q19",
@@ -901,9 +1263,19 @@
           ],
           "answer": 2,
           "translation": "保罗问玛丽：「您昨天丢了哪些钥匙？」（玛丽第二天转述）",
-          "explain": "特殊疑问保留 quelles clés，语序回到陈述；avez 回溯为 avais；hier 改为 la veille；vous 指 Marie，转述为 je；分词 perdues 与前置直接宾语 quelles clés（阴性复数）配合。"
+          "explain": "特殊疑问保留 quelles clés，语序回到陈述；avez 回溯为 avais；hier 改为 la veille；vous 指 Marie，转述为 je；分词 perdues 与前置直接宾语 quelles clés（阴性复数）配合。",
+          "locales": {
+            "fr": {
+              "explain": "Une question partielle conserve quelles clés et revient à l'ordre déclaratif ; avez recule en avais, hier devient la veille et vous, qui désigne Marie, devient je. Le participe perdues s'accorde avec le complément d'objet direct antéposé quelles clés, féminin pluriel. La première proposition omet l'accord, la deuxième ne recule pas le temps et ne change pas hier, la troisième conserve vous."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Rapporter une question (2)"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-l2-3",
@@ -923,7 +1295,12 @@
           ],
           "answer": 3,
           "translation": "朱莉问保罗：「您上周做了哪些练习？」（保罗在接下来那个周一转述）",
-          "explain": "保留 quels exercices，语序回到陈述；avez 回溯为 avais；la semaine dernière 改为 la semaine précédente；vous 指 Paul，转述为 je；分词 faits 与前置直接宾语 quels exercices（阳性复数）配合。"
+          "explain": "保留 quels exercices，语序回到陈述；avez 回溯为 avais；la semaine dernière 改为 la semaine précédente；vous 指 Paul，转述为 je；分词 faits 与前置直接宾语 quels exercices（阳性复数）配合。",
+          "locales": {
+            "fr": {
+              "explain": "On conserve quels exercices et l'ordre déclaratif ; avez recule en avais, la semaine dernière devient la semaine précédente et vous, qui désigne Paul, devient je. Le participe faits s'accorde avec le complément d'objet direct antéposé quels exercices, masculin pluriel. La première omet l'accord, la deuxième ne recule pas et garde la semaine dernière, la troisième conserve vous."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q21",
@@ -937,7 +1314,12 @@
           ],
           "answer": 0,
           "translation": "保罗问玛丽：「你昨天找到那些钥匙了吗？」",
-          "explain": "一般疑问用 si；as 回溯为 avais；hier 改为 la veille；les 指 les clés（阴性复数），置于分词前，分词配合为 retrouvées。"
+          "explain": "一般疑问用 si；as 回溯为 avais；hier 改为 la veille；les 指 les clés（阴性复数），置于分词前，分词配合为 retrouvées。",
+          "locales": {
+            "fr": {
+              "explain": "Une question totale se rapporte avec si ; as recule en avais, hier devient la veille. Les, qui reprend les clés, est complément d'objet direct antéposé : le participe s'accorde au féminin pluriel, d'où retrouvées. La deuxième omet l'accord, la troisième ne recule pas le temps et garde hier, la quatrième emploie l'imparfait au lieu du plus-que-parfait."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q22",
@@ -951,7 +1333,12 @@
           ],
           "answer": 1,
           "translation": "玛丽问保罗：「你昨天看到那些照片了吗？」",
-          "explain": "一般疑问用 si；as 回溯为 avais；hier 改为 la veille；les 指 les photos（阴性复数），分词配合为 vues。"
+          "explain": "一般疑问用 si；as 回溯为 avais；hier 改为 la veille；les 指 les photos（阴性复数），分词配合为 vues。",
+          "locales": {
+            "fr": {
+              "explain": "Une question totale se rapporte avec si ; as recule en avais, hier devient la veille. Les reprend les photos, féminin pluriel, et le participe s'accorde en vues. La première omet l'accord, la troisième ne recule ni le temps ni hier, la quatrième emploie l'imparfait à la place du plus-que-parfait."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q23",
@@ -965,7 +1352,12 @@
           ],
           "answer": 2,
           "translation": "保罗问玛丽为什么累。",
-          "explain": "引导动词现在时，时态不回溯，保留 suis；保留 pourquoi，语序回到陈述；tu 指 Marie，转述为 je，形容词与新的主语配合为 fatiguée。"
+          "explain": "引导动词现在时，时态不回溯，保留 suis；保留 pourquoi，语序回到陈述；tu 指 Marie，转述为 je，形容词与新的主语配合为 fatiguée。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe introducteur est au présent : pas de recul, le présent suis est conservé. On garde pourquoi et l'ordre déclaratif ; tu désigne Marie et devient je ; l'adjectif s'accorde avec le nouveau sujet féminin, d'où fatiguée."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q24",
@@ -979,7 +1371,12 @@
           ],
           "answer": 3,
           "translation": "朱莉问莱娅为什么这么高兴。",
-          "explain": "引导动词现在时，时态不回溯；保留 pourquoi，语序回到陈述；tu 指 Léa，转述为 je，形容词配合为 contente。"
+          "explain": "引导动词现在时，时态不回溯；保留 pourquoi，语序回到陈述；tu 指 Léa，转述为 je，形容词配合为 contente。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe introducteur est au présent : pas de recul. On conserve pourquoi et l'ordre déclaratif ; tu désigne Léa et devient je ; l'adjectif s'accorde avec le nouveau sujet féminin, d'où contente."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q25",
@@ -993,7 +1390,12 @@
           ],
           "answer": 0,
           "translation": "保罗问玛丽是否到了。",
-          "explain": "一般疑问用 si；引导动词现在时，时态不回溯，保留 suis；vous 指 Marie，转述为 je；分词与新的主语配合为 arrivée。"
+          "explain": "一般疑问用 si；引导动词现在时，时态不回溯，保留 suis；vous 指 Marie，转述为 je；分词与新的主语配合为 arrivée。",
+          "locales": {
+            "fr": {
+              "explain": "Une question totale se rapporte avec si ; le verbe introducteur est au présent, donc suis est conservé. vous désigne Marie et devient je ; le participe s'accorde avec le nouveau sujet féminin, d'où arrivée."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q26",
@@ -1007,7 +1409,12 @@
           ],
           "answer": 1,
           "translation": "朱莉问莱娅是否准备好了。",
-          "explain": "一般疑问用 si；时态不回溯，保留 suis；tu 指 Léa，转述为 je；形容词与新的主语配合为 prête。"
+          "explain": "一般疑问用 si；时态不回溯，保留 suis；tu 指 Léa，转述为 je；形容词与新的主语配合为 prête。",
+          "locales": {
+            "fr": {
+              "explain": "Une question totale se rapporte avec si ; le verbe introducteur est au présent, donc suis est conservé. tu désigne Léa et devient je ; l'adjectif s'accorde avec le nouveau sujet féminin, d'où prête."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q27",
@@ -1021,7 +1428,12 @@
           ],
           "answer": 2,
           "translation": "他问：「明天会发生什么？」",
-          "explain": "qu'est-ce qui 转为 ce qui；arrivera 回溯为 arriverait；demain 改为 le lendemain；语序回到陈述。"
+          "explain": "qu'est-ce qui 转为 ce qui；arrivera 回溯为 arriverait；demain 改为 le lendemain；语序回到陈述。",
+          "locales": {
+            "fr": {
+              "explain": "qu'est-ce qui devient ce qui ; arrivera recule en conditionnel arriverait ; demain devient le lendemain ; la subordonnée reprend l'ordre déclaratif. La première ne recule pas et garde demain ; la deuxième conserve qu'est-ce qui ; la quatrième garde demain."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l2-q28",
@@ -1035,9 +1447,19 @@
           ],
           "answer": 3,
           "translation": "他问我在找谁。",
-          "explain": "qui est-ce que 转为 qui（qui 作宾语）；去掉 est-ce que，语序回到陈述；时态不回溯；tu 转述为 je。"
+          "explain": "qui est-ce que 转为 qui（qui 作宾语）；去掉 est-ce que，语序回到陈述；时态不回溯；tu 转述为 je。",
+          "locales": {
+            "fr": {
+              "explain": "qui est-ce que devient qui, complément d'objet ; on supprime est-ce que et l'inversion, la subordonnée revient à l'ordre déclaratif, et le présent est conservé puisque le verbe introducteur est au présent. tu devient je. La première conserve est-ce que ; la deuxième perd le mot interrogatif ; la troisième conserve tu."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Rapporter une question (3)"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-l3-1",
@@ -1057,7 +1479,12 @@
           ],
           "answer": 2,
           "translation": "老师对保罗说：「保罗，关上门！」",
-          "explain": "命令式 ferme 转述时用 dire à qn de + 不定式：a dit à Paul de fermer。que 从句不是命令转述的常规结构；第二项缺 de；第四项既用 que 又用未完成过去时，结构和意义都不对。"
+          "explain": "命令式 ferme 转述时用 dire à qn de + 不定式：a dit à Paul de fermer。que 从句不是命令转述的常规结构；第二项缺 de；第四项既用 que 又用未完成过去时，结构和意义都不对。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif ferme se rapporte avec dire à qn de + infinitif : a dit à Paul de fermer. La subordonnée en que n'est pas la structure habituelle d'un ordre rapporté ; la deuxième proposition omet de ; la quatrième cumule que et l'imparfait, avec une structure et un sens incorrects."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l3-q2",
@@ -1071,7 +1498,12 @@
           ],
           "answer": 0,
           "translation": "保罗对玛丽说：「把你的地址给我。」",
-          "explain": "原话 moi 指保罗，转述中作间接宾语 lui；ton adresse 指玛丽，玛丽自己转述时用 mon adresse。第二项 me 把地址指给玛丽自己；第三项 ton 还停留在原对话的听话人视角；第四项代词位置错误。"
+          "explain": "原话 moi 指保罗，转述中作间接宾语 lui；ton adresse 指玛丽，玛丽自己转述时用 mon adresse。第二项 me 把地址指给玛丽自己；第三项 ton 还停留在原对话的听话人视角；第四项代词位置错误。",
+          "locales": {
+            "fr": {
+              "explain": "Dans l'énoncé d'origine, moi désigne Paul : il devient le complément d'objet indirect lui dans le discours rapporté. ton adresse désigne Marie ; comme c'est Marie elle-même qui rapporte, elle emploie mon adresse. La deuxième proposition fait de me le destinataire de l'adresse, la troisième conserve ton du point de vue de l'interlocuteur d'origine et la quatrième place mal le pronom."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l3-q3",
@@ -1105,7 +1537,12 @@
             "ouvrir"
           ],
           "translation": "老师对我们说：「关上窗户！」",
-          "explain": "命令式 fermez 转为 de + 不定式 fermer；dire à qn de faire qch 的间接宾语 nous 放在 a dit 前。不能保留命令式 fermez，也不能改用 que 从句。"
+          "explain": "命令式 fermez 转为 de + 不定式 fermer；dire à qn de faire qch 的间接宾语 nous 放在 a dit 前。不能保留命令式 fermez，也不能改用 que 从句。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif fermez devient de + infinitif fermer ; dire à qn de faire qch place le complément d'objet indirect nous devant a dit. On ne conserve pas l'impératif fermez et on n'emploie pas une subordonnée en que."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l3-q4",
@@ -1119,7 +1556,12 @@
           ],
           "answer": 1,
           "translation": "他母亲对他说：「别走！」",
-          "explain": "否定命令转述为 de ne pas + 不定式：de ne pas partir。de 在最前，ne pas 整体紧跟其后，不能拆开或把 pas 放到句末。先检查 ne pas 是否完整地位于不定式前。"
+          "explain": "否定命令转述为 de ne pas + 不定式：de ne pas partir。de 在最前，ne pas 整体紧跟其后，不能拆开或把 pas 放到句末。先检查 ne pas 是否完整地位于不定式前。",
+          "locales": {
+            "fr": {
+              "explain": "Un ordre négatif se rapporte avec de ne pas + infinitif : de ne pas partir. de est en tête, et ne pas forme un bloc devant l'infinitif ; on ne sépare pas les négations et on ne place pas pas à la fin. Vérifier d'abord que ne pas est complet et placé devant l'infinitif."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l3-q5",
@@ -1133,7 +1575,12 @@
           ],
           "answer": 3,
           "translation": "保罗让我在周五前把我的材料寄给他。",
-          "explain": "间接引语里的 lui 指保罗，回到直接引语是 moi；mon dossier 是转述者（原听话人）的材料，回到保罗口中是 ton dossier。命令式用 tu 形式 envoie。第一项保留 lui，第二、三项物主词方向错误。"
+          "explain": "间接引语里的 lui 指保罗，回到直接引语是 moi；mon dossier 是转述者（原听话人）的材料，回到保罗口中是 ton dossier。命令式用 tu 形式 envoie。第一项保留 lui，第二、三项物主词方向错误。",
+          "locales": {
+            "fr": {
+              "explain": "Dans le discours indirect, lui désigne Paul : dans la bouche de Paul, il redevient moi. mon dossier appartient au rapporteur, qui était l'interlocuteur d'origine : dans la bouche de Paul, il devient ton dossier. L'impératif reprend la forme tu, d'où Envoie. La première conserve lui, et les deux suivantes inversent les possessifs."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l3-q6",
@@ -1146,9 +1593,19 @@
             "i"
           ],
           "translation": "索菲让我们明天早上___回电话。",
-          "explain": "Sophie 是女性，作 rappeler 的直接宾语，用 la，放在不定式 rappeler 前。rappeler qn 意为「给某人回电话」，人作直接宾语；不要用 lui（间接宾语）或 le（阳性）。"
+          "explain": "Sophie 是女性，作 rappeler 的直接宾语，用 la，放在不定式 rappeler 前。rappeler qn 意为「给某人回电话」，人作直接宾语；不要用 lui（间接宾语）或 le（阳性）。",
+          "locales": {
+            "fr": {
+              "explain": "Sophie est une femme et elle est le complément d'objet direct de rappeler, qui signifie « téléphoner à quelqu'un » : on emploie la, placé devant l'infinitif rappeler. On n'emploie ni lui, complément d'objet indirect, ni le, forme masculine."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Rapporter un ordre et un ordre négatif (1)"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-l3-2",
@@ -1188,7 +1645,12 @@
             "qu'il"
           ],
           "translation": "保罗对玛丽说：「在周一前把它寄给我！」",
-          "explain": "命令式转 de + 不定式；原话 moi 指保罗，转述中作 lui；le 是直接宾语，两个代词按 le + lui 排序，放在 envoyer 前。不能保留 moi，也不能把 envoyer 变成过去分词 envoyé。"
+          "explain": "命令式转 de + 不定式；原话 moi 指保罗，转述中作 lui；le 是直接宾语，两个代词按 le + lui 排序，放在 envoyer 前。不能保留 moi，也不能把 envoyer 变成过去分词 envoyé。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif se rapporte avec de + infinitif ; moi désigne Paul et devient lui dans le discours rapporté ; le est complément d'objet direct, et les deux pronoms se placent dans l'ordre le + lui devant envoyer. On ne conserve pas moi et on ne met pas envoyer au participe passé envoyé."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l3-q8",
@@ -1202,7 +1664,12 @@
           ],
           "answer": 2,
           "translation": "她让我仔细听。",
-          "explain": "demander à qn de + 不定式；écouter 以元音开头，de 要省音为 d'，写成 d'écouter。de écouter 不符合省音规则；que 和 à 都不能引出这个不定式。"
+          "explain": "demander à qn de + 不定式；écouter 以元音开头，de 要省音为 d'，写成 d'écouter。de écouter 不符合省音规则；que 和 à 都不能引出这个不定式。",
+          "locales": {
+            "fr": {
+              "explain": "demander à qn de + infinitif ; écouter commence par une voyelle, donc de s'élide en d', d'où d'écouter. de écouter ne respecte pas l'élision ; que et à ne peuvent pas introduire cet infinitif."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l3-q9",
@@ -1216,7 +1683,12 @@
           ],
           "answer": 0,
           "translation": "老师叫保罗学习，并说他会通过考试。",
-          "explain": "命令式 travaille 对应转述的 de travailler；条件式 réussirait 由简单将来时 réussiras 回溯而来，还原时变回 réussiras；il 指 Paul，还原为 tu。"
+          "explain": "命令式 travaille 对应转述的 de travailler；条件式 réussirait 由简单将来时 réussiras 回溯而来，还原时变回 réussiras；il 指 Paul，还原为 tu。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif travaille correspond à de travailler dans le discours rapporté ; le conditionnel réussirait vient du futur simple réussiras, qui se rétablit au discours direct ; il reprend Paul et devient tu. La deuxième garde le conditionnel, la troisième change la personne et la quatrième emploie un passé composé."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l3-q10",
@@ -1230,7 +1702,12 @@
           ],
           "answer": 1,
           "translation": "她叫我快点，并说我会赶上火车。",
-          "explain": "命令式 dépêche-toi 对应 de me dépêcher；条件式 rattraperais 由简单将来时 rattraperas 回溯而来；me 指转述者，还原为 toi。"
+          "explain": "命令式 dépêche-toi 对应 de me dépêcher；条件式 rattraperais 由简单将来时 rattraperas 回溯而来；me 指转述者，还原为 toi。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif dépêche-toi correspond à de me dépêcher ; le conditionnel rattraperais vient du futur simple rattraperas ; me désigne le rapporteur et devient toi. La première garde le conditionnel, la troisième change la personne et la quatrième emploie un passé composé."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l3-q11",
@@ -1244,7 +1721,12 @@
           ],
           "answer": 2,
           "translation": "保罗叫玛丽去看医生，并让玛丽问医生她哪里疼。",
-          "explain": "两个并列命令都用 de + 不定式；内嵌疑问保留 où，语序回到陈述；as 回溯为 avais；lui 指 le médecin。"
+          "explain": "两个并列命令都用 de + 不定式；内嵌疑问保留 où，语序回到陈述；as 回溯为 avais；lui 指 le médecin。",
+          "locales": {
+            "fr": {
+              "explain": "Les deux ordres coordonnés se rapportent avec de + infinitif ; la question intérieure conserve où et revient à l'ordre déclaratif ; as recule en avais ; lui renvoie au médecin. La première ne recule pas le temps, la deuxième fait de il le sujet de « avoir mal » alors qu'il s'agit de Marie, et la quatrième omet de et conserve une forme de question directe."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l3-q12",
@@ -1258,9 +1740,19 @@
           ],
           "answer": 3,
           "translation": "莱娅叫汤姆回家，并让汤姆问他妹妹在哪里。",
-          "explain": "并列命令用 de + 不定式；où 保留，语序回到陈述；est 回溯为 était；ta sœur 对转述者 Tom 来说是 ma sœur。"
+          "explain": "并列命令用 de + 不定式；où 保留，语序回到陈述；est 回溯为 était；ta sœur 对转述者 Tom 来说是 ma sœur。",
+          "locales": {
+            "fr": {
+              "explain": "Les deux ordres coordonnés se rapportent avec de + infinitif ; la question intérieure conserve où et l'ordre déclaratif ; est recule en était ; ta sœur, vue par Tom qui rapporte, devient ma sœur. La première ne recule pas le temps, la deuxième omet de et ne recule pas, la troisième remplace à tort ta sœur par lui."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Rapporter un ordre et un ordre négatif (2)"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-l4-1",
@@ -1280,7 +1772,12 @@
           ],
           "answer": 2,
           "translation": "保罗对玛丽说：「我把我的自行车借给你。」",
-          "explain": "mon vélo 的 mon 指原说话人保罗；转述后从句主语是 il，物主词随主语用 son。mon 保留原说话人视角，ton 会把自行车指给听话人，leur 指复数所有者，都不符合。"
+          "explain": "mon vélo 的 mon 指原说话人保罗；转述后从句主语是 il，物主词随主语用 son。mon 保留原说话人视角，ton 会把自行车指给听话人，leur 指复数所有者，都不符合。",
+          "locales": {
+            "fr": {
+              "explain": "Dans mon vélo, mon renvoie au locuteur d'origine, Paul ; dans la subordonnée, le sujet est il et le possessif suit ce sujet : son vélo. mon conserverait le point de vue de Paul, ton attribuerait le vélo à l'interlocutrice et leur renverrait à plusieurs propriétaires."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q2",
@@ -1294,7 +1791,12 @@
           ],
           "answer": 0,
           "translation": "学生们对老师说：「我们完成了我们的报告。」",
-          "explain": "notre exposé 指学生们共同的报告；转述后所有者是 ils，物主词用 leur。exposé 是单数，leur 不加 s；notre 保留原说话人视角，son 指单数所有者，都不对。"
+          "explain": "notre exposé 指学生们共同的报告；转述后所有者是 ils，物主词用 leur。exposé 是单数，leur 不加 s；notre 保留原说话人视角，son 指单数所有者，都不对。",
+          "locales": {
+            "fr": {
+              "explain": "notre exposé désigne l'exposé commun des élèves ; après le discours rapporté, le propriétaire est ils, d'où leur. exposé est au singulier, donc leur ne prend pas de s. notre garderait le point de vue des élèves et son renverrait à un seul propriétaire."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q3",
@@ -1326,7 +1828,12 @@
             "te"
           ],
           "translation": "保罗对玛丽说：「我在火车站前等你。」",
-          "explain": "原话 je 指保罗，转述后作 il；te 指玛丽，玛丽自己转述时用 me。现在时 attends 在间接引语中后移为未完成过去时 attendait。t'attendait 会把等待对象指错，qu'elle 会换掉主语性别。"
+          "explain": "原话 je 指保罗，转述后作 il；te 指玛丽，玛丽自己转述时用 me。现在时 attends 在间接引语中后移为未完成过去时 attendait。t'attendait 会把等待对象指错，qu'elle 会换掉主语性别。",
+          "locales": {
+            "fr": {
+              "explain": "Dans l'énoncé d'origine, je désigne Paul et devient il ; te désigne Marie, qui rapporte elle-même, et devient me. Le présent attends recule en imparfait attendait. t'attendait désignerait la mauvaise personne, qu'elle changerait le genre du sujet."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q4",
@@ -1340,7 +1847,12 @@
           ],
           "answer": 1,
           "translation": "在「保罗对玛丽说他在火车站等人」中，「l'」指谁？",
-          "explain": "l' 是 la 的省音形式，作 attendre 的直接宾语，指前面提到的玛丽。它不指保罗，也不指火车站；代词的具体所指要回到上文人物判断。"
+          "explain": "l' 是 la 的省音形式，作 attendre 的直接宾语，指前面提到的玛丽。它不指保罗，也不指火车站；代词的具体所指要回到上文人物判断。",
+          "locales": {
+            "fr": {
+              "explain": "l' est la forme élidée de la, complément d'objet direct de attendre, et reprend Marie, mentionnée juste avant. Il ne reprend ni Paul, ni la gare, ni une amie de Paul ; pour identifier un pronom, il faut revenir aux personnes du contexte."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q5",
@@ -1354,7 +1866,12 @@
             "t"
           ],
           "translation": "玛丽对弟弟说她会把车借给___。",
-          "explain": "原话中的 à son frère 在转述中作间接宾语代词 lui，放在 prêtait 前。le / la 是直接宾语形式，leur 指复数间接宾语，都不符合这里的单数「弟弟」。"
+          "explain": "原话中的 à son frère 在转述中作间接宾语代词 lui，放在 prêtait 前。le / la 是直接宾语形式，leur 指复数间接宾语，都不符合这里的单数「弟弟」。",
+          "locales": {
+            "fr": {
+              "explain": "Dans l'énoncé d'origine, à son frère devient le pronom complément d'objet indirect lui, placé devant prêtait. le et la sont des formes de complément d'objet direct ; leur renverrait à plusieurs personnes, alors que le frère est au singulier."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q6",
@@ -1368,7 +1885,12 @@
           ],
           "answer": 3,
           "translation": "保罗对玛丽说：「你可以来我家。」",
-          "explain": "原话 tu 指玛丽，玛丽转述时改为 je；moi 指保罗，转述后改为 lui（chez lui）。pouvoir 的现在时在间接引语中后移为未完成过去时 pouvais。前三项分别保留了 tu 或 chez moi，指称会串位。"
+          "explain": "原话 tu 指玛丽，玛丽转述时改为 je；moi 指保罗，转述后改为 lui（chez lui）。pouvoir 的现在时在间接引语中后移为未完成过去时 pouvais。前三项分别保留了 tu 或 chez moi，指称会串位。",
+          "locales": {
+            "fr": {
+              "explain": "Dans l'énoncé d'origine, tu désigne Marie : quand Marie rapporte, tu devient je. moi désigne Paul et devient lui après chez. pouvoir au présent recule en imparfait pouvais. Les trois autres propositions conservent tu ou chez moi et déplacent ainsi les références."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q7",
@@ -1382,7 +1904,12 @@
           ],
           "answer": 1,
           "translation": "周一保罗说他见到了朱莉。周二玛丽转述：保罗说他___见到了朱莉。",
-          "explain": "原话的 hier 指保罗说话日（周一）之前的一天；转述发生在周二，这个时间点要按原话时间定位，用 la veille。hier 会把参照点移到转述日，指错日期；le lendemain 指之后一天；ce jour-là 对应 aujourd'hui。"
+          "explain": "原话的 hier 指保罗说话日（周一）之前的一天；转述发生在周二，这个时间点要按原话时间定位，用 la veille。hier 会把参照点移到转述日，指错日期；le lendemain 指之后一天；ce jour-là 对应 aujourd'hui。",
+          "locales": {
+            "fr": {
+              "explain": "hier, dans l'énoncé de lundi, désigne le dimanche. Le mardi, le même jour se dit la veille par rapport au moment du discours rapporté. hier déplacerait le repère sur le mardi, le lendemain indiquerait le mercredi et ce jour-là correspondrait à aujourd'hui."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q8",
@@ -1396,7 +1923,12 @@
           ],
           "answer": 0,
           "translation": "5 月 10 日她说：「我今天出发。」5 月 12 日她的朋友转述：「她说她___出发。」",
-          "explain": "原话 aujourd'hui 指 5 月 10 日；转述发生在 5 月 12 日，要用 ce jour-là 回指原话当天。aujourd'hui 会指 5 月 12 日；la veille 指前一天；le lendemain 指后一天。"
+          "explain": "原话 aujourd'hui 指 5 月 10 日；转述发生在 5 月 12 日，要用 ce jour-là 回指原话当天。aujourd'hui 会指 5 月 12 日；la veille 指前一天；le lendemain 指后一天。",
+          "locales": {
+            "fr": {
+              "explain": "aujourd'hui, dans l'énoncé du 10 mai, désigne le 10 mai. Le 12 mai, ce jour-là renvoie à cette date d'origine. aujourd'hui désignerait le 12 mai ; la veille et le lendemain décaleraient la date."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q9",
@@ -1427,9 +1959,20 @@
             "qu'il"
           ],
           "translation": "朱莉说：「我明天走。」",
-          "explain": "现在时 pars 在间接引语中后移为未完成过去时 partait；demain 在事后转述中变为 le lendemain。不能保留 demain，也不能用简单将来时 partira。"
+          "explain": "现在时 pars 在间接引语中后移为未完成过去时 partait；demain 在事后转述中变为 le lendemain。不能保留 demain，也不能用简单将来时 partira。",
+          "locales": {
+            "fr": {
+              "explain": "Le présent pars recule en imparfait partait dans le discours indirect ; demain, quand on rapporte le lendemain, devient le lendemain. On ne conserve pas demain et on n'emploie pas le futur simple partira.",
+              "prompt": "Rapportez les paroles de Julie : « Je pars demain. » → Julie a dit que... (transposition le lendemain)"
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Références de personne, de temps et de lieu (1)"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-l4-2",
@@ -1449,7 +1992,12 @@
             "t"
           ],
           "translation": "他讲述说他___到的。",
-          "explain": "hier 在事后转述中变为 la veille；la veille 是阴性名词短语，冠词用 la。拼写为 v-e-i-l-l-e，不要写成 veile。"
+          "explain": "hier 在事后转述中变为 la veille；la veille 是阴性名词短语，冠词用 la。拼写为 v-e-i-l-l-e，不要写成 veile。",
+          "locales": {
+            "fr": {
+              "explain": "hier devient la veille quand le discours rapporté est postérieur ; l'expression est feminine, d'où la veille. L'orthographe est v-e-i-l-l-e, et non veile."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q11",
@@ -1463,7 +2011,12 @@
           ],
           "answer": 3,
           "translation": "6 月 3 日她宣布：「我下周回来。」6 月 20 日人们转述：「她宣布她___回来。」",
-          "explain": "原话 prochaine 指 6 月 3 日之后的一周；到 6 月 20 日转述时，要改用 suivante（接下来的一周）。précédente 指前一周；prochaine 保留原说话人视角；cette semaine-là 指当周。"
+          "explain": "原话 prochaine 指 6 月 3 日之后的一周；到 6 月 20 日转述时，要改用 suivante（接下来的一周）。précédente 指前一周；prochaine 保留原说话人视角；cette semaine-là 指当周。",
+          "locales": {
+            "fr": {
+              "explain": "la semaine prochaine, dans l'énoncé du 3 juin, désigne la semaine qui suit cette date. Le 20 juin, on emploie la semaine suivante pour renvoyer à cette même semaine. précédente désignerait la semaine antérieure, prochaine resterait dans la perspective d'origine et cette semaine-là désignerait la semaine en cours."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q12",
@@ -1477,7 +2030,12 @@
           ],
           "answer": 2,
           "translation": "保罗今天早上说：「我明天出发。」当天中午玛丽转述：「保罗说他___出发。」",
-          "explain": "转述与原话在同一天，明天仍是同一个明天，demain 可以保留。la veille 和 hier 指过去，ce jour-là 指当天，都不符合。时间词是否改，要看转述时间，不能机械替换。"
+          "explain": "转述与原话在同一天，明天仍是同一个明天，demain 可以保留。la veille 和 hier 指过去，ce jour-là 指当天，都不符合。时间词是否改，要看转述时间，不能机械替换。",
+          "locales": {
+            "fr": {
+              "explain": "Le discours rapporté a lieu le même jour que l'énoncé : demain désigne encore le même lendemain et peut être conservé. la veille et hier renverraient au passé, ce jour-là désignerait le jour même. Le changement des indicateurs temporels dépend du moment du discours rapporté, non d'un remplacement mécanique."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q13",
@@ -1491,7 +2049,12 @@
           ],
           "answer": 2,
           "translation": "上周他说：「我两天前到的。」今天人们转述：「他说他在___到的。」",
-          "explain": "原话 il y a deux jours 从原说话时点向前数；转述时点后移后，同一个时间点要用 deux jours plus tôt（或 auparavant）。dans deux jours 和 plus tard 指向将来；il y a deux jours 会按转述时点重新计算，变成另一个时间。"
+          "explain": "原话 il y a deux jours 从原说话时点向前数；转述时点后移后，同一个时间点要用 deux jours plus tôt（或 auparavant）。dans deux jours 和 plus tard 指向将来；il y a deux jours 会按转述时点重新计算，变成另一个时间。",
+          "locales": {
+            "fr": {
+              "explain": "il y a deux jours se compte à partir du moment de l'énoncé d'origine. Quand le discours rapporté est postérieur, le même point se situe deux jours plus tôt par rapport au nouveau repère (ou auparavant). dans deux jours et plus tard indiqueraient l'avenir ; il y a deux jours serait recalculé à partir du nouveau moment et désignerait une autre date."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q14",
@@ -1505,7 +2068,12 @@
           ],
           "answer": 1,
           "translation": "在巴黎，朱莉说：「我在这里工作一年了。」她住在里昂的朋友转述：「朱莉说她在___工作一年了。」",
-          "explain": "原话 ici 指巴黎；转述者在里昂，离原地点远，用 là-bas。ici 会指里昂，d'ici 和 par ici 都仍以转述者所在地为参照，不符合。"
+          "explain": "原话 ici 指巴黎；转述者在里昂，离原地点远，用 là-bas。ici 会指里昂，d'ici 和 par ici 都仍以转述者所在地为参照，不符合。",
+          "locales": {
+            "fr": {
+              "explain": "ici, dans l'énoncé à Paris, désigne Paris. Le rapporteur vit à Lyon et se trouve loin du lieu d'origine : il emploie là-bas. ici renverrait à Lyon ; d'ici et par ici prendraient encore pour repère le lieu du rapporteur."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q15",
@@ -1519,7 +2087,12 @@
           ],
           "answer": 3,
           "translation": "在厨房里，保罗说：「我在这里等你。」两分钟后，还在厨房的玛丽转述：「保罗说他在___等我。」",
-          "explain": "转述地点与原话相同（都在这间厨房），ici 仍然指同一个地点，可以保留。机械换成 là-bas 反而会把地点推远；ailleurs 和 de là-bas 更不符合。"
+          "explain": "转述地点与原话相同（都在这间厨房），ici 仍然指同一个地点，可以保留。机械换成 là-bas 反而会把地点推远；ailleurs 和 de là-bas 更不符合。",
+          "locales": {
+            "fr": {
+              "explain": "Le discours rapporté a lieu dans la même cuisine que l'énoncé : ici désigne encore le même lieu et peut être conservé. Remplacer mécaniquement par là-bas éloignerait à tort le lieu ; ailleurs et de là-bas ne correspondent pas à la situation."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q16",
@@ -1552,7 +2125,12 @@
             "veille"
           ],
           "translation": "上周在火车站，保罗对玛丽说：「我明天在这里等你。」今天在自己家，玛丽讲述：……",
-          "explain": "人称：je → il，te → me。地点：原话 ici 指火车站，玛丽现在在家，改为 là-bas。时间：demain 在事后转述中改为 le lendemain。时态：现在时改为未完成过去时。四项要同时调整。"
+          "explain": "人称：je → il，te → me。地点：原话 ici 指火车站，玛丽现在在家，改为 là-bas。时间：demain 在事后转述中改为 le lendemain。时态：现在时改为未完成过去时。四项要同时调整。",
+          "locales": {
+            "fr": {
+              "explain": "Personnes : je devient il et te devient me. Lieu : ici désignait la gare, et Marie rapporte depuis chez elle, d'où là-bas. Temps : demain, rapporté plus tard, devient le lendemain. Le présent recule aussi en imparfait attendait. Les quatre ajustements se font ensemble."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q17",
@@ -1566,7 +2144,12 @@
           ],
           "answer": 0,
           "translation": "在图书馆，保罗打电话对玛丽说：「我在那儿等你，在入口前。」玛丽到了图书馆后对姐姐说：……",
-          "explain": "原话 là 指图书馆入口；玛丽现在就在同一地点，转述时用 ici。若她在别处，才用 là-bas。地点词跟着转述者的实际位置变，不是固定替换。"
+          "explain": "原话 là 指图书馆入口；玛丽现在就在同一地点，转述时用 ici。若她在别处，才用 là-bas。地点词跟着转述者的实际位置变，不是固定替换。",
+          "locales": {
+            "fr": {
+              "explain": "là, dans l'énoncé, désignait l'entrée de la bibliothèque. Marie est maintenant sur place, au même endroit : elle emploie ici. Si elle était ailleurs, elle emploierait là-bas. Le mot de lieu suit la position réelle du rapporteur, sans remplacement fixe."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l4-q18",
@@ -1602,9 +2185,19 @@
             "voit"
           ],
           "translation": "保罗说：「我昨天看过这部电影。」（第二天转述）",
-          "explain": "原话复合过去时 j'ai vu 在间接引语中后移为愈过去时 j'avais vu（avoir 的未完成过去时加过去分词）；hier 改为 la veille。不能用未完成过去时 voyait 或现在时 voit 代替。"
+          "explain": "原话复合过去时 j'ai vu 在间接引语中后移为愈过去时 j'avais vu（avoir 的未完成过去时加过去分词）；hier 改为 la veille。不能用未完成过去时 voyait 或现在时 voit 代替。",
+          "locales": {
+            "fr": {
+              "explain": "Le passé composé j'ai vu recule en plus-que-parfait j'avais vu (auxiliaire à l'imparfait + participe passé), et hier devient la veille quand on rapporte le lendemain. On ne remplace pas le plus-que-parfait par l'imparfait voyait ni par le présent voit."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Références de personne, de temps et de lieu (2)"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-l5-1",
@@ -1624,7 +2217,12 @@
           ],
           "answer": 2,
           "translation": "他对我说他前一天找到了一套公寓。",
-          "explain": "间接引语里 avait trouvé 是愈过去时，说明动作先于「说」这个过去参照点完成，还原为复合过去时 ai trouvé；la veille 还原为 hier。原说话人是 il，直接引语的第一人称用 je；m' 本身不出现，听话人在直接引语中用 tu 称呼。第一项误用条件式，与 hier 的过去时间矛盾；第二项把时态改成将来时并换了时间词，第四项人称错。"
+          "explain": "间接引语里 avait trouvé 是愈过去时，说明动作先于「说」这个过去参照点完成，还原为复合过去时 ai trouvé；la veille 还原为 hier。原说话人是 il，直接引语的第一人称用 je；m' 本身不出现，听话人在直接引语中用 tu 称呼。第一项误用条件式，与 hier 的过去时间矛盾；第二项把时态改成将来时并换了时间词，第四项人称错。",
+          "locales": {
+            "fr": {
+              "explain": "Dans le discours indirect, avait trouvé est un plus-que-parfait : il indique que l'action était achevée avant le repère passé « dire », et se rétablit au passé composé ai trouvé ; la veille redevient hier. Le locuteur d'origine est il, qui devient je au discours direct ; le m' du discours indirect n'apparaît pas et l'interlocuteur est désigné par tu. La première proposition emploie à tort le conditionnel, en contradiction avec hier ; la deuxième change le temps et l'indicateur ; la quatrième se trompe de personne."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q2",
@@ -1638,7 +2236,12 @@
             "t"
           ],
           "translation": "他问我是否会来。→「你___？」（原问题用将来时。）",
-          "explain": "si 从句还原为一般疑问句，去掉 si；条件式现在时 viendrais 对应简单将来时 viendras；原说话人问的是「我」，直接引语用 tu。venir 的简单将来时是 viendras，不能写条件式 viendrais，也不能写现在时 viens。间接条件式也可能来自直接条件式，但本题已限定原话为将来时，所以还原为 viendras。"
+          "explain": "si 从句还原为一般疑问句，去掉 si；条件式现在时 viendrais 对应简单将来时 viendras；原说话人问的是「我」，直接引语用 tu。venir 的简单将来时是 viendras，不能写条件式 viendrais，也不能写现在时 viens。间接条件式也可能来自直接条件式，但本题已限定原话为将来时，所以还原为 viendras。",
+          "locales": {
+            "fr": {
+              "explain": "La subordonnée en si redevient une question totale sans si ; le conditionnel présent viendrais correspond au futur simple viendras, et l'interlocuteur d'origine, qui était « je » dans le discours indirect, devient tu. On n'écrit ni le conditionnel viendrais ni le présent viens. Le conditionnel indirect peut aussi venir d'un conditionnel direct, mais l'énoncé précise que la phrase d'origine était au futur, d'où viendras."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q3",
@@ -1665,7 +2268,12 @@
             "aider"
           ],
           "translation": "她问我第二天能不能帮她。",
-          "explain": "间接问句 si je pouvais l'aider 还原为一般疑问句：去掉 si，pouvoir 的未完成过去时 pouvais 还原为现在时 peux；je 还原为 tu，l' 指 elle，还原为 me。le lendemain 还原为 demain。倒装疑问式 Peux-tu 保持主谓倒装；Pouvez-vous 是 vous 形式，与「我」这个听话人不符。"
+          "explain": "间接问句 si je pouvais l'aider 还原为一般疑问句：去掉 si，pouvoir 的未完成过去时 pouvais 还原为现在时 peux；je 还原为 tu，l' 指 elle，还原为 me。le lendemain 还原为 demain。倒装疑问式 Peux-tu 保持主谓倒装；Pouvez-vous 是 vous 形式，与「我」这个听话人不符。",
+          "locales": {
+            "fr": {
+              "explain": "La question indirecte si je pouvais l'aider redevient une question totale : on retire si, l'imparfait pouvais redevient le présent peux, je redevient tu et l', qui désigne elle, redevient me ; le lendemain redevient demain. L'inversion Peux-tu est conservée ; Pouvez-vous est la forme de vous et ne correspond pas à l'interlocuteur « je »."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q4",
@@ -1679,7 +2287,12 @@
           ],
           "answer": 1,
           "translation": "她对我们说不要忘记带钥匙。",
-          "explain": "de ne pas + 不定式是转述否定命令的结构，还原为否定命令式：ne ... pas 放在变位动词两侧，动词用 vous 形式 oubliez（elle 对我们说话）。nos clés 随听话人改为 vos clés。第一项把 nous 当成宾语，结构混乱；第三项用 nous 命令式，与 elle 对 nous 说话的关系不符；第四项不是命令式，也没有 ne ... pas 结构。"
+          "explain": "de ne pas + 不定式是转述否定命令的结构，还原为否定命令式：ne ... pas 放在变位动词两侧，动词用 vous 形式 oubliez（elle 对我们说话）。nos clés 随听话人改为 vos clés。第一项把 nous 当成宾语，结构混乱；第三项用 nous 命令式，与 elle 对 nous 说话的关系不符；第四项不是命令式，也没有 ne ... pas 结构。",
+          "locales": {
+            "fr": {
+              "explain": "de ne pas + infinitif est la structure d'un ordre négatif rapporté : il se rétablit en impératif négatif, avec ne ... pas de part et d'autre du verbe conjugué, et la forme vous oubliez puisqu'elle parle à nous. nos clés devient vos clés selon le nouvel interlocuteur. La première proposition fait de nous un objet, la troisième emploie l'impératif nous et la quatrième n'est pas un ordre négatif."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q5",
@@ -1693,7 +2306,12 @@
           ],
           "answer": 3,
           "translation": "马克说他的女性朋友很高兴再见到他。",
-          "explain": "表语形容词的性数随新主语 son amie（阴性单数），写 contente；不能随转述人 Marc 写 content。contents 是阳性复数，contentes 是阴性复数，都与单数主语不符。"
+          "explain": "表语形容词的性数随新主语 son amie（阴性单数），写 contente；不能随转述人 Marc 写 content。contents 是阳性复数，contentes 是阴性复数，都与单数主语不符。",
+          "locales": {
+            "fr": {
+              "explain": "L'adjectif attribut s'accorde avec le nouveau sujet son amie, féminin singulier : contente. Il ne s'accorde pas avec Marc, le rapporteur. contents est masculin pluriel et contentes féminin pluriel, tous deux incompatibles avec un sujet singulier."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q6",
@@ -1707,7 +2325,12 @@
             "t"
           ],
           "translation": "双胞胎姐妹说她们中午到的。",
-          "explain": "arriver 以 être 作助动词，过去分词要与主语 elles 配合；elles 指 les jumelles，阴性复数，写 arrivées。不能写 arrivé（未配合）、arrivée（单数）或 arrivés（阳性复数）。"
+          "explain": "arriver 以 être 作助动词，过去分词要与主语 elles 配合；elles 指 les jumelles，阴性复数，写 arrivées。不能写 arrivé（未配合）、arrivée（单数）或 arrivés（阳性复数）。",
+          "locales": {
+            "fr": {
+              "explain": "arriver se construit avec être, et le participe passé s'accorde avec le sujet elles ; elles reprend les jumelles, féminin pluriel, d'où arrivées. On n'écrit ni arrivé sans accord, ni arrivée au singulier, ni arrivés au masculin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q7",
@@ -1721,7 +2344,12 @@
           ],
           "answer": 0,
           "translation": "她解释说她饭前洗了手。",
-          "explain": "代词式动词的过去分词是否配合，要看自反代词的角色。se laver les mains 中 les mains 是直接宾语，se 是间接宾语（「给自己」洗），所以分词不配合，写 lavé。若句子是 elle s'est lavée（se 本身是直接宾语），才写 lavée；lavés、lavées 既不符合主语单数，也没有配合依据。"
+          "explain": "代词式动词的过去分词是否配合，要看自反代词的角色。se laver les mains 中 les mains 是直接宾语，se 是间接宾语（「给自己」洗），所以分词不配合，写 lavé。若句子是 elle s'est lavée（se 本身是直接宾语），才写 lavée；lavés、lavées 既不符合主语单数，也没有配合依据。",
+          "locales": {
+            "fr": {
+              "explain": "Dans un verbe pronominal, l'accord du participe dépend du rôle du pronom réfléchi. Dans se laver les mains, les mains est le complément d'objet direct et se est le complément d'objet indirect (« à soi-même ») : le participe ne s'accorde pas et reste lavé. Si la phrase était elle s'est lavée, se serait le complément d'objet direct et l'on écrirait lavée ; lavés et lavées ne correspondent ni au sujet singulier ni à un accord justifié."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q8",
@@ -1735,7 +2363,12 @@
           ],
           "answer": 2,
           "translation": "这些信，他肯定说他当天早上就写好了。",
-          "explain": "les 指 ces lettres，阴性复数，是 avoir 助动词前的直接宾语，过去分词要配合写 écrites。écrit 未配合，écrite 是阴性单数，écrits 是阳性复数。判断关键是：宾语是否前置、是否为直接宾语，而不是主语。"
+          "explain": "les 指 ces lettres，阴性复数，是 avoir 助动词前的直接宾语，过去分词要配合写 écrites。écrit 未配合，écrite 是阴性单数，écrits 是阳性复数。判断关键是：宾语是否前置、是否为直接宾语，而不是主语。",
+          "locales": {
+            "fr": {
+              "explain": "Les reprend ces lettres, féminin pluriel ; il est complément d'objet direct antéposé du verbe conjugué avec avoir, donc le participe s'accorde : écrites. écrit ne s'accorde pas, écrite est féminin singulier et écrits masculin pluriel. Le critère est la fonction et le référent de l'objet antéposé, non le sujet."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q9",
@@ -1749,9 +2382,19 @@
             "t"
           ],
           "translation": "这张照片？他发誓说走之前拍过。",
-          "explain": "l' 指 cette photo，阴性单数；它是 prendre 的直接宾语，位于过去分词前，分词配合写 prise。不能只看 l' 的形式，要回到所指名词判断性数；也不能写阳性 pris。"
+          "explain": "l' 指 cette photo，阴性单数；它是 prendre 的直接宾语，位于过去分词前，分词配合写 prise。不能只看 l' 的形式，要回到所指名词判断性数；也不能写阳性 pris。",
+          "locales": {
+            "fr": {
+              "explain": "l' reprend cette photo, féminin singulier ; il est complément d'objet direct de prendre et se place avant le participe, d'où l'accord prise. On ne décide pas d'après la seule forme l' : il faut revenir au nom repris. On n'écrit pas pris au masculin."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Reconstruire le discours direct et les accords (1)"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-l5-2",
@@ -1787,7 +2430,12 @@
             "le"
           ],
           "translation": "她说她坐错了火车。",
-          "explain": "s'était trompée 是愈过去时，还原为复合过去时 me suis trompée；主语 elle 还原为 je，自反代词 s' 还原为 me。tromper 在这个代词式结构里自反代词是直接宾语，分词与女性说话人配合写 trompée；若说话人是男性则写 trompé。Il / s'est 人称不对，s'était 没有还原时态。"
+          "explain": "s'était trompée 是愈过去时，还原为复合过去时 me suis trompée；主语 elle 还原为 je，自反代词 s' 还原为 me。tromper 在这个代词式结构里自反代词是直接宾语，分词与女性说话人配合写 trompée；若说话人是男性则写 trompé。Il / s'est 人称不对，s'était 没有还原时态。",
+          "locales": {
+            "fr": {
+              "explain": "s'était trompée est un plus-que-parfait et se rétablit au passé composé me suis trompée ; le sujet elle redevient je, et le pronom réfléchi s' redevient me. Dans cette structure pronominale, le pronom réfléchi est complément d'objet direct : le participe s'accorde avec la locutrice, d'où trompée (trompé pour un locuteur masculin). Il / s'est ne correspond pas à la personne, et s'était conserve le plus-que-parfait sans le rétablir."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q11",
@@ -1801,7 +2449,12 @@
           ],
           "answer": 1,
           "translation": "他回答说他第二天会回到那里。",
-          "explain": "条件式现在时 reviendrait 还原为简单将来时 reviendrai；le lendemain 还原为 demain；là-bas 指远离转述者的地方，本题说明原说话人说的就是自己所在的地点，所以还原为 ici；原说话人 il 还原为 je。题干已限定原话为将来时，因此用 reviendrai，不用条件式 reviendrais。第一项时态和时间词都没还原，第三项保留了 là-bas，第四项人称错。"
+          "explain": "条件式现在时 reviendrait 还原为简单将来时 reviendrai；le lendemain 还原为 demain；là-bas 指远离转述者的地方，本题说明原说话人说的就是自己所在的地点，所以还原为 ici；原说话人 il 还原为 je。题干已限定原话为将来时，因此用 reviendrai，不用条件式 reviendrais。第一项时态和时间词都没还原，第三项保留了 là-bas，第四项人称错。",
+          "locales": {
+            "fr": {
+              "explain": "Le conditionnel présent reviendrait se rétablit au futur simple reviendrai ; le lendemain redevient demain ; là-bas désigne un lieu éloigné du rapporteur, mais l'énoncé précise que le locuteur parle de l'endroit où il se trouve, d'où ici ; il redevient je. La phrase d'origine étant au futur, on emploie reviendrai et non le conditionnel reviendrais. La première ne rétablit ni le temps ni le temps verbal, la troisième conserve là-bas et la quatrième se trompe de personne."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q12",
@@ -1815,7 +2468,12 @@
           ],
           "answer": 0,
           "translation": "经理宣布工程比预期更早完成。",
-          "explain": "这是被动式 avoir été + 过去分词；分词随被动主语 les travaux（阳性复数）配合，写 terminés。不能与主句主语 le directeur 配合；terminé 未配合，terminée 阴性单数，terminées 阴性复数。"
+          "explain": "这是被动式 avoir été + 过去分词；分词随被动主语 les travaux（阳性复数）配合，写 terminés。不能与主句主语 le directeur 配合；terminé 未配合，terminée 阴性单数，terminées 阴性复数。",
+          "locales": {
+            "fr": {
+              "explain": "Il s'agit d'un passif avoir été + participe passé ; le participe s'accorde avec le sujet passif les travaux, masculin pluriel, d'où terminés. Il ne s'accorde pas avec le directeur, sujet de la principale. terminé n'est pas accordé, terminée est féminin singulier et terminées féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q13",
@@ -1829,7 +2487,12 @@
           ],
           "answer": 2,
           "translation": "玛丽声明：「我准备的东西在冰箱里。」→ 玛丽声明她准备的东西在冰箱里。",
-          "explain": "引导动词 déclare 是现在时，间接引语沿用原时态，保留复合过去时 a préparé，不后移成 avait préparé。ce que 是 préparer 的直接宾语并位于分词前，但 ce 是中性代词，不体现性数，所以分词不配合，不能写 a préparée；avais 人称也不对。"
+          "explain": "引导动词 déclare 是现在时，间接引语沿用原时态，保留复合过去时 a préparé，不后移成 avait préparé。ce que 是 préparer 的直接宾语并位于分词前，但 ce 是中性代词，不体现性数，所以分词不配合，不能写 a préparée；avais 人称也不对。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe introducteur déclare est au présent : le discours indirect conserve le passé composé a préparé, sans recul en plus-que-parfait. Ce que est complément d'objet direct antéposé de préparer, mais ce est un pronom neutre qui ne marque ni genre ni nombre : le participe reste préparé, et l'on n'écrit pas a préparée. avais ne correspond pas à la personne."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q14",
@@ -1843,7 +2506,12 @@
           ],
           "answer": 0,
           "translation": "她说她前一天到了。",
-          "explain": "愈过去时 était arrivée 由复合过去时 suis arrivée 回溯而来；la veille 还原为 hier；elle 指原说话人，还原为 je；原说话人是女性，分词配合为 arrivée。选项 C 的 J'arrivais 是未完成过去时，不能对应愈过去时 était arrivée。"
+          "explain": "愈过去时 était arrivée 由复合过去时 suis arrivée 回溯而来；la veille 还原为 hier；elle 指原说话人，还原为 je；原说话人是女性，分词配合为 arrivée。选项 C 的 J'arrivais 是未完成过去时，不能对应愈过去时 était arrivée。",
+          "locales": {
+            "fr": {
+              "explain": "Le plus-que-parfait était arrivée se rétablit au passé composé suis arrivée ; la veille redevient hier ; elle désigne le locuteur d'origine, qui redevient je ; la locutrice est une femme, d'où l'accord arrivée. J'arrivais est un imparfait et ne correspond pas au plus-que-parfait était arrivée."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q15",
@@ -1857,7 +2525,12 @@
           ],
           "answer": 1,
           "translation": "他说他前一天走了。",
-          "explain": "愈过去时 était parti 由复合过去时 suis parti 回溯而来；la veille 还原为 hier；il 指原说话人（男性），还原为 je，分词配合为 parti。选项 C 的 Je partais 是未完成过去时，不能对应愈过去时 était parti。"
+          "explain": "愈过去时 était parti 由复合过去时 suis parti 回溯而来；la veille 还原为 hier；il 指原说话人（男性），还原为 je，分词配合为 parti。选项 C 的 Je partais 是未完成过去时，不能对应愈过去时 était parti。",
+          "locales": {
+            "fr": {
+              "explain": "Le plus-que-parfait était parti se rétablit au passé composé suis parti ; la veille redevient hier ; il désigne le locuteur d'origine, un homme, qui redevient je, d'où l'accord parti. Je partais est un imparfait et ne correspond pas au plus-que-parfait était parti."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q16",
@@ -1871,7 +2544,12 @@
           ],
           "answer": 2,
           "translation": "他回答说他待在那边。",
-          "explain": "愈过去时 était resté 由复合过去时 suis resté 回溯而来；题干说明他说的就是自己所在的地点，所以 là-bas 还原为 ici。选项 B 的 Je restais 是未完成过去时，不能对应愈过去时 était resté。"
+          "explain": "愈过去时 était resté 由复合过去时 suis resté 回溯而来；题干说明他说的就是自己所在的地点，所以 là-bas 还原为 ici。选项 B 的 Je restais 是未完成过去时，不能对应愈过去时 était resté。",
+          "locales": {
+            "fr": {
+              "explain": "Le plus-que-parfait était resté se rétablit au passé composé suis resté ; l'énoncé précise qu'il parle de l'endroit où il se trouve, donc là-bas redevient ici. Je restais est un imparfait et ne correspond pas au plus-que-parfait était resté."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q17",
@@ -1885,7 +2563,12 @@
           ],
           "answer": 3,
           "translation": "保罗问玛丽是什么让她难过。",
-          "explain": "qu'est-ce qui 转为 ce qui；引导动词现在时，时态不回溯，保留 a rendue；te 指 Marie，转述为 me；me 置于分词前，分词与所指（女性）配合为 rendue。"
+          "explain": "qu'est-ce qui 转为 ce qui；引导动词现在时，时态不回溯，保留 a rendue；te 指 Marie，转述为 me；me 置于分词前，分词与所指（女性）配合为 rendue。",
+          "locales": {
+            "fr": {
+              "explain": "qu'est-ce qui devient ce qui ; le verbe introducteur est au présent, donc le passé composé a rendue est conservé ; te désigne Marie et devient me ; me est placé avant le participe, qui s'accorde avec le référent féminin, d'où rendue. La première omet l'accord, la deuxième emploie ce que et la troisième conserve te."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-l5-q18",
@@ -1899,9 +2582,19 @@
           ],
           "answer": 0,
           "translation": "朱莉问莱娅是什么让她惊讶。",
-          "explain": "qu'est-ce qui 转为 ce qui；时态不回溯；te 指 Léa，转述为 me；分词与所指（女性）配合为 surprise。"
+          "explain": "qu'est-ce qui 转为 ce qui；时态不回溯；te 指 Léa，转述为 me；分词与所指（女性）配合为 surprise。",
+          "locales": {
+            "fr": {
+              "explain": "qu'est-ce qui devient ce qui ; le verbe introducteur est au présent, donc le passé composé est conservé ; te désigne Léa et devient me ; le participe s'accorde avec le référent féminin, d'où surprise. La deuxième omet l'accord, la troisième emploie ce que et la quatrième conserve te."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Reconstruire le discours direct et les accords (2)"
+        }
+      }
     }
   ],
   "challenges": [
@@ -1923,7 +2616,12 @@
           ],
           "answer": 2,
           "translation": "她对我说：「我明天出发。」→ 她对我说她___。",
-          "explain": "直接引语 je 指 elle，转述时改为 elle；简单将来时 partirai 后移为条件式现在时 partirait；demain 以「说」的过去时刻为参照，改为 le lendemain。partira 没有后移；surlendemain 是「后天」；veille 是「前一天」，方向相反。"
+          "explain": "直接引语 je 指 elle，转述时改为 elle；简单将来时 partirai 后移为条件式现在时 partirait；demain 以「说」的过去时刻为参照，改为 le lendemain。partira 没有后移；surlendemain 是「后天」；veille 是「前一天」，方向相反。",
+          "locales": {
+            "fr": {
+              "explain": "Dans l'énoncé d'origine, je désigne elle et devient elle dans le discours indirect ; le futur simple partirai recule en conditionnel présent partirait ; demain, qui prend pour repère le moment passé de « dire », devient le lendemain. partira ne recule pas ; surlendemain signifie « deux jours après » ; veille signifie « la veille », de sens opposé."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x1-q2",
@@ -1937,7 +2635,12 @@
           ],
           "answer": 1,
           "translation": "他问我：「你会和我们一起去吗？」",
-          "explain": "一般疑问句用 si 引导，去掉 est-ce que；简单将来时 viendras 后移为条件式现在时 viendrais；tu 指听话人「我」，改为 je。nous 指原说话人一方，转述时从「我」的角度看是「他们」，用 eux；nous 会错误保留原说话人的视角，leur 是间接宾语代词，不能作 avec 的宾语。"
+          "explain": "一般疑问句用 si 引导，去掉 est-ce que；简单将来时 viendras 后移为条件式现在时 viendrais；tu 指听话人「我」，改为 je。nous 指原说话人一方，转述时从「我」的角度看是「他们」，用 eux；nous 会错误保留原说话人的视角，leur 是间接宾语代词，不能作 avec 的宾语。",
+          "locales": {
+            "fr": {
+              "explain": "Une question totale se rapporte avec si, sans est-ce que ; le futur simple viendras recule en conditionnel présent viendrais ; tu désigne l'interlocuteur « moi » et devient je. nous renvoie au groupe du locuteur d'origine ; vu du rapporteur, ce groupe est « eux », d'où avec eux. nous conserverait le point de vue d'origine et leur est un pronom complément d'objet indirect, qui ne peut pas suivre avec."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x1-q3",
@@ -1951,7 +2654,12 @@
           ],
           "answer": 0,
           "translation": "她问我：「你今晚做什么？」",
-          "explain": "qu'est-ce que 在间接引语中变为 ce que，并改用陈述语序；现在时 fais 后移为未完成过去时 faisais；ce soir 以过去为参照改为 ce soir-là。fais 没有后移；ferai 是将来时；ferais 是条件式，不能对应原话的现在时。"
+          "explain": "qu'est-ce que 在间接引语中变为 ce que，并改用陈述语序；现在时 fais 后移为未完成过去时 faisais；ce soir 以过去为参照改为 ce soir-là。fais 没有后移；ferai 是将来时；ferais 是条件式，不能对应原话的现在时。",
+          "locales": {
+            "fr": {
+              "explain": "qu'est-ce que devient ce que, et la subordonnée reprend l'ordre déclaratif ; le présent fais recule en imparfait faisais ; ce soir, rapporté dans le passé, devient ce soir-là. fais ne recule pas ; ferai est au futur et ferais au conditionnel, qui ne correspondent pas au présent d'origine."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x1-q4",
@@ -1986,7 +2694,13 @@
             "de"
           ],
           "translation": "老师对我们说：「明天把你们的练习本带来。」",
-          "explain": "肯定命令式转为 demander de + 不定式；de 在元音前省音为 d'。vos cahiers 的物主词随听话人 nous 改为 nos；demain 以过去为参照改为 le lendemain。apporter 前少了 de、保留 vos、保留 demain 都不符合转述要求。"
+          "explain": "肯定命令式转为 demander de + 不定式；de 在元音前省音为 d'。vos cahiers 的物主词随听话人 nous 改为 nos；demain 以过去为参照改为 le lendemain。apporter 前少了 de、保留 vos、保留 demain 都不符合转述要求。",
+          "locales": {
+            "fr": {
+              "explain": "L'impératif affirmatif se rapporte avec demander de + infinitif ; de s'élide devant apporter en d'. Le possessif vos cahiers suit le nouvel interlocuteur nous et devient nos cahiers ; demain, rapporté le lendemain, devient le lendemain. Omettre de, conserver vos ou garder demain ne respecte pas la conversion.",
+              "prompt": "Transformez au discours indirect : « Apportez vos cahiers demain », nous a demandé le professeur. (transposition le lendemain)"
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x1-q5",
@@ -2000,7 +2714,12 @@
           ],
           "answer": 0,
           "translation": "母亲对孩子们喊：「不要过马路！」",
-          "explain": "否定命令转述为 de ne pas + 不定式，ne pas 整体置于不定式前；这是识别题，不要求产出。"
+          "explain": "否定命令转述为 de ne pas + 不定式，ne pas 整体置于不定式前；这是识别题，不要求产出。",
+          "locales": {
+            "fr": {
+              "explain": "Un ordre négatif se rapporte avec de ne pas + infinitif, ne pas formant un bloc devant l'infinitif : de ne pas traverser. Les autres propositions séparent ne pas, placent mal de ou mettent le verbe à une forme conjuguée. Cette question ne demande que la reconnaissance de la structure correcte."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x1-q6",
@@ -2014,9 +2733,19 @@
             "s"
           ],
           "translation": "她肯定她前一天看过这部电影。",
-          "explain": "直接引语用复合过去时 j'ai vu；转述动词 a affirmé 是过去时，动作先于这个过去参照点，后移为愈过去时 avait vu。avoir 的未完成过去时是 avait，不能写复合过去时的 a，也不能写现在时 ai。"
+          "explain": "直接引语用复合过去时 j'ai vu；转述动词 a affirmé 是过去时，动作先于这个过去参照点，后移为愈过去时 avait vu。avoir 的未完成过去时是 avait，不能写复合过去时的 a，也不能写现在时 ai。",
+          "locales": {
+            "fr": {
+              "explain": "L'énoncé d'origine est au passé composé (j'ai vu) et le verbe introducteur a affirmé est au passé : le passé composé recule en plus-que-parfait avait vu. avoir à l'imparfait donne avait ; on n'écrit ni le passé composé a ni le présent ai."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse : discours rapporté (1)"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-x1-2",
@@ -2036,7 +2765,12 @@
           ],
           "answer": 2,
           "translation": "发言人宣布：「会议明天举行。」",
-          "explain": "引导动词 annonce 是现在时，间接引语沿用原时态，简单将来时 aura 不后移；转述与宣布在同一天，demain 仍指明天，保留 demain。只有引导动词改为过去时（a annoncé），才需要考虑 aurait 和 le lendemain。"
+          "explain": "引导动词 annonce 是现在时，间接引语沿用原时态，简单将来时 aura 不后移；转述与宣布在同一天，demain 仍指明天，保留 demain。只有引导动词改为过去时（a annoncé），才需要考虑 aurait 和 le lendemain。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe introducteur annonce est au présent : la subordonnée conserve le futur simple aura, sans recul. Le discours rapporté a lieu le même jour que l'annonce, donc demain désigne encore le même lendemain et reste demain. Il faudrait un verbe introducteur au passé (a annoncé) pour envisager aurait et le lendemain."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x1-q8",
@@ -2068,7 +2802,13 @@
             "elle"
           ],
           "translation": "他说：「我明天会回到这里。」",
-          "explain": "直接引语 ici 指花园；转述者已回到家中，地点要从 ici 改为 là-bas。demain 以原话的过去时刻为参照，改为 le lendemain；简单将来时 reviendrai 后移为条件式现在时 reviendrait；je 指 il，改为 il（qu'il）。reviendra 没有后移，ici / demain 没有重定位。"
+          "explain": "直接引语 ici 指花园；转述者已回到家中，地点要从 ici 改为 là-bas。demain 以原话的过去时刻为参照，改为 le lendemain；简单将来时 reviendrai 后移为条件式现在时 reviendrait；je 指 il，改为 il（qu'il）。reviendra 没有后移，ici / demain 没有重定位。",
+          "locales": {
+            "fr": {
+              "explain": "Dans l'énoncé d'origine, ici désigne le jardin ; le rapporteur est rentré chez lui, donc ici devient là-bas. demain, rapporté plus tard, devient le lendemain ; le futur simple reviendrai recule en conditionnel présent reviendrait ; je désigne il et devient il, d'où qu'il. reviendra ne recule pas, et conserver ici ou demain ne repositionne pas les références.",
+              "prompt": "Transformez au discours indirect (il parle dans le jardin, on rapporte depuis chez lui) : « Je reviendrai ici demain », a-t-il dit. (transposition le lendemain)"
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x1-q9",
@@ -2082,7 +2822,12 @@
           ],
           "answer": 1,
           "translation": "她问我：「是谁打的电话？」→ 她问我谁打的电话。",
-          "explain": "qui est-ce qui 在间接引语中归为 qui，作从句主语，直接接动词，去掉 est-ce qui 和倒装。复合过去时 a téléphoné 后移为愈过去时 avait téléphoné。a téléphoné 没有后移；est-ce qui 保留了转述标记；que 不能作这个从句的主语。"
+          "explain": "qui est-ce qui 在间接引语中归为 qui，作从句主语，直接接动词，去掉 est-ce qui 和倒装。复合过去时 a téléphoné 后移为愈过去时 avait téléphoné。a téléphoné 没有后移；est-ce qui 保留了转述标记；que 不能作这个从句的主语。",
+          "locales": {
+            "fr": {
+              "explain": "qui est-ce qui devient qui, sujet de la subordonnée, directement suivi du verbe ; on supprime est-ce qui et l'inversion. Le passé composé a téléphoné recule en plus-que-parfait avait téléphoné. a téléphoné ne recule pas ; est-ce qui conserve une marque de question directe ; que ne peut pas être le sujet de cette subordonnée."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x1-q10",
@@ -2096,7 +2841,12 @@
           ],
           "answer": 3,
           "translation": "她当时在想：「发生什么事了？」→ 她当时在想发生了什么事。",
-          "explain": "qu'est-ce qui 在间接引语中变为 ce qui，作从句主语；复合过去时 s'est passé 后移为愈过去时 s'était passé。这里 se passer 的主语是中性代词 ce qui，分词不配合，不能写 s'était passée；que 不能作主语；s'est passé 没有后移。"
+          "explain": "qu'est-ce qui 在间接引语中变为 ce qui，作从句主语；复合过去时 s'est passé 后移为愈过去时 s'était passé。这里 se passer 的主语是中性代词 ce qui，分词不配合，不能写 s'était passée；que 不能作主语；s'est passé 没有后移。",
+          "locales": {
+            "fr": {
+              "explain": "qu'est-ce qui devient ce qui, sujet de la subordonnée ; le passé composé s'est passé recule en plus-que-parfait s'était passé. Le sujet est le pronom neutre ce qui : le participe ne s'accorde pas, donc on n'écrit pas s'était passée. s'est passé ne recule pas et que ne peut pas être sujet."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x1-q11",
@@ -2111,7 +2861,12 @@
             "d"
           ],
           "translation": "他今天早上宣布：「我后天回来。」",
-          "explain": "après-demain 对应 le surlendemain（与何时转述无关）；只有原话是 demain 时才用 le lendemain。"
+          "explain": "après-demain 对应 le surlendemain（与何时转述无关）；只有原话是 demain 时才用 le lendemain。",
+          "locales": {
+            "fr": {
+              "explain": "après-demain correspond à le surlendemain, quel que soit le moment du discours rapporté ; le lendemain ne correspond qu'à demain. L'expression est un nom masculin : le surlendemain."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x1-q12",
@@ -2125,9 +2880,19 @@
           ],
           "answer": 3,
           "translation": "昨天，莱娅对我说：「我不知道明天能不能来。」今天我转述她的话：莱娅对我说她不知道___能不能来。",
-          "explain": "引导动词 m'a dit 是过去时，现在时 sais / pourrai 后移为未完成过去时 savais / 条件式现在时 pourrait。时间词要按转述时间重定位：原话的 demain 是「昨天」的明天，也就是今天，所以用 aujourd'hui；机械换成 le lendemain 会指明天。第一、第二项时态没有后移；第三项时间词错误。"
+          "explain": "引导动词 m'a dit 是过去时，现在时 sais / pourrai 后移为未完成过去时 savais / 条件式现在时 pourrait。时间词要按转述时间重定位：原话的 demain 是「昨天」的明天，也就是今天，所以用 aujourd'hui；机械换成 le lendemain 会指明天。第一、第二项时态没有后移；第三项时间词错误。",
+          "locales": {
+            "fr": {
+              "explain": "Le verbe introducteur m'a dit est au passé : les présents sais et pourrai reculent en imparfait savais et conditionnel présent pourrait. Le mot demain doit être repositionné : il désignait le lendemain du jour de l'énoncé, c'est-à-dire aujourd'hui pour le rapporteur du lendemain, d'où aujourd'hui. Les deux premières propositions ne reculent pas les temps ; la troisième remplace demain par le lendemain, ce qui décalerait la date."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse : discours rapporté (2)"
+        }
+      }
     },
     {
       "id": "pub-c21-reported-speech-x2",
@@ -2147,7 +2912,12 @@
           ],
           "answer": 0,
           "translation": "昨天在电话里，保罗说他第二天早上会给我回电。请还原他的原话：「我___明天早上。」",
-          "explain": "间接引语里的 me 指转述者「我」，在直接引语中对应 te；il 指原说话人 Paul，还原为 je。条件式现在时 rappellerait 还原为简单将来时 rappellerai；le lendemain 还原为 demain。vous、me 人称不对，rappellerais 没有还原时态。"
+          "explain": "间接引语里的 me 指转述者「我」，在直接引语中对应 te；il 指原说话人 Paul，还原为 je。条件式现在时 rappellerait 还原为简单将来时 rappellerai；le lendemain 还原为 demain。vous、me 人称不对，rappellerais 没有还原时态。",
+          "locales": {
+            "fr": {
+              "explain": "Dans le discours indirect, me désigne le rapporteur « moi » et correspond à te au discours direct ; il désigne Paul, le locuteur d'origine, et redevient je. Le conditionnel présent rappellerait redevient futur simple rappellerai, et le lendemain redevient demain. vous, me et rappellerais ne correspondent pas aux personnes et au temps d'origine."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x2-q2",
@@ -2181,7 +2951,12 @@
             "même"
           ],
           "translation": "她问我当天能不能把她的书还给她。请还原她的原话：",
-          "explain": "si 问句还原为一般疑问句：去掉 si，pouvoir 的未完成过去时 pouvais 还原为现在时 peux；je 还原为 tu，lui（她）还原为 me，son livre（她的书）还原为 mon livre。le jour même 指原话当天，直接引语用 aujourd'hui。Pouvez-vous 是 vous 形式，ton / son 人称不对，demain 与 le jour même 不符。"
+          "explain": "si 问句还原为一般疑问句：去掉 si，pouvoir 的未完成过去时 pouvais 还原为现在时 peux；je 还原为 tu，lui（她）还原为 me，son livre（她的书）还原为 mon livre。le jour même 指原话当天，直接引语用 aujourd'hui。Pouvez-vous 是 vous 形式，ton / son 人称不对，demain 与 le jour même 不符。",
+          "locales": {
+            "fr": {
+              "explain": "La question en si redevient une question totale sans si ; l'imparfait pouvais redevient le présent peux, je redevient tu, lui (elle) redevient me et son livre redevient mon livre. le jour même renvoie au jour de l'énoncé d'origine : au discours direct, on emploie aujourd'hui. Pouvez-vous est la forme de vous, ton/son ne correspondent pas aux personnes et demain ne correspond pas à le jour même."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x2-q3",
@@ -2195,7 +2970,12 @@
           ],
           "answer": 1,
           "translation": "玛丽讲述说她走错了站台。请还原她的原话：",
-          "explain": "愈过去时 s'était trompée 还原为复合过去时 me suis trompée；elle 指玛丽，还原为 je，s' 还原为 me。tromper 在这个代词式结构里自反代词是直接宾语，分词与女性说话人配合写 trompée。第一项未配合，第三项人称错，第四项用了未完成过去时，不能对应 s'était trompée 的完成意义。"
+          "explain": "愈过去时 s'était trompée 还原为复合过去时 me suis trompée；elle 指玛丽，还原为 je，s' 还原为 me。tromper 在这个代词式结构里自反代词是直接宾语，分词与女性说话人配合写 trompée。第一项未配合，第三项人称错，第四项用了未完成过去时，不能对应 s'était trompée 的完成意义。",
+          "locales": {
+            "fr": {
+              "explain": "Le plus-que-parfait s'était trompée redevient le passé composé me suis trompée ; elle désigne Marie et redevient je, s' redevient me. Dans cette structure pronominale, le pronom réfléchi est complément d'objet direct : le participe s'accorde avec la locutrice, d'où trompée. La première omet l'accord, la troisième se trompe de personne et la quatrième emploie l'imparfait, qui ne correspond pas au plus-que-parfait."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x2-q4",
@@ -2209,7 +2989,12 @@
           ],
           "answer": 3,
           "translation": "关于那些信，她说明：「我已经读过了。」→ 她说明她已经读过了。",
-          "explain": "les 指 les lettres，阴性复数，是 avoir 助动词前的直接宾语，过去分词配合写 lues。lu 未配合，lue 是阴性单数，lus 是阳性复数。"
+          "explain": "les 指 les lettres，阴性复数，是 avoir 助动词前的直接宾语，过去分词配合写 lues。lu 未配合，lue 是阴性单数，lus 是阳性复数。",
+          "locales": {
+            "fr": {
+              "explain": "Les reprend les lettres, féminin pluriel ; il est complément d'objet direct antéposé du verbe conjugué avec avoir, donc le participe s'accorde : lues. lu ne s'accorde pas, lue est féminin singulier et lus masculin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x2-q5",
@@ -2223,7 +3008,12 @@
             "t"
           ],
           "translation": "这个决定，他确认是他一个人做出的。",
-          "explain": "l' 指 cette décision，阴性单数；它是 prendre 的直接宾语，位于过去分词前，分词配合写 prise。不能按 l' 的表面形式判断，也不能写阳性 pris 或未配合的形式。"
+          "explain": "l' 指 cette décision，阴性单数；它是 prendre 的直接宾语，位于过去分词前，分词配合写 prise。不能按 l' 的表面形式判断，也不能写阳性 pris 或未配合的形式。",
+          "locales": {
+            "fr": {
+              "explain": "l' reprend cette décision, féminin singulier ; il est complément d'objet direct de prendre, antéposé au participe, d'où l'accord prise. On ne décide pas d'après la forme l' : il faut revenir au nom repris. On n'écrit ni pris au masculin ni une forme non accordée."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x2-q6",
@@ -2254,7 +3044,12 @@
             "nous"
           ],
           "translation": "看守让我们不要把车停在入口前。",
-          "explain": "de ne pas + 不定式还原为否定命令式：ne ... pas 放在变位动词两侧，动词用 vous 形式 garez（nous 是听话人）。nos voitures 随听话人改为 vos voitures。garer 是不定式，votre / voiture 单数不对，derrière 改变地点，leurs 人称不对。"
+          "explain": "de ne pas + 不定式还原为否定命令式：ne ... pas 放在变位动词两侧，动词用 vous 形式 garez（nous 是听话人）。nos voitures 随听话人改为 vos voitures。garer 是不定式，votre / voiture 单数不对，derrière 改变地点，leurs 人称不对。",
+          "locales": {
+            "fr": {
+              "explain": "de ne pas + infinitif redevient un impératif négatif : ne ... pas de part et d'autre du verbe conjugué, avec la forme vous garez puisque nous est l'interlocuteur. nos voitures devient vos voitures selon le nouvel interlocuteur. garer est un infinitif, votre voiture est au singulier, derrière change le lieu et leurs ne correspond pas à la personne."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x2-q7",
@@ -2268,7 +3063,12 @@
           ],
           "answer": 2,
           "translation": "索菲对朱莉说她会把自己的大衣借给她。请还原索菲的原话：",
-          "explain": "Sophie 是原说话人，直接引语用 je；Julie 是听话人（间接引语里的 lui），用 te；son manteau 按常规理解指 Sophie 的大衣，还原为 mon manteau。条件式 prêterait 还原为简单将来时 prêterai。lui、me、vous 都与人称关系不符。"
+          "explain": "Sophie 是原说话人，直接引语用 je；Julie 是听话人（间接引语里的 lui），用 te；son manteau 按常规理解指 Sophie 的大衣，还原为 mon manteau。条件式 prêterait 还原为简单将来时 prêterai。lui、me、vous 都与人称关系不符。",
+          "locales": {
+            "fr": {
+              "explain": "Sophie est la locutrice d'origine : au discours direct, elle dit je. Julie est l'interlocutrice, représentée par lui dans le discours indirect, et devient te. son manteau désigne normalement le manteau de Sophie, d'où mon manteau. Le conditionnel prêterait redevient le futur simple prêterai. lui, me et vous ne correspondent pas aux personnes."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x2-q8",
@@ -2282,7 +3082,12 @@
           ],
           "answer": 2,
           "translation": "孩子们讲述说他们在聚会上玩得很开心。请还原他们的原话：",
-          "explain": "ils 指 les enfants，直接引语中他们是「我们」，用 nous；s'étaient 还原为 nous nous sommes；s'amuser 的自反代词是直接宾语，分词与复数主语配合写 amusés。第三项未配合，第一项人称错，第四项时态未还原。"
+          "explain": "ils 指 les enfants，直接引语中他们是「我们」，用 nous；s'étaient 还原为 nous nous sommes；s'amuser 的自反代词是直接宾语，分词与复数主语配合写 amusés。第三项未配合，第一项人称错，第四项时态未还原。",
+          "locales": {
+            "fr": {
+              "explain": "ils reprend les enfants : au discours direct, ils disent nous ; s'étaient redevient nous nous sommes. s'amuser a un pronom réfléchi complément d'objet direct, et le participe s'accorde avec le sujet pluriel : amusés. La première se trompe de personne, la deuxième omet l'accord et la quatrième conserve le plus-que-parfait."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x2-q9",
@@ -2296,7 +3101,12 @@
           ],
           "answer": 2,
           "translation": "保罗昨天对我说他病了。今天他还躺在床上。最可能的原话是哪一句？",
-          "explain": "间接引语的未完成过去时可能对应原话的现在时（状态在转述时仍成立），也可能对应未完成过去时（只描述当时的状态）。这里「今天仍卧床」说明病状还在持续，最自然的原话是现在时 « Je suis malade ». 不能看到 était 就机械还原成「当时生病」；将来时和条件式都没有依据。"
+          "explain": "间接引语的未完成过去时可能对应原话的现在时（状态在转述时仍成立），也可能对应未完成过去时（只描述当时的状态）。这里「今天仍卧床」说明病状还在持续，最自然的原话是现在时 « Je suis malade ». 不能看到 était 就机械还原成「当时生病」；将来时和条件式都没有依据。",
+          "locales": {
+            "fr": {
+              "explain": "L'imparfait du discours indirect peut correspondre au présent de l'énoncé d'origine si l'état est encore vrai, ou à un imparfait si l'état n'appartenait qu'au passé. Comme Paul est encore au lit aujourd'hui, le plus probable est le présent « Je suis malade ». Le futur et le conditionnel n'ont aucun appui dans le contexte."
+            }
+          }
         },
         {
           "id": "pub-c21-reported-speech-x2-q10",
@@ -2327,9 +3137,27 @@
             "le"
           ],
           "translation": "她肯定说她被这个决定惊到了。请还原她的原话：",
-          "explain": "愈过去时被动 avait été surprise 还原为复合过去时被动 ai été surprise；elle 还原为 je。被动式的过去分词随主语配合，说话人是女性，写 surprise。surpris 是阳性，surprises 是复数，都不符合；avait 没有还原时态。"
+          "explain": "愈过去时被动 avait été surprise 还原为复合过去时被动 ai été surprise；elle 还原为 je。被动式的过去分词随主语配合，说话人是女性，写 surprise。surpris 是阳性，surprises 是复数，都不符合；avait 没有还原时态。",
+          "locales": {
+            "fr": {
+              "explain": "Le plus-que-parfait passif avait été surprise redevient le passé composé passif ai été surprise ; elle redevient je. Le participe d'un passif s'accorde avec le sujet : la locutrice est une femme, d'où surprise. surpris est masculin, surprises pluriel et avait ne rétablit pas le temps."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse : référence et reconstruction"
+        }
+      }
     }
-  ]
+  ],
+  "locales": {
+    "fr": {
+      "sectionTitles": {
+        "s1": "Rapporter déclarations, questions et ordres",
+        "s2": "Changements de référence et reconstruction du discours direct"
+      }
+    }
+  }
 }

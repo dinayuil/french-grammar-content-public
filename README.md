@@ -2,7 +2,7 @@
 
 这是应用使用的公开原创题库仓库。当前为 25 章、3846 题，配有讲解卡、练习与综合挑战，覆盖完整的 5 阶段大纲（C01—C25）。内容由 AI 参与生成，未经过人工法语审校。
 
-内容由 AI 编写及独立 AI 复核，未经过人工法语审校；技术检查和 AI 复核不构成原创性、版权或教学质量认证。
+内容由 AI 编写、翻译及独立 AI 复核，未经过人工法语审校；技术检查和 AI 复核不构成原创性、版权或教学质量认证。
 
 ## 许可
 
@@ -41,6 +41,7 @@
     "chapters/pub-c18-verb-complements.json",
     "chapters/pub-c19-subjunctive.json",
     "chapters/pub-c20-complex-sentences.json",
+    "chapters/pub-c21-reported-speech.json",
     "chapters/pub-c22-aspect-modality.json",
     "chapters/pub-c23-discourse-markers.json",
     "chapters/pub-c24-lexical-constructions.json",
@@ -55,6 +56,16 @@
 - `chapters` 是按显示顺序排列的章节 JSON 相对路径，必须位于本仓库内。
 - `expectedChapterCount` 与 `expectedQuestionCount` 必须与实际内容一致。
 - 增删内容后同步更新清单和两个计数。加载器仍支持合法空库（`[]`、`0`、`0`），但本仓库的真实公开内容测试现在要求非空。
+
+清单还支持 `supportedLocales` 与 `localizationSharedFields`：前者声明本版已完整提供的辅助语言，缺省仅 `zh-CN`；后者按实体 ID 列出 `fr` 下显式复用的基础法语字段。复用裁定不等于启用语言，同一字段不能同时声明复用和另存覆盖。声明支持 `fr` 后，应用构建要求全部必需内容达到法语覆盖门槛。
+
+## 多语言内容
+
+本课程始终教授法语。基础中文字段和句子 `translation` 保留，法语讲解、标题、题干指令及解析在原实体的 `locales.fr` 内维护。法语模式隐藏句子译文，但不删除译文数据；未来其他辅助语言沿用相同位置。
+
+章节法语名继续使用 `titleFr`，普通小章名放在 `locales.fr.sectionTitles`，key 与应用原有小章配置一致。纯法语题干、例句和选项可经清单显式裁定复用；含中文内容必须提供完整法语覆盖，不能通过删中文或复制统一解析代替翻译。
+
+本地化不得改动原 ID、答案、可接受答案、选项顺序、题型、课程顺序和归属。`___`、`...` 及补全锚点保持；指定目标空位的旧题使用与原标记一致的 `blankTarget`。新增覆盖字段同样受应用的 schema、HTML 和完整性校验约束。
 
 ## 内容约定
 

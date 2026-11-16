@@ -6,172 +6,376 @@
     {
       "id": "pub-c03-adjectives-card-u1-1",
       "title": "先确定形容词的控制对象",
-      "body": "<p>形容词跟谁配合，由它修饰或说明的名词或主语决定，不看说话人，也不看句中其他名词。先找控制对象，再读它的性和数。</p><p>例：Marie est grande.（玛丽个子高。）控制对象是 Marie，阴性单数。Paul est grand.（保罗个子高。）控制对象是 Paul，阳性单数。Une robe rouge.（一条红裙子。）控制对象是 robe，阴性单数。</p><p>地点、时间等状语不参与配合；也不要只按“离形容词最近的名词”机械判断，先看句法关系。</p>"
+      "body": "<p>形容词跟谁配合，由它修饰或说明的名词或主语决定，不看说话人，也不看句中其他名词。先找控制对象，再读它的性和数。</p><p>例：Marie est grande.（玛丽个子高。）控制对象是 Marie，阴性单数。Paul est grand.（保罗个子高。）控制对象是 Paul，阳性单数。Une robe rouge.（一条红裙子。）控制对象是 robe，阴性单数。</p><p>地点、时间等状语不参与配合；也不要只按“离形容词最近的名词”机械判断，先看句法关系。</p>",
+      "locales": {
+        "fr": {
+          "title": "Identifier d'abord le contrôleur de l'accord",
+          "body": "<p>L'accord de l'adjectif dépend du nom qu'il qualifie ou du sujet qu'il décrit, non du locuteur ni des autres noms de la phrase. Cherchez d'abord le contrôleur, puis lisez son genre et son nombre.</p><p>Ex. : Marie est grande. Le contrôleur est Marie, féminin singulier. Paul est grand. Le contrôleur est Paul, masculin singulier. Une robe rouge. Le contrôleur est robe, féminin singulier.</p><p>Les compléments de lieu ou de temps ne participent pas à l'accord ; ne jugez pas mécaniquement d'après « le nom le plus proche de l'adjectif » : regardez d'abord la relation syntaxique.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u1-2",
       "title": "并列成分通常取阳性复数",
-      "body": "<p>形容词同时说明一阳一阴两个并列成分时，规范书面语通常取阳性复数。</p><p>例：Le père et la mère sont contents.（父亲和母亲很满意。）Marie et Anne sont contentes.（玛丽和安娜很满意。）</p><p>并列成分全是阴性时用阴性复数；全是阳性时用阳性复数。近距离配合或语义侧重有时会改变选择，要看具体结构和语境；这只是一条常规倾向，不是没有例外的机械公式。</p>"
+      "body": "<p>形容词同时说明一阳一阴两个并列成分时，规范书面语通常取阳性复数。</p><p>例：Le père et la mère sont contents.（父亲和母亲很满意。）Marie et Anne sont contentes.（玛丽和安娜很满意。）</p><p>并列成分全是阴性时用阴性复数；全是阳性时用阳性复数。近距离配合或语义侧重有时会改变选择，要看具体结构和语境；这只是一条常规倾向，不是没有例外的机械公式。</p>",
+      "locales": {
+        "fr": {
+          "title": "Les éléments coordonnés prennent généralement le masculin pluriel",
+          "body": "<p>Quand un adjectif décrit à la fois un élément masculin et un élément féminin coordonnés, la langue écrite standard emploie généralement le masculin pluriel.</p><p>Ex. : Le père et la mère sont contents. Marie et Anne sont contentes.</p><p>Quand tous les éléments coordonnés sont féminins, on emploie le féminin pluriel ; quand ils sont tous masculins, le masculin pluriel. Un accord de proximité ou une insistance sémantique peut parfois modifier le choix : il faut regarder la structure et le contexte ; ce n'est qu'une tendance générale, pas une formule mécanique sans exception.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u1-3",
       "title": "规则阴性：加 -e，已经以 -e 收尾则不变",
-      "body": "<p>大多数阳性单数形容词在词尾加 -e 构成阴性：grand → grande；joli → jolie；petit → petite。</p><p>阳性已经以 -e 收尾时，阴性通常同形：calme → calme；rapide → rapide；timide → timide。</p><p>这条规则只处理普通词尾；-er、-et、-c、-f、-s、-x、-eur 等有专门变化，不能一律加 -e。少数以 -e 收尾的词仍有词条例外，遇到新词要查证。</p>"
+      "body": "<p>大多数阳性单数形容词在词尾加 -e 构成阴性：grand → grande；joli → jolie；petit → petite。</p><p>阳性已经以 -e 收尾时，阴性通常同形：calme → calme；rapide → rapide；timide → timide。</p><p>这条规则只处理普通词尾；-er、-et、-c、-f、-s、-x、-eur 等有专门变化，不能一律加 -e。少数以 -e 收尾的词仍有词条例外，遇到新词要查证。</p>",
+      "locales": {
+        "fr": {
+          "title": "Féminin régulier : ajouter -e, sauf si le masculin finit déjà par -e",
+          "body": "<p>La plupart des adjectifs masculins singuliers forment leur féminin en ajoutant -e : grand → grande ; joli → jolie ; petit → petite.</p><p>Quand le masculin se termine déjà par -e, le féminin a généralement la même forme : calme → calme ; rapide → rapide ; timide → timide.</p><p>Cette règle ne concerne que les terminaisons ordinaires ; -er, -et, -c, -f, -s, -x, -eur ont des changements propres et ne prennent pas systématiquement -e. Quelques mots en -e ont encore des exceptions lexicales : vérifiez chaque mot nouveau.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u2-1",
       "title": "-er / -ier：-ère / -ière，重音不能丢",
-      "body": "<p>以 -er 结尾的形容词，阴性把 -er 改为 -ère：premier → première；léger → légère；cher → chère。</p><p>以 -ier 结尾的改为 -ière：ouvrier → ouvrière；dernier → dernière。</p><p>注意 è 是开口音符，不能写成 e 或 é；-er 不是简单在词尾加 -e。</p>"
+      "body": "<p>以 -er 结尾的形容词，阴性把 -er 改为 -ère：premier → première；léger → légère；cher → chère。</p><p>以 -ier 结尾的改为 -ière：ouvrier → ouvrière；dernier → dernière。</p><p>注意 è 是开口音符，不能写成 e 或 é；-er 不是简单在词尾加 -e。</p>",
+      "locales": {
+        "fr": {
+          "title": "-er / -ier : -ère / -ière, sans perdre l'accent",
+          "body": "<p>Un adjectif en -er forme son féminin en remplaçant -er par -ère : premier → première ; léger → légère ; cher → chère.</p><p>Un adjectif en -ier passe à -ière : ouvrier → ouvrière ; dernier → dernière.</p><p>Attention : è est un accent grave ; ne l'écrivez ni e ni é. -er ne se transforme pas en ajoutant simplement -e.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u2-2",
       "title": "-et：一般 -ète，少数双写 t",
-      "body": "<p>部分以 -et 结尾的形容词，阴性改为 -ète，并在 e 上加重音符：complet → complète；secret → secrète；inquiet → inquiète。</p><p>另有一组词条性例外保留 e，双写 t 再加 -e：muet → muette；coquet → coquette；net → nette。</p><p>两组要按词记：不能看到 -et 就一律写 -ète，也不能一律双写 t。</p>"
+      "body": "<p>部分以 -et 结尾的形容词，阴性改为 -ète，并在 e 上加重音符：complet → complète；secret → secrète；inquiet → inquiète。</p><p>另有一组词条性例外保留 e，双写 t 再加 -e：muet → muette；coquet → coquette；net → nette。</p><p>两组要按词记：不能看到 -et 就一律写 -ète，也不能一律双写 t。</p>",
+      "locales": {
+        "fr": {
+          "title": "-et : généralement -ète, rarement double t",
+          "body": "<p>Certains adjectifs en -et forment leur féminin en -ète, avec un accent grave sur le e : complet → complète ; secret → secrète ; inquiet → inquiète.</p><p>Un autre groupe, lexical, conserve e et double le t avant d'ajouter -e : muet → muette ; coquet → coquette ; net → nette.</p><p>Les deux groupes s'apprennent mot par mot : on n'écrit ni systématiquement -ète ni systématiquement -ette.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u2-3",
       "title": "-ais：只有个别词条变 -aîche",
-      "body": "<p>以 -ais 结尾的形容词大多仍走普通规则，阴性为 -aise：anglais → anglaise；français → française；mauvais → mauvaise。</p><p>只有少数词条变为 -aîche，最典型是 frais → fraîche（注意 aî 和 ch）。</p><p>不要把 -ais 一律类推成 -aîche；遇到词要按词条确认。</p>"
+      "body": "<p>以 -ais 结尾的形容词大多仍走普通规则，阴性为 -aise：anglais → anglaise；français → française；mauvais → mauvaise。</p><p>只有少数词条变为 -aîche，最典型是 frais → fraîche（注意 aî 和 ch）。</p><p>不要把 -ais 一律类推成 -aîche；遇到词要按词条确认。</p>",
+      "locales": {
+        "fr": {
+          "title": "-ais : seuls quelques mots passent à -aîche",
+          "body": "<p>La plupart des adjectifs en -ais suivent la règle ordinaire et font -aise au féminin : anglais → anglaise ; français → française ; mauvais → mauvaise.</p><p>Seul un petit nombre de mots passent à -aîche, le plus typique étant frais → fraîche (attention à aî et à ch).</p><p>N'étendez pas -ais à -aîche par analogie : vérifiez le mot dans le dictionnaire.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u3-1",
       "title": "-c 的两种阴性：-che 与 -que",
-      "body": "<p>以 -c 结尾的形容词没有单一词尾，必须按词条分两类。</p><p>第一类变 -che：blanc → blanche；franc → franche（“坦率的”义）；sec → sèche（这一词还改变词干元音 e → è）。</p><p>第二类变 -que，保留 /k/ 音：public → publique；grec → grecque；laïc → laïque。</p><p>不能只看 -c 就决定；要确认单词属于哪一类。</p>"
+      "body": "<p>以 -c 结尾的形容词没有单一词尾，必须按词条分两类。</p><p>第一类变 -che：blanc → blanche；franc → franche（“坦率的”义）；sec → sèche（这一词还改变词干元音 e → è）。</p><p>第二类变 -que，保留 /k/ 音：public → publique；grec → grecque；laïc → laïque。</p><p>不能只看 -c 就决定；要确认单词属于哪一类。</p>",
+      "locales": {
+        "fr": {
+          "title": "Les deux féminins de -c : -che et -que",
+          "body": "<p>Les adjectifs en -c n'ont pas une terminaison féminine unique : il faut les répartir en deux groupes selon le mot.</p><p>Premier groupe, -che : blanc → blanche ; franc → franche (au sens « sincère ») ; sec → sèche (ce mot change aussi la voyelle du radical e → è).</p><p>Deuxième groupe, -que, qui conserve le son /k/ : public → publique ; grec → grecque ; laïc → laïque.</p><p>On ne décide pas à partir de -c seul : il faut savoir à quel groupe appartient le mot.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u3-2",
       "title": "-g → -gue：保持 /g/ 音",
-      "body": "<p>以 -g 结尾的形容词，阴性写 -gue：long → longue；oblong → oblongue。</p><p>字母 u 在这里不发音，只用来让 g 保持 /g/；如果写成 -ge，g 会变成 /ʒ/。</p><p>注意 -gue 与 -c 的 -que 外形相近但来源不同：longue 对应 long，publique 对应 public，不能把两类混在一起。</p>"
+      "body": "<p>以 -g 结尾的形容词，阴性写 -gue：long → longue；oblong → oblongue。</p><p>字母 u 在这里不发音，只用来让 g 保持 /g/；如果写成 -ge，g 会变成 /ʒ/。</p><p>注意 -gue 与 -c 的 -que 外形相近但来源不同：longue 对应 long，publique 对应 public，不能把两类混在一起。</p>",
+      "locales": {
+        "fr": {
+          "title": "-g → -gue : conserver le son /g/",
+          "body": "<p>Un adjectif en -g forme son féminin en -gue : long → longue ; oblong → oblongue.</p><p>La lettre u ne se prononce pas ici : elle sert seulement à garder le son /g/ pour g ; avec -ge, g se prononcerait /ʒ/.</p><p>Attention : -gue et le -que de -c se ressemblent mais n'ont pas la même origine : longue correspond à long, publique à public ; ne mélangez pas les deux séries.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u4-1",
       "title": "-f → -ve，以及词干元音变化的例外",
-      "body": "<p>以 -f 结尾的形容词，阴性通常把 -f 改为 -ve，词干元音不变：neuf → neuve；vif → vive；sportif → sportive；actif → active。</p><p>少数词条同时改变词干元音，最常见是 bref → brève；同类的 grief → griève 也把 e 改为 è。</p><p>这类变化是词条性的，不能从一般 -f → -ve 推出，也不能把 neuf 的 eu 误改。</p>"
+      "body": "<p>以 -f 结尾的形容词，阴性通常把 -f 改为 -ve，词干元音不变：neuf → neuve；vif → vive；sportif → sportive；actif → active。</p><p>少数词条同时改变词干元音，最常见是 bref → brève；同类的 grief → griève 也把 e 改为 è。</p><p>这类变化是词条性的，不能从一般 -f → -ve 推出，也不能把 neuf 的 eu 误改。</p>",
+      "locales": {
+        "fr": {
+          "title": "-f → -ve, et exceptions avec changement de voyelle du radical",
+          "body": "<p>Un adjectif en -f forme généralement son féminin en remplaçant -f par -ve, sans changer la voyelle du radical : neuf → neuve ; vif → vive ; sportif → sportive ; actif → active.</p><p>Quelques mots changent aussi la voyelle du radical, le plus souvent bref → brève ; grief → griève change également e en è.</p><p>Ces changements sont lexicaux : on ne les déduit pas de la règle générale -f → -ve, et on ne modifie pas à tort le eu de neuf.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u4-2",
       "title": "-eux → -euse",
-      "body": "<p>多数以 -eux 结尾的形容词，阴性把 -eux 改为 -euse：heureux → heureuse；curieux → curieuse；délicieux → délicieuse。</p><p>注意：vieux 是词条性例外，不能按 -euse 类推；它的完整阴性形式见第 23 张。也不要和 -eur → -euse 混为一谈：heureux 的词干是 heureus-，travailleur 的词干是 travailleus-。</p>"
+      "body": "<p>多数以 -eux 结尾的形容词，阴性把 -eux 改为 -euse：heureux → heureuse；curieux → curieuse；délicieux → délicieuse。</p><p>注意：vieux 是词条性例外，不能按 -euse 类推；它的完整阴性形式见第 23 张。也不要和 -eur → -euse 混为一谈：heureux 的词干是 heureus-，travailleur 的词干是 travailleus-。</p>",
+      "locales": {
+        "fr": {
+          "title": "-eux → -euse",
+          "body": "<p>La plupart des adjectifs en -eux forment leur féminin en remplaçant -eux par -euse : heureux → heureuse ; curieux → curieuse ; délicieux → délicieuse.</p><p>Attention : vieux est une exception lexicale et ne suit pas -euse ; sa forme féminine complète est donnée dans la carte 23. Ne la confondez pas non plus avec -eur → -euse : le radical de heureux est heureus-, celui de travailleur est travailleus-.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u4-3",
       "title": "-eur 的三条路径",
-      "body": "<p>以 -eur 结尾的形容词要按词条分三路。</p><p>第一路直接加 -e，写作 -eure：meilleur → meilleure；extérieur → extérieure；supérieur → supérieure。</p><p>第二路改为 -euse：travailleur → travailleuse；rêveur → rêveuse；menteur → menteuse。</p><p>第三路是 -rice，主要见于施事名词和少数词条：acteur → actrice。不能把它当成所有 -eur 形容词的通用规则，形容词性词条要逐个确认。</p>"
+      "body": "<p>以 -eur 结尾的形容词要按词条分三路。</p><p>第一路直接加 -e，写作 -eure：meilleur → meilleure；extérieur → extérieure；supérieur → supérieure。</p><p>第二路改为 -euse：travailleur → travailleuse；rêveur → rêveuse；menteur → menteuse。</p><p>第三路是 -rice，主要见于施事名词和少数词条：acteur → actrice。不能把它当成所有 -eur 形容词的通用规则，形容词性词条要逐个确认。</p>",
+      "locales": {
+        "fr": {
+          "title": "Les trois voies de -eur",
+          "body": "<p>Les adjectifs en -eur se répartissent en trois voies, selon le mot.</p><p>Première voie : ajouter directement -e, ce qui donne -eure : meilleur → meilleure ; extérieur → extérieure ; supérieur → supérieure.</p><p>Deuxième voie : passer à -euse : travailleur → travailleuse ; rêveur → rêveuse ; menteur → menteuse.</p><p>Troisième voie : -rice, surtout pour des noms d'agent et quelques mots : acteur → actrice. Ce n'est pas une règle générale pour tous les adjectifs en -eur : vérifiez chaque mot adjectival.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u5-1",
       "title": "双写词尾：-l、-n 与 -ou",
-      "body": "<p>有些形容词的阴性不是简单加 -e，而要双写词尾辅音。</p><ul><li>-l：gentil → gentille；nul → nulle；tel → telle。注意不是所有 -il/-ul 都双写：civil → civile，utile → utile（阳性已以 -e 结尾，不再加 -e）。</li><li>-n：bon → bonne；ancien → ancienne；moyen → moyenne；européen → européenne。</li><li>-ou：mou → molle；fou → folle。</li></ul><p>例：un bon repas → une bonne idée；un homme gentil → une femme gentille；un coussin mou → une couverture molle。</p><p>注意：-ain/-ein 通常只加 -e，不双写 n：fin → fine，plein → pleine。不要把 -on/-ien/-en 的双写类推为所有鼻音词尾；遇到 -an/-ain/-ein 要按词条确认。</p>"
+      "body": "<p>有些形容词的阴性不是简单加 -e，而要双写词尾辅音。</p><ul><li>-l：gentil → gentille；nul → nulle；tel → telle。注意不是所有 -il/-ul 都双写：civil → civile，utile → utile（阳性已以 -e 结尾，不再加 -e）。</li><li>-n：bon → bonne；ancien → ancienne；moyen → moyenne；européen → européenne。</li><li>-ou：mou → molle；fou → folle。</li></ul><p>例：un bon repas → une bonne idée；un homme gentil → une femme gentille；un coussin mou → une couverture molle。</p><p>注意：-ain/-ein 通常只加 -e，不双写 n：fin → fine，plein → pleine。不要把 -on/-ien/-en 的双写类推为所有鼻音词尾；遇到 -an/-ain/-ein 要按词条确认。</p>",
+      "locales": {
+        "fr": {
+          "title": "Consonnes doublées : -l, -n et -ou",
+          "body": "<p>Certains adjectifs ne forment pas leur féminin en ajoutant simplement -e : ils doublent la consonne finale.</p><ul><li>-l : gentil → gentille ; nul → nulle ; tel → telle. Attention : tous les -il/-ul ne doublent pas : civil → civile, utile → utile (le masculin finit déjà par -e, on n'ajoute pas de -e).</li><li>-n : bon → bonne ; ancien → ancienne ; moyen → moyenne ; européen → européenne.</li><li>-ou : mou → molle ; fou → folle.</li></ul><p>Ex. : un bon repas → une bonne idée ; un homme gentil → une femme gentille ; un coussin mou → une couverture molle.</p><p>Attention : -ain/-ein ajoutent généralement seulement -e, sans doubler n : fin → fine, plein → pleine. N'étendez pas le double n de -on/-ien/-en à toutes les nasales ; devant -an/-ain/-ein, vérifiez le mot.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u5-2",
       "title": "-s 与 -x 结尾的阴性：-se/-sse、-ce/-sse",
-      "body": "<p>以 -s 或 -x 结尾的阳性形容词，阴性有两种常见路径，必须按词条记，不能只看最后一个字母。</p><ul><li>-s → -se：gris → grise；français → française。frais → fraîche 属于 -ais 的词条变化，不能据 -s 推出。</li><li>-s → -sse：gros → grosse；gras → grasse；bas → basse；épais → épaisse。</li><li>-x → -ce：doux → douce。部分 -eux 走 -euse（heureux → heureuse），不要混为一谈。</li><li>-x → -sse：faux → fausse；roux → rousse。</li><li>-oux → -ouse：jaloux → jalouse。</li></ul><p>例：une barbe grise；une porte grosse；une voix douce；une réponse fausse；une personne jalouse。</p><p>提醒：同一拼写结尾可能有两个结果，必须核实词条；不要把 -s 一律写成 -sse，也不要把 -x 一律写成 -ce。</p>"
+      "body": "<p>以 -s 或 -x 结尾的阳性形容词，阴性有两种常见路径，必须按词条记，不能只看最后一个字母。</p><ul><li>-s → -se：gris → grise；français → française。frais → fraîche 属于 -ais 的词条变化，不能据 -s 推出。</li><li>-s → -sse：gros → grosse；gras → grasse；bas → basse；épais → épaisse。</li><li>-x → -ce：doux → douce。部分 -eux 走 -euse（heureux → heureuse），不要混为一谈。</li><li>-x → -sse：faux → fausse；roux → rousse。</li><li>-oux → -ouse：jaloux → jalouse。</li></ul><p>例：une barbe grise；une porte grosse；une voix douce；une réponse fausse；une personne jalouse。</p><p>提醒：同一拼写结尾可能有两个结果，必须核实词条；不要把 -s 一律写成 -sse，也不要把 -x 一律写成 -ce。</p>",
+      "locales": {
+        "fr": {
+          "title": "Féminins de -s et -x : -se/-sse, -ce/-sse",
+          "body": "<p>Un adjectif masculin en -s ou -x a deux voies fréquentes au féminin ; il faut les apprendre mot par mot, sans décider d'après la dernière lettre seule.</p><ul><li>-s → -se : gris → grise ; français → française. frais → fraîche est un changement lexical de -ais, non une conséquence de -s.</li><li>-s → -sse : gros → grosse ; gras → grasse ; bas → basse ; épais → épaisse.</li><li>-x → -ce : doux → douce. Certains -eux passent à -euse (heureux → heureuse) : ne mélangez pas.</li><li>-x → -sse : faux → fausse ; roux → rousse.</li><li>-oux → -ouse : jaloux → jalouse.</li></ul><p>Ex. : une barbe grise ; une porte grosse ; une voix douce ; une réponse fausse ; une personne jalouse.</p><p>Rappel : une même terminaison peut donner deux résultats ; vérifiez le mot. N'écrivez ni tous les -s en -sse ni tous les -x en -ce.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u5-3",
       "title": "词条判断与常见对照",
-      "body": "<p>把词形放进短语里核对控制对象：名词的性与数决定形容词形式。</p><ul><li>un homme gentil → une femme gentille（-l 双写）</li><li>un bon gâteau → une bonne tarte（-n 双写）</li><li>un air doux → une voix douce（-x → -ce）</li><li>un faux billet → une fausse nouvelle（-x → -sse）</li><li>un chat jaloux → une chatte jalouse（-oux → -ouse）</li><li>un coussin mou → une couverture molle（-ou → -olle）</li><li>un pull gris → une écharpe grise（-s → -se）</li><li>un gros sac → une grosse valise（-s → -sse）</li></ul><p>常见错误：把 gros 写成 grose，把 doux 写成 douxe，把 gentille 写成 gentile（漏双写）。这些都要按词条记，不能只凭拼写类推。</p>"
+      "body": "<p>把词形放进短语里核对控制对象：名词的性与数决定形容词形式。</p><ul><li>un homme gentil → une femme gentille（-l 双写）</li><li>un bon gâteau → une bonne tarte（-n 双写）</li><li>un air doux → une voix douce（-x → -ce）</li><li>un faux billet → une fausse nouvelle（-x → -sse）</li><li>un chat jaloux → une chatte jalouse（-oux → -ouse）</li><li>un coussin mou → une couverture molle（-ou → -olle）</li><li>un pull gris → une écharpe grise（-s → -se）</li><li>un gros sac → une grosse valise（-s → -sse）</li></ul><p>常见错误：把 gros 写成 grose，把 doux 写成 douxe，把 gentille 写成 gentile（漏双写）。这些都要按词条记，不能只凭拼写类推。</p>",
+      "locales": {
+        "fr": {
+          "title": "Décider par mot et comparaisons fréquentes",
+          "body": "<p>Vérifiez la forme dans un groupe nominal : le genre et le nombre du nom déterminent celle de l'adjectif.</p><ul><li>un homme gentil → une femme gentille (double l)</li><li>un bon gâteau → une bonne tarte (double n)</li><li>un air doux → une voix douce (-x → -ce)</li><li>un faux billet → une fausse nouvelle (-x → -sse)</li><li>un chat jaloux → une chatte jalouse (-oux → -ouse)</li><li>un coussin mou → une couverture molle (-ou → -olle)</li><li>un pull gris → une écharpe grise (-s → -se)</li><li>un gros sac → une grosse valise (-s → -sse)</li></ul><p>Erreurs fréquentes : écrire gros en grose, doux en douxe, gentille en gentile (double l oublié). Ces formes s'apprennent mot par mot : on ne les déduit pas de l'orthographe seule.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u6-1",
       "title": "规则复数：阳性加 -s，阴性由阴性单数加 -s",
-      "body": "<p>规则复数分两步看性别：</p><ol><li>阳性复数：在阳性单数后加 -s。petit → petits；grand → grands；premier → premiers。</li><li>阴性复数：先取阴性单数，再加 -s。petite → petites；première → premières；complète → complètes；meilleure → meilleures；heureuse → heureuses；neuve → neuves。</li></ol><p>例：un petit garçon → les petits garçons；une petite fille → les petites filles；un texte complet → des textes complets；une phrase complète → des phrases complètes。</p>"
+      "body": "<p>规则复数分两步看性别：</p><ol><li>阳性复数：在阳性单数后加 -s。petit → petits；grand → grands；premier → premiers。</li><li>阴性复数：先取阴性单数，再加 -s。petite → petites；première → premières；complète → complètes；meilleure → meilleures；heureuse → heureuses；neuve → neuves。</li></ol><p>例：un petit garçon → les petits garçons；une petite fille → les petites filles；un texte complet → des textes complets；une phrase complète → des phrases complètes。</p>",
+      "locales": {
+        "fr": {
+          "title": "Pluriel régulier : -s au masculin, -s ajouté au féminin singulier",
+          "body": "<p>Le pluriel régulier se fait en deux étapes, selon le genre :</p><ol><li>Masculin pluriel : ajouter -s au masculin singulier. petit → petits ; grand → grands ; premier → premiers.</li><li>Féminin pluriel : partir du féminin singulier, puis ajouter -s. petite → petites ; première → premières ; complète → complètes ; meilleure → meilleures ; heureuse → heureuses ; neuve → neuves.</li></ol><p>Ex. : un petit garçon → les petits garçons ; une petite fille → les petites filles ; un texte complet → des textes complets ; une phrase complète → des phrases complètes.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u6-2",
       "title": "复数配合与并列成分",
-      "body": "<p>复数配合要先找控制对象：形容词修饰哪个名词，或说明哪个主语。</p><ul><li>控制对象是阳性复数：形容词用阳性复数。Les murs sont grands.</li><li>控制对象是阴性复数：形容词用阴性复数。Les portes sont grandes.</li><li>并列成分一阳一阴：通常用阳性复数。Le frère et la sœur sont petits. / Le sac et la valise sont légers.</li></ul><p>注意：并列配合是通常规则，近距离或语义侧重可能影响实际选择；题目会明确控制对象。还要区分单数与复数：Le frère et la sœur sont petits（不是 petit）。</p><p>例：Marie et Julie sont premières；Paul et Marc sont premiers；Paul et Marie sont premiers。</p>"
+      "body": "<p>复数配合要先找控制对象：形容词修饰哪个名词，或说明哪个主语。</p><ul><li>控制对象是阳性复数：形容词用阳性复数。Les murs sont grands.</li><li>控制对象是阴性复数：形容词用阴性复数。Les portes sont grandes.</li><li>并列成分一阳一阴：通常用阳性复数。Le frère et la sœur sont petits. / Le sac et la valise sont légers.</li></ul><p>注意：并列配合是通常规则，近距离或语义侧重可能影响实际选择；题目会明确控制对象。还要区分单数与复数：Le frère et la sœur sont petits（不是 petit）。</p><p>例：Marie et Julie sont premières；Paul et Marc sont premiers；Paul et Marie sont premiers。</p>",
+      "locales": {
+        "fr": {
+          "title": "Accord au pluriel et éléments coordonnés",
+          "body": "<p>Pour l'accord au pluriel, trouvez d'abord le contrôleur : le nom que l'adjectif qualifie ou le sujet qu'il décrit.</p><ul><li>Contrôleur masculin pluriel : adjectif au masculin pluriel. Les murs sont grands.</li><li>Contrôleur féminin pluriel : adjectif au féminin pluriel. Les portes sont grandes.</li><li>Éléments coordonnés masculin + féminin : généralement masculin pluriel. Le frère et la sœur sont petits. / Le sac et la valise sont légers.</li></ul><p>Attention : l'accord avec des éléments coordonnés suit une règle générale ; la proximité ou l'insistance sémantique peut influencer le choix réel, et les exercices précisent le contrôleur. Distinguez aussi singulier et pluriel : Le frère et la sœur sont petits (et non petit).</p><p>Ex. : Marie et Julie sont premières ; Paul et Marc sont premiers ; Paul et Marie sont premiers.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u7-1",
       "title": "阳性复数不变：-s 与 -x 结尾",
-      "body": "<p>阳性形容词如果本来以 -s 或 -x 结尾，阳性复数通常保持单数形式不变。</p><ul><li>heureux → heureux：des enfants heureux</li><li>gros → gros：les gros sacs</li><li>doux → doux：des coussins doux</li><li>jaloux → jaloux：des chats jaloux</li><li>français → français：des livres français</li><li>frais → frais：des poissons frais</li></ul><p>阴性不受这条限制：阴性复数仍由阴性单数加 -s。heureuse → heureuses；grosse → grosses；douce → douces；jalouse → jalouses；française → françaises；fraîche → fraîches。</p><p>不要把“阳性不变”误写成“阴性也不变”。</p>"
+      "body": "<p>阳性形容词如果本来以 -s 或 -x 结尾，阳性复数通常保持单数形式不变。</p><ul><li>heureux → heureux：des enfants heureux</li><li>gros → gros：les gros sacs</li><li>doux → doux：des coussins doux</li><li>jaloux → jaloux：des chats jaloux</li><li>français → français：des livres français</li><li>frais → frais：des poissons frais</li></ul><p>阴性不受这条限制：阴性复数仍由阴性单数加 -s。heureuse → heureuses；grosse → grosses；douce → douces；jalouse → jalouses；française → françaises；fraîche → fraîches。</p><p>不要把“阳性不变”误写成“阴性也不变”。</p>",
+      "locales": {
+        "fr": {
+          "title": "Masculin pluriel invariable : terminaisons -s et -x",
+          "body": "<p>Si l'adjectif masculin se termine déjà par -s ou -x, son masculin pluriel garde généralement la forme du singulier.</p><ul><li>heureux → heureux : des enfants heureux</li><li>gros → gros : les gros sacs</li><li>doux → doux : des coussins doux</li><li>jaloux → jaloux : des chats jaloux</li><li>français → français : des livres français</li><li>frais → frais : des poissons frais</li></ul><p>Le féminin n'est pas concerné : le féminin pluriel ajoute -s au féminin singulier. heureuse → heureuses ; grosse → grosses ; douce → douces ; jalouse → jalouses ; française → françaises ; fraîche → fraîches.</p><p>Ne transformez pas « masculin invariable » en « féminin invariable ».</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u7-2",
       "title": "复数综合：先定性与数，再选词尾",
-      "body": "<p>复数综合题先做三步：</p><ol><li>找控制对象：名词或主语是阳性还是阴性，是单数还是复数。</li><li>取单数词形：阳性单数或阴性单数。</li><li>加复数标记：阳性一般加 -s；阴性由阴性单数加 -s；以 -s/-x 结尾的阳性保持原形。</li></ol><p>例：</p><ul><li>blanc → blanche → blanches（阴性复数）；blanc → blancs（阳性复数）</li><li>long → longue → longues；long → longs</li><li>muet → muette → muettes；muet → muets</li><li>travailleur → travailleuse → travailleuses；travailleur → travailleurs</li><li>gentil → gentille → gentilles；gentil → gentils</li><li>mou → molle → molles；mou → mous</li></ul><p>提醒：不要跳过阴性单数直接拼；-eux、-f、-c、-g 等词尾的阴性形式要先按前面学过的规则取对，再加 -s。</p>"
+      "body": "<p>复数综合题先做三步：</p><ol><li>找控制对象：名词或主语是阳性还是阴性，是单数还是复数。</li><li>取单数词形：阳性单数或阴性单数。</li><li>加复数标记：阳性一般加 -s；阴性由阴性单数加 -s；以 -s/-x 结尾的阳性保持原形。</li></ol><p>例：</p><ul><li>blanc → blanche → blanches（阴性复数）；blanc → blancs（阳性复数）</li><li>long → longue → longues；long → longs</li><li>muet → muette → muettes；muet → muets</li><li>travailleur → travailleuse → travailleuses；travailleur → travailleurs</li><li>gentil → gentille → gentilles；gentil → gentils</li><li>mou → molle → molles；mou → mous</li></ul><p>提醒：不要跳过阴性单数直接拼；-eux、-f、-c、-g 等词尾的阴性形式要先按前面学过的规则取对，再加 -s。</p>",
+      "locales": {
+        "fr": {
+          "title": "Synthèse du pluriel : genre et nombre d'abord, terminaison ensuite",
+          "body": "<p>Pour un exercice de pluriel, procédez en trois étapes :</p><ol><li>Trouvez le contrôleur : le nom ou le sujet est-il masculin ou féminin, singulier ou pluriel ?</li><li>Prenez la forme singulière : masculin singulier ou féminin singulier.</li><li>Ajoutez la marque du pluriel : -s au masculin en général ; -s ajouté au féminin singulier ; le masculin en -s/-x reste inchangé.</li></ol><p>Ex. :</p><ul><li>blanc → blanche → blanches (féminin pluriel) ; blanc → blancs (masculin pluriel)</li><li>long → longue → longues ; long → longs</li><li>muet → muette → muettes ; muet → muets</li><li>travailleur → travailleuse → travailleuses ; travailleur → travailleurs</li><li>gentil → gentille → gentilles ; gentil → gentils</li><li>mou → molle → molles ; mou → mous</li></ul><p>Rappel : ne sautez pas le féminin singulier. Pour -eux, -f, -c, -g et d'autres terminaisons, obtenez d'abord la forme féminine par la règle étudiée, puis ajoutez -s.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u7-3",
       "title": "常见陷阱：不变、加 -s 与阴性加 -s",
-      "body": "<p>常见对照，按词条核对：</p><ul><li>阳性复数不变：heureux → heureux；gros → gros；doux → doux；faux → faux；jaloux → jaloux；gris → gris；frais → frais。</li><li>阳性复数加 -s：bref → brefs；long → longs；grand → grands；gentil → gentils；mou → mous；travailleur → travailleurs；blanc → blancs；public → publics。</li><li>阴性复数仍加 -s：heureuse → heureuses；grosse → grosses；douce → douces；fausse → fausses；jalouse → jalouses；grise → grises；fraîche → fraîches；longue → longues；grande → grandes；gentille → gentilles；molle → molles；travailleuse → travailleuses；blanche → blanches；publique → publiques。</li></ul><p>注意：-sse 是阴性单数词尾（grosse, fausse），不是复数标记；阳性复数 gros 与阴性单数 grosse 不能混同。</p>"
+      "body": "<p>常见对照，按词条核对：</p><ul><li>阳性复数不变：heureux → heureux；gros → gros；doux → doux；faux → faux；jaloux → jaloux；gris → gris；frais → frais。</li><li>阳性复数加 -s：bref → brefs；long → longs；grand → grands；gentil → gentils；mou → mous；travailleur → travailleurs；blanc → blancs；public → publics。</li><li>阴性复数仍加 -s：heureuse → heureuses；grosse → grosses；douce → douces；fausse → fausses；jalouse → jalouses；grise → grises；fraîche → fraîches；longue → longues；grande → grandes；gentille → gentilles；molle → molles；travailleuse → travailleuses；blanche → blanches；publique → publiques。</li></ul><p>注意：-sse 是阴性单数词尾（grosse, fausse），不是复数标记；阳性复数 gros 与阴性单数 grosse 不能混同。</p>",
+      "locales": {
+        "fr": {
+          "title": "Pièges fréquents : invariable, ajout de -s et féminin en -s",
+          "body": "<p>Comparaisons fréquentes, à vérifier mot par mot :</p><ul><li>Masculin pluriel invariable : heureux → heureux ; gros → gros ; doux → doux ; faux → faux ; jaloux → jaloux ; gris → gris ; frais → frais.</li><li>Masculin pluriel avec -s : bref → brefs ; long → longs ; grand → grands ; gentil → gentils ; mou → mous ; travailleur → travailleurs ; blanc → blancs ; public → publics.</li><li>Féminin pluriel toujours avec -s : heureuse → heureuses ; grosse → grosses ; douce → douces ; fausse → fausses ; jalouse → jalouses ; grise → grises ; fraîche → fraîches ; longue → longues ; grande → grandes ; gentille → gentilles ; molle → molles ; travailleuse → travailleuses ; blanche → blanches ; publique → publiques.</li></ul><p>Attention : -sse est une terminaison de féminin singulier (grosse, fausse), non une marque du pluriel ; le masculin pluriel gros et le féminin singulier grosse ne se confondent pas.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u8-1",
       "title": "-al → -aux 的规则复数",
-      "body": "<p>以 -al 结尾的形容词，阳性复数通常把 -al 改为 -aux。</p><ul><li>national → nationaux</li><li>général → généraux</li><li>normal → normaux</li><li>local → locaux</li><li>principal → principaux</li></ul><p>阴性仍按一般规则：nationale → nationales；générale → générales；normale → normales。</p><p>例：des parcs nationaux；des repas normaux；des écoles normales。</p><p>注意：少数形容词保留 -als，属于词条例外，见第 21 张；不要把例外套到所有 -al 词上。</p>"
+      "body": "<p>以 -al 结尾的形容词，阳性复数通常把 -al 改为 -aux。</p><ul><li>national → nationaux</li><li>général → généraux</li><li>normal → normaux</li><li>local → locaux</li><li>principal → principaux</li></ul><p>阴性仍按一般规则：nationale → nationales；générale → générales；normale → normales。</p><p>例：des parcs nationaux；des repas normaux；des écoles normales。</p><p>注意：少数形容词保留 -als，属于词条例外，见第 21 张；不要把例外套到所有 -al 词上。</p>",
+      "locales": {
+        "fr": {
+          "title": "Pluriel régulier -al → -aux",
+          "body": "<p>Un adjectif en -al forme généralement son masculin pluriel en remplaçant -al par -aux.</p><ul><li>national → nationaux</li><li>général → généraux</li><li>normal → normaux</li><li>local → locaux</li><li>principal → principaux</li></ul><p>Le féminin suit la règle générale : nationale → nationales ; générale → générales ; normale → normales.</p><p>Ex. : des parcs nationaux ; des repas normaux ; des écoles normales.</p><p>Attention : quelques adjectifs gardent -als, exceptions lexicales présentées dans la carte 21 ; ne les appliquez pas à tous les mots en -al.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u8-2",
       "title": "-al 的词条例外：-als（仅识别）",
-      "body": "<p>少数以 -al 结尾的形容词，阳性复数保留 -als，不变成 -aux。这是词条性例外，只能按词记忆。</p><p>常见形容词例外：banal → banals；fatal → fatals；final → finals；glacial → glacials；natal → natals；naval → navals；bancal → bancals。</p><p>例：des examens finals；des propos banals；des combats navals。</p><p>注意：名词也有自己的 -al 例外（如 festival → festivals，carnaval → carnavals，récital → récitals），名词例外不能代替形容词规则。</p>"
+      "body": "<p>少数以 -al 结尾的形容词，阳性复数保留 -als，不变成 -aux。这是词条性例外，只能按词记忆。</p><p>常见形容词例外：banal → banals；fatal → fatals；final → finals；glacial → glacials；natal → natals；naval → navals；bancal → bancals。</p><p>例：des examens finals；des propos banals；des combats navals。</p><p>注意：名词也有自己的 -al 例外（如 festival → festivals，carnaval → carnavals，récital → récitals），名词例外不能代替形容词规则。</p>",
+      "locales": {
+        "fr": {
+          "title": "Exceptions lexicales de -al : -als (reconnaissance seulement)",
+          "body": "<p>Quelques adjectifs en -al gardent -als au masculin pluriel, sans passer à -aux. Ce sont des exceptions lexicales à mémoriser mot par mot.</p><p>Exceptions fréquentes : banal → banals ; fatal → fatals ; final → finals ; glacial → glacials ; natal → natals ; naval → navals ; bancal → bancals.</p><p>Ex. : des examens finals ; des propos banals ; des combats navals.</p><p>Attention : les noms ont aussi leurs exceptions en -al (festival → festivals, carnaval → carnavals, récital → récitals) ; les exceptions des noms ne remplacent pas la règle des adjectifs.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u8-3",
       "title": "-eau → -eaux 的复数",
-      "body": "<p>以 -eau 结尾的形容词，阳性复数把 -eau 改为 -eaux。</p><ul><li>nouveau → nouveaux</li><li>jumeau → jumeaux（也可作名词）</li></ul><p>例：les nouveaux livres；des frères jumeaux。</p><p>注意：这是阳性复数词尾变化，不要把它和一般加 -s 混用。</p>"
+      "body": "<p>以 -eau 结尾的形容词，阳性复数把 -eau 改为 -eaux。</p><ul><li>nouveau → nouveaux</li><li>jumeau → jumeaux（也可作名词）</li></ul><p>例：les nouveaux livres；des frères jumeaux。</p><p>注意：这是阳性复数词尾变化，不要把它和一般加 -s 混用。</p>",
+      "locales": {
+        "fr": {
+          "title": "Pluriel -eau → -eaux",
+          "body": "<p>Un adjectif en -eau forme son masculin pluriel en remplaçant -eau par -eaux.</p><ul><li>nouveau → nouveaux</li><li>jumeau → jumeaux (aussi nom)</li></ul><p>Ex. : les nouveaux livres ; des frères jumeaux.</p><p>Attention : il s'agit d'une terminaison du masculin pluriel ; ne la confondez pas avec l'ajout général de -s.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u9-1",
       "title": "beau、nouveau、vieux：成套记住四种形式",
-      "body": "<p>这三个高频形容词不能只靠加 -e 或加 -s，要把阳性单数、阴性单数、阳性复数、阴性复数成套记住。</p><p>beau：beau / belle / beaux / belles。<br>nouveau：nouveau / nouvelle / nouveaux / nouvelles。<br>vieux：vieux / vieille / vieux / vieilles。</p><p>要点：</p><ol><li>阳性复数：beau→beaux，nouveau→nouveaux（-eau→-eaux）；vieux 以 -x 结尾，阳性复数仍是 vieux。</li><li>阴性复数：在阴性单数后加 -s，得到 belles、nouvelles、vieilles。</li><li>vieux 的阴性 vieille 是词条形式，不要按 -eux→-euse 类推成 vieuse。</li><li>这些形式要整体记忆；不要只给阳性单数加一个 -e。</li></ol><p>例：<br>un beau jardin / une belle maison / les beaux jardins / les belles maisons<br>un nouveau livre / une nouvelle idée / les nouveaux livres / les nouvelles idées<br>un vieux ami / une vieille amie / les vieux amis / les vieilles amies</p>"
+      "body": "<p>这三个高频形容词不能只靠加 -e 或加 -s，要把阳性单数、阴性单数、阳性复数、阴性复数成套记住。</p><p>beau：beau / belle / beaux / belles。<br>nouveau：nouveau / nouvelle / nouveaux / nouvelles。<br>vieux：vieux / vieille / vieux / vieilles。</p><p>要点：</p><ol><li>阳性复数：beau→beaux，nouveau→nouveaux（-eau→-eaux）；vieux 以 -x 结尾，阳性复数仍是 vieux。</li><li>阴性复数：在阴性单数后加 -s，得到 belles、nouvelles、vieilles。</li><li>vieux 的阴性 vieille 是词条形式，不要按 -eux→-euse 类推成 vieuse。</li><li>这些形式要整体记忆；不要只给阳性单数加一个 -e。</li></ol><p>例：<br>un beau jardin / une belle maison / les beaux jardins / les belles maisons<br>un nouveau livre / une nouvelle idée / les nouveaux livres / les nouvelles idées<br>un vieux ami / une vieille amie / les vieux amis / les vieilles amies</p>",
+      "locales": {
+        "fr": {
+          "title": "beau, nouveau, vieux : mémoriser les quatre formes ensemble",
+          "body": "<p>Ces trois adjectifs très fréquents ne se forment pas seulement avec -e ou -s : il faut mémoriser ensemble le masculin singulier, le féminin singulier, le masculin pluriel et le féminin pluriel.</p><p>beau : beau / belle / beaux / belles.<br>nouveau : nouveau / nouvelle / nouveaux / nouvelles.<br>vieux : vieux / vieille / vieux / vieilles.</p><p>Points essentiels :</p><ol><li>Masculin pluriel : beau → beaux, nouveau → nouveaux (-eau → -eaux) ; vieux se termine par -x et reste vieux au masculin pluriel.</li><li>Féminin pluriel : ajouter -s au féminin singulier, d'où belles, nouvelles, vieilles.</li><li>Le féminin vieille est une forme lexicale : ne la transformez pas en vieuse par analogie avec -eux → -euse.</li><li>Ces formes s'apprennent globalement : n'ajoutez pas un simple -e au masculin singulier.</li></ol><p>Ex. :<br>un beau jardin / une belle maison / les beaux jardins / les belles maisons<br>un nouveau livre / une nouvelle idée / les nouveaux livres / les nouvelles idées<br>un vieux ami / une vieille amie / les vieux amis / les vieilles amies</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u9-2",
       "title": "bel、nouvel、vieil：只用于阳性单数元音或哑音 h 前",
-      "body": "<p>beau、nouveau、vieux 在元音或哑音 h 开头的阳性单数名词前，换用另一词干：</p><p>beau → bel：un bel homme，un bel hôtel<br>nouveau → nouvel：un nouvel appartement，un nouvel ami<br>vieux → vieil：un vieil ami，un vieil homme</p><p>限制非常明确：</p><ol><li>只用于阳性单数。</li><li>只用于后接元音或哑音 h 的名词前。</li><li>阴性形式和复数形式绝不用 bel、nouvel、vieil：<br>une belle femme；les belles maisons<br>une nouvelle idée；les nouvelles idées<br>une vieille école；les vieilles écoles</li><li>辅音开头的阳性单数仍用 beau、nouveau、vieux：<br>un beau jardin（不说 bel jardin）<br>un nouveau livre<br>un vieux mur</li><li>嘘音 h 前不用变体：un vieux héros。</li></ol><p>判断时先看名词的性和数，再看名词首音；不要只看到形容词就套变体。</p>"
+      "body": "<p>beau、nouveau、vieux 在元音或哑音 h 开头的阳性单数名词前，换用另一词干：</p><p>beau → bel：un bel homme，un bel hôtel<br>nouveau → nouvel：un nouvel appartement，un nouvel ami<br>vieux → vieil：un vieil ami，un vieil homme</p><p>限制非常明确：</p><ol><li>只用于阳性单数。</li><li>只用于后接元音或哑音 h 的名词前。</li><li>阴性形式和复数形式绝不用 bel、nouvel、vieil：<br>une belle femme；les belles maisons<br>une nouvelle idée；les nouvelles idées<br>une vieille école；les vieilles écoles</li><li>辅音开头的阳性单数仍用 beau、nouveau、vieux：<br>un beau jardin（不说 bel jardin）<br>un nouveau livre<br>un vieux mur</li><li>嘘音 h 前不用变体：un vieux héros。</li></ol><p>判断时先看名词的性和数，再看名词首音；不要只看到形容词就套变体。</p>",
+      "locales": {
+        "fr": {
+          "title": "bel, nouvel, vieil : uniquement devant un masculin singulier commençant par voyelle ou h muet",
+          "body": "<p>beau, nouveau et vieux prennent un autre radical devant un nom masculin singulier commençant par une voyelle ou un h muet :</p><p>beau → bel : un bel homme, un bel hôtel<br>nouveau → nouvel : un nouvel appartement, un nouvel ami<br>vieux → vieil : un vieil ami, un vieil homme</p><p>Les limites sont précises :</p><ol><li>Uniquement au masculin singulier.</li><li>Uniquement devant un nom commençant par une voyelle ou un h muet.</li><li>Les formes féminines et plurielles n'emploient jamais bel, nouvel, vieil :<br>une belle femme ; les belles maisons<br>une nouvelle idée ; les nouvelles idées<br>une vieille école ; les vieilles écoles</li><li>Devant un masculin singulier commençant par une consonne, on garde beau, nouveau, vieux :<br>un beau jardin (et non bel jardin)<br>un nouveau livre<br>un vieux mur</li><li>Devant un h aspiré, pas de variante : un vieux héros.</li></ol><p>Regardez d'abord le genre et le nombre du nom, puis son initiale ; ne choisissez pas la variante à partir de l'adjectif seul.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u10-1",
       "title": "限定用法与表语用法：先看句子功能",
-      "body": "<p>同一个形容词可以在名词旁边修饰名词，也可以通过系词说明主语；这两种句法功能要分清。</p><p>限定用法（épithète）：形容词直接修饰名词，通常紧挨名词。</p><ul><li>une robe rouge</li><li>un petit chat</li><li>une décision importante</li></ul><p>表语用法（attribut）：形容词通过系词与主语连接，说明主语。</p><ul><li>La robe est rouge.</li><li>Le chat est petit.</li><li>La décision est importante.</li></ul><p>要点：</p><ol><li>限定形容词可以前置，也可以后置；不要把它等同于“放在名词前”。</li><li>表语形容词通常在系词之后，配合对象是主语。</li><li>无论限定还是表语，性数配合都以实际控制语为准：La robe est rouge / Les robes sont rouges。</li><li>功能判断和位置倾向是两件事：位置倾向讲常用位置，功能讲句子里的角色。</li></ol>"
+      "body": "<p>同一个形容词可以在名词旁边修饰名词，也可以通过系词说明主语；这两种句法功能要分清。</p><p>限定用法（épithète）：形容词直接修饰名词，通常紧挨名词。</p><ul><li>une robe rouge</li><li>un petit chat</li><li>une décision importante</li></ul><p>表语用法（attribut）：形容词通过系词与主语连接，说明主语。</p><ul><li>La robe est rouge.</li><li>Le chat est petit.</li><li>La décision est importante.</li></ul><p>要点：</p><ol><li>限定形容词可以前置，也可以后置；不要把它等同于“放在名词前”。</li><li>表语形容词通常在系词之后，配合对象是主语。</li><li>无论限定还是表语，性数配合都以实际控制语为准：La robe est rouge / Les robes sont rouges。</li><li>功能判断和位置倾向是两件事：位置倾向讲常用位置，功能讲句子里的角色。</li></ol>",
+      "locales": {
+        "fr": {
+          "title": "Fonction épithète et fonction attribut",
+          "body": "<p>Le même adjectif peut qualifier un nom à côté de lui ou décrire le sujet par l'intermédiaire d'un verbe d'état ; il faut distinguer ces deux fonctions syntaxiques.</p><p>Fonction épithète : l'adjectif qualifie directement le nom, généralement à côté de lui.</p><ul><li>une robe rouge</li><li>un petit chat</li><li>une décision importante</li></ul><p>Fonction attribut : l'adjectif est relié au sujet par un verbe d'état et décrit ce sujet.</p><ul><li>La robe est rouge.</li><li>Le chat est petit.</li><li>La décision est importante.</li></ul><p>Points essentiels :</p><ol><li>L'adjectif épithète peut être avant ou après le nom ; ne l'assimilez pas à « placé avant le nom ».</li><li>L'adjectif attribut se place généralement après le verbe d'état, et son contrôleur est le sujet.</li><li>Dans les deux fonctions, l'accord en genre et en nombre se fait avec le contrôleur réel : La robe est rouge / Les robes sont rouges.</li><li>Fonction et tendance de place sont deux choses différentes : la tendance décrit la position habituelle, la fonction décrit le rôle dans la phrase.</li></ol>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u10-2",
       "title": "位置倾向：是倾向，不是无例外规则",
-      "body": "<p>形容词放名词前还是后，受长度、常用度、语义类别和语体影响。先记倾向，再承认例外。</p><p>倾向于后置：</p><ul><li>颜色：une voiture rouge</li><li>国籍：un professeur français</li><li>形状：une table ronde</li><li>宗教：un rite catholique</li><li>分词性形容词：un débat animé</li><li>较长或语义具体的形容词：une décision importante</li></ul><p>倾向于前置：</p><ul><li>短小、常用、评价或程度类：un petit chat，une grande maison，un beau jardin，une jeune fille，un vieux mur，un bon repas。</li></ul><p>注意：位置是倾向，不是绝对规则；语体和搭配会改变位置。不要把所有短形容词都强行前置，也不要把所有颜色都当前置。位置改变意义是另一回事，不能只凭位置机械推导词义。</p>"
+      "body": "<p>形容词放名词前还是后，受长度、常用度、语义类别和语体影响。先记倾向，再承认例外。</p><p>倾向于后置：</p><ul><li>颜色：une voiture rouge</li><li>国籍：un professeur français</li><li>形状：une table ronde</li><li>宗教：un rite catholique</li><li>分词性形容词：un débat animé</li><li>较长或语义具体的形容词：une décision importante</li></ul><p>倾向于前置：</p><ul><li>短小、常用、评价或程度类：un petit chat，une grande maison，un beau jardin，une jeune fille，un vieux mur，un bon repas。</li></ul><p>注意：位置是倾向，不是绝对规则；语体和搭配会改变位置。不要把所有短形容词都强行前置，也不要把所有颜色都当前置。位置改变意义是另一回事，不能只凭位置机械推导词义。</p>",
+      "locales": {
+        "fr": {
+          "title": "Tendance de place : une tendance, pas une règle sans exception",
+          "body": "<p>La place de l'adjectif avant ou après le nom dépend de sa longueur, de sa fréquence, de sa catégorie sémantique et du registre. Retenez les tendances, puis acceptez les exceptions.</p><p>Tendance à la postposition :</p><ul><li>couleur : une voiture rouge</li><li>nationalité : un professeur français</li><li>forme : une table ronde</li><li>religion : un rite catholique</li><li>adjectif participial : un débat animé</li><li>adjectif long ou de sens spécifique : une décision importante</li></ul><p>Tendance à l'antéposition :</p><ul><li>adjectifs courts, fréquents, évaluatifs ou de degré : un petit chat, une grande maison, un beau jardin, une jeune fille, un vieux mur, un bon repas.</li></ul><p>Attention : la place est une tendance, non une règle absolue ; le registre et la collocation peuvent la modifier. N'antéposez pas de force tous les adjectifs courts et ne postposez pas tous les adjectifs de couleur. Un changement de place qui modifie le sens est un autre phénomène : on ne déduit pas mécaniquement le sens de la position.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u11-1",
       "title": "des 变 de：前置形容词触发的冠词替换",
-      "body": "<p>结构：复数不定冠词 des 后面紧接前置形容词和复数名词时，规范书面语把 des 换成 de：</p><p>des + 前置形容词 + 复数名词 → de + 前置形容词 + 复数名词</p><p>规范书面语示例：</p><ul><li>de grands jardins</li><li>de petits chats</li><li>de jolies maisons</li></ul><p>口语中有时仍听到 des grands jardins、des petits chats，但规范书面语仍用 de。</p><p>形容词在后置位置时，通常保留 des：</p><ul><li>des chats noirs</li><li>des maisons anciennes</li><li>des livres intéressants</li></ul><p>de 遇元音或哑音 h 要省音为 d'：</p><ul><li>des anciens amis → d'anciens amis</li><li>des heureux événements → d'heureux événements</li></ul><p>注意：这条规则针对的是复数不定冠词 des，不是部分冠词 de，也不是否定句里的 de（Je n'ai pas de chats 中的 de 来自否定），也不是 à/de 与定冠词的缩合（du、des 的另一种来源）。口语中的 des 变体不改变规范书面语答案。</p>"
+      "body": "<p>结构：复数不定冠词 des 后面紧接前置形容词和复数名词时，规范书面语把 des 换成 de：</p><p>des + 前置形容词 + 复数名词 → de + 前置形容词 + 复数名词</p><p>规范书面语示例：</p><ul><li>de grands jardins</li><li>de petits chats</li><li>de jolies maisons</li></ul><p>口语中有时仍听到 des grands jardins、des petits chats，但规范书面语仍用 de。</p><p>形容词在后置位置时，通常保留 des：</p><ul><li>des chats noirs</li><li>des maisons anciennes</li><li>des livres intéressants</li></ul><p>de 遇元音或哑音 h 要省音为 d'：</p><ul><li>des anciens amis → d'anciens amis</li><li>des heureux événements → d'heureux événements</li></ul><p>注意：这条规则针对的是复数不定冠词 des，不是部分冠词 de，也不是否定句里的 de（Je n'ai pas de chats 中的 de 来自否定），也不是 à/de 与定冠词的缩合（du、des 的另一种来源）。口语中的 des 变体不改变规范书面语答案。</p>",
+      "locales": {
+        "fr": {
+          "title": "des devenant de : remplacement déclenché par un adjectif antéposé",
+          "body": "<p>Structure : quand l'article indéfini pluriel des est immédiatement suivi d'un adjectif antéposé et d'un nom pluriel, la langue écrite soignée remplace des par de :</p><p>des + adjectif antéposé + nom pluriel → de + adjectif antéposé + nom pluriel</p><p>Exemples en français écrit soigné :</p><ul><li>de grands jardins</li><li>de petits chats</li><li>de jolies maisons</li></ul><p>À l'oral, on entend parfois encore des grands jardins, des petits chats, mais l'écrit soigné emploie de.</p><p>Quand l'adjectif est postposé, on garde généralement des :</p><ul><li>des chats noirs</li><li>des maisons anciennes</li><li>des livres intéressants</li></ul><p>de s'élide en d' devant une voyelle ou un h muet :</p><ul><li>des anciens amis → d'anciens amis</li><li>des heureux événements → d'heureux événements</li></ul><p>Attention : cette règle concerne l'article indéfini pluriel des, non le « de » partitif, non le « de » de la négation (le « de » de Je n'ai pas de chats vient de la négation), non les contractions de à/de avec l'article défini (autre origine de du, des). Les variantes orales avec des ne changent pas la réponse attendue à l'écrit soigné.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u11-2",
       "title": "des 变 de 的判断步骤与常见陷阱",
-      "body": "<p>按顺序判断，避免把所有 des 都改成 de：</p><p>第一步：确认 des 是复数不定冠词，还是否定 de、部分冠词或缩合结果。<br>第二步：看形容词是否紧挨在复数名词前，也就是前置。<br>第三步：如果是“des + 前置形容词 + 复数名词”，改为 de；de 在元音或哑音 h 前写成 d'。<br>第四步：如果形容词后置，或名词前根本没有形容词，保留 des。</p><p>对比：</p><ul><li>des petits chats → de petits chats</li><li>des chats noirs → des chats noirs</li><li>des amis fidèles → des amis fidèles</li><li>des anciens amis → d'anciens amis</li></ul><p>表语名词短语也看形容词位置：</p><ul><li>Paul et Marie sont de vieux amis.（前置形容词）</li><li>Paul et Marie sont des amis fidèles.（后置形容词）</li></ul><p>常见错误：</p><ol><li>看到 des 就改 de：des livres 没有前置形容词，不能改。</li><li>形容词后置仍改 de：des chats noirs 不能写成 de chats noirs。</li><li>把否定 de 当成这条规则：Je n'ai pas de chats 与前置形容词无关。</li><li>忘记省音：de anciens amis 应写成 d'anciens amis。</li></ol>"
+      "body": "<p>按顺序判断，避免把所有 des 都改成 de：</p><p>第一步：确认 des 是复数不定冠词，还是否定 de、部分冠词或缩合结果。<br>第二步：看形容词是否紧挨在复数名词前，也就是前置。<br>第三步：如果是“des + 前置形容词 + 复数名词”，改为 de；de 在元音或哑音 h 前写成 d'。<br>第四步：如果形容词后置，或名词前根本没有形容词，保留 des。</p><p>对比：</p><ul><li>des petits chats → de petits chats</li><li>des chats noirs → des chats noirs</li><li>des amis fidèles → des amis fidèles</li><li>des anciens amis → d'anciens amis</li></ul><p>表语名词短语也看形容词位置：</p><ul><li>Paul et Marie sont de vieux amis.（前置形容词）</li><li>Paul et Marie sont des amis fidèles.（后置形容词）</li></ul><p>常见错误：</p><ol><li>看到 des 就改 de：des livres 没有前置形容词，不能改。</li><li>形容词后置仍改 de：des chats noirs 不能写成 de chats noirs。</li><li>把否定 de 当成这条规则：Je n'ai pas de chats 与前置形容词无关。</li><li>忘记省音：de anciens amis 应写成 d'anciens amis。</li></ol>",
+      "locales": {
+        "fr": {
+          "title": "des → de : étapes de décision et pièges fréquents",
+          "body": "<p>Décidez dans l'ordre, pour éviter de remplacer tous les des par de :</p><p>Première étape : vérifiez que des est l'article indéfini pluriel, et non le « de » de la négation, un partitif ou le résultat d'une contraction.<br>Deuxième étape : regardez si l'adjectif est immédiatement devant le nom pluriel, donc antéposé.<br>Troisième étape : dans « des + adjectif antéposé + nom pluriel », remplacez par de ; devant une voyelle ou un h muet, écrivez d'.<br>Quatrième étape : si l'adjectif est postposé, ou s'il n'y a pas d'adjectif devant le nom, gardez des.</p><p>Comparaisons :</p><ul><li>des petits chats → de petits chats</li><li>des chats noirs → des chats noirs</li><li>des amis fidèles → des amis fidèles</li><li>des anciens amis → d'anciens amis</li></ul><p>Dans un groupe nominal attribut, regardez aussi la place de l'adjectif :</p><ul><li>Paul et Marie sont de vieux amis. (adjectif antéposé)</li><li>Paul et Marie sont des amis fidèles. (adjectif postposé)</li></ul><p>Erreurs fréquentes :</p><ol><li>Remplacer dès qu'on voit des : des livres n'a pas d'adjectif antéposé, on ne change pas.</li><li>Remplacer alors que l'adjectif est postposé : des chats noirs ne devient pas de chats noirs.</li><li>Prendre le « de » de la négation pour cette règle : Je n'ai pas de chats n'a rien à voir avec un adjectif antéposé.</li><li>Oublier l'élision : de anciens amis s'écrit d'anciens amis.</li></ol>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u12-1",
       "title": "位置改变意义：先记四组典型对比",
-      "body": "<p>有些形容词放在名词前或名词后，词义会分化。下面四组要按整组识别：</p><p>grand：</p><ul><li>un grand homme = 伟人、重要人物</li><li>un homme grand = 身材高大的男人</li></ul><p>ancien：</p><ul><li>un ancien professeur = 前任教师</li><li>un professeur ancien = 年老的教师（较少见）</li></ul><p>brave：</p><ul><li>un brave homme = 善良、正直的人</li><li>un homme brave = 勇敢的人</li></ul><p>pauvre：</p><ul><li>un pauvre homme = 可怜的人</li><li>un homme pauvre = 经济上贫困的人</li></ul><p>注意：这些是词条化和语境化的差异，不是一条可以套到所有形容词上的机械规则。位置只是线索，固定搭配和上下文才决定词义。</p>"
+      "body": "<p>有些形容词放在名词前或名词后，词义会分化。下面四组要按整组识别：</p><p>grand：</p><ul><li>un grand homme = 伟人、重要人物</li><li>un homme grand = 身材高大的男人</li></ul><p>ancien：</p><ul><li>un ancien professeur = 前任教师</li><li>un professeur ancien = 年老的教师（较少见）</li></ul><p>brave：</p><ul><li>un brave homme = 善良、正直的人</li><li>un homme brave = 勇敢的人</li></ul><p>pauvre：</p><ul><li>un pauvre homme = 可怜的人</li><li>un homme pauvre = 经济上贫困的人</li></ul><p>注意：这些是词条化和语境化的差异，不是一条可以套到所有形容词上的机械规则。位置只是线索，固定搭配和上下文才决定词义。</p>",
+      "locales": {
+        "fr": {
+          "title": "La place change le sens : quatre contrastes typiques",
+          "body": "<p>Certains adjectifs changent de sens selon qu'ils sont avant ou après le nom. Les quatre séries suivantes s'apprennent comme des blocs :</p><p>grand :</p><ul><li>un grand homme = un homme important, remarquable</li><li>un homme grand = un homme de grande taille</li></ul><p>ancien :</p><ul><li>un ancien professeur = un professeur qui ne l'est plus</li><li>un professeur ancien = un professeur âgé (plus rare)</li></ul><p>brave :</p><ul><li>un brave homme = un homme bon, honnête</li><li>un homme brave = un homme courageux</li></ul><p>pauvre :</p><ul><li>un pauvre homme = un homme digne de pitié</li><li>un homme pauvre = un homme économiquement pauvre</li></ul><p>Attention : ces différences sont lexicales et contextuelles ; ce n'est pas une règle mécanique applicable à tous les adjectifs. La place n'est qu'un indice : la collocation et le contexte décident du sens.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-u12-2",
       "title": "位置与语义：用语境读，不用公式套",
-      "body": "<p>读句子时先看上下文和固定搭配，再判断形容词的含义：</p><ul><li>un grand homme de science → 一位伟大的科学家</li><li>un homme grand et mince → 一位身材高大、瘦削的男人</li><li>un ancien collègue → 一位前同事</li><li>un monument ancien → 一座古老的纪念碑</li><li>un brave homme → 一位善良的人</li><li>un homme brave → 一位勇敢的人</li><li>un pauvre enfant → 一个可怜的孩子</li><li>une famille pauvre → 一个贫困的家庭</li></ul><p>注意：不是所有形容词都会因位置改变意义；有的只是语体或强调不同。不能由位置机械推导词义，也不能把某一组的意义套到同形词上。读句子时要抓语境中的线索：身份、外貌、经济状况、时间关系等。des→de 只看前置形容词结构，不要用词义去决定冠词形式。</p>"
+      "body": "<p>读句子时先看上下文和固定搭配，再判断形容词的含义：</p><ul><li>un grand homme de science → 一位伟大的科学家</li><li>un homme grand et mince → 一位身材高大、瘦削的男人</li><li>un ancien collègue → 一位前同事</li><li>un monument ancien → 一座古老的纪念碑</li><li>un brave homme → 一位善良的人</li><li>un homme brave → 一位勇敢的人</li><li>un pauvre enfant → 一个可怜的孩子</li><li>une famille pauvre → 一个贫困的家庭</li></ul><p>注意：不是所有形容词都会因位置改变意义；有的只是语体或强调不同。不能由位置机械推导词义，也不能把某一组的意义套到同形词上。读句子时要抓语境中的线索：身份、外貌、经济状况、时间关系等。des→de 只看前置形容词结构，不要用词义去决定冠词形式。</p>",
+      "locales": {
+        "fr": {
+          "title": "Place et sens : lire le contexte, sans formule",
+          "body": "<p>Pour lire une phrase, regardez d'abord le contexte et la collocation, puis le sens de l'adjectif :</p><ul><li>un grand homme de science → un savant remarquable</li><li>un homme grand et mince → un homme de grande taille et mince</li><li>un ancien collègue → un ancien collègue, qui ne travaille plus avec nous</li><li>un monument ancien → un monument vieux</li><li>un brave homme → un homme bon</li><li>un homme brave → un homme courageux</li><li>un pauvre enfant → un enfant digne de pitié</li><li>une famille pauvre → une famille sans argent</li></ul><p>Attention : tous les adjectifs ne changent pas de sens selon leur place ; certains ne varient qu'en registre ou en insistance. On ne déduit pas mécaniquement le sens de la position, et on n'applique pas le sens d'une série à un mot homographe. Dans une phrase, cherchez les indices contextuels : identité, apparence, situation économique, relation temporelle, etc. Pour des → de, seule la structure avec adjectif antéposé compte : ne décidez pas la forme de l'article d'après le sens.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-x1-1",
       "title": "综合复习：阴性词形按词条判断",
-      "body": "<p>规则阴性：阳性单数通常加 -e；阳性已经以 -e 结尾时通常不再加 -e。</p><p>常见类别：</p><ul><li>-er → -ère；-ier → -ière：premier→première，infirmier→infirmière</li><li>-et → -ète：complet→complète；双 t 例外：muet→muette，coquet→coquette</li><li>-ais → -aîche（词条）：frais→fraîche</li><li>-c → -che 或 -que：blanc→blanche，public→publique</li><li>-g → -gue：long→longue</li><li>-f → -ve：neuf→neuve；词干例外：bref→brève</li><li>-eux → -euse：heureux→heureuse；vieux→vieille 是词条例外</li><li>-eur → -eure 或 -euse：meilleur→meilleure，travailleur→travailleuse</li><li>-l → -lle：gentil→gentille；-n → -nne：bon→bonne；-ou → -olle：mou→molle</li><li>-s → -se 或 -sse：gris→grise，gros→grosse</li><li>-x → -ce、-sse 或 -ouse：doux→douce，faux→fausse，jaloux→jalouse</li></ul><p>注意：不要只按词尾猜；-c、-s、-x 尤其要按词条确认。不要把 -rice 当成形容词的通用规则：acteur→actrice 多为人物名词。先确定控制语的性和数，再选形式。</p>"
+      "body": "<p>规则阴性：阳性单数通常加 -e；阳性已经以 -e 结尾时通常不再加 -e。</p><p>常见类别：</p><ul><li>-er → -ère；-ier → -ière：premier→première，infirmier→infirmière</li><li>-et → -ète：complet→complète；双 t 例外：muet→muette，coquet→coquette</li><li>-ais → -aîche（词条）：frais→fraîche</li><li>-c → -che 或 -que：blanc→blanche，public→publique</li><li>-g → -gue：long→longue</li><li>-f → -ve：neuf→neuve；词干例外：bref→brève</li><li>-eux → -euse：heureux→heureuse；vieux→vieille 是词条例外</li><li>-eur → -eure 或 -euse：meilleur→meilleure，travailleur→travailleuse</li><li>-l → -lle：gentil→gentille；-n → -nne：bon→bonne；-ou → -olle：mou→molle</li><li>-s → -se 或 -sse：gris→grise，gros→grosse</li><li>-x → -ce、-sse 或 -ouse：doux→douce，faux→fausse，jaloux→jalouse</li></ul><p>注意：不要只按词尾猜；-c、-s、-x 尤其要按词条确认。不要把 -rice 当成形容词的通用规则：acteur→actrice 多为人物名词。先确定控制语的性和数，再选形式。</p>",
+      "locales": {
+        "fr": {
+          "title": "Révision : formes du féminin à décider mot par mot",
+          "body": "<p>Féminin régulier : le masculin singulier ajoute généralement -e ; s'il finit déjà par -e, on n'ajoute généralement pas de second -e.</p><p>Catégories fréquentes :</p><ul><li>-er → -ère ; -ier → -ière : premier → première, infirmier → infirmière</li><li>-et → -ète : complet → complète ; exceptions avec double t : muet → muette, coquet → coquette</li><li>-ais → -aîche (lexical) : frais → fraîche</li><li>-c → -che ou -que : blanc → blanche, public → publique</li><li>-g → -gue : long → longue</li><li>-f → -ve : neuf → neuve ; exception de radical : bref → brève</li><li>-eux → -euse : heureux → heureuse ; vieux → vieille est une exception lexicale</li><li>-eur → -eure ou -euse : meilleur → meilleure, travailleur → travailleuse</li><li>-l → -lle : gentil → gentille ; -n → -nne : bon → bonne ; -ou → -olle : mou → molle</li><li>-s → -se ou -sse : gris → grise, gros → grosse</li><li>-x → -ce, -sse ou -ouse : doux → douce, faux → fausse, jaloux → jalouse</li></ul><p>Attention : ne devinez pas à partir de la terminaison seule ; -c, -s et -x demandent particulièrement une vérification lexicale. Ne faites pas de -rice une règle générale des adjectifs : acteur → actrice concerne surtout des noms de personne. Déterminez d'abord le genre et le nombre du contrôleur, puis choisissez la forme.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-x1-2",
       "title": "综合复习：复数、不变词尾与整句配合",
-      "body": "<p>规则复数：</p><ul><li>阳性复数通常加 -s：petit→petits</li><li>阴性复数在阴性单数后加 -s：petite→petites</li><li>阳性以 -s 或 -x 结尾通常不变：heureux→heureux，gros→gros</li><li>阴性仍加 -s：heureuse→heureuses</li><li>-al → -aux：national→nationaux；-al 词条例外见第 21 张</li><li>-eau → -eaux：beau→beaux</li></ul><p>整句策略：</p><ol><li>先找每个形容词的控制语（名词或主语）。</li><li>确定控制语的性和数。</li><li>选阴性或阳性单数形式。</li><li>需要复数时再加复数词尾；不变词尾不要多写 -s。</li></ol><p>例：<br>des amis heureux<br>des amies heureuses<br>des journaux nationaux<br>de beaux oiseaux（前置形容词，冠词用 de）</p><p>不要把名词复数和形容词复数混为一谈；也不要因为阳性复数不变，就忘记阴性复数仍要加 -s。</p>"
+      "body": "<p>规则复数：</p><ul><li>阳性复数通常加 -s：petit→petits</li><li>阴性复数在阴性单数后加 -s：petite→petites</li><li>阳性以 -s 或 -x 结尾通常不变：heureux→heureux，gros→gros</li><li>阴性仍加 -s：heureuse→heureuses</li><li>-al → -aux：national→nationaux；-al 词条例外见第 21 张</li><li>-eau → -eaux：beau→beaux</li></ul><p>整句策略：</p><ol><li>先找每个形容词的控制语（名词或主语）。</li><li>确定控制语的性和数。</li><li>选阴性或阳性单数形式。</li><li>需要复数时再加复数词尾；不变词尾不要多写 -s。</li></ol><p>例：<br>des amis heureux<br>des amies heureuses<br>des journaux nationaux<br>de beaux oiseaux（前置形容词，冠词用 de）</p><p>不要把名词复数和形容词复数混为一谈；也不要因为阳性复数不变，就忘记阴性复数仍要加 -s。</p>",
+      "locales": {
+        "fr": {
+          "title": "Révision : pluriel, terminaisons invariables et accord dans la phrase",
+          "body": "<p>Pluriel régulier :</p><ul><li>Masculin pluriel : généralement -s : petit → petits</li><li>Féminin pluriel : -s ajouté au féminin singulier : petite → petites</li><li>Masculin en -s ou -x : généralement invariable : heureux → heureux, gros → gros</li><li>Féminin : -s maintenu : heureuse → heureuses</li><li>-al → -aux : national → nationaux ; exceptions lexicales de -al dans la carte 21</li><li>-eau → -eaux : beau → beaux</li></ul><p>Stratégie pour la phrase :</p><ol><li>Cherchez le contrôleur de chaque adjectif (nom ou sujet).</li><li>Déterminez le genre et le nombre du contrôleur.</li><li>Choisissez la forme féminine ou masculine singulière.</li><li>Si le pluriel est nécessaire, ajoutez la marque du pluriel ; n'ajoutez pas de -s aux terminaisons invariables.</li></ol><p>Ex. :<br>des amis heureux<br>des amies heureuses<br>des journaux nationaux<br>de beaux oiseaux (adjectif antéposé, article de)</p><p>Ne confondez pas pluriel du nom et pluriel de l'adjectif ; et ne profitez pas de l'invariabilité du masculin pluriel pour oublier le -s du féminin pluriel.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-x2-1",
       "title": "综合：位置判断与 des→de 的边界",
-      "body": "<p>遇到“des + 形容词 + 名词”时，按两步走：</p><p>第一步：看形容词的位置。</p><ul><li>前置：des + 前置形容词 + 复数名词 → de/d'</li><li>后置：保留 des</li></ul><p>第二步：看结构是否真是复数不定冠词。</p><ul><li>des livres（没有前置形容词）→ 保留 des</li><li>des chats noirs（后置形容词）→ 保留 des</li><li>de petits chats（前置形容词）→ 改 de</li><li>d'anciens amis（前置形容词，元音开头）→ 改 d'</li></ul><p>对比：<br>de grands jardins / des jardins anciens<br>de belles histoires / des histoires tristes<br>d'anciens amis / des amis fidèles</p><p>不要把所有 des 都改成 de；也不要把否定句里的 de 当成这条规则。</p>"
+      "body": "<p>遇到“des + 形容词 + 名词”时，按两步走：</p><p>第一步：看形容词的位置。</p><ul><li>前置：des + 前置形容词 + 复数名词 → de/d'</li><li>后置：保留 des</li></ul><p>第二步：看结构是否真是复数不定冠词。</p><ul><li>des livres（没有前置形容词）→ 保留 des</li><li>des chats noirs（后置形容词）→ 保留 des</li><li>de petits chats（前置形容词）→ 改 de</li><li>d'anciens amis（前置形容词，元音开头）→ 改 d'</li></ul><p>对比：<br>de grands jardins / des jardins anciens<br>de belles histoires / des histoires tristes<br>d'anciens amis / des amis fidèles</p><p>不要把所有 des 都改成 de；也不要把否定句里的 de 当成这条规则。</p>",
+      "locales": {
+        "fr": {
+          "title": "Synthèse : place de l'adjectif et limites de des → de",
+          "body": "<p>Devant « des + adjectif + nom », procédez en deux étapes :</p><p>Première étape : regardez la place de l'adjectif.</p><ul><li>Antéposé : des + adjectif antéposé + nom pluriel → de/d'</li><li>Postposé : gardez des</li></ul><p>Deuxième étape : vérifiez qu'il s'agit bien de l'article indéfini pluriel.</p><ul><li>des livres (aucun adjectif antéposé) → gardez des</li><li>des chats noirs (adjectif postposé) → gardez des</li><li>de petits chats (adjectif antéposé) → de</li><li>d'anciens amis (adjectif antéposé, initiale vocalique) → d'</li></ul><p>Comparaisons :<br>de grands jardins / des jardins anciens<br>de belles histoires / des histoires tristes<br>d'anciens amis / des amis fidèles</p><p>Ne remplacez pas tous les des par de, et ne prenez pas le « de » de la négation pour cette règle.</p>"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-card-x2-2",
       "title": "综合：位置、语义与冠词形式一起看",
-      "body": "<p>位置可能改变词义，但冠词形式只由结构决定；两件事要分开判断。</p><p>位置与语义：</p><ul><li>un grand homme（伟人）/ un homme grand（高个子）</li><li>de grands hommes（伟人们）/ des hommes grands（高个子男人们）</li><li>un ancien professeur（前任教师）/ un professeur ancien（年迈教师，较少见）</li><li>d'anciens professeurs（前任教师们）/ des professeurs anciens（年迈教师们）</li><li>un brave homme（善良的人）/ un homme brave（勇敢的人）</li><li>un pauvre homme（可怜的人）/ un homme pauvre（穷人）</li></ul><p>冠词形式：</p><ul><li>前置形容词触发 des→de：de grands hommes，d'anciens professeurs。</li><li>后置形容词保留 des：des hommes grands，des professeurs anciens。</li></ul><p>注意：语义由语境和词条决定；不要用“我想表达伟人”去决定用 de 还是 des。先看结构，再看意义。</p>"
+      "body": "<p>位置可能改变词义，但冠词形式只由结构决定；两件事要分开判断。</p><p>位置与语义：</p><ul><li>un grand homme（伟人）/ un homme grand（高个子）</li><li>de grands hommes（伟人们）/ des hommes grands（高个子男人们）</li><li>un ancien professeur（前任教师）/ un professeur ancien（年迈教师，较少见）</li><li>d'anciens professeurs（前任教师们）/ des professeurs anciens（年迈教师们）</li><li>un brave homme（善良的人）/ un homme brave（勇敢的人）</li><li>un pauvre homme（可怜的人）/ un homme pauvre（穷人）</li></ul><p>冠词形式：</p><ul><li>前置形容词触发 des→de：de grands hommes，d'anciens professeurs。</li><li>后置形容词保留 des：des hommes grands，des professeurs anciens。</li></ul><p>注意：语义由语境和词条决定；不要用“我想表达伟人”去决定用 de 还是 des。先看结构，再看意义。</p>",
+      "locales": {
+        "fr": {
+          "title": "Synthèse : place, sens et forme de l'article",
+          "body": "<p>La place peut changer le sens, mais la forme de l'article dépend seulement de la structure : deux décisions distinctes.</p><p>Place et sens :</p><ul><li>un grand homme (un homme remarquable) / un homme grand (de grande taille)</li><li>de grands hommes (des hommes remarquables) / des hommes grands (des hommes de grande taille)</li><li>un ancien professeur (qui ne l'est plus) / un professeur ancien (âgé, plus rare)</li><li>d'anciens professeurs (qui ne le sont plus) / des professeurs anciens (âgés)</li><li>un brave homme (bon) / un homme brave (courageux)</li><li>un pauvre homme (digne de pitié) / un homme pauvre (sans argent)</li></ul><p>Forme de l'article :</p><ul><li>Adjectif antéposé : des → de : de grands hommes, d'anciens professeurs.</li><li>Adjectif postposé : des conservé : des hommes grands, des professeurs anciens.</li></ul><p>Attention : le sens dépend du contexte et du mot ; n'utilisez pas « je veux dire un homme remarquable » pour décider entre de et des. Regardez d'abord la structure, puis le sens.</p>"
+        }
+      }
     }
   ],
   "lessons": [
@@ -187,7 +391,13 @@
           "prompt": "用 « grand » 的正确形式填空（阴性单数）：Une ___ femme.",
           "answer": "grande",
           "translation": "一位个子高的女人。",
-          "explain": "控制对象 femme 是阴性单数；grand 是规则形容词，阴性加 -e 成 grande。"
+          "explain": "控制对象 femme 是阴性单数；grand 是规则形容词，阴性加 -e 成 grande。",
+          "locales": {
+            "fr": {
+              "prompt": "Complétez avec la forme correcte de « grand » (féminin singulier) : Une ___ femme.",
+              "explain": "Le contrôleur femme est féminin singulier ; grand est un adjectif régulier et prend -e au féminin : grande."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l1-q2",
@@ -195,7 +405,13 @@
           "prompt": "用 « petit » 的正确形式填空（阴性单数）：Une ___ table.",
           "answer": "petite",
           "translation": "一张小桌子。",
-          "explain": "控制对象 table 是阴性单数；petit 是规则形容词，阴性加 -e 成 petite。"
+          "explain": "控制对象 table 是阴性单数；petit 是规则形容词，阴性加 -e 成 petite。",
+          "locales": {
+            "fr": {
+              "prompt": "Complétez avec la forme correcte de « petit » (féminin singulier) : Une ___ table.",
+              "explain": "Le contrôleur table est féminin singulier ; petit est un adjectif régulier et prend -e au féminin : petite."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l1-q3",
@@ -203,7 +419,13 @@
           "prompt": "用 « joli » 的正确形式填空（阴性单数）：Une ___ robe.",
           "answer": "jolie",
           "translation": "一条漂亮的连衣裙。",
-          "explain": "控制对象 robe 是阴性单数；joli 是规则形容词，阴性加 -e 成 jolie。"
+          "explain": "控制对象 robe 是阴性单数；joli 是规则形容词，阴性加 -e 成 jolie。",
+          "locales": {
+            "fr": {
+              "prompt": "Complétez avec la forme correcte de « joli » (féminin singulier) : Une ___ robe.",
+              "explain": "Le contrôleur robe est féminin singulier ; joli est un adjectif régulier et prend -e au féminin : jolie."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l1-q4",
@@ -211,7 +433,13 @@
           "prompt": "写出形容词 « calme » 的阴性单数形式：___。",
           "answer": "calme",
           "translation": "平静的；安静的（阴性单数）。",
-          "explain": "calme 的阳性已经以 -e 收尾，阴性不再加第二个 -e，保持 calme。"
+          "explain": "calme 的阳性已经以 -e 收尾，阴性不再加第二个 -e，保持 calme。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « calme » : ___.",
+              "explain": "Le masculin calme se termine déjà par -e ; le féminin n'ajoute pas un second -e et reste calme."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l1-q5",
@@ -219,7 +447,13 @@
           "prompt": "写出形容词 « rapide » 的阴性单数形式：___。",
           "answer": "rapide",
           "translation": "快的（阴性单数）。",
-          "explain": "rapide 的阳性已经以 -e 收尾，阴性保持 rapide，不再加 -e。"
+          "explain": "rapide 的阳性已经以 -e 收尾，阴性保持 rapide，不再加 -e。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « rapide » : ___.",
+              "explain": "Le masculin rapide se termine déjà par -e ; le féminin reste rapide, sans second -e."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l1-q6",
@@ -227,7 +461,13 @@
           "prompt": "用 « vert » 的正确形式填空：Une pomme ___.",
           "answer": "verte",
           "translation": "一个青苹果。",
-          "explain": "控制对象 pomme 是阴性单数；vert 是规则形容词，阴性加 -e 成 verte。"
+          "explain": "控制对象 pomme 是阴性单数；vert 是规则形容词，阴性加 -e 成 verte。",
+          "locales": {
+            "fr": {
+              "prompt": "Complétez avec la forme correcte de « vert » : Une pomme ___.",
+              "explain": "Le contrôleur pomme est féminin singulier ; vert est un adjectif régulier et prend -e au féminin : verte."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l1-q7",
@@ -241,7 +481,13 @@
           ],
           "answer": 0,
           "translation": "一个害羞的女孩。",
-          "explain": "timide 的阳性已经以 -e 收尾，阴性保持 timide，不再加第二个 -e；timidee 是过度加 -e，timides 是复数。"
+          "explain": "timide 的阳性已经以 -e 收尾，阴性保持 timide，不再加第二个 -e；timidee 是过度加 -e，timides 是复数。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme correcte : Une fille ___.",
+              "explain": "timide se termine déjà par -e au masculin : le féminin reste timide, sans second -e. timidee ajoute un -e de trop et timides est le pluriel."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l1-q8",
@@ -255,9 +501,20 @@
           ],
           "answer": 2,
           "translation": "父亲和母亲很满意。",
-          "explain": "在常规书面配合中，并列成分一阳一阴时通常取阳性复数 contents；contentes 只用于全阴性并列，contente 是阴性单数，content 是阳性单数。"
+          "explain": "在常规书面配合中，并列成分一阳一阴时通常取阳性复数 contents；contentes 只用于全阴性并列，contente 是阴性单数，content 是阳性单数。",
+          "locales": {
+            "fr": {
+              "prompt": "Selon l'accord écrit habituel, choisissez la forme correcte : Le père et la mère sont ___.",
+              "explain": "Dans l'accord écrit habituel, des éléments coordonnés masculin + féminin prennent généralement le masculin pluriel contents ; contentes ne convient qu'à des éléments tous féminins, contente est féminin singulier et content masculin singulier."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Contrôle de l'accord et féminin régulier"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-l2",
@@ -271,7 +528,13 @@
           "prompt": "写出形容词 « premier » 的阴性单数形式：___。",
           "answer": "première",
           "translation": "第一的（阴性单数）。",
-          "explain": "premier 以 -ier 结尾，阴性改为 -ière：première；è 不能丢，也不能写成 premiere。"
+          "explain": "premier 以 -ier 结尾，阴性改为 -ière：première；è 不能丢，也不能写成 premiere。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « premier » : ___.",
+              "explain": "premier se termine par -ier et passe à -ière au féminin : première ; l'accent è est obligatoire, et premiere est fautif."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l2-q2",
@@ -279,7 +542,13 @@
           "prompt": "写出形容词 « complet » 的阴性单数形式：___。",
           "answer": "complète",
           "translation": "完整的（阴性单数）。",
-          "explain": "complet 以 -et 结尾，阴性改为 -ète：complète；e 上要有开口音符 è，不能写成 complete 或 compléte。"
+          "explain": "complet 以 -et 结尾，阴性改为 -ète：complète；e 上要有开口音符 è，不能写成 complete 或 compléte。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « complet » : ___.",
+              "explain": "complet se termine par -et et passe à -ète : complète ; le e porte un accent grave è, et complete ou compléte sont fautifs."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l2-q3",
@@ -287,7 +556,13 @@
           "prompt": "写出形容词 « muet » 的阴性单数形式：___。",
           "answer": "muette",
           "translation": "哑的；沉默的（阴性单数）。",
-          "explain": "muet 属于双写 t 的词条性例外：muet → muette，不是 muète；同类还有 coquet → coquette、net → nette。"
+          "explain": "muet 属于双写 t 的词条性例外：muet → muette，不是 muète；同类还有 coquet → coquette、net → nette。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « muet » : ___.",
+              "explain": "muet appartient aux exceptions lexicales qui doublent le t : muet → muette, et non muète ; coquet → coquette, net → nette suivent le même modèle."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l2-q4",
@@ -295,7 +570,13 @@
           "prompt": "写出形容词 « frais » 的阴性单数形式：___。",
           "answer": "fraîche",
           "translation": "新鲜的；凉爽的（阴性单数）。",
-          "explain": "frais 是 -ais 类特殊词条：frais → fraîche，a 上有长音符号 î，词尾为 -che；不能按普通 -ais 写成 fraisse。"
+          "explain": "frais 是 -ais 类特殊词条：frais → fraîche，a 上有长音符号 î，词尾为 -che；不能按普通 -ais 写成 fraisse。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « frais » : ___.",
+              "explain": "frais est une exception lexicale de -ais : frais → fraîche, avec î et terminaison -che ; on n'écrit pas fraisse selon la règle ordinaire de -ais."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l2-q5",
@@ -303,7 +584,13 @@
           "prompt": "写出形容词 « coquet » 的阴性单数形式：___。",
           "answer": "coquette",
           "translation": "娇俏的；爱打扮的（阴性单数）。",
-          "explain": "coquet 属于双写 t 的词条性例外：coquet → coquette；不要把 -et 一律套成 -ète 而写成 coquète。"
+          "explain": "coquet 属于双写 t 的词条性例外：coquet → coquette；不要把 -et 一律套成 -ète 而写成 coquète。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « coquet » : ___.",
+              "explain": "coquet appartient aux exceptions lexicales qui doublent le t : coquet → coquette ; on n'écrit pas coquète en appliquant -et → -ète à tous les mots."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l2-q6",
@@ -311,7 +598,13 @@
           "prompt": "写出形容词 « léger » 的阴性单数形式：___。",
           "answer": "légère",
           "translation": "轻的（阴性单数）。",
-          "explain": "léger 以 -er 结尾，阴性改为 -ère：légère；é 和 è 都要保留，不能写成 leger 或 légére。"
+          "explain": "léger 以 -er 结尾，阴性改为 -ère：légère；é 和 è 都要保留，不能写成 leger 或 légére。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « léger » : ___.",
+              "explain": "léger se termine par -er et passe à -ère : légère ; é et è doivent être conservés, et leger ou légére sont fautifs."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l2-q7",
@@ -325,7 +618,13 @@
           ],
           "answer": 0,
           "translation": "秘密的（阴性单数）。",
-          "explain": "secret 以 -et 结尾，阴性改为 -ète：secrète；secrette 是错误地双写 t，secrètes 是阴性复数。"
+          "explain": "secret 以 -et 结尾，阴性改为 -ète：secrète；secrette 是错误地双写 t，secrètes 是阴性复数。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme féminine singulière de l'adjectif « secret » : ___.",
+              "explain": "secret se termine par -et et passe à -ète : secrète ; secrette double à tort le t, et secrètes est le féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l2-q8",
@@ -339,7 +638,13 @@
           ],
           "answer": 2,
           "translation": "“新鲜的”的阴性形式已给；那么“英国的；英语的”的阴性单数形式是？",
-          "explain": "anglais 走普通 -aise：anglaise；只有 frais → fraîche 等少数词条变 -aîche。不要把 fraîche 的模式套到所有 -ais 形容词。"
+          "explain": "anglais 走普通 -aise：anglaise；只有 frais → fraîche 等少数词条变 -aîche。不要把 fraîche 的模式套到所有 -ais 形容词。",
+          "locales": {
+            "fr": {
+              "prompt": "Le féminin de « frais » est fraîche. Quelle est la forme féminine singulière de l'adjectif « anglais » ? ___.",
+              "explain": "anglais suit la règle ordinaire -aise : anglaise ; seuls quelques mots comme frais → fraîche passent à -aîche. N'étendez pas le modèle de fraîche à tous les adjectifs en -ais."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l2-q9",
@@ -353,9 +658,20 @@
           ],
           "answer": 1,
           "translation": "这是项目的最后一个具体提案。",
-          "explain": "proposition 是阴性单数，两个形容词都要用阴性：dernier → dernière，concret → concrète。第一空不是阳性 dernier，第二空也不是阳性 concret。"
+          "explain": "proposition 是阴性单数，两个形容词都要用阴性：dernier → dernière，concret → concrète。第一空不是阳性 dernier，第二空也不是阳性 concret。",
+          "locales": {
+            "fr": {
+              "prompt": "Complétez avec les formes correctes de « dernier » et « concret » : Voici la ___ proposition ___ du projet.",
+              "explain": "proposition est féminin singulier : les deux adjectifs passent au féminin, dernier → dernière et concret → concrète. La première case n'est pas le masculin dernier, et la seconde n'est pas le masculin concret."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Féminin de -er, -et et -ais"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-l3",
@@ -369,7 +685,13 @@
           "prompt": "写出形容词 « blanc » 的阴性单数形式：___。",
           "answer": "blanche",
           "translation": "白色的（阴性单数）。",
-          "explain": "blanc 以 -c 结尾，阴性变 -che：blanche；不能写成 blanque。"
+          "explain": "blanc 以 -c 结尾，阴性变 -che：blanche；不能写成 blanque。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « blanc » : ___.",
+              "explain": "blanc se termine par -c et passe à -che au féminin : blanche ; on n'écrit pas blanque."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l3-q2",
@@ -377,7 +699,13 @@
           "prompt": "写出形容词 « public » 的阴性单数形式：___。",
           "answer": "publique",
           "translation": "公共的（阴性单数）。",
-          "explain": "public 以 -c 结尾，阴性变 -que：publique；不能写成 publiche。"
+          "explain": "public 以 -c 结尾，阴性变 -que：publique；不能写成 publiche。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « public » : ___.",
+              "explain": "public se termine par -c et passe à -que au féminin : publique ; on n'écrit pas publiche."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l3-q3",
@@ -385,7 +713,13 @@
           "prompt": "写出形容词 « long » 的阴性单数形式：___。",
           "answer": "longue",
           "translation": "长的（阴性单数）。",
-          "explain": "long 以 -g 结尾，阴性写 -gue：longue；u 不发音，只用来保持 /g/ 音，不能写成 longe。"
+          "explain": "long 以 -g 结尾，阴性写 -gue：longue；u 不发音，只用来保持 /g/ 音，不能写成 longe。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « long » : ___.",
+              "explain": "long se termine par -g et s'écrit -gue au féminin : longue. Le u ne se prononce pas et sert seulement à conserver le son /g/ ; on n'écrit pas longe."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l3-q4",
@@ -393,7 +727,13 @@
           "prompt": "写出形容词 « sec » 的阴性单数形式：___。",
           "answer": "sèche",
           "translation": "干的（阴性单数）。",
-          "explain": "sec 属于 -c → -che 的词条，同时词干元音 e 变为 è：sèche；不要错把 -c 当成 -que 而写成 seque，也要注意重音符号是 è。"
+          "explain": "sec 属于 -c → -che 的词条，同时词干元音 e 变为 è：sèche；不要错把 -c 当成 -que 而写成 seque，也要注意重音符号是 è。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « sec » : ___.",
+              "explain": "sec appartient à la série -c → -che, et la voyelle du radical e devient è : sèche. N'écrivez pas seque en traitant -c comme -que, et n'oubliez pas l'accent è."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l3-q5",
@@ -401,7 +741,13 @@
           "prompt": "写出形容词 « grec » 的阴性单数形式：___。",
           "answer": "grecque",
           "translation": "希腊的（阴性单数）。",
-          "explain": "grec 以 -c 结尾，阴性变 -que，并保留 c 的书写：grecque；不能写成 greche。"
+          "explain": "grec 以 -c 结尾，阴性变 -que，并保留 c 的书写：grecque；不能写成 greche。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « grec » : ___.",
+              "explain": "grec se termine par -c et passe à -que en conservant le c écrit : grecque ; on n'écrit pas greche."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l3-q6",
@@ -409,7 +755,13 @@
           "prompt": "在「坦率的」这一义项下，写出形容词 « franc » 的阴性单数形式：___。",
           "answer": "franche",
           "translation": "坦率的；直率的（阴性单数）。",
-          "explain": "表示“坦率的”时，franc 的阴性是 franche，按 -c → -che 变化；不要和表示“法兰克的”的 franque 混用。"
+          "explain": "表示“坦率的”时，franc 的阴性是 franche，按 -c → -che 变化；不要和表示“法兰克的”的 franque 混用。",
+          "locales": {
+            "fr": {
+              "prompt": "Au sens de « sincère, franc », écrivez la forme féminine singulière de l'adjectif « franc » : ___.",
+              "explain": "Au sens de « sincère », le féminin de franc est franche, selon -c → -che ; ne le confondez pas avec franque, qui correspond à un autre sens."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l3-q7",
@@ -423,7 +775,13 @@
           ],
           "answer": 2,
           "translation": "下列哪一组形容词的阴性形式正确？",
-          "explain": "long 的阴性是 longue，-g → -gue；blanc 应为 blanche，public 应为 publique，sec 应为 sèche。"
+          "explain": "long 的阴性是 longue，-g → -gue；blanc 应为 blanche，public 应为 publique，sec 应为 sèche。",
+          "locales": {
+            "fr": {
+              "prompt": "Quelle série donne les formes féminines correctes ?",
+              "explain": "Le féminin de long est longue, -g → -gue ; blanc doit donner blanche, public doit donner publique, et sec doit donner sèche."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l3-q8",
@@ -437,7 +795,13 @@
           ],
           "answer": 0,
           "translation": "漫长的一天。",
-          "explain": "journée 是阴性单数，long 的阴性为 longue；longe 少了表示 /g/ 的 u，long 是阳性，longues 是阴性复数。"
+          "explain": "journée 是阴性单数，long 的阴性为 longue；longe 少了表示 /g/ 的 u，long 是阳性，longues 是阴性复数。",
+          "locales": {
+            "fr": {
+              "prompt": "Complétez avec la forme correcte de « long » : une ___ journée.",
+              "explain": "journée est féminin singulier ; le féminin de long est longue. longe omet le u qui note le son /g/, long est masculin et longues est féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l3-q9",
@@ -451,9 +815,20 @@
           ],
           "answer": 1,
           "translation": "一件白衬衫和一条长裙子。",
-          "explain": "chemise 和 jupe 都是阴性单数：blanc → blanche，long → longue。两个空都要用阴性形式。"
+          "explain": "chemise 和 jupe 都是阴性单数：blanc → blanche，long → longue。两个空都要用阴性形式。",
+          "locales": {
+            "fr": {
+              "prompt": "Complétez avec les formes correctes de « blanc » et « long » : Une chemise ___ et une jupe ___.",
+              "explain": "chemise et jupe sont des noms féminins singuliers : blanc → blanche et long → longue. Les deux cases demandent la forme féminine."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Féminin de -c et -g"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-l4-1",
@@ -467,7 +842,13 @@
           "prompt": "写出形容词 « neuf » 的阴性单数形式：___。",
           "answer": "neuve",
           "translation": "新的（阴性单数）。",
-          "explain": "neuf 以 -f 结尾，阴性把 -f 改为 -ve：neuve；词干元音 eu 保持不变。"
+          "explain": "neuf 以 -f 结尾，阴性把 -f 改为 -ve：neuve；词干元音 eu 保持不变。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « neuf » : ___.",
+              "explain": "neuf se termine par -f et passe à -ve : neuve ; la voyelle du radical eu reste inchangée."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l4-q2",
@@ -475,7 +856,13 @@
           "prompt": "写出形容词 « bref » 的阴性单数形式：___。",
           "answer": "brève",
           "translation": "简短的（阴性单数）。",
-          "explain": "bref 属于 -f 类词干例外：bref → brève，-f 变 -ve 的同时 e 变 è；不能写成 breve。"
+          "explain": "bref 属于 -f 类词干例外：bref → brève，-f 变 -ve 的同时 e 变 è；不能写成 breve。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « bref » : ___.",
+              "explain": "bref appartient aux exceptions de radical de la série -f : bref → brève, -f devient -ve et e devient è ; on n'écrit pas breve."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l4-q3",
@@ -483,7 +870,13 @@
           "prompt": "写出形容词 « heureux » 的阴性单数形式：___。",
           "answer": "heureuse",
           "translation": "幸福的（阴性单数）。",
-          "explain": "heureux 以 -eux 结尾，阴性改为 -euse：heureuse；不能按 -eux 直接加 -e。"
+          "explain": "heureux 以 -eux 结尾，阴性改为 -euse：heureuse；不能按 -eux 直接加 -e。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « heureux » : ___.",
+              "explain": "heureux se termine par -eux et passe à -euse : heureuse ; on n'ajoute pas simplement -e à -eux."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l4-q4",
@@ -491,7 +884,13 @@
           "prompt": "写出形容词 « meilleur » 的阴性单数形式：___。",
           "answer": "meilleure",
           "translation": "更好的；最好的（阴性单数）。",
-          "explain": "meilleur 以 -eur 结尾，阴性直接加 -e，写作 meilleure；不能按另一类 -eur 写成 meilleuse。"
+          "explain": "meilleur 以 -eur 结尾，阴性直接加 -e，写作 meilleure；不能按另一类 -eur 写成 meilleuse。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « meilleur » : ___.",
+              "explain": "meilleur se termine par -eur et prend directement -e : meilleure ; on n'écrit pas meilleuse selon l'autre série de -eur."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l4-q5",
@@ -499,7 +898,13 @@
           "prompt": "写出形容词 « travailleur » 的阴性单数形式：___。",
           "answer": "travailleuse",
           "translation": "勤劳的；工作的（阴性单数）。",
-          "explain": "travailleur 以 -eur 结尾，阴性改为 -euse：travailleuse；不能直接加 -e 写成 travailleure。"
+          "explain": "travailleur 以 -eur 结尾，阴性改为 -euse：travailleuse；不能直接加 -e 写成 travailleure。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « travailleur » : ___.",
+              "explain": "travailleur se termine par -eur et passe à -euse : travailleuse ; on n'ajoute pas simplement -e pour écrire travailleure."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l4-q6",
@@ -507,9 +912,20 @@
           "prompt": "写出形容词 « grief »（严重的）的阴性单数形式：___。",
           "answer": "griève",
           "translation": "严重的；令人痛苦的（阴性单数）。",
-          "explain": "grief 属于 -f 类词干例外：grief → griève，-f 变 -ve 的同时 e 变 è；不能写成 griefe 或 grieve。"
+          "explain": "grief 属于 -f 类词干例外：grief → griève，-f 变 -ve 的同时 e 变 è；不能写成 griefe 或 grieve。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « grief » (au sens « grave, douloureux ») : ___.",
+              "explain": "grief appartient aux exceptions de radical de la série -f : grief → griève, -f devient -ve et e devient è ; on n'écrit ni griefe ni grieve."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Féminin de -f, -eux et -eur (1)"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-l4-2",
@@ -529,7 +945,13 @@
           ],
           "answer": 1,
           "translation": "一个好奇的孩子（阴性）。",
-          "explain": "enfant 的阴阳性由冠词体现；curieux 是 -eux 类，阴性为 curieuse。保持“冠词 + 名词 + 形容词”的原词序，得到 une enfant curieuse；une curieuse enfant 虽然也可表示“古怪的孩子”，但词序已变，不符合本题要求。"
+          "explain": "enfant 的阴阳性由冠词体现；curieux 是 -eux 类，阴性为 curieuse。保持“冠词 + 名词 + 形容词”的原词序，得到 une enfant curieuse；une curieuse enfant 虽然也可表示“古怪的孩子”，但词序已变，不符合本题要求。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez le groupe au féminin en conservant l'ordre des mots : un enfant curieux → ___",
+              "explain": "Le genre d'enfant est marqué par l'article ; curieux est de la série -eux et son féminin est curieuse. En gardant l'ordre « article + nom + adjectif », on obtient une enfant curieuse ; une curieuse enfant peut aussi se dire, mais l'ordre des mots a changé et ne répond pas à la consigne."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l4-q8",
@@ -537,7 +959,13 @@
           "prompt": "写出形容词 « sportif » 的阴性单数形式：___。",
           "answer": "sportive",
           "translation": "爱好运动的（阴性单数）。",
-          "explain": "sportif 以 -f 结尾，阴性把 -f 改为 -ve：sportive；词干元音 i 保持不变。"
+          "explain": "sportif 以 -f 结尾，阴性把 -f 改为 -ve：sportive；词干元音 i 保持不变。",
+          "locales": {
+            "fr": {
+              "prompt": "Écrivez la forme féminine singulière de l'adjectif « sportif » : ___.",
+              "explain": "sportif se termine par -f et passe à -ve : sportive ; la voyelle du radical i reste inchangée."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l4-q9",
@@ -551,7 +979,13 @@
           ],
           "answer": 1,
           "translation": "爱做梦的；梦幻的（阴性单数）。",
-          "explain": "rêveur 走 -eur → -euse：rêveuse；不能直接加 -e 写成 rêveure，rêveuses 是阴性复数。"
+          "explain": "rêveur 走 -eur → -euse：rêveuse；不能直接加 -e 写成 rêveure，rêveuses 是阴性复数。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme féminine singulière de l'adjectif « rêveur » : ___.",
+              "explain": "rêveur suit -eur → -euse : rêveuse ; on n'écrit pas rêveure en ajoutant -e, et rêveuses est le féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l4-q10",
@@ -565,7 +999,13 @@
           ],
           "answer": 2,
           "translation": "外部的（阴性单数）。",
-          "explain": "extérieur 走 -eur → -eure：extérieure，直接加 -e；不是 -euse 类。"
+          "explain": "extérieur 走 -eur → -eure：extérieure，直接加 -e；不是 -euse 类。",
+          "locales": {
+            "fr": {
+              "prompt": "Choisissez la forme féminine singulière de l'adjectif « extérieur » : ___.",
+              "explain": "extérieur suit -eur → -eure et prend directement -e : extérieure ; ce n'est pas la série -euse."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l4-q11",
@@ -579,9 +1019,20 @@
           ],
           "answer": 3,
           "translation": "下列哪个词以 -rice 构成阴性？",
-          "explain": "acteur 是施事名词，阴性为 actrice；-rice 主要属于这类名词和少数词条，不能推广为所有 -eur 形容词的规则。meilleur → meilleure，travailleur → travailleuse，extérieur → extérieure。"
+          "explain": "acteur 是施事名词，阴性为 actrice；-rice 主要属于这类名词和少数词条，不能推广为所有 -eur 形容词的规则。meilleur → meilleure，travailleur → travailleuse，extérieur → extérieure。",
+          "locales": {
+            "fr": {
+              "prompt": "Lequel de ces mots forme son féminin en -rice ?",
+              "explain": "acteur est un nom d'agent et son féminin est actrice ; -rice concerne surtout cette catégorie et quelques mots, et ne s'étend pas à tous les adjectifs en -eur. meilleur → meilleure, travailleur → travailleuse, extérieur → extérieure."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Féminin de -f, -eux et -eur (2)"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-l5-1",
@@ -595,7 +1046,12 @@
           "answer": "gentille",
           "translation": "一位友善的女士。",
           "explain": "gentil 以 -l 结尾，阴性双写 l 再加 -e：gentille。并非所有 -il/-ul 词尾都双写：civil → civile，utile → utile，需要按词条确认。",
-          "id": "pub-c03-adjectives-l5-q1"
+          "id": "pub-c03-adjectives-l5-q1",
+          "locales": {
+            "fr": {
+              "explain": "gentil se termine par -l et double le l avant -e au féminin : gentille. Tous les mots en -il/-ul ne doublent pas : civil → civile, utile → utile ; vérifiez le mot."
+            }
+          }
         },
         {
           "type": "letters",
@@ -603,7 +1059,12 @@
           "answer": "bonne",
           "translation": "一个好主意。",
           "explain": "bon 以 -on 结尾，阴性双写 n 再加 -e：bonne。不要把这条规则扩大到所有鼻音词尾：-ain/-ein 通常只加 -e，如 fin → fine，plein → pleine。",
-          "id": "pub-c03-adjectives-l5-q2"
+          "id": "pub-c03-adjectives-l5-q2",
+          "locales": {
+            "fr": {
+              "explain": "bon se termine par -on et double le n avant -e : bonne. N'étendez pas cette règle à toutes les nasales : -ain/-ein ajoutent généralement seulement -e, comme fin → fine, plein → pleine."
+            }
+          }
         },
         {
           "type": "letters",
@@ -611,7 +1072,12 @@
           "answer": "jalouse",
           "translation": "一个嫉妒的人。",
           "explain": "jaloux → jalouse，-oux 词条变为 -ouse。不要据拼写类推：doux → douce，faux → fausse，roux → rousse，必须按词条确认。",
-          "id": "pub-c03-adjectives-l5-q3"
+          "id": "pub-c03-adjectives-l5-q3",
+          "locales": {
+            "fr": {
+              "explain": "jaloux → jalouse : -oux devient -ouse. Ne devinez pas d'après l'orthographe : doux → douce, faux → fausse, roux → rousse ; vérifiez chaque mot."
+            }
+          }
         },
         {
           "type": "letters",
@@ -619,7 +1085,12 @@
           "answer": "grise",
           "translation": "一条灰白的围巾。",
           "explain": "gris → grise，-s 改为 -se，词干保持稳定。与 gros → grosse 的加长型 -sse 区分；同样是 -s 结尾，结果可能不同。",
-          "id": "pub-c03-adjectives-l5-q4"
+          "id": "pub-c03-adjectives-l5-q4",
+          "locales": {
+            "fr": {
+              "explain": "gris → grise : -s devient -se et le radical reste stable. À distinguer de l'allongement -sse de gros → grosse : une même terminaison -s peut donner des résultats différents."
+            }
+          }
         },
         {
           "type": "letters",
@@ -627,7 +1098,12 @@
           "answer": "grosse",
           "translation": "一个大行李箱。",
           "explain": "gros → grosse，-s 改为 -sse，词尾加长。与 gris → grise 的 -se 对照；不要把 gros 写成 grose。",
-          "id": "pub-c03-adjectives-l5-q5"
+          "id": "pub-c03-adjectives-l5-q5",
+          "locales": {
+            "fr": {
+              "explain": "gros → grosse : -s devient -sse, avec allongement de la terminaison. À comparer avec gris → grise en -se ; n'écrivez pas grose."
+            }
+          }
         },
         {
           "type": "letters",
@@ -635,9 +1111,19 @@
           "answer": "douce",
           "translation": "柔和的声音。",
           "explain": "doux → douce，-x 改为 -ce。与 faux → fausse 的 -sse 区分；同样是 -x 结尾，不能统一处理。",
-          "id": "pub-c03-adjectives-l5-q6"
+          "id": "pub-c03-adjectives-l5-q6",
+          "locales": {
+            "fr": {
+              "explain": "doux → douce : -x devient -ce. À distinguer de faux → fausse en -sse ; une même terminaison -x ne se traite pas uniformément."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Formes du féminin : consonnes doublées et terminaisons -s/-x (1)"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-l5-2",
@@ -651,7 +1137,12 @@
           "answer": "fausse",
           "translation": "一条假消息。",
           "explain": "faux → fausse，-x 改为 -sse。与 doux → douce 的 -ce 区分；faux 的阴性双写 s，不能写成 fause。",
-          "id": "pub-c03-adjectives-l5-q7"
+          "id": "pub-c03-adjectives-l5-q7",
+          "locales": {
+            "fr": {
+              "explain": "faux → fausse : -x devient -sse. À distinguer de doux → douce en -ce ; le féminin de faux double le s, on n'écrit pas fause."
+            }
+          }
         },
         {
           "type": "letters",
@@ -659,7 +1150,12 @@
           "answer": "molle",
           "translation": "一条柔软的毯子。",
           "explain": "mou → molle，-ou 双写 l 再加 -e。fou → folle 同类；这是词条性变化，不要把它推广到所有 -ou 结尾的词。",
-          "id": "pub-c03-adjectives-l5-q8"
+          "id": "pub-c03-adjectives-l5-q8",
+          "locales": {
+            "fr": {
+              "explain": "mou → molle : -ou double le l avant -e. fou → folle suit le même modèle ; c'est un changement lexical, à ne pas étendre à tous les mots en -ou."
+            }
+          }
         },
         {
           "type": "choice",
@@ -672,7 +1168,12 @@
           "answer": 1,
           "translation": "一座古老的房子。",
           "explain": "ancien → ancienne：-ien 的鼻音词尾双写 n 再加 -e。不是所有鼻音词尾都双写：fin → fine，plein → pleine 只加 -e。",
-          "id": "pub-c03-adjectives-l5-q9"
+          "id": "pub-c03-adjectives-l5-q9",
+          "locales": {
+            "fr": {
+              "explain": "ancien → ancienne : la nasale -ien double le n avant -e. Toutes les nasales ne doublent pas : fin → fine, plein → pleine ajoutent seulement -e."
+            }
+          }
         },
         {
           "type": "choice",
@@ -685,7 +1186,12 @@
           "answer": 2,
           "translation": "灰白的胡子，柔和的声音。",
           "explain": "gris → grise（-s → -se，词干不变）；doux → douce（-x → -ce）。不要把 gris 写成 grisse，也不要把 doux 写成 douxe。",
-          "id": "pub-c03-adjectives-l5-q10"
+          "id": "pub-c03-adjectives-l5-q10",
+          "locales": {
+            "fr": {
+              "explain": "gris → grise (-s → -se, radical inchangé) ; doux → douce (-x → -ce). N'écrivez ni grisse ni douxe."
+            }
+          }
         },
         {
           "type": "choice",
@@ -698,7 +1204,12 @@
           "answer": 0,
           "translation": "这个故事很疯狂。",
           "explain": "fou → folle：-ou 双写 l 再加 -e；mou → molle 同类。不要写成 fole，也不要把阳性 fou 直接当阴性。",
-          "id": "pub-c03-adjectives-l5-q11"
+          "id": "pub-c03-adjectives-l5-q11",
+          "locales": {
+            "fr": {
+              "explain": "fou → folle : -ou double le l avant -e ; mou → molle suit le même modèle. N'écrivez pas fole et n'employez pas le masculin fou pour le féminin."
+            }
+          }
         },
         {
           "type": "tiles",
@@ -731,9 +1242,19 @@
           ],
           "translation": "答案是错误的，门是大的。",
           "explain": "faux → fausse（-x → -sse）；gros → grosse（-s → -sse）。两句都按阴性单数配合；注意 fausse 与 grosse 都双写 s，但来自不同词尾类别。",
-          "id": "pub-c03-adjectives-l5-q12"
+          "id": "pub-c03-adjectives-l5-q12",
+          "locales": {
+            "fr": {
+              "explain": "faux → fausse (-x → -sse) ; gros → grosse (-s → -sse). Les deux phrases demandent le féminin singulier ; fausse et grosse doublent le s, mais viennent de deux terminaisons différentes."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Formes du féminin : consonnes doublées et terminaisons -s/-x (2)"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-l6-1",
@@ -747,7 +1268,12 @@
           "answer": "petits",
           "translation": "小猫们。",
           "explain": "阳性复数一般在阳性单数后加 -s：petit → petits。词尾 -t 不双写；不要和阴性 petite 的 -e 混在一起。",
-          "id": "pub-c03-adjectives-l6-q1"
+          "id": "pub-c03-adjectives-l6-q1",
+          "locales": {
+            "fr": {
+              "explain": "Le masculin pluriel ajoute généralement -s au masculin singulier : petit → petits. Le -t ne double pas ; ne le confondez pas avec le -e du féminin petite."
+            }
+          }
         },
         {
           "type": "letters",
@@ -755,7 +1281,12 @@
           "answer": "heureux",
           "translation": "幸福的孩子们。",
           "explain": "heureux 以 -x 结尾，阳性复数与单数同形：heureux。这条词尾不变规则不在本课范围，本课先作为观察；阴性复数仍是 heureuses。",
-          "id": "pub-c03-adjectives-l6-q2"
+          "id": "pub-c03-adjectives-l6-q2",
+          "locales": {
+            "fr": {
+              "explain": "heureux se termine par -x : le masculin pluriel garde la forme du singulier, heureux. Cette invariabilité n'est pas le sujet de la leçon, qui l'observe ici ; le féminin pluriel reste heureuses."
+            }
+          }
         },
         {
           "type": "letters",
@@ -763,7 +1294,12 @@
           "answer": "heureuses",
           "translation": "幸福的人们。",
           "explain": "阴性复数由阴性单数加 -s：heureuse → heureuses。不要回到阳性 heureux 再加 -s；阳性复数是 heureux。",
-          "id": "pub-c03-adjectives-l6-q3"
+          "id": "pub-c03-adjectives-l6-q3",
+          "locales": {
+            "fr": {
+              "explain": "Le féminin pluriel ajoute -s au féminin singulier : heureuse → heureuses. Ne repartez pas du masculin heureux pour ajouter -s ; le masculin pluriel est heureux."
+            }
+          }
         },
         {
           "type": "choice",
@@ -776,7 +1312,12 @@
           "answer": 1,
           "translation": "男歌手和女歌手排在最前面；女歌手们也是第一批。",
           "explain": "并列的一阳一阴通常用阳性复数：premiers。单独的 les chanteuses 是阴性复数：premières（-er → -ère 再加 -s）。premiéres 的重音位置不对。",
-          "id": "pub-c03-adjectives-l6-q4"
+          "id": "pub-c03-adjectives-l6-q4",
+          "locales": {
+            "fr": {
+              "explain": "Un groupe coordonné masculin + féminin prend généralement le masculin pluriel : premiers. Le groupe seul les chanteuses est féminin pluriel : premières (-er → -ère, puis -s). L'accent de premiéres est mal placé."
+            }
+          }
         },
         {
           "type": "letters",
@@ -784,7 +1325,12 @@
           "answer": "complètes",
           "translation": "完整的句子。",
           "explain": "complet → complète（-et → -ète，加开音符）→ complètes（阴性复数加 -s）。注意 è，不要写成 complettes 或 completes。",
-          "id": "pub-c03-adjectives-l6-q5"
+          "id": "pub-c03-adjectives-l6-q5",
+          "locales": {
+            "fr": {
+              "explain": "complet → complète (-et → -ète, avec accent grave), puis complètes (féminin pluriel en -s). Attention à è : n'écrivez ni complettes ni completes."
+            }
+          }
         },
         {
           "type": "letters",
@@ -792,9 +1338,19 @@
           "answer": "meilleures",
           "translation": "分数更好。",
           "explain": "meilleur → meilleure（-eur → -eure，不是 -euse）→ meilleures（加 -s）。不要写成 meilleuses。",
-          "id": "pub-c03-adjectives-l6-q6"
+          "id": "pub-c03-adjectives-l6-q6",
+          "locales": {
+            "fr": {
+              "explain": "meilleur → meilleure (-eur → -eure, et non -euse), puis meilleures avec -s. N'écrivez pas meilleuses."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Pluriel régulier des adjectifs (1)"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-l6-2",
@@ -808,7 +1364,12 @@
           "answer": "heureuses",
           "translation": "幸福的女人们。",
           "explain": "heureux → heureuse（-eux → -euse）→ heureuses（加 -s）。两步都要做：不能只写 heureuse，也不能保留 heureux 再加 -s。",
-          "id": "pub-c03-adjectives-l6-q7"
+          "id": "pub-c03-adjectives-l6-q7",
+          "locales": {
+            "fr": {
+              "explain": "heureux → heureuse (-eux → -euse), puis heureuses avec -s. Les deux étapes sont nécessaires : n'écrivez ni seulement heureuse ni heureux avec -s."
+            }
+          }
         },
         {
           "type": "letters",
@@ -816,7 +1377,12 @@
           "answer": "neuves",
           "translation": "新车。",
           "explain": "neuf → neuve（-f → -ve）→ neuves（加 -s）。注意阴性不是 neufe；阳性复数是 neufs。",
-          "id": "pub-c03-adjectives-l6-q8"
+          "id": "pub-c03-adjectives-l6-q8",
+          "locales": {
+            "fr": {
+              "explain": "neuf → neuve (-f → -ve), puis neuves avec -s. Le féminin n'est pas neufe ; le masculin pluriel est neufs."
+            }
+          }
         },
         {
           "type": "letters",
@@ -824,7 +1390,12 @@
           "answer": "fines",
           "translation": "切得很薄的片。",
           "explain": "fin → fine（规则阴性加 -e）→ fines（阴性复数再加 -s）。这是规则阴性与规则复数的两步联动；注意 fin 的 -in 不双写 n。",
-          "id": "pub-c03-adjectives-l6-q9"
+          "id": "pub-c03-adjectives-l6-q9",
+          "locales": {
+            "fr": {
+              "explain": "fin → fine (féminin régulier en -e), puis fines (féminin pluriel en -s). C'est l'enchaînement de deux étapes régulières ; le -in de fin ne double pas le n."
+            }
+          }
         },
         {
           "type": "choice",
@@ -837,7 +1408,12 @@
           "answer": 2,
           "translation": "故事细腻，馅饼好吃。",
           "explain": "fin → fine → fines（规则 -e 加 -s）；bon → bonne → bonnes（-on 双写 n 加 -e，再加 -s）。两个形容词都按阴性复数配合。",
-          "id": "pub-c03-adjectives-l6-q10"
+          "id": "pub-c03-adjectives-l6-q10",
+          "locales": {
+            "fr": {
+              "explain": "fin → fine → fines (règle du -e puis -s) ; bon → bonne → bonnes (-on double n, ajoute -e, puis -s). Les deux adjectifs s'accordent au féminin pluriel."
+            }
+          }
         },
         {
           "type": "choice",
@@ -850,9 +1426,19 @@
           "answer": 0,
           "translation": "包和行李箱是轻的；窗户是大的；故事是好的。",
           "explain": "并列的一阳一阴通常用阳性复数：léger → légers。fenêtres 是阴性复数：grand → grandes。histoires 是阴性复数：bon → bonne → bonnes。",
-          "id": "pub-c03-adjectives-l6-q11"
+          "id": "pub-c03-adjectives-l6-q11",
+          "locales": {
+            "fr": {
+              "explain": "Un groupe coordonné masculin + féminin prend généralement le masculin pluriel : léger → légers. fenêtres est féminin pluriel : grand → grandes. histoires est féminin pluriel : bon → bonne → bonnes."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Pluriel régulier des adjectifs (2)"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-l7-1",
@@ -871,7 +1457,12 @@
           "answer": 0,
           "translation": "鱼很新鲜，沙拉也很新鲜。",
           "explain": "frais 的阳性复数与单数同形：词尾已是 -s，不再加 -s。阴性为 fraîche，阴性复数加 -s 成 fraîches，注意 î。",
-          "id": "pub-c03-adjectives-l7-q1"
+          "id": "pub-c03-adjectives-l7-q1",
+          "locales": {
+            "fr": {
+              "explain": "Le masculin pluriel de frais garde la forme du singulier, puisque le mot se termine déjà par -s. Le féminin est fraîche et le féminin pluriel fraîches, avec î."
+            }
+          }
         },
         {
           "type": "choice",
@@ -884,7 +1475,12 @@
           "answer": 1,
           "translation": "风是凉的，饮料也是凉的。",
           "explain": "阳性复数 frais 保持原形；阴性复数 fraîches 加 -s，保留 î。fraîs 的重音位置不对，fraîche 是阴性单数。",
-          "id": "pub-c03-adjectives-l7-q2"
+          "id": "pub-c03-adjectives-l7-q2",
+          "locales": {
+            "fr": {
+              "explain": "Le masculin pluriel frais reste inchangé ; le féminin pluriel fraîches ajoute -s et conserve î. fraîs a un accent mal placé, et fraîche est le féminin singulier."
+            }
+          }
         },
         {
           "type": "choice",
@@ -897,7 +1493,12 @@
           "answer": 2,
           "translation": "外墙是白色的，裙子是长的，馅饼是甜的，糖果也是甜的。",
           "explain": "blanc → blanche → blanches；long → longue → longues；doux → douce → douces。bonbons 是阳性复数，doux 以 -x 结尾，保持 doux。",
-          "id": "pub-c03-adjectives-l7-q3"
+          "id": "pub-c03-adjectives-l7-q3",
+          "locales": {
+            "fr": {
+              "explain": "blanc → blanche → blanches ; long → longue → longues ; doux → douce → douces. bonbons est masculin pluriel : doux se termine par -x et reste doux."
+            }
+          }
         },
         {
           "type": "choice",
@@ -910,7 +1511,12 @@
           "answer": 0,
           "translation": "窗户是白色的，街道是长的，可丽饼是甜的，蛋糕也是甜的。",
           "explain": "fenêtres、rues、crêpes 都是阴性复数，分别用 blanches、longues、douces；gâteaux 是阳性复数，doux 保持原形。",
-          "id": "pub-c03-adjectives-l7-q4"
+          "id": "pub-c03-adjectives-l7-q4",
+          "locales": {
+            "fr": {
+              "explain": "fenêtres, rues et crêpes sont féminins pluriels : blanches, longues, douces ; gâteaux est masculin pluriel, et doux garde sa forme."
+            }
+          }
         },
         {
           "type": "choice",
@@ -923,7 +1529,12 @@
           "answer": 2,
           "translation": "外墙是白色的，学校是公立的，袋子是大的。",
           "explain": "blanc → blanche → blanches；public → publique → publiques（阴性复数，-c → -que）；gros 以 -s 结尾，阳性复数保持 gros。",
-          "id": "pub-c03-adjectives-l7-q5"
+          "id": "pub-c03-adjectives-l7-q5",
+          "locales": {
+            "fr": {
+              "explain": "blanc → blanche → blanches ; public → publique → publiques (féminin pluriel, -c → -que) ; gros se termine par -s et reste gros au masculin pluriel."
+            }
+          }
         },
         {
           "type": "choice",
@@ -936,7 +1547,12 @@
           "answer": 1,
           "translation": "男孩们沉默，女孩们也沉默，袋子是大的。",
           "explain": "muet → muette 双写 t 再加 -e；阴性复数 muettes；阳性复数 muets。sacs 是阳性复数，gros 以 -s 结尾不变。",
-          "id": "pub-c03-adjectives-l7-q6"
+          "id": "pub-c03-adjectives-l7-q6",
+          "locales": {
+            "fr": {
+              "explain": "muet → muette avec double t et -e ; féminin pluriel muettes, masculin pluriel muets. sacs est masculin pluriel, et gros, terminé par -s, reste inchangé."
+            }
+          }
         },
         {
           "type": "choice",
@@ -949,7 +1565,12 @@
           "answer": 1,
           "translation": "孩子们沉默，女孩们也沉默，价格是低的。",
           "explain": "enfants 阳性复数 → muets；filles 阴性复数 → muettes（双写 t）；prix 阳性复数 → bas（-s 结尾不变）。",
-          "id": "pub-c03-adjectives-l7-q7"
+          "id": "pub-c03-adjectives-l7-q7",
+          "locales": {
+            "fr": {
+              "explain": "enfants masculin pluriel → muets ; filles féminin pluriel → muettes (double t) ; prix masculin pluriel → bas (-s final inchangé)."
+            }
+          }
         },
         {
           "type": "choice",
@@ -962,9 +1583,19 @@
           "answer": 2,
           "translation": "工人们很勤劳，女工们也很勤劳，男孩们很幸福，女孩们也很幸福。",
           "explain": "travailleur → travailleuse → travailleuses（-eur → -euse）；heureux → heureuse → heureuses（-eux → -euse）。阳性复数分别 travailleurs、heureux（heureux 以 -x 结尾不变）。",
-          "id": "pub-c03-adjectives-l7-q8"
+          "id": "pub-c03-adjectives-l7-q8",
+          "locales": {
+            "fr": {
+              "explain": "travailleur → travailleuse → travailleuses (-eur → -euse) ; heureux → heureuse → heureuses (-eux → -euse). Les masculins pluriels sont travailleurs et heureux (heureux, en -x, reste inchangé)."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Masculin pluriel invariable et synthèse du pluriel (1)"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-l7-2",
@@ -983,7 +1614,12 @@
           "answer": 2,
           "translation": "女孩们很幸福，男孩们也很幸福。",
           "explain": "-eux → -euse，阴性复数 heureuses；阳性复数 heureux 以 -x 结尾不变。正确语序为主语 + être + 表语；选项中的错误语序不成立。",
-          "id": "pub-c03-adjectives-l7-q9"
+          "id": "pub-c03-adjectives-l7-q9",
+          "locales": {
+            "fr": {
+              "explain": "-eux → -euse, d'où le féminin pluriel heureuses ; le masculin pluriel heureux reste inchangé, car le mot finit par -x. L'ordre correct est sujet + être + attribut ; les autres options ont un ordre fautif."
+            }
+          }
         },
         {
           "type": "choice",
@@ -996,7 +1632,12 @@
           "answer": 0,
           "translation": "演讲是简短的，休息是短暂的，袋子是大的。",
           "explain": "bref → brève（词干变化，重音 è）；阴性复数 brèves；阳性复数 brefs。gros 以 -s 结尾，阳性复数不变。",
-          "id": "pub-c03-adjectives-l7-q10"
+          "id": "pub-c03-adjectives-l7-q10",
+          "locales": {
+            "fr": {
+              "explain": "bref → brève (changement de radical, accent è) ; féminin pluriel brèves, masculin pluriel brefs. gros, en -s, reste gros au masculin pluriel."
+            }
+          }
         },
         {
           "type": "choice",
@@ -1009,7 +1650,12 @@
           "answer": 1,
           "translation": "文本是简短的，回答是错误的，票据是假的。",
           "explain": "textes 阳性复数 → brefs；réponses 阴性复数 → fausses（faux → fausse → fausses）；billets 阳性复数 → faux（以 -x 结尾不变）。",
-          "id": "pub-c03-adjectives-l7-q11"
+          "id": "pub-c03-adjectives-l7-q11",
+          "locales": {
+            "fr": {
+              "explain": "textes masculin pluriel → brefs ; réponses féminin pluriel → fausses (faux → fausse → fausses) ; billets masculin pluriel → faux, invariable en -x."
+            }
+          }
         },
         {
           "type": "choice",
@@ -1022,7 +1668,12 @@
           "answer": 2,
           "translation": "故事是长的，广场是大的，墙是大的，袋子也是大的。",
           "explain": "long → longue → longues；grand → grande → grandes；murs 阳性复数 grands；sacs 阳性复数，gros 以 -s 结尾不变。",
-          "id": "pub-c03-adjectives-l7-q12"
+          "id": "pub-c03-adjectives-l7-q12",
+          "locales": {
+            "fr": {
+              "explain": "long → longue → longues ; grand → grande → grandes ; murs masculin pluriel → grands ; sacs masculin pluriel, gros reste inchangé en -s."
+            }
+          }
         },
         {
           "type": "choice",
@@ -1035,7 +1686,12 @@
           "answer": 1,
           "translation": "女孩们很友善，男孩们也很友善，袜子是柔软的，袋子是大的。",
           "explain": "gentil → gentille → gentilles；gentil → gentils。mou → molle → molles；mou → mous。gros 阳性复数不变。",
-          "id": "pub-c03-adjectives-l7-q13"
+          "id": "pub-c03-adjectives-l7-q13",
+          "locales": {
+            "fr": {
+              "explain": "gentil → gentille → gentilles ; gentil → gentils. mou → molle → molles ; mou → mous. gros reste inchangé au masculin pluriel."
+            }
+          }
         },
         {
           "type": "choice",
@@ -1048,7 +1704,12 @@
           "answer": 0,
           "translation": "公猫们嫉妒，母猫们也嫉妒，盒子是灰白的，回答是错误的。",
           "explain": "jaloux 阳性复数不变；阴性 jalouse → jalouses。gris → grise → grises；faux → fausse → fausses。",
-          "id": "pub-c03-adjectives-l7-q14"
+          "id": "pub-c03-adjectives-l7-q14",
+          "locales": {
+            "fr": {
+              "explain": "jaloux reste inchangé au masculin pluriel ; féminin jalouse → jalouses. gris → grise → grises ; faux → fausse → fausses."
+            }
+          }
         },
         {
           "type": "choice",
@@ -1061,7 +1722,12 @@
           "answer": 1,
           "translation": "袋子是大的，行李箱是大的，糕点甜，蛋糕也甜。",
           "explain": "gros → grosse → grosses（-s → -sse）；doux → douce → douces（-x → -ce）。阳性复数 gros、doux 都以 -s/-x 结尾，保持原形。",
-          "id": "pub-c03-adjectives-l7-q15"
+          "id": "pub-c03-adjectives-l7-q15",
+          "locales": {
+            "fr": {
+              "explain": "gros → grosse → grosses (-s → -sse) ; doux → douce → douces (-x → -ce). Les masculins pluriels gros et doux, en -s/-x, restent inchangés."
+            }
+          }
         },
         {
           "type": "choice",
@@ -1074,9 +1740,19 @@
           "answer": 2,
           "translation": "回答是错误的，票据是假的，价格是低的，孩子们是幸福的。",
           "explain": "faux → fausse → fausses；阳性复数 faux 不变。bas 以 -s 结尾，阳性复数 bas；heureux 以 -x 结尾，阳性复数 heureux。",
-          "id": "pub-c03-adjectives-l7-q16"
+          "id": "pub-c03-adjectives-l7-q16",
+          "locales": {
+            "fr": {
+              "explain": "faux → fausse → fausses ; le masculin pluriel faux reste inchangé. bas, en -s, reste bas au masculin pluriel ; heureux, en -x, reste heureux."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Masculin pluriel invariable et synthèse du pluriel (2)"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-l8",
@@ -1090,7 +1766,12 @@
           "answer": "nationaux",
           "translation": "国家公园。",
           "explain": "national → nationaux：-al 变为 -aux。阴性仍按一般规则：nationale → nationales。注意词尾是 -aux，不是 -als。",
-          "id": "pub-c03-adjectives-l8-q1"
+          "id": "pub-c03-adjectives-l8-q1",
+          "locales": {
+            "fr": {
+              "explain": "national → nationaux : -al devient -aux. Le féminin suit la règle générale : nationale → nationales. Attention à la terminaison -aux, et non -als."
+            }
+          }
         },
         {
           "type": "letters",
@@ -1098,7 +1779,12 @@
           "answer": "nouveaux",
           "translation": "新书。",
           "explain": "nouveau → nouveaux：-eau 变为 -eaux。整套 nouveau/nouvelle/nouveaux/nouvelles 不在本题范围；本题只处理 -eau 的阳性复数词尾。",
-          "id": "pub-c03-adjectives-l8-q2"
+          "id": "pub-c03-adjectives-l8-q2",
+          "locales": {
+            "fr": {
+              "explain": "nouveau → nouveaux : -eau devient -eaux. La série complète nouveau/nouvelle/nouveaux/nouvelles n'est pas demandée ici ; cette question ne porte que sur le masculin pluriel de -eau."
+            }
+          }
         },
         {
           "type": "letters",
@@ -1106,7 +1792,12 @@
           "answer": "généraux",
           "translation": "通识课程。",
           "explain": "général → généraux：-al → -aux，é 的重音保留。阴性 générale → générales，仍按一般规则加 -s。",
-          "id": "pub-c03-adjectives-l8-q3"
+          "id": "pub-c03-adjectives-l8-q3",
+          "locales": {
+            "fr": {
+              "explain": "général → généraux : -al devient -aux et l'accent sur é est conservé. Le féminin générale → générales suit la règle générale du -s."
+            }
+          }
         },
         {
           "type": "choice",
@@ -1119,7 +1810,12 @@
           "answer": 0,
           "translation": "致命的（形容词，阳性复数）。",
           "explain": "fatal 是 -al 的词条例外，阳性复数保留 -als：fatals。fataux 不是该形容词的标准复数；fatales 是阴性复数。",
-          "id": "pub-c03-adjectives-l8-q4"
+          "id": "pub-c03-adjectives-l8-q4",
+          "locales": {
+            "fr": {
+              "explain": "fatal est une exception lexicale de -al : son masculin pluriel garde -als, fatals. fataux n'est pas la forme standard de cet adjectif ; fatales est le féminin pluriel."
+            }
+          }
         },
         {
           "type": "choice",
@@ -1132,7 +1828,12 @@
           "answer": 1,
           "translation": "这些新书很有趣。",
           "explain": "-eau → -eaux：nouveau → nouveaux；livres 是阳性复数。nouveau 是阳性单数，nouvelles 是阴性复数。",
-          "id": "pub-c03-adjectives-l8-q5"
+          "id": "pub-c03-adjectives-l8-q5",
+          "locales": {
+            "fr": {
+              "explain": "-eau → -eaux : nouveau → nouveaux. livres est masculin pluriel ; nouveau est masculin singulier et nouvelles est féminin pluriel."
+            }
+          }
         },
         {
           "type": "choice",
@@ -1145,7 +1846,12 @@
           "answer": 2,
           "translation": "国家公园和决定性的考试（复数）。",
           "explain": "national → nationaux 是规则 -al → -aux；fatal 是词条例外，阳性复数 fatals；fataux 不是标准形容词复数，fatales 是阴性复数。",
-          "id": "pub-c03-adjectives-l8-q6"
+          "id": "pub-c03-adjectives-l8-q6",
+          "locales": {
+            "fr": {
+              "explain": "national → nationaux suit la règle -al → -aux ; fatal est une exception lexicale et fait fatals au masculin pluriel. fataux n'est pas la forme standard de l'adjectif, et fatales est le féminin pluriel."
+            }
+          }
         },
         {
           "type": "tiles",
@@ -1178,9 +1884,19 @@
           ],
           "translation": "国家公园和新的花园很大。",
           "explain": "national → nationaux；nouveau → nouveaux；grand → grands。三个都是阳性复数，分别走 -al → -aux、-eau → -eaux 和一般加 -s；词块库中的阴性或单数形式是干扰项。",
-          "id": "pub-c03-adjectives-l8-q7"
+          "id": "pub-c03-adjectives-l8-q7",
+          "locales": {
+            "fr": {
+              "explain": "national → nationaux ; nouveau → nouveaux ; grand → grands. Les trois sont masculins pluriels et suivent respectivement -al → -aux, -eau → -eaux et l'ajout général de -s ; les formes féminines ou singulières du banc sont des distracteurs."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Pluriels particuliers de -al et -eau"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-l9",
@@ -1194,7 +1910,13 @@
           "prompt": "把 beau 变成阴性单数形式：une ___ maison.",
           "answer": "belle",
           "translation": "一座漂亮的房子。",
-          "explain": "beau 的阴性单数是 belle；阳性复数是 beaux，阴性复数是 belles。"
+          "explain": "beau 的阴性单数是 belle；阳性复数是 beaux，阴性复数是 belles。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez beau au féminin singulier : une ___ maison.",
+              "explain": "Le féminin singulier de beau est belle ; le masculin pluriel est beaux et le féminin pluriel belles."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l9-q2",
@@ -1202,7 +1924,13 @@
           "prompt": "把 beau 变成阳性复数形式：les ___ jardins.",
           "answer": "beaux",
           "translation": "那些漂亮的花园。",
-          "explain": "beau 的阳性复数是 beaux，词尾 -eau 变为 -eaux；阴性复数是 belles。"
+          "explain": "beau 的阳性复数是 beaux，词尾 -eau 变为 -eaux；阴性复数是 belles。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez beau au masculin pluriel : les ___ jardins.",
+              "explain": "Le masculin pluriel de beau est beaux, -eau devient -eaux ; le féminin pluriel est belles."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l9-q3",
@@ -1210,7 +1938,13 @@
           "prompt": "把 nouveau 变成阴性单数形式：une ___ idée.",
           "answer": "nouvelle",
           "translation": "一个新想法。",
-          "explain": "nouveau 的阴性单数是 nouvelle；阳性复数是 nouveaux，阴性复数是 nouvelles。"
+          "explain": "nouveau 的阴性单数是 nouvelle；阳性复数是 nouveaux，阴性复数是 nouvelles。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez nouveau au féminin singulier : une ___ idée.",
+              "explain": "Le féminin singulier de nouveau est nouvelle ; le masculin pluriel est nouveaux et le féminin pluriel nouvelles."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l9-q4",
@@ -1218,7 +1952,13 @@
           "prompt": "把 vieux 变成阴性单数形式：une ___ maison.",
           "answer": "vieille",
           "translation": "一座老房子。",
-          "explain": "vieux 的阴性单数是 vieille，这是词条形式，不要按 -eux→-euse 类推；阴性复数是 vieilles。"
+          "explain": "vieux 的阴性单数是 vieille，这是词条形式，不要按 -eux→-euse 类推；阴性复数是 vieilles。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez vieux au féminin singulier : une ___ maison.",
+              "explain": "Le féminin singulier de vieux est vieille, forme lexicale à ne pas déduire de -eux → -euse ; le féminin pluriel est vieilles."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l9-q5",
@@ -1226,7 +1966,13 @@
           "prompt": "把 vieux 变成阴性复数形式：les ___ maisons.",
           "answer": "vieilles",
           "translation": "那些老房子。",
-          "explain": "vieux 的阴性单数是 vieille，阴性复数再加 -s，得到 vieilles；阳性复数则仍是 vieux。"
+          "explain": "vieux 的阴性单数是 vieille，阴性复数再加 -s，得到 vieilles；阳性复数则仍是 vieux。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez vieux au féminin pluriel : les ___ maisons.",
+              "explain": "Le féminin singulier de vieux est vieille ; le féminin pluriel ajoute -s et donne vieilles. Le masculin pluriel reste vieux."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l9-q6",
@@ -1234,7 +1980,13 @@
           "prompt": "把 beau 变成用于元音开头阳性单数名词前的形式：___ arbre.",
           "answer": "bel",
           "translation": "一棵美丽的树。",
-          "explain": "beau 在阳性单数且后接元音开头的 arbre 前用 bel；belle 是阴性，beaux 是阳性复数。"
+          "explain": "beau 在阳性单数且后接元音开头的 arbre 前用 bel；belle 是阴性，beaux 是阳性复数。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez beau dans la forme employée devant un nom masculin singulier commençant par une voyelle : ___ arbre.",
+              "explain": "Devant le masculin singulier arbre, qui commence par une voyelle, beau prend la forme bel ; belle est féminin et beaux est masculin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l9-q7",
@@ -1242,7 +1994,13 @@
           "prompt": "把 nouveau 变成用于元音开头阳性单数名词前的形式：___ appartement.",
           "answer": "nouvel",
           "translation": "一套新公寓。",
-          "explain": "nouveau 在阳性单数且后接元音开头的 appartement 前用 nouvel；nouvelle 是阴性，nouveaux 是阳性复数。"
+          "explain": "nouveau 在阳性单数且后接元音开头的 appartement 前用 nouvel；nouvelle 是阴性，nouveaux 是阳性复数。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez nouveau dans la forme employée devant un nom masculin singulier commençant par une voyelle : ___ appartement.",
+              "explain": "Devant le masculin singulier appartement, qui commence par une voyelle, nouveau prend la forme nouvel ; nouvelle est féminin et nouveaux est masculin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l9-q8",
@@ -1250,7 +2008,13 @@
           "prompt": "把 vieux 变成用于元音开头阳性单数名词前的形式：___ ami.",
           "answer": "vieil",
           "translation": "一位老朋友。",
-          "explain": "vieux 在阳性单数且后接元音开头的 ami 前用 vieil；vieille 是阴性，vieux 也可作阳性复数。"
+          "explain": "vieux 在阳性单数且后接元音开头的 ami 前用 vieil；vieille 是阴性，vieux 也可作阳性复数。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez vieux dans la forme employée devant un nom masculin singulier commençant par une voyelle : ___ ami.",
+              "explain": "Devant le masculin singulier ami, qui commence par une voyelle, vieux prend la forme vieil ; vieille est féminin et vieux peut être masculin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l9-q9",
@@ -1258,7 +2022,13 @@
           "prompt": "把 vieux 变成阳性复数形式：les ___ amis.",
           "answer": "vieux",
           "translation": "那些老朋友。",
-          "explain": "vieux 以 -x 结尾，阳性复数保持 vieux 不变；阴性复数是 vieilles。"
+          "explain": "vieux 以 -x 结尾，阳性复数保持 vieux 不变；阴性复数是 vieilles。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez vieux au masculin pluriel : les ___ amis.",
+              "explain": "vieux se termine par -x et reste vieux au masculin pluriel ; le féminin pluriel est vieilles."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l9-q10",
@@ -1272,9 +2042,19 @@
           ],
           "answer": 0,
           "translation": "这两个漂亮又可爱的年轻女孩有几条灰色的小船和幸福的回忆。",
-          "explain": "jeunes filles 是阴性复数→belles、gentilles；barques 是阴性复数→grises；souvenirs 是阳性复数，heureux 以 -x 结尾，阳性复数不变。"
+          "explain": "jeunes filles 是阴性复数→belles、gentilles；barques 是阴性复数→grises；souvenirs 是阳性复数，heureux 以 -x 结尾，阳性复数不变。",
+          "locales": {
+            "fr": {
+              "explain": "jeunes filles est féminin pluriel → belles, gentilles ; barques est féminin pluriel → grises ; souvenirs est masculin pluriel et heureux, en -x, reste heureux."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Formes complètes de beau, nouveau, vieux et variantes devant voyelle ou h muet"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-l10",
@@ -1294,7 +2074,12 @@
           ],
           "answer": 0,
           "translation": "一辆红色的汽车。",
-          "explain": "rouge 直接修饰名词 voiture，属于限定用法；它没有通过系词与主语连接，所以不是表语。"
+          "explain": "rouge 直接修饰名词 voiture，属于限定用法；它没有通过系词与主语连接，所以不是表语。",
+          "locales": {
+            "fr": {
+              "explain": "rouge qualifie directement le nom voiture : fonction épithète. Il n'est pas relié au sujet par un verbe d'état, donc il n'est pas attribut."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l10-q2",
@@ -1308,7 +2093,12 @@
           ],
           "answer": 1,
           "translation": "这辆汽车是红色的。",
-          "explain": "rouge 通过系词 est 与主语 cette voiture 连接，说明主语的性质，属于表语用法；配合对象仍是 voiture。"
+          "explain": "rouge 通过系词 est 与主语 cette voiture 连接，说明主语的性质，属于表语用法；配合对象仍是 voiture。",
+          "locales": {
+            "fr": {
+              "explain": "rouge est relié au sujet cette voiture par le verbe d'état est et décrit une propriété du sujet : fonction attribut. Le contrôleur de l'accord reste voiture."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l10-q3",
@@ -1322,7 +2112,12 @@
           ],
           "answer": 2,
           "translation": "哪些形容词倾向于放在名词后？",
-          "explain": "颜色、国籍、形状、宗教类以及分词性形容词多后置；短小常用的 petit、grand、beau 等多前置，但都只是倾向。"
+          "explain": "颜色、国籍、形状、宗教类以及分词性形容词多后置；短小常用的 petit、grand、beau 等多前置，但都只是倾向。",
+          "locales": {
+            "fr": {
+              "explain": "Les adjectifs de couleur, de nationalité, de forme, de religion et les adjectifs participiaux se placent souvent après le nom ; les adjectifs courts et fréquents comme petit, grand, beau se placent souvent avant, mais ce ne sont que des tendances."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l10-q4",
@@ -1336,7 +2131,12 @@
           ],
           "answer": 3,
           "translation": "在 « une décision importante » 中，为什么 importante 放在名词后？",
-          "explain": "较长或语义具体的形容词常后置；这不是绝对规则，也不由名词的阴性决定。"
+          "explain": "较长或语义具体的形容词常后置；这不是绝对规则，也不由名词的阴性决定。",
+          "locales": {
+            "fr": {
+              "explain": "Un adjectif long ou de sens spécifique suit souvent le nom ; ce n'est pas une règle absolue, et ce n'est pas le genre féminin du nom décision qui décide."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l10-q5",
@@ -1350,7 +2150,12 @@
           ],
           "answer": 0,
           "translation": "哪一种说法符合实际用法？",
-          "explain": "位置受语义、长度、常用度和语体影响，是倾向而非无例外规则；不能把短形容词或颜色一律固定在前或后。"
+          "explain": "位置受语义、长度、常用度和语体影响，是倾向而非无例外规则；不能把短形容词或颜色一律固定在前或后。",
+          "locales": {
+            "fr": {
+              "explain": "La place dépend du sens, de la longueur, de la fréquence et du registre : c'est une tendance, non une règle sans exception. On ne peut pas fixer systématiquement les adjectifs courts ou les couleurs avant ou après le nom."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l10-q6",
@@ -1364,7 +2169,12 @@
           ],
           "answer": 1,
           "translation": "哪一句含有表语形容词？",
-          "explain": "rapide 通过系词 est 说明主语 le train，是表语；其余句子中形容词直接限定名词，或根本不是形容词。"
+          "explain": "rapide 通过系词 est 说明主语 le train，是表语；其余句子中形容词直接限定名词，或根本不是形容词。",
+          "locales": {
+            "fr": {
+              "explain": "rapide est relié au sujet le train par le verbe d'état est : c'est un attribut. Dans les autres phrases, l'adjectif qualifie directement le nom, ou n'est pas un adjectif."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l10-q7",
@@ -1378,9 +2188,19 @@
           ],
           "answer": 2,
           "translation": "哪一句含有定语形容词？",
-          "explain": "petite 和 rouge 直接限定名词 maison，是限定用法；其余句子中的形容词都通过 est 作表语。"
+          "explain": "petite 和 rouge 直接限定名词 maison，是限定用法；其余句子中的形容词都通过 est 作表语。",
+          "locales": {
+            "fr": {
+              "explain": "petite et rouge qualifient directement le nom maison : fonction épithète. Dans les autres phrases, les adjectifs sont attributs après est."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Tendance de place, fonction épithète et attribut"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-l11",
@@ -1400,7 +2220,12 @@
           ],
           "answer": 1,
           "translation": "我在花园里看见几只小猫。",
-          "explain": "复数不定冠词 des 后紧接前置形容词 petits，规范书面语用 de；形容词仍按复数配合，写成 petits。"
+          "explain": "复数不定冠词 des 后紧接前置形容词 petits，规范书面语用 de；形容词仍按复数配合，写成 petits。",
+          "locales": {
+            "fr": {
+              "explain": "L'article indéfini pluriel des est immédiatement suivi de l'adjectif antéposé petits : le français écrit soigné emploie de. L'adjectif reste au pluriel : petits."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l11-q2",
@@ -1414,7 +2239,12 @@
           ],
           "answer": 2,
           "translation": "一些老朋友明天到。",
-          "explain": "des 后紧接前置形容词 anciens，改为 de；de 遇元音开头的 anciens 省音为 d'，anciens 保持阳性复数。"
+          "explain": "des 后紧接前置形容词 anciens，改为 de；de 遇元音开头的 anciens 省音为 d'，anciens 保持阳性复数。",
+          "locales": {
+            "fr": {
+              "explain": "des est immédiatement suivi de l'adjectif antéposé anciens : on le remplace par de ; devant la voyelle initiale d'anciens, de s'élide en d', et anciens reste masculin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l11-q3",
@@ -1443,7 +2273,12 @@
             "jardin"
           ],
           "translation": "一些美丽的大花园。",
-          "explain": "jardin 变为阳性复数 jardins；前置形容词 beaux、grands 按阳性复数配合，des 改为 de。"
+          "explain": "jardin 变为阳性复数 jardins；前置形容词 beaux、grands 按阳性复数配合，des 改为 de。",
+          "locales": {
+            "fr": {
+              "explain": "jardin devient masculin pluriel jardins ; les adjectifs antéposés beaux et grands s'accordent au masculin pluriel, et des devient de."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l11-q4",
@@ -1472,7 +2307,12 @@
             "film"
           ],
           "translation": "一些新的好电影。",
-          "explain": "film 变为阳性复数 films；nouveau→nouveaux（-eau→-eaux），bon→bons；前置形容词使 des 改为 de。"
+          "explain": "film 变为阳性复数 films；nouveau→nouveaux（-eau→-eaux），bon→bons；前置形容词使 des 改为 de。",
+          "locales": {
+            "fr": {
+              "explain": "film devient masculin pluriel films ; nouveau → nouveaux (-eau → -eaux), bon → bons ; l'adjectif antéposé fait passer des à de."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l11-q5",
@@ -1500,7 +2340,12 @@
             "chat"
           ],
           "translation": "一些又大又友善的猫。",
-          "explain": "gros 以 -s 结尾，阳性复数保持 gros；gentil→gentils 加 -s；前置形容词使 des 改为 de。"
+          "explain": "gros 以 -s 结尾，阳性复数保持 gros；gentil→gentils 加 -s；前置形容词使 des 改为 de。",
+          "locales": {
+            "fr": {
+              "explain": "gros se termine par -s et reste gros au masculin pluriel ; gentil → gentils avec -s ; l'adjectif antéposé fait passer des à de."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l11-q6",
@@ -1528,7 +2373,12 @@
             "monsieur"
           ],
           "translation": "一些年老又友善的先生。",
-          "explain": "vieux 以 -x 结尾，阳性复数保持 vieux；gentil→gentils；monsieur→messieurs；前置形容词使 des 改为 de。"
+          "explain": "vieux 以 -x 结尾，阳性复数保持 vieux；gentil→gentils；monsieur→messieurs；前置形容词使 des 改为 de。",
+          "locales": {
+            "fr": {
+              "explain": "vieux se termine par -x et reste vieux au masculin pluriel ; gentil → gentils ; monsieur → messieurs ; l'adjectif antéposé fait passer des à de."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l11-q7",
@@ -1550,7 +2400,12 @@
             "maison"
           ],
           "translation": "一些小房子。",
-          "explain": "maison 变为阴性复数 maisons；petite 变为 petites；前置形容词 petites 紧接 des，规范书面语改为 de。"
+          "explain": "maison 变为阴性复数 maisons；petite 变为 petites；前置形容词 petites 紧接 des，规范书面语改为 de。",
+          "locales": {
+            "fr": {
+              "explain": "maison devient féminin pluriel maisons ; petite devient petites ; l'adjectif antéposé petites est immédiatement après des, que le français écrit soigné remplace par de."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l11-q8",
@@ -1572,7 +2427,12 @@
             "idée"
           ],
           "translation": "一些新想法。",
-          "explain": "idée 变为阴性复数 idées；nouvelle 变为 nouvelles；前置形容词 nouvelles 使 des 改为 de。"
+          "explain": "idée 变为阴性复数 idées；nouvelle 变为 nouvelles；前置形容词 nouvelles 使 des 改为 de。",
+          "locales": {
+            "fr": {
+              "explain": "idée devient féminin pluriel idées ; nouvelle devient nouvelles ; l'adjectif antéposé nouvelles fait passer des à de."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l11-q9",
@@ -1603,9 +2463,19 @@
             "noire"
           ],
           "translation": "一些小猫和一些黑猫。",
-          "explain": "第一组 petits 是前置形容词，des 改为 de；第二组 noirs 后置，保留 des。两组都按阳性复数配合。"
+          "explain": "第一组 petits 是前置形容词，des 改为 de；第二组 noirs 后置，保留 des。两组都按阳性复数配合。",
+          "locales": {
+            "fr": {
+              "explain": "Dans le premier groupe, petits est antéposé : des devient de. Dans le second, noirs est postposé : des est conservé. Les deux groupes s'accordent au masculin pluriel."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Adjectif antéposé et des devenant de"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-l12",
@@ -1625,7 +2495,12 @@
           ],
           "answer": 0,
           "translation": "一位伟人。",
-          "explain": "grand 前置时常见“伟大、重要”的含义；un homme grand 才通常指身材高大。"
+          "explain": "grand 前置时常见“伟大、重要”的含义；un homme grand 才通常指身材高大。",
+          "locales": {
+            "fr": {
+              "explain": "grand antéposé a souvent le sens de « remarquable, important » ; un homme grand désigne généralement un homme de grande taille."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l12-q2",
@@ -1639,7 +2514,12 @@
           ],
           "answer": 2,
           "translation": "一位身材高大的男人。",
-          "explain": "grand 后置时通常指身体尺寸，un homme grand 是身材高大的男人；un grand homme 才常指伟人。"
+          "explain": "grand 后置时通常指身体尺寸，un homme grand 是身材高大的男人；un grand homme 才常指伟人。",
+          "locales": {
+            "fr": {
+              "explain": "grand postposé désigne généralement la taille physique : un homme grand est un homme de grande taille ; un grand homme désigne souvent un homme remarquable."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l12-q3",
@@ -1653,7 +2533,12 @@
           ],
           "answer": 1,
           "translation": "哪一组意义对应正确？",
-          "explain": "ancien 前置常指“前任”；后置 professeur ancien 指年老的教师，较少见。意义由词条和语境决定，不能机械套。"
+          "explain": "ancien 前置常指“前任”；后置 professeur ancien 指年老的教师，较少见。意义由词条和语境决定，不能机械套。",
+          "locales": {
+            "fr": {
+              "explain": "ancien antéposé signifie souvent « qui n'exerce plus » ; professeur ancien, postposé, désigne un professeur âgé, plus rare. Le sens dépend du mot et du contexte, sans application mécanique."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l12-q4",
@@ -1667,7 +2552,12 @@
           ],
           "answer": 3,
           "translation": "一位善良正直的人。",
-          "explain": "brave 前置时多指善良、正直；un homme brave 才通常指勇敢的人。"
+          "explain": "brave 前置时多指善良、正直；un homme brave 才通常指勇敢的人。",
+          "locales": {
+            "fr": {
+              "explain": "brave antéposé signifie souvent « bon, honnête » ; un homme brave, avec brave postposé, désigne généralement un homme courageux."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-l12-q5",
@@ -1681,9 +2571,19 @@
           ],
           "answer": 0,
           "translation": "一位贫穷的人。",
-          "explain": "pauvre 后置时多指经济贫困；un pauvre homme 常带同情，指可怜的人。位置和固定搭配共同决定词义。"
+          "explain": "pauvre 后置时多指经济贫困；un pauvre homme 常带同情，指可怜的人。位置和固定搭配共同决定词义。",
+          "locales": {
+            "fr": {
+              "explain": "pauvre postposé désigne souvent la pauvreté économique ; un pauvre homme, avec pauvre antéposé, exprime souvent la pitié et signifie « un homme digne de compassion ». La place et la collocation décident ensemble du sens."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "La place change le sens : reconnaissance et contexte"
+        }
+      }
     }
   ],
   "challenges": [
@@ -1699,7 +2599,13 @@
           "prompt": "把 heureux 变成阴性复数形式：des histoires ___.",
           "answer": "heureuses",
           "translation": "一些幸福的故事。",
-          "explain": "heureux→heureuse（-eux→-euse），阴性复数再加 -s，得到 heureuses；histoires 是阴性复数。"
+          "explain": "heureux→heureuse（-eux→-euse），阴性复数再加 -s，得到 heureuses；histoires 是阴性复数。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez heureux au féminin pluriel : des histoires ___.",
+              "explain": "heureux → heureuse (-eux → -euse), puis le féminin pluriel ajoute -s : heureuses ; histoires est féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x1-q2",
@@ -1707,7 +2613,13 @@
           "prompt": "把 doux 变成阴性复数形式：des voix ___.",
           "answer": "douces",
           "translation": "一些温柔的声音。",
-          "explain": "doux→douce（-x→-ce），阴性复数再加 -s，得到 douces；voix 是阴性复数。"
+          "explain": "doux→douce（-x→-ce），阴性复数再加 -s，得到 douces；voix 是阴性复数。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez doux au féminin pluriel : des voix ___.",
+              "explain": "doux → douce (-x → -ce), puis le féminin pluriel ajoute -s : douces ; voix est féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x1-q3",
@@ -1715,7 +2627,13 @@
           "prompt": "把 gentil 变成阴性复数形式：des paroles ___.",
           "answer": "gentilles",
           "translation": "一些友善的话语。",
-          "explain": "gentil→gentille（-l 双写加 -e），阴性复数再加 -s，得到 gentilles；paroles 是阴性复数。"
+          "explain": "gentil→gentille（-l 双写加 -e），阴性复数再加 -s，得到 gentilles；paroles 是阴性复数。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez gentil au féminin pluriel : des paroles ___.",
+              "explain": "gentil → gentille (double l et -e), puis le féminin pluriel ajoute -s : gentilles ; paroles est féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x1-q4",
@@ -1726,7 +2644,13 @@
             "î"
           ],
           "translation": "一些新鲜的叶子。",
-          "explain": "frais→fraîche（-ais→-aîche，保留 î），阴性复数再加 -s，得到 fraîches；feuilles 是阴性复数。"
+          "explain": "frais→fraîche（-ais→-aîche，保留 î），阴性复数再加 -s，得到 fraîches；feuilles 是阴性复数。",
+          "locales": {
+            "fr": {
+              "prompt": "Mettez frais au féminin pluriel : des feuilles ___.",
+              "explain": "frais → fraîche (-ais → -aîche, avec î), puis le féminin pluriel ajoute -s : fraîches ; feuilles est féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x1-q5",
@@ -1740,7 +2664,12 @@
           ],
           "answer": 0,
           "translation": "这些美丽的故事有着幸福的结局。",
-          "explain": "histoires 是阴性复数→belles；fins 是阴性复数→heureuses（heureux→heureuse→heureuses）。"
+          "explain": "histoires 是阴性复数→belles；fins 是阴性复数→heureuses（heureux→heureuse→heureuses）。",
+          "locales": {
+            "fr": {
+              "explain": "histoires est féminin pluriel → belles ; fins est féminin pluriel → heureuses (heureux → heureuse → heureuses)."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x1-q6",
@@ -1754,7 +2683,12 @@
           ],
           "answer": 2,
           "translation": "那些老妇人戴着白帽子。",
-          "explain": "dames 是阴性复数→vieilles；chapeaux 是阳性复数→blancs（blanc→blanche 只用于阴性，阳性复数加 -s）。"
+          "explain": "dames 是阴性复数→vieilles；chapeaux 是阳性复数→blancs（blanc→blanche 只用于阴性，阳性复数加 -s）。",
+          "locales": {
+            "fr": {
+              "explain": "dames est féminin pluriel → vieilles ; chapeaux est masculin pluriel → blancs (blanc → blanche ne vaut que pour le féminin ; le masculin pluriel ajoute -s)."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x1-q7",
@@ -1768,7 +2702,12 @@
           ],
           "answer": 1,
           "translation": "我们有两位新朋友（女性）和三位忠诚的朋友（男性）。",
-          "explain": "amies 是阴性复数→nouvelles；amis 是阳性复数→fidèles（fidèle 阳性已以 -e 结尾，不再加 -e，只加 -s）。"
+          "explain": "amies 是阴性复数→nouvelles；amis 是阳性复数→fidèles（fidèle 阳性已以 -e 结尾，不再加 -e，只加 -s）。",
+          "locales": {
+            "fr": {
+              "explain": "amies est féminin pluriel → nouvelles ; amis est masculin pluriel → fidèles (fidèle se termine déjà par -e au masculin, on n'ajoute pas de -e et on met seulement -s)."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x1-q8",
@@ -1793,7 +2732,12 @@
             "gentil"
           ],
           "translation": "一些幸福又友善的女学生。",
-          "explain": "élève 的阴阳性同形，复数加 -s；heureux→heureuse→heureuses；gentil→gentille→gentilles。形容词后置，des 不变。"
+          "explain": "élève 的阴阳性同形，复数加 -s；heureux→heureuse→heureuses；gentil→gentille→gentilles。形容词后置，des 不变。",
+          "locales": {
+            "fr": {
+              "explain": "Le genre d'élève est marqué par l'article ; le pluriel ajoute -s. heureux → heureuse → heureuses ; gentil → gentille → gentilles. Les adjectifs sont postposés, donc des reste des."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x1-q9",
@@ -1818,7 +2762,12 @@
             "gentil"
           ],
           "translation": "一些温柔又友善的男孩。",
-          "explain": "garçon→garçons；doux 以 -x 结尾，阳性复数保持 doux；gentil→gentils 加 -s。形容词后置，des 不变。"
+          "explain": "garçon→garçons；doux 以 -x 结尾，阳性复数保持 doux；gentil→gentils 加 -s。形容词后置，des 不变。",
+          "locales": {
+            "fr": {
+              "explain": "garçon → garçons ; doux se termine par -x et reste doux au masculin pluriel ; gentil → gentils avec -s. Comme les adjectifs sont postposés, l'article indéfini pluriel reste des ; il ne devient pas de, contrairement au cas d'un adjectif antéposé."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x1-q10",
@@ -1848,9 +2797,19 @@
             "revue"
           ],
           "translation": "那些旧书和旧杂志。",
-          "explain": "le/la 变 les；vieux 阳性复数保持 vieux；vieille 阴性复数加 -s 成 vieilles；livre→livres，revue→revues。"
+          "explain": "le/la 变 les；vieux 阳性复数保持 vieux；vieille 阴性复数加 -s 成 vieilles；livre→livres，revue→revues。",
+          "locales": {
+            "fr": {
+              "explain": "le/la deviennent les ; vieux reste vieux au masculin pluriel ; vieille devient vieilles au féminin pluriel ; livre → livres et revue → revues."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse : formes du féminin, pluriel régulier et terminaisons invariables"
+        }
+      }
     },
     {
       "id": "pub-c03-adjectives-x2",
@@ -1886,7 +2845,12 @@
             "grise"
           ],
           "translation": "一些旧书和一些灰色的连衣裙。",
-          "explain": "第一组 vieux 是前置形容词，des 改为 de，且 vieux 阳性复数不变；第二组 grises 后置，保留 des，并按阴性复数加 -s。"
+          "explain": "第一组 vieux 是前置形容词，des 改为 de，且 vieux 阳性复数不变；第二组 grises 后置，保留 des，并按阴性复数加 -s。",
+          "locales": {
+            "fr": {
+              "explain": "Dans le premier groupe, vieux est antéposé : des devient de, et vieux reste inchangé au masculin pluriel. Dans le second, grises est postposé : des est conservé, et l'adjectif prend -s au féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x2-q2",
@@ -1900,7 +2864,12 @@
           ],
           "answer": 3,
           "translation": "我读一些旧书。",
-          "explain": "vieux 是前置形容词，复数不定冠词 des 改为 de；vieux 阳性复数不变，livres 加 -s，得到 de vieux livres。"
+          "explain": "vieux 是前置形容词，复数不定冠词 des 改为 de；vieux 阳性复数不变，livres 加 -s，得到 de vieux livres。",
+          "locales": {
+            "fr": {
+              "explain": "vieux est antéposé : l'article indéfini pluriel des devient de. vieux reste inchangé au masculin pluriel et livres prend -s, d'où de vieux livres."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x2-q3",
@@ -1928,7 +2897,12 @@
             "triste"
           ],
           "translation": "一些美丽的故事和一些悲伤的故事。",
-          "explain": "第一组 belles 前置，des 改为 de；第二组 tristes 后置，保留 des；两组都是阴性复数。"
+          "explain": "第一组 belles 前置，des 改为 de；第二组 tristes 后置，保留 des；两组都是阴性复数。",
+          "locales": {
+            "fr": {
+              "explain": "Dans le premier groupe, belles est antéposé : des devient de. Dans le second, tristes est postposé : des est conservé. Les deux groupes sont au féminin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x2-q4",
@@ -1942,7 +2916,12 @@
           ],
           "answer": 2,
           "translation": "一些老同事明天到。",
-          "explain": "anciens 是前置形容词，des 改为 de；de 遇元音开头省音为 d'，anciens 保持阳性复数。"
+          "explain": "anciens 是前置形容词，des 改为 de；de 遇元音开头省音为 d'，anciens 保持阳性复数。",
+          "locales": {
+            "fr": {
+              "explain": "anciens est antéposé : des devient de ; devant la voyelle initiale d'anciens, de s'élide en d', et anciens reste masculin pluriel."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x2-q5",
@@ -1956,7 +2935,12 @@
           ],
           "answer": 1,
           "translation": "哪一类形容词倾向于放在名词后？",
-          "explain": "颜色、国籍、形状、宗教类以及分词性形容词多后置；短小常用形容词多前置，但都只是倾向。"
+          "explain": "颜色、国籍、形状、宗教类以及分词性形容词多后置；短小常用形容词多前置，但都只是倾向。",
+          "locales": {
+            "fr": {
+              "explain": "Les adjectifs de couleur, de nationalité, de forme, de religion et les adjectifs participiaux se placent souvent après le nom ; les adjectifs courts et fréquents se placent souvent avant, mais ce ne sont que des tendances."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x2-q6",
@@ -1970,7 +2954,12 @@
           ],
           "answer": 0,
           "translation": "在 « une décision importante » 中，为什么形容词放在名词后？",
-          "explain": "较长或语义具体的形容词常后置；这不是绝对规则，也不由名词的阴性决定。"
+          "explain": "较长或语义具体的形容词常后置；这不是绝对规则，也不由名词的阴性决定。",
+          "locales": {
+            "fr": {
+              "explain": "Un adjectif long ou de sens spécifique suit souvent le nom ; ce n'est pas une règle absolue, et ce n'est pas le genre féminin du nom qui l'impose."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x2-q7",
@@ -1984,7 +2973,12 @@
           ],
           "answer": 2,
           "translation": "哪一种说法正确？",
-          "explain": "位置是受语义、长度和用法影响的倾向，不是绝对规则；短形容词和国籍词都不能一概而论。"
+          "explain": "位置是受语义、长度和用法影响的倾向，不是绝对规则；短形容词和国籍词都不能一概而论。",
+          "locales": {
+            "fr": {
+              "explain": "La place est une tendance liée au sens, à la longueur et à l'usage, non une règle absolue ; on ne peut pas généraliser pour les adjectifs courts ni pour les nationalités."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x2-q8",
@@ -1998,7 +2992,12 @@
           ],
           "answer": 3,
           "translation": "一位伟人。",
-          "explain": "grand 前置时常见“伟大、重要”的含义；un homme grand 才通常指身材高大。"
+          "explain": "grand 前置时常见“伟大、重要”的含义；un homme grand 才通常指身材高大。",
+          "locales": {
+            "fr": {
+              "explain": "grand antéposé a souvent le sens de « remarquable, important » ; un homme grand désigne généralement un homme de grande taille."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x2-q9",
@@ -2012,7 +3011,12 @@
           ],
           "answer": 0,
           "translation": "一位前任教师。",
-          "explain": "ancien 前置常指“前任”；un professeur ancien 才指年老的教师，较少见。"
+          "explain": "ancien 前置常指“前任”；un professeur ancien 才指年老的教师，较少见。",
+          "locales": {
+            "fr": {
+              "explain": "ancien antéposé signifie souvent « qui n'enseigne plus ou a changé de métier » ; un professeur ancien, postposé, désigne un professeur âgé, plus rare."
+            }
+          }
         },
         {
           "id": "pub-c03-adjectives-x2-q10",
@@ -2026,9 +3030,29 @@
           ],
           "answer": 1,
           "translation": "哪一组意义对应正确？",
-          "explain": "brave 前置多指善良、正直；后置 un homme brave 才通常指勇敢的人。"
+          "explain": "brave 前置多指善良、正直；后置 un homme brave 才通常指勇敢的人。",
+          "locales": {
+            "fr": {
+              "explain": "brave antéposé signifie souvent « bon, honnête » ; brave postposé dans un homme brave signifie généralement « courageux »."
+            }
+          }
         }
-      ]
+      ],
+      "locales": {
+        "fr": {
+          "title": "Synthèse : place, des devenant de et sens"
+        }
+      }
     }
-  ]
+  ],
+  "locales": {
+    "fr": {
+      "sectionTitles": {
+        "s1": "Contrôle de l'accord et féminin régulier",
+        "s2": "Terminaisons féminines particulières et genre lexical",
+        "s3": "Règles du pluriel et pluriels particuliers",
+        "s4": "Place, des devenant de et sens"
+      }
+    }
+  }
 }
